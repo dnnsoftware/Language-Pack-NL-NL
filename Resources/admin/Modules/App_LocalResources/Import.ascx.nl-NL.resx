@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdImport.Text">
+    <value xml:space="preserve">Importeren</value>
+  </data>
+  <data name="ControlTitle_importmodule.Text">
+    <value xml:space="preserve">Importeer Module</value>
+  </data>
+  <data name="Error.Text" lastModified="2015-12-30 09:06:55">
+    <value xml:space="preserve">Er is een fout opgetreden tijdens het importeren.</value>
+  </data>
+  <data name="ImportFile.Text">
+    <value xml:space="preserve">Bestand importeren</value>
+  </data>
+  <data name="ImportNotSupported.Text">
+    <value xml:space="preserve">De geselecteerde module biedt geen ondersteuning voor importeren van inhoud</value>
+  </data>
+  <data name="ModuleContent.Text">
+    <value xml:space="preserve">Module inhoud</value>
+  </data>
+  <data name="ModuleHelp.Text" lastModified="2015-12-30 08:06:28">
+    <value xml:space="preserve">&lt;h1&gt;Import Module&lt;/h1&gt;&lt;p&gt;Importeer reeds geexporteerde content in de gespecificeerde module.&lt;/p&gt;</value>
+  </data>
+  <data name="NotCorrectType.Text" lastModified="2015-12-30 09:06:55">
+    <value xml:space="preserve">De module-inhoud is niet het juiste type voor deze module.</value>
+  </data>
+  <data name="NotValidXml.Text" lastModified="2015-12-30 09:06:55">
+    <value xml:space="preserve">De module-inhoud beschikt niet over een geldig XML-structuur.</value>
+  </data>
+  <data name="plFile.Help">
+    <value xml:space="preserve">Selecteer het import bestand</value>
+  </data>
+  <data name="plFile.Text">
+    <value xml:space="preserve">Bestand</value>
+  </data>
+  <data name="plFolder.Help">
+    <value xml:space="preserve">Selecteer de import map</value>
+  </data>
+  <data name="plFolder.Text">
+    <value xml:space="preserve">Map</value>
+  </data>
+  <data name="Root.Text">
+    <value xml:space="preserve">Beginmap</value>
+  </data>
+</root>

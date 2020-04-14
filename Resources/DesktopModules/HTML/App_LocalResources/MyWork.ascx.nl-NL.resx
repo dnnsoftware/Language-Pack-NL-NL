@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;p&gt;
+        Met de HTML module kan zowel platte- als HTML tekst beheerd worden:
+    &lt;/p&gt;
+    &lt;ol&gt;
+        &lt;li&gt;&lt;strong&gt;Basic Text Box / tekst &lt;/strong&gt;: Geeft platte tekst en HTML-tags weer.
+            Tekst die op een nieuwe regel wordt weergegeven als een regeleinde. De tekst stijl
+            is de stijl, zoals vastgelegd in de style sheet.
+            &lt;li&gt;&lt;strong&gt;Basic Text Box / HTML &lt;/strong&gt;: Geeft platte tekst in html formaat weer.&lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Basic Text Box / Raw &lt;/strong&gt;: Geeft platte tekst in HTML-formaat. Tekst
+                op een nieuwe regel wordt niet weergegeven als een regeleinde.&lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Rich Text Editor / HTML &lt;/strong&gt;: Hiermee kunt u HTML plakken uit andere
+                bronnen.&lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;Rich Text Editor / Design &lt;/strong&gt;: Een volledige tekstverwerker ofwel
+                een WYSIWYG (What You See is What You Get) editor met functies zoals hyperlinks,
+                e-mail links, File Manager fotogalerij, bullet points, spellingscontrole en nog
+                veel meer.&lt;/li&gt;</value>
+  </data>
+  <data name="ControlTitle_mywork.Text">
+    <value xml:space="preserve">Mijn Werk</value>
+  </data>
+  <data name="lblMessage.Text">
+    <value xml:space="preserve">De volgende content moet worden beoordeeld voordat deze kan worden gepubliceerd:</value>
+  </data>
+  <data name="lblNoRecords.Text">
+    <value xml:space="preserve">Uw heeft geen HTML content gessocieerd met uw account. </value>
+  </data>
+  <data name="Page.Header">
+    <value xml:space="preserve">Pagina</value>
+  </data>
+</root>

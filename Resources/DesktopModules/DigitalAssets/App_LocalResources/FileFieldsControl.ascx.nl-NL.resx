@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="FileAttrbutesLabel.Help">
+    <value xml:space="preserve">Bewerk bestand attributen</value>
+  </data>
+  <data name="FileAttributeArchive.Text">
+    <value xml:space="preserve">Archiveren</value>
+  </data>
+  <data name="FileAttributeHidden.Text">
+    <value xml:space="preserve">Verborgen</value>
+  </data>
+  <data name="FileAttributeReadonly.Text">
+    <value xml:space="preserve">Alleen-lezen</value>
+  </data>
+  <data name="FileAttributesLabel.Text">
+    <value xml:space="preserve">Attributen</value>
+  </data>
+  <data name="FileAttributeSystem.Text">
+    <value xml:space="preserve">Systeem</value>
+  </data>
+  <data name="FileNameLabel.Help">
+    <value xml:space="preserve">Bewerk de huidige bestandsnaam</value>
+  </data>
+  <data name="FileNameLabel.Text">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="FileNameRequired.ErrorMessage">
+    <value xml:space="preserve">Bestandsnaam is vereist</value>
+  </data>
+</root>

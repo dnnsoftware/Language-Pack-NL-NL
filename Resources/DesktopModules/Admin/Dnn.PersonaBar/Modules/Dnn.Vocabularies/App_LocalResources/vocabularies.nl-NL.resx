@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddTerm.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Toevoegen term</value>
+  </data>
+  <data name="Application.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Applicatie</value>
+  </data>
+  <data name="cancelCreate.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Annuleren</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Weet u zeker dat u een woordenboek wilt toevoegen?</value>
+  </data>
+  <data name="ConfirmDeletion_Term.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Weet u zeker dat u de term {0} wilt verwijderen?</value>
+  </data>
+  <data name="ConfirmDeletion_Vocabulary.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Weet u zeker dat u "{0}" wilt verwijderen?</value>
+  </data>
+  <data name="ControlTitle_.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Woordenboeken</value>
+  </data>
+  <data name="ControlTitle_createvocabulary.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Maak nieuw woordenboek</value>
+  </data>
+  <data name="ControlTitle_edit.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Bewerken woordenboek</value>
+  </data>
+  <data name="ControlTitle_editvocabulary.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Bewerken woordenboek</value>
+  </data>
+  <data name="Create.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Maak nieuw woordenboek</value>
+  </data>
+  <data name="Create.ToolTip" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Klik op deze knop om een nieuw woordenboek te maken.</value>
+  </data>
+  <data name="CreateTerm.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Opslaan</value>
+  </data>
+  <data name="CreateVocabulary.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Maken</value>
+  </data>
+  <data name="CurrentTerm.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Bewerken term</value>
+  </data>
+  <data name="DeleteTerm.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Verwijderen</value>
+  </data>
+  <data name="DeleteVocabulary.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Verwijderen</value>
+  </data>
+  <data name="Description.Header" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Beschrijving</value>
+  </data>
+  <data name="Description.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Beschrijving</value>
+  </data>
+  <data name="Description.ToolTip" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>De beschrijving voor het woordenboek</value>
+  </data>
+  <data name="Edit.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Bewerken</value>
+  </data>
+  <data name="Hierarchy.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Hierarchie</value>
+  </data>
+  <data name="LoadMore.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Laad meer</value>
+  </data>
+  <data name="Name.Header" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Naam</value>
+  </data>
+  <data name="Name.Required" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Een naam is vereist voor een woordenboek.</value>
+  </data>
+  <data name="Name.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>Naam</value>
+  </data>
+  <data name="Name.ToolTip" xml:space="preserve" lastModified="2016-12-02 08:02:04">
+    <value>De naam van het woordenboek.</value>
+  </data>
+  <data name="nav_Vocabularies.Text" xml:space="preserve" lastModified="2016-12-02 09:04:29">
+    <value>Woordenboeken</value>
+  </data>
+  <data name="NewTerm.Text" xml:space="preserve" lastModified="2016-12-02 09:04:29">
+    <value>Maak nieuwe term</value>
+  </data>
+  <data name="NoVocabularyTerms.Error" xml:space="preserve" lastModified="2016-12-02 09:04:29">
+    <value>Geen woordenboeken gevonden.</value>
+  </data>
+  <data name="ParentTerm.Text" xml:space="preserve" lastModified="2016-12-02 09:04:29">
+    <value>Ouder term.</value>
+  </data>
+  <data name="ParentTerm.ToolTip" xml:space="preserve" lastModified="2016-12-02 09:04:29">
+    <value>De ouder term voor deze hierarchische term.</value>
+  </data>
+  <data name="Portal.Text" xml:space="preserve" lastModified="2016-12-02 09:04:29">
+    <value>Website</value>
+  </data>
+  <data name="RequiredField.Text" xml:space="preserve" lastModified="2016-12-02 09:04:29">
+    <value>Vereist veld</value>
+  </data>
+  <data name="SaveTerm.Text" xml:space="preserve" lastModified="2016-12-02 09:04:29">
+    <value>Updaten</value>
+  </data>
+  <data name="SaveVocabulary.Text" xml:space="preserve" lastModified="2016-12-02 09:04:29">
+    <value>Updaten</value>
+  </data>
+  <data name="Scope.Header" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>Bereik</value>
+  </data>
+  <data name="Scope.Text" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>Bereik</value>
+  </data>
+  <data name="Scope.ToolTip" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>Het bereik van dit woordenboek, applicatie-wijd of site-specifiek.</value>
+  </data>
+  <data name="Simple.Text" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>Simpel</value>
+  </data>
+  <data name="TermExists.Error" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>De term "{0}" bestaat in de lijst.</value>
+  </data>
+  <data name="TermName.Required" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>De term Naam is een vereist veld.</value>
+  </data>
+  <data name="TermName.Text" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>Naam</value>
+  </data>
+  <data name="TermName.ToolTip" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>De naam van de term.</value>
+  </data>
+  <data name="Terms.Text" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>Termen</value>
+  </data>
+  <data name="TermValidationError.Message" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>Er was een fout bij het valideren van de term. Termen moeten een naam bevatten.</value>
+  </data>
+  <data name="TermValidationError.MessageHeader" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>Term validatie fout</value>
+  </data>
+  <data name="Title.Text" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>Bewerken woordenboek</value>
+  </data>
+  <data name="Type.Header" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>Type</value>
+  </data>
+  <data name="Type.Text" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>Type</value>
+  </data>
+  <data name="Type.ToolTip" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>Het type woordenboek, simpel of hierarchisch.</value>
+  </data>
+  <data name="VocabularyExists.Error" xml:space="preserve" lastModified="2016-12-02 10:08:14">
+    <value>Het woordenboek "{0}" bestaat in de lijst.</value>
+  </data>
+  <data name="All.Text">
+    <value>Alle</value>
+  </data>
+  <data name="BackToVocabularies.Text">
+    <value>Terug naar Vocabularies</value>
+  </data>
+  <data name="Close.Text">
+    <value>Sluiten</value>
+  </data>
+  <data name="EditFieldHelper.Text">
+    <value>Druk op enter als je klaar bent, op op Esc om te annuleren</value>
+  </data>
+</root>

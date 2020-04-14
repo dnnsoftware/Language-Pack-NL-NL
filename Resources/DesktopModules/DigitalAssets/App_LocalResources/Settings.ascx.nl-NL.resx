@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BasicSettings.Text">
+    <value xml:space="preserve">Basis instellingen</value>
+  </data>
+  <data name="DefaultFolderType.Help">
+    <value xml:space="preserve">Stelt het standaard map type in dat wordt gebruikt bij het aanmaken van een nieuwe onder de hoofdmap</value>
+  </data>
+  <data name="DefaultFolderType.Text">
+    <value xml:space="preserve">Standaard folder type</value>
+  </data>
+  <data name="ExcludeSubfolders.Text">
+    <value xml:space="preserve">Subfolders uitsluiten</value>
+  </data>
+  <data name="ExcludeSubfoldersLabel.Help">
+    <value xml:space="preserve">Indien aangevinkt, zal de module alleen bestanden laten zien en bestanden in submappen maar het zal geen submappen laten zien.</value>
+  </data>
+  <data name="FilterByFolder.Text">
+    <value xml:space="preserve">Filter op map</value>
+  </data>
+  <data name="FolderMustBeSelected.ErrorMessage">
+    <value xml:space="preserve">Een map moet geselecteerd zijn als de "Filter op Map" optie is aangevinkt.</value>
+  </data>
+  <data name="Group.Text">
+    <value xml:space="preserve">Groep</value>
+  </data>
+  <data name="IncludeSubfoldersFilesOnly.Text">
+    <value xml:space="preserve">Met Submappen (alleen bestanden)</value>
+  </data>
+  <data name="IncludeSubfoldersFolderStructure.Text">
+    <value xml:space="preserve">Met Submappen (Toon mappenstructuur)</value>
+  </data>
+  <data name="Mode.Help">
+    <value xml:space="preserve">De mode waarin de module moet opereren.</value>
+  </data>
+  <data name="Mode.Text">
+    <value xml:space="preserve">Mode</value>
+  </data>
+  <data name="Normal.Text">
+    <value xml:space="preserve">Normaal</value>
+  </data>
+  <data name="NoSet.Text">
+    <value xml:space="preserve">No set</value>
+  </data>
+  <data name="User.Text">
+    <value xml:space="preserve">Gebruiker</value>
+  </data>
+  <data name="ViewCondition.Help">
+    <value xml:space="preserve">Selecteer de filteropties voor toepassing in de grid</value>
+  </data>
+  <data name="ViewCondition.Text">
+    <value xml:space="preserve">Set View Conditie</value>
+  </data>
+</root>

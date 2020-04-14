@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Add.Text">
+    <value xml:space="preserve">Labels Toevoegen</value>
+  </data>
+  <data name="Add.ToolTip" lastModified="2015-12-30 09:24:11">
+    <value xml:space="preserve">Klik op deze link om een label toe te voegen.</value>
+  </data>
+  <data name="Cancel.Text">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="Cancel.ToolTip" lastModified="2015-12-30 09:24:11">
+    <value xml:space="preserve">Klik op annuleren om te stoppen zonder op te slaan.</value>
+  </data>
+  <data name="Category.ToolTip">
+    <value xml:space="preserve">Categorieën</value>
+  </data>
+  <data name="Save.Text">
+    <value xml:space="preserve">Opslaan</value>
+  </data>
+  <data name="Save.ToolTip" lastModified="2015-12-30 09:24:11">
+    <value xml:space="preserve">Klik om de labels op te slaan.</value>
+  </data>
+  <data name="Tag.ToolTip">
+    <value xml:space="preserve">Labels</value>
+  </data>
+</root>

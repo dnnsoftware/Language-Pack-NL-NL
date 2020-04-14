@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AutoResizeHeight.Help" lastModified="2016-01-03 00:34:00">
+    <value xml:space="preserve">De waarde van de autoschaal instellingen geeft aan of de Radeditor zijn hoogte automatisch aanpast aan de hoogte van de inhoud. Deze eigenschap is vergelijkbaar met de overflow eigenschap in een DIV element, Welke niet wordt ondersteund in een IFRAME element. Als de Autoschaal functie actief is zal het content veld in de editor automatisch meeschalen met de inhoude zodat er geen scrollbalken zichtbaar zijn.</value>
+  </data>
+  <data name="AutoResizeHeight.Text" lastModified="2016-01-03 00:34:00">
+    <value xml:space="preserve">Hoogte automatisch aanpassen:</value>
+  </data>
+  <data name="BorderWidth.Help" lastModified="2016-01-03 00:34:00">
+    <value xml:space="preserve">Stel de rand in in pixels rond het control</value>
+  </data>
+  <data name="BorderWidth.Text" lastModified="2016-01-03 00:34:00">
+    <value xml:space="preserve">Rand breedte:</value>
+  </data>
+  <data name="btnEditToolsFile.Text" lastModified="2016-01-03 00:34:00">
+    <value xml:space="preserve">Stel editor werkbalken in</value>
+  </data>
+  <data name="btnEnable.Text" lastModified="2016-01-03 00:34:00">
+    <value xml:space="preserve">Wijzigen</value>
+  </data>
+  <data name="btnUpdateConfig.Text" lastModified="2016-01-03 00:34:00">
+    <value xml:space="preserve">Configuratie bijwerken</value>
+  </data>
+  <data name="CannotManageHTMLEditorProviders.Text" lastModified="2016-03-08 14:15:22">
+    <value xml:space="preserve">U kunt geen HTML Editor providers beheren</value>
+  </data>
+  <data name="Client Script Settings.Title" lastModified="2016-01-03 00:34:00">
+    <value xml:space="preserve">Client script instellingen</value>
+  </data>
+  <data name="cmdCopy.Text" lastModified="2016-01-03 00:34:00">
+    <value xml:space="preserve">Kopieer</value>
+  </data>
+  <data name="cmdCreate.Text" lastModified="2016-01-03 00:34:00">
+    <value xml:space="preserve">Aanmaken</value>
+  </data>
+  <data name="Common Settings.Title" lastModified="2016-01-03 00:34:00">
+    <value xml:space="preserve">Algemene instellingen</value>
+  </data>
+  <data name="ContentAreaMode.Help" lastModified="2016-01-03 00:34:00">
+    <value xml:space="preserve">Kies tussen bewerken in een appart document middels een IFRAME (Standaard) of binnen een DIV in de huidige pagina.</value>
+  </data>
+  <data name="ContentAreaMode.Text" lastModified="2016-01-03 00:34:00">
+    <value xml:space="preserve">Content gebied mode</value>
+  </data>
+  <data name="ContentFilters.Help" lastModified="2016-01-03 00:34:00">
+    <value xml:space="preserve">Filters binnen Radeditor voor ASP.net zijn kleine stukjes code, welke in volgorde worden uitgevoerd om de inhoud te verwerken. Wanneer er tussen de opties (html/design/preview) wordt gewisseld of als de pagina wordt opgeslagen. Elk filter staat hier beschreven: &lt;a href="http://www.telerik.com/help/aspnet-ajax/contentfilters.html" target="_blank"&gt;Telerik Onlinehelp&lt;/a&gt;</value>
+  </data>
+  <data name="ContentFilters.Text" lastModified="2016-01-03 01:36:52">
+    <value xml:space="preserve">Content filters:</value>
+  </data>
+  <data name="ControlTitle_.Text" lastModified="2016-01-03 01:36:52">
+    <value xml:space="preserve">HTML editor beheer</value>
+  </data>
+  <data name="ControlTitle_.Text1" lastModified="2016-01-03 01:36:52">
+    <value xml:space="preserve">HTML Editor beheerder</value>
+  </data>
+  <data name="CssFile.Help" lastModified="2016-01-03 01:36:52">
+    <value xml:space="preserve">Het CSS bestand dat gebruikt wordt als de editor in wysiwyg mode staat. Dit bestand moet in de thema map staan of in de website map. Het pad dat hier staat is relatief aan het hoofpad (Bijvoorbeeld: /editor.css is een bestand in de hoofdmap van de je thema)</value>
+  </data>
+  <data name="CssFile.Text" lastModified="2016-01-03 02:46:08">
+    <value xml:space="preserve">CSS bestand:</value>
+  </data>
+  <data name="Developer Settings.Title" lastModified="2016-01-03 02:46:08">
+    <value xml:space="preserve">Ontwikkelaar instellingen</value>
+  </data>
+  <data name="Document Manager Settings.Title" lastModified="2016-01-03 02:46:08">
+    <value xml:space="preserve">Documentenbeheer instellingen</value>
+  </data>
+  <data name="DocumentsFilters.Help" lastModified="2016-01-03 02:46:08">
+    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de documentbeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van extensies. Gebruik het volgende format: *.Extensienaam</value>
+  </data>
+  <data name="DocumentsFilters.Text" lastModified="2016-01-03 03:52:15">
+    <value xml:space="preserve">Filters:</value>
+  </data>
+  <data name="DocumentsPath.Help" lastModified="2016-01-03 03:52:15">
+    <value xml:space="preserve">De map waarmee de document manager begint als deze in een dialoog laad.</value>
+  </data>
+  <data name="DocumentsPath.Text" lastModified="2016-01-03 03:52:15">
+    <value xml:space="preserve">Pad:</value>
+  </data>
+  <data name="EditConfigTab.Text" lastModified="2016-01-03 03:52:15">
+    <value xml:space="preserve">Editor configuratie</value>
+  </data>
+  <data name="EditModes.Help" lastModified="2016-01-03 03:52:15">
+    <value xml:space="preserve">De Radeditor biedt drie verschillende modes, ontwerp, html en voorbeeld: &lt;ul&gt;&lt;li&gt;Ontwerp: in de ontwerp mode kun je de content beheren en bewerken doormiddel van de werkbalkknoppen en de verschillende menu's&lt;/li&gt;&lt;li&gt;Html: in de html modules kan de html code van de content direct worden aangepast. deze optie wordt vaak gebruikt voor ervaren gebruikers.&lt;/li&gt;&lt;li&gt;Voorbeeld: Deze mode geeft een weergave van de ingevoerd content zoals het eruit zal komen te zien na het opslaan van de content.&lt;/li&gt;&lt;/ul&gt;</value>
+  </data>
+  <data name="EditModes.Text" lastModified="2016-01-03 04:56:13">
+    <value xml:space="preserve">Bewerk Modes:</value>
+  </data>
+  <data name="EnableResize.Help" lastModified="2016-01-03 04:56:13">
+    <value xml:space="preserve">Haalt of stelt in of de gebruikers de mogelijkheid hebben om de Radeditor control te schalen op de client.</value>
+  </data>
+  <data name="EnableResize.Text" lastModified="2016-01-03 04:56:13">
+    <value xml:space="preserve">Herschalen activeren:</value>
+  </data>
+  <data name="FileBrowserContentProviderTypeName.Help" lastModified="2016-01-03 04:56:13">
+    <value xml:space="preserve">De content provider is een class die bepaald hoe er met bestanden en mappen wordt omgegaan in de dialogen van de bestandsmanager. Overschijf deze instelling als je gebruikt maakt van een andere content provider.</value>
+  </data>
+  <data name="FileBrowserContentProviderTypeName.Text" lastModified="2016-01-03 04:56:13">
+    <value xml:space="preserve">Bestandsbrowser provider:</value>
+  </data>
+  <data name="Flash Manager Settings.Title" lastModified="2016-01-03 04:56:13">
+    <value xml:space="preserve">Flash beheer instellingen</value>
+  </data>
+  <data name="FlashFilters.Help" lastModified="2016-01-03 04:56:13">
+    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de Flashbeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van extensies. Gebruik het volgende format: *.Extensienaam</value>
+  </data>
+  <data name="FlashFilters.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Filters:</value>
+  </data>
+  <data name="FlashPath.Help" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">De map waarin de Flashbeheerder start bij het openen van het venster</value>
+  </data>
+  <data name="FlashPath.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Pad:</value>
+  </data>
+  <data name="Height.Help" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">De algemene hoogte van het editor control</value>
+  </data>
+  <data name="Height.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Hoogte:</value>
+  </data>
+  <data name="HTMLEditorPageDescription.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Biedt configuratie opties voor de html editor provider.</value>
+  </data>
+  <data name="HTMLEditorPageName.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">HTML editor provider</value>
+  </data>
+  <data name="Image Manager Settings.Title" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Afbeeldingenbeheer instellingen</value>
+  </data>
+  <data name="ImagesFilters.Help" lastModified="2016-01-03 05:57:28">
+    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de afbeeldingenbeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van extensies. Gebruik het volgende format: *.Extensienaam</value>
+  </data>
+  <data name="ImagesFilters.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Filters:</value>
+  </data>
+  <data name="ImagesPath.Help" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">De map waarin de afbeeldingenbeheerder start bij het openen van het venster</value>
+  </data>
+  <data name="ImagesPath.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Pad:</value>
+  </data>
+  <data name="Language.Help" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Als deze optie is ingesteld zal dit de taal van de content overschrijven. De huidige taal wordt gebruikt vanuit de standaard. In de meeste gevallen moet dit veld leeg blijven</value>
+  </data>
+  <data name="Language.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Taal:</value>
+  </data>
+  <data name="lblChangeProvider.Help" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Selecteer een andere provider van de lijst en klik op 'Aanpassen' om de html editor provider voor het gehele installatie te wijzigen.</value>
+  </data>
+  <data name="lblChangeProvider.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Aanpassen van provider</value>
+  </data>
+  <data name="lblCurrentProvider.Help" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Dit is de HTML Editor provider die gebruikt wordt in deze installatie.</value>
+  </data>
+  <data name="lblCurrentProvider.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">huidige provider</value>
+  </data>
+  <data name="lblEditorConfig.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Editor configuratie</value>
+  </data>
+  <data name="lblEditorType.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">De huidige provider in deze DNN installatie is &lt;b&gt;{0}&lt;b&gt;</value>
+  </data>
+  <data name="lblMode.Help" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">De rol die je wilt koppelen aan deze editor configuratie.</value>
+  </data>
+  <data name="lblMode.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Koppel aan rol</value>
+  </data>
+  <data name="lblNotAuthorized.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Je hebt geen rechten om deze module te mogen gebruiken.</value>
+  </data>
+  <data name="lblNote.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Het doel van deze module is het registreren en configureren van de Rad editor provider. Het helpt host gebruikers om de HTML provider in de web.config in te stellen en te beheren.</value>
+  </data>
+  <data name="lblOnlyHost.Text" lastModified="2016-01-03 07:06:32">
+    <value xml:space="preserve">Alleen host gebruikers mogen deze module gebruiken.</value>
+  </data>
+  <data name="lblPortal.Help" lastModified="2016-01-03 09:15:10">
+    <value xml:space="preserve">Wanneer aangevinkt, dan zal deze website worden gekoppeld aan deze editor configuratie.</value>
+  </data>
+  <data name="lblPortal.Text" lastModified="2016-01-03 09:15:10">
+    <value xml:space="preserve">Koppel aan website</value>
+  </data>
+  <data name="lblSelectedProvider.Text" lastModified="2016-01-03 09:15:10">
+    <value xml:space="preserve">Huidige provider</value>
+  </data>
+  <data name="lblTabs.Help" lastModified="2016-01-03 09:15:10">
+    <value xml:space="preserve">Selecteer een pagina uit de boomweergave die wordt gekoppeld aan de editor configuratie van de geselecteerde pagina.</value>
+  </data>
+  <data name="lblTabs.Text" lastModified="2016-01-03 09:15:10">
+    <value xml:space="preserve">Koppel aan pagina</value>
+  </data>
+  <data name="LinksType.Help" lastModified="2016-01-03 09:15:10">
+    <value xml:space="preserve">"Gebruik paginanaam": Een link naar een websitepagina is als volgt opgebouwd: default.aspx?TabName=Home;&lt;br /&gt;"Gebruik pagina id":Een link naar een websitepagina is als volgt opgebouwd: default.aspx?TabId=100;&lt;br /&gt;"Normal":Een link naar een websitepagina isopgebouwd als een normale link. </value>
+  </data>
+  <data name="LinksType.Text" lastModified="2016-01-03 09:15:10">
+    <value xml:space="preserve">Pagina linktype:</value>
+  </data>
+  <data name="LinksType_Normal.Text" lastModified="2016-01-03 09:15:10">
+    <value xml:space="preserve">Normaal</value>
+  </data>
+  <data name="LinksType_UseTabId.Text" lastModified="2016-01-03 09:15:10">
+    <value xml:space="preserve">Gebruik paginaid in URL</value>
+  </data>
+  <data name="LinksType_UseTabName.Text" lastModified="2016-01-03 09:15:10">
+    <value xml:space="preserve">Gebruik paginanaam in URL</value>
+  </data>
+  <data name="LinksUseRelativeUrls.Help" lastModified="2016-01-03 09:15:10">
+    <value xml:space="preserve">Als deze instelling inactief is wordt er absolute links aangemaakt</value>
+  </data>
+  <data name="LinksUseRelativeUrls.Text" lastModified="2016-01-03 09:15:10">
+    <value xml:space="preserve">Activeer relatieve URL links:</value>
+  </data>
+  <data name="MaxDocumentSize.Help" lastModified="2016-01-03 08:08:32">
+    <value xml:space="preserve">Maximale document upload in Bytes</value>
+  </data>
+  <data name="MaxDocumentSize.Text" lastModified="2016-01-03 08:08:32">
+    <value xml:space="preserve">Maximale bestandsgrootte:</value>
+  </data>
+  <data name="MaxFlashSize.Help" lastModified="2016-01-03 08:08:32">
+    <value xml:space="preserve">Maximale flash upload in Bytes</value>
+  </data>
+  <data name="MaxFlashSize.Text" lastModified="2016-01-03 08:08:32">
+    <value xml:space="preserve">Maximale bestandsgrootte:</value>
+  </data>
+  <data name="MaxImageSize.Help" lastModified="2016-01-03 08:08:32">
+    <value xml:space="preserve">Maximale afbeelding upload in Bytes</value>
+  </data>
+  <data name="MaxImageSize.Text" lastModified="2016-01-03 08:08:32">
+    <value xml:space="preserve">Maximale bestandsgrootte:</value>
+  </data>
+  <data name="MaxMediaSize.Help" lastModified="2016-01-03 08:08:32">
+    <value xml:space="preserve">Maximale movie upload in Bytes</value>
+  </data>
+  <data name="MaxMediaSize.Text" lastModified="2016-01-03 08:08:32">
+    <value xml:space="preserve">Maximale bestandsgrootte:</value>
+  </data>
+  <data name="MaxSilverlightSize.Help" lastModified="2016-01-03 08:08:32">
+    <value xml:space="preserve">Maximale silverlight upload in Bytes</value>
+  </data>
+  <data name="MaxSilverlightSize.Text" lastModified="2016-01-03 08:08:32">
+    <value xml:space="preserve">Maximale bestandsgrootte:</value>
+  </data>
+  <data name="MaxTemplateSize.Help" lastModified="2016-01-03 08:08:32">
+    <value xml:space="preserve">Maximale template upload in Bytes</value>
+  </data>
+  <data name="MaxTemplateSize.Text" lastModified="2016-01-03 08:08:32">
+    <value xml:space="preserve">Maximale bestandsgrootte:</value>
+  </data>
+  <data name="Media Manager Settings.Title" lastModified="2016-01-03 08:08:32">
+    <value xml:space="preserve">Mediabeheer instellingen</value>
+  </data>
+  <data name="MediaFilters.Help" lastModified="2016-01-03 05:57:28">
+    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de mediabeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van extensies. Gebruik het volgende format: *.Extensienaam</value>
+  </data>
+  <data name="MediaFilters.Text" lastModified="2016-01-03 10:17:11">
+    <value xml:space="preserve">FIlter:</value>
+  </data>
+  <data name="MediaPath.Help" lastModified="2016-01-03 10:17:11">
+    <value xml:space="preserve">De map waarin de mediabeheerder start bij het openen van het venster</value>
+  </data>
+  <data name="MediaPath.Text" lastModified="2016-01-03 10:17:11">
+    <value xml:space="preserve">Pad:</value>
+  </data>
+  <data name="NewLineBr.Help">
+    <value xml:space="preserve">De NewLineBr  eigenschap specificeerd of de editor een regel (&lt;BR&gt; tag) of een nieuwe paragraaf (&lt;P&gt; tag) moet toevoegen als er op enter wordt gedrukt.De standaard waarde staat op waar (&lt;BR&gt; tag) omdat dit het meest in de buurt komt van de gebruikte desktop tekstverwerkers. In dit geval kun je een paragraaf toevoegen middels Ctr+M of via de nieuwe paragraaf knop in werkbalk.
+
+Als je de NewlineBr eigenschap op onwaar zet, zal er bij iedere enter een paragraaf worden toevoegd. Middels een Shift+Enter kan er een &lt;BR&gt; worden toegevoegd.
+
+Werken met punt/nummer lijsten in de Telerik Radeditor.
+Lijsten zijn type paragrafen en deze accepteren alle attributen als een paragraaf tag. Dit houdt in dat wanneer je een lijst toevoegt in je HTML je een nieuwe paragraaf toevoegt. Sinds de Telerik Radeditor v5.05 is het NewLineBr mechanisme verbeterd.
+Dit maakt het echter onmogelijk om bijvoorbeeld een punt/nummerlijst te beginnen met een lege regel. &lt;a href="http://www.telerik.com/help/aspnet-ajax/usingthenewlinebrproperty.html" target="_blank"&gt;Lees de online help voor meer informatie&lt;/a&gt;</value>
+  </data>
+  <data name="NewLineBr.Text" lastModified="2016-01-04 02:01:36">
+    <value xml:space="preserve">Begin een nieuwe regel met Breaks:</value>
+  </data>
+  <data name="NotCurrentProvider.Text">
+    <value xml:space="preserve">RadEditorProvider is niet de standaard html provider op dit moment. Alle aanpassingen die je aanbrengt worden niet toegepast op de huidige html editor.  Als je wilt dat de aanpassingen direct zichtbaar zijn, update dan de standaard provider naar 'DotNetNuke.RadEditorProvider' in het linker dropdownmenu.</value>
+  </data>
+  <data name="OnClientCommandExecuting.Help">
+    <value xml:space="preserve">Stel een functienaam in die wordt aangeroepen als de editor het OnExecute event afvuurt op de client.(Wordt afgevuurd vlak voordat het commando wordt uitgevoerd). De functie kan in een js bestand worden geplaatst en kan worden gedefinieerd in de ScriptToLoad instellingen. Dit evenement komt van pas als je grappige support wilt toevoegen. Bijvoorbeeld: lees &lt;a href="http://radeditor.codeplex.com/Thread/View.aspx?ThreadId=231612" target="_blank"&gt;Deze forum post&lt;/a&gt; voor meer informatie)</value>
+  </data>
+  <data name="OnClientCommandExecuting.Text">
+    <value xml:space="preserve">Commando uitvoeren:</value>
+  </data>
+  <data name="OnClientPasteHtml.Help">
+    <value xml:space="preserve">Stel een functienaam in die wordt aangeroepen als de editor het OnPaste (Iedere keer als er iets wordt geplakt in de html code of de html editor) De functie kan in een js bestand worden geplaatst en kan worden gedefinieerd in de ScriptToLoad instellingen.
+
+&lt;a href="http://radeditor.codeplex.com/wikipage?title=OnClientPasteExample" target="_blank"&gt; kijk naar dit voorbeeld voor een gedetailleerd voorbeeld&lt;/a&gt;
+
+</value>
+  </data>
+  <data name="OnClientPasteHtml.Text" lastModified="2016-01-04 02:01:36">
+    <value xml:space="preserve">Plak Html:</value>
+  </data>
+  <data name="PortalRoot.Text" lastModified="2016-01-04 02:01:36">
+    <value xml:space="preserve">[PortaalRoot]</value>
+  </data>
+  <data name="ScriptToLoad.Help" lastModified="2016-01-04 03:43:34">
+    <value xml:space="preserve">Als deze is ingesteld dan zal de provider het javascipt bestand dat hier gespecificeerd staat laden. Dit moet een relatief pad zijn naar de huidige thema map.
+
+&lt;a href="http://radeditor.codeplex.com/wikipage?title=OnClientPasteExample" target="_blank"&gt;Kijk hier voor een gedetaileerd voorbeeld&lt;/a&gt;</value>
+  </data>
+  <data name="ScriptToLoad.Text" lastModified="2016-01-04 02:01:36">
+    <value xml:space="preserve">Script om te laden:</value>
+  </data>
+  <data name="ShowPortalLinks.Help" lastModified="2016-01-04 04:51:15">
+    <value xml:space="preserve">Als deze instelling actief is zal er een dropdownlijst verschijnen in de werkbalk welke een boomstructuur weergeeft van de website pagina's. Als deze functie actief is kun je een tekst markeren en een pagina selecteren uit de bookstructuur waardoor de editor de tekst linkt naar de gekozen pagina. 
+
+Je moet een CustomLinks tool in je werkbalk configureren om deze optie te laten werken!</value>
+  </data>
+  <data name="ShowPortalLinks.Text" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">Toon website links:</value>
+  </data>
+  <data name="Silverlight Manager Settings.Title" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">Silverlight beheer instellingen</value>
+  </data>
+  <data name="SilverlightFilters.Help" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de silverlightbeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van extensies. Gebruik het volgende format: *.Extensienaam</value>
+  </data>
+  <data name="SilverlightFilters.Text" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">Filters:</value>
+  </data>
+  <data name="SilverlightPath.Help" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">De map waarin de silverlightbeheerder start bij het openen van het venster</value>
+  </data>
+  <data name="SilverlightPath.Text" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">Pad:</value>
+  </data>
+  <data name="Skin.Help" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">Het thema dat gebruikt moet worden door het editor control</value>
+  </data>
+  <data name="Skin.Text" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">Thema:</value>
+  </data>
+  <data name="SpellAllowAddCustom.Help" lastModified="2016-01-03 23:50:07">
+    <value xml:space="preserve">Spellingscontrole instellingen zijn zelden gedocumenteerd, helaas. In het algemeen dienen deze velden leeg te blijven tenzijn je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website&lt;/a&gt;</value>
+  </data>
+  <data name="SpellAllowAddCustom.Text" lastModified="2016-01-03 23:50:07">
+    <value xml:space="preserve">Sta aangepaste spelling toe:</value>
+  </data>
+  <data name="SpellCheckProvider.Help" lastModified="2016-01-03 23:50:07">
+    <value xml:space="preserve">Spellingscontrole instellingen zijn zelden gedocumenteerd, helaas. In het algemeen dienen deze velden leeg te blijven tenzijn je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website&lt;/a&gt;</value>
+  </data>
+  <data name="SpellCheckProvider.Text" lastModified="2016-01-03 23:50:07">
+    <value xml:space="preserve">Spellingscontrole provider naam:</value>
+  </data>
+  <data name="SpellCustomDictionarySourceTypeName.Help" lastModified="2016-01-03 23:50:07">
+    <value xml:space="preserve">Spellingscontrole instellingen zijn zelden gedocumenteerd, helaas. In het algemeen dienen deze velden leeg te blijven tenzijn je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website&lt;/a&gt;</value>
+  </data>
+  <data name="SpellCustomDictionarySourceTypeName.Text" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">Aangepaste spellingscontole woordenboeknaam:</value>
+  </data>
+  <data name="SpellCustomDictionarySuffix.Help" lastModified="2016-01-03 23:50:07">
+    <value xml:space="preserve">Spellingscontrole instellingen zijn zelden gedocumenteerd, helaas. In het algemeen dienen deze velden leeg te blijven tenzijn je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website&lt;/a&gt;</value>
+  </data>
+  <data name="SpellCustomDictionarySuffix.Text" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">Aangepaste spellingscontole toevoeging:</value>
+  </data>
+  <data name="SpellDictionaryLanguage.Help" lastModified="2016-01-03 23:50:07">
+    <value xml:space="preserve">Spellingscontrole instellingen zijn zelden gedocumenteerd, helaas. In het algemeen dienen deze velden leeg te blijven tenzijn je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website&lt;/a&gt;</value>
+  </data>
+  <data name="SpellDictionaryLanguage.Text" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">Spellingscontole taal:</value>
+  </data>
+  <data name="SpellDictionaryPath.Help" lastModified="2016-01-03 23:50:07">
+    <value xml:space="preserve">Spellingscontrole instellingen zijn zelden gedocumenteerd, helaas. In het algemeen dienen deze velden leeg te blijven tenzijn je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website&lt;/a&gt;</value>
+  </data>
+  <data name="SpellDictionaryPath.Text" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">Spellingscontole pad:</value>
+  </data>
+  <data name="SpellEditDistance.Help" lastModified="2016-01-03 23:50:07">
+    <value xml:space="preserve">Spellingscontrole instellingen zijn zelden gedocumenteerd, helaas. In het algemeen dienen deze velden leeg te blijven tenzijn je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website&lt;/a&gt;</value>
+  </data>
+  <data name="SpellEditDistance.Text" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">Spellingscontrole afstand:</value>
+  </data>
+  <data name="SpellFragmentIgnoreOptions.Help" lastModified="2016-01-03 23:50:07">
+    <value xml:space="preserve">Spellingscontrole instellingen zijn zelden gedocumenteerd, helaas. In het algemeen dienen deze velden leeg te blijven tenzijn je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website&lt;/a&gt;</value>
+  </data>
+  <data name="SpellFragmentIgnoreOptions.Text" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">Gedeeltelijke spellingscontrole negeer opties:</value>
+  </data>
+  <data name="SpellWordIgnoreOptions.Help" lastModified="2016-01-03 23:50:07">
+    <value xml:space="preserve">Spellingscontrole instellingen zijn zelden gedocumenteerd, helaas. In het algemeen dienen deze velden leeg te blijven tenzijn je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website&lt;/a&gt;</value>
+  </data>
+  <data name="SpellWordIgnoreOptions.Text" lastModified="2016-01-04 00:54:23">
+    <value xml:space="preserve">Spellingscontrole woord negeer opties:</value>
+  </data>
+  <data name="StripFormattingOptions.Help" lastModified="2016-01-04 06:02:34">
+    <value xml:space="preserve">Ontwikkelaars kunnen een content formatting afdwingen doormiddel van een StripFormattingOptions Optie. Als resultaat zal format worden verwijderd uit alle inhoud die door gebruikers wordt geplakt. De EditorStripFormattingOptions instelling kunnen alle onderstaande opties of combinaties daarvan bevatten:
+&lt;ul&gt;
+&lt;li&gt;Geen: Plakt de klembord inhoud als een is. &lt;/li&gt;
+&lt;li&gt;Geen onderdruk opschoon vraag: Stript niets bij plakken en steld geen vragen. &lt;/li&gt;
+&lt;li&gt;MSWord: Verwijderd word specifieke tags, behoud fonts en tekstgrootte. &lt;/li&gt;
+&lt;li&gt;MSWordGeenFont: strips Verwijderd word specifieke tags, behoud tekstgrootte. &lt;/li&gt;
+&lt;li&gt;MSWordVerwijder alles: Verwijderd alle word opmaak. &lt;/li&gt;
+&lt;li&gt;Css: Verwijderd  CSS styles bij plakken. &lt;/li&gt;
+&lt;li&gt;Font: Verwijderd  Font tags bij plakken. &lt;/li&gt;
+&lt;li&gt;Span: Verwijderd  Span tags bij plakken.&lt;/li&gt;
+&lt;li&gt;Alles: Verwijderd alle HTML formatting en plakt als platte tekst &lt;/li&gt;
+&lt;li&gt;Alles behalve nieuwe regels: Verwijderd alle tags, uitgezonderd "br" en nieuwe regels (\n) bij plakken.&lt;/li&gt;&lt;/ul&gt;</value>
+  </data>
+  <data name="StripFormattingOptions.Text" lastModified="2016-01-03 12:30:15">
+    <value xml:space="preserve">Strip opmaak opties:</value>
+  </data>
+  <data name="Template Manager Settings.Title" lastModified="2016-01-03 12:30:15">
+    <value xml:space="preserve">Tempate beheer instellingen</value>
+  </data>
+  <data name="TemplateFilters.Help" lastModified="2016-01-03 05:57:28">
+    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de templatebeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van extensies. Gebruik het volgende format: *.Extensienaam</value>
+  </data>
+  <data name="TemplateFilters.Text" lastModified="2016-01-03 11:29:54">
+    <value xml:space="preserve">Filters:</value>
+  </data>
+  <data name="TemplatePath.Help" lastModified="2016-01-03 11:29:54">
+    <value xml:space="preserve">De map waarin de tempatebeheerder start bij het openen van het venster</value>
+  </data>
+  <data name="TemplatePath.Text" lastModified="2016-01-03 11:29:54">
+    <value xml:space="preserve">Pad:</value>
+  </data>
+  <data name="Toolbar Settings.Title" lastModified="2016-01-03 11:29:54">
+    <value xml:space="preserve">Taakbalk instellingen</value>
+  </data>
+  <data name="ToolbarConfigTab.Text" lastModified="2016-01-03 11:29:54">
+    <value xml:space="preserve">Taakbalk configuratie</value>
+  </data>
+  <data name="ToolbarMode.Help">
+    <value xml:space="preserve">RadEditor for ASP.NET AJAX introduces a property named ToolbarMode, which specifies the behavior of the toolbar. Here are the different options for setting the ToolbarMode:&lt;ul&gt;&lt;li&gt;Default - the toolbar is static and positioned over the content area
+&lt;/li&gt;&lt;li&gt;PageTop - in this mode, when a particular editor gets the focus its toolbar will appear docked at the top of the page
+&lt;/li&gt;&lt;li&gt;ShowOnFocus - here the toolbar will appear right above the editor when it gets focus.
+&lt;/li&gt;&lt;li&gt;Floating - the toolbar will pop up in a window and will allow the user to move it over the page
+&lt;/li&gt;&lt;/ul&gt;</value>
+  </data>
+  <data name="ToolbarMode.Text" lastModified="2016-01-03 11:29:54">
+    <value xml:space="preserve">Mode:</value>
+  </data>
+  <data name="ToolsWidth.Help" lastModified="2016-01-03 11:29:54">
+    <value xml:space="preserve">Stelt de breedte van de editor werkbalk in. Gebruik deze optie alleen als de toolbar mode anders is als standaard!</value>
+  </data>
+  <data name="ToolsWidth.Text" lastModified="2016-01-03 10:17:11">
+    <value xml:space="preserve">Breedte:</value>
+  </data>
+  <data name="UserFolder.Text" lastModified="2016-01-03 10:17:11">
+    <value xml:space="preserve">[Gebruikersmap]</value>
+  </data>
+  <data name="Width.Help" lastModified="2016-01-03 10:17:11">
+    <value xml:space="preserve">De algehele breedte van het editor control.</value>
+  </data>
+  <data name="Width.Text" lastModified="2016-01-03 10:17:11">
+    <value xml:space="preserve">Breedte:</value>
+  </data>
+</root>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdCancel.Text">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="cmdNewMapping.Text">
+    <value xml:space="preserve">Nieuw type toevoegen</value>
+  </data>
+  <data name="ControlTitle_foldermappings.Text">
+    <value xml:space="preserve">Map types</value>
+  </data>
+  <data name="DeleteConfirm.Text">
+    <value xml:space="preserve">Weet u zeker dat u de {0} map type definitie wilt verwijderen?</value>
+  </data>
+  <data name="Description.Text">
+    <value xml:space="preserve">Beheer de map types beschikbaar voor deze site. De standaard types- Standaard, beveiligd en database - mogen niet worden aangepast of worden verwijderd. Niet standaard types kunnen worden opgenomen door deze te selecteren en te verplaatsen naar de gewenste positie. De volgorde zal verschillen tijdens het oplossen van conflicten tijdens de map synchronisaties.</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="TableHeader.Text">
+    <value xml:space="preserve">Map type definitie</value>
+  </data>
+  <data name="Type.Header">
+    <value xml:space="preserve">Map provider</value>
+  </data>
+</root>

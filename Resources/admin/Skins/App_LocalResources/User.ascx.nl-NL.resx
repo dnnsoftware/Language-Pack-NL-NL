@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CheckMessages.Text">
+    <value xml:space="preserve">Berichten controleren</value>
+  </data>
+  <data name="CheckNotifications.Text">
+    <value xml:space="preserve">Selectievakje kennisgevingen</value>
+  </data>
+  <data name="Messages.Text">
+    <value xml:space="preserve">&lt;span&gt;{0}&lt;/span&gt;&lt;strong&gt;Berichten&lt;/strong&gt;</value>
+  </data>
+  <data name="NewMessages.Text">
+    <value xml:space="preserve"> ({0})</value>
+  </data>
+  <data name="NoMessages.Text">
+    <value xml:space="preserve">&lt;strong&gt;Berichten&lt;/strong&gt;</value>
+  </data>
+  <data name="NoNotifications.Text">
+    <value xml:space="preserve">&lt;strong&gt;Meldingen&lt;/strong&gt;</value>
+  </data>
+  <data name="Notifications.Text">
+    <value xml:space="preserve">&lt;span&gt;{0}&lt;/span&gt;&lt;strong&gt;Meldingen&lt;/strong&gt;</value>
+  </data>
+  <data name="ProfileAvatar.Text">
+    <value xml:space="preserve">Profiel Avatar</value>
+  </data>
+  <data name="Register.Text">
+    <value xml:space="preserve">Registreren</value>
+  </data>
+  <data name="ToolTip.Text">
+    <value xml:space="preserve">Klik hier om naar uw profiel te gaan.</value>
+  </data>
+  <data name="ToolTipNewMessages.Text">
+    <value xml:space="preserve">U heeft {0} nieuwe bericht(en). Klik hier om naar uw profiel pagina te gaan.</value>
+  </data>
+  <data name="VisitMyProfile.Text">
+    <value xml:space="preserve">Bezoek mijn profiel</value>
+  </data>
+</root>

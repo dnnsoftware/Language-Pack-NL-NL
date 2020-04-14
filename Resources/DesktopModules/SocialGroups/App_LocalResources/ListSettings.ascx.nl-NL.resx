@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle_settings.Text">
+    <value xml:space="preserve">Groepmodule instellingen</value>
+  </data>
+  <data name="DefaultRoleGroup.Help">
+    <value xml:space="preserve">Selecteer de rolgroep die de rollen bevat die u wilt weergeven</value>
+  </data>
+  <data name="DefaultRoleGroup.Text">
+    <value xml:space="preserve">Standaard rolgroep</value>
+  </data>
+  <data name="GroupCreatePage.Help">
+    <value xml:space="preserve">Selecteer de pagina waar gebruikers naar toe gaan om nieuwe groepen aan te maken</value>
+  </data>
+  <data name="GroupListEnableSearch.Help">
+    <value xml:space="preserve">Selecteer deze optie om de gebruikers de mogelijkheid te geven om op de weergegeven groepen te filteren.</value>
+  </data>
+  <data name="GroupListEnableSearch.Text">
+    <value xml:space="preserve">Zoeken op groep toestaan</value>
+  </data>
+  <data name="GroupListPageSize.Help">
+    <value xml:space="preserve">Specificeer het aantal groepen dat word teruggegeven per pagina.</value>
+  </data>
+  <data name="GroupListPageSize.Text">
+    <value xml:space="preserve">Pagina grote van groepslijst</value>
+  </data>
+  <data name="GroupListSortDirField.Help">
+    <value xml:space="preserve">Kies de sorteer richting voor de lijst van groepen.</value>
+  </data>
+  <data name="GroupListSortDirField.Text">
+    <value xml:space="preserve">Sorteer richting</value>
+  </data>
+  <data name="GroupListSortField.Help">
+    <value xml:space="preserve">Kies het veld dat zal worden gebruikt voor het sorteren van de lijst met groepen.</value>
+  </data>
+  <data name="GroupListSortField.Text">
+    <value xml:space="preserve">Sorteer lijst op basis van</value>
+  </data>
+  <data name="GroupListTemplateText.Help">
+    <value xml:space="preserve">U kunt het standaardsjabloon wijzigen om de weergave van de groepslijst aan te passen.  Gemeenschappelijke tokens zijn:&lt;br/&gt;
+[groupitem:GroupName]&lt;br&gt;
+[groupitem:GroupDescription]&lt;br/&gt;
+[groupitem:PhotoURL]&lt;br/&gt;
+[groupviewurl]&lt;br/&gt;</value>
+  </data>
+  <data name="GroupListTemplateText.Text">
+    <value xml:space="preserve">Groepslijst sjabloon</value>
+  </data>
+  <data name="GroupListUserGroups.Help">
+    <value xml:space="preserve">Selecteer deze optie om alleen de groepen weer te geven waar de huidige gebruiker bij hoort.</value>
+  </data>
+  <data name="GroupListUserGroups.Text">
+    <value xml:space="preserve">Toon een alleen de gebruiker zijn groepen</value>
+  </data>
+  <data name="GroupModeration.Help">
+    <value xml:space="preserve">Vink deze optie aan als nieuwe groepen moeten worden goedgekeurd</value>
+  </data>
+  <data name="GroupModeration.Text">
+    <value xml:space="preserve">Nieuwe groepen moeten worden goedgekeurd</value>
+  </data>
+  <data name="GroupViewPage.Help">
+    <value xml:space="preserve">Selecteer de pagina waar gebruikers naar toe gaan om een bepaalde groep te bekijken</value>
+  </data>
+  <data name="GroupViewTemplateText.Help">
+    <value xml:space="preserve">U kunt het standaardsjabloon wijzigen om de weergave van de groepslijst aan te passen.  Gemeenschappelijke tokens zijn:&lt;br/&gt;
+[groupitem:GroupName]&lt;br&gt;
+[groupitem:GroupDescription]&lt;br/&gt;
+[groupitem:PhotoURL]&lt;br/&gt;
+[groupviewurl]&lt;br/&gt;</value>
+  </data>
+  <data name="PageSizeValidation.Text">
+    <value xml:space="preserve">Ongeldige pagina grote opgegeven. (1-9999)</value>
+  </data>
+  <data name="ViewMode.Help">
+    <value xml:space="preserve">Selecteer de modus waarin de module moet worden weergegeven.</value>
+  </data>
+  <data name="ViewMode.Text">
+    <value xml:space="preserve">Module weergavemodus</value>
+  </data>
+</root>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle_edit.Text">
+    <value xml:space="preserve">Script bewerken</value>
+  </data>
+  <data name="scriptListLabel.Help">
+    <value xml:space="preserve">Selecteer het Script dat u wilt gebruiken voor deze instantie van de Razor Host Module</value>
+  </data>
+  <data name="scriptListLabel.Text">
+    <value xml:space="preserve">Script:</value>
+  </data>
+  <data name="SourceFile.Text">
+    <value xml:space="preserve">Bronbestand - {0}</value>
+  </data>
+  <data name="plSource.Text">
+    <value xml:space="preserve">Script Bron:</value>
+  </data>
+  <data name="scriptsLabel.Help">
+    <value xml:space="preserve">Selecteer het Script dat u wilt aanpassen uit de lijst.</value>
+  </data>
+  <data name="scriptsLabel.Text">
+    <value xml:space="preserve">Selecteer Script:</value>
+  </data>
+  <data name="AddNew.Text">
+    <value xml:space="preserve">Nieuw Script bestand toevoegen</value>
+  </data>
+  <data name="currentScriptLabel.Help">
+    <value xml:space="preserve">Vink deze optie aan om het huidige Script als actief Script te gebruiken binnen de gegenereerde weergave mode.</value>
+  </data>
+  <data name="currentScriptLabel.Text">
+    <value xml:space="preserve">Is Actief:</value>
+  </data>
+  <data name="cmdSave.Text">
+    <value xml:space="preserve">Script opslaan</value>
+  </data>
+  <data name="cmdSaveClose.Text">
+    <value xml:space="preserve">Script opslaan en terugkeren</value>
+  </data>
+</root>

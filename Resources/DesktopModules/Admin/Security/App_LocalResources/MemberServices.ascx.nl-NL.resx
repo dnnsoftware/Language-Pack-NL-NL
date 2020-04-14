@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Name.Header">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="Description.Header">
+    <value xml:space="preserve">Omschrijving</value>
+  </data>
+  <data name="Fee.Header">
+    <value xml:space="preserve">Kosten</value>
+  </data>
+  <data name="Every.Header">
+    <value xml:space="preserve">Elke</value>
+  </data>
+  <data name="Period.Header">
+    <value xml:space="preserve">Periode</value>
+  </data>
+  <data name="Trial.Header">
+    <value xml:space="preserve">Proberen</value>
+  </data>
+  <data name="ExpiryDate.Header">
+    <value xml:space="preserve">Verloopdatum</value>
+  </data>
+  <data name="Subscribe.Text">
+    <value xml:space="preserve">Abonneren</value>
+  </data>
+  <data name="Unsubscribe.Text">
+    <value xml:space="preserve">Abonnement opzeggen</value>
+  </data>
+  <data name="plRSVPCode.Text">
+    <value xml:space="preserve">Geef RSVP code:</value>
+  </data>
+  <data name="plRSVPCode.Help">
+    <value xml:space="preserve">U kunt zich op sommige rollen abonneren door een RSVP (<i>répondez, s'il vous plaît</i>) code. Als u een code gekregen heeft, voer die dan hier in en klik op "Abonneren"</value>
+  </data>
+  <data name="cmdRSVP.Text">
+    <value xml:space="preserve">Abonneren</value>
+  </data>
+  <data name="Expired.Text">
+    <value xml:space="preserve">Verlopen</value>
+  </data>
+  <data name="Fee.Text">
+    <value xml:space="preserve">{0} Elke {1} {2}</value>
+  </data>
+  <data name="Frequency_D.Text">
+    <value xml:space="preserve">Dag(en)</value>
+  </data>
+  <data name="Frequency_M.Text">
+    <value xml:space="preserve">Maand(en)</value>
+  </data>
+  <data name="Frequency_W.Text">
+    <value xml:space="preserve">We(e)k(en)</value>
+  </data>
+  <data name="Frequency_Y.Text">
+    <value xml:space="preserve">Jaar</value>
+  </data>
+  <data name="NoFee.Text">
+    <value xml:space="preserve">Gratis</value>
+  </data>
+  <data name="Renew.Text">
+    <value xml:space="preserve">Hernieuwen</value>
+  </data>
+  <data name="RSVPSuccess.Text">
+    <value xml:space="preserve">U bent succesvol toegevoegd aan de rol die behoort bij de ingevoerde RSVP code.</value>
+  </data>
+  <data name="RSVPFailure.Text">
+    <value xml:space="preserve">De ingevoerde RSVP (<i>répondez, s'il vous plaît</i>) code is niet bekend</value>
+  </data>
+  <data name="ServicesHelp.Text">
+    <value xml:space="preserve">In deze sectie kun u uw abonnementen op diensten van deze website beheren. Op sommige diensten kunt u zich abonneren door middel van een zogenaamde RSVP code. Als u zo'n RSVP code heef gekregen, dan kunt u deze op deze pagina invullen, en klikken op de "Abonneer" knop naast het veld.
+Om andere abonnementen te beheren, kun u de onderstaande tabel gebruiken. Sommige abonnementen kunnen betaald zijn. Als dit het geval is, dan wordt u automatisch doorverwezen naar een betaling site. Als u terugkomt op deze site, dan kunt u op deze pagina uw abonnement controleren.</value>
+  </data>
+  <data name="TrialFee.Text">
+    <value xml:space="preserve">{0} voor {1} {2}</value>
+  </data>
+  <data name="UseTrial.Text">
+    <value xml:space="preserve">Maak gebruik van demo periode</value>
+  </data>
+  <data name="RSVPHelp.Text">
+    <value xml:space="preserve">Deze sectie stelt u in de gelegenheid om uw abonnementen op deze site te onderhouden. U kunt zich voor diensten aanmelden m.b.v. een speciale RSVP code. Indien u een speciale RSVP code heeft ontvangen kunt u zich aanmelden door de code in te voeren in het RSVP Code veld en door vervolgens op de "Aanmelden"-knop naast het veld te klikken.</value>
+  </data>
+</root>

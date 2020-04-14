@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="EditProperty.Text">
+    <value xml:space="preserve">Wijzigen Profielveld Definitie</value>
+  </data>
+  <data name="AddContent.Action">
+    <value xml:space="preserve">Nieuw profielveld toevoegen</value>
+  </data>
+  <data name="ProfilePropertyDefinition_DataType.Text">
+    <value xml:space="preserve">Datatype:</value>
+  </data>
+  <data name="ProfilePropertyDefinition_DataType.Help">
+    <value xml:space="preserve">Kies het datatype voor dit veld</value>
+  </data>
+  <data name="ProfilePropertyDefinition_DefaultValue.Text">
+    <value xml:space="preserve">Standaardwaarde:</value>
+  </data>
+  <data name="ProfilePropertyDefinition_DefaultValue.Help">
+    <value xml:space="preserve">U kunt een standaardwaarde voor dit veld opgeven. </value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyCategory.Text">
+    <value xml:space="preserve">Categorie:</value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyCategory.Help">
+    <value xml:space="preserve">Geef de categorie voor dit veld. Dit zorgt ervoor dat gerelateerde velden gegroepeerd weergegeven worden.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyName.Text">
+    <value xml:space="preserve">Veldnaam:</value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyName.Help">
+    <value xml:space="preserve">Geef een veldnaam</value>
+  </data>
+  <data name="ProfilePropertyDefinition_ValidationExpression.Text">
+    <value xml:space="preserve">Validatie expressie:</value>
+  </data>
+  <data name="ProfilePropertyDefinition_ValidationExpression.Help">
+    <value xml:space="preserve">Door middel van een regular expression kunt u de inhoud van dit veld valideren.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_ViewOrder.Text">
+    <value xml:space="preserve">Sorteervolgorde</value>
+  </data>
+  <data name="ProfilePropertyDefinition_ViewOrder.Help">
+    <value xml:space="preserve">Geef de sorteervolgorde voor dit veld</value>
+  </data>
+  <data name="ProfilePropertyDefinition_Visible.Text">
+    <value xml:space="preserve">Zichtbaar:</value>
+  </data>
+  <data name="ProfilePropertyDefinition_Visible.Help">
+    <value xml:space="preserve">U kunt velden al dan niet zichtbaar maken voor de eindgebruiker</value>
+  </data>
+  <data name="ProfilePropertyDefinition_Required.Text">
+    <value xml:space="preserve">Verplicht:</value>
+  </data>
+  <data name="ProfilePropertyDefinition_Required.Help">
+    <value xml:space="preserve">Geef aan of dit veld ingevuld moet worden</value>
+  </data>
+  <data name="ProfilePropertyDefinition_Length.Text">
+    <value xml:space="preserve">Lengte:</value>
+  </data>
+  <data name="ProfilePropertyDefinition_Length.Help">
+    <value xml:space="preserve">Geef een maximale lengte voor dit veld. Dit is alleen van toepassing op sommige data types</value>
+  </data>
+  <data name="DuplicateName.Text">
+    <value xml:space="preserve">Dit Profielveld bestaat al. Profielvelden moeten uniek zijn.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyCategory.Required">
+    <value xml:space="preserve">De categorie moet ingevuld worden</value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyName.Required">
+    <value xml:space="preserve">De veldnaam is verplicht</value>
+  </data>
+  <data name="plCategoryName.Help">
+    <value xml:space="preserve">Voer de naam van de categorie in bij de geselecteerde taal</value>
+  </data>
+  <data name="plCategoryName.Text">
+    <value xml:space="preserve">Naam Categorie:</value>
+  </data>
+  <data name="plLocales.Help">
+    <value xml:space="preserve">Selecteer de gewenste taal</value>
+  </data>
+  <data name="plLocales.Text">
+    <value xml:space="preserve">Kies taal:</value>
+  </data>
+  <data name="plPropertyHelp.Help">
+    <value xml:space="preserve">in de geselecteerde taal</value>
+  </data>
+  <data name="plPropertyHelp.Text">
+    <value xml:space="preserve">Profielveld Help:</value>
+  </data>
+  <data name="plPropertyName.Help">
+    <value xml:space="preserve">Voer de tekst in voor de naam van het veld, in de geselecteerde taal</value>
+  </data>
+  <data name="plPropertyName.Text">
+    <value xml:space="preserve">Profielveld naam:</value>
+  </data>
+  <data name="cmdCreate.Text">
+    <value xml:space="preserve">Nieuw profielveld aanmaken</value>
+  </data>
+  <data name="cmdUpdate.Text">
+    <value xml:space="preserve">Profielveld bijwerken</value>
+  </data>
+  <data name="Introduction.Help">
+    <value xml:space="preserve">De eerste stap bij het bewerken van een profielveld is het bijwerken van de details. Maak de benodigde wijzigingen, en pas deze toe door op "Volgende" te klikken. </value>
+  </data>
+  <data name="Introduction.Title">
+    <value xml:space="preserve">Profielveld details bewerken</value>
+  </data>
+  <data name="List.Help">
+    <value xml:space="preserve">De Profielveld details zijn bijgewerkt. Dit veld is van het type "Lijst". De volgende stap is het definiëren van de items van de lijst.</value>
+  </data>
+  <data name="List.Title">
+    <value xml:space="preserve">Lijst items beheren</value>
+  </data>
+  <data name="Introduction_Add.Help">
+    <value xml:space="preserve">De eerste stap bij het aanmaken van een nieuw profielveld is het definiëren van de details. Voer de details van het veld in deze pagina in, en pas deze toe door op "Volgende" te klikken. NB:  De velden met een rode pijl moeten verplicht ingevuld worden</value>
+  </data>
+  <data name="Introduction_Add.Title">
+    <value xml:space="preserve">Profielveld details toevoegen</value>
+  </data>
+  <data name="Localization.Help">
+    <value xml:space="preserve">De volgende stap is het beheren van de vertaling van dit veld. Selecteer de taal die u wilt bijwerken, voeg tekst toe of bewerk bestaande tekst, en klik op "Bijwerken"</value>
+  </data>
+  <data name="Localization.Title">
+    <value xml:space="preserve">Beheer vertalingen</value>
+  </data>
+  <data name="cmdCancel.Text">
+    <value xml:space="preserve">Terug naar profielveld overzicht</value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyName.Validation">
+    <value xml:space="preserve">De veldnaam mag geen spaties bevatten</value>
+  </data>
+  <data name="plPropertyRequired.Help">
+    <value xml:space="preserve">Geef de foutmelding in die moet worden getoond wanneer het veld verplicht is maar niet aanwezig.</value>
+  </data>
+  <data name="plPropertyRequired.Text">
+    <value xml:space="preserve">Verplichte Foutmelding:</value>
+  </data>
+  <data name="plPropertyValidation.Help">
+    <value xml:space="preserve">Geef de foutmelding in die moet worden getoond wanneer het veld niet door een regular expression kan worden gevalideerd.</value>
+  </data>
+  <data name="plPropertyValidation.Text">
+    <value xml:space="preserve">Validatie Foutmelding:</value>
+  </data>
+  <data name="RequiredTextBox.Text">
+    <value xml:space="preserve">Indien u een Tekstbox type veld verplicht maakt moet de lengte groter zijn dan 0</value>
+  </data>
+  <data name="AddProperty.Text">
+    <value xml:space="preserve">Toevoegen Profielveld Definitie</value>
+  </data>
+  <data name="ProfilePropertyDefinition_DefaultVisibility.Help">
+    <value xml:space="preserve">U kunt instellen dat de standaardzichtbaarheid van de profieleigenschap.  Dit is de aanvankelijke waarde van de zichtbaarheid en is van toepassing als de gebruiker niet het, wijzigt bij het bewerken van hun profiel.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_DefaultVisibility.Text">
+    <value xml:space="preserve">Standaardzichtbaarheid:</value>
+  </data>
+  <data name="ProfilePropertyDefinition_ReadOnly.Help">
+    <value xml:space="preserve">U kunt een profieleigenschap alleen-lezen maken.  Een eigenschap lezen-onlly kan bewerkt worden door de admin en is alleen-readon bij de eindgebruiker.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_ReadOnly.Text">
+    <value xml:space="preserve">Alleen-lezen:</value>
+  </data>
+  <data name="Cancel.Text">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="Return.Text">
+    <value xml:space="preserve">Bijwerken</value>
+  </data>
+  <data name="valPropertyName.ErrorMessage">
+    <value xml:space="preserve">U moet een naam voor deze eigenschap opgeven.</value>
+  </data>
+</root>

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle_usersettings.Text">
+    <value xml:space="preserve">Instellingen voor gebruikers</value>
+  </data>
+  <data name="ProviderSettings.Text">
+    <value xml:space="preserve">Instellingen Membership Provider</value>
+  </data>
+  <data name="UserAccounts.Text">
+    <value xml:space="preserve">Instellingen Gebruiker Accounts</value>
+  </data>
+  <data name="Column_Address.Text">
+    <value xml:space="preserve">Toon Adres kolom:</value>
+  </data>
+  <data name="Column_Address.Help">
+    <value xml:space="preserve">Toon Adres kolom</value>
+  </data>
+  <data name="Column_Authorized.Text">
+    <value xml:space="preserve">Toon Geautoriseerd kolom:</value>
+  </data>
+  <data name="Column_Authorized.Help">
+    <value xml:space="preserve">Toon Geautoriseerd kolom</value>
+  </data>
+  <data name="Column_CreatedDate.Text">
+    <value xml:space="preserve">Toon Aanmaakdatum kolom:</value>
+  </data>
+  <data name="Column_CreatedDate.Help">
+    <value xml:space="preserve">Toon Aanmaakdatum kolom</value>
+  </data>
+  <data name="Column_DisplayName.Text">
+    <value xml:space="preserve">Toon Naam kolom:</value>
+  </data>
+  <data name="Column_DisplayName.Help">
+    <value xml:space="preserve">Toon Naam kolom:</value>
+  </data>
+  <data name="Column_Email.Text">
+    <value xml:space="preserve">Toon E-mail kolom:</value>
+  </data>
+  <data name="Column_Email.Help">
+    <value xml:space="preserve">Toon E-mail kolom</value>
+  </data>
+  <data name="Column_FirstName.Text">
+    <value xml:space="preserve">Toon Voornaam kolom:</value>
+  </data>
+  <data name="Column_FirstName.Help">
+    <value xml:space="preserve">Toon Voornaam kolom</value>
+  </data>
+  <data name="Column_LastLogin.Text">
+    <value xml:space="preserve">Toon Laatste Login datum kolom:</value>
+  </data>
+  <data name="Column_LastLogin.Help">
+    <value xml:space="preserve">Toon Laatste Login datum kolom</value>
+  </data>
+  <data name="Column_LastName.Text">
+    <value xml:space="preserve">Toon Achternaam Kolom:</value>
+  </data>
+  <data name="Column_LastName.Help">
+    <value xml:space="preserve">Toon Achternaam Kolom</value>
+  </data>
+  <data name="Column_Telephone.Text">
+    <value xml:space="preserve">Toon Telefoon kolom:</value>
+  </data>
+  <data name="Column_Telephone.Help">
+    <value xml:space="preserve">Toon Telefoon kolom</value>
+  </data>
+  <data name="Records_PerPage.Text">
+    <value xml:space="preserve">Gebruikers per pagina:</value>
+  </data>
+  <data name="Records_PerPage.Help">
+    <value xml:space="preserve">Geef het aantal gebruikers dat per pagina weergeven moet worden</value>
+  </data>
+  <data name="ProviderSettingsHelp.Text">
+    <value xml:space="preserve">In deze sectie kunt u zien wat de instellingen zijn van de lidmaatschap provider. Sommige providers staan toe dat de instellingen gewijzigd worden. De standaard provider is gebaseerd op de ASP.NET MemberRole. Aanpassingen aan instellingen voor de standaardprovider moeten in web.config gedaan worden, en kunnen hier niet gewijzigd worden.</value>
+  </data>
+  <data name="PasswordSettings.Text">
+    <value xml:space="preserve">Wachtwoord Verloop Instellingen</value>
+  </data>
+  <data name="PasswordSettingsHelp.Text">
+    <value xml:space="preserve">In deze sectie kunt u het automatisch verlopen van wachtwoorden regelen.</value>
+  </data>
+  <data name="Display_Mode.Text">
+    <value xml:space="preserve">Standaard weergave modus</value>
+  </data>
+  <data name="Display_Mode.Help">
+    <value xml:space="preserve">Kies de standaard weergave modus voor de gebruikerstabel</value>
+  </data>
+  <data name="Security_UsersControl.Text">
+    <value xml:space="preserve">Weergave modus gebruikers in Beheer Rollen</value>
+  </data>
+  <data name="Security_UsersControl.Help">
+    <value xml:space="preserve">Kies het control dat gebruikt wordt in de Beheer Rollen module</value>
+  </data>
+  <data name="FirstLetter.Text">
+    <value xml:space="preserve">Eerste letter</value>
+  </data>
+  <data name="Combo.Text">
+    <value xml:space="preserve">Selectiemenu</value>
+  </data>
+  <data name="TextBox.Text">
+    <value xml:space="preserve">Tekst Box</value>
+  </data>
+  <data name="Display_SuppressPager.Help">
+    <value xml:space="preserve">Vink deze optie aan het pagineer control te verbergen bij slechts één pagina</value>
+  </data>
+  <data name="Display_SuppressPager.Text">
+    <value xml:space="preserve">Pagineren onderdrukken?</value>
+  </data>
+  <data name="Profile_ManageServices.Help">
+    <value xml:space="preserve">Vink deze optie aan om het onderdeel "Diensten beheren" weer te geven in het gebruikersprofiel</value>
+  </data>
+  <data name="Profile_ManageServices.Text">
+    <value xml:space="preserve">"Diensten beheren" weergeven</value>
+  </data>
+  <data name="MembersOnly.Text">
+    <value xml:space="preserve">Alleen voor leden</value>
+  </data>
+  <data name="Security_DisplayNameFormat.Help">
+    <value xml:space="preserve">Hier kan een optioneel formaat voor de weergavenaam van gebruikers gespecificeerd worden. Het formaat kan tokens bevatten voor dynamische vervanging, zoals [FIRSTNAME] [LASTNAME]. Als een weergavenaam ingesteld is, kunnen gebruikers deze niet meer zelf aanmaken en bewerken</value>
+  </data>
+  <data name="Security_DisplayNameFormat.Text">
+    <value xml:space="preserve">Weergavenaam formaat:</value>
+  </data>
+  <data name="InvalidRegex.Text">
+    <value xml:space="preserve">{0}'s waarde is een niet geldige regular expression.</value>
+  </data>
+  <data name="ControlTitle_settings.Text">
+    <value xml:space="preserve">Instellingen voor gebruikersaccounts</value>
+  </data>
+  <data name="CannotChangeSettings.Text">
+    <value xml:space="preserve">Deze site is onderdeel van een sitegroep, deze instellingen worden beheerd door de hoofdsite.</value>
+  </data>
+</root>

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AdminHeading.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Configureer {0} Extensie instellingen voor deze site</value>
+  </data>
+  <data name="chkDelete.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Verwijder bestanden</value>
+  </data>
+  <data name="cmdCreate.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Voeg nieuwe extensie toe</value>
+  </data>
+  <data name="cmdCreateContainer.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Voeg nieuwe container toe</value>
+  </data>
+  <data name="cmdCreateLanguage.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Voeg nieuwe taal toe</value>
+  </data>
+  <data name="cmdCreateModule.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Voeg nieuwe module toe</value>
+  </data>
+  <data name="cmdCreateSkin.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Voeg nieuw thema toe</value>
+  </data>
+  <data name="cmdDelete.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">De-installeer extensie</value>
+  </data>
+  <data name="cmdEditor.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Instellingen</value>
+  </data>
+  <data name="cmdExtension.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Informatie</value>
+  </data>
+  <data name="cmdLicense.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Licentie</value>
+  </data>
+  <data name="cmdPackage.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Maak een pakket</value>
+  </data>
+  <data name="cmdReleaseNotes.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Releaseopmerkingen</value>
+  </data>
+  <data name="cmdSecurity.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Beveiliging</value>
+  </data>
+  <data name="cmdUpdate.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Extensie bijwerken</value>
+  </data>
+  <data name="cmdUpdateLanguage.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Taal bijwerken</value>
+  </data>
+  <data name="cmdUpdateLicense.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Licentie bijwerken</value>
+  </data>
+  <data name="cmdUpdateModule.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Module bijwerken</value>
+  </data>
+  <data name="cmdUpdateReleaseNotes.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Releaseopmerkingen bijwerken</value>
+  </data>
+  <data name="cmdUpdateSkin.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Thema bijwerken</value>
+  </data>
+  <data name="Controls.Help" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Geeft de modulebesturing van de module-definitie weer.</value>
+  </data>
+  <data name="ControlTitle_edit.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Extensie wijzigen</value>
+  </data>
+  <data name="Core.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Kern</value>
+  </data>
+  <data name="DuplicateName.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Pakketten moeten een unieke naam hebben.</value>
+  </data>
+  <data name="EditHelp.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">In dit gedeelte kunt u de pakketinformatie voor deze extensie configureren.</value>
+  </data>
+  <data name="EditLanguageHelp.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">In dit gedeelte kunt u de pakketinformatie voor dit taalpakket configureren.</value>
+  </data>
+  <data name="EditModuleHelp.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">In dit gedeelte kunt u de pakketinformatie voor deze module configureren.</value>
+  </data>
+  <data name="EditSkinHelp.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">In dit gedeelte kunt u de pakketinformatie voor dit thema configureren.</value>
+  </data>
+  <data name="EditTitle.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Extensiedetails</value>
+  </data>
+  <data name="ExtensionSettings.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Extensie-instellingen</value>
+  </data>
+  <data name="HostHeading.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Extensie-instellingen {0} configureren</value>
+  </data>
+  <data name="LanguageMessage.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Klik hier om het taalpakket te verkrijgen</value>
+  </data>
+  <data name="Languages.Action" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Taaleditor</value>
+  </data>
+  <data name="ManageSkins.Action" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Beheer thema's</value>
+  </data>
+  <data name="Package.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Pakket</value>
+  </data>
+  <data name="PackageSettings.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Pakketinstellingen</value>
+  </data>
+  <data name="PackageType.Error" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Je moet een taalpakkettype kiezen.</value>
+  </data>
+  <data name="PackageUpdated.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Extensie succesvol bijgewerkt.</value>
+  </data>
+  <data name="Permissions.Help" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Vink de vinkvakjes aan om de machtigingen voor dit pakket in te stellen.</value>
+  </data>
+  <data name="Permissions.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Pakketmachtigingen:</value>
+  </data>
+  <data name="plPackageType.Help" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Selecteer het type taalpakket die je aan wilt maken.</value>
+  </data>
+  <data name="plPackageType.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Taalpakkettype:</value>
+  </data>
+  <data name="TimeZones.Action" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Tijdszone-editor</value>
+  </data>
+  <data name="UpgradeMessage.Text" lastModified="2018-07-20 13:50:09">
+    <value xml:space="preserve">Klik hier om de upgrade te verkrijgen</value>
+  </data>
+</root>

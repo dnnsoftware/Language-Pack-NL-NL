@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AllowResize.Help" lastModified="2015-12-30 09:56:34">
+    <value xml:space="preserve">Selecteer deze optie toe te staan dat gebruikers de grootte van de iconen kunnen aanpassen.</value>
+  </data>
+  <data name="AllowResize.Text">
+    <value xml:space="preserve">Icoon Grootte Aanpassen Toestaan</value>
+  </data>
+  <data name="AllowViewChange.Help">
+    <value xml:space="preserve">Het switchen tussen de gedetailleerde en simpele weergave toestaan.</value>
+  </data>
+  <data name="AllowViewChange.Text">
+    <value xml:space="preserve">Veranderen Weergave Toestaan</value>
+  </data>
+  <data name="ConsoleWidth.Help">
+    <value xml:space="preserve">Deze waarde leeg laten om de iconen horizontaal te laten uitbreiden. Stel deze waarde in om de breedte van het console te minimaliseren. B.v.,  stel deze waarde in op 400 voor 2 kolommen met iconen.</value>
+  </data>
+  <data name="ConsoleWidth.Text">
+    <value xml:space="preserve">Breedte</value>
+  </data>
+  <data name="ControlTitle_settings.Text">
+    <value xml:space="preserve">Console Instellingen</value>
+  </data>
+  <data name="DefaultSize.Help">
+    <value xml:space="preserve">Stel de grootte van het icoon vast.</value>
+  </data>
+  <data name="DefaultSize.Text">
+    <value xml:space="preserve">Standaard Icoon Grootte</value>
+  </data>
+  <data name="DefaultView.Help">
+    <value xml:space="preserve">Bepaal de standaard weergave. Simpele weergave zal iconen tonen met een de pagina beschrijving als tooltip. Gedetailleerde weergave zal een lijst met beschrijvingen voor elk item tonen.</value>
+  </data>
+  <data name="DefaultView.Text">
+    <value xml:space="preserve">Standaard Weergave</value>
+  </data>
+  <data name="Friends.Text">
+    <value xml:space="preserve">Vrienden</value>
+  </data>
+  <data name="Group.Text">
+    <value xml:space="preserve">Groep</value>
+  </data>
+  <data name="Hide.Text">
+    <value xml:space="preserve">Simpele View</value>
+  </data>
+  <data name="IconFile.Text">
+    <value xml:space="preserve">Kleine iconen (16px)</value>
+  </data>
+  <data name="IconFileLarge.Text">
+    <value xml:space="preserve">Grootte iconen (32px)</value>
+  </data>
+  <data name="IconNone.Text">
+    <value xml:space="preserve">Geen iconen</value>
+  </data>
+  <data name="IncludeHiddenPages.Help" lastModified="2015-12-30 11:21:06">
+    <value xml:space="preserve">Selecteer deze optie om niet zichtbare pagina's mee te nemen in de weergave.</value>
+  </data>
+  <data name="IncludeHiddenPages.Text">
+    <value xml:space="preserve">Verborgen pagina's meenemen</value>
+  </data>
+  <data name="IncludeParent.Help">
+    <value xml:space="preserve">Schakel dit selectievakje in om ook de bovenliggende pagina.</value>
+  </data>
+  <data name="IncludeParent.Text">
+    <value xml:space="preserve">Bovenliggende omvatten</value>
+  </data>
+  <data name="Members.Text">
+    <value xml:space="preserve">Leden</value>
+  </data>
+  <data name="Mode.Help">
+    <value xml:space="preserve">Selecteer de modus van de module.</value>
+  </data>
+  <data name="Mode.Text">
+    <value xml:space="preserve">Modus</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">&lt;p&gt;De console module toont kind pagina's als pictogrammen en links, of categorieën om te helpen bij de navigatie.  De console-module heeft 4 verschillende weergavemodi: &lt;ul&gt;&lt;li&gt;kleine pictogrammen met details als knopinfo (kleine pictogrammen, eenvoudige weergave)&lt;/li&gt; &lt;li&gt;grote pictogrammen details als knopinfo (grote pictogrammen, eenvoudige weergave)&lt;/li&gt; &lt;li&gt;kleine pictogrammen lijst met details (kleine pictogrammen, detailweergave)&lt;/li&gt; &lt;li&gt;groot pictogram lijst met details (grote pictogrammen, detailweergave)&lt;/li&gt;&lt;/ul&gt;&lt;/P&gt; &lt;h3&gt;pagina-instellingen hangt af van de console-module:&lt;/h3&gt; &lt;table cellpadding="4" border="1" style="border:solid 1px #dcdcdc;border-collapse:collapse;"&gt; &lt;tr&gt;&lt;td nowrap="nowrap"&gt; Paginanaam&lt;/td&gt; &lt;td&gt;de paginanaam wordt weergegeven als de link titel.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt; Paginabeschrijving&lt;/td&gt; &lt;td&gt;Beschrijving van de pagina wordt weergegeven als de tooltip of detail.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt; handicap&lt;/td&gt; &lt;td&gt;categorie titels worden weergegeven als de pagina heeft 'Handicap' gecontroleerd. Onderliggende pagina's van de handicap pagina getoond onder de titel.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt; Pictogrambestand&lt;/td&gt; &lt;td&gt;Dit pictogram wordt gebruikt in kleine pictogram weergaven.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt; Groot pictogrambestand&lt;/td&gt; &lt;td&gt;Dit pictogram wordt gebruikt in grote pictogram weergaven.&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt; &lt;i&gt;Tip: 'Include in menu' instelling zal verbergen pagina's uit het menu, maar niet het console.&lt;/i&gt; &lt; br / &gt; &lt; br / &gt; &lt;h3&gt;Console Module-instellingen&lt;/h3&gt; &lt;table cellpadding="4" border="1" style="border:solid 1px #dcdcdc;border-collapse:collapse;"&gt; &lt;tr&gt;&lt;td nowrap="nowrap"&gt; Toon kinderen van&lt;/td&gt; &lt;td&gt;als u een pagina alle onderliggende pagina's van die pagina wordt weergegeven. Laat dit veld leeg om alle onderliggende pagina's voor de huidige pagina worden weergegeven.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt; standaard pictogramgrootte&lt;/td&gt; &lt;td&gt;bepaalt de pictogramgrootte.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt; toestaan pictogram resize&lt;/td&gt; &lt;td&gt;kan de gebruiker het formaat van de pictogrammen wijzigen.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt; standaardweergave&lt;/td&gt; &lt;td&gt;bepaalt de standaardweergave. Eenvoudige weergave weergegeven pictogrammen met paginabeschrijvingen als knopinfo. Gedetailleerde weergave toont een lijst met beschrijvingen voor elk item.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt; toestaan weergave wijzigen&lt;/td&gt; &lt;td&gt;kan de gebruiker schakelen tussen weergaven van gedetailleerde en eenvoudige.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt; Toon tooltip&lt;/td&gt; &lt;td&gt;Toon een tooltip met gedetailleerde beschrijving wanneer zweefde over pictogrammen in de eenvoudige weergave.&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td nowrap="nowrap"&gt; breedte&lt;/td&gt; &lt;td&gt;laat deze waarde leeg om de pictogrammen te breiden horizontaal. Stel deze waarde om de breedte van de console te minimaliseren. Deze waarde bijvoorbeeld instelt op 400 voor 2 kolommen van pictogrammen.&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt; &lt;i&gt;Tip: U kunt voorkomen dat gebruikers de indeling van de pagina wijzigen door het vinkje uit 'toestaan pictogram resize' en 'Toestaan weergavewijziging'.&lt;/i&gt;</value>
+  </data>
+  <data name="Normal.Text">
+    <value xml:space="preserve">Normaal</value>
+  </data>
+  <data name="OrderTabsByHierarchy.Help">
+    <value xml:space="preserve">Door deze optie te selecteren zullen pagina's met dochter pagina's naar onderen worden geplaatst in de lijst. Dit wordt gedaan zodat pagina's met het zelfde niveau in het zelfde gebied worden weergegeven in de console module.</value>
+  </data>
+  <data name="OrderTabsByHierarchy.Text">
+    <value xml:space="preserve">Rangschik Onderdelen op basis van hierargie</value>
+  </data>
+  <data name="Owner.Text">
+    <value xml:space="preserve">Eigenaar</value>
+  </data>
+  <data name="ParentTab.Help">
+    <value xml:space="preserve">Een pagina selecteren betekent dat alle sub-pagina's voor de pagina zullen worden getoond. Laat dit veld leeg om alle sub-pagina's voor de huidige pagina te tonen. </value>
+  </data>
+  <data name="ParentTab.Text">
+    <value xml:space="preserve">Toon sub-pagina's van</value>
+  </data>
+  <data name="Profile.Text">
+    <value xml:space="preserve">Profiel</value>
+  </data>
+  <data name="Show.Text">
+    <value xml:space="preserve">Gedetailleerde Weergave</value>
+  </data>
+  <data name="ShowTooltip.Help">
+    <value xml:space="preserve">Toon een tooltip met een gedetailleerde beschrijving in de Simpele weergave wanneer er gehoverd wordt over de iconen.</value>
+  </data>
+  <data name="ShowTooltip.Text">
+    <value xml:space="preserve">Toon tooltip</value>
+  </data>
+  <data name="tabsLabel.Help">
+    <value xml:space="preserve">U kunt de zichtbaarheid van afzonderlijke pagina's beheren.</value>
+  </data>
+  <data name="tabsLabel.Text">
+    <value xml:space="preserve">De instellingen van de zichtbaarheid van de pagina:</value>
+  </data>
+  <data name="User.Text">
+    <value xml:space="preserve">Gebruiker</value>
+  </data>
+</root>

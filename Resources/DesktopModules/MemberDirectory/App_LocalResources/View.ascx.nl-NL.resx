@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddFriend.Text">
+    <value xml:space="preserve">Voeg toe als vriend</value>
+  </data>
+  <data name="Follow.Text">
+    <value xml:space="preserve">Volg</value>
+  </data>
+  <data name="Loading.Text">
+    <value xml:space="preserve">Laden....</value>
+  </data>
+  <data name="LoadMore.Text">
+    <value xml:space="preserve">Meer laden...</value>
+  </data>
+  <data name="SendMessage.Text">
+    <value xml:space="preserve">Stuur bericht</value>
+  </data>
+  <data name="UserName.Text">
+    <value xml:space="preserve">Gebruikersnaam</value>
+  </data>
+  <data name="RemoveFriend.Text">
+    <value xml:space="preserve">Vriend verwijderen</value>
+  </data>
+  <data name="FriendPending.Text">
+    <value xml:space="preserve">Vriendenverzoek in afwachting van</value>
+  </data>
+  <data name="AcceptFriend.Text">
+    <value xml:space="preserve">Vriendenverzoek aanvaarden</value>
+  </data>
+  <data name="City.Text">
+    <value xml:space="preserve">Stad</value>
+  </data>
+  <data name="Email.Text">
+    <value xml:space="preserve">E-mail</value>
+  </data>
+  <data name="UnFollow.Text">
+    <value xml:space="preserve">Stop volgen</value>
+  </data>
+  <data name="Search.Text">
+    <value xml:space="preserve">Zoeken</value>
+  </data>
+  <data name="AdvancedSearch.Text">
+    <value xml:space="preserve">Geavanceerd zoeken</value>
+  </data>
+  <data name="Country.Text">
+    <value xml:space="preserve">Land</value>
+  </data>
+  <data name="Name.Text">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="DisplayName.Text">
+    <value xml:space="preserve">Weergavenaam</value>
+  </data>
+  <data name="Prefix.Text">
+    <value xml:space="preserve">Voorvoegsel</value>
+  </data>
+  <data name="NoMembers.Text">
+    <value xml:space="preserve">Geen leden gevonden die voldoen aan de zoek criteria</value>
+  </data>
+  <data name="ServerError.Text">
+    <value xml:space="preserve">Er is een fout opgetreden tijdens het verwerken van het verzoek. Probeer later opnieuw.</value>
+  </data>
+  <data name="ServerErrorWithDescription.Text">
+    <value xml:space="preserve">Er is een fout opgetreden tijdens het verwerken van het verzoek:</value>
+  </data>
+  <data name="SearchConnections.Text">
+    <value xml:space="preserve">Zoek verbindingen...</value>
+  </data>
+  <data name="Refresh.Text">
+    <value xml:space="preserve">Resultaten vernieuwen</value>
+  </data>
+  <data name="SearchError.Text">
+    <value xml:space="preserve">U kunt alleen zoeken met alfanumurieke tekens en spaties</value>
+  </data>
+  <data name="Attachments.Text">
+    <value xml:space="preserve">Bijlage(s)</value>
+  </data>
+  <data name="AutoSuggestError.Text">
+    <value xml:space="preserve">Er is een fout opgetreden bij het ophalen van de suggesties</value>
+  </data>
+  <data name="Browse.Text">
+    <value xml:space="preserve">Browse vanuit de site</value>
+  </data>
+  <data name="Cancel.Text">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="CreateMessageError.Text">
+    <value xml:space="preserve">Er is een fout opgetreden bij het aanmaken van het bericht. Probeer het later opnieuw.</value>
+  </data>
+  <data name="CreateMessageErrorWithDescription.Text">
+    <value xml:space="preserve">Er is een fout opgetreden bij het aanmaken van het bericht:</value>
+  </data>
+  <data name="DismissThis.Text">
+    <value xml:space="preserve">Deze afsluiten</value>
+  </data>
+  <data name="Message.Text">
+    <value xml:space="preserve">Uw bericht</value>
+  </data>
+  <data name="MessageSent.Text">
+    <value xml:space="preserve">Uw bericht is succesvol verzonden.</value>
+  </data>
+  <data name="MessageSentTitle.Text">
+    <value xml:space="preserve">Bericht verzenden</value>
+  </data>
+  <data name="NoResults.Text">
+    <value xml:space="preserve">Geen resultaten</value>
+  </data>
+  <data name="Remove.Text">
+    <value xml:space="preserve">Bijlage verwijderen</value>
+  </data>
+  <data name="Searching.Text">
+    <value xml:space="preserve">Zoeken...</value>
+  </data>
+  <data name="Send.Text">
+    <value xml:space="preserve">Versturen</value>
+  </data>
+  <data name="Subject.Text">
+    <value xml:space="preserve">Onderwerp</value>
+  </data>
+  <data name="Throttling.Text">
+    <value xml:space="preserve">Wacht AUB voor het verzenden van een nieuw bericht.</value>
+  </data>
+  <data name="Title.Text">
+    <value xml:space="preserve">Bericht samenstellen</value>
+  </data>
+  <data name="To.Text">
+    <value xml:space="preserve">Verstuur naar</value>
+  </data>
+  <data name="Upload.Text">
+    <value xml:space="preserve">Uploaden vanaf computer</value>
+  </data>
+</root>

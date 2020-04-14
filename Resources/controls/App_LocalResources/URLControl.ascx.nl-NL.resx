@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Add.Text">
+    <value xml:space="preserve">Voeg een nieuwe URL toe</value>
+  </data>
+  <data name="Cancel.Text">
+    <value xml:space="preserve">Selecteer een bestaand bestand</value>
+  </data>
+  <data name="Delete.Text">
+    <value xml:space="preserve">Verwijder de geselecteerde URL uit de lijst&lt;br /&gt;</value>
+  </data>
+  <data name="File.Text">
+    <value xml:space="preserve">Bestandsnaam:&lt;br /&gt;</value>
+  </data>
+  <data name="FileType.Text">
+    <value xml:space="preserve">Bestand (Een bestand in uw website)</value>
+  </data>
+  <data name="Folder.Text">
+    <value xml:space="preserve">Bestandslocatie:&lt;br /&gt;</value>
+  </data>
+  <data name="Image.Text">
+    <value xml:space="preserve">Afbeelding:&lt;br /&gt;</value>
+  </data>
+  <data name="ImageType.Text">
+    <value xml:space="preserve">Systeem Afbeelding</value>
+  </data>
+  <data name="Log.Text">
+    <value xml:space="preserve">Gebruiker, datum en tijd vastleggen voor elke klik op link?&lt;br/&gt;</value>
+  </data>
+  <data name="NewWindow.Text">
+    <value xml:space="preserve">Open link in nieuwe browser?&lt;br/&gt;</value>
+  </data>
+  <data name="NoneType.Text">
+    <value xml:space="preserve">Geen</value>
+  </data>
+  <data name="NoPermission.Text">
+    <value xml:space="preserve">U heeft geen toestemming om de bestanden op de site te zien</value>
+  </data>
+  <data name="NoUser.Text">
+    <value xml:space="preserve">De ingevoerde gebruikersnaam komt niet overeen met een gebruiker van deze website.</value>
+  </data>
+  <data name="NoWritePermission.Text">
+    <value xml:space="preserve">U heeft geen toestemming op bestanden naar deze site te uploaden.</value>
+  </data>
+  <data name="Root.Text">
+    <value xml:space="preserve">Beginmap</value>
+  </data>
+  <data name="Save.Text">
+    <value xml:space="preserve">Geselecteerd bestand uploaden&lt;br/&gt;</value>
+  </data>
+  <data name="Select.Text">
+    <value xml:space="preserve">Selecteer een bestaande URL</value>
+  </data>
+  <data name="Tab.Text">
+    <value xml:space="preserve">Pagina:</value>
+  </data>
+  <data name="TabType.Text">
+    <value xml:space="preserve">Pagina (Een pagina uit uw website)</value>
+  </data>
+  <data name="Track.Text">
+    <value xml:space="preserve">Aantal kliks op deze link vastleggen?&lt;br/&gt;</value>
+  </data>
+  <data name="Type.Text" lastModified="2018-07-18 13:13:44">
+    <value xml:space="preserve">Linktype:</value>
+  </data>
+  <data name="Upload.Text">
+    <value xml:space="preserve">Nieuw bestand uploaden</value>
+  </data>
+  <data name="UploadError.Text">
+    <value xml:space="preserve">Bestandstype {1} is niet toegestaan in deze context. Dit zijn de bestandstypes die zijn toegestaan: {0}</value>
+  </data>
+  <data name="URL.Text">
+    <value xml:space="preserve">Locatie: (geef de locatie van de link)&lt;br/&gt;</value>
+  </data>
+  <data name="URLType.Text">
+    <value xml:space="preserve">URL (Een link naar een externe bron)</value>
+  </data>
+  <data name="User.Text">
+    <value xml:space="preserve">Geef de gebruikersnaam van een bestaande gebruiker van deze site:&lt;br/&gt;</value>
+  </data>
+  <data name="UserType.Text">
+    <value xml:space="preserve">Gebruiker (bestaande gebruiker van uw website)</value>
+  </data>
+</root>

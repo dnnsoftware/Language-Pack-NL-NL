@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle_settings.Text">
+    <value xml:space="preserve">Instellingen voor Zoekresultaten</value>
+  </data>
+  <data name="filtersRequired.Text">
+    <value xml:space="preserve">Er moet tenminste één content type worden geselecteerd</value>
+  </data>
+  <data name="linkTargetOnSamePage.Text">
+    <value xml:space="preserve">Op dezelfde pagina</value>
+  </data>
+  <data name="linkTargetOpenNewPage.Text">
+    <value xml:space="preserve">Open nieuwe pagina</value>
+  </data>
+  <data name="plEnableWildSearch.Help">
+    <value xml:space="preserve">Zoekacties kunnen worden uitgevoerd door delen van woorden in het zoekvenster in te voeren. in de zoekresultaten zullen dan alle resultaten terugkomen die het hele woord of een deel ervan bevatten. Schakel deze optie uit als het genereren van de zoekresultaten te lang duurt.</value>
+  </data>
+  <data name="plEnableWildSearch.Text">
+    <value xml:space="preserve">Zoekacties op basis van wildcard standaard toestaan</value>
+  </data>
+  <data name="plResultsScopeForFilters.Help">
+    <value xml:space="preserve">Begrens de zoekresultaten door een inhoud type(s) te selecteren</value>
+  </data>
+  <data name="plResultsScopeForFilters.Text">
+    <value xml:space="preserve">Resultaten scope voor inhoud types</value>
+  </data>
+  <data name="plResultsScopeForPortals.Help">
+    <value xml:space="preserve">Begrens de zoekresultaten door een site(s) te selecteren</value>
+  </data>
+  <data name="plResultsScopeForPortals.Text">
+    <value xml:space="preserve">Resultaten scope voor site(s)</value>
+  </data>
+  <data name="plShowDescriptionForSnippet.Help" lastModified="2018-07-24 12:13:17">
+    <value xml:space="preserve">Toon beschrijving i.p.v. snippet. Snippet zal worden getoond als er geen beschrijving aanwezig is.</value>
+  </data>
+  <data name="plShowDescriptionForSnippet.Text" lastModified="2018-07-24 12:13:17">
+    <value xml:space="preserve">Toon beschrijving i.p.v. zoek snippet</value>
+  </data>
+  <data name="plTitleLinkTarget.Help">
+    <value xml:space="preserve">Stel vast of een link in het zelfde venster wordt geopend of dat er een nieuwe venster wordt geopende voor het weergeven van de resultaten</value>
+  </data>
+  <data name="plTitleLinkTarget.Text">
+    <value xml:space="preserve">Titel link doel</value>
+  </data>
+  <data name="portalsRequired.Text">
+    <value xml:space="preserve">Er moet tenminste één site worden geselecteerd</value>
+  </data>
+</root>

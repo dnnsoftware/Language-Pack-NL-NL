@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle_help.Text">
+    <value xml:space="preserve">Module Help</value>
+  </data>
+  <data name="lblHelp.Text">
+    <value xml:space="preserve">Er is geen hulp informatie beschikbaar voor deze module</value>
+  </data>
+  <data name="cmdHelp.Text">
+    <value xml:space="preserve">Bekijk online help</value>
+  </data>
+  <data name="lblInfo.Text">
+    <value xml:space="preserve">&lt;h1&gt;Module Informatie&lt;/h1&gt;&lt;p&gt;Toont de technische informatie van de geassocieerde module instance.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Organizatie:&lt;/b&gt; [ORGANIZATION]&lt;br /&gt;&lt;b&gt;Eigenaar:&lt;/b&gt; [OWNER]&lt;br /&gt;&lt;b&gt;E-mail:&lt;/b&gt; [EMAIL]&lt;br /&gt;&lt;b&gt;Url:&lt;/b&gt; [URL]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Module:&lt;/b&gt; [MODULE]&lt;br /&gt;&lt;b&gt;Versie:&lt;/b&gt; [VERSION]&lt;br /&gt;&lt;b&gt;Definitie:&lt;/b&gt; [DEFINITION]&lt;br /&gt;&lt;b&gt;Control:&lt;/b&gt; [CONTROL]&lt;br /&gt;&lt;b&gt;Bron:&lt;/b&gt; [SRC]&lt;/p&gt; </value>
+  </data>
+</root>

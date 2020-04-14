@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutMe.Text">
+    <value xml:space="preserve">Over mij</value>
+  </data>
+  <data name="EmptyAboutMe.Text">
+    <value xml:space="preserve"> Er is geen biografie informatie van deze gebruiker </value>
+  </data>
+  <data name="EmptyLocation.Text">
+    <value xml:space="preserve">Er is geen informatie over de locatie voor deze gebruiker</value>
+  </data>
+  <data name="EmptyGetInTouch.Text">
+    <value xml:space="preserve">Er is geen contact informatie van deze gebruiker</value>
+  </data>
+  <data name="ControlTitle_viewprofile.Text">
+    <value xml:space="preserve">Bekijk profiel</value>
+  </data>
+  <data name="Edit.Text">
+    <value xml:space="preserve">Wijzig profiel</value>
+  </data>
+  <data name="Email.Text">
+    <value xml:space="preserve">E-mail</value>
+  </data>
+  <data name="GetInTouch.Text">
+    <value xml:space="preserve">Manieren om met mij in contact te komen</value>
+  </data>
+  <data name="Location.Text">
+    <value xml:space="preserve">Locatie</value>
+  </data>
+  <data name="MyAccount.Text">
+    <value xml:space="preserve">Mijn account</value>
+  </data>
+  <data name="NoProperties.Text">
+    <value xml:space="preserve">De gebruiker heeft gekozen om zijn/haar profiel te verbergen.</value>
+  </data>
+</root>

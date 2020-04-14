@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AssociateHelp.Text">
+    <value xml:space="preserve">U kunt uw inlog informatie koppelen met een bestaand gebruikers account door uw gebruikersnaam en wachtwoord in te vullen.</value>
+  </data>
+  <data name="AssociateTitle.Text">
+    <value xml:space="preserve">Koppel met een bestaand account</value>
+  </data>
+  <data name="AuthenticatedHelp.Text">
+    <value xml:space="preserve">U bent succesvol geauthenticeerd. Uw identiteit is echter geen bekende gebruiker van deze website. U kun óf uw identiteit koppelen met een bestaand account, of registreren met een nieuw account.</value>
+  </data>
+  <data name="AuthenticatedTitle.Text">
+    <value xml:space="preserve">Geauthenticeerd</value>
+  </data>
+  <data name="cmdAssociate.Text">
+    <value xml:space="preserve">Koppel met gebruikers account</value>
+  </data>
+  <data name="cmdCreate.Text">
+    <value xml:space="preserve">Nieuw account aanmaken</value>
+  </data>
+  <data name="cmdForgotPassword.Text">
+    <value xml:space="preserve">Wachtwoord vergeten?</value>
+  </data>
+  <data name="cmdPassword.Text">
+    <value xml:space="preserve">Wachtwoord opvragen</value>
+  </data>
+  <data name="cmdProceed.Text">
+    <value xml:space="preserve">Ga toch door (Verander wachtwoord later)</value>
+  </data>
+  <data name="cmdRegister.Text">
+    <value xml:space="preserve">Registreren</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Inloggen</value>
+  </data>
+  <data name="ControlTitle_login.Text">
+    <value xml:space="preserve">Inloggen</value>
+  </data>
+  <data name="ControlTitle_signin.Text">
+    <value xml:space="preserve">Inloggen</value>
+  </data>
+  <data name="CreateTitle.Text">
+    <value xml:space="preserve">Nieuw account aanmaken</value>
+  </data>
+  <data name="EnterCode.Text">
+    <value xml:space="preserve">Voer uw verificatiecode in</value>
+  </data>
+  <data name="InvalidCode.Text">
+    <value xml:space="preserve">Ongeldige verificatiecode</value>
+  </data>
+  <data name="IPAddressBanned.Text">
+    <value xml:space="preserve">U kunt niet inloggen op de website vanaf dit IPadres.</value>
+  </data>
+  <data name="LoginFailed.Text">
+    <value xml:space="preserve">Inloggen mislukt, let op: wachtwoorden zijn hoofdletter gevoelig</value>
+  </data>
+  <data name="PasswordExpired.Text">
+    <value xml:space="preserve">Uw wachtwoord is verlopen op {0}. Pas uw wachtwoord aan alvorens door te gaan.</value>
+  </data>
+  <data name="PasswordExpiring.Text">
+    <value xml:space="preserve">Uw wachtwoord verloopt op {0}. Pas uw wachtwoord aan alvorens door te gaan.</value>
+  </data>
+  <data name="PasswordInvalid.Text">
+    <value xml:space="preserve">U moet een geldig wachtwoord opgeven. Neem contact op met de beheerder van de website als u niet bekend met met de eisen die aan wachtwoorden gesteld worden.</value>
+  </data>
+  <data name="PasswordMismatch.Text">
+    <value xml:space="preserve">De ingevulde wachtwoorden komen niet met elkaar overeen.</value>
+  </data>
+  <data name="PasswordMissing.Text">
+    <value xml:space="preserve">U moet uw huidige wachtwoord opgeven alvorens het te kunnen veranderen.</value>
+  </data>
+  <data name="PasswordNotDifferent.Text">
+    <value xml:space="preserve">Het nieuwe wachtwoord is hetzelfde als het oude wachtwoord. Kies een ander wachtwoord.</value>
+  </data>
+  <data name="PasswordSent.Text">
+    <value xml:space="preserve">Wachtwoord is verzonden naaruw e-mailadres.</value>
+  </data>
+  <data name="PasswordUpdate.Text">
+    <value xml:space="preserve">Pas uw wachtwoord aan alvorens door te gaan.</value>
+  </data>
+  <data name="plToken.Help">
+    <value xml:space="preserve">Een unieke code die gebruikt wordt om een gebruiker te identificeren.</value>
+  </data>
+  <data name="plToken.Text">
+    <value xml:space="preserve">Gebruikerscode:</value>
+  </data>
+  <data name="plType.Help">
+    <value xml:space="preserve">Authenticatie type</value>
+  </data>
+  <data name="plType.Text">
+    <value xml:space="preserve">Type:</value>
+  </data>
+  <data name="ProfileUpdate.Text">
+    <value xml:space="preserve">Werk uw profiel bij alvorens door te gaan.</value>
+  </data>
+  <data name="RegisterTitle.Text">
+    <value xml:space="preserve">Registreer een nieuw account</value>
+  </data>
+  <data name="Remember.Text">
+    <value xml:space="preserve">Blijf Ingelogd</value>
+  </data>
+  <data name="UserLockedOut.Text">
+    <value xml:space="preserve">Dit account is gedeactiveerd vanwege te veel inlog pogingen. Wacht {0} minuten voordat u het nogmaals probeert. Als u uw wachtwoord bent vergeten, gebruik dan de "vergeten wachtwoord" optie alvorens contact op te nemen met de beheerder van deze website.</value>
+  </data>
+  <data name="UsernameError.Text">
+    <value xml:space="preserve">Gebruikersnaam bestaat niet</value>
+  </data>
+  <data name="UserNotAuthorized.Text">
+    <value xml:space="preserve">U bent niet geautoriseerd om op deze website in te loggen.</value>
+  </data>
+  <data name="AssociationFailed.Text">
+    <value xml:space="preserve">Fout tijdens associatie identiteit van gebruiker. Onthoud dat de gebruikersnamen en wachtwoorden hoofdletter gevoelig zijn.</value>
+  </data>
+  <data name="UserLockedOut_ContactAdmin.Text">
+    <value xml:space="preserve">Dit account is vergrendeld na te veel mislukte login pogingen. Neem contact op met uw beheerder.</value>
+  </data>
+</root>

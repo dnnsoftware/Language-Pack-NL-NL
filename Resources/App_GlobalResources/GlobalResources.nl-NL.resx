@@ -1,0 +1,1488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="//AboutUs.String">
+    <value xml:space="preserve">Over ons</value>
+  </data>
+  <data name="//AboutUs//StyleGuide.String">
+    <value xml:space="preserve">Stijl gids</value>
+  </data>
+  <data name="//ActivityFeed.String">
+    <value xml:space="preserve">Activiteitenoverzicht</value>
+  </data>
+  <data name="//ActivityFeed//Friends.String">
+    <value xml:space="preserve">Vrienden</value>
+  </data>
+  <data name="//ActivityFeed//Messages.String">
+    <value xml:space="preserve">Berichten</value>
+  </data>
+  <data name="//ActivityFeed//MyProfile.String">
+    <value xml:space="preserve">Mijn profiel</value>
+  </data>
+  <data name="//Admin.String">
+    <value xml:space="preserve">Website</value>
+  </data>
+  <data name="//Admin//AdvancedSettings.String">
+    <value xml:space="preserve">Geavanceerde Configuratie Instellingen</value>
+  </data>
+  <data name="//Admin//AdvancedURLManagement.String" lastModified="2018-07-20 14:52:24">
+    <value xml:space="preserve">Geavanceerd URL-beheer</value>
+  </data>
+  <data name="//Admin//ContentStaging.String" lastModified="2018-07-20 14:52:24">
+    <value xml:space="preserve">Inhoudsredactie</value>
+  </data>
+  <data name="//Admin//DevicePreviewManagement.String" lastModified="2018-07-20 14:52:24">
+    <value xml:space="preserve">Apparaat Vooruitblikbeheer</value>
+  </data>
+  <data name="//Admin//Extensions.String">
+    <value xml:space="preserve">Extensies</value>
+  </data>
+  <data name="//Admin//FileManagement.String" lastModified="2018-07-20 14:52:24">
+    <value xml:space="preserve">Bestandsbeheer</value>
+  </data>
+  <data name="//Admin//FileManager.String" lastModified="2018-07-20 14:52:24">
+    <value xml:space="preserve">Bestandsbeheerder</value>
+  </data>
+  <data name="//Admin//GoogleAnalytics.String">
+    <value xml:space="preserve">Google Analytics</value>
+  </data>
+  <data name="//Admin//GoogleAnalyticsPro.String">
+    <value xml:space="preserve">Google Analytics Pro</value>
+  </data>
+  <data name="//Admin//Languages.String">
+    <value xml:space="preserve">Talen</value>
+  </data>
+  <data name="//Admin//Lists.String">
+    <value xml:space="preserve">Lijsten</value>
+  </data>
+  <data name="//Admin//LogViewer.String">
+    <value xml:space="preserve">Logboek</value>
+  </data>
+  <data name="//Admin//Newsletters.String">
+    <value xml:space="preserve">Nieuwsbrieven</value>
+  </data>
+  <data name="//Admin//Pages.String">
+    <value xml:space="preserve">Pagina's</value>
+  </data>
+  <data name="//Admin//RecycleBin.String">
+    <value xml:space="preserve">Prullenmand</value>
+  </data>
+  <data name="//Admin//SearchAdmin.String">
+    <value xml:space="preserve">Zoek Admin</value>
+  </data>
+  <data name="//Admin//SearchEngineSiteMap.String">
+    <value xml:space="preserve">Zoekmachine sitemap</value>
+  </data>
+  <data name="//Admin//SecurityRoles.String">
+    <value xml:space="preserve">Toegangsrollen</value>
+  </data>
+  <data name="//Admin//SharePointConnector.String">
+    <value xml:space="preserve">SharePoint Koppeling</value>
+  </data>
+  <data name="//Admin//SiteRedirectionManagement.String">
+    <value xml:space="preserve">Beheer site omleidingen</value>
+  </data>
+  <data name="//Admin//SiteSettings.String">
+    <value xml:space="preserve">Website Instellingen</value>
+  </data>
+  <data name="//Admin//SiteWizard.String">
+    <value xml:space="preserve">Website Wizard</value>
+  </data>
+  <data name="//Admin//Skins.String">
+    <value xml:space="preserve">Skins</value>
+  </data>
+  <data name="//Admin//Tabs.String">
+    <value xml:space="preserve">Pagina's </value>
+  </data>
+  <data name="//Admin//Taxonomy.String">
+    <value xml:space="preserve">Taxonomie</value>
+  </data>
+  <data name="//Admin//UserAccounts.String">
+    <value xml:space="preserve">Gebruikersaccounts</value>
+  </data>
+  <data name="//Admin//UserSwitcher.String">
+    <value xml:space="preserve">Gebruikerswisselaar</value>
+  </data>
+  <data name="//Admin//Vendors.String">
+    <value xml:space="preserve">Verkopers</value>
+  </data>
+  <data name="//ContactUs.String">
+    <value xml:space="preserve">Neem Contact met ons op</value>
+  </data>
+  <data name="//Home.String" lastModified="2018-07-20 14:52:24">
+    <value xml:space="preserve">Thuis</value>
+  </data>
+  <data name="//Host.String">
+    <value xml:space="preserve">Applicatie</value>
+  </data>
+  <data name="//Host//ConfigurationManager.String">
+    <value xml:space="preserve">Beheer configuratie</value>
+  </data>
+  <data name="//Host//Dashboard.String">
+    <value xml:space="preserve">Dashboard</value>
+  </data>
+  <data name="//Host//DeviceDetectionManagement.String" lastModified="2018-07-20 14:52:24">
+    <value xml:space="preserve">Beheer apparaatherkenning</value>
+  </data>
+  <data name="//Host//Extensions.String">
+    <value xml:space="preserve">Extensies</value>
+  </data>
+  <data name="//Host//FileManagement.String">
+    <value xml:space="preserve">Bestandsbeheer</value>
+  </data>
+  <data name="//Host//HostSettings.String" lastModified="2018-07-20 14:52:24">
+    <value xml:space="preserve">Applicatie-instellingen</value>
+  </data>
+  <data name="//Host//HTMLEditorManager.String">
+    <value xml:space="preserve">Beheer HTML Editor</value>
+  </data>
+  <data name="//Host//Languages.String">
+    <value xml:space="preserve">Talen</value>
+  </data>
+  <data name="//Host//Lists.String">
+    <value xml:space="preserve">Lijsten</value>
+  </data>
+  <data name="//Host//ModuleDefinitions.String">
+    <value xml:space="preserve">Module Definities</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures.String">
+    <value xml:space="preserve">Professionele functies</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//ActivateyourLicense.String">
+    <value xml:space="preserve">Activeer je licentie</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//AdvancedURLManagement.String">
+    <value xml:space="preserve">Geavanceerd URL management</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//ApplicationIntegrity.String">
+    <value xml:space="preserve">Applicatie Integriteit</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//HealthMonitoring.String">
+    <value xml:space="preserve">Site monitor</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//KnowledgeBase.String">
+    <value xml:space="preserve">Kennisbank (Engelstalig)</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//LicenseManagement.String">
+    <value xml:space="preserve">Licentiebeheer</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//ManageWebServers.String">
+    <value xml:space="preserve">Webserver beheer</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//MySupportTickets.String">
+    <value xml:space="preserve">Mijn support tickets</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SearchCrawlerAdmin.String">
+    <value xml:space="preserve">Zoekmachine beheer</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SecurityCenter.String">
+    <value xml:space="preserve">Beveiligingscentrum</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SharePointConnector.String" lastModified="2018-07-20 14:52:24">
+    <value xml:space="preserve">SharePoint-koppeling</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SiteGroups.String">
+    <value xml:space="preserve">Site Groepen</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SoftwareandDocumentation.String">
+    <value xml:space="preserve">Software en documentatie</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SpecialOffers.String">
+    <value xml:space="preserve">Aanbiedingen</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//TechnicalSupport.String">
+    <value xml:space="preserve">Technische ondersteuning</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//UserSwitcher.String">
+    <value xml:space="preserve">Andere gebruiker</value>
+  </data>
+  <data name="//Host//Schedule.String">
+    <value xml:space="preserve">Taak schema's</value>
+  </data>
+  <data name="//Host//SearchAdmin.String">
+    <value xml:space="preserve">Zoek Beheerders</value>
+  </data>
+  <data name="//Host//SiteManagement.String">
+    <value xml:space="preserve">Site Beheer</value>
+  </data>
+  <data name="//Host//Skins.String">
+    <value xml:space="preserve">Skins</value>
+  </data>
+  <data name="//Host//SQL.String">
+    <value xml:space="preserve">SQL</value>
+  </data>
+  <data name="//Host//SuperuserAccounts.String">
+    <value xml:space="preserve">SuperUser Accounts</value>
+  </data>
+  <data name="//Host//Vendors.String">
+    <value xml:space="preserve">Verkopers</value>
+  </data>
+  <data name="//Modules.Text">
+    <value xml:space="preserve">Modules</value>
+  </data>
+  <data name="//NewsPromotions.String">
+    <value xml:space="preserve">Nieuws en promoties</value>
+  </data>
+  <data name="//OurProducts.String">
+    <value xml:space="preserve">Onze producten</value>
+  </data>
+  <data name="//Pages.Text">
+    <value xml:space="preserve">Pagina's</value>
+  </data>
+  <data name="//SearchResults.String">
+    <value xml:space="preserve">Zoekresultaten</value>
+  </data>
+  <data name="//Tools.Text">
+    <value xml:space="preserve">Gereedschap</value>
+  </data>
+  <data name="//UserProfile.String">
+    <value xml:space="preserve">Gebruikersprofiel</value>
+  </data>
+  <data name="403_3.Error">
+    <value xml:space="preserve">    &amp;lt;div style="height: 100%; width: 90%;"&amp;gt;
+        &amp;lt;h3&amp;gt;
+            DotNetNuke Configuratie fout&amp;lt;/h3&amp;gt;
+        &amp;lt;p&amp;gt;
+            {0}&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;
+            Uw DotNetNuke installatie lijkt een probleem met de beveiligingsinstellingen te
+            hebben (waarschijnlijk machtigingen). DotNetNuke heeft uitgebreide file upload mogelijkheden
+            voor de inhoud, modules en skins. Deze functies vereisen aangepaste beveiligingsinstellingen
+            zodat de applicatie in staat is om te maken en te verwijderen bestanden in uw website.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;
+            Met behulp van Windows Verkenner, bladert u naar de hoofdmap van de website. Rechtsklik
+            op de map en selecteer Delen en beveiliging uit het menu (let op dat als u gebruik
+            maakt van Windows XP moet u mogelijk &amp;lt;a href="http://support.microsoft.com/kb/307874/nl-nl"&amp;gt;
+                eenvoudig delen van bestanden uitschakelen&amp;lt;/a&amp;gt; voordat deze opties worden weergegeven).
+            Selecteer het tabblad Beveiliging. Voeg de juiste gebruikersaccount en stel de machtigingen
+            in.&amp;lt;/p&amp;gt;
+        &amp;lt;ul style="text-align: left; list-style-type: none; list-style-position: outside;"&amp;gt;
+            &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Bij gebruik van Windows 2000 - IIS5&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+                &amp;lt;ol style="list-style-type: circle;"&amp;gt;
+                    &amp;lt;li&amp;gt;het account [SERVER]\ASPNET moet Lees, Schrijf en Aanpassen rechten hebben op de
+                        gehele applicatie directory.&amp;lt;/li&amp;gt;
+                &amp;lt;/ol&amp;gt;
+                &amp;lt;br /&amp;gt;
+            &amp;lt;/li&amp;gt;
+            &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Bij gebruik van Windows 2003 - IIS6 or Vista/Windows 2008 - IIS7&amp;lt;/strong&amp;gt;
+                &amp;lt;br /&amp;gt;
+                &amp;lt;ol style="list-style-type: circle;"&amp;gt;
+                    &amp;lt;li&amp;gt;Het account NT AUTHORITY\NETWORK SERVICE&amp;amp;nbsp; moet Lees, Schrijf en Aanpassen rechten
+                        hebben op de gehele applicatie directory.&amp;lt;/li&amp;gt;
+                &amp;lt;/ol&amp;gt;
+            &amp;lt;/li&amp;gt;
+            &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Bij gebruik van Windows 7 of Windows 2008r2 met IIS7.5&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+                &amp;lt;ol style="list-style-type: circle;"&amp;gt;
+                    &amp;lt;li&amp;gt;The IIS AppPool\AppPoolIdentity virtuele user moet Lees, Schrijf en Aanpassen rechten
+                        hebben op de gehele applicatie directory.&amp;lt;/li&amp;gt;
+                &amp;lt;/ol&amp;gt;
+            &amp;lt;/li&amp;gt;
+        &amp;lt;/ul&amp;gt;
+        &amp;lt;p&amp;gt;
+            &amp;lt;img alt="Afbeelding die toont dat de beveiligingsinstellingen voor de hoofdmap van de website moet worden ingesteld op Lezen, Schrijven en Modify voor de ASPNET of NT AUTHORITY / NETWORK SERVICE accounts."
+                src="images/403-3.gif" /&amp;gt;&amp;lt;/p&amp;gt;
+    &amp;lt;/div&amp;gt;</value>
+  </data>
+  <data name="404.Error">
+    <value xml:space="preserve">    &amp;lt;div style="height: 100%; width: 90%;"&amp;gt;
+        &amp;lt;p style="color: red; font-weight: bold;"&amp;gt;
+            Domeinnaam {0} bestaat niet in de database&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;
+            DotNetNuke 
+            ondersteunt meerdere websites vanuit een enkele applicatie. Om dit goed te 
+            kunnen laten werken, wordt de opgevraagde URL omgezet in een zogenaamde PortalId 
+            uit de PortalAlias tabel in de database. Dit proces werkt als volgt:&amp;lt;/p&amp;gt;
+        &amp;lt;ol style="text-align: left; list-style-type: decimal; list-style-position: outside;"&amp;gt;
+            &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Web Server Processingver Processing&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+                &amp;lt;ul style="list-style-type: disc;"&amp;gt;
+                    &amp;lt;li&amp;gt;Zodra de webserver een request ontvangt van de client, wordt the extensie waar 
+                        de URL mee eindigt vergeleken met de Application Extension Mappings zoals 
+                        gedefinieer in IIS.&amp;lt;/li&amp;gt;
+                    &amp;lt;li&amp;gt;Afhankelijk van de soort match wordt het request door IIS doorgestuurd naar de 
+                        in IIS gedefinieerde applicatie die dit request kan afhandelen (In IIS6 nis dit 
+                        aspnet_asapi.dll voor ASP.NET requests)&amp;lt;/li&amp;gt;
+                    &amp;lt;li&amp;gt;aspnet_isapi.dll&amp;amp;nbsp; behandelt het request in een vaste volgorde, beginnend 
+                        bij Application_BeginRequest&amp;lt;/li&amp;gt;
+                &amp;lt;/ul&amp;gt;
+            &amp;lt;/li&amp;gt;
+            &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;HttpModule.URLRewrite OnBeginRequest ( UrlRewriteModule.cs)&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
+                &amp;lt;ul style="list-style-type: disc;"&amp;gt;
+                    &amp;lt;li&amp;gt;De opgevraagde URL wordt opgedeeld op basis van de slash (&amp;amp;quot;/&amp;amp;quot;)&amp;lt;/li&amp;gt;
+                    &amp;lt;li&amp;gt;Uit de relevante delen wordt een domeinnaam opgesteld&amp;lt;br /&amp;gt;
+                        &amp;lt;br /&amp;gt;Voorbeelden:
+                        &amp;lt;br /&amp;gt;
+                        &amp;lt;br /&amp;gt;URL: http://www.domain.com/default.aspx = 
+                        Domeinnaam: www.domain.com&amp;lt;br /&amp;gt;URL: http://209.75.24.131/default.aspx = 
+                        Domeinnaam: 209.75.24.131&amp;lt;br /&amp;gt;URL: http://localhost/DotNetNuke/default.aspx = 
+                        Domeinnaam: localhost/DotNetNuke&amp;lt;br /&amp;gt;URL: http://www.domain.com/virtualdirectory/default.aspx = 
+                        DomeinnaaURL: http://www.domain.com/directory/default.aspx = 
+                        Domeinnaam: www.domain.com/directory&amp;lt;br /&amp;gt;
+                        &amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;
+                    &amp;lt;li&amp;gt;Met behulp van de domeinnaam wordt het bijpassende record uit de PortalAlias 
+                        tabel opgezocht.
+                        &amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;
+                &amp;lt;/ul&amp;gt;
+            &amp;lt;/li&amp;gt;
+        &amp;lt;/ol&amp;gt;
+    &amp;lt;/div&amp;gt;</value>
+  </data>
+  <data name="500.Error">
+    <value xml:space="preserve">{0}</value>
+  </data>
+  <data name="503.Error" lastModified="2016-03-08 09:14:08">
+    <value xml:space="preserve">{0} - 503 Service niet beschikbaar</value>
+  </data>
+  <data name="ActivatingLicense.Text">
+    <value xml:space="preserve">Licentie activeren</value>
+  </data>
+  <data name="AddFollowerRequestBody.Text">
+    <value xml:space="preserve">U wordt nu gevolgd door {0}</value>
+  </data>
+  <data name="AddFollowerRequestSubject.Text">
+    <value xml:space="preserve">{0} volgt u nu</value>
+  </data>
+  <data name="AddFriendRequestBody.Text">
+    <value xml:space="preserve">{0} wil vrienden worden met u</value>
+  </data>
+  <data name="AddFriendRequestSubject.Text">
+    <value xml:space="preserve">{0} wil vrienden worden</value>
+  </data>
+  <data name="ApplicationUpgrades.Text">
+    <value xml:space="preserve">Applicatie Upgrades</value>
+  </data>
+  <data name="AspNetHostingPermission.Text">
+    <value xml:space="preserve">Deze extensie vereist Full Trust.</value>
+  </data>
+  <data name="Authentication.String">
+    <value xml:space="preserve">Authenticatie</value>
+  </data>
+  <data name="BannerType.Banner.String">
+    <value xml:space="preserve">Banner</value>
+  </data>
+  <data name="BannerType.Block.String">
+    <value xml:space="preserve">Blok</value>
+  </data>
+  <data name="BannerType.Button.String">
+    <value xml:space="preserve">Knop</value>
+  </data>
+  <data name="BannerType.MicroButton.String">
+    <value xml:space="preserve">MicroKnop</value>
+  </data>
+  <data name="BannerType.Script.String">
+    <value xml:space="preserve">Script</value>
+  </data>
+  <data name="BannerType.Skyscraper.String">
+    <value xml:space="preserve">Wolkenkrabber</value>
+  </data>
+  <data name="BannerType.Text.String">
+    <value xml:space="preserve">Tekst</value>
+  </data>
+  <data name="Browse Folder.Permission">
+    <value xml:space="preserve">Bladeren door bestanden in map</value>
+  </data>
+  <data name="Can Deploy.Permission">
+    <value xml:space="preserve">Module inzetten</value>
+  </data>
+  <data name="ClearCache.Action">
+    <value xml:space="preserve">Verversen</value>
+  </data>
+  <data name="CustomUrlPathCleaned.Error">
+    <value xml:space="preserve">De ingevoerde pagina URL bevat ongeldige karakters welke niet gebruikt kunnen worden binnen een URL of ongeldig zijn voor gebruikt binnen een URL. Deze karakters zijn verwijderd. Klik op "Bijwerken" om de aangepaste URL op te slaan. &amp;lt;br&amp;gt; [Note: de lijst met ongeldige tekens is als volgt: &amp;lt;&amp;gt;\?:&amp;amp;=+|%#]</value>
+  </data>
+  <data name="DefaultStopwordGroup.Text">
+    <value xml:space="preserve">en,zijn,maar,voor,in,niet,zoals,dat,de,hun,dan,daar,deze,dit,was,zal,met</value>
+  </data>
+  <data name="DefaultSynonymGroup.Text">
+    <value xml:space="preserve">dnn,dotnetnuke</value>
+  </data>
+  <data name="DeleteModule.Action">
+    <value xml:space="preserve">Verwijderen</value>
+  </data>
+  <data name="DeLocalize.Action">
+    <value xml:space="preserve">Vertaling ongedaan maken</value>
+  </data>
+  <data name="DraggingHintText.Text">
+    <value xml:space="preserve">Beweeg de muis over de drop zone.</value>
+  </data>
+  <data name="DragModuleHint.Text">
+    <value xml:space="preserve">Versleep deze module naar een nieuwe locatie</value>
+  </data>
+  <data name="DropModuleHint.Text">
+    <value xml:space="preserve">Laat de muisknop los om de module hier te plaatsen.</value>
+  </data>
+  <data name="DropModuleTarget.Text">
+    <value xml:space="preserve">Plaats module hier</value>
+  </data>
+  <data name="Edit Tab.Permission">
+    <value xml:space="preserve">Pagina bewerken</value>
+  </data>
+  <data name="Edit.Permission">
+    <value xml:space="preserve">Module bewerken</value>
+  </data>
+  <data name="EMAIL_AFFILIATE_NOTIFICATION_BODY.Text">
+    <value xml:space="preserve">Beste [Custom:0],
+
+Uw account voor het {Portal:PortalName] affiliatie programma is aangemaakt.
+Gebruik de volgende URL om te linken naar onze site:
+
+[Custom:1]
+Dank u,
+
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_AFFILIATE_NOTIFICATION_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Affiliatie bevestiging</value>
+  </data>
+  <data name="EMAIL_BANNER_NOTIFICATION_BODY.Text">
+    <value xml:space="preserve">Banner: [Custom:0]
+Omschrijving: [Custom:1]
+Afbeelding: [Custom:2]
+CPM/Kosten: [Custom:3]
+Aantal weergaves: [Custom:4]
+Startdatum: [Custom:5]
+Einddatum: [Custom:6]
+Aantal keer bekeken: [Custom:7]
+Aantal doorkliks: [Custom:8]</value>
+  </data>
+  <data name="EMAIL_BANNER_NOTIFICATION_SUBJECT.Text">
+    <value xml:space="preserve">[Custom:0]</value>
+  </data>
+  <data name="EMAIL_BODY_FORMAT.Text">
+    <value xml:space="preserve">Onderwerp: {0}
+    
+{1}
+
+Gelieve deze e-mail niet te beantwoorden.</value>
+  </data>
+  <data name="EMAIL_BulkMailConf_Html_Body.Text">
+    <value xml:space="preserve">&amp;lt;h1&amp;gt;Nieuwsbrief verzendrapport&amp;lt;/h1&amp;gt;
+    Verzenden gestart op: [Custom:0]&amp;lt;br /&amp;gt;
+    Aantal ontvangers: [Custom:1]&amp;lt;br /&amp;gt;
+    Email berichten: [Custom:2]&amp;lt;br /&amp;gt;
+    Verzenden compleet op: [Custom:3]&amp;lt;br /&amp;gt;
+    [Custom:4|Aantal fouten: {0}&amp;lt;br /&amp;gt;]
+    &amp;lt;br /&amp;gt;
+    Status Report: &amp;lt;br /&amp;gt;
+           &amp;lt;pre&amp;gt;[Custom:5]&amp;lt;/pre&amp;gt;
+    [Custom:6|&amp;lt;hr /&amp;gt;&amp;lt;strong&amp;gt;Ontvangers:&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;{0}]</value>
+  </data>
+  <data name="EMAIL_BulkMailConf_Subject.Text">
+    <value xml:space="preserve">Nieuwsbrief verzendrapport voor '{0}'.</value>
+  </data>
+  <data name="EMAIL_BulkMailConf_Text_Body.Text">
+    <value xml:space="preserve">Verzenden gestart op:       [Custom:0]
+Aantal ontvangers:          [Custom:1]
+Email berichten:            [Custom:2]
+Verzenden compleet op:      [Custom:3]
+
+[Custom:4|Aantal fouten:    {0}
+]Status Report:
+[Custom:5]
+--------------------------------
+[Custom:6|Ontvangers:
+===========
+{0}]</value>
+  </data>
+  <data name="EMAIL_BulkMailStart_Body.Text">
+    <value xml:space="preserve">Gebruiker {1} heeft bulkmail '{0}' ingediend gericht aan {2} ontvangers. Lees het verzendcapaciteit rapport voor mislukte berichten en de afzenders inbak voor teruggekomen berichten.</value>
+  </data>
+  <data name="EMAIL_BulkMailStart_Subject.Text">
+    <value xml:space="preserve">Bulkmail '{0}' ingediend</value>
+  </data>
+  <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text">
+    <value xml:space="preserve">&amp;lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&amp;gt;
+&amp;lt;html xmlns="http://www.w3.org/1999/xhtml"&amp;gt;
+&amp;lt;head&amp;gt;
+    &amp;lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&amp;gt;
+    &amp;lt;style type="text/css"&amp;gt;
+            /* Reset Styles */
+        html, body{height:100%;width:100%;}
+        body{
+            margin:0; padding:0;
+            font-family:sans-serif;
+            font-size:0.83em;
+            color:#333;
+        }
+        img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+        table td{border-collapse:collapse;}
+        p{margin: 0 0 1.6em 0;}
+        a{color:#417CD3;}
+        #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+        body{ background-color:#fafafa; }        
+
+        #templateContainer{
+            border: 1px solid #eeeeee;
+            box-shadow: 0px 0px 3px 0px #eee;
+        }
+
+            /* Pre Header Styles */
+        .preheaderContent{
+            padding:15px 0 5px 0;
+            font-size:0.9em;
+            color:#999;
+        }
+        .headerContent {background-color:#bbb;}
+        .headerContent a{display:block;}
+        .headerContent img{ margin-bottom:0;}
+
+            /* Sub Header Styles */
+        #templateSubHeader{ color:#ffffff; }
+        #templateSubHeader td{ padding:5px 20px; }
+
+            /* Template Footer Styles */
+        .footerContent table td{
+            padding-top:20px;
+            border-top:1px solid #ddd;
+            font-size:0.8em;
+        }
+
+            /* Body Template Footer Styles */
+        #bodyTemplateFooter{
+            padding:15px 0 5px 0;
+            font-size:0.9em;
+            color:#999;
+        }
+    &amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
+
+&amp;lt;body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"&amp;gt;
+&amp;lt;table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" id="backgroundTable"&amp;gt;
+    &amp;lt;tr&amp;gt;
+        &amp;lt;td align="center" valign="top"&amp;gt;
+            &amp;lt;!-- // Begin Template Preheader \\ --&amp;gt;
+            &amp;lt;table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="600"&amp;gt;
+                &amp;lt;tr align="right"&amp;gt;
+                    &amp;lt;td valign="top" class="preheaderContent" style="border-top:5px solid #417CD3;"&amp;gt;
+
+                        &amp;lt;!-- // Begin Module: Standard Preheader \ --&amp;gt;
+                        &amp;lt;table border="0" cellpadding="0" cellspacing="0" &amp;gt;
+                            &amp;lt;tr&amp;gt;
+                                &amp;lt;td align="right"&amp;gt;
+                                    &amp;lt;p&amp;gt;Problem viewing email? &amp;lt;a href="[NOTIFICATIONURL]"&amp;gt;&amp;lt;span&amp;gt;Click here to view online.&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+                                &amp;lt;/td&amp;gt;
+                            &amp;lt;/tr&amp;gt;
+                        &amp;lt;/table&amp;gt;
+                        &amp;lt;!-- // End Module: Standard Preheader \ --&amp;gt;
+                    &amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+            &amp;lt;/table&amp;gt;
+            &amp;lt;!-- // End Template Preheader \\ --&amp;gt;
+            &amp;lt;!-- // Begin Template body \\ --&amp;gt;
+            &amp;lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border:1px solid #eeeeee; " &amp;gt;
+                &amp;lt;tr &amp;gt;
+                    &amp;lt;td align="center" valign="top"&amp;gt;
+                        &amp;lt;!-- // Begin Template Header \\ --&amp;gt;
+                        &amp;lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateHeader"&amp;gt;
+                            &amp;lt;tr&amp;gt;
+                                &amp;lt;td class="headerContent"&amp;gt;
+                                    &amp;lt;a href="[SITEURL]"&amp;gt;
+                                        &amp;lt;!--&amp;lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" /&amp;gt;--&amp;gt;
+                                        &amp;lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" width="200" /&amp;gt;
+                                    &amp;lt;/a&amp;gt;
+
+                                &amp;lt;/td&amp;gt;
+                            &amp;lt;/tr&amp;gt;
+                        &amp;lt;/table&amp;gt;
+                        &amp;lt;!-- // End Template Header \\ --&amp;gt;
+                    &amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+                &amp;lt;tr &amp;gt;
+                    &amp;lt;td align="center" valign="top"&amp;gt;
+                        &amp;lt;!-- // Begin Template Sub Header \\ --&amp;gt;
+                        &amp;lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateSubHeader"&amp;gt;
+                            &amp;lt;tr&amp;gt;
+                                &amp;lt;td class="subHeaderContent" bgcolor="#417CD3" width="66%" align="left"&amp;gt;
+                                    &amp;lt;h2 style="color:#fff; font-weight:100; font-size:24px;"&amp;gt;Notifications&amp;lt;/h2&amp;gt;
+                                &amp;lt;/td&amp;gt;&amp;lt;!--close subHeaderContent--&amp;gt;
+                                &amp;lt;td width="33%" bgcolor="#417CD3" align="right"&amp;gt;
+                                    &amp;lt;p style="color:#fff;"&amp;gt;&amp;lt;/p&amp;gt;
+                                &amp;lt;/td&amp;gt;
+                            &amp;lt;/tr&amp;gt;
+                        &amp;lt;/table&amp;gt;
+                        &amp;lt;!-- // End Template Sub Header \\ --&amp;gt;
+                    &amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+                &amp;lt;tr&amp;gt;
+                    &amp;lt;td align="center" valign="top" bgcolor="#ffffff"&amp;gt;
+                        &amp;lt;!-- // Begin Template Body \\ --&amp;gt;
+                        &amp;lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody"&amp;gt;
+                            &amp;lt;tr&amp;gt;
+                                &amp;lt;td valign="top" class="bodyContent"&amp;gt;
+                                    &amp;lt;!-- // Begin Module: Standard Content \\ --&amp;gt;
+                                    &amp;lt;table border="0" cellpadding="30" cellspacing="0" width="100%"&amp;gt;
+                                        &amp;lt;tr&amp;gt;
+                                            &amp;lt;td valign="top"&amp;gt;
+                                                [MESSAGEBODY]
+                                            &amp;lt;/td&amp;gt;
+                                        &amp;lt;/tr&amp;gt;
+                                    &amp;lt;/table&amp;gt;
+                                    &amp;lt;!-- // End Module: Standard Content \\ --&amp;gt;
+                                &amp;lt;/td&amp;gt;
+                            &amp;lt;/tr&amp;gt;
+                        &amp;lt;/table&amp;gt;
+                        &amp;lt;!-- // End Template Body \\ --&amp;gt;
+                    &amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+                &amp;lt;tr&amp;gt;
+                    &amp;lt;td align="center" valign="top"&amp;gt;
+                        &amp;lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateFooter"&amp;gt;
+                            &amp;lt;tr&amp;gt;
+                                &amp;lt;td valign="top" class="footerContent"&amp;gt;
+                                    &amp;lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&amp;gt;
+                                        &amp;lt;tr&amp;gt;
+                                            &amp;lt;td align="center"&amp;gt;
+                                                &amp;lt;a href="[UNSUBSCRIBEURL]" &amp;gt; Manage your Subscriptions&amp;lt;/a&amp;gt; &amp;amp;nbsp; |  &amp;amp;nbsp;
+                                                &amp;lt;a href="http://www.twitter.com/" &amp;gt; Follow us on Twitter&amp;lt;/a&amp;gt; &amp;amp;nbsp; |  &amp;amp;nbsp;
+                                                &amp;lt;a href="http://www.facebook.com/" &amp;gt; Become a fan on Facebook&amp;lt;/a&amp;gt;
+
+                                            &amp;lt;/td&amp;gt;
+                                        &amp;lt;/tr&amp;gt;
+                                    &amp;lt;/table&amp;gt;
+                                &amp;lt;/td&amp;gt;
+                            &amp;lt;/tr&amp;gt;
+                        &amp;lt;/table&amp;gt;
+                    &amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+            &amp;lt;/table&amp;gt;&amp;lt;!-- // End Template Body \\ --&amp;gt;
+            &amp;lt;!-- // Begin Template footer \\ --&amp;gt;
+            &amp;lt;table border="0" cellpadding="0" cellspacing="0" id="bodyTemplateFooter" width="600"&amp;gt;
+                &amp;lt;tr&amp;gt;
+                    &amp;lt;td valign="top" class="bodyFooterContent"&amp;gt;
+
+                        &amp;lt;!-- // Begin Module: Standard Preheader \ --&amp;gt;
+                        &amp;lt;table border="0" cellpadding="0" cellspacing="0" align="center" &amp;gt;
+
+                            &amp;lt;tr&amp;gt;
+                                &amp;lt;td align="center"&amp;gt;
+                                    &amp;lt;p&amp;gt;Copyright 2013 &amp;lt;a href="[SITEURL]"&amp;gt;[PORTALNAME]&amp;lt;/a&amp;gt; All rights reserved.&amp;lt;/p&amp;gt;
+                                    &amp;lt;p&amp;gt;If you wish to no longer receive emails in the future, please &amp;lt;a href="[UNSUBSCRIBEURL]"&amp;gt;unsubscribe&amp;lt;/a&amp;gt; here.&amp;lt;/p&amp;gt;
+                                &amp;lt;/td&amp;gt;
+                            &amp;lt;/tr&amp;gt;
+                        &amp;lt;/table&amp;gt;
+                        &amp;lt;!-- // End Module: Standard Preheader \ --&amp;gt;
+                    &amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+            &amp;lt;/table&amp;gt;
+            &amp;lt;!-- // End Template footer \\ --&amp;gt;
+        &amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;!-- wrapper table --&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;</value>
+  </data>
+  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text">
+    <value xml:space="preserve">&amp;lt;div style="width:100%;"&amp;gt;&amp;lt;h5&amp;gt;[TITLE]&amp;lt;/h5&amp;gt;&amp;lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&amp;gt;
+    &amp;lt;tr&amp;gt;
+        &amp;lt;td&amp;gt;
+            &amp;lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&amp;gt;
+                &amp;lt;tr&amp;gt;
+                    &amp;lt;td&amp;gt;&amp;lt;a href="PROFILEURL"&amp;gt;&amp;lt;img src="[PROFILEPICURL]" /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;[DISPLAYNAME]&amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+            &amp;lt;/table&amp;gt;
+            &amp;lt;table width="350" border="0" cellspacing="0" cellpadding="8" align="left"&amp;gt;
+                &amp;lt;tr&amp;gt;
+                    &amp;lt;td&amp;gt;[CONTENT][FRIENDREQUESTACTIONS][FOLLOWREQUESTACTIONS]&amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+            &amp;lt;/table&amp;gt;
+        &amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/div&amp;gt;</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" lastModified="2016-12-02 08:20:20">
+    <value xml:space="preserve">Beste [Profile:FullName],
+
+U heeft uw wachtwoord herstel opgevraagd van de [Portal:PortalName] website.
+
+Website Addres: [Portal:URL]
+Gebruikersnaam: [User:Username]
+
+Link naar wachtwoord reset pagina:  [Portal:PASSWORDREMINDERURL]?ctl=PasswordReset&amp;amp;resetToken=[Membership:PasswordResetToken]
+
+Met vriendelijke groet,
+[Portal:PortalName]
+
+*NB: als u uw geen wachtwoord herstel heeft opgevraagd, dan kunt u dit bericht negeren</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Wachtwoord opvragen</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text">
+    <value xml:space="preserve">Beste [User:DisplayName],
+
+Je hebt een wachtwoord reset link aangevraad van [Portal:PortalName], Je account staat klaar voor goedkeuring.
+
+Het wachtwoord kan worden gereset nadat het account is goedgekeurd.
+
+Met vriendelijk groet,
+[Portal:PortalName]
+
+*Opmerking: Als je geen wachtwoord reset link heeft aangevraag verwijder dan dit bericht.</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] wachtwoord herinnering</value>
+  </data>
+  <data name="EMAIL_PASSWORD_UPDATED_BODY.Text">
+    <value xml:space="preserve">Geachte [User:DisplayName]], 
+	
+	Uw wachtwoord voor [Portal:PortalName] is veranderd. 
+	
+	Contacteer the sitebeheerder op het volgende emailadres - [Portal:Email]
+	
+	Met vriendelijke groet,[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_PASSWORD_UPDATED_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Password bijgewerkt</value>
+  </data>
+  <data name="EMAIL_PORTAL_SIGNUP_BODY.Text">
+    <value xml:space="preserve">Beste [User:FullName],
+
+Uw web is aangemaakt. Lees alstublieft de volgend informatie zorgvuldig door, en archiveer dit bericht voor eventueel toekomstig gebruik.
+
+Website Adres: [Portal:URL]
+Gebruikersnaam: [Membership:UserName]
+Wachtwoord: [Membership:Password]
+Verificatiecode: [User:VerificationCode]
+
+Maak alstublieft gebruik van de gelegenheid om de website nu te bezoeken en maak zo goed mogelijk gebruik van de mogelijkheden!
+
+Dank u voor het gebruik van onze diensten
+
+[Host:HostTitle]
+</value>
+  </data>
+  <data name="EMAIL_PORTAL_SIGNUP_SUBJECT.Text">
+    <value xml:space="preserve">[Host:HostTitle] Aanmelding Demo Website</value>
+  </data>
+  <data name="EMAIL_PROFILE_UPDATED_BODY.Text">
+    <value xml:space="preserve">Beste [Profile:FullName],
+
+Uw profiel voor  de [Portal:PortalName] website is succesvol bijgewerkt.
+
+Sincerely,
+[Portal:PortalName]
+</value>
+  </data>
+  <data name="EMAIL_PROFILE_UPDATED_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Profiel bijgewerkt</value>
+  </data>
+  <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text">
+    <value xml:space="preserve">Beste [User:FullName],
+
+De toegangsrollen van uw gebruikersaccount voor de [Portal:PortalName] website is recentelijk aangepast, en bevat nu ook deze rol:
+
+Rol: [Custom:0]
+Beschrijving: [Custom:1]
+Ingangsdatum: [Custom:2]
+Verloopdatum: [Custom:3]
+
+Dank u voor het in ons gestelde vertrouwen,
+[Portal:PortalName]
+</value>
+  </data>
+  <data name="EMAIL_ROLE_ASSIGNMENT_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Gebruikersaccount aangepast</value>
+  </data>
+  <data name="EMAIL_ROLE_UNASSIGNMENT_BODY.Text">
+    <value xml:space="preserve">Beste [User:FullName],
+
+De toegang van uw gebruikersaccount voor de [Portal:PortalName] website is recentelijk aangepast, en bevat nu NIET meer deze rol:
+
+Rol: [Custom:0]
+Beschrijving: [Custom:1]
+Dank u voor het in ons gestelde vertrouwen,
+[Portal:PortalName]
+
+Dank u voor het in ons gestelde vertrouwen,
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_ROLE_UNASSIGNMENT_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Gebruikersaccount aangepast</value>
+  </data>
+  <data name="EMAIL_ROLE_UPDATE_BODY.Text">
+    <value xml:space="preserve">Geachte [User:DisplayName],
+
+Uw account bij [Portal:PortalName] is recentelijk bijgewerkt om toegang tot de volgende rol aan te passen:
+
+Rol: [Custom:0]
+Beschrijving: [Custom:1]
+Datum Ingang: [Custom:2]
+Datum Verlopen: [Custom:3]
+
+Dank u voor het in ons gestelde vertrouwen,
+[Portal:PortalName]
+</value>
+  </data>
+  <data name="EMAIL_ROLE_UPDATE_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Gebruikersaccount Bijgewerkt</value>
+  </data>
+  <data name="EMAIL_SMTP_TEST_SUBJECT.Text">
+    <value xml:space="preserve">[Host:HostTitle] SMTP Configuratie Test</value>
+  </data>
+  <data name="EMAIL_SOCIAL_FOLLOWREQUESTACTIONS.Text">
+    <value xml:space="preserve">&amp;lt;p&amp;gt;&amp;lt;a href="{0}"&amp;gt;Ga terug&amp;lt;/a&amp;gt; | &amp;lt;a href="{1}"&amp;gt;Profiel weergeven&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</value>
+  </data>
+  <data name="EMAIL_SOCIAL_FRIENDREQUESTACTIONS.Text">
+    <value xml:space="preserve">&amp;lt;p&amp;gt;&amp;lt;a href="{0}"&amp;gt;Accepteren&amp;lt;/a&amp;gt; | &amp;lt;a href="{1}"&amp;gt;Profiel weergeven&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</value>
+  </data>
+  <data name="EMAIL_SUBJECT_FORMAT.Text">
+    <value xml:space="preserve">Nieuw bericht van {0}</value>
+  </data>
+  <data name="EMAIL_USER_AUTHORIZED_BODY.Text" lastModified="2016-12-02 07:17:10">
+    <value xml:space="preserve">Beste  [User:DisplayName], Bedankt voor uw registratie op [Portal:PortalName]. Uw registratie is goedgekeurd en uw account is nu actief. Website Adres:  [Portal:URL] Gebruikersnaam:  [User:UserName] Bij voorbaar dank, wij waarderen uw bijdrage...[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" lastModified="2016-12-02 06:13:56">
+    <value xml:space="preserve">Registratie is goedgekeurd voor  [Portal:URL]</value>
+  </data>
+  <data name="EMAIL_USER_LOCKOUT_BODY.Text">
+    <value xml:space="preserve">Er is een poging gedaan om met een afgesloten gebruikersaccount in te loggen ( gebruikersnaam: [Custom:0] ) op [Date:Current]. Wellicht wilt u dit verder onderzoeken...
+
+Dank U,
+
+[Portal:PortalName]
+</value>
+  </data>
+  <data name="EMAIL_USER_LOCKOUT_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Gebruikersaccount afgesloten</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_BODY.Text">
+    <value xml:space="preserve">Datum: [Date:Current]
+Weergave naam: [User:DisplayName]
+Email: [User:Email]</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text">
+    <value xml:space="preserve">Beste  [User:DisplayName],
+
+Dank u voor uw registratie voor de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+
+Website Adres: [Portal:URL]
+Gebruikersnaam: [User:UserName]
+
+Uw accountgegevens zullen worden gecontroleerd door de website beheerder, u ontvangt een bericht als uw account geactiveerd is.
+
+Dank u voor het in ons gestelde vertrouwen,
+[Portal:PortalName]
+</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PRIVATE_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PUBLIC_BODY.Text">
+    <value xml:space="preserve">Beste [User:DisplayName],
+
+U bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+
+Website Adres: [Portal:URL]
+Gebruikersnaam: [User:UserName]
+
+U bent van harte welkom!
+
+Dank u voor het in ons gestelde vertrouwen,
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PUBLIC_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text">
+    <value xml:space="preserve">Beste [User:FullName],
+U bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+
+Website Adres: [Portal:URL]
+Gebruikersnaam: [Membership:UserName]
+Wachtwoord: [Membership:Password]
+Verificatiecode: [User:VerificationCode]
+
+U kunt de volgende link gebruiken om de registratie af te ronden: 
+
+http://[Portal:URL]/default.aspx?ctl=Login&amp;amp;username=[Membership:UserName]&amp;amp;verificationcode=[User:VerificationCode]
+
+U bent van harte welkom!
+
+Dank u voor het in ons gestelde vertrouwen,
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+  </data>
+  <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text">
+    <value xml:space="preserve">Beste [User:DisplayName],Je account voor [Portal:PortalName] Is niet meer geauthoriseerd. Website Adres: [Portal:URL]Gebruikersnaam: [User:UserName]Mocht u vragen hebben, Neem contact op met de websiteadmin [Portal:Email]Met vriendelijke groet,[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text">
+    <value xml:space="preserve">Uw account is niet langer geauthoriseerd voor [Portal:URL]</value>
+  </data>
+  <data name="EMAIL_USER_UNREGISTER_BODY.Text">
+    <value xml:space="preserve">Datum: [Date:Current]
+Voornaam: [Profile:FirstName]
+Achternaam: [Profile:LastName]
+Street: [Profile:Street]
+Huisnummer: [Profile:Unit]
+Postcode: [Profile:PostalCode]
+Plaats: [Profile:City]
+Regio/Provincie: [Profile:Region]
+Land: [Profile:Country]
+Telefoon: [Profile:Telephone]
+E-mail: [Membership:Email]
+</value>
+  </data>
+  <data name="EMAIL_USER_UNREGISTER_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Gebruikersregistratie geannuleerd</value>
+  </data>
+  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_BODY.Text">
+    <value xml:space="preserve">Beste [User:DisplayName],
+
+U heeft uw wachtwoord gewijzigd op [Portal:PortalName].
+
+Gebruik de volgende informatie om in te loggen:
+
+Website Adres: [Portal:URL]
+Naam Gebruiker :   [User:Username]
+
+Met vriendelijke groet,
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Wachtwoord bijgewerkt</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_BODY.Text">
+    <value xml:space="preserve">Datum: [Custom:0]
+Naam Verkoper: [Custom:1]
+Voornaam: [Custom:2]
+Achternaam: [Custom:3]
+Straat: [Custom:5]
+Huisnummer: [Custom:4]
+Postcode: [Custom:9]
+Plaats: [Custom:6]
+Regio: [Custom:7]
+Land: [Custom:8]
+Telefoon: [Custom:10]
+Fax: [Custom:11]
+GSM: [Custom:12]
+E-mail: [Custom:13]
+Website: [Custom:14]</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Aanmelding voor verkoper</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_BODY.Text">
+    <value xml:space="preserve">Beste [Custom:0] [Custom:1],
+
+Uw bedrijf is succesvol geregistreerd bij de [Portal:PortalName] website.
+
+Dank u,
+
+[Portal.PortalName]</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_SUBJECT.Text">
+    <value xml:space="preserve">[Portal:PortalName] Aanmelding voor verkoper</value>
+  </data>
+  <data name="EnglishName.Text">
+    <value xml:space="preserve">Engelse naam</value>
+  </data>
+  <data name="Error.Text">
+    <value xml:space="preserve">Er is een fout opgetreden.</value>
+  </data>
+  <data name="ExecutingScript.Text">
+    <value xml:space="preserve">Script uitvoeren</value>
+  </data>
+  <data name="ExportModule.Action">
+    <value xml:space="preserve">Inhoud exporteren</value>
+  </data>
+  <data name="GeneralUpgrades.Text">
+    <value xml:space="preserve">Uitvoeren van algemene Upgrades</value>
+  </data>
+  <data name="ImportModule.Action">
+    <value xml:space="preserve">Inhoud importeren</value>
+  </data>
+  <data name="License.Text" lastModified="2016-12-02 09:23:23">
+    <value xml:space="preserve">&amp;lt;p&amp;gt;DotNetNuke&amp;amp;reg; - http://www.dotnetnuke.com&amp;lt;br /&amp;gt;
+Copyright (c) 2002-2016&amp;lt;br/&amp;gt;
+    by DotNetNuke Corporation&amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
+documentation files (the "Software"), to deal in the Software without restriction, including without limitation 
+the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and 
+    to permit persons to whom the Software is furnished to do so, subject to the following conditions:&amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions 
+    of the Software.&amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
+TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+    DEALINGS IN THE SOFTWARE.&amp;lt;/p&amp;gt;</value>
+  </data>
+  <data name="Localize.Action">
+    <value xml:space="preserve">Vertaal</value>
+  </data>
+  <data name="LogClicks.Text">
+    <value xml:space="preserve">Aanmelden van de gebruiker, de datum en de tijd voor elke klik</value>
+  </data>
+  <data name="LogEnd.Text">
+    <value xml:space="preserve">Einde</value>
+  </data>
+  <data name="LogStart.Text">
+    <value xml:space="preserve">Start</value>
+  </data>
+  <data name="Manage.Text">
+    <value xml:space="preserve">Beheren</value>
+  </data>
+  <data name="MESSAGE_PORTAL_PRIVACY.Text" lastModified="2015-12-30 03:54:56">
+    <value xml:space="preserve">&amp;lt;div align="left"&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] is committed to protecting your privacy and developing technology
+        that gives you the most powerful and safe online experience. This Statement of Privacy
+        applies to the [Portal:PortalName] site and governs data collection and usage.
+        By using the [Portal:PortalName] site, you consent to the data practices described
+        in this statement.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;Collection of your Personal Information&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] collects personally identifiable information, such as your e-mail
+        address, name, home or work address or telephone number. [Portal:PortalName] also
+        collects anonymous demographic information, which is not unique to you, such as
+        your ZIP code, age, gender, preferences, interests and favorites.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;There is also information about your computer hardware and software that is automatically
+        collected by [Portal:PortalName]. This information can include: your IP address,
+        browser type, domain names, access times and referring Web site addresses. This
+        information is used by [Portal:PortalName] for the operation of the service, to
+        maintain quality of the service, and to provide general statistics regarding use
+        of the [Portal:PortalName] Web site.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;Please keep in mind that if you directly disclose personally identifiable information
+        or personally sensitive data through [Portal:PortalName] public message boards,
+        this information may be collected and used by others. Note: [Portal:PortalName]
+        does not read any of your private online communications.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] encourages you to review the privacy statements of Web sites
+        you choose to link to from [Portal:PortalName] so that you can understand how those
+        Web sites collect, use and share your information. [Portal:PortalName] is not responsible
+        for the privacy statements or other content on Web sites outside of the [Portal:PortalName]
+        and [Portal:PortalName] family of Web sites.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;Use of your Personal Information&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] collects and uses your personal information to operate the [Portal:PortalName]
+        Web site and deliver the services you have requested. [Portal:PortalName] also uses
+        your personally identifiable information to inform you of other products or services
+        available from [Portal:PortalName] and its affiliates. [Portal:PortalName] may also
+        contact you via surveys to conduct research about your opinion of current services
+        or of potential new services that may be offered.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] does not sell, rent or lease its customer lists to third parties.
+        [Portal:PortalName] may, from time to time, contact you on behalf of external business
+        partners about a particular offering that may be of interest to you. In those cases,
+        your unique personally identifiable information (e-mail, name, address, telephone
+        number) is not transferred to the third party. In addition, [Portal:PortalName]
+        may share data with trusted partners to help us perform statistical analysis, send
+        you email or postal mail, provide customer support, or arrange for deliveries. All
+        such third parties are prohibited from using your personal information except to
+        provide these services to [Portal:PortalName], and they are required to maintain
+        the confidentiality of your information.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] does not use or disclose sensitive personal information, such
+        as race, religion, or political affiliations, without your explicit consent.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] keeps track of the Web sites and pages our customers visit within
+        [Portal:PortalName], in order to determine what [Portal:PortalName] services are
+        the most popular. This data is used to deliver customized content and advertising
+        within [Portal:PortalName] to customers whose behavior indicates that they are interested
+        in a particular subject area.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] Web sites will disclose your personal information, without notice,
+        only if required to do so by law or in the good faith belief that such action is
+        necessary to: (a) conform to the edicts of the law or comply with legal process
+        served on [Portal:PortalName] or the site; (b) protect and defend the rights or
+        property of [Portal:PortalName]; and, (c) act under exigent circumstances to protect
+        the personal safety of users of [Portal:PortalName], or the public.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;Use of Cookies&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;The [Portal:PortalName] Web site use "cookies" to help you personalize your online
+        experience. A cookie is a text file that is placed on your hard disk by a Web page
+        server. Cookies cannot be used to run programs or deliver viruses to your computer.
+        Cookies are uniquely assigned to you, and can only be read by a web server in the
+        domain that issued the cookie to you.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;One of the primary purposes of cookies is to provide a convenience feature to save
+        you time. The purpose of a cookie is to tell the Web server that you have returned
+        to a specific page. For example, if you personalize [Portal:PortalName] pages, or
+        register with [Portal:PortalName] site or services, a cookie helps [Portal:PortalName]
+        to recall your specific information on subsequent visits. This simplifies the process
+        of recording your personal information, such as billing addresses, shipping addresses,
+        and so on. When you return to the same [Portal:PortalName] Web site, the information
+        you previously provided can be retrieved, so you can easily use the [Portal:PortalName]
+        features that you customized.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;You have the ability to accept or decline cookies. Most Web browsers automatically
+        accept cookies, but you can usually modify your browser setting to decline cookies
+        if you prefer. If you choose to decline cookies, you may not be able to fully experience
+        the interactive features of the [Portal:PortalName] services or Web sites you visit.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;Security of your Personal Information&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] secures your personal information from unauthorized access,
+        use or disclosure. [Portal:PortalName] secures the personally identifiable information
+        you provide on computer servers in a controlled, secure environment, protected from
+        unauthorized access, use or disclosure. When personal information (such as a credit
+        card number) is transmitted to other Web sites, it is protected through the use
+        of encryption, such as the Secure Socket Layer (SSL) protocol.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;Changes to this Statement&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] will occasionally update this Statement of Privacy to reflect
+company and customer feedback. [Portal:PortalName] encourages you to periodically 
+        review this Statement to be informed of how [Portal:PortalName] is protecting your
+        information.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;Contact Information&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] welcomes your comments regarding this Statement of Privacy.
+        If you believe that [Portal:PortalName] has not adhered to this Statement, please
+        contact [Portal:PortalName] at &amp;lt;a href="mailto:[Portal:Email]"&amp;gt;[Portal:Email]&amp;lt;/a&amp;gt;.
+        We will use commercially reasonable efforts to promptly determine and remedy the
+        problem.&amp;lt;/p&amp;gt;
+    &amp;lt;/div&amp;gt;</value>
+  </data>
+  <data name="MESSAGE_PORTAL_TERMS.Text">
+    <value xml:space="preserve">&amp;lt;div align="left"&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;AGREEMENT BETWEEN USER AND [Portal:PortalName]&amp;lt;/span&amp;gt;&amp;lt;p&amp;gt;
+        &amp;lt;p&amp;gt;The [Portal:PortalName] Web Site is comprised of various Web pages operated by [Portal:PortalName].&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;The [Portal:PortalName] Web Site is offered to you conditioned on your acceptance
+        without modification of the terms, conditions, and notices contained herein. Your
+        use of the [Portal:PortalName] Web Site constitutes your agreement to all such terms,
+        conditions, and notices.&amp;lt;p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;MODIFICATION OF THESE TERMS OF USE&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] reserves the right to change the terms, conditions, and notices
+        under which the [Portal:PortalName] Web Site is offered, including but not limited
+        to the charges associated with the use of the [Portal:PortalName] Web Site.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;LINKS TO THIRD PARTY SITES&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;The [Portal:PortalName] Web Site may contain links to other Web Sites ("Linked Sites").
+        The Linked Sites are not under the control of [Portal:PortalName] and [Portal:PortalName]
+        is not responsible for the contents of any Linked Site, including without limitation
+        any link contained in a Linked Site, or any changes or updates to a Linked Site.
+        [Portal:PortalName] is not responsible for webcasting or any other form of transmission
+        received from any Linked Site. [Portal:PortalName] is providing these links to you
+        only as a convenience, and the inclusion of any link does not imply endorsement
+        by [Portal:PortalName] of the site or any association with its operators.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;NO UNLAWFUL OR PROHIBITED USE&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;As a condition of your use of the [Portal:PortalName] Web Site, you warrant to [Portal:PortalName]
+        that you will not use the [Portal:PortalName] Web Site for any purpose that is unlawful
+        or prohibited by these terms, conditions, and notices. You may not use the [Portal:PortalName]
+        Web Site in any manner which could damage, disable, overburden, or impair the [Portal:PortalName]
+        Web Site or interfere with any other party's use and enjoyment of the [Portal:PortalName]
+        Web Site. You may not obtain or attempt to obtain any materials or information through
+        any means not intentionally made available or provided for through the [Portal:PortalName]
+        Web Sites.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;USE OF COMMUNICATION SERVICES&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;The [Portal:PortalName] Web Site may contain bulletin board services, chat areas,
+        news groups, forums, communities, personal web pages, calendars, and/or other message
+        or communication facilities designed to enable you to communicate with the public
+        at large or with a group (collectively, "Communication Services"), you agree to
+        use the Communication Services only to post, send and receive messages and material
+        that are proper and related to the particular Communication Service. By way of example,
+        and not as a limitation, you agree that when using a Communication Service, you
+        will not:&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+            &amp;lt;li&amp;gt;Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such
+                as rights of privacy and publicity) of others.&amp;lt;/li&amp;gt;
+            &amp;lt;li&amp;gt;Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory,
+                infringing, obscene, indecent or unlawful topic, name, material or information.&amp;lt;/li&amp;gt;
+            &amp;lt;li&amp;gt;Upload files that contain software or other material protected by intellectual property
+                laws (or by rights of privacy of publicity) unless you own or control the rights
+                thereto or have received all necessary consents.&amp;lt;/li&amp;gt;
+            &amp;lt;li&amp;gt;Upload files that contain viruses, corrupted files, or any other similar software
+                or programs that may damage the operation of another's computer.&amp;lt;/li&amp;gt;
+            &amp;lt;li&amp;gt;Advertise or offer to sell or buy any goods or services for any business purpose,
+                unless such Communication Service specifically allows such messages.&amp;lt;/li&amp;gt;
+            &amp;lt;li&amp;gt;Conduct or forward surveys, contests, pyramid schemes or chain letters.&amp;lt;/li&amp;gt;
+            &amp;lt;li&amp;gt;Download any file posted by another user of a Communication Service that you know,
+                or reasonably should know, cannot be legally distributed in such manner.&amp;lt;/li&amp;gt;
+            &amp;lt;li&amp;gt;Falsify or delete any author attributions, legal or other proper notices or proprietary
+                designations or labels of the origin or source of software or other material contained
+                in a file that is uploaded.&amp;lt;/li&amp;gt;
+            &amp;lt;li&amp;gt;Restrict or inhibit any other user from using and enjoying the Communication Services.&amp;lt;/li&amp;gt;
+            &amp;lt;li&amp;gt;Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.&amp;lt;/li&amp;gt;
+            &amp;lt;li&amp;gt;Harvest or otherwise collect information about others, including e-mail addresses, without their consent.&amp;lt;/li&amp;gt;
+            &amp;lt;li&amp;gt;Violate any applicable laws or regulations.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] has no obligation to monitor the Communication Services. However,
+        [Portal:PortalName] reserves the right to review materials posted to a Communication
+        Service and to remove any materials in its sole discretion. [Portal:PortalName]
+        reserves the right to terminate your access to any or all of the Communication Services
+        at any time without notice for any reason whatsoever.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] reserves the right at all times to disclose any information
+        as necessary to satisfy any applicable law, regulation, legal process or governmental
+        request, or to edit, refuse to post or to remove any information or materials, in
+        whole or in part, in [Portal:PortalName]'s sole discretion.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;Always use caution when giving out any personally identifying information about
+        yourself or your children in any Communication Service. [Portal:PortalName] does
+        not control or endorse the content, messages or information found in any Communication
+        Service and, therefore, [Portal:PortalName] specifically disclaims any liability
+        with regard to the Communication Services and any actions resulting from your participation
+        in any Communication Service. Managers and hosts are not authorized [Portal:PortalName]
+        spokespersons, and their views do not necessarily reflect those of [Portal:PortalName].&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;Materials uploaded to a Communication Service may be subject to posted limitations
+        on usage, reproduction and/or dissemination. You are responsible for adhering to
+        such limitations if you download the materials.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;MATERIALS PROVIDED TO [Portal:PortalName] OR POSTED AT ANY [Portal:PortalName]
+            WEB SITE&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] does not claim ownership of the materials you provide to [Portal:PortalName]
+        (including feedback and suggestions) or post, upload, input or submit to any [Portal:PortalName]
+        Web Site or its associated services (collectively "Submissions"). However, by posting,
+        uploading, inputting, providing or submitting your Submission you are granting [Portal:PortalName],
+        its affiliated companies and necessary sublicensees permission to use your Submission
+        in connection with the operation of their Internet businesses including, without
+        limitation, the rights to: copy, distribute, transmit, publicly display, publicly
+        perform, reproduce, edit, translate and reformat your Submission; and to publish
+        your name in connection with your Submission.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;No compensation will be paid with respect to the use of your Submission, as provided
+        herein. [Portal:PortalName] is under no obligation to post or use any Submission
+        you may provide and may remove any Submission at any time in [Portal:PortalName]'s
+        sole discretion.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;By posting, uploading, inputting, providing or submitting your Submission you warrant
+        and represent that you own or otherwise control all of the rights to your Submission
+        as described in this section including, without limitation, all the rights necessary
+        for you to provide, post, upload, input or submit the Submissions.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;LIABILITY DISCLAIMER&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;THE INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES INCLUDED IN OR AVAILABLE THROUGH
+        THE [Portal:PortalName] WEB SITE MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL ERRORS.
+        CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN. [Portal:PortalName] AND/OR
+        ITS SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR CHANGES IN THE [Portal:PortalName] WEB
+        SITE AT ANY TIME. ADVICE RECEIVED VIA THE [Portal:PortalName] WEB SITE SHOULD NOT
+        BE RELIED UPON FOR PERSONAL, MEDICAL, LEGAL OR FINANCIAL DECISIONS AND YOU SHOULD
+        CONSULT AN APPROPRIATE PROFESSIONAL FOR SPECIFIC ADVICE TAILORED TO YOUR SITUATION.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] AND/OR ITS SUPPLIERS MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY,
+        RELIABILITY, AVAILABILITY, TIMELINESS, AND ACCURACY OF THE INFORMATION, SOFTWARE,
+        PRODUCTS, SERVICES AND RELATED GRAPHICS CONTAINED ON THE [Portal:PortalName] WEB
+        SITE FOR ANY PURPOSE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ALL SUCH
+        INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS ARE PROVIDED "AS
+        IS" WITHOUT WARRANTY OR CONDITION OF ANY KIND. [Portal:PortalName] AND/OR ITS SUPPLIERS
+        HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THIS INFORMATION, SOFTWARE,
+        PRODUCTS, SERVICES AND RELATED GRAPHICS, INCLUDING ALL IMPLIED WARRANTIES OR CONDITIONS
+        OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL [Portal:PortalName]
+        AND/OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL,
+        CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER INCLUDING, WITHOUT LIMITATION, DAMAGES
+        FOR LOSS OF USE, DATA OR PROFITS, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE
+        USE OR PERFORMANCE OF THE [Portal:PortalName] WEB SITE, WITH THE DELAY OR INABILITY
+        TO USE THE [Portal:PortalName] WEB SITE OR RELATED SERVICES, THE PROVISION OF OR
+        FAILURE TO PROVIDE SERVICES, OR FOR ANY INFORMATION, SOFTWARE, PRODUCTS, SERVICES
+        AND RELATED GRAPHICS OBTAINED THROUGH THE [Portal:PortalName] WEB SITE, OR OTHERWISE
+        ARISING OUT OF THE USE OF THE [Portal:PortalName] WEB SITE, WHETHER BASED ON CONTRACT,
+        TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, EVEN IF [Portal:PortalName] OR
+        ANY OF ITS SUPPLIERS HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. BECAUSE SOME
+        STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL
+        OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IF YOU ARE DISSATISFIED
+        WITH ANY PORTION OF THE [Portal:PortalName] WEB SITE, OR WITH ANY OF THESE TERMS
+        OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE [Portal:PortalName]
+        WEB SITE.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;SERVICE CONTACT : [Portal:Email]&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;TERMINATION/ACCESS RESTRICTION&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;[Portal:PortalName] reserves the right, in its sole discretion, to terminate your
+        access to the [Portal:PortalName] Web Site and the related services or any portion
+        thereof at any time, without notice. GENERAL To the maximum extent permitted by
+        law, this agreement is governed by the laws of the State of Washington, U.S.A. and
+        you hereby consent to the exclusive jurisdiction and venue of courts in San Mateo County,
+        California, U.S.A. in all disputes arising out of or relating to the use of the
+        [Portal:PortalName] Web Site. Use of the [Portal:PortalName] Web Site is unauthorized
+        in any jurisdiction that does not give effect to all provisions of these terms and
+        conditions, including without limitation this paragraph. You agree that no joint
+        venture, partnership, employment, or agency relationship exists between you and
+        [Portal:PortalName] as a result of this agreement or use of the [Portal:PortalName]
+        Web Site. [Portal:PortalName]'s performance of this agreement is subject to existing
+        laws and legal process, and nothing contained in this agreement is in derogation
+        of [Portal:PortalName]'s right to comply with governmental, court and law enforcement
+        requests or requirements relating to your use of the [Portal:PortalName] Web Site
+        or information provided to or gathered by [Portal:PortalName] with respect to such
+        use. If any part of this agreement is determined to be invalid or unenforceable
+        pursuant to applicable law including, but not limited to, the warranty disclaimers
+        and liability limitations set forth above, then the invalid or unenforceable provision
+        will be deemed superseded by a valid, enforceable provision that most closely matches
+        the intent of the original provision and the remainder of the agreement shall continue
+        in effect. Unless otherwise specified herein, this agreement constitutes the entire
+        agreement between the user and [Portal:PortalName] with respect to the [Portal:PortalName]
+        Web Site and it supersedes all prior or contemporaneous communications and proposals,
+        whether electronic, oral or written, between the user and [Portal:PortalName] with
+        respect to the [Portal:PortalName] Web Site. A printed version of this agreement
+        and of any notice given in electronic form shall be admissible in judicial or administrative
+        proceedings based upon or relating to this agreement to the same extent an d subject
+        to the same conditions as other business documents and records originally generated
+        and maintained in printed form. It is the express wish to the parties that this
+        agreement and all related documents be drawn up in English.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;COPYRIGHT AND TRADEMARK NOTICES:&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;All contents of the [Portal:PortalName] Web Site are: [Portal:FooterText] and/or
+        its suppliers. All rights reserved.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;TRADEMARKS&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;The names of actual companies and products mentioned herein may be the trademarks
+        of their respective owners.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;The example companies, organizations, products, people and events depicted herein
+        are fictitious. No association with any real company, organization, product, person,
+        or event is intended or should be inferred.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;Any rights not expressly granted herein are reserved.&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;NOTICES AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+        &amp;lt;p&amp;gt;Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed
+        copyright infringement under United States copyright law should be sent to Service
+        Provider's Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE
+        WILL RECEIVE NO RESPONSE. See Notice and Procedure for Making Claims of Copyright
+        Infringement.&amp;lt;/p&amp;gt;
+    &amp;lt;/div&amp;gt;</value>
+  </data>
+  <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text">
+    <value xml:space="preserve">Om uw wachtwoord op te kunnen vragen moet u uw gebruikersnaam opgeven, en een antwoord op de wachtwoord vraag.</value>
+  </data>
+  <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text">
+    <value xml:space="preserve">Verifieer uw emailadres wijziging door uw wachtwoord opnieuw in te voeren.</value>
+  </data>
+  <data name="ModuleGenericActions.Action">
+    <value xml:space="preserve">Beheer</value>
+  </data>
+  <data name="ModuleHelp.Action">
+    <value xml:space="preserve">Help</value>
+  </data>
+  <data name="ModulePermissions.Action">
+    <value xml:space="preserve">Machtigingen</value>
+  </data>
+  <data name="ModuleSettings.Action">
+    <value xml:space="preserve">Instellingen</value>
+  </data>
+  <data name="ModuleSpecificActions.Action">
+    <value xml:space="preserve">Wijzigen</value>
+  </data>
+  <data name="MoveBottom.Action">
+    <value xml:space="preserve">Onderste</value>
+  </data>
+  <data name="MoveDown.Action">
+    <value xml:space="preserve">Omlaag</value>
+  </data>
+  <data name="MovePane.Action">
+    <value xml:space="preserve">Naar</value>
+  </data>
+  <data name="MoveRoot.Action">
+    <value xml:space="preserve">Verplaats</value>
+  </data>
+  <data name="MoveTop.Action">
+    <value xml:space="preserve">Bovenste</value>
+  </data>
+  <data name="MoveToPane.Action">
+    <value xml:space="preserve">Naar {0}</value>
+  </data>
+  <data name="MoveUp.Action">
+    <value xml:space="preserve">Omhoog</value>
+  </data>
+  <data name="NativeName.Text">
+    <value xml:space="preserve">Oorspronkelijke Naam</value>
+  </data>
+  <data name="NeutralCulture.Text">
+    <value xml:space="preserve">Neutrale taal</value>
+  </data>
+  <data name="NoErrorsSending.Text">
+    <value xml:space="preserve">Geen fouten opgetreden tijdens versturen</value>
+  </data>
+  <data name="NoLoginControl.Text">
+    <value xml:space="preserve">U bent naar deze standaard Login Pagina omgeleid omdat deze website geen geldige Login Module bevat, of omdat de machtigingen niet juist zijn ingesteld.</value>
+  </data>
+  <data name="NoSitesForThisInstallation.Error" lastModified="2016-03-08 09:14:08">
+    <value xml:space="preserve">Er bestaan op dit moment geen sites voor deze installatie.</value>
+  </data>
+  <data name="OnlineHelp.Action" lastModified="2018-07-20 14:52:24">
+    <value xml:space="preserve">Online hulp</value>
+  </data>
+  <data name="PortalLinks.Text">
+    <value xml:space="preserve">Portal koppelingen</value>
+  </data>
+  <data name="PrintModule.Action">
+    <value xml:space="preserve">Afdrukken</value>
+  </data>
+  <data name="PurgeCacheUnsupported.Text">
+    <value xml:space="preserve">Deze caching provider gebruikt the PurgeCache functionaliteit niet</value>
+  </data>
+  <data name="ReflectionPermission.Text">
+    <value xml:space="preserve">Deze extensie vereist reflectie rechten.</value>
+  </data>
+  <data name="Relationship_Added.Text">
+    <value xml:space="preserve">Heeft relatie toegevoegd {0}</value>
+  </data>
+  <data name="Relationship_Deleted.Text">
+    <value xml:space="preserve">Heeft relatie verwijderd {0} : ID {1}</value>
+  </data>
+  <data name="Relationship_Updated.Text">
+    <value xml:space="preserve">Geüpdate Relatie {0}</value>
+  </data>
+  <data name="RelationshipType_Added.Text">
+    <value xml:space="preserve">RelatieType Toegevoegd {0}</value>
+  </data>
+  <data name="RelationshipType_Deleted.Text">
+    <value xml:space="preserve">RelatieType Verwijderd {0} : ID {1}</value>
+  </data>
+  <data name="RelationshipType_Updated.Text">
+    <value xml:space="preserve">Geüpdate RelatieType {0}</value>
+  </data>
+  <data name="Return.Text">
+    <value xml:space="preserve">Terug naar website</value>
+  </data>
+  <data name="SearchCrawler Admin.String">
+    <value xml:space="preserve">Zoekmachine beheer</value>
+  </data>
+  <data name="SiteAccessedWhileInstallationWasInProgress.Error" lastModified="2016-03-08 09:14:08">
+    <value xml:space="preserve">Deze site is bezocht terwijl er een installatie of upgrade werd uitgevoerd.</value>
+  </data>
+  <data name="SkinLoadError.Text">
+    <value xml:space="preserve">Skin {0}, kan niet worden geladen. Fout: {1}&amp;lt;br /&amp;gt;</value>
+  </data>
+  <data name="SyndicateModule.Action">
+    <value xml:space="preserve">Syndicatie</value>
+  </data>
+  <data name="ThereIsAInstallationCurrentlyInProgress.Error" lastModified="2016-03-08 09:14:08">
+    <value xml:space="preserve">Op dit moment wordt er een installatie uitgevoerd. Probeer het op een later moment nogmaals.</value>
+  </data>
+  <data name="TokenReplaceRestrictedProperty.Text">
+    <value xml:space="preserve">Fout bij toegang tot  [{0}:{1}], toegang tot {1} is afgeschermd voor databron {0}.</value>
+  </data>
+  <data name="TokenReplaceUnknownObject.Text">
+    <value xml:space="preserve">Fout bij toegang tot [{0}:{1}], {0} is een onbekend object token.</value>
+  </data>
+  <data name="TokenReplaceUnknownProperty.Text">
+    <value xml:space="preserve">Fout bij toegang tot [{0}:{1}], {1} is onbekend voor databron {0}.</value>
+  </data>
+  <data name="TrackClicks.Text">
+    <value xml:space="preserve">Het aantal keer dat link is aangeklikt bijhouden </value>
+  </data>
+  <data name="Translate.Action">
+    <value xml:space="preserve">Markeer als vertaald</value>
+  </data>
+  <data name="UnhandledError.Text">
+    <value xml:space="preserve">Er is een niet afgehandelde fout opgetreden.</value>
+  </data>
+  <data name="UnTranslate.Action">
+    <value xml:space="preserve">Markeer als niet vertaald</value>
+  </data>
+  <data name="UrlPathNotUnique.Error">
+    <value xml:space="preserve">De toegevoegde URL is niet beschikbaar. Als u het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
+  </data>
+  <data name="UserRelationship_Added.Text">
+    <value xml:space="preserve">Toegevoegd UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
+  </data>
+  <data name="UserRelationship_Deleted.Text">
+    <value xml:space="preserve">Verwijderde UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
+  </data>
+  <data name="UserRelationship_Updated.Text">
+    <value xml:space="preserve">Bijgewerkte UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
+  </data>
+  <data name="UserRelationshipPreference_Added.Text">
+    <value xml:space="preserve">Toegevoegd UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
+  </data>
+  <data name="UserRelationshipPreference_Deleted.Text">
+    <value xml:space="preserve">Verwijderde UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
+  </data>
+  <data name="UserRelationshipPreference_Updated.Text">
+    <value xml:space="preserve">Bijgewerkte UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
+  </data>
+  <data name="View Folder.Permission">
+    <value xml:space="preserve">Open bestanden in map</value>
+  </data>
+  <data name="View Tab.Permission">
+    <value xml:space="preserve">Pagina Weergave</value>
+  </data>
+  <data name="View.Permission">
+    <value xml:space="preserve">Module bekijken</value>
+  </data>
+  <data name="ViewSource.Action">
+    <value xml:space="preserve">Broncode bekijken</value>
+  </data>
+  <data name="WebPermission.Text">
+    <value xml:space="preserve">Deze extensie vereist web rechten.</value>
+  </data>
+  <data name="Write to Folder.Permission">
+    <value xml:space="preserve">Schrijf bestanden in map</value>
+  </data>
+</root>

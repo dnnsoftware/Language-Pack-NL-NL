@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle.Text">
+    <value xml:space="preserve">{0} maptype</value>
+  </data>
+  <data name="ControlTitle_editfoldermapping.Text">
+    <value xml:space="preserve">Bewerk map routering</value>
+  </data>
+  <data name="Description.Text">
+    <value xml:space="preserve">Gebruik dit dialoog in een nieuw maptype te definiëren.</value>
+  </data>
+  <data name="DuplicateMappingName.Text">
+    <value xml:space="preserve">Een routering met dezelfde naam bestaat al. De wijzigingen worden niet opgeslagen</value>
+  </data>
+  <data name="FolderProviderSettings.Text">
+    <value xml:space="preserve">Map provider instellingen</value>
+  </data>
+  <data name="GeneralSettings.Text">
+    <value xml:space="preserve">Algemene instellingen</value>
+  </data>
+  <data name="FolderProviderLabel.Help">
+    <value xml:space="preserve">Selecteerd de map provider die u wilt gebruiken.</value>
+  </data>
+  <data name="FolderProviderLabel.Text">
+    <value xml:space="preserve">Map provider</value>
+  </data>
+  <data name="NameLabel.Help">
+    <value xml:space="preserve">Vul de naam in van deze map routering</value>
+  </data>
+  <data name="NameLabel.Text">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="RequiredFields.Text">
+    <value xml:space="preserve">Indicatie voor verplichte velden</value>
+  </data>
+  <data name="SelectFolderProvider.Text">
+    <value xml:space="preserve">- selecteer een map provider -</value>
+  </data>
+  <data name="SyncWarning.Text">
+    <value xml:space="preserve">Na het bijwerken van het maptype zal een synchronisatie worden uitgevoerd op alle mappen met dit maptype. Dit kan enige tijd duren afhankelijk van het aantal mappen dat aan de criteria voldoet.</value>
+  </data>
+  <data name="Update.Text">
+    <value xml:space="preserve">Bijwerken</value>
+  </data>
+  <data name="FolderProviderValidator.ErrorMessage">
+    <value xml:space="preserve">Map provider is vereist</value>
+  </data>
+  <data name="NameValidator.ErrorMessage">
+    <value xml:space="preserve">Naam is vereist</value>
+  </data>
+</root>

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Name.Header">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="Username.Header">
+    <value xml:space="preserve">Gebruikersnaam</value>
+  </data>
+  <data name="Address.Header">
+    <value xml:space="preserve">Adres</value>
+  </data>
+  <data name="Telephone.Header">
+    <value xml:space="preserve">Telefoon</value>
+  </data>
+  <data name="Email.Header">
+    <value xml:space="preserve">E-mail</value>
+  </data>
+  <data name="LastLogin.Header">
+    <value xml:space="preserve">Laatste keer ingelogd</value>
+  </data>
+  <data name="Authorized.Header">
+    <value xml:space="preserve">Geautoriseerd</value>
+  </data>
+  <data name="DeleteUnauthorized.Text">
+    <value xml:space="preserve">Niet geautoriseerde gebruikers verwijderen</value>
+  </data>
+  <data name="AddContent.Action">
+    <value xml:space="preserve">Nieuwe gebruiker toevoegen</value>
+  </data>
+  <data name="ControlTitle_.Text">
+    <value xml:space="preserve">Gebruikersaccounts</value>
+  </data>
+  <data name="Search.Text">
+    <value xml:space="preserve">Zoeken</value>
+  </data>
+  <data name="RecordsPage.Text">
+    <value xml:space="preserve">Aantal regels per pagina:</value>
+  </data>
+  <data name="First.Text">
+    <value xml:space="preserve">Eerste</value>
+  </data>
+  <data name="Next.Text">
+    <value xml:space="preserve">Volgende</value>
+  </data>
+  <data name="Previous.Text">
+    <value xml:space="preserve">Vorige</value>
+  </data>
+  <data name="Last.Text">
+    <value xml:space="preserve">Laatste</value>
+  </data>
+  <data name="CreatedDate.Header">
+    <value xml:space="preserve">Aanmaakdatum</value>
+  </data>
+  <data name="DisplayDate.Text">
+    <value xml:space="preserve">Datum weergave:</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">
+      &lt;h1&gt;Over de gebruiker accounts module&lt;/h1&gt;
+      &lt;p&gt;Met behulp van de gebruiker accounts module kunnen bezoekers zich registreren voor de website. Geregistreerde gebruikers kunnen hun gegevens bijwerken, hun abonnementen op abonneeservices beheren, en eventueel hun registratie voor deze website ongedaan maken&lt;/p&gt;
+    </value>
+  </data>
+  <data name="ManageProfile.Action">
+    <value xml:space="preserve">Profiel eigenschappen beheren</value>
+  </data>
+  <data name="UserRoles.Text">
+    <value xml:space="preserve">Rollen beheren</value>
+  </data>
+  <data name="DeleteUnAuthorized.Action">
+    <value xml:space="preserve">Verwijder niet geautoriseerde gebruikers</value>
+  </data>
+  <data name="RemoveDeleted.Action">
+    <value xml:space="preserve">Wissen Verwijderde Gebruikers</value>
+  </data>
+  <data name="UserSettings.Action">
+    <value xml:space="preserve">Gebruiker Instellingen</value>
+  </data>
+  <data name="FirstName.Header">
+    <value xml:space="preserve">Voornaam</value>
+  </data>
+  <data name="LastName.Header">
+    <value xml:space="preserve">Achternaam</value>
+  </data>
+  <data name="DisplayName.Header">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="Filter.Text">
+    <value xml:space="preserve">A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z</value>
+  </data>
+  <data name="UserDeleted.Text">
+    <value xml:space="preserve">Gebruiker succesvol verwijderd</value>
+  </data>
+  <data name="Delete.Text">
+    <value xml:space="preserve">Verwijderen</value>
+  </data>
+  <data name="Remove.Text">
+    <value xml:space="preserve">Wissen</value>
+  </data>
+  <data name="Restore.Text">
+    <value xml:space="preserve">Herstellen</value>
+  </data>
+  <data name="Prefix.Text">
+    <value xml:space="preserve">Voorvoegsel</value>
+  </data>
+  <data name="FirstName.Text">
+    <value xml:space="preserve">Voornaam</value>
+  </data>
+  <data name="LastName.Text">
+    <value xml:space="preserve">Achternaam</value>
+  </data>
+  <data name="MiddleName.Text">
+    <value xml:space="preserve">Tweede naam</value>
+  </data>
+  <data name="Suffix.Text">
+    <value xml:space="preserve">Achtervoegsel</value>
+  </data>
+  <data name="Unit.Text">
+    <value xml:space="preserve">Eenheid</value>
+  </data>
+  <data name="Street.Text">
+    <value xml:space="preserve">Straat</value>
+  </data>
+  <data name="City.Text">
+    <value xml:space="preserve">Plaats</value>
+  </data>
+  <data name="Region.Text">
+    <value xml:space="preserve">Regio</value>
+  </data>
+  <data name="Country.Text">
+    <value xml:space="preserve">Land</value>
+  </data>
+  <data name="PostalCode.Text">
+    <value xml:space="preserve">Postcode</value>
+  </data>
+  <data name="Telephone.Text">
+    <value xml:space="preserve">Telefoon</value>
+  </data>
+  <data name="Cell.Text">
+    <value xml:space="preserve">GSM</value>
+  </data>
+  <data name="Fax.Text">
+    <value xml:space="preserve">Fax</value>
+  </data>
+  <data name="IM.Text">
+    <value xml:space="preserve">IM</value>
+  </data>
+  <data name="Website.Text">
+    <value xml:space="preserve">Website</value>
+  </data>
+  <data name="Biography.Text">
+    <value xml:space="preserve">Biografie</value>
+  </data>
+  <data name="TimeZone.Text">
+    <value xml:space="preserve">Tijdzone</value>
+  </data>
+  <data name="PreferredLocale.Text">
+    <value xml:space="preserve">Voorkeurstaal</value>
+  </data>
+  <data name="Email.Text">
+    <value xml:space="preserve">E-mail</value>
+  </data>
+  <data name="Username.Text">
+    <value xml:space="preserve">Gebruikersnaam</value>
+  </data>
+  <data name="Online.Text">
+    <value xml:space="preserve">Online </value>
+  </data>
+  <data name="Delete.Confirm">
+    <value xml:space="preserve">Weet u zeker dat u deze gebruiker wilt verwijderen?</value>
+  </data>
+  <data name="Remove.Confirm">
+    <value xml:space="preserve">Weet u zeker dat u deze gebruiker definitief wilt verwijderen?</value>
+  </data>
+  <data name="PreferredTimeZone.Text">
+    <value xml:space="preserve">Gewenste tijdzone</value>
+  </data>
+  <data name="Restore.Confirm">
+    <value xml:space="preserve">Weet u zeker dat u deze gebruiker wilt herstellen?</value>
+  </data>
+  <data name="DisplayName.Text">
+    <value xml:space="preserve">Display Name</value>
+  </data>
+  <data name="PagerPageSize.Text">
+    <value xml:space="preserve">Onderdelen per pagina:</value>
+  </data>
+  <data name="PagerTextFormat.Text">
+    <value xml:space="preserve">{4} pagina {0} van {1}, gebruikers {2} tot {3} van {5}</value>
+  </data>
+</root>

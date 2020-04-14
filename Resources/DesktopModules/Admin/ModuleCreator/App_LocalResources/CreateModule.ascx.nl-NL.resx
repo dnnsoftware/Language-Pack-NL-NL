@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Add.Title">
+    <value xml:space="preserve">Module constructeur</value>
+  </data>
+  <data name="plOwner.Text">
+    <value xml:space="preserve">Eigenaar naam:</value>
+  </data>
+  <data name="plOwner.Help">
+    <value xml:space="preserve">Ontwikkelaars worden aangemoedigt om een unieke namespace te gebruiken voor hun modules om mogelijke conflicten met andere ontwikkelaars te voorkomen. Specificeer de naam van uw organisatie of bedrijf en deze zal worden gebruikt als een voorloper.</value>
+  </data>
+  <data name="plModule.Text">
+    <value xml:space="preserve">Module naam:</value>
+  </data>
+  <data name="plModule.Help">
+    <value xml:space="preserve">Voer een unieke naam in voor de module.</value>
+  </data>
+  <data name="plDescription.Text">
+    <value xml:space="preserve">Omschrijving:</value>
+  </data>
+  <data name="plDescription.Help">
+    <value xml:space="preserve">U kunt optioneel een omschrijving invoeren voor uw module.</value>
+  </data>
+  <data name="plLanguage.Text">
+    <value xml:space="preserve">Taal:</value>
+  </data>
+  <data name="plLanguage.Help">
+    <value xml:space="preserve">Selecteer de voorkeur taal voor het ontwikkelen van de module</value>
+  </data>
+  <data name="C#.Text">
+    <value xml:space="preserve">C#</value>
+  </data>
+  <data name="VB.Text">
+    <value xml:space="preserve">Visual Basic</value>
+  </data>
+  <data name="plTemplate.Text">
+    <value xml:space="preserve">Template:</value>
+  </data>
+  <data name="plTemplate.Help">
+    <value xml:space="preserve">Selecteer uw voorkeurs module ontwikkelings template. Module ontwikkelings templates worden opgeslagen in de submap van de module binnen de host hoofdmap.</value>
+  </data>
+  <data name="plControl.Text">
+    <value xml:space="preserve">Control naam:</value>
+  </data>
+  <data name="plControl.Help">
+    <value xml:space="preserve">Vul een unieke naam in voor je module control.</value>
+  </data>
+  <data name="cmdCreate.Text">
+    <value xml:space="preserve">Module maken</value>
+  </data>
+  <data name="InputValidation.ErrorMessage">
+    <value xml:space="preserve">U moet een eigenaar en module naam invoeren en een module template selecteren</value>
+  </data>
+  <data name="SuperUser.ErrorMessage">
+    <value xml:space="preserve">U moet een host gebruiker zijn om een nieuwe modules te kunnen aanmaken</value>
+  </data>
+  <data name="AlreadyExists.ErrorMessage">
+    <value xml:space="preserve">Er bestaat al een module met de opgegeven naam</value>
+  </data>
+  <data name="TemplateProblem.ErrorMessage">
+    <value xml:space="preserve">Er is een fout opgetreden bij het lezen van de geselecteerde module template bestanden</value>
+  </data>
+</root>

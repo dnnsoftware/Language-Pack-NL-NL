@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Activity.Text">
+    <value xml:space="preserve">Activiteiten</value>
+  </data>
+  <data name="Actions.Text">
+    <value xml:space="preserve">Acties</value>
+  </data>
+  <data name="ViewedActivites_desc.Text">
+    <value xml:space="preserve">Heeft een pagina op de site weergegeven waarop een lijst van diverse score activiteiten worden weergegeven.</value>
+  </data>
+  <data name="ViewedActivities.Text">
+    <value xml:space="preserve">Weergegeven activiteiten</value>
+  </data>
+  <data name="ViewedBadges.Text">
+    <value xml:space="preserve">Weergegeven badges</value>
+  </data>
+  <data name="ViewedBadges_desc.Text">
+    <value xml:space="preserve">Heeft een pagina op de site weergegeven waarop een lijst van diverse badges worden weergegeven.</value>
+  </data>
+  <data name="Next.Text">
+    <value xml:space="preserve">Volgende</value>
+  </data>
+  <data name="NoResults.Text">
+    <value xml:space="preserve">Geen resultaten gevonden</value>
+  </data>
+  <data name="Of.Text">
+    <value xml:space="preserve">Van</value>
+  </data>
+  <data name="Prev.Text">
+    <value xml:space="preserve">Vorige</value>
+  </data>
+  <data name="Search.Text">
+    <value xml:space="preserve">Zoeken</value>
+  </data>
+  <data name="Searching.Text">
+    <value xml:space="preserve">Zoeken...</value>
+  </data>
+  <data name="Instant.Text">
+    <value xml:space="preserve">Direct</value>
+  </data>
+  <data name="Never.Text">
+    <value xml:space="preserve">Nooit</value>
+  </data>
+  <data name="ResultCount.Text">
+    <value xml:space="preserve">{0}</value>
+  </data>
+  <data name="SingleResultCount.Text">
+    <value xml:space="preserve">{0}</value>
+  </data>
+  <data name="Items.Text">
+    <value xml:space="preserve">[ITEMS] items</value>
+  </data>
+  <data name="ItemsOnPage.Text">
+    <value xml:space="preserve">[ITEMS] items on [PAGES] pages</value>
+  </data>
+  <data name="OneItem.Text">
+    <value xml:space="preserve">1 item</value>
+  </data>
+  <data name="No.Text">
+    <value xml:space="preserve">Nee</value>
+  </data>
+  <data name="UnsubscribeConfirm.Text">
+    <value xml:space="preserve">Weet u zeker dat u zich wilt uitschrijven?</value>
+  </data>
+  <data name="UnsubscribeConfirmTitle.Text">
+    <value xml:space="preserve">Uitschrijven</value>
+  </data>
+  <data name="Yes.Text">
+    <value xml:space="preserve">Ja</value>
+  </data>
+  <data name="ItemsPerPage.Text">
+    <value xml:space="preserve">Items per pagina:</value>
+  </data>
+  <data name="Save.Text">
+    <value xml:space="preserve">Bewaren</value>
+  </data>
+  <data name="Daily.Text">
+    <value xml:space="preserve">Dagelijks</value>
+  </data>
+  <data name="Hourly.Text">
+    <value xml:space="preserve">Ieder uur</value>
+  </data>
+  <data name="Weekly.Text">
+    <value xml:space="preserve">Wekelijks</value>
+  </data>
+</root>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="cmdUpdate.Text">
+    <value xml:space="preserve">Bijwerken</value>
+  </data>
+  <data name="ControlTitle_viewsource.Text">
+    <value xml:space="preserve">Bron weergeven</value>
+  </data>
+  <data name="plSource.Help">
+    <value xml:space="preserve">U kunt de inhoud van het bestand in de tekstbox beneden bekijken. Als u gebruik maakt van een locale machine dan kunt u de inhoud ook bewerken.</value>
+  </data>
+  <data name="plSource.Text">
+    <value xml:space="preserve">locatie:</value>
+  </data>
+  <data name="SourceFile.Text">
+    <value xml:space="preserve">Bron bestand - {0}</value>
+  </data>
+  <data name="plFile.Help">
+    <value xml:space="preserve">Selecteer het bestand waarvan u de bron wilt bekijken.</value>
+  </data>
+  <data name="plFile.Text">
+    <value xml:space="preserve">Selecteer een bestand:</value>
+  </data>
+  <data name="NoFileTypeSelected.Text">
+    <value xml:space="preserve">U moet eerst een bestandstype selecteren om te bewerken voordat u op de bijwerken knop klikt.</value>
+  </data>
+  <data name="plLanguage.Text">
+    <value xml:space="preserve">Taal:</value>
+  </data>
+  <data name="plLanguage.Help">
+    <value xml:space="preserve">Selecteer de gewenste taal voor het ontwikkelen van de module</value>
+  </data>
+  <data name="C#.Text">
+    <value xml:space="preserve">C#</value>
+  </data>
+  <data name="VB.Text">
+    <value xml:space="preserve">Visual Basic</value>
+  </data>
+  <data name="plTemplate.Text">
+    <value xml:space="preserve">Template:</value>
+  </data>
+  <data name="plTemplate.Help">
+    <value xml:space="preserve">Selecteer de gewenste module ontwikkelings template. Module ontwikkelings templates worden opgeslagen in de template subfolder binnen deModule Creator module map.</value>
+  </data>
+  <data name="plControl.Text">
+    <value xml:space="preserve">Control naam:</value>
+  </data>
+  <data name="plControl.Help">
+    <value xml:space="preserve">Voer een unieke naam in voor uw module control.</value>
+  </data>
+  <data name="plType.Text">
+    <value xml:space="preserve">Control type:</value>
+  </data>
+  <data name="plType.Help">
+    <value xml:space="preserve">Selecteer het control type.</value>
+  </data>
+  <data name="cmdCreate.Text">
+    <value xml:space="preserve">Aanmaken</value>
+  </data>
+  <data name="ControlCreated.Text">
+    <value xml:space="preserve">Het bestand is succesvol aangemaakt.</value>
+  </data>
+  <data name="ControlUpdated.Text">
+    <value xml:space="preserve">Het bestand is succesvol bijgewerkt.</value>
+  </data>
+  <data name="FolderNameInvalid.Text">
+    <value xml:space="preserve">De mapnaam die is opgegeven voor deze module bestaat niet. Controleer de instellingen for deze module onder Host - Extensies</value>
+  </data>
+  <data name="AddControlError.Text">
+    <value xml:space="preserve">U moet een module template selecteren en een control naam invoeren.</value>
+  </data>
+  <data name="cmdPackage.Text">
+    <value xml:space="preserve">Pakket maken</value>
+  </data>
+  <data name="cmdConfigure.Text">
+    <value xml:space="preserve">Configureren</value>
+  </data>
+  <data name="Add.Text">
+    <value xml:space="preserve">Toevoegen</value>
+  </data>
+  <data name="Edit.Text">
+    <value xml:space="preserve">Bewerken</value>
+  </data>
+  <data name="AddFile.Text">
+    <value xml:space="preserve">Bestand toevoegen</value>
+  </data>
+  <data name="EditFile.Text">
+    <value xml:space="preserve">Bewerk bestand</value>
+  </data>
+  <data name="Snippet.Text">
+    <value xml:space="preserve">Code snippets</value>
+  </data>
+  <data name="cmdSave.Text">
+    <value xml:space="preserve">Bewaren</value>
+  </data>
+  <data name="cmdSaveAs.Text">
+    <value xml:space="preserve">Bewaren als</value>
+  </data>
+  <data name="DeleteSnippet.Text">
+    <value xml:space="preserve">Snippet verwijderen?</value>
+  </data>
+  <data name="View.Text">
+    <value xml:space="preserve">Weergeven</value>
+  </data>
+</root>
