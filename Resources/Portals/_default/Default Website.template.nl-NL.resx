@@ -752,10 +752,10 @@
     <value xml:space="preserve">Nieuwsbrieven</value>
   </data>
   <data name="Tab.PageManagement.Content.Text">
-    <value xml:space="preserve">Pagina beheer</value>
+    <value xml:space="preserve">Paginabeheer</value>
   </data>
   <data name="Tab.PageManagement.ContentPane.Module.Title.Text">
-    <value xml:space="preserve">Pagina beheer</value>
+    <value xml:space="preserve">Paginabeheer</value>
   </data>
   <data name="Tab.PageManagement.Description.Text">
     <value xml:space="preserve">Pagina's binnen de site beheren.</value>
@@ -764,10 +764,10 @@
     <value xml:space="preserve">Pagina's</value>
   </data>
   <data name="Tab.PageManagement.Title.Text">
-    <value xml:space="preserve">Pagina beheer</value>
+    <value xml:space="preserve">Paginabeheer</value>
   </data>
   <data name="Tab.PortalAdministration.Content.Text">
-    <value xml:space="preserve">Portaal Administratie</value>
+    <value xml:space="preserve">Portal Administratie</value>
   </data>
   <data name="Tab.PortalAdministration.ContentPane.Module.Title.Text">
     <value xml:space="preserve">Basisfuncties</value>
@@ -776,7 +776,7 @@
     <value xml:space="preserve">Admin</value>
   </data>
   <data name="Tab.PortalAdministration.Title.Text">
-    <value xml:space="preserve">Portaal Administratie</value>
+    <value xml:space="preserve">Portal Administratie</value>
   </data>
   <data name="Tab.RecycleBin.Content.Text">
     <value xml:space="preserve">Prullenmand</value>
@@ -785,7 +785,7 @@
     <value xml:space="preserve">Prullenmand</value>
   </data>
   <data name="Tab.RecycleBin.Description.Text">
-    <value xml:space="preserve">Bekijken, herstellen of permanent hergebruik pagina's en modules die zijn verwijderd uit de portaal. </value>
+    <value xml:space="preserve">Bekijken, herstellen of permanent hergebruik pagina's en modules die zijn verwijderd uit de portal. </value>
   </data>
   <data name="Tab.RecycleBin.Name.Text">
     <value xml:space="preserve">Prullenmand</value>
@@ -800,16 +800,16 @@
     <value xml:space="preserve">Zoek Admin</value>
   </data>
   <data name="Tab.SearchResultsCE.Content.Text">
-    <value xml:space="preserve">Zoek resultaten</value>
+    <value xml:space="preserve">Zoekresultaten</value>
   </data>
   <data name="Tab.SearchResultsCE.ContentPane.ResultsModule.Title.Text">
     <value xml:space="preserve">Resultaten</value>
   </data>
   <data name="Tab.SearchResultsCE.ContentPane.SearchResultsModule.Title.Text">
-    <value xml:space="preserve">Zoek resultaten</value>
+    <value xml:space="preserve">Zoekresultaten</value>
   </data>
   <data name="Tab.SearchResultsCE.Name.Text">
-    <value xml:space="preserve">Zoek resultaten</value>
+    <value xml:space="preserve">Zoekresultaten</value>
   </data>
   <data name="Tab.SearchResultsCE.Title.Text">
     <value xml:space="preserve">Zoek resultaten</value>
@@ -818,13 +818,13 @@
     <value xml:space="preserve">Resultaten</value>
   </data>
   <data name="Tab.SearchResultsPro.ContentPane.SearchResultsModule.Title.Text">
-    <value xml:space="preserve">Zoek resultaten</value>
+    <value xml:space="preserve">Zoekresultaten</value>
   </data>
   <data name="Tab.SearchResultsPro.Name.Text">
     <value xml:space="preserve">Zoek resultaten</value>
   </data>
   <data name="Tab.SearchResultsPro.Title.Text">
-    <value xml:space="preserve">Zoek resultaten</value>
+    <value xml:space="preserve">Zoekresultaten</value>
   </data>
   <data name="Tab.SecurityRoles.Content.Text">
     <value xml:space="preserve">Beveligingsrollen</value>
