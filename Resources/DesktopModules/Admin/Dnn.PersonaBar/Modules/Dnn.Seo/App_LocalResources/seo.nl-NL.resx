@@ -208,7 +208,7 @@
     <value xml:space="preserve">Insluiten verborgen pagina's</value>
   </data>
   <data name="lblLevelPriority.Help" lastModified="2016-12-01 19:04:58">
-    <value xml:space="preserve">Indien aangevinkt,zal  de prioriteit voor elke pagina worden berekend vanuit de hierarchie van de pagina. Top nievau pagina's hebben een waarde van 1, Tweede niveau 0.9, Derde niveau 0.8,... Deze instelling zal de waarde niet wijzigen die is opgeslagen in de actuele pagina, maar het zal de berekende waarde gebruiken indien vereist.</value>
+    <value xml:space="preserve">Indien aangevinkt,zal  de prioriteit voor elke pagina worden berekend vanuit de hierarchie van de pagina. Topniveau pagina's hebben een waarde van 1, Tweede niveau 0.9, Derde niveau 0.8,... Deze instelling zal de waarde niet wijzigen die is opgeslagen in de actuele pagina, maar het zal de berekende waarde gebruiken indien vereist.</value>
   </data>
   <data name="lblLevelPriority.Text" lastModified="2016-12-01 20:05:16">
     <value xml:space="preserve">Gebruik Pagina Niveau Gebaseerde Prioriteiten</value>
@@ -472,7 +472,7 @@
     <value xml:space="preserve">URL's Zonder Reguliere Uitdrukking is ongeldig.</value>
   </data>
   <data name="urlsWithNoExtensionRegExLabel.Help" lastModified="2016-12-02 13:49:31">
-    <value xml:space="preserve">Het URL's Zonder Reguliere Uitdrukking patroon wordt gebruikt om URL's te valideren die niet verwijzen naar bron op de server, die geen DotNetNuke pagina's zijn, maar kunnen worden opgevraagd zonder URL extentie. URL's die deze reguliere uitdrukking matchen zullen niet behandeld worden als een 404 als een matchende DotNetNuke pagina niet kan worden gevonden voor de URL.</value>
+    <value xml:space="preserve">Het URL's Zonder Reguliere Uitdrukking patroon wordt gebruikt om URL's te valideren die niet verwijzen naar bron op de server, die geen DNN pagina's zijn, maar kunnen worden opgevraagd zonder URL extentie. URL's die deze reguliere uitdrukking matchen zullen niet behandeld worden als een 404 als een matchende DotNetNuke pagina niet kan worden gevonden voor de URL.</value>
   </data>
   <data name="urlsWithNoExtensionRegExLabel.Text" lastModified="2016-12-02 14:51:23">
     <value xml:space="preserve">URL's Zonder Reguliere Uitdrukking</value>

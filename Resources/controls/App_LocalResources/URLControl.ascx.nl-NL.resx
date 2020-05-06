@@ -1,5 +1,110 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -7,90 +112,90 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Add.Text">
-    <value xml:space="preserve">Voeg een nieuwe URL toe</value>
+  <data name="Add.Text" xml:space="preserve">
+    <value>Voeg een nieuwe URL toe</value>
   </data>
-  <data name="Cancel.Text">
-    <value xml:space="preserve">Selecteer een bestaand bestand</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Selecteer een bestaand bestand</value>
   </data>
-  <data name="Delete.Text">
-    <value xml:space="preserve">Verwijder de geselecteerde URL uit de lijst&lt;br /&gt;</value>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Verwijder de geselecteerde URL uit de lijst&lt;br /&gt;</value>
   </data>
-  <data name="File.Text">
-    <value xml:space="preserve">Bestandsnaam:&lt;br /&gt;</value>
+  <data name="File.Text" xml:space="preserve">
+    <value>Bestandsnaam:&lt;br /&gt;</value>
   </data>
-  <data name="FileType.Text">
-    <value xml:space="preserve">Bestand (Een bestand in uw website)</value>
+  <data name="FileType.Text" xml:space="preserve">
+    <value>Bestand (Een bestand in uw website)</value>
   </data>
-  <data name="Folder.Text">
-    <value xml:space="preserve">Bestandslocatie:&lt;br /&gt;</value>
+  <data name="Folder.Text" xml:space="preserve">
+    <value>Bestandslocatie:&lt;br /&gt;</value>
   </data>
-  <data name="Image.Text">
-    <value xml:space="preserve">Afbeelding:&lt;br /&gt;</value>
+  <data name="Image.Text" xml:space="preserve">
+    <value>Afbeelding:&lt;br /&gt;</value>
   </data>
-  <data name="ImageType.Text">
-    <value xml:space="preserve">Systeem Afbeelding</value>
+  <data name="ImageType.Text" xml:space="preserve">
+    <value>Systeem afbeelding</value>
   </data>
-  <data name="Log.Text">
-    <value xml:space="preserve">Gebruiker, datum en tijd vastleggen voor elke klik op link?&lt;br/&gt;</value>
+  <data name="Log.Text" xml:space="preserve">
+    <value>Gebruiker, datum en tijd vastleggen voor elke klik op link?&lt;br/&gt;</value>
   </data>
-  <data name="NewWindow.Text">
-    <value xml:space="preserve">Open link in nieuwe browser?&lt;br/&gt;</value>
+  <data name="NewWindow.Text" xml:space="preserve">
+    <value>Open link in nieuwe browser?&lt;br/&gt;</value>
   </data>
-  <data name="NoneType.Text">
-    <value xml:space="preserve">Geen</value>
+  <data name="NoneType.Text" xml:space="preserve">
+    <value>Geen</value>
   </data>
-  <data name="NoPermission.Text">
-    <value xml:space="preserve">U heeft geen toestemming om de bestanden op de site te zien</value>
+  <data name="NoPermission.Text" xml:space="preserve">
+    <value>U heeft geen toestemming om de bestanden op de site te zien</value>
   </data>
-  <data name="NoUser.Text">
-    <value xml:space="preserve">De ingevoerde gebruikersnaam komt niet overeen met een gebruiker van deze website.</value>
+  <data name="NoUser.Text" xml:space="preserve">
+    <value>De ingevoerde gebruikersnaam komt niet overeen met een gebruiker van deze website.</value>
   </data>
-  <data name="NoWritePermission.Text">
-    <value xml:space="preserve">U heeft geen toestemming op bestanden naar deze site te uploaden.</value>
+  <data name="NoWritePermission.Text" xml:space="preserve">
+    <value>U heeft geen toestemming op bestanden naar deze site te uploaden.</value>
   </data>
-  <data name="Root.Text">
-    <value xml:space="preserve">Beginmap</value>
+  <data name="Root.Text" xml:space="preserve">
+    <value>Beginmap</value>
   </data>
-  <data name="Save.Text">
-    <value xml:space="preserve">Geselecteerd bestand uploaden&lt;br/&gt;</value>
+  <data name="Save.Text" xml:space="preserve">
+    <value>Geselecteerd bestand uploaden&lt;br/&gt;</value>
   </data>
-  <data name="Select.Text">
-    <value xml:space="preserve">Selecteer een bestaande URL</value>
+  <data name="Select.Text" xml:space="preserve">
+    <value>Selecteer een bestaande URL</value>
   </data>
-  <data name="Tab.Text">
-    <value xml:space="preserve">Pagina:</value>
+  <data name="Tab.Text" xml:space="preserve">
+    <value>Pagina:</value>
   </data>
-  <data name="TabType.Text">
-    <value xml:space="preserve">Pagina (Een pagina uit uw website)</value>
+  <data name="TabType.Text" xml:space="preserve">
+    <value>Pagina (een pagina uit uw website)</value>
   </data>
-  <data name="Track.Text">
-    <value xml:space="preserve">Aantal kliks op deze link vastleggen?&lt;br/&gt;</value>
+  <data name="Track.Text" xml:space="preserve">
+    <value>Aantal kliks op deze link vastleggen?&lt;br/&gt;</value>
   </data>
-  <data name="Type.Text" lastModified="2018-07-18 13:13:44">
-    <value xml:space="preserve">Linktype:</value>
+  <data name="Type.Text" xml:space="preserve">
+    <value>Linktype:</value>
   </data>
-  <data name="Upload.Text">
-    <value xml:space="preserve">Nieuw bestand uploaden</value>
+  <data name="Upload.Text" xml:space="preserve">
+    <value>Nieuw bestand uploaden</value>
   </data>
-  <data name="UploadError.Text">
-    <value xml:space="preserve">Bestandstype {1} is niet toegestaan in deze context. Dit zijn de bestandstypes die zijn toegestaan: {0}</value>
+  <data name="UploadError.Text" xml:space="preserve">
+    <value>Bestandstype {1} is niet toegestaan in deze context. Dit zijn de bestandstypes die zijn toegestaan: {0}</value>
   </data>
-  <data name="URL.Text">
-    <value xml:space="preserve">Locatie: (geef de locatie van de link)&lt;br/&gt;</value>
+  <data name="URL.Text" xml:space="preserve">
+    <value>URL (voer de url in waarnaar gelinkt moet worden)&lt;br/&gt;</value>
   </data>
-  <data name="URLType.Text">
-    <value xml:space="preserve">URL (Een link naar een externe bron)</value>
+  <data name="URLType.Text" xml:space="preserve">
+    <value>URL (Een link naar een externe bron)</value>
   </data>
-  <data name="User.Text">
-    <value xml:space="preserve">Geef de gebruikersnaam van een bestaande gebruiker van deze site:&lt;br/&gt;</value>
+  <data name="User.Text" xml:space="preserve">
+    <value>Geef de gebruikersnaam van een bestaande gebruiker van deze site:&lt;br/&gt;</value>
   </data>
-  <data name="UserType.Text">
-    <value xml:space="preserve">Gebruiker (bestaande gebruiker van uw website)</value>
+  <data name="UserType.Text" xml:space="preserve">
+    <value>Gebruiker (bestaande gebruiker van uw website)</value>
   </data>
 </root>

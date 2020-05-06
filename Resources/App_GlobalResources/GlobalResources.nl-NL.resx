@@ -1,5 +1,110 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -7,257 +112,56 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="//AboutUs.String">
-    <value xml:space="preserve">Over ons</value>
+  <data name="//ActivityFeed.String" xml:space="preserve">
+    <value>Activiteitenoverzicht</value>
   </data>
-  <data name="//AboutUs//StyleGuide.String">
-    <value xml:space="preserve">Stijl gids</value>
+  <data name="//ActivityFeed//Friends.String" xml:space="preserve">
+    <value>Vrienden</value>
   </data>
-  <data name="//ActivityFeed.String">
-    <value xml:space="preserve">Activiteitenoverzicht</value>
+  <data name="//ActivityFeed//Messages.String" xml:space="preserve">
+    <value>Berichten</value>
   </data>
-  <data name="//ActivityFeed//Friends.String">
-    <value xml:space="preserve">Vrienden</value>
+  <data name="//ActivityFeed//MyProfile.String" xml:space="preserve">
+    <value>Mijn profiel</value>
   </data>
-  <data name="//ActivityFeed//Messages.String">
-    <value xml:space="preserve">Berichten</value>
+  <data name="//Admin.String" xml:space="preserve">
+    <value>Website</value>
   </data>
-  <data name="//ActivityFeed//MyProfile.String">
-    <value xml:space="preserve">Mijn profiel</value>
+  <data name="//Admin//AdvancedSettings.String" xml:space="preserve">
+    <value>Geavanceerde Configuratie Instellingen</value>
   </data>
-  <data name="//Admin.String">
-    <value xml:space="preserve">Website</value>
+  <data name="//Admin//AdvancedURLManagement.String" xml:space="preserve">
+    <value>Geavanceerd URL-beheer</value>
   </data>
-  <data name="//Admin//AdvancedSettings.String">
-    <value xml:space="preserve">Geavanceerde Configuratie Instellingen</value>
+  <data name="//Admin//FileManagement.String" xml:space="preserve">
+    <value>Bestandsbeheer</value>
   </data>
-  <data name="//Admin//AdvancedURLManagement.String" lastModified="2018-07-20 14:52:24">
-    <value xml:space="preserve">Geavanceerd URL-beheer</value>
+  <data name="//Admin//GoogleAnalyticsPro.String" xml:space="preserve">
+    <value>Google Analytics Pro</value>
   </data>
-  <data name="//Admin//ContentStaging.String" lastModified="2018-07-20 14:52:24">
-    <value xml:space="preserve">Inhoudsredactie</value>
+  <data name="//Host.String" xml:space="preserve">
+    <value>Applicatie</value>
   </data>
-  <data name="//Admin//DevicePreviewManagement.String" lastModified="2018-07-20 14:52:24">
-    <value xml:space="preserve">Apparaat Vooruitblikbeheer</value>
+  <data name="//Host//FileManagement.String" xml:space="preserve">
+    <value>Bestandsbeheer</value>
   </data>
-  <data name="//Admin//Extensions.String">
-    <value xml:space="preserve">Extensies</value>
+  <data name="//Search-Results.String" xml:space="preserve">
+    <value>Zoekresultaten</value>
   </data>
-  <data name="//Admin//FileManagement.String" lastModified="2018-07-20 14:52:24">
-    <value xml:space="preserve">Bestandsbeheer</value>
-  </data>
-  <data name="//Admin//FileManager.String" lastModified="2018-07-20 14:52:24">
-    <value xml:space="preserve">Bestandsbeheerder</value>
-  </data>
-  <data name="//Admin//GoogleAnalytics.String">
-    <value xml:space="preserve">Google Analytics</value>
-  </data>
-  <data name="//Admin//GoogleAnalyticsPro.String">
-    <value xml:space="preserve">Google Analytics Pro</value>
-  </data>
-  <data name="//Admin//Languages.String">
-    <value xml:space="preserve">Talen</value>
-  </data>
-  <data name="//Admin//Lists.String">
-    <value xml:space="preserve">Lijsten</value>
-  </data>
-  <data name="//Admin//LogViewer.String">
-    <value xml:space="preserve">Logboek</value>
-  </data>
-  <data name="//Admin//Newsletters.String">
-    <value xml:space="preserve">Nieuwsbrieven</value>
-  </data>
-  <data name="//Admin//Pages.String">
-    <value xml:space="preserve">Pagina's</value>
-  </data>
-  <data name="//Admin//RecycleBin.String">
-    <value xml:space="preserve">Prullenmand</value>
-  </data>
-  <data name="//Admin//SearchAdmin.String">
-    <value xml:space="preserve">Zoek Admin</value>
-  </data>
-  <data name="//Admin//SearchEngineSiteMap.String">
-    <value xml:space="preserve">Zoekmachine sitemap</value>
-  </data>
-  <data name="//Admin//SecurityRoles.String">
-    <value xml:space="preserve">Toegangsrollen</value>
-  </data>
-  <data name="//Admin//SharePointConnector.String">
-    <value xml:space="preserve">SharePoint Koppeling</value>
-  </data>
-  <data name="//Admin//SiteRedirectionManagement.String">
-    <value xml:space="preserve">Beheer site omleidingen</value>
-  </data>
-  <data name="//Admin//SiteSettings.String">
-    <value xml:space="preserve">Website Instellingen</value>
-  </data>
-  <data name="//Admin//SiteWizard.String">
-    <value xml:space="preserve">Website Wizard</value>
-  </data>
-  <data name="//Admin//Skins.String">
-    <value xml:space="preserve">Skins</value>
-  </data>
-  <data name="//Admin//Tabs.String">
-    <value xml:space="preserve">Pagina's </value>
-  </data>
-  <data name="//Admin//Taxonomy.String">
-    <value xml:space="preserve">Taxonomie</value>
-  </data>
-  <data name="//Admin//UserAccounts.String">
-    <value xml:space="preserve">Gebruikersaccounts</value>
-  </data>
-  <data name="//Admin//UserSwitcher.String">
-    <value xml:space="preserve">Gebruikerswisselaar</value>
-  </data>
-  <data name="//Admin//Vendors.String">
-    <value xml:space="preserve">Verkopers</value>
-  </data>
-  <data name="//ContactUs.String">
-    <value xml:space="preserve">Neem Contact met ons op</value>
-  </data>
-  <data name="//Home.String" lastModified="2018-07-20 14:52:24">
-    <value xml:space="preserve">Thuis</value>
-  </data>
-  <data name="//Host.String">
-    <value xml:space="preserve">Applicatie</value>
-  </data>
-  <data name="//Host//ConfigurationManager.String">
-    <value xml:space="preserve">Beheer configuratie</value>
-  </data>
-  <data name="//Host//Dashboard.String">
-    <value xml:space="preserve">Dashboard</value>
-  </data>
-  <data name="//Host//DeviceDetectionManagement.String" lastModified="2018-07-20 14:52:24">
-    <value xml:space="preserve">Beheer apparaatherkenning</value>
-  </data>
-  <data name="//Host//Extensions.String">
-    <value xml:space="preserve">Extensies</value>
-  </data>
-  <data name="//Host//FileManagement.String">
-    <value xml:space="preserve">Bestandsbeheer</value>
-  </data>
-  <data name="//Host//HostSettings.String" lastModified="2018-07-20 14:52:24">
-    <value xml:space="preserve">Applicatie-instellingen</value>
-  </data>
-  <data name="//Host//HTMLEditorManager.String">
-    <value xml:space="preserve">Beheer HTML Editor</value>
-  </data>
-  <data name="//Host//Languages.String">
-    <value xml:space="preserve">Talen</value>
-  </data>
-  <data name="//Host//Lists.String">
-    <value xml:space="preserve">Lijsten</value>
-  </data>
-  <data name="//Host//ModuleDefinitions.String">
-    <value xml:space="preserve">Module Definities</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures.String">
-    <value xml:space="preserve">Professionele functies</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//ActivateyourLicense.String">
-    <value xml:space="preserve">Activeer je licentie</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//AdvancedURLManagement.String">
-    <value xml:space="preserve">Geavanceerd URL management</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//ApplicationIntegrity.String">
-    <value xml:space="preserve">Applicatie Integriteit</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//HealthMonitoring.String">
-    <value xml:space="preserve">Site monitor</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//KnowledgeBase.String">
-    <value xml:space="preserve">Kennisbank (Engelstalig)</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//LicenseManagement.String">
-    <value xml:space="preserve">Licentiebeheer</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//ManageWebServers.String">
-    <value xml:space="preserve">Webserver beheer</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//MySupportTickets.String">
-    <value xml:space="preserve">Mijn support tickets</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SearchCrawlerAdmin.String">
-    <value xml:space="preserve">Zoekmachine beheer</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SecurityCenter.String">
-    <value xml:space="preserve">Beveiligingscentrum</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SharePointConnector.String" lastModified="2018-07-20 14:52:24">
-    <value xml:space="preserve">SharePoint-koppeling</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SiteGroups.String">
-    <value xml:space="preserve">Site Groepen</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SoftwareandDocumentation.String">
-    <value xml:space="preserve">Software en documentatie</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SpecialOffers.String">
-    <value xml:space="preserve">Aanbiedingen</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//TechnicalSupport.String">
-    <value xml:space="preserve">Technische ondersteuning</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//UserSwitcher.String">
-    <value xml:space="preserve">Andere gebruiker</value>
-  </data>
-  <data name="//Host//Schedule.String">
-    <value xml:space="preserve">Taak schema's</value>
-  </data>
-  <data name="//Host//SearchAdmin.String">
-    <value xml:space="preserve">Zoek Beheerders</value>
-  </data>
-  <data name="//Host//SiteManagement.String">
-    <value xml:space="preserve">Site Beheer</value>
-  </data>
-  <data name="//Host//Skins.String">
-    <value xml:space="preserve">Skins</value>
-  </data>
-  <data name="//Host//SQL.String">
-    <value xml:space="preserve">SQL</value>
-  </data>
-  <data name="//Host//SuperuserAccounts.String">
-    <value xml:space="preserve">SuperUser Accounts</value>
-  </data>
-  <data name="//Host//Vendors.String">
-    <value xml:space="preserve">Verkopers</value>
-  </data>
-  <data name="//Modules.Text">
-    <value xml:space="preserve">Modules</value>
-  </data>
-  <data name="//NewsPromotions.String">
-    <value xml:space="preserve">Nieuws en promoties</value>
-  </data>
-  <data name="//OurProducts.String">
-    <value xml:space="preserve">Onze producten</value>
-  </data>
-  <data name="//Pages.Text">
-    <value xml:space="preserve">Pagina's</value>
-  </data>
-  <data name="//SearchResults.String">
-    <value xml:space="preserve">Zoekresultaten</value>
-  </data>
-  <data name="//Tools.Text">
-    <value xml:space="preserve">Gereedschap</value>
-  </data>
-  <data name="//UserProfile.String">
-    <value xml:space="preserve">Gebruikersprofiel</value>
-  </data>
-  <data name="403_3.Error">
-    <value xml:space="preserve">    &amp;lt;div style="height: 100%; width: 90%;"&amp;gt;
+  <data name="403_3.Error" xml:space="preserve">
+    <value>    &amp;lt;div style="height: 100%; width: 90%;"&amp;gt;
         &amp;lt;h3&amp;gt;
-            DotNetNuke Configuratie fout&amp;lt;/h3&amp;gt;
+            DNN Configuratie fout&amp;lt;/h3&amp;gt;
         &amp;lt;p&amp;gt;
             {0}&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
-            Uw DotNetNuke installatie lijkt een probleem met de beveiligingsinstellingen te
-            hebben (waarschijnlijk machtigingen). DotNetNuke heeft uitgebreide file upload mogelijkheden
+            Uw DNN installatie lijkt een probleem met de beveiligingsinstellingen te
+            hebben (waarschijnlijk machtigingen). DNN heeft uitgebreide file upload mogelijkheden
             voor de inhoud, modules en skins. Deze functies vereisen aangepaste beveiligingsinstellingen
             zodat de applicatie in staat is om te maken en te verwijderen bestanden in uw website.&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
@@ -294,12 +198,12 @@
                 src="images/403-3.gif" /&amp;gt;&amp;lt;/p&amp;gt;
     &amp;lt;/div&amp;gt;</value>
   </data>
-  <data name="404.Error">
-    <value xml:space="preserve">    &amp;lt;div style="height: 100%; width: 90%;"&amp;gt;
+  <data name="404.Error" xml:space="preserve">
+    <value>    &amp;lt;div style="height: 100%; width: 90%;"&amp;gt;
         &amp;lt;p style="color: red; font-weight: bold;"&amp;gt;
             Domeinnaam {0} bestaat niet in de database&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
-            DotNetNuke 
+            DNN 
             ondersteunt meerdere websites vanuit een enkele applicatie. Om dit goed te 
             kunnen laten werken, wordt de opgevraagde URL omgezet in een zogenaamde PortalId 
             uit de PortalAlias tabel in de database. Dit proces werkt als volgt:&amp;lt;/p&amp;gt;
@@ -337,101 +241,101 @@
         &amp;lt;/ol&amp;gt;
     &amp;lt;/div&amp;gt;</value>
   </data>
-  <data name="500.Error">
-    <value xml:space="preserve">{0}</value>
+  <data name="500.Error" xml:space="preserve">
+    <value>{0}</value>
   </data>
-  <data name="503.Error" lastModified="2016-03-08 09:14:08">
-    <value xml:space="preserve">{0} - 503 Service niet beschikbaar</value>
+  <data name="503.Error" xml:space="preserve">
+    <value>{0} - 503 Service niet beschikbaar</value>
   </data>
-  <data name="ActivatingLicense.Text">
-    <value xml:space="preserve">Licentie activeren</value>
+  <data name="ActivatingLicense.Text" xml:space="preserve">
+    <value>Licentie activeren</value>
   </data>
-  <data name="AddFollowerRequestBody.Text">
-    <value xml:space="preserve">U wordt nu gevolgd door {0}</value>
+  <data name="AddFollowerRequestBody.Text" xml:space="preserve">
+    <value>U wordt nu gevolgd door {0}</value>
   </data>
-  <data name="AddFollowerRequestSubject.Text">
-    <value xml:space="preserve">{0} volgt u nu</value>
+  <data name="AddFollowerRequestSubject.Text" xml:space="preserve">
+    <value>{0} volgt u nu</value>
   </data>
-  <data name="AddFriendRequestBody.Text">
-    <value xml:space="preserve">{0} wil vrienden worden met u</value>
+  <data name="AddFriendRequestBody.Text" xml:space="preserve">
+    <value>{0} wil vrienden worden met u</value>
   </data>
-  <data name="AddFriendRequestSubject.Text">
-    <value xml:space="preserve">{0} wil vrienden worden</value>
+  <data name="AddFriendRequestSubject.Text" xml:space="preserve">
+    <value>{0} wil vrienden worden</value>
   </data>
-  <data name="ApplicationUpgrades.Text">
-    <value xml:space="preserve">Applicatie Upgrades</value>
+  <data name="ApplicationUpgrades.Text" xml:space="preserve">
+    <value>Applicatie Upgrades</value>
   </data>
-  <data name="AspNetHostingPermission.Text">
-    <value xml:space="preserve">Deze extensie vereist Full Trust.</value>
+  <data name="AspNetHostingPermission.Text" xml:space="preserve">
+    <value>Deze extensie vereist Full Trust.</value>
   </data>
-  <data name="Authentication.String">
-    <value xml:space="preserve">Authenticatie</value>
+  <data name="Authentication.String" xml:space="preserve">
+    <value>Authenticatie</value>
   </data>
-  <data name="BannerType.Banner.String">
-    <value xml:space="preserve">Banner</value>
+  <data name="BannerType.Banner.String" xml:space="preserve">
+    <value>Banner</value>
   </data>
-  <data name="BannerType.Block.String">
-    <value xml:space="preserve">Blok</value>
+  <data name="BannerType.Block.String" xml:space="preserve">
+    <value>Blok</value>
   </data>
-  <data name="BannerType.Button.String">
-    <value xml:space="preserve">Knop</value>
+  <data name="BannerType.Button.String" xml:space="preserve">
+    <value>Knop</value>
   </data>
-  <data name="BannerType.MicroButton.String">
-    <value xml:space="preserve">MicroKnop</value>
+  <data name="BannerType.MicroButton.String" xml:space="preserve">
+    <value>MicroKnop</value>
   </data>
-  <data name="BannerType.Script.String">
-    <value xml:space="preserve">Script</value>
+  <data name="BannerType.Script.String" xml:space="preserve">
+    <value>Script</value>
   </data>
-  <data name="BannerType.Skyscraper.String">
-    <value xml:space="preserve">Wolkenkrabber</value>
+  <data name="BannerType.Skyscraper.String" xml:space="preserve">
+    <value>Wolkenkrabber</value>
   </data>
-  <data name="BannerType.Text.String">
-    <value xml:space="preserve">Tekst</value>
+  <data name="BannerType.Text.String" xml:space="preserve">
+    <value>Tekst</value>
   </data>
-  <data name="Browse Folder.Permission">
-    <value xml:space="preserve">Bladeren door bestanden in map</value>
+  <data name="Browse Folder.Permission" xml:space="preserve">
+    <value>Bladeren door bestanden in map</value>
   </data>
-  <data name="Can Deploy.Permission">
-    <value xml:space="preserve">Module inzetten</value>
+  <data name="Can Deploy.Permission" xml:space="preserve">
+    <value>Module inzetten</value>
   </data>
-  <data name="ClearCache.Action">
-    <value xml:space="preserve">Verversen</value>
+  <data name="ClearCache.Action" xml:space="preserve">
+    <value>Verversen</value>
   </data>
-  <data name="CustomUrlPathCleaned.Error">
-    <value xml:space="preserve">De ingevoerde pagina URL bevat ongeldige karakters welke niet gebruikt kunnen worden binnen een URL of ongeldig zijn voor gebruikt binnen een URL. Deze karakters zijn verwijderd. Klik op "Bijwerken" om de aangepaste URL op te slaan. &amp;lt;br&amp;gt; [Note: de lijst met ongeldige tekens is als volgt: &amp;lt;&amp;gt;\?:&amp;amp;=+|%#]</value>
+  <data name="CustomUrlPathCleaned.Error" xml:space="preserve">
+    <value>De ingevoerde pagina URL bevat ongeldige karakters welke niet gebruikt kunnen worden binnen een URL of ongeldig zijn voor gebruikt binnen een URL. Deze karakters zijn verwijderd. Klik op "Bijwerken" om de aangepaste URL op te slaan. &amp;lt;br&amp;gt; [Note: de lijst met ongeldige tekens is als volgt: &amp;lt;&amp;gt;\?:&amp;amp;=+|%#]</value>
   </data>
-  <data name="DefaultStopwordGroup.Text">
-    <value xml:space="preserve">en,zijn,maar,voor,in,niet,zoals,dat,de,hun,dan,daar,deze,dit,was,zal,met</value>
+  <data name="DefaultStopwordGroup.Text" xml:space="preserve">
+    <value>en,zijn,maar,voor,in,niet,zoals,dat,de,hun,dan,daar,deze,dit,was,zal,met</value>
   </data>
-  <data name="DefaultSynonymGroup.Text">
-    <value xml:space="preserve">dnn,dotnetnuke</value>
+  <data name="DefaultSynonymGroup.Text" xml:space="preserve">
+    <value>dnn,dotnetnuke</value>
   </data>
-  <data name="DeleteModule.Action">
-    <value xml:space="preserve">Verwijderen</value>
+  <data name="DeleteModule.Action" xml:space="preserve">
+    <value>Verwijderen</value>
   </data>
-  <data name="DeLocalize.Action">
-    <value xml:space="preserve">Vertaling ongedaan maken</value>
+  <data name="DeLocalize.Action" xml:space="preserve">
+    <value>Vertaling ongedaan maken</value>
   </data>
-  <data name="DraggingHintText.Text">
-    <value xml:space="preserve">Beweeg de muis over de drop zone.</value>
+  <data name="DraggingHintText.Text" xml:space="preserve">
+    <value>Beweeg de muis over de drop zone.</value>
   </data>
-  <data name="DragModuleHint.Text">
-    <value xml:space="preserve">Versleep deze module naar een nieuwe locatie</value>
+  <data name="DragModuleHint.Text" xml:space="preserve">
+    <value>Versleep deze module naar een nieuwe locatie</value>
   </data>
-  <data name="DropModuleHint.Text">
-    <value xml:space="preserve">Laat de muisknop los om de module hier te plaatsen.</value>
+  <data name="DropModuleHint.Text" xml:space="preserve">
+    <value>Laat de muisknop los om de module hier te plaatsen.</value>
   </data>
-  <data name="DropModuleTarget.Text">
-    <value xml:space="preserve">Plaats module hier</value>
+  <data name="DropModuleTarget.Text" xml:space="preserve">
+    <value>Plaats module hier</value>
   </data>
-  <data name="Edit Tab.Permission">
-    <value xml:space="preserve">Pagina bewerken</value>
+  <data name="Edit Tab.Permission" xml:space="preserve">
+    <value>Pagina bewerken</value>
   </data>
-  <data name="Edit.Permission">
-    <value xml:space="preserve">Module bewerken</value>
+  <data name="Edit.Permission" xml:space="preserve">
+    <value>Module bewerken</value>
   </data>
-  <data name="EMAIL_AFFILIATE_NOTIFICATION_BODY.Text">
-    <value xml:space="preserve">Beste [Custom:0],
+  <data name="EMAIL_AFFILIATE_NOTIFICATION_BODY.Text" xml:space="preserve">
+    <value>Beste [Custom:0],
 
 Uw account voor het {Portal:PortalName] affiliatie programma is aangemaakt.
 Gebruik de volgende URL om te linken naar onze site:
@@ -441,11 +345,11 @@ Dank u,
 
 [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_AFFILIATE_NOTIFICATION_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Affiliatie bevestiging</value>
+  <data name="EMAIL_AFFILIATE_NOTIFICATION_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Affiliatie bevestiging</value>
   </data>
-  <data name="EMAIL_BANNER_NOTIFICATION_BODY.Text">
-    <value xml:space="preserve">Banner: [Custom:0]
+  <data name="EMAIL_BANNER_NOTIFICATION_BODY.Text" xml:space="preserve">
+    <value>Banner: [Custom:0]
 Omschrijving: [Custom:1]
 Afbeelding: [Custom:2]
 CPM/Kosten: [Custom:3]
@@ -455,18 +359,18 @@ Einddatum: [Custom:6]
 Aantal keer bekeken: [Custom:7]
 Aantal doorkliks: [Custom:8]</value>
   </data>
-  <data name="EMAIL_BANNER_NOTIFICATION_SUBJECT.Text">
-    <value xml:space="preserve">[Custom:0]</value>
+  <data name="EMAIL_BANNER_NOTIFICATION_SUBJECT.Text" xml:space="preserve">
+    <value>[Custom:0]</value>
   </data>
-  <data name="EMAIL_BODY_FORMAT.Text">
-    <value xml:space="preserve">Onderwerp: {0}
+  <data name="EMAIL_BODY_FORMAT.Text" xml:space="preserve">
+    <value>Onderwerp: {0}
     
 {1}
 
 Gelieve deze e-mail niet te beantwoorden.</value>
   </data>
-  <data name="EMAIL_BulkMailConf_Html_Body.Text">
-    <value xml:space="preserve">&amp;lt;h1&amp;gt;Nieuwsbrief verzendrapport&amp;lt;/h1&amp;gt;
+  <data name="EMAIL_BulkMailConf_Html_Body.Text" xml:space="preserve">
+    <value>&amp;lt;h1&amp;gt;Nieuwsbrief verzendrapport&amp;lt;/h1&amp;gt;
     Verzenden gestart op: [Custom:0]&amp;lt;br /&amp;gt;
     Aantal ontvangers: [Custom:1]&amp;lt;br /&amp;gt;
     Email berichten: [Custom:2]&amp;lt;br /&amp;gt;
@@ -477,11 +381,11 @@ Gelieve deze e-mail niet te beantwoorden.</value>
            &amp;lt;pre&amp;gt;[Custom:5]&amp;lt;/pre&amp;gt;
     [Custom:6|&amp;lt;hr /&amp;gt;&amp;lt;strong&amp;gt;Ontvangers:&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;{0}]</value>
   </data>
-  <data name="EMAIL_BulkMailConf_Subject.Text">
-    <value xml:space="preserve">Nieuwsbrief verzendrapport voor '{0}'.</value>
+  <data name="EMAIL_BulkMailConf_Subject.Text" xml:space="preserve">
+    <value>Nieuwsbrief verzendrapport voor '{0}'.</value>
   </data>
-  <data name="EMAIL_BulkMailConf_Text_Body.Text">
-    <value xml:space="preserve">Verzenden gestart op:       [Custom:0]
+  <data name="EMAIL_BulkMailConf_Text_Body.Text" xml:space="preserve">
+    <value>Verzenden gestart op:       [Custom:0]
 Aantal ontvangers:          [Custom:1]
 Email berichten:            [Custom:2]
 Verzenden compleet op:      [Custom:3]
@@ -494,14 +398,14 @@ Verzenden compleet op:      [Custom:3]
 ===========
 {0}]</value>
   </data>
-  <data name="EMAIL_BulkMailStart_Body.Text">
-    <value xml:space="preserve">Gebruiker {1} heeft bulkmail '{0}' ingediend gericht aan {2} ontvangers. Lees het verzendcapaciteit rapport voor mislukte berichten en de afzenders inbak voor teruggekomen berichten.</value>
+  <data name="EMAIL_BulkMailStart_Body.Text" xml:space="preserve">
+    <value>Gebruiker {1} heeft bulkmail '{0}' ingediend gericht aan {2} ontvangers. Lees het verzendcapaciteit rapport voor mislukte berichten en de afzenders inbak voor teruggekomen berichten.</value>
   </data>
-  <data name="EMAIL_BulkMailStart_Subject.Text">
-    <value xml:space="preserve">Bulkmail '{0}' ingediend</value>
+  <data name="EMAIL_BulkMailStart_Subject.Text" xml:space="preserve">
+    <value>Bulkmail '{0}' ingediend</value>
   </data>
-  <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text">
-    <value xml:space="preserve">&amp;lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&amp;gt;
+  <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text" xml:space="preserve">
+    <value>&amp;lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&amp;gt;
 &amp;lt;html xmlns="http://www.w3.org/1999/xhtml"&amp;gt;
 &amp;lt;head&amp;gt;
     &amp;lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&amp;gt;
@@ -681,8 +585,8 @@ Verzenden compleet op:      [Custom:3]
 &amp;lt;/body&amp;gt;
 &amp;lt;/html&amp;gt;</value>
   </data>
-  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text">
-    <value xml:space="preserve">&amp;lt;div style="width:100%;"&amp;gt;&amp;lt;h5&amp;gt;[TITLE]&amp;lt;/h5&amp;gt;&amp;lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&amp;gt;
+  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" xml:space="preserve">
+    <value>&amp;lt;div style="width:100%;"&amp;gt;&amp;lt;h5&amp;gt;[TITLE]&amp;lt;/h5&amp;gt;&amp;lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&amp;gt;
     &amp;lt;tr&amp;gt;
         &amp;lt;td&amp;gt;
             &amp;lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&amp;gt;
@@ -699,8 +603,8 @@ Verzenden compleet op:      [Custom:3]
     &amp;lt;/tr&amp;gt;
 &amp;lt;/table&amp;gt;&amp;lt;/div&amp;gt;</value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" lastModified="2016-12-02 08:20:20">
-    <value xml:space="preserve">Beste [Profile:FullName],
+  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" xml:space="preserve">
+    <value>Beste [Profile:FullName],
 
 U heeft uw wachtwoord herstel opgevraagd van de [Portal:PortalName] website.
 
@@ -714,11 +618,11 @@ Met vriendelijke groet,
 
 *NB: als u uw geen wachtwoord herstel heeft opgevraagd, dan kunt u dit bericht negeren</value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Wachtwoord opvragen</value>
+  <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Wachtwoord opvragen</value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text">
-    <value xml:space="preserve">Beste [User:DisplayName],
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName],
 
 Je hebt een wachtwoord reset link aangevraad van [Portal:PortalName], Je account staat klaar voor goedkeuring.
 
@@ -729,11 +633,11 @@ Met vriendelijk groet,
 
 *Opmerking: Als je geen wachtwoord reset link heeft aangevraag verwijder dan dit bericht.</value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] wachtwoord herinnering</value>
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] wachtwoord herinnering</value>
   </data>
-  <data name="EMAIL_PASSWORD_UPDATED_BODY.Text">
-    <value xml:space="preserve">Geachte [User:DisplayName]], 
+  <data name="EMAIL_PASSWORD_UPDATED_BODY.Text" xml:space="preserve">
+    <value>Geachte [User:DisplayName]], 
 	
 	Uw wachtwoord voor [Portal:PortalName] is veranderd. 
 	
@@ -741,11 +645,11 @@ Met vriendelijk groet,
 	
 	Met vriendelijke groet,[Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_PASSWORD_UPDATED_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Password bijgewerkt</value>
+  <data name="EMAIL_PASSWORD_UPDATED_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Password bijgewerkt</value>
   </data>
-  <data name="EMAIL_PORTAL_SIGNUP_BODY.Text">
-    <value xml:space="preserve">Beste [User:FullName],
+  <data name="EMAIL_PORTAL_SIGNUP_BODY.Text" xml:space="preserve">
+    <value>Beste [User:FullName],
 
 Uw web is aangemaakt. Lees alstublieft de volgend informatie zorgvuldig door, en archiveer dit bericht voor eventueel toekomstig gebruik.
 
@@ -761,11 +665,11 @@ Dank u voor het gebruik van onze diensten
 [Host:HostTitle]
 </value>
   </data>
-  <data name="EMAIL_PORTAL_SIGNUP_SUBJECT.Text">
-    <value xml:space="preserve">[Host:HostTitle] Aanmelding Demo Website</value>
+  <data name="EMAIL_PORTAL_SIGNUP_SUBJECT.Text" xml:space="preserve">
+    <value>[Host:HostTitle] Aanmelding Demo Website</value>
   </data>
-  <data name="EMAIL_PROFILE_UPDATED_BODY.Text">
-    <value xml:space="preserve">Beste [Profile:FullName],
+  <data name="EMAIL_PROFILE_UPDATED_BODY.Text" xml:space="preserve">
+    <value>Beste [Profile:FullName],
 
 Uw profiel voor  de [Portal:PortalName] website is succesvol bijgewerkt.
 
@@ -773,11 +677,11 @@ Sincerely,
 [Portal:PortalName]
 </value>
   </data>
-  <data name="EMAIL_PROFILE_UPDATED_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Profiel bijgewerkt</value>
+  <data name="EMAIL_PROFILE_UPDATED_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Profiel bijgewerkt</value>
   </data>
-  <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text">
-    <value xml:space="preserve">Beste [User:FullName],
+  <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text" xml:space="preserve">
+    <value>Beste [User:FullName],
 
 De toegangsrollen van uw gebruikersaccount voor de [Portal:PortalName] website is recentelijk aangepast, en bevat nu ook deze rol:
 
@@ -790,11 +694,11 @@ Dank u voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 </value>
   </data>
-  <data name="EMAIL_ROLE_ASSIGNMENT_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Gebruikersaccount aangepast</value>
+  <data name="EMAIL_ROLE_ASSIGNMENT_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Gebruikersaccount aangepast</value>
   </data>
-  <data name="EMAIL_ROLE_UNASSIGNMENT_BODY.Text">
-    <value xml:space="preserve">Beste [User:FullName],
+  <data name="EMAIL_ROLE_UNASSIGNMENT_BODY.Text" xml:space="preserve">
+    <value>Beste [User:FullName],
 
 De toegang van uw gebruikersaccount voor de [Portal:PortalName] website is recentelijk aangepast, en bevat nu NIET meer deze rol:
 
@@ -806,11 +710,11 @@ Dank u voor het in ons gestelde vertrouwen,
 Dank u voor het in ons gestelde vertrouwen,
 [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_ROLE_UNASSIGNMENT_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Gebruikersaccount aangepast</value>
+  <data name="EMAIL_ROLE_UNASSIGNMENT_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Gebruikersaccount aangepast</value>
   </data>
-  <data name="EMAIL_ROLE_UPDATE_BODY.Text">
-    <value xml:space="preserve">Geachte [User:DisplayName],
+  <data name="EMAIL_ROLE_UPDATE_BODY.Text" xml:space="preserve">
+    <value>Geachte [User:DisplayName],
 
 Uw account bij [Portal:PortalName] is recentelijk bijgewerkt om toegang tot de volgende rol aan te passen:
 
@@ -823,48 +727,48 @@ Dank u voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 </value>
   </data>
-  <data name="EMAIL_ROLE_UPDATE_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Gebruikersaccount Bijgewerkt</value>
+  <data name="EMAIL_ROLE_UPDATE_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Gebruikersaccount Bijgewerkt</value>
   </data>
-  <data name="EMAIL_SMTP_TEST_SUBJECT.Text">
-    <value xml:space="preserve">[Host:HostTitle] SMTP Configuratie Test</value>
+  <data name="EMAIL_SMTP_TEST_SUBJECT.Text" xml:space="preserve">
+    <value>[Host:HostTitle] SMTP Configuratie Test</value>
   </data>
-  <data name="EMAIL_SOCIAL_FOLLOWREQUESTACTIONS.Text">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;&amp;lt;a href="{0}"&amp;gt;Ga terug&amp;lt;/a&amp;gt; | &amp;lt;a href="{1}"&amp;gt;Profiel weergeven&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</value>
+  <data name="EMAIL_SOCIAL_FOLLOWREQUESTACTIONS.Text" xml:space="preserve">
+    <value>&amp;lt;p&amp;gt;&amp;lt;a href="{0}"&amp;gt;Ga terug&amp;lt;/a&amp;gt; | &amp;lt;a href="{1}"&amp;gt;Profiel weergeven&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</value>
   </data>
-  <data name="EMAIL_SOCIAL_FRIENDREQUESTACTIONS.Text">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;&amp;lt;a href="{0}"&amp;gt;Accepteren&amp;lt;/a&amp;gt; | &amp;lt;a href="{1}"&amp;gt;Profiel weergeven&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</value>
+  <data name="EMAIL_SOCIAL_FRIENDREQUESTACTIONS.Text" xml:space="preserve">
+    <value>&amp;lt;p&amp;gt;&amp;lt;a href="{0}"&amp;gt;Accepteren&amp;lt;/a&amp;gt; | &amp;lt;a href="{1}"&amp;gt;Profiel weergeven&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</value>
   </data>
-  <data name="EMAIL_SUBJECT_FORMAT.Text">
-    <value xml:space="preserve">Nieuw bericht van {0}</value>
+  <data name="EMAIL_SUBJECT_FORMAT.Text" xml:space="preserve">
+    <value>Nieuw bericht van {0}</value>
   </data>
-  <data name="EMAIL_USER_AUTHORIZED_BODY.Text" lastModified="2016-12-02 07:17:10">
-    <value xml:space="preserve">Beste  [User:DisplayName], Bedankt voor uw registratie op [Portal:PortalName]. Uw registratie is goedgekeurd en uw account is nu actief. Website Adres:  [Portal:URL] Gebruikersnaam:  [User:UserName] Bij voorbaar dank, wij waarderen uw bijdrage...[Portal:PortalName]</value>
+  <data name="EMAIL_USER_AUTHORIZED_BODY.Text" xml:space="preserve">
+    <value>Beste  [User:DisplayName], Bedankt voor uw registratie op [Portal:PortalName]. Uw registratie is goedgekeurd en uw account is nu actief. Website Adres:  [Portal:URL] Gebruikersnaam:  [User:UserName] Bij voorbaar dank, wij waarderen uw bijdrage...[Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" lastModified="2016-12-02 06:13:56">
-    <value xml:space="preserve">Registratie is goedgekeurd voor  [Portal:URL]</value>
+  <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" xml:space="preserve">
+    <value>Registratie is goedgekeurd voor  [Portal:URL]</value>
   </data>
-  <data name="EMAIL_USER_LOCKOUT_BODY.Text">
-    <value xml:space="preserve">Er is een poging gedaan om met een afgesloten gebruikersaccount in te loggen ( gebruikersnaam: [Custom:0] ) op [Date:Current]. Wellicht wilt u dit verder onderzoeken...
+  <data name="EMAIL_USER_LOCKOUT_BODY.Text" xml:space="preserve">
+    <value>Er is een poging gedaan om met een afgesloten gebruikersaccount in te loggen ( gebruikersnaam: [Custom:0] ) op [Date:Current]. Wellicht wilt u dit verder onderzoeken...
 
 Dank U,
 
 [Portal:PortalName]
 </value>
   </data>
-  <data name="EMAIL_USER_LOCKOUT_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Gebruikersaccount afgesloten</value>
+  <data name="EMAIL_USER_LOCKOUT_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Gebruikersaccount afgesloten</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_BODY.Text">
-    <value xml:space="preserve">Datum: [Date:Current]
+  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_BODY.Text" xml:space="preserve">
+    <value>Datum: [Date:Current]
 Weergave naam: [User:DisplayName]
 Email: [User:Email]</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Nieuwe gebruikersregistratie</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text">
-    <value xml:space="preserve">Beste  [User:DisplayName],
+  <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text" xml:space="preserve">
+    <value>Beste  [User:DisplayName],
 
 Dank u voor uw registratie voor de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
 
@@ -877,11 +781,11 @@ Dank u voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 </value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_PRIVATE_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+  <data name="EMAIL_USER_REGISTRATION_PRIVATE_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Nieuwe gebruikersregistratie</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_PUBLIC_BODY.Text">
-    <value xml:space="preserve">Beste [User:DisplayName],
+  <data name="EMAIL_USER_REGISTRATION_PUBLIC_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName],
 
 U bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
 
@@ -893,11 +797,11 @@ U bent van harte welkom!
 Dank u voor het in ons gestelde vertrouwen,
 [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_PUBLIC_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+  <data name="EMAIL_USER_REGISTRATION_PUBLIC_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Nieuwe gebruikersregistratie</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text">
-    <value xml:space="preserve">Beste [User:FullName],
+  <data name="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text" xml:space="preserve">
+    <value>Beste [User:FullName],
 U bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
 
 Website Adres: [Portal:URL]
@@ -914,17 +818,17 @@ U bent van harte welkom!
 Dank u voor het in ons gestelde vertrouwen,
 [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+  <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Nieuwe gebruikersregistratie</value>
   </data>
-  <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text">
-    <value xml:space="preserve">Beste [User:DisplayName],Je account voor [Portal:PortalName] Is niet meer geauthoriseerd. Website Adres: [Portal:URL]Gebruikersnaam: [User:UserName]Mocht u vragen hebben, Neem contact op met de websiteadmin [Portal:Email]Met vriendelijke groet,[Portal:PortalName]</value>
+  <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName],Je account voor [Portal:PortalName] Is niet meer geauthoriseerd. Website Adres: [Portal:URL]Gebruikersnaam: [User:UserName]Mocht u vragen hebben, Neem contact op met de websiteadmin [Portal:Email]Met vriendelijke groet,[Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text">
-    <value xml:space="preserve">Uw account is niet langer geauthoriseerd voor [Portal:URL]</value>
+  <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" xml:space="preserve">
+    <value>Uw account is niet langer geauthoriseerd voor [Portal:URL]</value>
   </data>
-  <data name="EMAIL_USER_UNREGISTER_BODY.Text">
-    <value xml:space="preserve">Datum: [Date:Current]
+  <data name="EMAIL_USER_UNREGISTER_BODY.Text" xml:space="preserve">
+    <value>Datum: [Date:Current]
 Voornaam: [Profile:FirstName]
 Achternaam: [Profile:LastName]
 Street: [Profile:Street]
@@ -937,11 +841,11 @@ Telefoon: [Profile:Telephone]
 E-mail: [Membership:Email]
 </value>
   </data>
-  <data name="EMAIL_USER_UNREGISTER_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Gebruikersregistratie geannuleerd</value>
+  <data name="EMAIL_USER_UNREGISTER_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Gebruikersregistratie geannuleerd</value>
   </data>
-  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_BODY.Text">
-    <value xml:space="preserve">Beste [User:DisplayName],
+  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName],
 
 U heeft uw wachtwoord gewijzigd op [Portal:PortalName].
 
@@ -953,11 +857,11 @@ Naam Gebruiker :   [User:Username]
 Met vriendelijke groet,
 [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Wachtwoord bijgewerkt</value>
+  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Wachtwoord bijgewerkt</value>
   </data>
-  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_BODY.Text">
-    <value xml:space="preserve">Datum: [Custom:0]
+  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_BODY.Text" xml:space="preserve">
+    <value>Datum: [Custom:0]
 Naam Verkoper: [Custom:1]
 Voornaam: [Custom:2]
 Achternaam: [Custom:3]
@@ -973,11 +877,11 @@ GSM: [Custom:12]
 E-mail: [Custom:13]
 Website: [Custom:14]</value>
   </data>
-  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Aanmelding voor verkoper</value>
+  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Aanmelding voor verkoper</value>
   </data>
-  <data name="EMAIL_VENDOR_REGISTRATION_BODY.Text">
-    <value xml:space="preserve">Beste [Custom:0] [Custom:1],
+  <data name="EMAIL_VENDOR_REGISTRATION_BODY.Text" xml:space="preserve">
+    <value>Beste [Custom:0] [Custom:1],
 
 Uw bedrijf is succesvol geregistreerd bij de [Portal:PortalName] website.
 
@@ -985,29 +889,29 @@ Dank u,
 
 [Portal.PortalName]</value>
   </data>
-  <data name="EMAIL_VENDOR_REGISTRATION_SUBJECT.Text">
-    <value xml:space="preserve">[Portal:PortalName] Aanmelding voor verkoper</value>
+  <data name="EMAIL_VENDOR_REGISTRATION_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Aanmelding voor verkoper</value>
   </data>
-  <data name="EnglishName.Text">
-    <value xml:space="preserve">Engelse naam</value>
+  <data name="EnglishName.Text" xml:space="preserve">
+    <value>Engelse naam</value>
   </data>
-  <data name="Error.Text">
-    <value xml:space="preserve">Er is een fout opgetreden.</value>
+  <data name="Error.Text" xml:space="preserve">
+    <value>Er is een fout opgetreden.</value>
   </data>
-  <data name="ExecutingScript.Text">
-    <value xml:space="preserve">Script uitvoeren</value>
+  <data name="ExecutingScript.Text" xml:space="preserve">
+    <value>Script uitvoeren</value>
   </data>
-  <data name="ExportModule.Action">
-    <value xml:space="preserve">Inhoud exporteren</value>
+  <data name="ExportModule.Action" xml:space="preserve">
+    <value>Inhoud exporteren</value>
   </data>
-  <data name="GeneralUpgrades.Text">
-    <value xml:space="preserve">Uitvoeren van algemene Upgrades</value>
+  <data name="GeneralUpgrades.Text" xml:space="preserve">
+    <value>Uitvoeren van algemene Upgrades</value>
   </data>
-  <data name="ImportModule.Action">
-    <value xml:space="preserve">Inhoud importeren</value>
+  <data name="ImportModule.Action" xml:space="preserve">
+    <value>Inhoud importeren</value>
   </data>
-  <data name="License.Text" lastModified="2016-12-02 09:23:23">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;DotNetNuke&amp;amp;reg; - http://www.dotnetnuke.com&amp;lt;br /&amp;gt;
+  <data name="License.Text" xml:space="preserve">
+    <value>&amp;lt;p&amp;gt;DotNetNuke&amp;amp;reg; - http://www.dotnetnuke.com&amp;lt;br /&amp;gt;
 Copyright (c) 2002-2016&amp;lt;br/&amp;gt;
     by DotNetNuke Corporation&amp;lt;/p&amp;gt;
     &amp;lt;p&amp;gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
@@ -1022,23 +926,23 @@ THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABI
 CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
     DEALINGS IN THE SOFTWARE.&amp;lt;/p&amp;gt;</value>
   </data>
-  <data name="Localize.Action">
-    <value xml:space="preserve">Vertaal</value>
+  <data name="Localize.Action" xml:space="preserve">
+    <value>Vertaal</value>
   </data>
-  <data name="LogClicks.Text">
-    <value xml:space="preserve">Aanmelden van de gebruiker, de datum en de tijd voor elke klik</value>
+  <data name="LogClicks.Text" xml:space="preserve">
+    <value>Aanmelden van de gebruiker, de datum en de tijd voor elke klik</value>
   </data>
-  <data name="LogEnd.Text">
-    <value xml:space="preserve">Einde</value>
+  <data name="LogEnd.Text" xml:space="preserve">
+    <value>Einde</value>
   </data>
-  <data name="LogStart.Text">
-    <value xml:space="preserve">Start</value>
+  <data name="LogStart.Text" xml:space="preserve">
+    <value>Start</value>
   </data>
-  <data name="Manage.Text">
-    <value xml:space="preserve">Beheren</value>
+  <data name="Manage.Text" xml:space="preserve">
+    <value>Beheren</value>
   </data>
-  <data name="MESSAGE_PORTAL_PRIVACY.Text" lastModified="2015-12-30 03:54:56">
-    <value xml:space="preserve">&amp;lt;div align="left"&amp;gt;
+  <data name="MESSAGE_PORTAL_PRIVACY.Text" xml:space="preserve">
+    <value>&amp;lt;div align="left"&amp;gt;
         &amp;lt;p&amp;gt;[Portal:PortalName] is committed to protecting your privacy and developing technology
         that gives you the most powerful and safe online experience. This Statement of Privacy
         applies to the [Portal:PortalName] site and governs data collection and usage.
@@ -1133,8 +1037,8 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         problem.&amp;lt;/p&amp;gt;
     &amp;lt;/div&amp;gt;</value>
   </data>
-  <data name="MESSAGE_PORTAL_TERMS.Text">
-    <value xml:space="preserve">&amp;lt;div align="left"&amp;gt;
+  <data name="MESSAGE_PORTAL_TERMS.Text" xml:space="preserve">
+    <value>&amp;lt;div align="left"&amp;gt;
         &amp;lt;p&amp;gt;&amp;lt;span class="SubHead"&amp;gt;AGREEMENT BETWEEN USER AND [Portal:PortalName]&amp;lt;/span&amp;gt;&amp;lt;p&amp;gt;
         &amp;lt;p&amp;gt;The [Portal:PortalName] Web Site is comprised of various Web pages operated by [Portal:PortalName].&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;The [Portal:PortalName] Web Site is offered to you conditioned on your acceptance
@@ -1317,172 +1221,172 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         Infringement.&amp;lt;/p&amp;gt;
     &amp;lt;/div&amp;gt;</value>
   </data>
-  <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text">
-    <value xml:space="preserve">Om uw wachtwoord op te kunnen vragen moet u uw gebruikersnaam opgeven, en een antwoord op de wachtwoord vraag.</value>
+  <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text" xml:space="preserve">
+    <value>Om uw wachtwoord op te kunnen vragen moet u uw gebruikersnaam opgeven, en een antwoord op de wachtwoord vraag.</value>
   </data>
-  <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text">
-    <value xml:space="preserve">Verifieer uw emailadres wijziging door uw wachtwoord opnieuw in te voeren.</value>
+  <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text" xml:space="preserve">
+    <value>Verifieer uw emailadres wijziging door uw wachtwoord opnieuw in te voeren.</value>
   </data>
-  <data name="ModuleGenericActions.Action">
-    <value xml:space="preserve">Beheer</value>
+  <data name="ModuleGenericActions.Action" xml:space="preserve">
+    <value>Beheer</value>
   </data>
-  <data name="ModuleHelp.Action">
-    <value xml:space="preserve">Help</value>
+  <data name="ModuleHelp.Action" xml:space="preserve">
+    <value>Help</value>
   </data>
-  <data name="ModulePermissions.Action">
-    <value xml:space="preserve">Machtigingen</value>
+  <data name="ModulePermissions.Action" xml:space="preserve">
+    <value>Machtigingen</value>
   </data>
-  <data name="ModuleSettings.Action">
-    <value xml:space="preserve">Instellingen</value>
+  <data name="ModuleSettings.Action" xml:space="preserve">
+    <value>Instellingen</value>
   </data>
-  <data name="ModuleSpecificActions.Action">
-    <value xml:space="preserve">Wijzigen</value>
+  <data name="ModuleSpecificActions.Action" xml:space="preserve">
+    <value>Wijzigen</value>
   </data>
-  <data name="MoveBottom.Action">
-    <value xml:space="preserve">Onderste</value>
+  <data name="MoveBottom.Action" xml:space="preserve">
+    <value>Onderste</value>
   </data>
-  <data name="MoveDown.Action">
-    <value xml:space="preserve">Omlaag</value>
+  <data name="MoveDown.Action" xml:space="preserve">
+    <value>Omlaag</value>
   </data>
-  <data name="MovePane.Action">
-    <value xml:space="preserve">Naar</value>
+  <data name="MovePane.Action" xml:space="preserve">
+    <value>Naar</value>
   </data>
-  <data name="MoveRoot.Action">
-    <value xml:space="preserve">Verplaats</value>
+  <data name="MoveRoot.Action" xml:space="preserve">
+    <value>Verplaats</value>
   </data>
-  <data name="MoveTop.Action">
-    <value xml:space="preserve">Bovenste</value>
+  <data name="MoveTop.Action" xml:space="preserve">
+    <value>Bovenste</value>
   </data>
-  <data name="MoveToPane.Action">
-    <value xml:space="preserve">Naar {0}</value>
+  <data name="MoveToPane.Action" xml:space="preserve">
+    <value>Naar {0}</value>
   </data>
-  <data name="MoveUp.Action">
-    <value xml:space="preserve">Omhoog</value>
+  <data name="MoveUp.Action" xml:space="preserve">
+    <value>Omhoog</value>
   </data>
-  <data name="NativeName.Text">
-    <value xml:space="preserve">Oorspronkelijke Naam</value>
+  <data name="NativeName.Text" xml:space="preserve">
+    <value>Oorspronkelijke Naam</value>
   </data>
-  <data name="NeutralCulture.Text">
-    <value xml:space="preserve">Neutrale taal</value>
+  <data name="NeutralCulture.Text" xml:space="preserve">
+    <value>Neutrale taal</value>
   </data>
-  <data name="NoErrorsSending.Text">
-    <value xml:space="preserve">Geen fouten opgetreden tijdens versturen</value>
+  <data name="NoErrorsSending.Text" xml:space="preserve">
+    <value>Geen fouten opgetreden tijdens versturen</value>
   </data>
-  <data name="NoLoginControl.Text">
-    <value xml:space="preserve">U bent naar deze standaard Login Pagina omgeleid omdat deze website geen geldige Login Module bevat, of omdat de machtigingen niet juist zijn ingesteld.</value>
+  <data name="NoLoginControl.Text" xml:space="preserve">
+    <value>U bent naar deze standaard Login Pagina omgeleid omdat deze website geen geldige Login Module bevat, of omdat de machtigingen niet juist zijn ingesteld.</value>
   </data>
-  <data name="NoSitesForThisInstallation.Error" lastModified="2016-03-08 09:14:08">
-    <value xml:space="preserve">Er bestaan op dit moment geen sites voor deze installatie.</value>
+  <data name="NoSitesForThisInstallation.Error" xml:space="preserve">
+    <value>Er bestaan op dit moment geen sites voor deze installatie.</value>
   </data>
-  <data name="OnlineHelp.Action" lastModified="2018-07-20 14:52:24">
-    <value xml:space="preserve">Online hulp</value>
+  <data name="OnlineHelp.Action" xml:space="preserve">
+    <value>Online hulp</value>
   </data>
-  <data name="PortalLinks.Text">
-    <value xml:space="preserve">Portal koppelingen</value>
+  <data name="PortalLinks.Text" xml:space="preserve">
+    <value>Portal koppelingen</value>
   </data>
-  <data name="PrintModule.Action">
-    <value xml:space="preserve">Afdrukken</value>
+  <data name="PrintModule.Action" xml:space="preserve">
+    <value>Afdrukken</value>
   </data>
-  <data name="PurgeCacheUnsupported.Text">
-    <value xml:space="preserve">Deze caching provider gebruikt the PurgeCache functionaliteit niet</value>
+  <data name="PurgeCacheUnsupported.Text" xml:space="preserve">
+    <value>Deze caching provider gebruikt the PurgeCache functionaliteit niet</value>
   </data>
-  <data name="ReflectionPermission.Text">
-    <value xml:space="preserve">Deze extensie vereist reflectie rechten.</value>
+  <data name="ReflectionPermission.Text" xml:space="preserve">
+    <value>Deze extensie vereist reflectie rechten.</value>
   </data>
-  <data name="Relationship_Added.Text">
-    <value xml:space="preserve">Heeft relatie toegevoegd {0}</value>
+  <data name="Relationship_Added.Text" xml:space="preserve">
+    <value>Heeft relatie toegevoegd {0}</value>
   </data>
-  <data name="Relationship_Deleted.Text">
-    <value xml:space="preserve">Heeft relatie verwijderd {0} : ID {1}</value>
+  <data name="Relationship_Deleted.Text" xml:space="preserve">
+    <value>Heeft relatie verwijderd {0} : ID {1}</value>
   </data>
-  <data name="Relationship_Updated.Text">
-    <value xml:space="preserve">Geüpdate Relatie {0}</value>
+  <data name="Relationship_Updated.Text" xml:space="preserve">
+    <value>Geüpdate Relatie {0}</value>
   </data>
-  <data name="RelationshipType_Added.Text">
-    <value xml:space="preserve">RelatieType Toegevoegd {0}</value>
+  <data name="RelationshipType_Added.Text" xml:space="preserve">
+    <value>RelatieType Toegevoegd {0}</value>
   </data>
-  <data name="RelationshipType_Deleted.Text">
-    <value xml:space="preserve">RelatieType Verwijderd {0} : ID {1}</value>
+  <data name="RelationshipType_Deleted.Text" xml:space="preserve">
+    <value>RelatieType Verwijderd {0} : ID {1}</value>
   </data>
-  <data name="RelationshipType_Updated.Text">
-    <value xml:space="preserve">Geüpdate RelatieType {0}</value>
+  <data name="RelationshipType_Updated.Text" xml:space="preserve">
+    <value>Geüpdate RelatieType {0}</value>
   </data>
-  <data name="Return.Text">
-    <value xml:space="preserve">Terug naar website</value>
+  <data name="Return.Text" xml:space="preserve">
+    <value>Terug naar website</value>
   </data>
-  <data name="SearchCrawler Admin.String">
-    <value xml:space="preserve">Zoekmachine beheer</value>
+  <data name="SearchCrawler Admin.String" xml:space="preserve">
+    <value>Zoekmachine beheer</value>
   </data>
-  <data name="SiteAccessedWhileInstallationWasInProgress.Error" lastModified="2016-03-08 09:14:08">
-    <value xml:space="preserve">Deze site is bezocht terwijl er een installatie of upgrade werd uitgevoerd.</value>
+  <data name="SiteAccessedWhileInstallationWasInProgress.Error" xml:space="preserve">
+    <value>Deze site is bezocht terwijl er een installatie of upgrade werd uitgevoerd.</value>
   </data>
-  <data name="SkinLoadError.Text">
-    <value xml:space="preserve">Skin {0}, kan niet worden geladen. Fout: {1}&amp;lt;br /&amp;gt;</value>
+  <data name="SkinLoadError.Text" xml:space="preserve">
+    <value>Skin {0}, kan niet worden geladen. Fout: {1}&amp;lt;br /&amp;gt;</value>
   </data>
-  <data name="SyndicateModule.Action">
-    <value xml:space="preserve">Syndicatie</value>
+  <data name="SyndicateModule.Action" xml:space="preserve">
+    <value>Syndicatie</value>
   </data>
-  <data name="ThereIsAInstallationCurrentlyInProgress.Error" lastModified="2016-03-08 09:14:08">
-    <value xml:space="preserve">Op dit moment wordt er een installatie uitgevoerd. Probeer het op een later moment nogmaals.</value>
+  <data name="ThereIsAInstallationCurrentlyInProgress.Error" xml:space="preserve">
+    <value>Op dit moment wordt er een installatie uitgevoerd. Probeer het op een later moment nogmaals.</value>
   </data>
-  <data name="TokenReplaceRestrictedProperty.Text">
-    <value xml:space="preserve">Fout bij toegang tot  [{0}:{1}], toegang tot {1} is afgeschermd voor databron {0}.</value>
+  <data name="TokenReplaceRestrictedProperty.Text" xml:space="preserve">
+    <value>Fout bij toegang tot  [{0}:{1}], toegang tot {1} is afgeschermd voor databron {0}.</value>
   </data>
-  <data name="TokenReplaceUnknownObject.Text">
-    <value xml:space="preserve">Fout bij toegang tot [{0}:{1}], {0} is een onbekend object token.</value>
+  <data name="TokenReplaceUnknownObject.Text" xml:space="preserve">
+    <value>Fout bij toegang tot [{0}:{1}], {0} is een onbekend object token.</value>
   </data>
-  <data name="TokenReplaceUnknownProperty.Text">
-    <value xml:space="preserve">Fout bij toegang tot [{0}:{1}], {1} is onbekend voor databron {0}.</value>
+  <data name="TokenReplaceUnknownProperty.Text" xml:space="preserve">
+    <value>Fout bij toegang tot [{0}:{1}], {1} is onbekend voor databron {0}.</value>
   </data>
-  <data name="TrackClicks.Text">
-    <value xml:space="preserve">Het aantal keer dat link is aangeklikt bijhouden </value>
+  <data name="TrackClicks.Text" xml:space="preserve">
+    <value>Het aantal keer dat link is aangeklikt bijhouden </value>
   </data>
-  <data name="Translate.Action">
-    <value xml:space="preserve">Markeer als vertaald</value>
+  <data name="Translate.Action" xml:space="preserve">
+    <value>Markeer als vertaald</value>
   </data>
-  <data name="UnhandledError.Text">
-    <value xml:space="preserve">Er is een niet afgehandelde fout opgetreden.</value>
+  <data name="UnhandledError.Text" xml:space="preserve">
+    <value>Er is een niet afgehandelde fout opgetreden.</value>
   </data>
-  <data name="UnTranslate.Action">
-    <value xml:space="preserve">Markeer als niet vertaald</value>
+  <data name="UnTranslate.Action" xml:space="preserve">
+    <value>Markeer als niet vertaald</value>
   </data>
-  <data name="UrlPathNotUnique.Error">
-    <value xml:space="preserve">De toegevoegde URL is niet beschikbaar. Als u het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
+  <data name="UrlPathNotUnique.Error" xml:space="preserve">
+    <value>De toegevoegde URL is niet beschikbaar. Als u het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
   </data>
-  <data name="UserRelationship_Added.Text">
-    <value xml:space="preserve">Toegevoegd UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
+  <data name="UserRelationship_Added.Text" xml:space="preserve">
+    <value>Toegevoegd UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
   </data>
-  <data name="UserRelationship_Deleted.Text">
-    <value xml:space="preserve">Verwijderde UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
+  <data name="UserRelationship_Deleted.Text" xml:space="preserve">
+    <value>Verwijderde UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
   </data>
-  <data name="UserRelationship_Updated.Text">
-    <value xml:space="preserve">Bijgewerkte UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
+  <data name="UserRelationship_Updated.Text" xml:space="preserve">
+    <value>Bijgewerkte UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
   </data>
-  <data name="UserRelationshipPreference_Added.Text">
-    <value xml:space="preserve">Toegevoegd UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
+  <data name="UserRelationshipPreference_Added.Text" xml:space="preserve">
+    <value>Toegevoegd UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
   </data>
-  <data name="UserRelationshipPreference_Deleted.Text">
-    <value xml:space="preserve">Verwijderde UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
+  <data name="UserRelationshipPreference_Deleted.Text" xml:space="preserve">
+    <value>Verwijderde UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
   </data>
-  <data name="UserRelationshipPreference_Updated.Text">
-    <value xml:space="preserve">Bijgewerkte UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
+  <data name="UserRelationshipPreference_Updated.Text" xml:space="preserve">
+    <value>Bijgewerkte UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
   </data>
-  <data name="View Folder.Permission">
-    <value xml:space="preserve">Open bestanden in map</value>
+  <data name="View Folder.Permission" xml:space="preserve">
+    <value>Open bestanden in map</value>
   </data>
-  <data name="View Tab.Permission">
-    <value xml:space="preserve">Pagina Weergave</value>
+  <data name="View Tab.Permission" xml:space="preserve">
+    <value>Pagina Weergave</value>
   </data>
-  <data name="View.Permission">
-    <value xml:space="preserve">Module bekijken</value>
+  <data name="View.Permission" xml:space="preserve">
+    <value>Module bekijken</value>
   </data>
-  <data name="ViewSource.Action">
-    <value xml:space="preserve">Broncode bekijken</value>
+  <data name="ViewSource.Action" xml:space="preserve">
+    <value>Broncode bekijken</value>
   </data>
-  <data name="WebPermission.Text">
-    <value xml:space="preserve">Deze extensie vereist web rechten.</value>
+  <data name="WebPermission.Text" xml:space="preserve">
+    <value>Deze extensie vereist web rechten.</value>
   </data>
-  <data name="Write to Folder.Permission">
-    <value xml:space="preserve">Schrijf bestanden in map</value>
+  <data name="Write to Folder.Permission" xml:space="preserve">
+    <value>Schrijf bestanden in map</value>
   </data>
 </root>

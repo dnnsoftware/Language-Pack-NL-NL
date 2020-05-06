@@ -247,7 +247,7 @@
     <value xml:space="preserve">Formatteren registratie instructie</value>
   </data>
   <data name="CopyPermissionsToChildren.Text">
-    <value xml:space="preserve">Rechten zullen worden vervangen voor alle dochter pagina's vam deze pagina.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Weet u zeker dat u door wilt gaag?</value>
+    <value xml:space="preserve">Rechten zullen worden vervangen voor alle dochterpagina's vam deze pagina.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Weet u zeker dat u door wilt gaag?</value>
   </data>
   <data name="CreateAdminUser.Error">
     <value xml:space="preserve">Fout bij aanmaken Beheerder Account</value>
@@ -390,7 +390,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Het bestand {0} overschrijdt de hoeveelheid schijfruimte die op dit moment voor u beschikbaar is. Neem contact op met uw provider over vragen betreffende de schijfruimte die voor uw website beschikbaar is.</value>
   </data>
   <data name="Dismiss.Text">
-    <value xml:space="preserve">Ontslaan</value>
+    <value xml:space="preserve">Sluiten</value>
   </data>
   <data name="DismissNotification.Text">
     <value xml:space="preserve">Deze kennisgeving ontslaan</value>
@@ -768,7 +768,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Help </value>
   </data>
   <data name="Home.Text">
-    <value xml:space="preserve">Thuis</value>
+    <value xml:space="preserve">Home</value>
   </data>
   <data name="HostRootFolder.Name">
     <value xml:space="preserve">Host hoofdmap</value>
