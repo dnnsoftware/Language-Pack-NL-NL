@@ -15,8 +15,8 @@
 # This is empty create manifest for editing
 !Install_empty_nl-NL.dnn
 
-# And certainly not the translated resx files
-!*nl-NL.resx
+# And certainly not the translated resx files, but not the created artifacts
+!*[a-zA-Z].nl-NL.resx
 
 # Don't forget  the language pack manifest
 !resources\DNNCE_nl-NL.dnn
