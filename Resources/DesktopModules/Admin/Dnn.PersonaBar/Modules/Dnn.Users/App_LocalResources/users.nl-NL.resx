@@ -49,7 +49,7 @@
     <value xml:space="preserve">Maken</value>
   </data>
   <data name="btnCreateUser.Text" lastModified="2016-11-30 20:59:52">
-    <value xml:space="preserve">Toevoegen gebruiker</value>
+    <value xml:space="preserve">Gebruiker toevoegen</value>
   </data>
   <data name="btnSave.Text" lastModified="2016-11-30 20:59:52">
     <value xml:space="preserve">Opslaan</value>
@@ -76,7 +76,7 @@
     <value xml:space="preserve">Forceer wachtwoord wijziging</value>
   </data>
   <data name="cmdUnAuthorize.Text" lastModified="2016-11-30 22:05:48">
-    <value xml:space="preserve">Machtiging gebruiken intrekken</value>
+    <value xml:space="preserve">Machtiging gebruiker intrekken</value>
   </data>
   <data name="cmdUnLock.Text" lastModified="2016-11-30 22:05:48">
     <value xml:space="preserve">Ontsleutel account</value>
@@ -94,13 +94,13 @@
     <value xml:space="preserve">Bevestig wachtwoord:</value>
   </data>
   <data name="ConfirmMismatch.ErrorMessage" lastModified="2016-11-30 22:05:48">
-    <value xml:space="preserve">Het wachtwoord en Bevestiging wachtwoord moeten gelijk zijn.</value>
+    <value xml:space="preserve">Het wachtwoord en bevestig wachtwoord moeten gelijk zijn.</value>
   </data>
   <data name="Created.Header" lastModified="2016-11-30 22:05:48">
-    <value xml:space="preserve">Aangesloten</value>
+    <value xml:space="preserve">Lid geworden</value>
   </data>
   <data name="CreatedDate.Help" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">De datum dat deze gebruikers account gemaakt is.</value>
+    <value xml:space="preserve">De datum dat dit gebruikersaccount gemaakt is.</value>
   </data>
   <data name="CreatedDate.Text" lastModified="2016-11-30 23:09:23">
     <value xml:space="preserve">Gemaakte datum:</value>
@@ -139,43 +139,43 @@
     <value xml:space="preserve">Weergavenaam:</value>
   </data>
   <data name="Email.Header" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">Email</value>
+    <value xml:space="preserve">E-mail</value>
   </data>
   <data name="Email.Help" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">Vul een geldig emailadres in.</value>
+    <value xml:space="preserve">Vul een geldig e-mailadres in.</value>
   </data>
   <data name="Email.RegExError" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">U moet een geldig emailadres invullen.</value>
+    <value xml:space="preserve">U moet een geldig e-mailadres invullen.</value>
   </data>
   <data name="Email.Required" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">Email is vereist.</value>
+    <value xml:space="preserve">E-mailadres is verplicht.</value>
   </data>
   <data name="Email.Text" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">Emailadres:</value>
+    <value xml:space="preserve">E-mailadres:</value>
   </data>
   <data name="Expires.Header" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">Vervalt</value>
+    <value xml:space="preserve">Verloopt</value>
   </data>
   <data name="False.Text">
     <value xml:space="preserve">Onwaar</value>
   </data>
   <data name="FirstName.Help" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">Vul een eerste naam in.</value>
+    <value xml:space="preserve">Vul een voornaam in.</value>
   </data>
   <data name="FirstName.RegExError" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">Eerste naam is ongeldig.</value>
+    <value xml:space="preserve">Voornaam is ongeldig.</value>
   </data>
   <data name="FirstName.Required" lastModified="2016-12-01 00:14:25">
-    <value xml:space="preserve">Eerste naam is vereist.</value>
+    <value xml:space="preserve">Voornaam is verplicht.</value>
   </data>
   <data name="FirstName.Text" lastModified="2016-12-01 00:14:25">
-    <value xml:space="preserve">Eerste naam:</value>
+    <value xml:space="preserve">Voornaam:</value>
   </data>
   <data name="ForceChangePassword.Text" lastModified="2016-12-01 00:14:25">
     <value xml:space="preserve">Forceer wachtwoord wijziging</value>
   </data>
   <data name="InSufficientPermissions.Text" lastModified="2016-12-01 00:14:25">
-    <value xml:space="preserve">U heeft niet genoeg toestemmingen om deze actie uit te voeren.</value>
+    <value xml:space="preserve">U heeft niet genoeg rechten om deze actie uit te voeren.</value>
   </data>
   <data name="InvalidPasswordAnswer.Text" lastModified="2016-12-01 00:14:25">
     <value xml:space="preserve">Wachtwoord antwoord is ongeldig.</value>
@@ -205,7 +205,7 @@
     <value xml:space="preserve">De datum dat de gebruiker voor het laatst buitengesloten was van de site door meerdere mislukte inlog pogingen.</value>
   </data>
   <data name="LastLockoutDate.Text" lastModified="2016-12-01 00:14:25">
-    <value xml:space="preserve">Laatste Buitengesloten datum:</value>
+    <value xml:space="preserve">Laatste buitengesloten datum:</value>
   </data>
   <data name="LastLoginDate.Help" lastModified="2016-12-01 00:14:25">
     <value xml:space="preserve">De datum wanneer deze gebruiker voor het laatst heeft ingelogd op de site,</value>
@@ -970,7 +970,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value xml:space="preserve">U moet een geldig Gebruiker ID specificeren als eerste argument of u moet de --id markering gebruiken.</value>
   </data>
   <data name="Prompt_UserPurged.Text" lastModified="2018-07-25 08:00:15">
-    <value xml:space="preserve">De Gebruiker is permanent verwijderd van de site.</value>
+    <value xml:space="preserve">De gebruiker is permanent verwijderd van de site.</value>
   </data>
   <data name="Prompt_UsersCategory.Text" lastModified="2018-07-25 08:00:15">
     <value xml:space="preserve">Gebruiker Commandos.</value>
@@ -994,7 +994,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value xml:space="preserve">Verwijder gebruiker permanent</value>
   </data>
   <data name="ResetPassword.Text" lastModified="2016-12-01 04:40:37">
-    <value xml:space="preserve">Verzend wachtwoord rest link</value>
+    <value xml:space="preserve">Verzend wachtwoord herstel link</value>
   </data>
   <data name="RestoreUser.Text" lastModified="2016-12-01 04:40:37">
     <value xml:space="preserve">Herstellen gebruiker</value>
@@ -1015,13 +1015,13 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value xml:space="preserve">Weergeven {0}-{1} van {2}</value>
   </data>
   <data name="SearchPlaceHolder.Text" lastModified="2016-12-01 04:40:37">
-    <value xml:space="preserve">Zoeken gebruikers</value>
+    <value xml:space="preserve">Zoek gebruikers</value>
   </data>
   <data name="SendEmail.Text" lastModified="2016-12-01 04:40:37">
-    <value xml:space="preserve">Verzenden email</value>
+    <value xml:space="preserve">Verzend e-mail</value>
   </data>
   <data name="ShowLabel.Text" lastModified="2016-12-01 04:40:37">
-    <value xml:space="preserve">Weergeven:</value>
+    <value xml:space="preserve">Filter:</value>
   </data>
   <data name="Start.Header" lastModified="2016-12-01 04:40:37">
     <value xml:space="preserve">Start</value>
@@ -1051,7 +1051,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value xml:space="preserve">Gebruiker succesvol gemachtigd.</value>
   </data>
   <data name="UserCreated.Text" lastModified="2016-12-01 05:48:57">
-    <value xml:space="preserve">Gebruiker succesvol gemaakt.</value>
+    <value xml:space="preserve">Gebruiker succesvol aangemaakt.</value>
   </data>
   <data name="UserDeleted.Text" lastModified="2016-12-01 05:48:57">
     <value xml:space="preserve">Gebruiker succesvol verwijderd.</value>
@@ -1115,5 +1115,65 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
   </data>
   <data name="ViewProfile.Text" lastModified="2016-12-01 05:48:57">
     <value xml:space="preserve">Bekijk profiel</value>
+  </data>
+  <data name="Answer.Help">
+    <value>Enter an answer to the password question.</value>
+  </data>
+  <data name="Answer.Required">
+    <value>You must provide a password answer.</value>
+  </data>
+  <data name="Answer.Text">
+    <value>Wachtwoord antwoord:</value>
+  </data>
+  <data name="CouldNotRemoveAll.Text">
+    <value>Kon niet alle gebruikers verwijderen</value>
+  </data>
+  <data name="HasAgreedToTerms.Help">
+    <value>De gebruiker is akkoord gegaan met de voorwaarden op deze website via het data consent mechanisme</value>
+  </data>
+  <data name="HasAgreedToTerms.Text">
+    <value>Akkoord gegaan met voorwaarden</value>
+  </data>
+  <data name="HasAgreedToTerms.title">
+    <value>Gebruiker is akkoord gegaan met de voorwaarden</value>
+  </data>
+  <data name="HasNotAgreedToTerms.Text">
+    <value>Gebruiker is niet akkoord gegaan met de voorwaarden</value>
+  </data>
+  <data name="HasNotAgreedToTerms.title">
+    <value>Gebruiker is niet akkoord gegaan met de voorwaarden</value>
+  </data>
+  <data name="LastConsented.Help">
+    <value>Het moment waarop de gebruiker voor het laatst akkoord is gegaan met de voorwaarden van de site. Indien de voorwaarden in de tussentijd zijn gewijzigd dan zou de gebruiker gemarkeerd kunnen zijn als niet akkoord gegaan met de voorwaarden</value>
+  </data>
+  <data name="LastConsented.Text">
+    <value>Laatst akkoord gegaan op</value>
+  </data>
+  <data name="Prompt_AddRoles_NotFound.Text">
+    <value>Cannot find role{0} '{1}'. --roles parameter only accepts existent roles.</value>
+  </data>
+  <data name="Question.Help">
+    <value>Enter a password question to be used when retrieving the password.</value>
+  </data>
+  <data name="Question.Required">
+    <value>You must provide a password question.</value>
+  </data>
+  <data name="Question.Text">
+    <value>Password Question:</value>
+  </data>
+  <data name="RemoveDeleted.Btn">
+    <value>Verwijder 'verwijderde gebruikers'</value>
+  </data>
+  <data name="RemoveDeleted.Confirm">
+    <value>Do you wish to permanently remove deleted users? You cannot undo this operation.</value>
+  </data>
+  <data name="RemoveDeleted.Done">
+    <value>All deleted users have been removed</value>
+  </data>
+  <data name="RequestedRemoval.Text">
+    <value>Requested Removal</value>
+  </data>
+  <data name="RequestsRemoval.title">
+    <value>User has requested removal from site</value>
   </data>
 </root>

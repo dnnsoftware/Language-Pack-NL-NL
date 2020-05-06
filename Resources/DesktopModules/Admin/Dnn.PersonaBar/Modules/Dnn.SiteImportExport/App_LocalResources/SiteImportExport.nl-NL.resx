@@ -19,10 +19,10 @@
     <value xml:space="preserve">Bestanden geverifieerd</value>
   </data>
   <data name="AnalyzingPackage.Text">
-    <value xml:space="preserve">Analyseren van pack voor site import ...</value>
+    <value xml:space="preserve">Analyseren van pakket voor site import ...</value>
   </data>
   <data name="Assets.Text">
-    <value xml:space="preserve">Inhoud</value>
+    <value xml:space="preserve">Bestanden</value>
   </data>
   <data name="BackToImportExport.Text">
     <value xml:space="preserve">Terug naar Import / Export</value>
@@ -79,7 +79,7 @@
     <value xml:space="preserve">Weet u zeker dat u deze taak wilt verwijderen?</value>
   </data>
   <data name="DeletionsInExport.Text">
-    <value xml:space="preserve">Inclusief verwijderingen</value>
+    <value xml:space="preserve">Inclusief verwijderde items</value>
   </data>
   <data name="Description.Text">
     <value xml:space="preserve">Omschrijving</value>
@@ -88,16 +88,16 @@
     <value xml:space="preserve">-- --</value>
   </data>
   <data name="Export.Text">
-    <value xml:space="preserve">Exporteer Data</value>
+    <value xml:space="preserve">Exporteer data</value>
   </data>
   <data name="ExportButton.Text">
-    <value xml:space="preserve">Exporteer Data</value>
+    <value xml:space="preserve">Exporteer data</value>
   </data>
   <data name="ExportFile.Text">
     <value xml:space="preserve">Exporteer bestand</value>
   </data>
   <data name="ExportMode.Text">
-    <value xml:space="preserve">Exporteer Mode</value>
+    <value xml:space="preserve">Export methode</value>
   </data>
   <data name="ExportModeComplete.Text">
     <value xml:space="preserve">Volledig</value>
@@ -127,7 +127,7 @@
     <value xml:space="preserve">Grootte</value>
   </data>
   <data name="FinishImporting.Text">
-    <value xml:space="preserve">Om de import van uw site date te voltooien, Klik dan op doorgaan, of klik op annuleren om de import af te breken.</value>
+    <value xml:space="preserve">Om de import van uw site data te voltooien, klik op doorgaan, of klik op annuleren om de import af te breken.</value>
   </data>
   <data name="FolderName.Text">
     <value xml:space="preserve">Mapnaam</value>
@@ -145,7 +145,7 @@
     <value xml:space="preserve">Uw data import staat klaar in de wachtrij, en zal spoedig starten.</value>
   </data>
   <data name="ImportSummary.Text">
-    <value xml:space="preserve">Import Overzicht</value>
+    <value xml:space="preserve">Import overzicht</value>
   </data>
   <data name="IncludeContent.Text">
     <value xml:space="preserve">Inclusief inhoud</value>
@@ -229,7 +229,7 @@
     <value xml:space="preserve">Laatste update</value>
   </data>
   <data name="lblLanguages.Help">
-    <value xml:space="preserve">Selecteer elke tweede taal die moet worden meegenomen in de meertalige template, of selecteer de taal voor een ééntalige site.</value>
+    <value xml:space="preserve">Selecteer iedere extra taal die moet worden meegenomen in het meertalige sjabloon, of selecteer de taal voor een ééntalige site.</value>
   </data>
   <data name="lblLanguages.Text">
     <value xml:space="preserve">Exporteer talen</value>
@@ -241,10 +241,10 @@
     <value xml:space="preserve">-- Selecteer taal--</value>
   </data>
   <data name="LegendExport.Text">
-    <value xml:space="preserve">Site Export</value>
+    <value xml:space="preserve">Site export</value>
   </data>
   <data name="LegendImport.Text">
-    <value xml:space="preserve">Site Import</value>
+    <value xml:space="preserve">Site import</value>
   </data>
   <data name="LogSection.Text">
     <value xml:space="preserve">Import / Export Log</value>
@@ -283,7 +283,7 @@
     <value xml:space="preserve">Pagina's in export</value>
   </data>
   <data name="PageTemplates.Text">
-    <value xml:space="preserve">Pagina templates</value>
+    <value xml:space="preserve">Pagina sjablonen</value>
   </data>
   <data name="Permissions.Text">
     <value xml:space="preserve">Rechten</value>
@@ -328,7 +328,7 @@
     <value xml:space="preserve">Datum (Oudste)</value>
   </data>
   <data name="SortByName.Text">
-    <value xml:space="preserve">Naam (Alphabetisch)</value>
+    <value xml:space="preserve">Naam (Alfabetisch)</value>
   </data>
   <data name="SummaryNoteDescription.Text">
     <value xml:space="preserve">Je website export bestanden staan veilig opgeslagen binnen je website App_Data/ExportImport map.</value>
@@ -346,7 +346,7 @@
     <value xml:space="preserve">Tijdstempel</value>
   </data>
   <data name="TotalExportSize.Text">
-    <value xml:space="preserve">TotaleExport grootte</value>
+    <value xml:space="preserve">Totale export grootte</value>
   </data>
   <data name="Users.Text">
     <value xml:space="preserve">Gebruikers</value>

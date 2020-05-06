@@ -13,10 +13,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CreateFolderToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Nieuwe folder aanpassen</value>
+    <value xml:space="preserve">Nieuwe map</value>
   </data>
   <data name="CreateFolderToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Nieuwe folder aanpassen</value>
+    <value xml:space="preserve">Nieuwe map</value>
   </data>
   <data name="DownloadToolBarButtonExtensionPoint.AltText">
     <value xml:space="preserve">Download</value>
@@ -67,10 +67,10 @@
     <value xml:space="preserve">Hernoemen</value>
   </data>
   <data name="CopyToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Kopiër</value>
+    <value xml:space="preserve">Kopieer</value>
   </data>
   <data name="CopyToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Kopiër</value>
+    <value xml:space="preserve">Kopieer</value>
   </data>
   <data name="FileAlreadyExists.Error">
     <value xml:space="preserve">Het bestand bestaat al in de bestemmingsmap</value>
@@ -175,10 +175,10 @@
     <value xml:space="preserve">Synchroniseer deze map en sunmappen</value>
   </data>
   <data name="SyncToolBarMenuButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Synchriniseer</value>
+    <value xml:space="preserve">Synchroniseer</value>
   </data>
   <data name="SyncToolBarMenuButtonExtensionPoint.Text">
-    <value xml:space="preserve">Synchriniseer</value>
+    <value xml:space="preserve">Synchroniseer</value>
   </data>
   <data name="Published.Text">
     <value xml:space="preserve">Publiceren</value>

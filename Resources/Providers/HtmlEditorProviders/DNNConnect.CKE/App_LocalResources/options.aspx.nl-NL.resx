@@ -58,13 +58,13 @@
     <value xml:space="preserve">Kopieer huidige pagina instellingen naar alle onderliggende pagina's.</value>
   </data>
   <data name="CopyPageChild.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Kopieer Instellingen naar Onderliggende pagina's </value>
+    <value xml:space="preserve">Kopieer Instellingen naar onderliggende pagina's </value>
   </data>
   <data name="CreateGroupLabel.Text" lastModified="2018-07-22 21:32:56">
-    <value xml:space="preserve">Creeer Nieuwe Groep</value>
+    <value xml:space="preserve">Creëer nieuwe groep</value>
   </data>
   <data name="CreateGroupTitle.Text" lastModified="2018-07-22 21:32:56">
-    <value xml:space="preserve">Voeg Nieuwe Groep to aan Toolbar Set?</value>
+    <value xml:space="preserve">Voeg nieuwe groep toe aan Toolbar Set?</value>
   </data>
   <data name="CustomJsFileLabel.Text" lastModified="2018-07-22 21:32:56">
     <value xml:space="preserve">Aangepast JS Bestand:</value>
@@ -220,7 +220,7 @@
     <value xml:space="preserve">Selecteer een Toolbar</value>
   </data>
   <data name="lblSetFor.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Pas Instellingen aan voor ...</value>
+    <value xml:space="preserve">Pas instellingen aan voor ...</value>
   </data>
   <data name="lblSettings.Text" lastModified="2018-07-23 13:59:49">
     <value xml:space="preserve">Instellingen</value>

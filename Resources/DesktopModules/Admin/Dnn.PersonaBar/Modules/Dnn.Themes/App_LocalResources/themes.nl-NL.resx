@@ -43,7 +43,7 @@
     <value xml:space="preserve">Verwijderen</value>
   </data>
   <data name="EditThemeAttributes.Text" lastModified="2016-12-02 07:51:42">
-    <value xml:space="preserve">Bewerk Thema Attributen</value>
+    <value xml:space="preserve">Bewerk thema attributen</value>
   </data>
   <data name="File.Text" lastModified="2016-12-02 07:51:42">
     <value xml:space="preserve">Bestand</value>
@@ -52,7 +52,7 @@
     <value xml:space="preserve">Global thema's</value>
   </data>
   <data name="InstallTheme.Text" lastModified="2018-07-24 16:28:59">
-    <value xml:space="preserve">Installeer nieuw Thema</value>
+    <value xml:space="preserve">Installeer nieuw thema</value>
   </data>
   <data name="Layout.Text" lastModified="2016-12-02 07:51:42">
     <value xml:space="preserve">Opmaak</value>
@@ -91,7 +91,7 @@
     <value xml:space="preserve">Voorbeeld</value>
   </data>
   <data name="RestoreTheme.Text" lastModified="2016-12-02 07:51:42">
-    <value xml:space="preserve">[ Herstel standaard theme ]</value>
+    <value xml:space="preserve">[ Herstel standaard thema ]</value>
   </data>
   <data name="RestoreThemeConfirm.Text" lastModified="2016-12-02 07:51:42">
     <value xml:space="preserve">Weet u zeker dat u  het standaard thema wilt herstelllen?</value>
@@ -100,10 +100,10 @@
     <value xml:space="preserve">Zoeken</value>
   </data>
   <data name="SetEditContainer.Text" lastModified="2016-12-02 07:51:42">
-    <value xml:space="preserve">Instellen Bewerken Container</value>
+    <value xml:space="preserve">Instellen Bewerk Container</value>
   </data>
   <data name="SetEditLayout.Text" lastModified="2016-12-02 07:51:42">
-    <value xml:space="preserve">Instellen Bewerken Opmaak</value>
+    <value xml:space="preserve">Instellen Bewerk Opmaak</value>
   </data>
   <data name="SetSiteContainer.Text" lastModified="2018-07-24 16:28:59">
     <value xml:space="preserve">Instellen Website Container</value>

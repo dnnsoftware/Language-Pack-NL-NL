@@ -13,13 +13,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddNewSite.Header" lastModified="2016-12-01 08:52:08">
-    <value xml:space="preserve">Toevoegen nieuwe site</value>
+    <value xml:space="preserve">Nieuwe site toevoegen</value>
   </data>
   <data name="AddNewSite.Text">
     <value xml:space="preserve">Nieuwe site toevoegen</value>
   </data>
   <data name="AssignCurrentUserAsAdmin.Label" lastModified="2016-12-01 08:52:08">
-    <value xml:space="preserve">Wijs huidige gebruiker aan als beheerder</value>
+    <value xml:space="preserve">Gebruik huidige gebruiker als beheerder</value>
   </data>
   <data name="BackToSites.Text">
     <value xml:space="preserve">Terug naar sites</value>
@@ -52,7 +52,7 @@
     <value xml:space="preserve">E-mail</value>
   </data>
   <data name="CreateSite_AdminFirstName.Label" lastModified="2016-12-01 08:52:08">
-    <value xml:space="preserve">Eerste Naam</value>
+    <value xml:space="preserve">Voornaam</value>
   </data>
   <data name="CreateSite_AdminLastName.Label" lastModified="2016-12-01 08:52:08">
     <value xml:space="preserve">Achternaam</value>
@@ -85,19 +85,19 @@
     <value xml:space="preserve">Omschrijving</value>
   </data>
   <data name="Directory.Text" lastModified="2016-12-01 08:52:08">
-    <value xml:space="preserve">Directorie</value>
+    <value xml:space="preserve">Map</value>
   </data>
   <data name="Domain.Text" lastModified="2016-12-01 08:52:08">
     <value xml:space="preserve">Domein</value>
   </data>
   <data name="DuplicatePortalAlias.Text">
-    <value xml:space="preserve">De sitealias naam die u heeft ingegeven bestaat al. Geef een andere naam in.</value>
+    <value xml:space="preserve">De sitealias naam die u heeft ingegeven bestaat al. Geef een andere naam op.</value>
   </data>
   <data name="DuplicateWithTab.Text">
     <value xml:space="preserve">Er is al een pagina met dezelfde naam als de alias die u heeft ingevoerd. Kies een andere alias.</value>
   </data>
   <data name="EmailRequired.Error" lastModified="2016-12-01 08:52:08">
-    <value xml:space="preserve">Email is vereist.</value>
+    <value xml:space="preserve">E-mail is verplicht.</value>
   </data>
   <data name="ErrorAncestorPages.Text">
     <value xml:space="preserve">U moet alle bovenliggende pagina's selecteren om een subpagina mee te nemen</value>
@@ -106,19 +106,19 @@
     <value xml:space="preserve">U moet minstens een pagina selecteren om te exporteren. </value>
   </data>
   <data name="ExportedMessage.Text" lastModified="2016-12-01 08:52:08">
-    <value xml:space="preserve">Het nieuwe site sjabloon is opgeslagen in map:&amp;amp;lt;br/&amp;amp;gt;&amp;amp;lt;b&amp;amp;gt;{0}&amp;amp;lt;/b&amp;amp;gt;</value>
+    <value xml:space="preserve">Het nieuwe site sjabloon is opgeslagen in de map:&lt;br/&gt;&lt;b&gt;{0}&lt;/b&gt;</value>
   </data>
   <data name="ExportTemplate.Text">
-    <value xml:space="preserve">Exporteer Template</value>
+    <value xml:space="preserve">Exporteer sjabloon</value>
   </data>
   <data name="FirstNameRequired.Error" lastModified="2016-12-01 08:52:08">
-    <value xml:space="preserve">Eerste naam is vereist.</value>
+    <value xml:space="preserve">Voornaam is verplicht.</value>
   </data>
   <data name="HomeDirectory.Label" lastModified="2016-12-01 08:52:08">
-    <value xml:space="preserve">Home Directorie</value>
+    <value xml:space="preserve">Site map</value>
   </data>
   <data name="InvalidHomeFolder.Text">
-    <value xml:space="preserve">De homemap  die u heeft geselecteerd is niet geldig.</value>
+    <value xml:space="preserve">De site map die u heeft geselecteerd is niet geldig.</value>
   </data>
   <data name="InvalidName.Text">
     <value xml:space="preserve">De sitealias mag geen punten of spaties bevatten.</value>
@@ -127,7 +127,7 @@
     <value xml:space="preserve">De opgegeven wachtwoorden komen niet overeen.</value>
   </data>
   <data name="LastNameRequired.Error" lastModified="2016-12-01 08:52:08">
-    <value xml:space="preserve">Achternaam is vereist.</value>
+    <value xml:space="preserve">Achternaam is verplicht.</value>
   </data>
   <data name="lblAdminOnly.Text" lastModified="2016-12-01 08:52:08">
     <value xml:space="preserve">Enkel zichtbaar voor beheerders.</value>
@@ -142,7 +142,7 @@
     <value xml:space="preserve">Vink dit vakje aan om alle site bestanden en mappen te exporteren bij het maken van een nieuw sjabloon.</value>
   </data>
   <data name="lblFiles.Text" lastModified="2016-12-01 10:01:10">
-    <value xml:space="preserve">Bestanden insluiten</value>
+    <value xml:space="preserve">Inclusief bestanden</value>
   </data>
   <data name="lblHidden.Text" lastModified="2016-12-01 10:01:10">
     <value xml:space="preserve">Pagina is verborgen in menu</value>
@@ -160,7 +160,7 @@
     <value xml:space="preserve">Vink dit vakje aan om module implementatie toestemmingen in te sluiten bij het geëxporteerde sjabloon. Als deze optie is geselecteerd dan kan het ook nodig zijn om rollen te exporteren indien er aangepaste rollen zijn met implementatie toestemmingen.</value>
   </data>
   <data name="lblModules.Text" lastModified="2016-12-01 10:01:10">
-    <value xml:space="preserve">Omvatten Module Implementatie Machtigingen</value>
+    <value xml:space="preserve">Inclusief Module Implementatie Machtigingen</value>
   </data>
   <data name="lblMultilanguage.Help" lastModified="2016-12-01 10:01:10">
     <value xml:space="preserve">Vink dit vakje aan om een sjabloon te maken voor een multi-talen site en selecteer elke taal die moet worden ingesloten naast de standaard taal. </value>
@@ -172,22 +172,22 @@
     <value xml:space="preserve">De standaard taal {0} zal altijd worden geëxporteerd.</value>
   </data>
   <data name="lblNoteSingleLanguage.Text" lastModified="2016-12-01 11:05:29">
-    <value xml:space="preserve">Noot: de standaard taal is &amp;amp;lt;b&amp;amp;gt;{0}&amp;amp;lt;/b&amp;amp;gt;</value>
+    <value xml:space="preserve">Noot: de standaard taal is &lt;b&gt;{0}&lt;/b&gt;</value>
   </data>
   <data name="lblPages.Help" lastModified="2016-12-01 11:05:29">
-    <value xml:space="preserve">Selecteer de pagina's om te exporteren. &amp;amp;lt;br /&amp;amp;gt; Als u van plan bent om het geëxporteerde sjabloon te gebruiken om een nieuwe site te maken, verzeker dan om allen te selecteren of geselecteerde Admin pagina's. Als er geen Admin pagina's beschikbaar zijn in het sjabloon dan zal de nieuwe site geen Admin Menu hebben. </value>
+    <value xml:space="preserve">Selecteer de pagina's om te exporteren. &lt;br /&gt;Als u van plan bent om het geëxporteerde sjabloon te gebruiken om een nieuwe site te maken, verzeker dan om allen te selecteren of geselecteerde Admin pagina's. Als er geen Admin pagina's beschikbaar zijn in het sjabloon dan zal de nieuwe site geen Admin Menu hebben. </value>
   </data>
   <data name="lblPages.Text" lastModified="2016-12-01 12:06:48">
     <value xml:space="preserve">Pagina's om te exporteren</value>
   </data>
   <data name="lblProfile.Help" lastModified="2016-12-01 12:06:48">
-    <value xml:space="preserve">Vink dit vakje aan om aangepaste profiel eigenschap definities in te sluiten in het sjabloon.</value>
+    <value xml:space="preserve">Vink dit vakje aan om aangepaste profielveld definities mee te nemen in het sjabloon.</value>
   </data>
   <data name="lblProfile.Text" lastModified="2016-12-01 13:15:19">
-    <value xml:space="preserve">Insluiten profiel eigenschappen</value>
+    <value xml:space="preserve">Inclusief profielvelden</value>
   </data>
   <data name="lblRedirect.Text" lastModified="2016-12-01 13:15:19">
-    <value xml:space="preserve">Pagina herleiding</value>
+    <value xml:space="preserve">Pagina doorsturen</value>
   </data>
   <data name="lblRegistered.Text" lastModified="2016-12-01 13:15:19">
     <value xml:space="preserve">Zichtbaar voor geregistreerde gebruikers</value>
@@ -196,7 +196,7 @@
     <value xml:space="preserve">Vink dit vakje aan om alle beveiligingsrollen te exporteren bij het maken van een nieuw sjabloon. </value>
   </data>
   <data name="lblRoles.Text" lastModified="2016-12-01 13:15:19">
-    <value xml:space="preserve">Insluiten Rollen</value>
+    <value xml:space="preserve">Inclusief rollen</value>
   </data>
   <data name="lblSecure.Text" lastModified="2016-12-01 13:15:19">
     <value xml:space="preserve">Enkel zichtbaar voor toegewijde rollen</value>
@@ -208,7 +208,7 @@
     <value xml:space="preserve">Laad meer</value>
   </data>
   <data name="ModuleHelp.Text" lastModified="2016-12-01 13:15:19">
-    <value xml:space="preserve">&amp;amp;lt;h1&amp;amp;gt;Over sjablonen&amp;amp;lt;/h1&amp;amp;gt;&amp;amp;lt;p&amp;amp;gt;Staat u toe om een site sjabloon te exporteren voor het gebruik van het bouwen van nieuwe sites.&amp;amp;lt;/p&amp;amp;gt;</value>
+    <value xml:space="preserve">&lt;h1&gt;Over sjablonen&lt;/h1&gt;&lt;p&gt;Staat u toe om een site sjabloon te exporteren voor het gebruik van het bouwen van nieuwe sites.&lt;/p&gt;</value>
   </data>
   <data name="nav_Sites.Text" lastModified="2018-07-24 15:48:37">
     <value xml:space="preserve">Websites</value>
@@ -220,10 +220,10 @@
     <value xml:space="preserve">Wachtwoord is vereist. Vul minimaal 7 karakters in.</value>
   </data>
   <data name="plContent.Help" lastModified="2016-12-01 13:15:19">
-    <value xml:space="preserve">Vink dit vakje aan om de content in te sluiten binnen iPortable modules.</value>
+    <value xml:space="preserve">Vink dit vakje aan om de content mee te nemen bij iPortable modules.</value>
   </data>
   <data name="plContent.Text" lastModified="2016-12-01 13:15:19">
-    <value xml:space="preserve">Insluiten content</value>
+    <value xml:space="preserve">Inclusief content</value>
   </data>
   <data name="plDescription.Help" lastModified="2016-12-01 13:15:19">
     <value xml:space="preserve">Vul een beschrijving in voor het sjabloon bestand.</value>
@@ -241,10 +241,10 @@
     <value xml:space="preserve">Vul een naam in voor het sjabloon bestand dat gemaakt wordt.</value>
   </data>
   <data name="plTemplateName.Text" lastModified="2016-12-01 13:15:19">
-    <value xml:space="preserve">Sjabloon Bestandsnaam</value>
+    <value xml:space="preserve">Sjabloon bestandsnaam</value>
   </data>
   <data name="PortalDeletionDenied.Text" lastModified="2016-12-01 13:15:19">
-    <value xml:space="preserve">Portaal Verwijdering niet toegestaan</value>
+    <value xml:space="preserve">Portaal verwijdering niet toegestaan</value>
   </data>
   <data name="PortalNotFound.Text" lastModified="2016-12-01 13:15:19">
     <value xml:space="preserve">Portaal niet gevonden.</value>
@@ -259,7 +259,7 @@
     <value xml:space="preserve">Geavanceerde configuratie</value>
   </data>
   <data name="SiteAliasRequired.Error" lastModified="2016-12-01 13:15:19">
-    <value xml:space="preserve">Site Alias is vereist.</value>
+    <value xml:space="preserve">Site alias is vereist.</value>
   </data>
   <data name="SiteDetails_Pages.Text" lastModified="2016-12-01 13:15:19">
     <value xml:space="preserve">Pagina's</value>
@@ -268,7 +268,7 @@
     <value xml:space="preserve">Site-ID</value>
   </data>
   <data name="SiteDetails_Updated.Text" lastModified="2016-12-01 13:15:19">
-    <value xml:space="preserve">Ge-update</value>
+    <value xml:space="preserve">Bijgewerkt</value>
   </data>
   <data name="SiteDetails_Users.Text" lastModified="2016-12-01 13:15:19">
     <value xml:space="preserve">Gebruikers</value>
@@ -289,7 +289,7 @@
     <value xml:space="preserve">Websitesjabloon</value>
   </data>
   <data name="SiteTitleRequired.Error" lastModified="2018-07-24 15:48:37">
-    <value xml:space="preserve">Websitetitel is vereist.</value>
+    <value xml:space="preserve">Website titel is verplicht.</value>
   </data>
   <data name="SiteType.Label" lastModified="2018-07-24 15:48:37">
     <value xml:space="preserve">Websitetype</value>
@@ -304,10 +304,10 @@
     <value xml:space="preserve">Websitesjabloon informatie</value>
   </data>
   <data name="UnknownEmailAddress.Error">
-    <value xml:space="preserve">Er is geen emailadres ingesteld op Site en/of Host niveau.</value>
+    <value xml:space="preserve">Er is geen e-mailadres ingesteld op site en/of host niveau.</value>
   </data>
   <data name="UnknownSendMail.Error">
-    <value xml:space="preserve">Er is een fout opgetreden bij het versturen van de bevestigingsemails, De website is echter wel aangemaakt. &amp;amp;lt;a href='{0}' {1}&amp;amp;gt;Klik hier om de nieuwe site te openen&amp;amp;lt;/a&amp;amp;gt;</value>
+    <value xml:space="preserve">Er is een fout opgetreden bij het versturen van de bevestigingse-mails, De website is echter wel aangemaakt. &lt;a href='{0}' {1}&gt;Klik hier om de nieuwe site te openen&lt;/a&gt;</value>
   </data>
   <data name="UsernameRequired.Error" lastModified="2016-12-01 13:15:19">
     <value xml:space="preserve">Gebruikersnaam is vereist.</value>
@@ -320,5 +320,8 @@
   </data>
   <data name="ViewSite.Text">
     <value xml:space="preserve">Site weergeven</value>
+  </data>
+  <data name="CreatePortalHomeFolderExists.Error">
+    <value>Portaal map {0} is al in gebruik.</value>
   </data>
 </root>

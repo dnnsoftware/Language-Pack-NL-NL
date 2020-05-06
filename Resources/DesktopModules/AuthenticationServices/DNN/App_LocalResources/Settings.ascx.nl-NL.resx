@@ -13,13 +13,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AuthenticationConfig_Enabled.Help" lastModified="2015-12-31 10:40:06">
-    <value xml:space="preserve">Check deze box om de standaard DotNetNuke verificatie inschakelen.</value>
+    <value xml:space="preserve">Vink deze optie aan om de standaard DotNetNuke verificatie in te schakelen.</value>
   </data>
   <data name="AuthenticationConfig_Enabled.Text" lastModified="2015-12-31 10:40:06">
     <value xml:space="preserve">Ingeschakeld:</value>
   </data>
   <data name="AuthenticationConfig_UseCaptcha.Help" lastModified="2015-12-31 10:40:06">
-    <value xml:space="preserve">Check deze box om Captcha in te schakelen voor de DotNetNuke Login.</value>
+    <value xml:space="preserve">VInk deze optie aan om Captcha in te schakelen voor de DotNetNuke Login.</value>
   </data>
   <data name="AuthenticationConfig_UseCaptcha.Text" lastModified="2015-12-31 10:40:06">
     <value xml:space="preserve">Gebruik Captcha:</value>

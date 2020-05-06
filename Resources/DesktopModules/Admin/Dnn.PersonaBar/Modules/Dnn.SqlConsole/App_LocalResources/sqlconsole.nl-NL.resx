@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AllEntries.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>Alle Entries</value>
+    <value>Alle items</value>
   </data>
   <data name="Cancel.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
     <value>Annuleren</value>
@@ -34,55 +34,55 @@
     <value>Exporteren</value>
   </data>
   <data name="ExportClipboard.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>Kopieren naar Clipboard</value>
+    <value>Kopiëren naar klembord</value>
   </data>
   <data name="ExportClipboardFailed.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>Kopieren naar Clipboard mislukt!</value>
+    <value>Kopiëren naar klembord mislukt!</value>
   </data>
   <data name="ExportClipboardSuccessful.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>Gekopieerd naar Clipboard!</value>
+    <value>Gekopieerd naar klembord!</value>
   </data>
   <data name="ExportCSV.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
     <value>Exporteren naar CSV</value>
   </data>
   <data name="ExportExcel.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>Exporteren naar Xcell</value>
+    <value>Exporteren naar Excel</value>
   </data>
   <data name="ExportPDF.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>Exporteren naar PPDF</value>
+    <value>Exporteren naar PDF</value>
   </data>
   <data name="nav_SqlConsole.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
     <value>SQL Console</value>
   </data>
   <data name="NewQuery.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>&lt;Nieuwe Vraag&gt;</value>
+    <value>&lt;Nieuwe query&gt;</value>
   </data>
   <data name="NoData.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>De vraag heeft geen data gevonden.</value>
+    <value>De query heeft geen data teruggegeven.</value>
   </data>
   <data name="PageInfo.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>Tonend {0}-{1} van {2} items</value>
+    <value>Toont {0} - {1} van {2} items</value>
   </data>
   <data name="PageSize.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>{0} Entries</value>
+    <value>{0} items</value>
   </data>
   <data name="Query.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>Vraag:</value>
+    <value>Query:</value>
   </data>
   <data name="QueryFailed.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>De vraag is mislukt!</value>
+    <value>De query is mislukt!</value>
   </data>
   <data name="QuerySuccessful.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>De vraag is succesvol voltooid!</value>
+    <value>De query is succesvol voltooid!</value>
   </data>
   <data name="QueryTabTitle.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>Vraag {0}</value>
+    <value>Query {0}</value>
   </data>
   <data name="RunScript.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>Voer Script uit</value>
+    <value>Voer script uit</value>
   </data>
   <data name="SaveQuery.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>Opslaan vVaag</value>
+    <value>Query opslaan</value>
   </data>
   <data name="SaveQueryInfo.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
     <value>Vul een naam in voor deze vraag:</value>
@@ -94,6 +94,6 @@
     <value>Sql Console</value>
   </data>
   <data name="UploadFile.Text" xml:space="preserve" lastModified="2016-12-01 14:29:16">
-    <value>Uploaden bestand</value>
+    <value>Bestand uploaden</value>
   </data>
 </root>

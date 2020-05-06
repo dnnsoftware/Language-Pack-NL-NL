@@ -19,9 +19,8 @@
     <value xml:space="preserve">Bewerk Script</value>
   </data>
   <data name="scriptListLabel.Help">
-    <value xml:space="preserve">Select the Script to use for this instance of the Razor Host Module
-
-Selecteer het Script dat moet worden gebruikt voor deze instantie van de Razor Host Module</value>
+    <value xml:space="preserve">
+	Selecteer het Script dat moet worden gebruikt voor deze instantie van de Razor Host Module</value>
   </data>
   <data name="scriptListLabel.Text">
     <value xml:space="preserve">Script:</value>

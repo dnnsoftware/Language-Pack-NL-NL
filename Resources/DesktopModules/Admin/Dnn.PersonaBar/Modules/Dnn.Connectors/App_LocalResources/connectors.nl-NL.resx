@@ -19,7 +19,7 @@
     <value xml:space="preserve">Aan het controleren ...</value>
   </data>
   <data name="btn_Connect.Text" lastModified="2018-07-19 05:25:01">
-    <value xml:space="preserve">Verbinden</value>
+    <value xml:space="preserve">Koppelen</value>
   </data>
   <data name="btn_Edit.Text" lastModified="2018-07-19 05:25:01">
     <value xml:space="preserve">Wijzigen</value>
@@ -58,6 +58,6 @@
     <value xml:space="preserve">Item is succesvol opgeslagen.</value>
   </data>
   <data name="txt_SetupConnections.Text" lastModified="2018-07-19 05:25:01">
-    <value xml:space="preserve">Stel uw verbindingen in om gemakkelijk inhoud en meer te delen</value>
+    <value xml:space="preserve">Stel uw koppelingen in om gemakkelijk inhoud en meer te delen</value>
   </data>
 </root>

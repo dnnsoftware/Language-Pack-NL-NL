@@ -973,7 +973,7 @@
     <value xml:space="preserve">Volgende</value>
   </data>
   <data name="NoModuleUsageDetail.Text">
-    <value xml:space="preserve">Deze module bestaan op geen van de {0} pagina's.</value>
+    <value xml:space="preserve">Deze module bestaat op geen van de {0} pagina's.</value>
   </data>
   <data name="NoneLabel.Text" lastModified="2016-11-29 16:33:21">
     <value xml:space="preserve">Geen</value>

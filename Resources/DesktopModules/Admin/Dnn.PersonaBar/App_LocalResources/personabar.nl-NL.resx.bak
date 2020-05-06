@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="btn_CloseDialog.Text">
+    <value xml:space="preserve">Ok</value>
+  </data>
+  <data name="btn_LoadMore.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Laad meer</value>
+  </data>
+  <data name="CriticalUpdate.Text">
+    <value xml:space="preserve">[ Kritieke Update ]</value>
+  </data>
+  <data name="Documentation.Text">
+    <value xml:space="preserve">Documentatie</value>
+  </data>
+  <data name="err_BetweenMinMax.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Waarde kan enkel tussen Min waarde en Max waarde in zijn</value>
+  </data>
+  <data name="err_Email.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Enkel geldige email is toegestaan</value>
+  </data>
+  <data name="err_Minimum.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Tekst moet minstens {0} karakters hebben</value>
+  </data>
+  <data name="err_MinLessThanMax.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">De Min. Waarde moet minder zijn dan de Max. Waarde</value>
+  </data>
+  <data name="err_NoLargerThanExp.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Reputatie punten kunnen niet groter zijn dan ervaring punten</value>
+  </data>
+  <data name="err_NonDecimalNumber.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Decimale aantallen zijn niet toegestaan</value>
+  </data>
+  <data name="err_NonNegativeNumber.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Negatieve aantallen zijn niet toegestaan</value>
+  </data>
+  <data name="err_NoUserFolder.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">{0} bezit geen activa</value>
+  </data>
+  <data name="err_Number.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Enkel nummers zijn toegestaan</value>
+  </data>
+  <data name="err_OneActionNeeded.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Minstens een actie is nodig</value>
+  </data>
+  <data name="err_PositiveNumber.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Enkel positieve aantallen zijn toegestaan</value>
+  </data>
+  <data name="err_Required.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Tekst is vereist</value>
+  </data>
+  <data name="err_RoleAssignedToUser.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Deze rol is al toegewezen aan deze gebruiker.</value>
+  </data>
+  <data name="Framework.Text">
+    <value xml:space="preserve">.Net Framework</value>
+  </data>
+  <data name="LicenseKey.Text">
+    <value xml:space="preserve">Licentiecode</value>
+  </data>
+  <data name="LockEditMode.Help" lastModified="2018-07-23 11:42:08">
+    <value xml:space="preserve">Wanneer vergrendeld, wordt het pictogram blauw en blijft u in de bewerkingsmodus, zelfs wanneer u naar andere pagina's navigeert.</value>
+  </data>
+  <data name="LockEditMode.Text" lastModified="2018-07-23 13:45:19">
+    <value xml:space="preserve">Klik om de Bewerkmodus te vergrendelen.</value>
+  </data>
+  <data name="nav_Analytics.Text" lastModified="2018-07-23 13:45:19">
+    <value xml:space="preserve">Analyses</value>
+  </data>
+  <data name="nav_Content.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Inhoud</value>
+  </data>
+  <data name="nav_Dashboard.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Dashboards</value>
+  </data>
+  <data name="nav_DocCenter.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Doc Centrum</value>
+  </data>
+  <data name="nav_Edit.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Bewerken</value>
+  </data>
+  <data name="nav_GlobalAssets.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Globale assets</value>
+  </data>
+  <data name="nav_Help.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Help</value>
+  </data>
+  <data name="nav_Home.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Home</value>
+  </data>
+  <data name="nav_Logout.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Uitloggen</value>
+  </data>
+  <data name="nav_Manage.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Beheren</value>
+  </data>
+  <data name="nav_Settings.Text" lastModified="2016-12-01 07:55:47">
+    <value xml:space="preserve">Instellingen</value>
+  </data>
+  <data name="nav_Site.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Bekijk site</value>
+  </data>
+  <data name="nav_SiteAssets.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Site Assets</value>
+  </data>
+  <data name="nav_Tasks.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Taken</value>
+  </data>
+  <data name="nav_Tools.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Gereedschappen</value>
+  </data>
+  <data name="NormalUpdate.Text">
+    <value xml:space="preserve">[ Nieuwe update ]</value>
+  </data>
+  <data name="permissiongrid.Actions.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Acties</value>
+  </data>
+  <data name="permissiongrid.Add Content.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Toevoegen Content</value>
+  </data>
+  <data name="permissiongrid.Add User.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Toevoegen Gebruiker</value>
+  </data>
+  <data name="permissiongrid.Add.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Toevoegen</value>
+  </data>
+  <data name="permissiongrid.AllRoles.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">&amp;lt;Alle Rollen&amp;gt;</value>
+  </data>
+  <data name="permissiongrid.Copy.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Kopieren</value>
+  </data>
+  <data name="permissiongrid.Delete.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Verwijderen</value>
+  </data>
+  <data name="permissiongrid.Display Name.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Weergave naam:</value>
+  </data>
+  <data name="permissiongrid.Edit Content.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Bewerken content</value>
+  </data>
+  <data name="permissiongrid.Edit Tab.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Volledige besturing</value>
+  </data>
+  <data name="permissiongrid.Edit.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Volledige besturing</value>
+  </data>
+  <data name="permissiongrid.Export.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Exporteren</value>
+  </data>
+  <data name="permissiongrid.Filter By Group.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Filteren op groep</value>
+  </data>
+  <data name="permissiongrid.GlobalRoles.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">&amp;lt;Globale Rollen&amp;gt;</value>
+  </data>
+  <data name="permissiongrid.Import.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Importeren</value>
+  </data>
+  <data name="permissiongrid.Manage Settings.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Beheer Instellingen</value>
+  </data>
+  <data name="permissiongrid.Navigate.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Navigeren</value>
+  </data>
+  <data name="permissiongrid.Select Role.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Selecteer Rol</value>
+  </data>
+  <data name="permissiongrid.Type-roles.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Rollen</value>
+  </data>
+  <data name="permissiongrid.Type-users.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Gebruikers</value>
+  </data>
+  <data name="permissiongrid.View Tab.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Weergeven</value>
+  </data>
+  <data name="permissiongrid.View.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Weergeven</value>
+  </data>
+  <data name="ServerName.Text">
+    <value xml:space="preserve">Server Naam</value>
+  </data>
+  <data name="title_Tasks.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Taken</value>
+  </data>
+  <data name="txt_ViewIndex.Text" lastModified="2016-12-01 09:00:35">
+    <value xml:space="preserve">Weergeven {0} van {1}</value>
+  </data>
+  <data name="UnlockEditMode.Help" lastModified="2018-07-23 13:45:19">
+    <value xml:space="preserve">Wanneer ontgrendeld, verlaat je de bewerkmodus telkens wanneer je naar een andere pagina navigeert of je wijzigingen voltooit.</value>
+  </data>
+  <data name="UnlockEditMode.Text" lastModified="2018-07-23 13:45:19">
+    <value xml:space="preserve">Klik om de Bewerkmodus te ontgrendelen.</value>
+  </data>
+  <data name="UpgradeLicense.Text">
+    <value xml:space="preserve">[ Upgrade naar Evoq ]</value>
+  </data>
+</root>

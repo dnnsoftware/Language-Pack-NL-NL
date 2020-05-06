@@ -31,7 +31,7 @@
     <value xml:space="preserve">Alles</value>
   </data>
   <data name="AllRoles.Text">
-    <value xml:space="preserve">&amp;lt; Alle rollen &amp;gt;</value>
+    <value xml:space="preserve">&lt; Alle rollen &gt;</value>
   </data>
   <data name="AllUsers.Text">
     <value xml:space="preserve">Alle gebruikers</value>
@@ -49,7 +49,7 @@
     <value xml:space="preserve">Assembly is reeds geregistreerd</value>
   </data>
   <data name="ASSEMBLY_RemovedBindingRedirect.Text">
-    <value xml:space="preserve"> Binding redirect verwijderd voor assembly</value>
+    <value xml:space="preserve">Binding redirect verwijderd voor assembly</value>
   </data>
   <data name="ASSEMBLY_UnRegistered.Text">
     <value xml:space="preserve">Assembly registratie verwijderd</value>
@@ -235,7 +235,7 @@
     <value xml:space="preserve">Contenttype</value>
   </data>
   <data name="ContractExpired.Error">
-    <value xml:space="preserve">Het hosting contract voor {0} is verstreken op {1}. Neem contact op met &amp;lt;a href="mailto:{2}"&amp;gt; {2} &amp;lt;/ a&amp;gt; voor meer informatie.</value>
+    <value xml:space="preserve">Het hosting contract voor {0} is verstreken op {1}. Neem contact op met &lt;a href="mailto:{2}"&gt; {2} &lt;/ a&gt; voor meer informatie.</value>
   </data>
   <data name="ControlDirective.Text">
     <value xml:space="preserve">Formatteren van instructie voor besturingselement</value>
@@ -247,7 +247,7 @@
     <value xml:space="preserve">Formatteren registratie instructie</value>
   </data>
   <data name="CopyPermissionsToChildren.Text">
-    <value xml:space="preserve">Rechten zullen worden vervangen voor alle dochter pagina's vam deze pagina.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Weet u zeker dat u door wilt gaag?</value>
+    <value xml:space="preserve">Rechten zullen worden vervangen voor alle dochter pagina's vam deze pagina.&lt;br /&gt;&lt;br /&gt;Weet u zeker dat u door wilt gaag?</value>
   </data>
   <data name="CreateAdminUser.Error">
     <value xml:space="preserve">Fout bij aanmaken Beheerder Account</value>
@@ -313,10 +313,10 @@
     <value xml:space="preserve">Fout bij het maken van Standaard Map Typen</value>
   </data>
   <data name="DefaultSaveDraftWorkflowDescription.Text">
-    <value xml:space="preserve">Staat een auteur toe om een kopie van een schets op te slaan voor de content wordt gepubliceerd.</value>
+    <value xml:space="preserve">Staat een auteur toe om een  concept op te slaan voor de content wordt gepubliceerd.</value>
   </data>
   <data name="DefaultSaveDraftWorkflowName.Text">
-    <value xml:space="preserve">Schets opslaan</value>
+    <value xml:space="preserve">Concept opslaan</value>
   </data>
   <data name="DefaultWorkflowDescription.Text">
     <value xml:space="preserve">Geeft de auteur de mogelijkheid om inhoud te beheren en deze vervolgend te laten reviewen door andere gebruikers voordat deze wordt gepubliceerd </value>
@@ -331,10 +331,10 @@
     <value xml:space="preserve">[DATE]: Het bestand [FILE] is al gereviewd door [USER] </value>
   </data>
   <data name="DefaultWorkflowState1.OnCompleteMessageSubject">
-    <value xml:space="preserve">Bestand kan gereviewd</value>
+    <value xml:space="preserve">Bestand kan gereviewd worden</value>
   </data>
   <data name="DefaultWorkflowState1.StateName">
-    <value xml:space="preserve">Schets</value>
+    <value xml:space="preserve">Concept</value>
   </data>
   <data name="DefaultWorkflowState2.OnCompleteMessageBody">
     <value xml:space="preserve">[DATE]: Het bestand [FILE] is goedgekeurd door [USER]</value>
@@ -373,15 +373,13 @@
     <value xml:space="preserve">Weet u zeker dat u deze module wilt verwijderen?</value>
   </data>
   <data name="DeleteSharedModule.Confirm">
-    <value xml:space="preserve">Deze module wordt gedeeld door andere sites in de sitegroep. 
-Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&amp;amp;nbsp;&amp;amp;nbsp;Controleer instellingen om te zien welke sites de module delen, Module instellingen&amp;gt;toegevoegd aan pagina.nbsp;&amp;amp;nbsp;Weet u zeker dat u wilt doorgaan en deze module en alle gedeelde exemplaren verwijderen?
-</value>
+    <value xml:space="preserve">Deze module wordt gedeeld door andere sites in de sitegroep. Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.  Controleer instellingen om te zien welke sites de module delen, Module instellingen &gt; toegevoegd aan pagina.  Weet u zeker dat u wilt doorgaan en deze module en alle gedeelde exemplaren verwijderen?</value>
   </data>
   <data name="DeletetUser.Text">
     <value xml:space="preserve">Weet u zeker dat u deze gebruiker wilt verwijderen?</value>
   </data>
   <data name="DeleteUploadFolder.Error">
-    <value xml:space="preserve">Fout bij verwijder vorige upload map</value>
+    <value xml:space="preserve">Fout bij verwijderen van vorige upload map</value>
   </data>
   <data name="DeLocalizeModule.Confirm">
     <value xml:space="preserve">Weet u zeker dat u de vertaling van deze module ongedaan wilt maken?</value>
@@ -396,13 +394,13 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Deze kennisgeving ontslaan</value>
   </data>
   <data name="DisplayEnglish.Text">
-    <value xml:space="preserve">Toon Engelse Naam</value>
+    <value xml:space="preserve">Toon Engelse naam</value>
   </data>
   <data name="DisplayName.Text">
     <value xml:space="preserve">Weergavenaam:</value>
   </data>
   <data name="DisplayNative.Text">
-    <value xml:space="preserve">Toon Lokale Naam</value>
+    <value xml:space="preserve">Toon lokale naam</value>
   </data>
   <data name="DNN_Reading.Text">
     <value xml:space="preserve">DNN bestand lezen</value>
@@ -423,10 +421,10 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">DNN bestand is in correct 2.0 ThemeObject formaat.</value>
   </data>
   <data name="DraftCompleted.Action">
-    <value xml:space="preserve">Schets voltooid</value>
+    <value xml:space="preserve">Concept voltooid</value>
   </data>
   <data name="DraftCompleted.Comment">
-    <value xml:space="preserve">De schets status is voltooid. De inhoud is klaar om te worden gepubliceerd</value>
+    <value xml:space="preserve">De concept status is voltooid. De inhoud is klaar om te worden gepubliceerd</value>
   </data>
   <data name="DropDownList.ClearButtonTooltip">
     <value xml:space="preserve">Leegmaken</value>
@@ -450,7 +448,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Klik om uit te klappen</value>
   </data>
   <data name="DropDownList.SelectFolderDefaultText">
-    <value xml:space="preserve">Selecteer een folder</value>
+    <value xml:space="preserve">Selecteer een map</value>
   </data>
   <data name="DropDownList.SelectUserDefaultText">
     <value xml:space="preserve">Selecteer een gebruiker</value>
@@ -474,7 +472,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">De weergegeven naam is al in gebruik.</value>
   </data>
   <data name="DuplicateSkinObject.Detail">
-    <value xml:space="preserve">Theme's die dit symbool gebruiken zullen het geregistreerde besturingselement gebruiken {0} in plaats van het gespecificeerde duplicaat ({1}).  Dit thema kan verkeerd weergeven worden.</value>
+    <value xml:space="preserve">Thema's die dit symbool gebruiken zullen het geregistreerde besturingselement gebruiken {0} in plaats van het gespecificeerde duplicaat ({1}).  Dit thema kan verkeerd weergeven worden.</value>
   </data>
   <data name="DuplicateSkinObject.Error">
     <value xml:space="preserve">Duplicaat symbool voor skin object wordt genegeerd {0}</value>
@@ -555,7 +553,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Een map moet een 'version' waarde hebben, stoppen</value>
   </data>
   <data name="EXCEPTION_Format.Text">
-    <value xml:space="preserve">Incorrect DNN formaat, stoppen</value>
+    <value xml:space="preserve">Ongeldig DNN formaat, stoppen</value>
   </data>
   <data name="EXCEPTION_InstallerCreate.Text">
     <value xml:space="preserve">Fout bij maken installatie component.</value>
@@ -594,7 +592,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Het versie element is verplicht</value>
   </data>
   <data name="ExpandAll.Text">
-    <value xml:space="preserve">Alles Uitvouwen</value>
+    <value xml:space="preserve">Alles uitvouwen</value>
   </data>
   <data name="FailedRecipient.Text">
     <value xml:space="preserve">Het bericht is niet afgeleverd aan de volgende adres(sen) - {0}</value>
@@ -636,7 +634,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Fout bij verwerken bestand</value>
   </data>
   <data name="FileFormat.Detail">
-    <value xml:space="preserve">{0} bevat geen InhoudsPaneel.</value>
+    <value xml:space="preserve">{0} bevat geen ContentPane.</value>
   </data>
   <data name="FileFormat.Error">
     <value xml:space="preserve">Bestand formaterings fout</value>
@@ -675,13 +673,13 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Bestanden lezen gereed.</value>
   </data>
   <data name="FileUpload.UnzipFileFailedPromptBody.Text">
-    <value xml:space="preserve">&amp;lt;div class="invalidFiles"&amp;gt;&amp;lt;p&amp;gt;[COUNT] van [TOTAL] bestanden zijn niet uitgepakt omdat het bestandstype niet wordt ondersteund:&amp;lt;/p&amp;gt;[FILELIST]&amp;lt;/div&amp;gt;</value>
+    <value xml:space="preserve">&lt;div class="invalidFiles"&gt;&lt;p&gt;[COUNT] van [TOTAL] bestanden zijn niet uitgepakt omdat het bestandstype niet wordt ondersteund:&lt;/p&gt;[FILELIST]&lt;/div&gt;</value>
   </data>
   <data name="FileUpload.UnzipFilePromptTitle.Text">
     <value xml:space="preserve">Unzip Informatie</value>
   </data>
   <data name="FileUpload.UnzipFileSuccessPromptBody.Text">
-    <value xml:space="preserve">&amp;lt;div class="validFiles"&amp;gt;&amp;lt;p&amp;gt;[TOTAL] van [TOTAL] Bestanden zijn succesvol uitgepakt.&amp;lt;/div&amp;gt;</value>
+    <value xml:space="preserve">&lt;div class="validFiles"&gt;&lt;p&gt;[TOTAL] van [TOTAL] Bestanden zijn succesvol uitgepakt.&lt;/div&gt;</value>
   </data>
   <data name="FileWrite.Text">
     <value xml:space="preserve">Bestand schrijven</value>
@@ -759,7 +757,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Geen bestand geüpload</value>
   </data>
   <data name="GlobalRoles.Text">
-    <value xml:space="preserve">&amp;lt; Globale Rollen &amp;gt;</value>
+    <value xml:space="preserve">&lt; Globale rollen &gt;</value>
   </data>
   <data name="GreenSuccess.Text">
     <value xml:space="preserve">Succes</value>
@@ -768,7 +766,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Help </value>
   </data>
   <data name="Home.Text">
-    <value xml:space="preserve">Thuis</value>
+    <value xml:space="preserve">Home</value>
   </data>
   <data name="HostRootFolder.Name">
     <value xml:space="preserve">Host hoofdmap</value>
@@ -795,10 +793,10 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Vriendenverzoek negeren</value>
   </data>
   <data name="InsecureAdmin.Text">
-    <value xml:space="preserve">Uw admin account staat nog steeds ingesteld op het  bekende standaard wachtwoord. Ga nu naar Beheer-&amp;gt; Gebruikersaccounts-menu en het wachtwoord. Daarnaast moet u ervoor zorgen dat u het e-mailadres bijgewerkt naar een geldige waarde.</value>
+    <value xml:space="preserve">Uw admin account staat nog steeds ingesteld op het bekende standaard wachtwoord. Ga nu naar Beheer -&gt; Gebruikersaccounts-menu en het wachtwoord. Daarnaast moet u ervoor zorgen dat u het e-mailadres bijgewerkt naar een geldige waarde.</value>
   </data>
   <data name="InsecureDefaults.Text">
-    <value xml:space="preserve">Beide standaard accounts (Superuser en admin)  gebruiken de bekende standaard wachtwoorden. Ga naar de desbetreffende menu-items (Superuser-&amp;gt; Superuser accounts en Admin-&amp;gt; Gebruikersaccounts) en het actualiseren van de wachtwoorden. Daarnaast moet u ervoor zorgen dat u het e-mailadres bijwerkt.</value>
+    <value xml:space="preserve">Beide standaard accounts (Superuser en admin) gebruiken de bekende standaard wachtwoorden. Ga naar de desbetreffende menu-items (Superuser-&gt; Superuser accounts en Admin-&gt; Gebruikersaccounts) en het actualiseren van de wachtwoorden. Daarnaast moet u ervoor zorgen dat u het e-mailadres bijwerkt.</value>
   </data>
   <data name="InsecureDefaults.Title">
     <value xml:space="preserve">Onveilige gebruikersgegevens</value>
@@ -915,13 +913,13 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Links</value>
   </data>
   <data name="LIBRARY_ReadSuccess.Text">
-    <value xml:space="preserve">Parsed Library Manifest succesvol</value>
+    <value xml:space="preserve">Library Manifest succesvol verwerkt</value>
   </data>
   <data name="LIBRARY_Registered.Text">
     <value xml:space="preserve">Library succssvol geregistreerd - {0}</value>
   </data>
   <data name="LIBRARY_UnRegistered.Text">
-    <value xml:space="preserve">Library geregistratie succesvol ongedaan gemaakt- {0}</value>
+    <value xml:space="preserve">Library registratie succesvol ongedaan gemaakt- {0}</value>
   </data>
   <data name="LoadingSkinToken.Text">
     <value xml:space="preserve">Skin object voor symbool {0} wordt geladen</value>
@@ -1053,7 +1051,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Gemaximaliseerd</value>
   </data>
   <data name="MembersOnly.Text">
-    <value xml:space="preserve">Alleen voor Leden</value>
+    <value xml:space="preserve">Alleen voor leden</value>
   </data>
   <data name="Minimize.Text">
     <value xml:space="preserve">Minimaliseren</value>
@@ -1155,7 +1153,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Fout: {0} is op dit moment niet beschikbaar.</value>
   </data>
   <data name="ModuleVisibleAdministrator.Text">
-    <value xml:space="preserve">Alleen Zichtbaar voor Beheerders</value>
+    <value xml:space="preserve">Alleen zichtbaar voor beheerders</value>
   </data>
   <data name="Month.Text">
     <value xml:space="preserve">Maand</value>
@@ -1173,7 +1171,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">{0} maanden geleden</value>
   </data>
   <data name="MyFolderName.Text">
-    <value xml:space="preserve">Mijn folder</value>
+    <value xml:space="preserve">Mijn map</value>
   </data>
   <data name="New.Text">
     <value xml:space="preserve">Nieuw</value>
@@ -1188,13 +1186,13 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Geen</value>
   </data>
   <data name="None_Specified.Text">
-    <value xml:space="preserve">Geen Gespecificeerd</value>
+    <value xml:space="preserve">Geen gespecificeerd</value>
   </data>
   <data name="NoRecords.Text" lastModified="2015-12-30 07:27:18">
     <value xml:space="preserve">Geen regels om weer te geven</value>
   </data>
   <data name="Not_Specified.Text">
-    <value xml:space="preserve">Niet Gespecificeerd</value>
+    <value xml:space="preserve">Niet gespecificeerd</value>
   </data>
   <data name="OAuthConfigBase_APIKey.Help">
     <value xml:space="preserve">Voer de waarde van de APP ID/API sleutel/consument sleutel u geconfigureerd voor deze verificatie.</value>
@@ -1209,7 +1207,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">APP geheim</value>
   </data>
   <data name="OAuthConfigBase_Enabled.Help">
-    <value xml:space="preserve">Schakel dit selectievakje in om deze verificatieprovider voor deze site</value>
+    <value xml:space="preserve">Vink deze optie aan om de authenticatie provider in te schakelen voor deze site.</value>
   </data>
   <data name="OAuthConfigBase_Enabled.Text">
     <value xml:space="preserve">Ingeschakeld</value>
@@ -1230,7 +1228,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Ingesloten Object niet gevonden</value>
   </data>
   <data name="Ok.Text">
-    <value xml:space="preserve">Oke</value>
+    <value xml:space="preserve">Ok</value>
   </data>
   <data name="OnLine.Text">
     <value xml:space="preserve">Online </value>
@@ -1335,7 +1333,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Website</value>
   </data>
   <data name="PortalTemplate.Error">
-    <value xml:space="preserve">Fout bij verwerken Portal Sjabloon</value>
+    <value xml:space="preserve">Fout bij verwerken Portaal Sjabloon</value>
   </data>
   <data name="PotentialDangerousFile.Text" lastModified="2018-07-20 13:43:15">
     <value xml:space="preserve">Een mogelijk gevaarlijk bestand is toegevoegd aan uw website</value>
@@ -1344,10 +1342,10 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Vorige</value>
   </data>
   <data name="PrivateConfirmationMessage.Text">
-    <value xml:space="preserve">&amp;lt;strong&amp;gt; Een e-mail met uw gegevens is verstuurd naar de beheerder van portal voor verificatie. Zodra uw aanmelding is goedgekeurd zal er een e-mail  worden verzonden naar uw e-mail adres. in de tussentijd kunt u verder browsen op de website door de popup te sluiten.&amp;lt;/strong&amp;gt;</value>
+    <value xml:space="preserve">&lt;strong&gt; Een e-mail met uw gegevens is verstuurd naar de beheerder van portal voor verificatie. Zodra uw aanmelding is goedgekeurd zal er een e-mail worden verzonden naar uw e-mail adres. in de tussentijd kunt u verder browsen op de website door de popup te sluiten.&lt;/strong&gt;</value>
   </data>
   <data name="PrivateMembership.Text">
-    <value xml:space="preserve">&amp;lt;strong&amp;gt; * Opmerking: &amp;lt;/strong&amp;gt; Lidmaatschap van deze website is prive. Als uw account informatie is ingediend, zal de website beheerder in kennis gesteld en uw aanvraag zal worden onderworpen aan een screening procedure. Als uw aanvraag wordt goedgekeurd, ontvangt u melding van uw toegang tot de website.</value>
+    <value xml:space="preserve">&lt;strong&gt;* Opmerking: &lt;/strong&gt; Lidmaatschap van deze website is prive. Als uw account informatie is ingediend, zal de website beheerder in kennis gesteld en uw aanvraag zal worden onderworpen aan een screening procedure. Als uw aanvraag wordt goedgekeurd, ontvangt u melding van uw toegang tot de website.</value>
   </data>
   <data name="ProcessObject.Text">
     <value xml:space="preserve">Verwerken ingesloten object</value>
@@ -1365,7 +1363,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Publiek</value>
   </data>
   <data name="PublicMembership.Text">
-    <value xml:space="preserve">&amp;lt;strong&amp;gt; * Opmerking: &amp;lt;/strong&amp;gt; Lidmaatschap van deze website is publiek. Als uw account informatie is verzonden, dan heeft u onmiddelijk toegang tot de website.</value>
+    <value xml:space="preserve">&lt;strong&gt;* Opmerking: &lt;/strong&gt; Lidmaatschap van deze website is publiek. Als uw account informatie is verzonden, dan heeft u onmiddelijk toegang tot de website.</value>
   </data>
   <data name="PURGE.Log">
     <value xml:space="preserve">Site logboek is succesvol geleegd</value>
@@ -1395,7 +1393,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Er is een onverwachte fout opgetreden tijdens het registreren. Neem alstublieft contact op met een beheerder van deze site voor meer informatie.</value>
   </data>
   <data name="Register.Text">
-    <value xml:space="preserve">Gebruikers Registratie</value>
+    <value xml:space="preserve">Gebruikersregistratie</value>
   </data>
   <data name="REGISTER_Controls.Text">
     <value xml:space="preserve">Controls registreren</value>
@@ -1431,7 +1429,7 @@ Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.&a
     <value xml:space="preserve">Resource niet gevonden</value>
   </data>
   <data name="RestrictedFileType.Text">
-    <value xml:space="preserve">De File {0} is een niet toegestaan bestandstype. Geldige bestandstypen zijn ( {1} ). Neem contact op met uw hosting provider indien u een niet ondersteunt bestandstype naar uw site wilt uploaden.</value>
+    <value xml:space="preserve">Het bestand {0} is een niet toegestaan bestandstype. Geldige bestandstypen zijn ( {1} ). Neem contact op met uw hosting provider indien u een niet ondersteunt bestandstype naar uw site wilt uploaden.</value>
   </data>
   <data name="RestrictFileMail_Body.Text" lastModified="2018-07-23 13:38:47">
     <value xml:space="preserve">&lt;p&gt;Geachte Sitegastheer,&lt;/p&gt;&lt;p&gt;De beveiligingswaarnemer heeft gedetecteerd dat een of meer &lt;b&gt;mogelijk gevaarlijke bestanden &lt;/b&gt;aan uw website zijn toegevoegd. Als u alle toegevoegde bestanden wilt bekijken, controleert u de gebeurtenislogboeken van de site.
@@ -1493,7 +1491,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">Selecteren</value>
   </data>
   <data name="SelectedRole.Text">
-    <value xml:space="preserve">Geselecteerde Rol</value>
+    <value xml:space="preserve">Geselecteerde rol</value>
   </data>
   <data name="SendMail.Error">
     <value xml:space="preserve">Er is een fout opgetreden bij het verzenden van bevestiging e-mails - {0}.  Echter, het gebruiker account is succesvol aangemaakt.</value>
@@ -1559,7 +1557,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">Start uitvoer Sql: {0} bestand</value>
   </data>
   <data name="SQL_BeginUnInstall.Text">
-    <value xml:space="preserve">Sql de[installatie gestart</value>
+    <value xml:space="preserve">Sql deinstallatie gestart</value>
   </data>
   <data name="SQL_Committed.Text">
     <value xml:space="preserve">Sql script succesvol uitgevoerd</value>
@@ -1586,7 +1584,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">Onbekende codering van bestand {0}, stoppen</value>
   </data>
   <data name="StartProcessor.Text">
-    <value xml:space="preserve">Verwerking voor theme/container bestanden initialiseren</value>
+    <value xml:space="preserve">Verwerking voor thema/container bestanden initialiseren</value>
   </data>
   <data name="StateCompleted.Action">
     <value xml:space="preserve">Status voltooid</value>
@@ -1607,7 +1605,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">De Workflow is in de volgende status '[STATE]' </value>
   </data>
   <data name="Substituting.Detail">
-    <value xml:space="preserve">{0}&amp;lt;br&amp;gt;Met: {1}</value>
+    <value xml:space="preserve">{0}&lt;br&gt;Met: {1}</value>
   </data>
   <data name="Substituting.Text">
     <value xml:space="preserve">Vervangen</value>
@@ -1736,7 +1734,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">Uw account is succesvol geverifieerd </value>
   </data>
   <data name="VerifiedMembership.Text">
-    <value xml:space="preserve">&amp;lt;strong&amp;gt; * Opmerking: &amp;lt;/strong&amp;gt; Lidmaatschap van deze website moet worden geverifieerd. Als uw account informatie is verzonden, ontvangt u een e-mail met daarin een unieke verificatie code. De verificatie code nodig zal zijn de eerste keer dat u probeert aan te melden bij de website.</value>
+    <value xml:space="preserve">&lt;strong&gt;* Opmerking: &lt;/strong&gt; Lidmaatschap van deze website moet worden geverifieerd. Als uw account informatie is verzonden, ontvangt u een e-mail met daarin een unieke verificatie code. De verificatie code nodig zal zijn de eerste keer dat u probeert aan te melden bij de website.</value>
   </data>
   <data name="ViewJournal.Text">
     <value xml:space="preserve">Weergave</value>
@@ -1760,13 +1758,13 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">{0} weken geleden</value>
   </data>
   <data name="Wizard.Success.FailureDetail">
-    <value xml:space="preserve">&amp;lt;p&amp;gt; Helaas was er een fout met deze Wizard. Gelieve het onderstaande bericht door te nemen en neem contact op met uw provider. &amp;lt;/ P&amp;gt;</value>
+    <value xml:space="preserve">&lt;p&gt; Helaas was er een fout met deze Wizard. Gelieve het onderstaande bericht door te nemen en neem contact op met uw provider. &lt;/p&gt;</value>
   </data>
   <data name="Wizard.Success.FailureTitle">
     <value xml:space="preserve">Wizard Mislukt:</value>
   </data>
   <data name="Wizard.Success.SuccessDetail">
-    <value xml:space="preserve">&amp;lt;p&amp;gt; Gefeliciteerd. De wizard is voltooid. &amp;lt;/ P&amp;gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Gefeliciteerd. De wizard is voltooid.&lt;/p&gt;</value>
   </data>
   <data name="Wizard.Success.SuccessTitle">
     <value xml:space="preserve">Gefeliciteerd:</value>
@@ -1842,5 +1840,57 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
   </data>
   <data name="Yes.Text">
     <value xml:space="preserve">Ja</value>
+  </data>
+  <data name="CLEANUP_ProcessError.Text">
+    <value>Niet fatale fout bij opschonen van bestanden: {0}</value>
+  </data>
+  <data name="CreatePortalHomeFolderExists.Error">
+    <value>Portaal map {0} is al in gebruik.</value>
+  </data>
+  <data name="DefaultWorkflowState1.OnDiscardMessageBody">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState1.OnDiscardMessageSubject">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState3.OnCompleteMessageBody">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState3.OnCompleteMessageSubject">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState3.OnDiscardMessageBody">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState3.OnDiscardMessageSubject">
+    <value>
+    </value>
+  </data>
+  <data name="EXCEPTION_GlobDotDotNotSupportedInCleanup.Text">
+    <value>".." is not a supported glob feature in the cleanup component, this cleanup was skipped.</value>
+  </data>
+  <data name="File.Text">
+    <value>
+    </value>
+  </data>
+  <data name="InvalidFirstName.Text">
+    <value>De opgegeven voornaam is ongeldig.</value>
+  </data>
+  <data name="InvalidLastName.Text">
+    <value>De opgegeven achternaam is ongeldig.</value>
+  </data>
+  <data name="OAuthConfigBase_HostConfig.Help">
+    <value>Vink deze optie aan om deze configuratie op te slaan op host niveau zodat alle portalen deze configuratie informatie voor de authenticatie provider zullen delen.</value>
+  </data>
+  <data name="OAuthConfigBase_HostConfig.Text">
+    <value>Gebruik Host Configuratie? </value>
+  </data>
+  <data name="VerificationMailSendSuccessful.Text">
+    <value>Verification Mail Send Successful.</value>
   </data>
 </root>

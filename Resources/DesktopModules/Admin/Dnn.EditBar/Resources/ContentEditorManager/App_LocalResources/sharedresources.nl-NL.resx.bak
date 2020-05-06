@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="25% + 50% + 25%.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Drie kolommen 25 - 50 - 25</value>
+  </data>
+  <data name="25% + 75%.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Twee kolommen 25 - 75</value>
+  </data>
+  <data name="33% + 33% + 33%.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Drie kolommen 33 - 33 - 33</value>
+  </data>
+  <data name="50% + 50%.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Twee kolommen 50 - 50</value>
+  </data>
+  <data name="75% + 25%.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Twee kolommen 75 - 25</value>
+  </data>
+  <data name="AddExistingModule.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Bestaande module toevoegen</value>
+  </data>
+  <data name="AddModule.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Module toevoegen</value>
+  </data>
+  <data name="Blank.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Blanco</value>
+  </data>
+  <data name="Cancel.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Annuleren</value>
+  </data>
+  <data name="CancelConfirm.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Weet u zeker dat dat u het toevoegen van deze module aan de pagina wilt annuleren?</value>
+  </data>
+  <data name="Category_All.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Alle</value>
+  </data>
+  <data name="Category_Recommended.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Aanbevolen</value>
+  </data>
+  <data name="CloseLabel.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Sluiten</value>
+  </data>
+  <data name="ConfirmNo.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Nee</value>
+  </data>
+  <data name="ConfirmTitle.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Bevestigen</value>
+  </data>
+  <data name="ConfirmYes.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Ja</value>
+  </data>
+  <data name="ContentLayout.Delete.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Weet u zeker dat u deze opmaak wilt verwijderen?</value>
+  </data>
+  <data name="ContentLayout.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Content opmaak</value>
+  </data>
+  <data name="DeleteModuleConfirm.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Weet u zeker dat u deze module wilt verwijderen?</value>
+  </data>
+  <data name="DiscardLabel.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Uitsluiten</value>
+  </data>
+  <data name="DragTip.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>&amp;lt;p&amp;gt;Voeg module toe:&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Klik en sleep de module naar de gekozen locatie&amp;lt;/p&amp;gt;</value>
+  </data>
+  <data name="EditBarMessageLabel.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>De getoonde wijzigingen zijn niet gepubliceerd</value>
+  </data>
+  <data name="NoModules.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Er zijn geen modules beschikbaar om te gebruiken op deze pagina.</value>
+  </data>
+  <data name="pagePicker_clearButtonTooltip.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Opruimen</value>
+  </data>
+  <data name="pagePicker_loadingResultText.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>...Laden resultaten</value>
+  </data>
+  <data name="pagePicker_resultsText.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Resultaten</value>
+  </data>
+  <data name="pagePicker_searchButtonTooltip.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Zoeken</value>
+  </data>
+  <data name="pagePicker_searchInputPlaceHolder.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Pagina naam</value>
+  </data>
+  <data name="pagePicker_selectedItemCollapseTooltip.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Klik om in te klappen</value>
+  </data>
+  <data name="pagePicker_selectedItemExpandTooltip.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Klik om uit te vouwen</value>
+  </data>
+  <data name="pagePicker_selectItemDefaultText.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>&amp;lt;Geen gespecificeerd&amp;gt;</value>
+  </data>
+  <data name="pagePicker_sortAscendingButtonTitle.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>A-Z</value>
+  </data>
+  <data name="pagePicker_sortAscendingButtonTooltip.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Sorteren in oplopende volgorde</value>
+  </data>
+  <data name="pagePicker_unsortedOrderButtonTooltip.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Verwijder sorteren</value>
+  </data>
+  <data name="pagerPicker_sortDescendingButtonTooltip.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Sorteren in aflopende volgorde</value>
+  </data>
+  <data name="PendingSave.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>U heeft het toevoegen van de module niet afgemaakt, weet u zeker dat u door wilt gaan zonder op te slaan?</value>
+  </data>
+  <data name="PublishLabel.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Publiceren</value>
+  </data>
+  <data name="SearchPlaceHolder.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Zoeken</value>
+  </data>
+  <data name="Service_CopyPermissionError.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Fout onstaan tijdens het kopiëren van toestemmingen naar onderliggende pagina's. </value>
+  </data>
+  <data name="Service_CopyPermissionSuccessful.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Kopiëren toestemmingen naar onderliggende pagina's succesvol.</value>
+  </data>
+  <data name="Service_LayoutNotExist.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>De opmaak is al verwijderd.</value>
+  </data>
+  <data name="Service_ModuleNotExist.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>De module is al verwijderd.</value>
+  </data>
+  <data name="Service_RemoveTabError.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Pagina {0} kan niet worden verwijderd voordat de subpagina's ervan eerst worden verwijderd.&amp;lt;br/&amp;gt;</value>
+  </data>
+  <data name="Service_RemoveTabModuleError.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Fout ontstaan bij het verwijderen van de pagina:&amp;lt;br/&amp;gt;{0}</value>
+  </data>
+  <data name="Service_RestoreModuleError.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Fout herstellen module {0} op pagina {1}. Pagina is verwijderd.</value>
+  </data>
+  <data name="Service_RestoreTabError.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Pagina {0} kan niet worden hersteld totdat de bovenliggende pagina eerst wordt hersteld.&amp;lt;br/&amp;gt;</value>
+  </data>
+  <data name="Service_RestoreTabModuleError.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Fout ontstaan bij het herstellen van de pagina:&amp;lt;br/&amp;gt;{0}</value>
+  </data>
+  <data name="System.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
+    <value>Systeem</value>
+  </data>
+  <data name="MakeCopy.Text">
+    <value>Maak een kopie</value>
+  </data>
+  <data name="Page.Text">
+    <value>Pagina:</value>
+  </data>
+  <data name="Site.Text">
+    <value>Site:</value>
+  </data>
+</root>

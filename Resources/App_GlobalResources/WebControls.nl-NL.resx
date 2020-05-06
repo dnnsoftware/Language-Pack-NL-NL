@@ -31,7 +31,7 @@
     <value xml:space="preserve">Wachtwoord komt niet overeen</value>
   </data>
   <data name="CriteriaAtLeastNChars.Text">
-    <value xml:space="preserve">Ten minste {0} karaters</value>
+    <value xml:space="preserve">Ten minste {0} karakters</value>
   </data>
   <data name="CriteriaAtLeastNSpecialChars.Text" lastModified="2015-12-30 10:38:26">
     <value xml:space="preserve">Ten minste {0} alphanumerieke karakters</value>
@@ -49,7 +49,7 @@
     <value xml:space="preserve">Sluiten</value>
   </data>
   <data name="FileUpload.DecompressingFile.Text">
-    <value xml:space="preserve">Bestandaan het decomprimeren</value>
+    <value xml:space="preserve">Bestand aan het decomprimeren</value>
   </data>
   <data name="FileUpload.DecompressLabel.Text">
     <value xml:space="preserve">Decomprimeer Zipbestanden</value>
@@ -73,7 +73,7 @@
     <value xml:space="preserve">Upload geannuleerd</value>
   </data>
   <data name="FileUpload.FileUploaded.Text">
-    <value xml:space="preserve">Betand geüpload</value>
+    <value xml:space="preserve">Bestand geüpload</value>
   </data>
   <data name="FileUpload.FileUploadFailed.Error">
     <value xml:space="preserve">Upload mislukt</value>
@@ -106,10 +106,10 @@
     <value xml:space="preserve">Bestandsupload gestopt</value>
   </data>
   <data name="FileUpload.UploadToFolderLabel.Text">
-    <value xml:space="preserve">Upload naar:</value>
+    <value xml:space="preserve">Uploaden naar:</value>
   </data>
   <data name="FileUpload.UrlTooltip.Text">
-    <value xml:space="preserve">Voer bron-URL in zoals http://Voorbeeld.com/Img/Over.png</value>
+    <value xml:space="preserve">Voer bron-URL in zoals https://website.nl/Img/Over.png</value>
   </data>
   <data name="Folder.Text">
     <value xml:space="preserve">Map</value>
@@ -127,7 +127,7 @@
     <value xml:space="preserve">U bent niet bevoegd bestanden te bekijken in het bestandsysteem van deze site</value>
   </data>
   <data name="Ok.Text">
-    <value xml:space="preserve">Oke</value>
+    <value xml:space="preserve">Ok</value>
   </data>
   <data name="PasswordRulesBodyText.Text">
     <value xml:space="preserve">Bevat tenminste {0} karakters, 1 hoofdletter, 1 nummer en {1}.</value>

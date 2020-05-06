@@ -43,7 +43,7 @@
     <value xml:space="preserve">Referentie Standaard Cultuur</value>
   </data>
   <data name="unbindModule.Text">
-    <value xml:space="preserve">Loskoppelen van Standaar Taal</value>
+    <value xml:space="preserve">Loskoppelen van standaard taal</value>
   </data>
   <data name="BindConfirm.Text">
     <value xml:space="preserve">Koppelen aan de standaard cultuur versie zal de inhoud uit de subcultuur versies verwijderen. Deze actie is onomkeerbaar. Weet u zeker dat u verder wil gaan?</value>

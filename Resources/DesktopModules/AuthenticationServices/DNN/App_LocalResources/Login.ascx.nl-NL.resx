@@ -28,7 +28,7 @@
     <value xml:space="preserve">Gebruiker bestaat niet</value>
   </data>
   <data name="Email.Text">
-    <value xml:space="preserve">E-mail adres:</value>
+    <value xml:space="preserve">E-mailadres:</value>
   </data>
   <data name="cmdPassword.Text">
     <value xml:space="preserve">Wachtwoord resetten</value>

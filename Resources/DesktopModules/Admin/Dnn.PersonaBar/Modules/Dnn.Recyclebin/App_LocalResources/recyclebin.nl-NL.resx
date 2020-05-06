@@ -13,13 +13,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CanNotDeleteModule.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">U hebt geen rechten om module met id "{0}" te verwijderen.</value>
+    <value xml:space="preserve">U hebt geen rechten om de module met id "{0}" te verwijderen.</value>
   </data>
   <data name="CanNotDeleteTab.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">U hebt geen rechten om pagina met id "{0}" te verwijderen.</value>
+    <value xml:space="preserve">U hebt geen rechten om de pagina met id "{0}" te verwijderen.</value>
   </data>
   <data name="ModuleNotFound.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Module met id "{0}"is niet gevonden op pagina "{1}".</value>
+    <value xml:space="preserve">Module met id "{0}" is niet gevonden op pagina "{1}".</value>
   </data>
   <data name="ModuleNotSoftDeleted.Text" lastModified="2018-07-24 05:28:38">
     <value xml:space="preserve">Moduele met id "{0}" is niet soft-verwijderd.</value>
@@ -225,10 +225,10 @@
     <value xml:space="preserve">De prullenbak is momenteel leeg</value>
   </data>
   <data name="recyclebin_NoModules.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Geen Modules in de Prullenbak</value>
+    <value xml:space="preserve">Geen modules in de Prullenbak</value>
   </data>
   <data name="recyclebin_NoPages.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Geen Pagina's in de Prullenbak</value>
+    <value xml:space="preserve">Geen pagina's in de Prullenbak</value>
   </data>
   <data name="recyclebin_NoUsers.Text">
     <value xml:space="preserve">Geen gebruikers in de Prullenbak</value>
@@ -240,49 +240,49 @@
     <value xml:space="preserve">Pagina's</value>
   </data>
   <data name="recyclebin_RemoveModuleConfirm.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;Bevestig dat u deze module wenst de verwijderen.&amp;lt;/p&amp;gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Bevestig dat u deze module wenst de verwijderen.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RemoveModulesConfirm.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;Bevestig dat u deze modules wenst te verwijderen.&amp;lt;/p&amp;gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Bevestig dat u deze modules wenst te verwijderen.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RemovePageConfirm.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;Bevestig dat u deze pagina wilt verwijderen.&amp;lt;/p&amp;gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Bevestig dat u deze pagina wilt verwijderen.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RemovePagesConfirm.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;Bevestig dat u de geselecteerde pagina's wilt verwijderen.&amp;lt;/p&amp;gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Bevestig dat u de geselecteerde pagina's wilt verwijderen.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RemoveUserConfirm.Text">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;Bevestig dat u deze gebruiker wilt verwijderen.&amp;lt;/p&amp;gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Bevestig dat u deze gebruiker wilt verwijderen.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RemoveUsersConfirm.Text">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;Bevestig dat u de geselecteerd gebruiker wilt verwijderen.&amp;lt;/p&amp;gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Bevestig dat u de geselecteerd gebruiker wilt verwijderen.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_Restore.Text" lastModified="2016-12-01 04:10:27">
     <value xml:space="preserve">Herstellen</value>
   </data>
   <data name="recyclebin_RestoreModuleConfirm.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;Bevestig dat u deze module wilt herstellen.&amp;lt;/p&amp;gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Bevestig dat u deze module wilt herstellen.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RestoreModulesConfirm.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;Bevestig dat u de geselecteerde modules wilt herstellen.&amp;lt;/p&amp;gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Bevestig dat u de geselecteerde modules wilt herstellen.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RestorePageConfirm.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;Bevestig dat u deze pagina wilt herstellen.&amp;lt;/p&amp;gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Bevestig dat u deze pagina wilt herstellen.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RestorePageInvalid.Text" lastModified="2016-12-01 05:21:22">
     <value xml:space="preserve">U moet eerst de ouder pagina herstellen</value>
   </data>
   <data name="recyclebin_RestorePagesConfirm.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;Bevestig dat u de geselecteerde pagina's wilt herstellen.&amp;lt;/p&amp;gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Bevestig dat u de geselecteerde pagina's wilt herstellen.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RestorePagesInvalid.Text" lastModified="2016-12-01 05:21:22">
     <value xml:space="preserve">De pagina's die u probeerde te herstellen zou gelijk de ouder moeten selecteren.</value>
   </data>
   <data name="recyclebin_RestoreUserConfirm.Text">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;Bevestig dat u deze gebruiker wilt herstellen.&amp;lt;/p&amp;gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Bevestig dat u deze gebruiker wilt herstellen.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RestoreUsersConfirm.Text">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;Bevestig dat u de geselecteerde gebruikers wilt herstellen.&amp;lt;/p&amp;gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Bevestig dat u de geselecteerde gebruikers wilt herstellen.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_Title.Text" lastModified="2016-12-01 05:21:22">
     <value xml:space="preserve">Prullenbak</value>
@@ -306,10 +306,10 @@
     <value xml:space="preserve">Een aantal onderdelen zijn niet verwijderd.</value>
   </data>
   <data name="Service_RemoveTabError.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">Pagina {0} kan niet worden verwijderd voordat de subpagina's eerst zijn verwijderd.&amp;lt;br/&amp;gt;</value>
+    <value xml:space="preserve">Pagina {0} kan niet worden verwijderd voordat de subpagina's eerst zijn verwijderd.&lt;br /&gt;</value>
   </data>
   <data name="Service_RemoveTabModuleError.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">Fout onstaan bij het verwijderen van de pagina:&amp;lt;br/&amp;gt;{0}</value>
+    <value xml:space="preserve">Fout onstaan bij het verwijderen van de pagina:&lt;br/&gt;{0}</value>
   </data>
   <data name="Service_RemoveTabParentTabError" lastModified="2018-07-24 05:28:38">
     <value xml:space="preserve">Pagina {0} kan niet worden verwijderd totdat eerst de onderliggende pagina's zijn verwijderd.</value>
@@ -318,16 +318,16 @@
     <value xml:space="preserve">Pagina {0} kan niet worden verwijderd totdat eerst de onderliggende pagina's zijn verwijderd.</value>
   </data>
   <data name="Service_RemoveUserError.Text">
-    <value xml:space="preserve">Er is een fout ontstaan bij het verwijderen van de gebruiker:&amp;lt;br/&amp;gt;{0}</value>
+    <value xml:space="preserve">Er is een fout ontstaan bij het verwijderen van de gebruiker:&lt;br/&gt;{0}</value>
   </data>
   <data name="Service_RestoreModuleError.Text" lastModified="2016-12-01 05:21:22">
     <value xml:space="preserve">Fout herstellen module {0} op pagina {1}. Pagina is verwijderd.</value>
   </data>
   <data name="Service_RestoreTabError.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">Pagina {0} kan niet worden hersteld voordat de ouder eerst is hersteld.&amp;lt;br/&amp;gt;</value>
+    <value xml:space="preserve">Pagina {0} kan niet worden hersteld voordat de ouder eerst is hersteld.&lt;br/&gt;</value>
   </data>
   <data name="Service_RestoreTabModuleError.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">Fout ontstaan bij het herstellen van een pagina:&amp;lt;br/&amp;gt;{0}</value>
+    <value xml:space="preserve">Fout ontstaan bij het herstellen van een pagina:&lt;br/&gt;{0}</value>
   </data>
   <data name="Service_RestoreUserError.Text">
     <value xml:space="preserve">Fout bij herstellen van gebruiker.</value>
