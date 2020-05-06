@@ -247,7 +247,7 @@
     <value xml:space="preserve">Formatteren registratie instructie</value>
   </data>
   <data name="CopyPermissionsToChildren.Text">
-    <value xml:space="preserve">Rechten zullen worden vervangen voor alle dochter pagina's vam deze pagina.&lt;br /&gt;&lt;br /&gt;Weet u zeker dat u door wilt gaag?</value>
+    <value xml:space="preserve">Rechten zullen worden vervangen voor alle dochterpagina's vam deze pagina.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Weet u zeker dat u door wilt gaag?</value>
   </data>
   <data name="CreateAdminUser.Error">
     <value xml:space="preserve">Fout bij aanmaken Beheerder Account</value>
@@ -388,7 +388,7 @@
     <value xml:space="preserve">Het bestand {0} overschrijdt de hoeveelheid schijfruimte die op dit moment voor u beschikbaar is. Neem contact op met uw provider over vragen betreffende de schijfruimte die voor uw website beschikbaar is.</value>
   </data>
   <data name="Dismiss.Text">
-    <value xml:space="preserve">Ontslaan</value>
+    <value xml:space="preserve">Sluiten</value>
   </data>
   <data name="DismissNotification.Text">
     <value xml:space="preserve">Deze kennisgeving ontslaan</value>
@@ -1840,57 +1840,5 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
   </data>
   <data name="Yes.Text">
     <value xml:space="preserve">Ja</value>
-  </data>
-  <data name="CLEANUP_ProcessError.Text">
-    <value>Niet fatale fout bij opschonen van bestanden: {0}</value>
-  </data>
-  <data name="CreatePortalHomeFolderExists.Error">
-    <value>Portaal map {0} is al in gebruik.</value>
-  </data>
-  <data name="DefaultWorkflowState1.OnDiscardMessageBody">
-    <value>
-    </value>
-  </data>
-  <data name="DefaultWorkflowState1.OnDiscardMessageSubject">
-    <value>
-    </value>
-  </data>
-  <data name="DefaultWorkflowState3.OnCompleteMessageBody">
-    <value>
-    </value>
-  </data>
-  <data name="DefaultWorkflowState3.OnCompleteMessageSubject">
-    <value>
-    </value>
-  </data>
-  <data name="DefaultWorkflowState3.OnDiscardMessageBody">
-    <value>
-    </value>
-  </data>
-  <data name="DefaultWorkflowState3.OnDiscardMessageSubject">
-    <value>
-    </value>
-  </data>
-  <data name="EXCEPTION_GlobDotDotNotSupportedInCleanup.Text">
-    <value>".." is not a supported glob feature in the cleanup component, this cleanup was skipped.</value>
-  </data>
-  <data name="File.Text">
-    <value>
-    </value>
-  </data>
-  <data name="InvalidFirstName.Text">
-    <value>De opgegeven voornaam is ongeldig.</value>
-  </data>
-  <data name="InvalidLastName.Text">
-    <value>De opgegeven achternaam is ongeldig.</value>
-  </data>
-  <data name="OAuthConfigBase_HostConfig.Help">
-    <value>Vink deze optie aan om deze configuratie op te slaan op host niveau zodat alle portalen deze configuratie informatie voor de authenticatie provider zullen delen.</value>
-  </data>
-  <data name="OAuthConfigBase_HostConfig.Text">
-    <value>Gebruik Host Configuratie? </value>
-  </data>
-  <data name="VerificationMailSendSuccessful.Text">
-    <value>Verification Mail Send Successful.</value>
   </data>
 </root>

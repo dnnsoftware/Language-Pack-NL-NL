@@ -121,7 +121,7 @@
     <value xml:space="preserve">Weet u zeker dat u wilt sluiten? Wijzigingen zullen verloren gaan. </value>
   </data>
   <data name="CannotCopyPermissionsToDescendantPages.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">U heeft geen toestemming om machtigingen te kopiëren naar onderliggende pagina's</value>
+    <value xml:space="preserve">U heeft geen toestemming om toestemmingen te kopiëren naar onderliggende pagina's</value>
   </data>
   <data name="CannotDeleteSpecialPage.Text" lastModified="2018-07-22 00:10:25">
     <value xml:space="preserve">Een speciale pagina kan niet verwijderd worden.</value>
@@ -145,7 +145,7 @@
     <value xml:space="preserve">Kopieer module</value>
   </data>
   <data name="CopyPermissionsToDescendantPages.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Kopieer machtigingen naar onderliggende Pagina's</value>
+    <value xml:space="preserve">Kopieer Toestemmingen naar onderliggende pagina's</value>
   </data>
   <data name="CopyPermissionsToDescendantPagesSuccess.Text" lastModified="2016-11-29 19:18:02">
     <value xml:space="preserve">Machtigingen zijn succesvol naar onderliggende pagina's gekopieerd</value>
@@ -725,7 +725,7 @@
     &lt;/code&gt;
 
     &lt;h4&gt;Verwijder pagian op naam onder een andere ouder&lt;/h4&gt;
-    &lt;p&gt;OPMERKING: op dit moment staat Prompt niet toe dat u pagina's met kinderen verwijdert&lt;/p&gt;
+    &lt;p&gt;OPMERKING: op dit moment staat Prompt niet toe dat u pagina's met subpagina's verwijdert&lt;/p&gt;
     &lt;code class="block"&gt;
       delete-page --name "test" --parentid 999
     &lt;/code&gt;

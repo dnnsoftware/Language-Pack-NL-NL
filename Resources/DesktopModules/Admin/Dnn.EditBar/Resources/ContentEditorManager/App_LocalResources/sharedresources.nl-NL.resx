@@ -115,7 +115,7 @@
     <value>Zoeken</value>
   </data>
   <data name="Service_CopyPermissionError.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
-    <value>Fout onstaan tijdens het kopiëren van toestemmingen naar onderliggende pagina's. </value>
+    <value>Fout tijdens het kopiëren van toestemmingen naar onderliggende pagina's. </value>
   </data>
   <data name="Service_CopyPermissionSuccessful.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
     <value>Kopiëren toestemmingen naar onderliggende pagina's succesvol.</value>

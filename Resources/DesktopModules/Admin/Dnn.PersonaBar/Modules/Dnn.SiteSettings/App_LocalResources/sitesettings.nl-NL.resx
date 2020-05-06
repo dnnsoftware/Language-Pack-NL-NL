@@ -22,7 +22,7 @@
     <value xml:space="preserve">Actief</value>
   </data>
   <data name="AddAllUnlocalizedPages.Text" lastModified="2016-12-01 01:53:29">
-    <value xml:space="preserve">Toevoegen alle ongelokaliseerde pagina's</value>
+    <value xml:space="preserve">Toevoegen alle niet gelokaliseerde pagina's</value>
   </data>
   <data name="AdminOnly.Text" lastModified="2016-12-01 01:53:29">
     <value xml:space="preserve">Enkel voor de beheerder</value>
@@ -676,7 +676,7 @@
     <value xml:space="preserve">Kies taal</value>
   </data>
   <data name="plLoginTabId.Help" lastModified="2016-12-01 22:00:07">
-    <value xml:space="preserve">De inlog pagina voor uw site. Enkel pagina's met de Account Inlog Module worden opgelijst. </value>
+    <value xml:space="preserve">De inlog pagina voor uw site. Enkel pagina's met de Account Inlog Module worden getoond. </value>
   </data>
   <data name="plLoginTabId.Text" lastModified="2016-12-01 22:00:07">
     <value xml:space="preserve">Inlogpagina</value>
