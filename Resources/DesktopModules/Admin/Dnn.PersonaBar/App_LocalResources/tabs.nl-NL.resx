@@ -25,6 +25,6 @@
     <value>Zichtbaar voor geregistreerde gebruikers</value>
   </data>
   <data name="lblSecure.Text" xml:space="preserve" lastModified="2016-12-01 14:30:35">
-    <value>Enkel zichtbaar voor toegewijde rollen</value>
+    <value>Enkel zichtbaar voor toegekende rollen</value>
   </data>
 </root>

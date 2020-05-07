@@ -19,7 +19,7 @@
     <value xml:space="preserve">Laad meer</value>
   </data>
   <data name="CriticalUpdate.Text">
-    <value xml:space="preserve">[ Kritieke Update ]</value>
+    <value xml:space="preserve">[ Kritieke update ]</value>
   </data>
   <data name="Documentation.Text">
     <value xml:space="preserve">Documentatie</value>
@@ -28,7 +28,7 @@
     <value xml:space="preserve">Waarde kan enkel tussen Min waarde en Max waarde in zijn</value>
   </data>
   <data name="err_Email.Text" lastModified="2016-12-01 07:55:47">
-    <value xml:space="preserve">Enkel geldige email is toegestaan</value>
+    <value xml:space="preserve">Alleen een geldig e-mailadres is toegestaan</value>
   </data>
   <data name="err_Minimum.Text" lastModified="2016-12-01 07:55:47">
     <value xml:space="preserve">Tekst moet minstens {0} karakters hebben</value>
@@ -46,7 +46,7 @@
     <value xml:space="preserve">Negatieve aantallen zijn niet toegestaan</value>
   </data>
   <data name="err_NoUserFolder.Text" lastModified="2016-12-01 07:55:47">
-    <value xml:space="preserve">{0} bezit geen activa</value>
+    <value xml:space="preserve">{0} bezit geen bestanden.</value>
   </data>
   <data name="err_Number.Text" lastModified="2016-12-01 07:55:47">
     <value xml:space="preserve">Enkel nummers zijn toegestaan</value>
@@ -112,7 +112,7 @@
     <value xml:space="preserve">Bekijk site</value>
   </data>
   <data name="nav_SiteAssets.Text" lastModified="2016-12-01 09:00:35">
-    <value xml:space="preserve">Site Assets</value>
+    <value xml:space="preserve">Bestandsbeheer</value>
   </data>
   <data name="nav_Tasks.Text" lastModified="2016-12-01 09:00:35">
     <value xml:space="preserve">Taken</value>
@@ -127,16 +127,16 @@
     <value xml:space="preserve">Acties</value>
   </data>
   <data name="permissiongrid.Add Content.Text" lastModified="2016-12-01 09:00:35">
-    <value xml:space="preserve">Toevoegen Content</value>
+    <value xml:space="preserve">Content toevoegen</value>
   </data>
   <data name="permissiongrid.Add User.Text" lastModified="2016-12-01 09:00:35">
-    <value xml:space="preserve">Toevoegen Gebruiker</value>
+    <value xml:space="preserve">Gebruiker toevoegen</value>
   </data>
   <data name="permissiongrid.Add.Text" lastModified="2016-12-01 09:00:35">
     <value xml:space="preserve">Toevoegen</value>
   </data>
   <data name="permissiongrid.AllRoles.Text" lastModified="2016-12-01 09:00:35">
-    <value xml:space="preserve">&amp;lt;Alle Rollen&amp;gt;</value>
+    <value xml:space="preserve">&lt;Alle rollen&gt;</value>
   </data>
   <data name="permissiongrid.Copy.Text" lastModified="2016-12-01 09:00:35">
     <value xml:space="preserve">Kopieren</value>
@@ -145,10 +145,10 @@
     <value xml:space="preserve">Verwijderen</value>
   </data>
   <data name="permissiongrid.Display Name.Text" lastModified="2016-12-01 09:00:35">
-    <value xml:space="preserve">Weergave naam:</value>
+    <value xml:space="preserve">Weergavenaam:</value>
   </data>
   <data name="permissiongrid.Edit Content.Text" lastModified="2016-12-01 09:00:35">
-    <value xml:space="preserve">Bewerken content</value>
+    <value xml:space="preserve">Bewerk content</value>
   </data>
   <data name="permissiongrid.Edit Tab.Text" lastModified="2016-12-01 09:00:35">
     <value xml:space="preserve">Volledige besturing</value>
@@ -163,7 +163,7 @@
     <value xml:space="preserve">Filteren op groep</value>
   </data>
   <data name="permissiongrid.GlobalRoles.Text" lastModified="2016-12-01 09:00:35">
-    <value xml:space="preserve">&amp;lt;Globale Rollen&amp;gt;</value>
+    <value xml:space="preserve">&lt;Globale rollen&gt;</value>
   </data>
   <data name="permissiongrid.Import.Text" lastModified="2016-12-01 09:00:35">
     <value xml:space="preserve">Importeren</value>
@@ -190,7 +190,7 @@
     <value xml:space="preserve">Weergeven</value>
   </data>
   <data name="ServerName.Text">
-    <value xml:space="preserve">Server Naam</value>
+    <value xml:space="preserve">Servernaam</value>
   </data>
   <data name="title_Tasks.Text" lastModified="2016-12-01 09:00:35">
     <value xml:space="preserve">Taken</value>
@@ -206,5 +206,9 @@
   </data>
   <data name="UpgradeLicense.Text">
     <value xml:space="preserve">[ Upgrade naar Evoq ]</value>
+  </data>
+  <data name="nav_Accounts.Text">
+    <value>
+    </value>
   </data>
 </root>

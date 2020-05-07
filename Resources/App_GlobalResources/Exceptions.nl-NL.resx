@@ -19,7 +19,7 @@
     <value xml:space="preserve">De inhoud van '{0}' is niet geldig. Het bestand is niet toegevoegd.</value>
   </data>
   <data name="AddFileNoSpaceAvailable.Text">
-    <value xml:space="preserve">De portal heeft geen ruimte ter beschikking om het opgegeven bestand op te slaan. Het bestand is niet toegevoegd.</value>
+    <value xml:space="preserve">Het portaal heeft geen ruimte ter beschikking om het opgegeven bestand op te slaan. Het bestand is niet toegevoegd.</value>
   </data>
   <data name="AddFilePermissionsNotMet.Text">
     <value xml:space="preserve">De juiste machtigingen ontbreken. Het bestand is niet toegevoegd.</value>
@@ -133,7 +133,7 @@
     <value xml:space="preserve">Het opgegeven bestand is geen zip-bestand.</value>
   </data>
   <data name="IPAddressIncorrect.Text" lastModified="2018-07-20 14:39:45">
-    <value xml:space="preserve">Het IP-adres is niet het correcte formaat</value>
+    <value xml:space="preserve">Het IP-adres is niet in het correcte formaat</value>
   </data>
   <data name="JsonContentTypeInvalid.Text" lastModified="2015-12-30 05:35:53">
     <value xml:space="preserve">Het contenttypeid dat gespecificeerd staat in het json document - {0} -  bestaat niet.</value>
@@ -401,5 +401,11 @@
   </data>
   <data name="WriteFileToResponsePermissionsNotMet.Text">
     <value xml:space="preserve">De juiste machtigingen ontbreken. Het bestand kan niet worden gedownload.</value>
+  </data>
+  <data name="AddFilenameNotAllowed.Text">
+    <value>De bestandsnaam '{0}' is niet toegestaan. Het bestand is niet toegevoegd.</value>
+  </data>
+  <data name="AddFolderNotAllowed.Text">
+    <value>Het pad '{0}' is niet toegestaan.  De map is niet toegevoegd.</value>
   </data>
 </root>
