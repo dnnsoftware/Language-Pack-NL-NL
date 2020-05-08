@@ -817,7 +817,7 @@ Link naar wachtwoord reset pagina:  [Portal:PASSWORDREMINDERURL]?ctl=PasswordRes
 Met vriendelijke groet,
 [Portal:PortalName]
 
-*NB: als u uw geen wachtwoord herstel heeft opgevraagd, dan kunt u dit bericht negeren</value>
+*NB: als u uw geen wachtwoord herstel heeft opgevraagd, dan kunt u dit bericht negeren.</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] Wachtwoord opvragen</value>
@@ -832,13 +832,13 @@ Het wachtwoord kan worden gereset nadat het account is goedgekeurd.
 Met vriendelijk groet,
 [Portal:PortalName]
 
-*Opmerking: Als je geen wachtwoord reset link heeft aangevraag verwijder dan dit bericht.</value>
+*Opmerking: Als je geen wachtwoord reset link hebt aangevraagd, verwijder dan dit bericht.</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] wachtwoord herinnering</value>
   </data>
   <data name="EMAIL_PASSWORD_UPDATED_BODY.Text" xml:space="preserve">
-    <value>Geachte [User:DisplayName]], 
+    <value>Geachte [User:DisplayName], 
 	
 	Uw wachtwoord voor [Portal:PortalName] is veranderd. 
 	
@@ -847,7 +847,7 @@ Met vriendelijk groet,
 	Met vriendelijke groet,[Portal:PortalName]</value>
   </data>
   <data name="EMAIL_PASSWORD_UPDATED_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Password bijgewerkt</value>
+    <value>[Portal:PortalName] Wachtwoord bijgewerkt</value>
   </data>
   <data name="EMAIL_PORTAL_SIGNUP_BODY.Text" xml:space="preserve">
     <value>Beste [User:FullName],
@@ -884,7 +884,7 @@ Sincerely,
   <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text" xml:space="preserve">
     <value>Beste [User:FullName],
 
-De toegangsrollen van uw gebruikersaccount voor de [Portal:PortalName] website is recentelijk aangepast, en bevat nu ook deze rol:
+De toegangsrollen van uw gebruikersaccount voor de [Portal:PortalName] website zijn recentelijk aangepast, en bevat nu ook deze rol:
 
 Rol: [Custom:0]
 Beschrijving: [Custom:1]
@@ -971,7 +971,7 @@ Email: [User:Email]</value>
   <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text" xml:space="preserve">
     <value>Beste  [User:DisplayName],
 
-Dank u voor uw registratie voor de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+Dank u voor uw registratie voor de [Portal:PortalName] website. Lees de volgende informatie aandachtig en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
 
 Website Adres: [Portal:URL]
 Gebruikersnaam: [User:UserName]
@@ -1473,7 +1473,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Omhoog</value>
   </data>
   <data name="NativeName.Text" xml:space="preserve">
-    <value>Oorspronkelijke Naam</value>
+    <value>Oorspronkelijke naam</value>
   </data>
   <data name="NeutralCulture.Text" xml:space="preserve">
     <value>Neutrale taal</value>
@@ -1497,7 +1497,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Afdrukken</value>
   </data>
   <data name="PurgeCacheUnsupported.Text" xml:space="preserve">
-    <value>Deze caching provider gebruikt the PurgeCache functionaliteit niet</value>
+    <value>Deze caching provider gebruikt the PurgeCache functionaliteit niet.</value>
   </data>
   <data name="ReflectionPermission.Text" xml:space="preserve">
     <value>Deze extensie vereist reflectie rechten.</value>
@@ -1509,16 +1509,16 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Heeft relatie verwijderd {0} : ID {1}</value>
   </data>
   <data name="Relationship_Updated.Text" xml:space="preserve">
-    <value>Geüpdate Relatie {0}</value>
+    <value>Geüpdate Relatie: {0}</value>
   </data>
   <data name="RelationshipType_Added.Text" xml:space="preserve">
-    <value>RelatieType Toegevoegd {0}</value>
+    <value>RelatieType Toegevoegd: {0}</value>
   </data>
   <data name="RelationshipType_Deleted.Text" xml:space="preserve">
     <value>RelatieType Verwijderd {0} : ID {1}</value>
   </data>
   <data name="RelationshipType_Updated.Text" xml:space="preserve">
-    <value>Geüpdate RelatieType {0}</value>
+    <value>Geüpdate RelatieType: {0}</value>
   </data>
   <data name="Return.Text" xml:space="preserve">
     <value>Terug naar website</value>
@@ -1584,7 +1584,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Open bestanden in map</value>
   </data>
   <data name="View Tab.Permission" xml:space="preserve">
-    <value>Pagina Weergave</value>
+    <value>Paginaweergave</value>
   </data>
   <data name="View.Permission" xml:space="preserve">
     <value>Module bekijken</value>
