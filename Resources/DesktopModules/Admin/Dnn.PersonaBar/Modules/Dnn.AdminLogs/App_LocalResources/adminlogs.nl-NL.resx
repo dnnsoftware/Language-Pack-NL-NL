@@ -88,7 +88,7 @@
     <value xml:space="preserve">De log instelling kan niet worden ge-update. Probeer later nog eens.</value>
   </data>
   <data name="ControlTitle_.Text" lastModified="2016-11-30 07:51:44">
-    <value xml:space="preserve">Evenement weergave</value>
+    <value xml:space="preserve">Log weergave</value>
   </data>
   <data name="ControlTitle_edit.Text" lastModified="2016-11-30 07:51:44">
     <value xml:space="preserve">Bewerken log instellingen</value>
@@ -109,7 +109,7 @@
     <value xml:space="preserve">Geldige email is vereist.</value>
   </data>
   <data name="EmailFailure.Text" lastModified="2016-11-30 07:51:44">
-    <value xml:space="preserve">Uw email is &amp;lt;b&amp;gt;niet&amp;lt;/b&amp;gt; verzonden.</value>
+    <value xml:space="preserve">Uw email is &lt;b&gt;niet&lt;/b&gt; verzonden.</value>
   </data>
   <data name="EmailSettings.Text" lastModified="2016-11-30 07:51:44">
     <value xml:space="preserve">Email notificatie instellingen</value>
@@ -118,16 +118,16 @@
     <value xml:space="preserve">Uw email is verzonden.</value>
   </data>
   <data name="EntriesPerPage.Text" lastModified="2016-11-30 07:51:44">
-    <value xml:space="preserve">entries per pagina</value>
+    <value xml:space="preserve">items per pagina</value>
   </data>
   <data name="ExceptionCode.Text" lastModified="2016-11-30 07:51:44">
     <value xml:space="preserve">Uitzondering</value>
   </data>
   <data name="ExceptionsWarning.Text" lastModified="2016-11-30 07:51:44">
-    <value xml:space="preserve">&amp;lt;b&amp;gt;Let op&amp;lt;/b&amp;gt;: Door het gebruik van onderstaande kenmerken, &amp;lt;i&amp;gt;zou&amp;lt;/i&amp;gt; het kunnen dat u gevoelige data verstuurt over het internet in duidelijke tekst (&amp;lt;i&amp;gt;not&amp;lt;/i&amp;gt; encrypted). Voor het versturen van deze uitzondering, herzie de inhoud van uw log entry om te checken of er geen gevoelige data in staat. Enkel de log entries die gecontroleerd zijn worden verstuurd.</value>
+    <value xml:space="preserve">&lt;b&gt;Let op&lt;/b&gt;: Door het gebruik van onderstaande kenmerken, &lt;i&gt;zou&lt;/i&gt; het kunnen dat u gevoelige data verstuurt over het internet in duidelijke tekst (&lt;i&gt;not&lt;/i&gt; encrypted). Voor het versturen van deze uitzondering, herzie de inhoud van uw log entry om te checken of er geen gevoelige data in staat. Enkel de log entries die gecontroleerd zijn worden verstuurd.</value>
   </data>
   <data name="FailureCode.Text" lastModified="2016-11-30 09:23:19">
-    <value xml:space="preserve">Operatie falen</value>
+    <value xml:space="preserve">Operatie mislukt</value>
   </data>
   <data name="False.Text" lastModified="2016-11-30 09:23:19">
     <value xml:space="preserve">Onwaar</value>

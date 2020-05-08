@@ -64,7 +64,7 @@
     <value xml:space="preserve">[ITEMS] items</value>
   </data>
   <data name="ItemsOnPage.Text">
-    <value xml:space="preserve">[ITEMS] items on [PAGES] pages</value>
+    <value xml:space="preserve">[ITEMS] items op [PAGES] pagina's</value>
   </data>
   <data name="OneItem.Text">
     <value xml:space="preserve">1 item</value>

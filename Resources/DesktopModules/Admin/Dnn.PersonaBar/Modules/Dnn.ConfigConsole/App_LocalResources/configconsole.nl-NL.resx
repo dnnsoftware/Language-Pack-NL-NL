@@ -16,22 +16,22 @@
     <value>Nee</value>
   </data>
   <data name="cmdExecute.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
-    <value>Uitvoeren samenvoegen</value>
+    <value>Samenvoegen</value>
   </data>
   <data name="cmdLoad.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
     <value>Laden</value>
   </data>
   <data name="cmdSave.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
-    <value>Opslaan wijzigingen</value>
+    <value>Wijzigingen opslaan</value>
   </data>
   <data name="cmdUpload.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
-    <value>Uploaden XML samenvoeging script</value>
+    <value>XML samenvoeg script uploaden</value>
   </data>
   <data name="ConfigConsole.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
     <value>Configuratie beheer</value>
   </data>
   <data name="ConfigFilesTab.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
-    <value>Config bestanden</value>
+    <value>Configuratie bestanden</value>
   </data>
   <data name="Configuration.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
     <value>Bestanden</value>
@@ -40,7 +40,7 @@
     <value>Configuratie beheer</value>
   </data>
   <data name="ERROR_ConfigurationFormat.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
-    <value>Uw configuratie bestand is geen geldig XML bestand. Corrigeer het format probleem en probeer opnieuw. {0}</value>
+    <value>Uw configuratie bestand is geen geldig XML bestand. Corrigeer het formaat probleem en probeer opnieuw. {0}</value>
   </data>
   <data name="ERROR_Merge.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
     <value>Het systeem heeft een fout ontdekt bij het toepassen van de speciefieke configuratie wijzigingen. Herzie de evenement log voor fout details.</value>
@@ -55,16 +55,16 @@
     <value>Waarschuwing: U zal uw huidige wijzigingen verliezen als u een nieuw config. bestand laadt.</value>
   </data>
   <data name="Merge.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
-    <value>Samenvoegen Scripts</value>
+    <value>Scripts samenvoegen</value>
   </data>
   <data name="MergeConfirm.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
     <value>Weet u zeker dat u deze wijzigingen wilt samenvoegen naar dit config bestand?</value>
   </data>
   <data name="MergeScriptsTab.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
-    <value>Samenvoegen Scripts</value>
+    <value>Scripts samenvoegen</value>
   </data>
   <data name="nav_ConfigConsole.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
-    <value>Config beheer</value>
+    <value>Configuratie beheer</value>
   </data>
   <data name="plConfig.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
     <value>Configuratie bestand</value>
@@ -73,13 +73,13 @@
     <value>- Selecteer een config bestand om te bewerken -</value>
   </data>
   <data name="plScript.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
-    <value>Samenvoegen Script</value>
+    <value>Script samenvoegen</value>
   </data>
   <data name="plScriptNote.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
     <value>*Noot:</value>
   </data>
   <data name="plScriptNoteDesc.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
-    <value>Eenmail ge-upload, kunt u het script bewerken in onderstaand veld voor het uitvoeren ervan.</value>
+    <value>Eenmaal ge-upload, kunt u het script hieronder bewerken voordat u het uitvoert.</value>
   </data>
   <data name="SaveButton.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
     <value>Ja</value>
@@ -100,6 +100,6 @@
     <value>Selecteer een config bestand...</value>
   </data>
   <data name="Success.Text" xml:space="preserve" lastModified="2016-11-30 10:43:08">
-    <value>De wijzigingen zijn succesvol gemaakt.</value>
+    <value>De wijzigingen zijn succesvol doorgevoerd.</value>
   </data>
 </root>

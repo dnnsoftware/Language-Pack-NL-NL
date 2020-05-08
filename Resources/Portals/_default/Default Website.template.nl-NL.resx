@@ -16,7 +16,7 @@
     <value xml:space="preserve">Standaard Website</value>
   </data>
   <data name="PortalDescription.Text">
-    <value xml:space="preserve">Standaard Website Template</value>
+    <value xml:space="preserve">Standaard Website sjabloon</value>
   </data>
   <data name="RoleGroup.Description.Text">
     <value xml:space="preserve">Een dummy rolgroep die de globale rollen vertegenwoordigd</value>
@@ -25,19 +25,19 @@
     <value xml:space="preserve">nl-NL</value>
   </data>
   <data name="Setting.FooterText.Text">
-    <value xml:space="preserve">Copyright [year] DNN Corp</value>
+    <value xml:space="preserve">Copyright [year]</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Content.Text">
-    <value xml:space="preserve">Sorry, De gevraaagde pagina kan niet worden gevonden en kan zijn verwijderd, is hernoemd, of is tijdelijk niet beschikbaar. U kunt het vanaf de Home pagina opnieuw proberen.  Neem contact met ons op als dit probleem blijft aanhouden.</value>
+    <value xml:space="preserve">Helaas, de pagina waar u naar zocht is op dit moment niet beschikbaar. Ga naar de startpagina en probeer het opnieuw. Of neem contact met ons op als u niet kunt vinden wat u zoekt.</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Title.Text">
-    <value xml:space="preserve">De gevraagde pagina kan niet worden gevonden</value>
+    <value xml:space="preserve">Pagina kan niet worden gevonden</value>
   </data>
   <data name="Tab.404ErrorPage.Content.Text">
-    <value xml:space="preserve">404 Error Pagina</value>
+    <value xml:space="preserve">404 Fout pagina</value>
   </data>
   <data name="Tab.404ErrorPage.Title.Text">
-    <value xml:space="preserve">404 Error Pagina</value>
+    <value xml:space="preserve">404 Fout pagina</value>
   </data>
   <data name="Tab.ActivityFeed.CenterPane.JournalModule.Title.Text">
     <value xml:space="preserve">Dagboek</value>
@@ -46,7 +46,7 @@
     <value xml:space="preserve">Bekijk profiel</value>
   </data>
   <data name="Tab.ActivityFeed.Content.Text">
-    <value xml:space="preserve">Activiteitentoevoer</value>
+    <value xml:space="preserve">Activiteiten</value>
   </data>
   <data name="Tab.ActivityFeed.FooterCenterPane.Module.Content.0.Text">
     <value xml:space="preserve">Geschiedenis</value>
@@ -187,7 +187,7 @@
     <value xml:space="preserve">Bestandsbeheer</value>
   </data>
   <data name="Tab.DigitalAssetsManagement.Description.Text">
-    <value xml:space="preserve">Beheer assets binnen het portaal.</value>
+    <value xml:space="preserve">Beheer bestanden binnen het portaal.</value>
   </data>
   <data name="Tab.DigitalAssetsManagement.Name.Text">
     <value xml:space="preserve">Bestandsbeheer</value>

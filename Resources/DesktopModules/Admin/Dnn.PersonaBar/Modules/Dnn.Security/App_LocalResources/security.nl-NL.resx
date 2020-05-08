@@ -25,7 +25,7 @@
     <value xml:space="preserve">Toestaan</value>
   </data>
   <data name="AsyncTimeout.ErrorMessage" lastModified="2016-11-27 00:14:55">
-    <value xml:space="preserve">Tijd voor timeout moet een numerieke waarde zijn die gelijk zijn of groter dan 90 en kleiner dan 10000.</value>
+    <value xml:space="preserve">Tijd voor timeout moet een numerieke waarde zijn die gelijk is of groter dan 90 en kleiner dan 10000.</value>
   </data>
   <data name="AuditChecks.Text" lastModified="2016-11-27 00:14:55">
     <value xml:space="preserve">Audit controles</value>
@@ -295,7 +295,7 @@
     <value xml:space="preserve">Aangepast</value>
   </data>
   <data name="DatabaseInstance.Text" lastModified="2016-11-27 20:02:31">
-    <value xml:space="preserve">DATABASE INSTANCE</value>
+    <value xml:space="preserve">DATABASE INSTANTIE</value>
   </data>
   <data name="DatabaseValue.Text" lastModified="2016-11-27 20:02:31">
     <value xml:space="preserve">WAARDE</value>
@@ -397,7 +397,7 @@
     <value xml:space="preserve">Laatste activiteit datum</value>
   </data>
   <data name="LastActivityDate.Text" lastModified="2016-11-28 08:30:20">
-    <value xml:space="preserve">LAATSTE ACTIVITEITES DATUM</value>
+    <value xml:space="preserve">LAATSTE ACTIVITEIT DATUM</value>
   </data>
   <data name="LastLogin.Header" lastModified="2016-11-28 08:30:20">
     <value xml:space="preserve">Laatste login</value>
@@ -412,7 +412,7 @@
     <value xml:space="preserve">Achternaam</value>
   </data>
   <data name="LastWriteTime.Text" lastModified="2016-11-28 09:30:51">
-    <value xml:space="preserve">LAATSTE MODIFICATIE DATUM</value>
+    <value xml:space="preserve">LAATST AANGEPAST DATUM</value>
   </data>
   <data name="LoginSettingsRestoreWarning.Text" lastModified="2016-11-28 10:32:23">
     <value xml:space="preserve">Weet u zeker dat u de aanpassingen wilt annuleren?</value>
@@ -466,7 +466,7 @@
     <value xml:space="preserve">Tool zal alle bestanden in uw systeem indexeren en de recent aangepaste bestanden weergeven. Dit kan enige tijd duren bij een website met veel bestanden.</value>
   </data>
   <data name="ModifiedSettings.Text" lastModified="2016-11-28 22:45:45">
-    <value xml:space="preserve">Recent gemodificeerde instellingen</value>
+    <value xml:space="preserve">Recent aangepaste instellingen</value>
   </data>
   <data name="ModuleId.Text" lastModified="2018-07-24 15:00:42">
     <value xml:space="preserve">MODULE-ID</value>
@@ -487,7 +487,7 @@
     <value xml:space="preserve">U heeft de vereis unieke weergavenaam optie geselecteerd maar u heeft niet het weergavenaam veld in de lijst van velden opgenomen.</value>
   </data>
   <data name="NoEmail.Text" lastModified="2016-11-29 00:48:41">
-    <value xml:space="preserve">Het "Email" veld, moet mininmaal zijn ingesloten.</value>
+    <value xml:space="preserve">Het "E-mail" veld, moet minimaal zijn ingesloten.</value>
   </data>
   <data name="NoFileResults.Text" lastModified="2016-11-29 01:50:34">
     <value xml:space="preserve">Zoekterm is niet gevonden in een bestand</value>
@@ -514,13 +514,13 @@
     <value xml:space="preserve">Instellingen zijn bijgewerkt.</value>
   </data>
   <data name="Pass.Text" lastModified="2016-11-29 02:52:28">
-    <value xml:space="preserve">PASS</value>
+    <value xml:space="preserve">OK</value>
   </data>
   <data name="PasswordAttemptWindowTitle.Help" lastModified="2016-11-29 02:52:28">
     <value xml:space="preserve">Specificeert de lengte van de tijd dat een account wordt geblokkeerd als het wachtwoord te vaak verkeerd is ingevoerd. Dit kan alleen worden ingesteld in de web.config.</value>
   </data>
   <data name="PasswordAttemptWindowTitle.Text" lastModified="2016-11-29 03:52:40">
-    <value xml:space="preserve">Password poging scherm</value>
+    <value xml:space="preserve">Wachtwoord poging scherm</value>
   </data>
   <data name="PasswordConfig_PasswordExpiry.Help" lastModified="2016-11-29 04:54:00">
     <value xml:space="preserve">Vul het aantal dagen waarna de gebruiker zijn wachtwoord moet wijzigen. Vul een 0 in als het wachtwoord nooit verloopt.</value>
@@ -593,12 +593,6 @@
   </data>
   <data name="plDebugMode.Text" lastModified="2018-07-24 15:00:42">
     <value xml:space="preserve">Foutopsporingsmodus</value>
-  </data>
-  <data name="plDisplayCopyright.Help" lastModified="2018-07-24 15:00:42">
-    <value xml:space="preserve">Vink dit selectievakje aan om de DNN-auteursrechtcredits toe te voegen aan de paginabron.</value>
-  </data>
-  <data name="plDisplayCopyright.Text" lastModified="2018-07-24 15:00:42">
-    <value xml:space="preserve">Toon auteursrechtcredits</value>
   </data>
   <data name="plEnableBannedList.Help" lastModified="2016-11-30 04:31:04">
     <value xml:space="preserve">Vink deze optie aan om een wachtwoord te controleren tegenover een lijst met verboden onderdelen.</value>
@@ -802,16 +796,16 @@
     <value xml:space="preserve">Gebruik Authenticatie providers</value>
   </data>
   <data name="Registration_UseEmailAsUserName.Help" lastModified="2016-12-01 17:19:28">
-    <value xml:space="preserve">Vink deze optie aan om het emailadres te gebruiken als gebruikersnaam. Als deze optie actief is dan zal het gebruikersnaamveld niet worden getoond op het registratiescherm.</value>
+    <value xml:space="preserve">Vink deze optie aan om het e-mailadres te gebruiken als gebruikersnaam. Als deze optie actief is dan zal het gebruikersnaam veld niet worden getoond op het registratiescherm.</value>
   </data>
   <data name="Registration_UseEmailAsUserName.Text" lastModified="2016-12-01 17:19:28">
-    <value xml:space="preserve">Gebruik Emailadres als gebruikersnaam</value>
+    <value xml:space="preserve">Gebruik e-mailadres als gebruikersnaam</value>
   </data>
   <data name="Registration_UseProfanityFilter.Help" lastModified="2016-12-01 18:21:22">
-    <value xml:space="preserve">Vink deze optie aan om een heiligschennis filter te gebruiken voor gebruikersnamen en weergavenaam velden tijdens de registratie.</value>
+    <value xml:space="preserve">Vink deze optie aan om een verboden woorden filter te gebruiken voor gebruikersnamen en weergavenaam velden tijdens de registratie.</value>
   </data>
   <data name="Registration_UseProfanityFilter.Text" lastModified="2016-12-01 19:21:41">
-    <value xml:space="preserve">Gebruik heiligschennis filter</value>
+    <value xml:space="preserve">Gebruik verboden woorden filter</value>
   </data>
   <data name="registrationFieldsLabel.Help" lastModified="2016-12-01 23:28:15">
     <value xml:space="preserve">Je kunt een comma gescheiden lijst opgeven van velden die je mee wilt geven. Als deze instelling wordt gebruikt, overschrijft dit de andere instellingen. De mogelijke velden zijn onderandere gebuikersnaam, email, wachtwoord, bevestig wachtwoord, weergavenaam en alle profiel eigenschappen.</value>
@@ -850,10 +844,10 @@
     <value xml:space="preserve">Vereist vraag en antwoord</value>
   </data>
   <data name="RequiresUniqueEmail.Help" lastModified="2016-12-02 06:34:57">
-    <value xml:space="preserve">Vink deze optie aan als iedere gebruik een uniek emailadres moet invoeren. dit voorkomt dat gebruikers zich meerdere keren registreren met hetzelfde emailadres.</value>
+    <value xml:space="preserve">Vink deze optie aan als iedere gebruik een uniek e-mailadres moet invoeren. dit voorkomt dat gebruikers zich meerdere keren registreren met hetzelfde e-mailadres.</value>
   </data>
   <data name="RequiresUniqueEmail.Text" lastModified="2016-12-01 20:25:26">
-    <value xml:space="preserve">Vereis uniek emailadres</value>
+    <value xml:space="preserve">Vereis uniek e-mailadres</value>
   </data>
   <data name="Result.Header" lastModified="2016-12-01 20:25:26">
     <value xml:space="preserve">Resultaat</value>
@@ -871,7 +865,7 @@
     <value xml:space="preserve">Zoek in bestandssysteem en database</value>
   </data>
   <data name="SearchDatabaseResult.Text" lastModified="2016-12-01 20:25:26">
-    <value xml:space="preserve">Database: {0} instances gevonden</value>
+    <value xml:space="preserve">Database: {0} instanties gevonden</value>
   </data>
   <data name="SearchFileSystemResult.Text" lastModified="2016-12-01 20:25:26">
     <value xml:space="preserve">Bestandssyteem: {0} bestanden gevonden</value>
@@ -892,7 +886,7 @@
     <value xml:space="preserve">Vink deze optie aan om CAPTCHA te gebruiken voor het associëren van logins, OpenID, LiveID, Cardspace</value>
   </data>
   <data name="Security_CaptchaLogin.Text" lastModified="2016-12-02 08:37:38">
-    <value xml:space="preserve">Gebruik CAPTCH voor het associëren van logins</value>
+    <value xml:space="preserve">Gebruik CAPTCHA voor het associëren van logins</value>
   </data>
   <data name="Security_CaptchaRegister.Help" lastModified="2016-12-02 09:41:19">
     <value xml:space="preserve">Geeft aan of de site gebruik moet maken van CAPTCHA voor registratie</value>
@@ -916,10 +910,10 @@
     <value xml:space="preserve">Modificeer optioneel de email validatie expressie welke wordt gebruikt om de geldigheid van het ingegeven emailadres te controleren.</value>
   </data>
   <data name="Security_EmailValidation.Text" lastModified="2016-12-02 13:48:37">
-    <value xml:space="preserve">Emailadres validatie</value>
+    <value xml:space="preserve">E-mailadres validatie</value>
   </data>
   <data name="Security_RequireValidProfile.Help" lastModified="2016-12-02 14:49:54">
-    <value xml:space="preserve">Vink deze optie aan als gebruikers alle vereiste velden moeten invullen waaronder Gebruikersnaam, voornaam, achternaam, weergavenaam, emailadres en wachtwoord velden tijden de registratie.</value>
+    <value xml:space="preserve">Vink deze optie aan als gebruikers alle vereiste velden moeten invullen waaronder Gebruikersnaam, voornaam, achternaam, weergavenaam, e-mailadres en wachtwoord velden tijden de registratie.</value>
   </data>
   <data name="Security_RequireValidProfile.Text" lastModified="2016-12-02 17:52:01">
     <value xml:space="preserve">Vereis een geldig profiel voor registratie</value>
@@ -931,7 +925,7 @@
     <value xml:space="preserve">Vereis een geldig profiel voor login</value>
   </data>
   <data name="Security_UserNameValidation.Help" lastModified="2016-12-02 18:54:26">
-    <value xml:space="preserve">Voeg je eigen validatie expressie in welke wordt gebruikt voor het controleren van de geldigheid van de opgegeven gebruikersnaam. Als je deze veranderd moet ook het bericht worden aangepast dat gebruikers zien als er een ongeldige gebruikersnaam wordt ingevoerd, dit kan middels de localization editor. (SharedResources.resx - Username.RegExError)</value>
+    <value xml:space="preserve">Voer je eigen validatie expressie in welke wordt gebruikt voor het controleren van de geldigheid van de opgegeven gebruikersnaam. Als je deze verandert moet ook het bericht worden aangepast dat gebruikers zien als er een ongeldige gebruikersnaam wordt ingevoerd, dit kan middels de localization editor. (SharedResources.resx - Username.RegExError)</value>
   </data>
   <data name="Security_UserNameValidation.Text" lastModified="2016-11-29 23:26:13">
     <value xml:space="preserve">Gebruikersnaam validatie</value>
@@ -961,7 +955,7 @@
     <value xml:space="preserve">De SSL instellingen zijn bijgewerkt</value>
   </data>
   <data name="Standard.Text" lastModified="2016-11-29 19:20:03">
-    <value xml:space="preserve">Standaar</value>
+    <value xml:space="preserve">Standaard</value>
   </data>
   <data name="SuperuserActivity.Text" lastModified="2016-11-29 19:20:03">
     <value xml:space="preserve">Superuser activiteit</value>
@@ -1003,10 +997,10 @@
     <value xml:space="preserve">REGISTRATIE INSTELLINGEN</value>
   </data>
   <data name="TabScannerCheck.Text" lastModified="2016-11-29 22:24:45">
-    <value xml:space="preserve">SCANNE CONTROLE</value>
+    <value xml:space="preserve">SCANNER CONTROLE</value>
   </data>
   <data name="TabSecurityAnalyzer.Text" lastModified="2018-07-24 15:00:42">
-    <value xml:space="preserve">Beveiligingsanalyzer</value>
+    <value xml:space="preserve">Beveiligings analyse</value>
   </data>
   <data name="TabSecurityBulletins.Text" lastModified="2016-11-29 22:24:45">
     <value xml:space="preserve">Beveiligings berichten</value>
@@ -1037,5 +1031,32 @@
   </data>
   <data name="Yes.Text" lastModified="2016-11-29 19:20:03">
     <value xml:space="preserve">Ja</value>
+  </data>
+  <data name="Check.Text">
+    <value>[ Check ]</value>
+  </data>
+  <data name="ModifiedFilesExplaination.Text">
+    <value>
+    </value>
+  </data>
+  <data name="ModifiedSettingsExplaination.Text">
+    <value>
+    </value>
+  </data>
+  <data name="plDefaultEndUserExtensionWhitelist.Help">
+    <value>Default list of file extensions end users are allowed to upload. Admin users can override this but they can never allow more file types than those set in the master list above. Note this list will be filtered by the list above when saving.</value>
+  </data>
+  <data name="plDefaultEndUserExtensionWhitelist.Text">
+    <value>Standaard eindgebruiker extensie whitelist</value>
+  </data>
+  <data name="plForceLogOutAfterPasswordChanged.Help">
+    <value>Forceer uitloggen nadat de gebruiker het wachtwoord heeft gewijzigd.</value>
+  </data>
+  <data name="plForceLogOutAfterPasswordChanged.Text">
+    <value>Forceer uitloggen na wijzigen van wachtwoord</value>
+  </data>
+  <data name="ScannerExplanation.Text">
+    <value>
+    </value>
   </data>
 </root>

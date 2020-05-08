@@ -94,7 +94,7 @@
     <value xml:space="preserve">Geef de pagina's weer waarop deze module is geplaatst. Een bestaande module kan aan andere pagina's worden toegevoegd d.m.v. de "Gebruik Bestaande Module" feature. Deze lijst zal alleen pagina's weergeven indien de module is toegevoegd middels de "Gebruik Bestaande Module" feature.</value>
   </data>
   <data name="InstalledOn.Text">
-    <value xml:space="preserve">Deze module is toegevoegde aan de volgende pagina's:</value>
+    <value xml:space="preserve">Deze module is toegevoegd aan de volgende pagina's:</value>
   </data>
   <data name="isShareableLabel.Help">
     <value xml:space="preserve">Vink deze optie aan als u deze module wilt delen over meerdere websites.</value>
@@ -121,10 +121,10 @@
     <value xml:space="preserve">Deze module bestaat al op de doel pagina (het kan ook in de prullenmand zitten), en slechts één instance van een module kan op een pagina bestaan.</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">Instellingen voor moduleBeheerders kunnen de instellingen voor deze module beheren. Deze instellingen omvatten karakteristieken van de module, bevoegdheden en weergave eigenschappen </value>
+    <value xml:space="preserve">&lt;h1&gt;Instellingen voor module&lt;/h1&gt;&lt;p&gt;Beheerders kunnen de instellingen voor deze module beheren. Deze instellingen omvatten karakteristieken van de module, bevoegdheden en weergave eigenschappen.&lt;/p&gt;</value>
   </data>
   <data name="ModuleInstalledOn.Text">
-    <value xml:space="preserve">Aan Pagina's Toegevoegd</value>
+    <value xml:space="preserve">Aan pagina's toegevoegd</value>
   </data>
   <data name="ModuleSettings.Text">
     <value xml:space="preserve">Instellingen voor module</value>
@@ -133,10 +133,10 @@
     <value xml:space="preserve">De nieuwe waarde van de moniker bestaat al; deze moet uniek zijn binnen het portaal.</value>
   </data>
   <data name="MsgInstalledOnAll.Text">
-    <value xml:space="preserve">Deze module instance wordt op alle pagina's weergegeven.</value>
+    <value xml:space="preserve">Deze module instantie wordt op alle pagina's weergegeven.</value>
   </data>
   <data name="MsgInstalledOnNone.Text">
-    <value xml:space="preserve">Deze module instance is niet aan enig andere pagina toegevoegd.</value>
+    <value xml:space="preserve">Deze module instantie is niet aan enig andere pagina toegevoegd.</value>
   </data>
   <data name="OtherSettings.Text">
     <value xml:space="preserve">Geavanceerde Instellingen</value>
@@ -253,10 +253,10 @@
     <value xml:space="preserve">Modulecontainer:</value>
   </data>
   <data name="plMoniker.Help" lastModified="2016-03-08 13:09:46">
-    <value xml:space="preserve">Een unieke identificatie for deze module op de pagina. Deze kan worden gebruikt door WEB API callers om de inhoud van de tab en de module te kunnen bepalen.</value>
+    <value xml:space="preserve">Een unieke identificatie voor deze module op de pagina. Deze kan worden gebruikt door WEB API callers om de inhoud van de tab en de module te kunnen bepalen.</value>
   </data>
   <data name="plMoniker.Text" lastModified="2018-07-18 13:17:08">
-    <value xml:space="preserve">Roepnaam module:</value>
+    <value xml:space="preserve">Module Moniker:</value>
   </data>
   <data name="plNewTabs.Help" lastModified="2015-12-30 06:19:44">
     <value xml:space="preserve">Schakel dit vakje in om de module alleen toe te voegen aan nieuwe pagina's. Deze optie is  alleen beschikbaar voor website beheerders.</value>
@@ -322,25 +322,25 @@
     <value xml:space="preserve">Geef de Time to Live (TTL) in minuten op voor deze Web Slice. Indien leeg gelaten zal de standaard cache tijd worden gebruikt  (geconverteerd naar minuten)</value>
   </data>
   <data name="plWebSliceTTL.Text">
-    <value xml:space="preserve">Web SLice TTL:</value>
+    <value xml:space="preserve">Web Slice TTL:</value>
   </data>
   <data name="PreviewNoSelectionMessage.Text">
     <value xml:space="preserve">Gelieve een container te selecteren om een vooruitblik te kunnen zien.</value>
   </data>
   <data name="Security.Text">
-    <value xml:space="preserve">Geavanceerde instellingen</value>
+    <value xml:space="preserve">Geavanceerde Instellingen</value>
   </data>
   <data name="Site.Header">
     <value xml:space="preserve">Site</value>
   </data>
   <data name="Translated.Text">
-    <value xml:space="preserve">Markeer Vertaald</value>
+    <value xml:space="preserve">Markeer als vertaald</value>
   </data>
   <data name="UnBind.Text">
     <value xml:space="preserve">Ontkoppelen</value>
   </data>
   <data name="UnTranslated.Text">
-    <value xml:space="preserve">Markeer Niet-Vertaald</value>
+    <value xml:space="preserve">Markeer als niet-vertaald</value>
   </data>
   <data name="valBorder.ErrorMessage">
     <value xml:space="preserve">Ongeldige Rand (moet een getal tussen 0 en 9 zijn)</value>

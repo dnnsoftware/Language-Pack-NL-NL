@@ -23,7 +23,7 @@
 </value>
   </data>
   <data name="lblAdvancedDates.Text">
-    <value xml:space="preserve">laatst aanpast:</value>
+    <value xml:space="preserve">laatst aangepast:</value>
   </data>
   <data name="lblAdvancedScope.Help">
     <value xml:space="preserve">Begrens de zoekresultaten van een specifieke bron</value>
@@ -83,7 +83,7 @@
     <value xml:space="preserve">Exact zoeken:</value>
   </data>
   <data name="linkAdvancedTip.Text">
-    <value xml:space="preserve">Geavanceerde tips</value>
+    <value xml:space="preserve">Geavanceerd</value>
   </data>
   <data name="AdvancedSearchHint.Text">
     <value xml:space="preserve">&lt;table class="dnnSearchResult-hint-tbl dnnTableDisplay"&gt;
@@ -170,7 +170,7 @@
     <value xml:space="preserve">Opmerkingen:</value>
   </data>
   <data name="Likes.Text">
-    <value xml:space="preserve">Vindt ik leuk:</value>
+    <value xml:space="preserve">Vind ik leuk:</value>
   </data>
   <data name="Views.Text">
     <value xml:space="preserve">Weergaves:</value>
