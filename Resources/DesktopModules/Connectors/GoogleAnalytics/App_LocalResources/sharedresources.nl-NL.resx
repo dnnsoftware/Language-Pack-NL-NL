@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AnonymizeIp.Text" lastModified="2020-05-08 17:52:07">
+    <value xml:space="preserve">IP voor anonimisering</value>
+  </data>
+  <data name="btnDelete.Text" lastModified="2020-05-08 17:52:07">
+    <value xml:space="preserve">Verwijder de verbinding</value>
+  </data>
+  <data name="ConnectorName.Text" lastModified="2020-05-08 17:52:07">
+    <value xml:space="preserve">Google Analytics Core Connector</value>
+  </data>
+  <data name="DataConsent.Text" lastModified="2020-05-08 17:52:07">
+    <value xml:space="preserve">Let op: data instemming is actief, wardoor deze instelling automatisch effectief is</value>
+  </data>
+  <data name="TrackAdministrators.Text" lastModified="2020-05-08 17:52:07">
+    <value xml:space="preserve">Track voor Administrators</value>
+  </data>
+  <data name="TrackingCodeFormat.ErrorMessage" lastModified="2020-05-08 17:52:07">
+    <value xml:space="preserve">Tracking code kan niet leeg zijn</value>
+  </data>
+  <data name="TrackingID.Text" lastModified="2020-05-08 17:52:07">
+    <value xml:space="preserve">TrackingID:</value>
+  </data>
+  <data name="TrackUserId.Text" lastModified="2020-05-08 17:52:07">
+    <value xml:space="preserve">Track UserID:</value>
+  </data>
+  <data name="UrlParameter.Text" lastModified="2020-05-08 17:52:07">
+    <value xml:space="preserve">URL parameter</value>
+  </data>
+</root>
