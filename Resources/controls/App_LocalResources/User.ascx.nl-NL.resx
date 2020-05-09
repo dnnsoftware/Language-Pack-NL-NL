@@ -118,31 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="plConfirm.Help" xml:space="preserve">
-    <value>Voer uw wachtwoord opnieuw in om dit te bevestigen.</value>
+    <value>Geef uw wachtwoord opnieuw in om dit te bevestigen.</value>
   </data>
   <data name="plConfirm.Text" xml:space="preserve">
     <value>Bevestig:</value>
   </data>
   <data name="plEmail.Help" xml:space="preserve">
-    <value>Geef uw e-mailadres in.</value>
+    <value>Vul hier uw e-mailadres in.</value>
   </data>
   <data name="plEmail.Text" xml:space="preserve">
     <value>E-mailadres:</value>
   </data>
   <data name="plFirstName.Help" xml:space="preserve">
-    <value>Geef uw voornaam in.</value>
+    <value>Vul hier uw voornaam in.</value>
   </data>
   <data name="plFirstName.Text" xml:space="preserve">
     <value>Voornaam:</value>
   </data>
   <data name="plIM.Help" xml:space="preserve">
-    <value>Geef uw instant messenger id  (MSN, Yahoo!, ICQ, etc.) in.</value>
+    <value>Vul hier uw instant messenger id  (MSN, Yahoo!, ICQ, etc.) in.</value>
   </data>
   <data name="plIM.Text" xml:space="preserve">
     <value>Instant Messenger ID:</value>
   </data>
   <data name="plLastName.Help" xml:space="preserve">
-    <value>Geef uw achternaam .</value>
+    <value>Vul hier uw achternaam in.</value>
   </data>
   <data name="plLastName.Text" xml:space="preserve">
     <value>Achternaam:</value>
@@ -160,33 +160,33 @@
     <value>Gebruikersnaam:</value>
   </data>
   <data name="plWebsite.Help" xml:space="preserve">
-    <value>Geef het adres van uw website.</value>
+    <value>Vul hier het adres in van uw website.</value>
   </data>
   <data name="plWebsite.Text" xml:space="preserve">
-    <value>Website: </value>
+    <value>Website:</value>
   </data>
   <data name="valConfirm1.Text" xml:space="preserve">
-    <value>&lt;br /&gt;Wachtwoord controle moet ingevuld worden.</value>
+    <value>&lt;br /&gt;De wachtwoordcontrole moet ingevuld worden.</value>
   </data>
   <data name="valConfirm2.Text" xml:space="preserve">
-    <value>&lt;br /&gt;Wachtwoorden komen niet met elkaar overeen.</value>
+    <value>&lt;br /&gt;De wachtwoorden komen niet met elkaar overeen.</value>
   </data>
   <data name="valEmail1.Text" xml:space="preserve">
-    <value>&lt;br /&gt;E-mail moet ingevuld worden.</value>
+    <value>&lt;br /&gt;Een e-mailadres moet ingevuld worden.</value>
   </data>
   <data name="valEmail2.Text" xml:space="preserve">
-    <value>&lt;br /&gt;E-mailadres is niet correct.</value>
+    <value>&lt;br /&gt;Het ingevulde e-mailadres is niet correct.</value>
   </data>
   <data name="valFirstName.Text" xml:space="preserve">
-    <value>&lt;br /&gt;Voornaam moet ingevuld worden.</value>
+    <value>&lt;br /&gt;Een voornaam moet ingevuld worden.</value>
   </data>
   <data name="valLastName.Text" xml:space="preserve">
-    <value>&lt;br /&gt;Achternaam moet ingevuld worden.</value>
+    <value>&lt;br /&gt;Een achternaam moet ingevuld worden.</value>
   </data>
   <data name="valPassword.Text" xml:space="preserve">
-    <value>&lt;br/&gt;Wachtwoord moet ingevuld worden.</value>
+    <value>&lt;br/&gt;Een wachtwoord moet ingevuld worden.</value>
   </data>
   <data name="valUsername.Text" xml:space="preserve">
-    <value>&lt;br &gt;Gebruikersnaam moet ingevuld worden.</value>
+    <value>&lt;br &gt;Een gebruikersnaam moet ingevuld worden.</value>
   </data>
 </root>
