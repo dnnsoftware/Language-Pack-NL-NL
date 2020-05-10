@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -138,89 +138,8 @@
   <data name="//Admin.String" xml:space="preserve">
     <value>Website</value>
   </data>
-  <data name="//Admin//AdvancedSettings.String" xml:space="preserve">
-    <value>Geavanceerde Configuratie Instellingen</value>
-  </data>
-  <data name="//Admin//AdvancedURLManagement.String" xml:space="preserve">
-    <value>Geavanceerd URL-beheer</value>
-  </data>
-  <data name="//Admin//ContentStaging.String" xml:space="preserve">
-    <value>Inhoudsredactie</value>
-  </data>
-  <data name="//Admin//DevicePreviewManagement.String" xml:space="preserve">
-    <value>Apparaat Vooruitblikbeheer</value>
-  </data>
-  <data name="//Admin//Extensions.String" xml:space="preserve">
-    <value>Extensies</value>
-  </data>
   <data name="//Admin//FileManagement.String" xml:space="preserve">
     <value>Bestandsbeheer</value>
-  </data>
-  <data name="//Admin//FileManager.String" xml:space="preserve">
-    <value>Bestandsbeheerder</value>
-  </data>
-  <data name="//Admin//GoogleAnalytics.String" xml:space="preserve">
-    <value>Google Analytics</value>
-  </data>
-  <data name="//Admin//GoogleAnalyticsPro.String" xml:space="preserve">
-    <value>Google Analytics Pro</value>
-  </data>
-  <data name="//Admin//Languages.String" xml:space="preserve">
-    <value>Talen</value>
-  </data>
-  <data name="//Admin//Lists.String" xml:space="preserve">
-    <value>Lijsten</value>
-  </data>
-  <data name="//Admin//LogViewer.String" xml:space="preserve">
-    <value>Logboek</value>
-  </data>
-  <data name="//Admin//Newsletters.String" xml:space="preserve">
-    <value>Nieuwsbrieven</value>
-  </data>
-  <data name="//Admin//Pages.String" xml:space="preserve">
-    <value>Pagina's</value>
-  </data>
-  <data name="//Admin//RecycleBin.String" xml:space="preserve">
-    <value>Prullenmand</value>
-  </data>
-  <data name="//Admin//SearchAdmin.String" xml:space="preserve">
-    <value>Zoek Admin</value>
-  </data>
-  <data name="//Admin//SearchEngineSiteMap.String" xml:space="preserve">
-    <value>Zoekmachine sitemap</value>
-  </data>
-  <data name="//Admin//SecurityRoles.String" xml:space="preserve">
-    <value>Toegangsrollen</value>
-  </data>
-  <data name="//Admin//SharePointConnector.String" xml:space="preserve">
-    <value>SharePoint Koppeling</value>
-  </data>
-  <data name="//Admin//SiteRedirectionManagement.String" xml:space="preserve">
-    <value>Beheer site omleidingen</value>
-  </data>
-  <data name="//Admin//SiteSettings.String" xml:space="preserve">
-    <value>Website Instellingen</value>
-  </data>
-  <data name="//Admin//SiteWizard.String" xml:space="preserve">
-    <value>Website Wizard</value>
-  </data>
-  <data name="//Admin//Skins.String" xml:space="preserve">
-    <value>Skins</value>
-  </data>
-  <data name="//Admin//Tabs.String" xml:space="preserve">
-    <value>Pagina's </value>
-  </data>
-  <data name="//Admin//Taxonomy.String" xml:space="preserve">
-    <value>Taxonomie</value>
-  </data>
-  <data name="//Admin//UserAccounts.String" xml:space="preserve">
-    <value>Gebruikersaccounts</value>
-  </data>
-  <data name="//Admin//UserSwitcher.String" xml:space="preserve">
-    <value>Gebruikerswisselaar</value>
-  </data>
-  <data name="//Admin//Vendors.String" xml:space="preserve">
-    <value>Verkopers</value>
   </data>
   <data name="//ContactUs.String" xml:space="preserve">
     <value>Neem Contact met ons op</value>
@@ -231,107 +150,11 @@
   <data name="//Host.String" xml:space="preserve">
     <value>Applicatie</value>
   </data>
-  <data name="//Host//ConfigurationManager.String" xml:space="preserve">
-    <value>Beheer configuratie</value>
-  </data>
-  <data name="//Host//Dashboard.String" xml:space="preserve">
-    <value>Dashboard</value>
-  </data>
-  <data name="//Host//DeviceDetectionManagement.String" xml:space="preserve">
-    <value>Beheer apparaatherkenning</value>
-  </data>
-  <data name="//Host//Extensions.String" xml:space="preserve">
-    <value>Extensies</value>
-  </data>
   <data name="//Host//FileManagement.String" xml:space="preserve">
     <value>Bestandsbeheer</value>
   </data>
-  <data name="//Host//HostSettings.String" xml:space="preserve">
-    <value>Applicatie-instellingen</value>
-  </data>
   <data name="//Host//HTMLEditorManager.String" xml:space="preserve">
     <value>Beheer HTML Editor</value>
-  </data>
-  <data name="//Host//Languages.String" xml:space="preserve">
-    <value>Talen</value>
-  </data>
-  <data name="//Host//Lists.String" xml:space="preserve">
-    <value>Lijsten</value>
-  </data>
-  <data name="//Host//ModuleDefinitions.String" xml:space="preserve">
-    <value>Module Definities</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures.String" xml:space="preserve">
-    <value>Professionele functies</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//ActivateyourLicense.String" xml:space="preserve">
-    <value>Activeer je licentie</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//AdvancedURLManagement.String" xml:space="preserve">
-    <value>Geavanceerd URL management</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//ApplicationIntegrity.String" xml:space="preserve">
-    <value>Applicatie Integriteit</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//HealthMonitoring.String" xml:space="preserve">
-    <value>Site monitor</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//KnowledgeBase.String" xml:space="preserve">
-    <value>Kennisbank (Engelstalig)</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//LicenseManagement.String" xml:space="preserve">
-    <value>Licentiebeheer</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//ManageWebServers.String" xml:space="preserve">
-    <value>Webserver beheer</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//MySupportTickets.String" xml:space="preserve">
-    <value>Mijn support tickets</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SearchCrawlerAdmin.String" xml:space="preserve">
-    <value>Zoekmachine beheer</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SecurityCenter.String" xml:space="preserve">
-    <value>Beveiligingscentrum</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SharePointConnector.String" xml:space="preserve">
-    <value>SharePoint-koppeling</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SiteGroups.String" xml:space="preserve">
-    <value>Site Groepen</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SoftwareandDocumentation.String" xml:space="preserve">
-    <value>Software en documentatie</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SpecialOffers.String" xml:space="preserve">
-    <value>Aanbiedingen</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//TechnicalSupport.String" xml:space="preserve">
-    <value>Technische ondersteuning</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//UserSwitcher.String" xml:space="preserve">
-    <value>Andere gebruiker</value>
-  </data>
-  <data name="//Host//Schedule.String" xml:space="preserve">
-    <value>Taak schema's</value>
-  </data>
-  <data name="//Host//SearchAdmin.String" xml:space="preserve">
-    <value>Zoek Beheerders</value>
-  </data>
-  <data name="//Host//SiteManagement.String" xml:space="preserve">
-    <value>Site Beheer</value>
-  </data>
-  <data name="//Host//Skins.String" xml:space="preserve">
-    <value>Skins</value>
-  </data>
-  <data name="//Host//SQL.String" xml:space="preserve">
-    <value>SQL</value>
-  </data>
-  <data name="//Host//SuperuserAccounts.String" xml:space="preserve">
-    <value>SuperUser Accounts</value>
-  </data>
-  <data name="//Host//Vendors.String" xml:space="preserve">
-    <value>Verkopers</value>
   </data>
   <data name="//Modules.Text" xml:space="preserve">
     <value>Modules</value>
@@ -1597,5 +1420,22 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
   </data>
   <data name="Write to Folder.Permission" xml:space="preserve">
     <value>Schrijf bestanden in map</value>
+  </data>
+  <data name="cc_dismiss.Text">
+    <value>Begrepen!</value>
+  </data>
+  <data name="cc_link.Text">
+    <value>Meer informatie</value>
+  </data>
+  <data name="cc_message.Text">
+    <value>Deze website gebruikt cookies voor de best mogelijke gebruikerservaring.</value>
+  </data>
+  <data name="MESSAGE_LOGIN_INSTRUCTIONS.Text">
+    <value>
+    </value>
+  </data>
+  <data name="MESSAGE_REGISTRATION_INSTRUCTIONS.Text">
+    <value>
+    </value>
   </data>
 </root>
