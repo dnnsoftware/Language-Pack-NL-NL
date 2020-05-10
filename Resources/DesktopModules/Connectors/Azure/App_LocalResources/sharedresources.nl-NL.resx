@@ -12,46 +12,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccessDenied.ErrorMessage" lastModified="2018-07-20 13:53:41">
+  <data name="AccessDenied.ErrorMessage" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">Toegang werd geweigerd.</value>
   </data>
-  <data name="AccountKey.Text" lastModified="2018-07-20 13:53:41">
+  <data name="AccountKey.Text" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">Accountsleutel:</value>
   </data>
-  <data name="AccountKeyCannotBeEmpty.ErrorMessage" lastModified="2018-07-20 13:53:41">
+  <data name="AccountKeyCannotBeEmpty.ErrorMessage" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">Accountsleutel mag niet leeg zijn:</value>
   </data>
-  <data name="AccountName.Text" lastModified="2018-07-20 13:53:41">
+  <data name="AccountName.Text" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">Accountnaam:</value>
   </data>
-  <data name="AccountNameCannotBeEmpty.ErrorMessage" lastModified="2018-07-20 13:53:41">
+  <data name="AccountNameCannotBeEmpty.ErrorMessage" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">Accountnaam mag niet leeg zijn.</value>
   </data>
-  <data name="AccountNotFound.ErrorMessage" lastModified="2018-07-20 13:53:41">
+  <data name="AccountNotFound.ErrorMessage" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">Het opgegeven account is niet gevonden.</value>
   </data>
-  <data name="AuthenticationFailure.ErrorMessage" lastModified="2018-07-20 13:53:41">
-    <value xml:space="preserve">Een authenticatiefout is opgetreden.</value>
+  <data name="AuthenticationFailure.ErrorMessage" lastModified="2020-05-10 17:11:57">
+    <value xml:space="preserve">Er is een authenticatiefout opgetreden.</value>
   </data>
-  <data name="Container.Text" lastModified="2018-07-20 13:53:41">
+  <data name="Container.Text" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">Containernaam:</value>
   </data>
-  <data name="ErrorInvalidContainerName.Text" lastModified="2018-07-20 13:53:41">
+  <data name="ErrorInvalidContainerName.Text" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">De ingediende containernaam is niet geldig.</value>
   </data>
-  <data name="ErrorMappingNameExists.Text" lastModified="2018-07-20 13:53:41">
+  <data name="ErrorMappingNameExists.Text" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">De connectienaam bestaat al.</value>
   </data>
-  <data name="ErrorRequiredFields.Text" lastModified="2018-07-20 13:53:41">
+  <data name="ErrorRequiredFields.Text" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">Toegangssleutel en accountnaam zijn verplicht.</value>
   </data>
-  <data name="InvalidAccountKey.ErrorMessage" lastModified="2018-07-20 13:53:41">
+  <data name="InvalidAccountKey.ErrorMessage" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">De invoer is geen geldige accountsleutel.</value>
   </data>
-  <data name="InvalidAccountName.ErrorMessage" lastModified="2018-07-20 13:53:41">
+  <data name="InvalidAccountName.ErrorMessage" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">De invoer is geen geldige accountnaam.</value>
   </data>
-  <data name="SelectContainer.Text" lastModified="2018-07-20 13:53:41">
+  <data name="SelectContainer.Text" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">-Selecteer een container-</value>
   </data>
 </root>

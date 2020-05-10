@@ -12,33 +12,20 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="plReplaceTokens.Text">
-    <value xml:space="preserve">Tokens vervangen:</value>
-  </data>
-  <data name="plReplaceTokens.Help">
-    <value xml:space="preserve">Activeer Uitgebreid vervangen om tokens zoals "[object:property|format]" voor de objecten "Tab" (pagina), "Module", "Portal" (website) of  "User" (gebruiker) te vervangen.
-        NB: module caching wordt hiermee uitgezet.</value>
-  </data>
-  <data name="cmdWorkflow.Text">
-    <value xml:space="preserve">Beheer Workflows</value>
-  </data>
-  <data name="plWorkflow.Text">
-    <value xml:space="preserve">Workflow</value>
-  </data>
-  <data name="plWorkflow.Help">
-    <value xml:space="preserve">Selecteer een content publicatie workflow</value>
-  </data>
   <data name="chkReplace.Text">
     <value xml:space="preserve">Huidige Instellingen Vervangen?</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">Hulp informatie niet nader ingevuld</value>
+  <data name="cmdWorkflow.Text">
+    <value xml:space="preserve">Beheer Workflows</value>
   </data>
   <data name="ControlTitle_settings.Text">
     <value xml:space="preserve">HTML Module Instellingen</value>
   </data>
   <data name="Module.Text">
     <value xml:space="preserve">Module</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value xml:space="preserve">Hulp informatie niet nader ingevuld</value>
   </data>
   <data name="Page.Text">
     <value xml:space="preserve">Pagina</value>
@@ -55,11 +42,27 @@
   <data name="plDecorate.Text">
     <value xml:space="preserve">Gebruik Form Decoration:</value>
   </data>
+  <data name="plReplaceTokens.Help">
+    <value xml:space="preserve">Activeer Uitgebreid vervangen om tokens zoals "[object:property|format]" voor de objecten "Tab" (pagina), "Module", "Portal" (website) of  "User" (gebruiker) te vervangen.
+        NB: module caching wordt hiermee uitgezet.</value>
+  </data>
+  <data name="plReplaceTokens.Text">
+    <value xml:space="preserve">Tokens vervangen:</value>
+  </data>
   <data name="plSearchDescLength.Help">
     <value xml:space="preserve">Defineer de maximale lengte van de omschrijving gebruikt in de hoofd zoekfunctie.</value>
   </data>
   <data name="plSearchDescLength.Text">
     <value xml:space="preserve">Maximale lengte van de omschrijving in de zoekfunctie:</value>
+  </data>
+  <data name="plWorkflow.Help">
+    <value xml:space="preserve">Selecteer een content publicatie workflow</value>
+  </data>
+  <data name="plWorkflow.Text">
+    <value xml:space="preserve">Workflow</value>
+  </data>
+  <data name="Site.Text" lastModified="2020-05-10 17:53:59">
+    <value xml:space="preserve">Site</value>
   </data>
   <data name="valSearchDescLength.ErrorMessage">
     <value xml:space="preserve">Geef het nummer van de maximale lengte van de input in.</value>
