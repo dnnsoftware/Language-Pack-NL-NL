@@ -1049,7 +1049,7 @@
     <value xml:space="preserve">Sessieopdrachtgeschiedenis gewist.</value>
   </data>
   <data name="InValidPortalId.Text">
-    <value>Portal Id {0} does not belong to Site Group.</value>
+    <value>Portal Id {0} behoort niet tot de Site Group.</value>
   </data>
   <data name="Prompt_CommandHelpSyntax.Text">
     <value>&lt;section class="dnn-prompt-inline-help"&gt;
@@ -1092,13 +1092,13 @@
     <value>get-host command executed successfully.</value>
   </data>
   <data name="Prompt_GetModule_Result.Text">
-    <value>Module '{0}' has been found in page '{1}'.</value>
+    <value>Module '{0}' is gevonden op pagina '{1}'.</value>
   </data>
   <data name="Prompt_GetPortal_Found.Text">
-    <value>Portal '{0}' has been found.</value>
+    <value>Portal '{0}' is gevonden</value>
   </data>
   <data name="Prompt_ListPortals_Results.Text">
-    <value>'{0}' Portal{1} found.</value>
+    <value>'{0}' Portal{1} gevonden.</value>
   </data>
   <data name="Prompt_NoModule.Text">
     <value>No module found with id {0}.</value>
