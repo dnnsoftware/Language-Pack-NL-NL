@@ -231,4 +231,10 @@
   <data name="UserLockedOut_ContactAdmin.Text" xml:space="preserve">
     <value>Dit account is vergrendeld na te veel mislukte login pogingen. Neem contact op met uw beheerder.</value>
   </data>
+  <data name="FailedToRemoveAccount.Text">
+    <value>&lt;div&gt;De account kon niet worden verwijderd. Neem contact op met de site administrator en laat weren dat je account verwijderd moet worden.&lt;/div&gt;</value>
+  </data>
+  <data name="MustConsent.Text">
+    <value>&lt;div&gt;Je moet met de gebruikersovereenkomst instemmen om verder te kunnen.&lt;/div&gt;</value>
+  </data>
 </root>
