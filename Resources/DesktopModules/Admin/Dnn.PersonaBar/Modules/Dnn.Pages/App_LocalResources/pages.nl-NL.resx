@@ -91,25 +91,25 @@
     <value xml:space="preserve">Bulk pagina instellingen</value>
   </data>
   <data name="BulkPagesLabel.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Een pagina per regel, voorafgaand met "&amp;gt;"om hierarchie te creeeren.</value>
+    <value xml:space="preserve">Een pagina per regel, voorafgaand met "&gt;"om hiërarchie te creeëren.</value>
   </data>
   <data name="BulkPagesToAdd.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Bulk pagina's om toe te voegen</value>
+    <value xml:space="preserve">Pagina's in bulk toevoegen</value>
   </data>
   <data name="BulkPageValidateResponseTotalMessage.Text" lastModified="2018-07-22 00:10:25">
     <value xml:space="preserve">[PAGES_TOTAL] pagina's zijn gevalideerd.</value>
   </data>
   <data name="cacheDuration.ErrorMessage" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Cacheduur moet een integer zijn.</value>
+    <value xml:space="preserve">Cacheduur moet een geheel getal zijn.</value>
   </data>
   <data name="CacheDuration.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Cache duur (seconden)</value>
+    <value xml:space="preserve">Cacheduur (seconden)</value>
   </data>
   <data name="CacheDuration_tooltip.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Vul de duur (in seconden) in om de pagina te cachen. Dit moet een integer zijn.</value>
+    <value xml:space="preserve">Vul de duur (in seconden) in om de pagina te cachen. Dit moet een geheel getal zijn.</value>
   </data>
   <data name="cacheMaxVaryByCount.ErrorMessage" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Varieer door Limiet moet een integer zijn.</value>
+    <value xml:space="preserve">Varieer door Limiet moet een geheel getal zijn.</value>
   </data>
   <data name="CacheSettings.Text" lastModified="2016-11-29 19:18:02">
     <value xml:space="preserve">Cache instellingen</value>
@@ -316,10 +316,10 @@
     <value xml:space="preserve">Inclusief content</value>
   </data>
   <data name="IncludeContentTooltip.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Vink dit vakje aan om de module content in te sluiten.</value>
+    <value xml:space="preserve">Selecteer dit  om de module content in te sluiten.</value>
   </data>
   <data name="IncludeExcludeParams.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Insluiten / Uitsluiten Params door de standaard</value>
+    <value xml:space="preserve">Insluiten/Uitsluiten Params als standaard</value>
   </data>
   <data name="IncludeExcludeParams_tooltip.Text" lastModified="2016-11-29 23:52:44">
     <value xml:space="preserve">Indien ingesteld als INSLUITEN, zullen alle querystring parameter waarde variaties resulteren in een nieuw item in de output cache. Indien ingesteld als UITSLUITEN, zullen querystring parameters niet worden gebruikt om de gecachte pagina te varieren.</value>
@@ -349,7 +349,7 @@
     <value xml:space="preserve">Huidige Cachetelling: {0} varianten voor deze pagina</value>
   </data>
   <data name="lblCollapseAll.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">ALLES INKLAPPEn</value>
+    <value xml:space="preserve">ALLES INKLAPPEN</value>
   </data>
   <data name="lblDateRange.Text" lastModified="2018-07-22 00:10:25">
     <value xml:space="preserve">Datumbereik</value>
@@ -358,7 +358,7 @@
     <value xml:space="preserve">Concept</value>
   </data>
   <data name="lblExpandAll.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">ALLES UITKLAPPEn</value>
+    <value xml:space="preserve">ALLES UITKLAPPEN</value>
   </data>
   <data name="lblFile.Text" lastModified="2018-07-22 00:10:25">
     <value xml:space="preserve">Bestand</value>
@@ -1462,7 +1462,7 @@
     <value xml:space="preserve">Systeem</value>
   </data>
   <data name="TabExists.Text" lastModified="2016-11-30 13:41:18">
-    <value xml:space="preserve">De paginanaam die u heeft gekozen wordt al gebruikt door een andere pagina op hetzelfde niveau in de pagina hierarchy. </value>
+    <value xml:space="preserve">De paginanaam die u heeft gekozen wordt al gebruikt door een andere pagina op hetzelfde niveau in de pagina hiërarchy. </value>
   </data>
   <data name="TabRecycled.Text" lastModified="2016-11-30 14:47:37">
     <value xml:space="preserve">Een pagina met deze naam bestaat in de prullenbak. Om deze pagina te herstellen gebruik de prullenbak. </value>
@@ -1564,16 +1564,16 @@
     <value xml:space="preserve">Verkeerd formaat</value>
   </data>
   <data name="CheckToPublishPage_tooltip.Text">
-    <value>Check to flag this page as published for this language</value>
+    <value>Selecteer dit om deze pagina voor deze taal te publiceren</value>
   </data>
   <data name="CheckToTransalePage_tooltip.Text">
-    <value>Check to flag this page as translated for this language</value>
+    <value>Selecteer dit om deze pagina als vertaald voor deze taal te markeren</value>
   </data>
   <data name="CheckToTranslateAllModules_tooltip.Text">
-    <value>Check to flag all modules as translated</value>
+    <value>Selecteer dit om alle pagina's als vertaald voor deze taal te markeren</value>
   </data>
   <data name="CheckToTranslateModule_tooltip.Text">
-    <value>Check to flag module as translated</value>
+    <value>Selecteer dit om deze module als vertaald te markeren</value>
   </data>
   <data name="ClickToDeLocalizeAllModules_tooltip.Text">
     <value>Klik om lokalisatie voor alle modules uit te schakelen</value>
@@ -1600,46 +1600,46 @@
     <value>Edit Content</value>
   </data>
   <data name="IconFile.Help">
-    <value>The page icon is an image that may be used by your theme or menu system for each page</value>
+    <value>De pagina icon is een plaatje dat door het thema of menusysteem voor iedere pagina gebruikt kan worden.</value>
   </data>
   <data name="IconFile.Text">
-    <value>Klein icoon</value>
+    <value>Klein icon</value>
   </data>
   <data name="IconFileLarge.Help">
-    <value>The page icon is an image that may be used by your theme or menu system for each page</value>
+    <value>De pagina icon is een plaatje dat door het thema of menusysteem voor iedere pagina gebruikt kan worden.</value>
   </data>
   <data name="IconFileLarge.Text">
-    <value>Groot icoon</value>
+    <value>Groot icon</value>
   </data>
   <data name="IsNotSharedModule.Text">
     <value>Shared: false</value>
   </data>
   <data name="LocalizedSharedModule_tooltip.Text">
-    <value>This is a localized shared module</value>
+    <value>Dit is een vertaalde gedeelde module</value>
   </data>
   <data name="Prompt_PageFound.Text">
     <value>Page found.</value>
   </data>
   <data name="Prompt_TrueFalseRequired.Text">
-    <value>You must pass True or False for the --{0} flag.</value>
+    <value>U moet een True of False voor de&amp;nbsp; --{0} vlag gebruiken.</value>
   </data>
   <data name="Prompt_UnableToFindSpecified.Text">
-    <value>Unable to find page specified for --{0} '{1}'.</value>
+    <value>Pagina gespeciceerd  voor --{0} '{1}' niet gevonden.</value>
   </data>
   <data name="SharedModule.Text">
     <value>Shared: true</value>
   </data>
   <data name="UnCheckAllTranslatedModules_tooltip.Text">
-    <value>Uncheck to flag all modules as pending translation</value>
+    <value>Deselecteer dit om alle modules te markeren voor vertaling in bewerking</value>
   </data>
   <data name="UnCheckPublishedPage_tooltip.Text">
-    <value>Uncheck to flag this page as pending publishing for this language</value>
+    <value>Deselecteer dit om deze pagina te markeren voor gereed voor publiceren  in deze taal</value>
   </data>
   <data name="UnCheckTransaledPage_tooltip.Text">
-    <value>Uncheck to flag this page as pending translation for this language</value>
+    <value>Deselecteer dit om deze pagina te markeren voor vertaling in bewerking</value>
   </data>
   <data name="UnCheckTranslatedModule_tooltip.Text">
-    <value>Uncheck to flag module as pending translation</value>
+    <value>Deselecteer dit om de module te markeren voor vertaling in bewerking</value>
   </data>
   <data name="UpdateLocalizationSuccess.Text">
     <value>Klaar!</value>
