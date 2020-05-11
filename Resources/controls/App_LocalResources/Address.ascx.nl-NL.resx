@@ -118,43 +118,43 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CellRequired.Text" xml:space="preserve">
-    <value>Mobiel nummer is verplicht.</value>
+    <value>Mobiel nummer is een verplicht veld.</value>
   </data>
   <data name="CityRequired.Text" xml:space="preserve">
-    <value>Plaats is verplicht.</value>
+    <value>Plaats is een verplicht veld.</value>
   </data>
   <data name="CountryRequired.Text" xml:space="preserve">
-    <value>Country is verplicht.</value>
+    <value>Land is een verplicht veld.</value>
   </data>
   <data name="FaxRequired.Text" xml:space="preserve">
-    <value>Faxnummer is verplicht.</value>
+    <value>Faxnummer is een verplicht veld.</value>
   </data>
   <data name="plCell.Help" xml:space="preserve">
-    <value>Geef uw mobiel telefoonnummer in.</value>
+    <value>Vul hier uw mobiel telefoonnummer in.</value>
   </data>
   <data name="plCell.Text" xml:space="preserve">
     <value>Mobiel:</value>
   </data>
   <data name="plCity.Help" xml:space="preserve">
-    <value>Geef uw woonplaats in.</value>
+    <value>Vul hier uw woonplaats in.</value>
   </data>
   <data name="plCity.Text" xml:space="preserve">
     <value>Woonplaats:</value>
   </data>
   <data name="plCountry.Help" xml:space="preserve">
-    <value>Geef uw land in.</value>
+    <value>Vul hier uw land in.</value>
   </data>
   <data name="plCountry.Text" xml:space="preserve">
     <value>Land:</value>
   </data>
   <data name="plFax.Help" xml:space="preserve">
-    <value>Geef uw faxnummer in.</value>
+    <value>Vul hier uw faxnummer in.</value>
   </data>
   <data name="plFax.Text" xml:space="preserve">
     <value>Fax:</value>
   </data>
   <data name="plPostal.Help" xml:space="preserve">
-    <value>Geef de postcode in </value>
+    <value>Vul hier de postcode in </value>
   </data>
   <data name="plPostal.Text" xml:space="preserve">
     <value>Postcode:</value>
@@ -166,7 +166,7 @@
     <value>Provincie:</value>
   </data>
   <data name="plRegion.Help" xml:space="preserve">
-    <value>Geef de regio in</value>
+    <value>Vul hier de regio in</value>
   </data>
   <data name="plRegion.Text" xml:space="preserve">
     <value>Regio:</value>
@@ -178,45 +178,45 @@
     <value>Staat:</value>
   </data>
   <data name="plStreet.Help" xml:space="preserve">
-    <value>Geef de straat en huisnummer in b.v. Hoofdstraat 1.</value>
+    <value>Vul hier de straat en het huisnummer in b.v. Hoofdstraat 1.</value>
   </data>
   <data name="plStreet.Text" xml:space="preserve">
     <value>Straat + huisnummer:</value>
   </data>
   <data name="plTelephone.Help" xml:space="preserve">
-    <value>Geef telefoonnummer in.</value>
+    <value>Vul hier het telefoonnummer in.</value>
   </data>
   <data name="plTelephone.Text" xml:space="preserve">
     <value>Telefoon:</value>
   </data>
   <data name="plUnit.Help" xml:space="preserve">
-    <value>Geef het unit of appartement in.</value>
+    <value>Vul hier de unit of het appartement in.</value>
   </data>
   <data name="plUnit.Text" xml:space="preserve">
     <value>Unit of appartement nr:</value>
   </data>
   <data name="plZip.Help" xml:space="preserve">
-    <value>Geef de postcode in.</value>
+    <value>Vuk hier de postcode in.</value>
   </data>
   <data name="plZip.Text" xml:space="preserve">
     <value>Postcode:</value>
   </data>
   <data name="PostalRequired.Text" xml:space="preserve">
-    <value>Postcode is verplicht.</value>
+    <value>Postcode is een verplicht veld.</value>
   </data>
   <data name="ProvinceRequired.Text" xml:space="preserve">
-    <value>De provincie is verplicht.</value>
+    <value>De provincie is een verplicht veld.</value>
   </data>
   <data name="RegionRequired.Text" xml:space="preserve">
-    <value>Regio is verplicht.</value>
+    <value>Regio is een verplicht veld.</value>
   </data>
   <data name="StateRequired.Text" xml:space="preserve">
-    <value>Staat is verplicht.</value>
+    <value>Staat is een verplicht veld.</value>
   </data>
   <data name="StreetRequired.Text" xml:space="preserve">
-    <value>Street is verplicht.</value>
+    <value>Straat is een verplicht veld.</value>
   </data>
   <data name="TelephoneRequired.Text" xml:space="preserve">
-    <value>Telefoonnummer is verplicht.</value>
+    <value>Telefoonnummer is een verplicht veld.</value>
   </data>
 </root>
