@@ -22,15 +22,15 @@
     <value xml:space="preserve">Vooruitblik</value>
   </data>
   <data name="Application.Text">
-    <value xml:space="preserve">Gebruik applicatie standaard</value>
+    <value xml:space="preserve">Gebruik applicatiestandaard</value>
   </data>
   <data name="Page.Text">
-    <value xml:space="preserve">Gebruik pagina standaard</value>
+    <value xml:space="preserve">Gebruik paginastandaard</value>
   </data>
   <data name="Portal.Text">
-    <value xml:space="preserve">Gebruik website standaard</value>
+    <value xml:space="preserve">Gebruik websitestandaard</value>
   </data>
   <data name="System.Text">
-    <value xml:space="preserve">Gebruik systeem standaard</value>
+    <value xml:space="preserve">Gebruik systeemstandaard</value>
   </data>
 </root>
