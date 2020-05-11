@@ -2,7 +2,7 @@
 	<packages>
 		<package name="Core_nl-NL" type="CoreLanguagePack" version="09.06.01">
 			<friendlyName>DNN Core Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description>Dutch (Netherlands) language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
 				<organization>.NET Foundation</organization>
@@ -50,10 +50,6 @@
 						<languageFile>
 							<path>admin\Portal\App_LocalResources</path>
 							<name>Terms.ascx.nl-NL.resx</name>
-						</languageFile>
-						<languageFile>
-							<path>admin\Security\App_LocalResources</path>
-							<name>dataconsent.ascx.nl-NL.resx</name>
 						</languageFile>
 						<languageFile>
 							<path>admin\Security\App_LocalResources</path>
@@ -359,17 +355,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="DDRMenu_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+		<package name="DDRMenu_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
 			<friendlyName>DDR Menu Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description><![CDATA[Dutch (Netherlands) language pack for DDR Menu.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-			<releaseNotes></releaseNotes>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -387,17 +384,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="DigitalAssetsManagement_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+		<package name="DigitalAssetsManagement_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
 			<friendlyName>Digital Asset Management Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description><![CDATA[Dutch (Netherlands) language pack for Digital Asset Management.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-			<releaseNotes></releaseNotes>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -443,17 +441,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNN_HTML_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+		<package name="DNN_HTML_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
 			<friendlyName>HTML Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description><![CDATA[Dutch (Netherlands) language pack for HTML.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>	
-			<releaseNotes></releaseNotes>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -487,17 +486,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="Journal_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+		<package name="Journal_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
 			<friendlyName>Journal Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description><![CDATA[Dutch (Netherlands) language pack for Journal.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -523,17 +523,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Modules.MemberDirectory_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+		<package name="DotNetNuke.Modules.MemberDirectory_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
 			<friendlyName>Member Directory Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description><![CDATA[Dutch (Netherlands) language pack for Member Directory.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -551,17 +552,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Modules.CoreMessaging_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+		<package name="DotNetNuke.Modules.CoreMessaging_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
 			<friendlyName>Message Center Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description><![CDATA[Dutch (Netherlands) language pack for Message Center.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-			<releaseNotes></releaseNotes>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -579,17 +581,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNNCorp.RazorHost_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+		<package name="DNNCorp.RazorHost_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
 			<friendlyName>Razor Host Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description><![CDATA[Dutch (Netherlands) language pack for Razor Host.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -619,17 +622,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="Social Groups_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+		<package name="Social Groups_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
 			<friendlyName>Social Groups Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description><![CDATA[Dutch (Netherlands) language pack for Social Groups.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -659,17 +663,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="DefaultAuthentication_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+		<package name="DefaultAuthentication_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
 			<friendlyName>Default Authentication Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description><![CDATA[Dutch (Netherlands) language pack for Default Authentication.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -687,16 +692,19 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.EditBar.UI_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+		<package name="Dnn.EditBar.UI_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
 			<friendlyName>Dnn.EditBar.UI Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description><![CDATA[Dutch (Netherlands) language pack for Dnn.EditBar.UI.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			<components>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
+			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
 						<code>nl-NL</code>
@@ -725,17 +733,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.PersonaBar.UI_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+		<package name="Dnn.PersonaBar.UI_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
 			<friendlyName>Dnn.PersonaBar.UI Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description><![CDATA[Dutch (Netherlands) language pack for Dnn.PersonaBar.UI.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -798,10 +807,6 @@
 							<name>servers.nl-NL.resx</name>
 						</languageFile>
 						<languageFile>
-							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteGroups\App_LocalResources</path>
-							<name>sitegroups.nl-NL.resx</name>
-						</languageFile>
-						<languageFile>
 							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteImportExport\App_LocalResources</path>
 							<name>SiteImportExport.nl-NL.resx</name>
 						</languageFile>
@@ -845,17 +850,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="SiteExportImport_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+		<package name="SiteExportImport_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
 			<friendlyName>Site Export Import Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description><![CDATA[Dutch (Netherlands) language pack for Site Export Import.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
 			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-			<releaseNotes></releaseNotes>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -869,17 +875,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.AzureConnector_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+		<package name="Dnn.AzureConnector_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
 			<friendlyName>Dnn Azure Connector Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description><![CDATA[Dutch (Netherlands) language pack for Dnn Azure Connector.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -893,41 +900,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNN.Connectors.GoogleAnalytics_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
-			<friendlyName>Dnn Google Anlytics Connector Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+		<package name="AspNetClientCapabilityProvider_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
+			<friendlyName>DotNetNuke ASP.NET Client Capability Provider Nederlands (Nederland)</friendlyName>
+			<description><![CDATA[Dutch (Netherlands) language pack for DotNetNuke ASP.NET Client Capability Provider.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
-			<components>
-				<component type="ExtensionLanguage">
-					<languageFiles>
-						<code>nl-NL</code>
-						<package>Dnn.GoogleAnalyticsConnector</package>
-						<languageFile>
-							<path>DesktopModules\Connectors\GoogleAnalytics\App_LocalResources</path>
-							<name>sharedresources.nl-NL.resx</name>
-						</languageFile>
-					</languageFiles>
-				</component>
-			</components>
-		</package>
-		<package name="AspNetClientCapabilityProvider_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
-			<friendlyName>DNN ASP.NET Client Capability Provider Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
-			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
-			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -941,17 +925,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Providers.FolderProviders_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
-			<friendlyName>DNN Folder Providers Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+		<package name="DotNetNuke.Providers.FolderProviders_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
+			<friendlyName>DotNetNuke Folder Providers Nederlands (Nederland)</friendlyName>
+			<description><![CDATA[Dutch (Netherlands) language pack for DotNetNuke Folder Providers.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -965,17 +950,18 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNNConnect.CKEditorProvider_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+		<package name="DNNConnect.CKEditorProvider_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
 			<friendlyName>DNN Connect CKEditor Provider Nederlands (Nederland)</friendlyName>
-			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<description><![CDATA[Dutch (Netherlands) language pack for DNN Connect CKEditor Provider.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
 			<iconFile />
 			<owner>
-				<organization>.NET Foundation</organization>
-				<url>https://www.dnncommunity.org</url>
-				<email>info@dnncommunity.org</email>
+				<name>DNN Corporation</name>
+				<organization>DNN Corporation</organization>
+				<url>www.dnnsoftware.com</url>
+				<email>support@dnnsoftware.com</email>
 			</owner>
-			<license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-			<releaseNotes></releaseNotes>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes />
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
