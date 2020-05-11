@@ -85,31 +85,31 @@
     <value xml:space="preserve">FAQ</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.1.Text">
-    <value xml:space="preserve">Fiets handleidingen</value>
+    <value xml:space="preserve">Fietshandleidingen</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.2.Text">
-    <value xml:space="preserve">Product Catalogi</value>
+    <value xml:space="preserve">Productcatalogi</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.3.Text">
-    <value xml:space="preserve">Product Archief</value>
+    <value xml:space="preserve">Productarchief</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.4.Text">
-    <value xml:space="preserve">Product ondersteuning</value>
+    <value xml:space="preserve">Productondersteuning</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.5.Text">
-    <value xml:space="preserve">Fiets garantie</value>
+    <value xml:space="preserve">Fietsgarantie</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.6.Text">
     <value xml:space="preserve">Nieuwsbrief</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftPane.Module.Title.Text">
-    <value xml:space="preserve">Klanten Support</value>
+    <value xml:space="preserve">Klanten ondersteuning</value>
   </data>
   <data name="Tab.ActivityFeed.FooterRightOuterPane.Module.Title.Text">
     <value xml:space="preserve">Verbind</value>
   </data>
   <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.0.Text" lastModified="2020-05-10 17:44:27">
-    <value xml:space="preserve">DNN Support B.V.</value>
+    <value xml:space="preserve">De Voorbeeld Organisatie B.V.</value>
   </data>
   <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.1.Text" lastModified="2020-05-10 17:44:27">
     <value xml:space="preserve">Zomaareenstraat 123
@@ -128,7 +128,7 @@
     <value xml:space="preserve">Activiteitentoevoer</value>
   </data>
   <data name="Tab.ActivityFeed.RightPane.Module.Title.Text">
-    <value xml:space="preserve"> Ledenlijst</value>
+    <value xml:space="preserve">Ledenlijst</value>
   </data>
   <data name="Tab.ActivityFeed.Title.Text">
     <value xml:space="preserve">Activiteitentoevoer</value>
@@ -228,7 +228,7 @@
     <value xml:space="preserve">Google Analytics</value>
   </data>
   <data name="Tab.Home.CompanyIntro.Text">
-    <value xml:space="preserve">DNN (Voorheen DotNetNuke) biedt een pakket van oplossingen voor het creëren van rijke, belonende online ervaringen voor klanten, partners en medewerkers. DNN producten en technologie zijn de fundering voor meer als 750.000 websites wereldwijd. In de lijn van onze commerciele CMS en Social community oplossingen. DNN is de ondersteuner van het DotNetNuke open source project.</value>
+    <value xml:space="preserve">DNN (Voorheen DotNetNuke) biedt een pakket van oplossingen voor het creëren van rijke, belonende online ervaringen voor klanten, partners en medewerkers. DNN producten en technologie zijn de fundering voor meer als 750.000 websites wereldwijd.</value>
   </data>
   <data name="Tab.Home.Header.Content">
     <value xml:space="preserve">DNN&lt;sup&gt;&amp;reg;&lt;/sup&gt;maakt de installatie en het gebruik makkelijk voor jou.&lt;sup&gt;&amp;reg;&lt;/sup&gt;We hebben meerdere opties om aan te sluiten bij uw behoefte, Of u het CMS nu wilt proberen in de Cloud, of wilt installeren op uw eigen server of op uw lokale computer voor ontwikkeling. U bent slechts een klik verwijderd van uw start met DNN&lt;sup&gt;&amp;reg;&lt;/sup&gt;.</value>
@@ -237,7 +237,7 @@
     <value xml:space="preserve">Elke tocht begint met de eerste stap</value>
   </data>
   <data name="Tab.Home.Main.Blog.Link">
-    <value xml:space="preserve">http://www.dnnsoftware.com/community-blog?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=blog&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://dnncommunity.org/blogs</value>
   </data>
   <data name="Tab.Home.Main.Blog.SubLink.Text">
     <value xml:space="preserve">Lees het Community blog</value>
@@ -357,7 +357,7 @@
     <value xml:space="preserve">U kunt niet tot dit punt komen zonder een aantal vragen. U heeft misschien zelfs wel een paar antwoorden om te delen. Hoe dan ook, u gaat richting de Q&amp;A pagina. </value>
   </data>
   <data name="Tab.Home.Main.Shop.Link">
-    <value xml:space="preserve">http://store.dnnsoftware.com/?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=shop&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://store.dnnsoftware.com/</value>
   </data>
   <data name="Tab.Home.Main.Shop.SubLink.Text">
     <value xml:space="preserve">Winkel in de DNN shop</value>
@@ -372,7 +372,7 @@
     <value xml:space="preserve">Sluit je aan bij de Community om interactie te hebben of om te leren.</value>
   </data>
   <data name="Tab.Home.Main.Videos.Link">
-    <value xml:space="preserve">http://store.dnnsoftware.com/?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=shop&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://dnncommunity.org/Resources/White-Papers</value>
   </data>
   <data name="Tab.Home.Main.Videos.SubLink.Text">
     <value xml:space="preserve">Bekijk DNN video's</value>
@@ -384,7 +384,7 @@
     <value xml:space="preserve">Iedereen leert visueel. Wat is er beter dan het online bekijken van een video terwijl je door kunt werken. De DNN Video bibliotheek is een grote bron van How-to informatie.</value>
   </data>
   <data name="Tab.Home.Main.Webinars.Link">
-    <value xml:space="preserve">http://store.dnnsoftware.com/?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=shop&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://dnncommunity.org/documentation</value>
   </data>
   <data name="Tab.Home.Main.Webinars.SubLink.Text">
     <value xml:space="preserve">Woon een webinar bij</value>
@@ -396,7 +396,7 @@
     <value xml:space="preserve">Betreed de wereld van de DNN webinars waar mensen met kennis deze met je delen. Dat is veel kennis, en het is is bedoeld om uw kennis te vergroten.</value>
   </data>
   <data name="Tab.Home.Main.Wikis.Link">
-    <value xml:space="preserve">http://store.dnnsoftware.com/?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=shop&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://dnncommunity.org/documentation</value>
   </data>
   <data name="Tab.Home.Main.Wikis.SubLink.Text">
     <value xml:space="preserve">Lees de DNN wiki</value>
@@ -417,7 +417,7 @@
     <value xml:space="preserve">DNN (voorheen DotNetNuke) is een open source schaalbaar, uitbreidbaar en veilig conten management systeem (CMS).</value>
   </data>
   <data name="Tab.Home.Product.Content.Link">
-    <value xml:space="preserve">http://store.dnnsoftware.com/?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=shop&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://store.dnnsoftware.com/</value>
   </data>
   <data name="Tab.Home.Product.Content.Link.Title">
     <value xml:space="preserve">Maak en beheer Inhoud</value>
@@ -426,7 +426,7 @@
     <value xml:space="preserve">Rijkere inhoud, sterkere &lt;br/&gt;beveiliging en verbeterde&lt;br/&gt;SEO direct onder &lt;br/&gt; uw vingertoppen</value>
   </data>
   <data name="Tab.Home.Product.Social.Link">
-    <value xml:space="preserve">http://www.dnnsoftware.com/solutions/evoq-social-online-community-management?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=evoq-social&amp;utm_content=7.3-banner&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://dnncommunity.org/documentation</value>
   </data>
   <data name="Tab.Home.Product.Social.Link.Title">
     <value xml:space="preserve">Bouw en vergroot communities</value>
@@ -552,19 +552,19 @@
     <value xml:space="preserve">FAQ</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftPane.Module.Content.1.Text">
-    <value xml:space="preserve">Fiets handleidingen</value>
+    <value xml:space="preserve">Fietshandleidingen</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftPane.Module.Content.2.Text">
-    <value xml:space="preserve">Product catalogi</value>
+    <value xml:space="preserve">Productcatalogi</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftPane.Module.Content.3.Text">
-    <value xml:space="preserve">Product archief</value>
+    <value xml:space="preserve">Productarchief</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftPane.Module.Content.4.Text">
-    <value xml:space="preserve">Product ondersteunin</value>
+    <value xml:space="preserve">Productondersteuning</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftPane.Module.Content.5.Text">
-    <value xml:space="preserve">Fiest garantie</value>
+    <value xml:space="preserve">Fiestgarantie</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftPane.Module.Content.6.Text">
     <value xml:space="preserve">Nieuwsbrief</value>
@@ -576,7 +576,7 @@
     <value xml:space="preserve">Connect</value>
   </data>
   <data name="Tab.MyFriends.FooterRightPane.Module.Content.0.Text">
-    <value xml:space="preserve">DNN Support B.V.</value>
+    <value xml:space="preserve">De Voorbeeld Organisatie B.V.</value>
   </data>
   <data name="Tab.MyFriends.FooterRightPane.Module.Content.1.Text" lastModified="2020-05-10 17:44:27">
     <value xml:space="preserve">Zomaareenstraat 123
@@ -676,7 +676,7 @@
     <value xml:space="preserve">Verbind</value>
   </data>
   <data name="Tab.MyMessages.FooterRightPane.Module.Content.0.Text">
-    <value xml:space="preserve">DNN Support B.V.</value>
+    <value xml:space="preserve">De Voorbeeld Organisatie B.V.</value>
   </data>
   <data name="Tab.MyMessages.FooterRightPane.Module.Content.1.Text" lastModified="2020-05-10 17:44:27">
     <value xml:space="preserve">Zomaareenstraat 123
@@ -773,7 +773,7 @@
     <value xml:space="preserve">Verbind</value>
   </data>
   <data name="Tab.MyProfile.FooterRightPane.Module.Content.0.Text" lastModified="2020-05-10 15:43:14">
-    <value xml:space="preserve">DNN Support B.V.</value>
+    <value xml:space="preserve">De Voorbeeld Organisatie B.V.</value>
   </data>
   <data name="Tab.MyProfile.FooterRightPane.Module.Content.1.Text" lastModified="2020-05-10 17:44:27">
     <value xml:space="preserve">Zomaareenstraat 123
