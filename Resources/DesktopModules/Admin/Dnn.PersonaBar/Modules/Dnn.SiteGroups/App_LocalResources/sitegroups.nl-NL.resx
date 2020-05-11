@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Add.Button" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Toevoegen</value>
+  </data>
+  <data name="AuthenticationDomain.Help" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Meestal niet nodig</value>
+  </data>
+  <data name="AuthenticationDomain.Label" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Domein voor authenticatie</value>
+  </data>
+  <data name="Cancel.Button" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="ChooseASite.Label" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Kies een portal</value>
+  </data>
+  <data name="Delete.Button" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Verwijderen</value>
+  </data>
+  <data name="DeleteGroup.Confirm" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Wwet u zeker dat u deze sitegroep wilt verwijderen?</value>
+  </data>
+  <data name="Description.Help" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Omschrijf de portal</value>
+  </data>
+  <data name="Description.Label" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Omschrijving</value>
+  </data>
+  <data name="Edit.Button" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">WIjzigen</value>
+  </data>
+  <data name="EditModule_Assigned.Label" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Toegekend</value>
+  </data>
+  <data name="EditModule_Unassigned.Label" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Niet toegekend</value>
+  </data>
+  <data name="GroupName.Header" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Groepnaam</value>
+  </data>
+  <data name="GroupName.Help" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Deze naam help om de groep te identificeren</value>
+  </data>
+  <data name="GroupName.Label" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Geoepnaam:</value>
+  </data>
+  <data name="GroupName.Required" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Een naam van de groep is vereist</value>
+  </data>
+  <data name="MasterSite.Header" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Hoofdportal</value>
+  </data>
+  <data name="MasterSite.Help" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Hoofdportal</value>
+  </data>
+  <data name="MasterSite.Label" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Hoofdportal:</value>
+  </data>
+  <data name="nav_SiteGroups.Text" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Portalgroep</value>
+  </data>
+  <data name="NewSiteGroup.Button" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Nieuwe portalgroep</value>
+  </data>
+  <data name="NoData.Text" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Er zijn nog geen portalgroepen gedefinieerd</value>
+  </data>
+  <data name="Save.Button" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Opslaan</value>
+  </data>
+  <data name="SiteGroup.Label" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Portalgroep:</value>
+  </data>
+  <data name="Sites.Label" lastModified="2020-05-08 16:36:35">
+    <value xml:space="preserve">Portalen:</value>
+  </data>
+</root>

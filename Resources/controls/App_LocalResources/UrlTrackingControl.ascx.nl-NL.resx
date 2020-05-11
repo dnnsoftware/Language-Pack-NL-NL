@@ -127,7 +127,7 @@
     <value>Aangemaakt</value>
   </data>
   <data name="Clicks.Text" xml:space="preserve">
-    <value>Kliks</value>
+    <value>Aantal kliks</value>
   </data>
   <data name="LastClick.Text" xml:space="preserve">
     <value>Laatste klik</value>

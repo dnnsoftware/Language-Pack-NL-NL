@@ -25,7 +25,7 @@
     <value xml:space="preserve">Alleen beheerders</value>
   </data>
   <data name="AdminTemplate.Error">
-    <value xml:space="preserve">Fout bij verwerken Beheer Sjabloon</value>
+    <value xml:space="preserve">Fout bij verwerken Beheersjabloon</value>
   </data>
   <data name="All.Text">
     <value xml:space="preserve">Alles</value>
@@ -88,10 +88,10 @@
     <value xml:space="preserve">Standaard instellingen van het profiel</value>
   </data>
   <data name="BeginSkinFile.Text">
-    <value xml:space="preserve">Begin verwerken bestand</value>
+    <value xml:space="preserve">Begin met verwerken bestand</value>
   </data>
   <data name="BeginZip.Text">
-    <value xml:space="preserve">Begin verwerken ZIP bestand</value>
+    <value xml:space="preserve">Begin met verwerken ZIP bestand</value>
   </data>
   <data name="Calendar.Text">
     <value xml:space="preserve">Kalender</value>
@@ -108,7 +108,7 @@
   <data name="Captcha.Text">
     <value xml:space="preserve">Beveiligingscode</value>
   </data>
-  <data name="CaptchaAlt.Text">
+  <data name="CaptchaAlt.Text">met 
     <value xml:space="preserve">CAPTCHA Afbeelding</value>
   </data>
   <data name="CaptchaText.Text">
@@ -127,7 +127,7 @@
     <value xml:space="preserve">Verwerken afgerond van opschoon bestand - {0}</value>
   </data>
   <data name="CLEANUP_Processing.Text">
-    <value xml:space="preserve">Verwerken Opschoon bestand - {0}</value>
+    <value xml:space="preserve">Verwerken opschoon bestand - {0}</value>
   </data>
   <data name="CleanWarningTitle.Text">
     <value xml:space="preserve">URL opgeschoond</value>
@@ -187,7 +187,7 @@
     <value xml:space="preserve">Nieuw bestand uploaden</value>
   </data>
   <data name="CollapseAll.Text">
-    <value xml:space="preserve">Alles Inklappen</value>
+    <value xml:space="preserve">Alles inklappen</value>
   </data>
   <data name="CommentProvided.Action">
     <value xml:space="preserve">Inhoud geleverd</value>
@@ -229,7 +229,7 @@
     <value xml:space="preserve">Container kon niet geladen worden: {0}</value>
   </data>
   <data name="Containers.Text">
-    <value xml:space="preserve">Containers </value>
+    <value xml:space="preserve">Containers</value>
   </data>
   <data name="ContentType.Text" lastModified="2018-07-20 13:43:15">
     <value xml:space="preserve">Contenttype</value>
@@ -247,10 +247,10 @@
     <value xml:space="preserve">Formatteren registratie instructie</value>
   </data>
   <data name="CopyPermissionsToChildren.Text">
-    <value xml:space="preserve">Rechten zullen worden vervangen voor alle dochterpagina's vam deze pagina.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Weet u zeker dat u door wilt gaag?</value>
+    <value xml:space="preserve">Rechten zullen worden vervangen voor alle dochterpagina's vam deze pagina.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Weet u zeker dat u door wilt gaan?</value>
   </data>
   <data name="CreateAdminUser.Error">
-    <value xml:space="preserve">Fout bij aanmaken Beheerder Account</value>
+    <value xml:space="preserve">Fout bij aanmaken Beheerdersaccount</value>
   </data>
   <data name="CreateDir.Text">
     <value xml:space="preserve">Map aanmaken</value>
@@ -313,13 +313,13 @@
     <value xml:space="preserve">Fout bij het maken van Standaard Map Typen</value>
   </data>
   <data name="DefaultSaveDraftWorkflowDescription.Text">
-    <value xml:space="preserve">Staat een auteur toe om een  concept op te slaan voor de content wordt gepubliceerd.</value>
+    <value xml:space="preserve">Staat een auteur toe om een concept op te slaan voor de content wordt gepubliceerd.</value>
   </data>
   <data name="DefaultSaveDraftWorkflowName.Text">
     <value xml:space="preserve">Concept opslaan</value>
   </data>
   <data name="DefaultWorkflowDescription.Text">
-    <value xml:space="preserve">Geeft de auteur de mogelijkheid om inhoud te beheren en deze vervolgend te laten reviewen door andere gebruikers voordat deze wordt gepubliceerd </value>
+    <value xml:space="preserve">Geeft de auteur de mogelijkheid om inhoud te beheren en deze vervolgens te laten reviewen door andere gebruikers voordat deze wordt gepubliceerd </value>
   </data>
   <data name="DefaultWorkflowMigrationPrefix.Text">
     <value xml:space="preserve">Mappen:</value>
@@ -391,7 +391,7 @@
     <value xml:space="preserve">Sluiten</value>
   </data>
   <data name="DismissNotification.Text">
-    <value xml:space="preserve">Deze kennisgeving ontslaan</value>
+    <value xml:space="preserve">Deze kennisgeving negeren</value>
   </data>
   <data name="DisplayEnglish.Text">
     <value xml:space="preserve">Toon Engelse naam</value>
@@ -505,16 +505,16 @@
     <value xml:space="preserve">Deze taalinstelling is bestaat reeds</value>
   </data>
   <data name="EXCEPTION.LangPack.FileMissing">
-    <value xml:space="preserve">Bestand {0} ontbreekt in taalpakket pakbon.</value>
+    <value xml:space="preserve">Bestand {0} ontbreekt in taalpakket.</value>
   </data>
   <data name="EXCEPTION.LangPack.Install">
     <value xml:space="preserve">Er is een fout opgetreden bij het laden van het taalpakket taalbestand. Fout: {0}</value>
   </data>
   <data name="EXCEPTION.LangPack.ManifestLoad">
-    <value xml:space="preserve">Er is een fout opgetreden bij het laden van het taalpakket pakbon. Fout: {0}</value>
+    <value xml:space="preserve">Er is een fout opgetreden bij het laden van het taalpakket. Fout: {0}</value>
   </data>
   <data name="EXCEPTION.LangPack.ManifestZip">
-    <value xml:space="preserve">Er is een fout opgetreden bij het lezen van het taalpakket pakbon uit het ZIP bestand. Fout: {0}</value>
+    <value xml:space="preserve">Er is een fout opgetreden bij het lezen van het taalpakket uit het ZIP bestand. Fout: {0}</value>
   </data>
   <data name="EXCEPTION.Log">
     <value xml:space="preserve">UITZONDERING: {0}</value>
@@ -571,7 +571,7 @@
     <value xml:space="preserve">Taalbestand zoals gespecificeerd in dnn-bestand kon niet worden gevonden in het ZIP-bestand: </value>
   </data>
   <data name="EXCEPTION_ModuleCacheMissing.Text">
-    <value xml:space="preserve">De ModuleCachingProvider is niet juist geconfigureerd.  Controleer of de  ModuleCachingProvider aanwezig is in de web.config en of een standaard provider is gespecificeerd.</value>
+    <value xml:space="preserve">De ModuleCachingProvider is niet juist geconfigureerd. Controleer of de ModuleCachingProvider aanwezig is in de web.config en of een standaard provider is gespecificeerd.</value>
   </data>
   <data name="EXCEPTION_MultipleDnn.Text">
     <value xml:space="preserve">Meerdere .dnn bestanden gevonden in ZIP-bestand: </value>
@@ -676,7 +676,7 @@
     <value xml:space="preserve">&lt;div class="invalidFiles"&gt;&lt;p&gt;[COUNT] van [TOTAL] bestanden zijn niet uitgepakt omdat het bestandstype niet wordt ondersteund:&lt;/p&gt;[FILELIST]&lt;/div&gt;</value>
   </data>
   <data name="FileUpload.UnzipFilePromptTitle.Text">
-    <value xml:space="preserve">Unzip Informatie</value>
+    <value xml:space="preserve">Unzip informatie</value>
   </data>
   <data name="FileUpload.UnzipFileSuccessPromptBody.Text">
     <value xml:space="preserve">&lt;div class="validFiles"&gt;&lt;p&gt;[TOTAL] van [TOTAL] Bestanden zijn succesvol uitgepakt.&lt;/div&gt;</value>
@@ -751,7 +751,7 @@
     <value xml:space="preserve">U bent niet bevoegd afbeeldingen te uploaden.</value>
   </data>
   <data name="FTB_ImageUploaded.Text">
-    <value xml:space="preserve">Afbeelding {0} succesvol ge-upload.</value>
+    <value xml:space="preserve">Afbeelding {0} succesvol geüpload.</value>
   </data>
   <data name="FTB_ImageUploadNoFile.Text">
     <value xml:space="preserve">Geen bestand geüpload</value>
@@ -772,7 +772,7 @@
     <value xml:space="preserve">Host hoofdmap</value>
   </data>
   <data name="Hour.Text">
-    <value xml:space="preserve">Uur</value>
+    <value xml:space="preserve">uur</value>
   </data>
   <data name="HourAgo.Text">
     <value xml:space="preserve">{0} uur geleden</value>
@@ -781,7 +781,7 @@
     <value xml:space="preserve">Per uur</value>
   </data>
   <data name="Hours.Text">
-    <value xml:space="preserve">Uren</value>
+    <value xml:space="preserve">uren</value>
   </data>
   <data name="HoursAgo.Text">
     <value xml:space="preserve">{0} uren geleden</value>
@@ -802,7 +802,7 @@
     <value xml:space="preserve">Onveilige gebruikersgegevens</value>
   </data>
   <data name="InsecureHost.Text">
-    <value xml:space="preserve">Uw host (superuser) account staat nog steeds ingesteld op het  bekende standaard wachtwoord. Ga naar de Host-&amp;gt; superuser accounts menu en het wachtwoord.</value>
+    <value xml:space="preserve">Uw host (superuser) account staat nog steeds ingesteld op het bekende standaard wachtwoord. Ga naar de Host-&amp;gt; superuser accounts menu en het wachtwoord.</value>
   </data>
   <data name="InsertSmileyButton.Text">
     <value xml:space="preserve">Smiley invoegen</value>
@@ -901,7 +901,7 @@
     <value xml:space="preserve">Registratie taalbestand succesvol verwijderd - {0}</value>
   </data>
   <data name="LanguageNotSelected.Text">
-    <value xml:space="preserve">U heeft geen voorkeurstaal aangegeven.  Uw voorkeurstaal zal dan ook worden ingesteld op de standaard instelling van de website.</value>
+    <value xml:space="preserve">U heeft geen voorkeurstaal aangegeven. Uw voorkeurstaal zal dan ook worden ingesteld op de standaard instelling van de website.</value>
   </data>
   <data name="Last.Text">
     <value xml:space="preserve">Laatste</value>
@@ -925,10 +925,10 @@
     <value xml:space="preserve">Skin object voor symbool {0} wordt geladen</value>
   </data>
   <data name="Localization_NotLocalized.Text">
-    <value xml:space="preserve">Niet Gelokaliseerd</value>
+    <value xml:space="preserve">Niet gelokaliseerd</value>
   </data>
   <data name="Localization_NotTranslated.Text">
-    <value xml:space="preserve">Niet Vertaald</value>
+    <value xml:space="preserve">Niet vertaald</value>
   </data>
   <data name="Localization_OutOfDate.Text">
     <value xml:space="preserve">Verlopen</value>
@@ -1015,7 +1015,7 @@
     <value xml:space="preserve">Bestand importeren: {0}</value>
   </data>
   <data name="LOG.PALogger.EndJob">
-    <value xml:space="preserve">Start Taak</value>
+    <value xml:space="preserve">Start taak</value>
   </data>
   <data name="LOG.PALogger.Failure">
     <value xml:space="preserve">Mislukt</value>
@@ -1024,7 +1024,7 @@
     <value xml:space="preserve">Informatie</value>
   </data>
   <data name="LOG.PALogger.StartJob">
-    <value xml:space="preserve">Stop Taak</value>
+    <value xml:space="preserve">Stop taak</value>
   </data>
   <data name="LOG.PALogger.Warning">
     <value xml:space="preserve">Waarschuwing</value>
@@ -1060,19 +1060,19 @@
     <value xml:space="preserve">Geminimaliseerd</value>
   </data>
   <data name="Minute.Text">
-    <value xml:space="preserve">Minuut</value>
+    <value xml:space="preserve">minuut</value>
   </data>
   <data name="MinuteAgo.Text">
     <value xml:space="preserve">{0} minuten geleden</value>
   </data>
   <data name="Minutes.Text">
-    <value xml:space="preserve">Minuten</value>
+    <value xml:space="preserve">minuten</value>
   </data>
   <data name="MinutesAgo.Text">
     <value xml:space="preserve">{0} minuten geleden</value>
   </data>
   <data name="MODULE_AdminPageAdded.Text" lastModified="2015-12-30 07:27:18">
-    <value xml:space="preserve">Admin pagina {0} toegevoegd aan portaal {1}.</value>
+    <value xml:space="preserve">Admin pagina {0} toegevoegd aan portal {1}.</value>
   </data>
   <data name="MODULE_AdminPagemoduleAdded.Text" lastModified="2015-12-30 07:27:18">
     <value xml:space="preserve">Module toegevoegd op admin pagina {0} op portal {1}.</value>
@@ -1084,19 +1084,19 @@
     <value xml:space="preserve">Admin pagina {0} verwijderd van portal {1}.</value>
   </data>
   <data name="MODULE_ControlKeyMissing.Text">
-    <value xml:space="preserve">Module Control Sleutel Ontbreekt</value>
+    <value xml:space="preserve">Module Control Sleutel ontbreekt</value>
   </data>
   <data name="MODULE_ControlTypeMissing.Text">
-    <value xml:space="preserve">Module Control Type Ontbreekt</value>
+    <value xml:space="preserve">Module Control Type ontbreekt</value>
   </data>
   <data name="MODULE_FriendlyNameMissing.Text">
-    <value xml:space="preserve">Module Gebruiksvriendelijk Naam Ontbreekt</value>
+    <value xml:space="preserve">Module gebruiksvriendelijk naam ontbreekt</value>
   </data>
   <data name="MODULE_HostAdded.Text" lastModified="2015-12-30 07:27:18">
     <value xml:space="preserve">Module toegevoegd aan host pagina {0}.</value>
   </data>
   <data name="MODULE_HostPageAdded.Text" lastModified="2015-12-30 07:27:18">
-    <value xml:space="preserve">Host pagina {0} toegevoegt. </value>
+    <value xml:space="preserve">Host pagina {0} toegevoegd. </value>
   </data>
   <data name="MODULE_HostPagemoduleAdded.Text" lastModified="2015-12-30 07:27:18">
     <value xml:space="preserve">Module toegevoegd op host pagina {0}.</value>
@@ -1111,10 +1111,10 @@
     <value xml:space="preserve">Versie {0} is ongeldig - niet toe gevoegd aan UpgradeVersions lijst.</value>
   </data>
   <data name="MODULE_ReadSuccess.Text">
-    <value xml:space="preserve">Module Manifest Succesvol Gelezen</value>
+    <value xml:space="preserve">Module Manifest succesvol gelezen</value>
   </data>
   <data name="MODULE_Registered.Text">
-    <value xml:space="preserve">Module Succesvol geregistreerd - {0}</value>
+    <value xml:space="preserve">Module succesvol geregistreerd - {0}</value>
   </data>
   <data name="MODULE_UnRegistered.Text">
     <value xml:space="preserve">De-registratie module succesvol - {0}</value>
@@ -1126,10 +1126,10 @@
     <value xml:space="preserve">Niet afgehandelde fout bij toevoegen module aan {0}</value>
   </data>
   <data name="ModuleEffective.Text">
-    <value xml:space="preserve">Module Effectief - {0}</value>
+    <value xml:space="preserve">Module effectief - {0}</value>
   </data>
   <data name="ModuleExpired.Text">
-    <value xml:space="preserve">Module Verlopen - {0}</value>
+    <value xml:space="preserve">Module verlopen - {0}</value>
   </data>
   <data name="ModuleHelp.Text">
     <value xml:space="preserve">Module Help</value>
@@ -1162,10 +1162,10 @@
     <value xml:space="preserve">{0} maand geleden</value>
   </data>
   <data name="Monthly.Text">
-    <value xml:space="preserve">Maandelijks</value>
+    <value xml:space="preserve">maandelijks</value>
   </data>
   <data name="Months.Text">
-    <value xml:space="preserve">Maanden</value>
+    <value xml:space="preserve">maanden</value>
   </data>
   <data name="MonthsAgo.Text">
     <value xml:space="preserve">{0} maanden geleden</value>
@@ -1225,7 +1225,7 @@
     <value xml:space="preserve">Registratie URL:</value>
   </data>
   <data name="ObjectNotFound.Text">
-    <value xml:space="preserve">Ingesloten Object niet gevonden</value>
+    <value xml:space="preserve">Ingesloten object niet gevonden</value>
   </data>
   <data name="Ok.Text">
     <value xml:space="preserve">Ok</value>
@@ -1288,7 +1288,7 @@
     <value xml:space="preserve">Het wachtwoord is gewijzigd, maar er is een fout opgetreden bij het versturen van de e-mail notificatie.</value>
   </data>
   <data name="PasswordMismatch.Text">
-    <value xml:space="preserve">Het wachtwoord en de wachtwoordbevestiging komen niet met elkaar overeen</value>
+    <value xml:space="preserve">Het wachtwoord en de wachtwoordbevestiging komen niet met elkaar overeen.</value>
   </data>
   <data name="PasswordMissing.Text">
     <value xml:space="preserve">U moet uw huidige wachtwoord invoeren alvorens het te kunnen veranderen.</value>
@@ -1297,7 +1297,7 @@
     <value xml:space="preserve">Het nieuwe wachtwoord is hetzelfde als het oude wachtwoord. Voer alstublieft een ander wachtwoord in.</value>
   </data>
   <data name="PasswordResetFailed.Text">
-    <value xml:space="preserve">Uw nieuwe wachtwoord kan niet worden geaccepteerd wegens beveiligingsredenen. let erop dat het wachtwoord dat u gekozen heeft niet overeenkomt met een eerdergebruikt wachtwoord en voldoet aan de gestelde eisen voor de complexiteit van het wachtwoord door de website.</value>
+    <value xml:space="preserve">Uw nieuwe wachtwoord kan niet worden geaccepteerd wegens beveiligingsredenen. Let erop dat het wachtwoord dat u gekozen heeft niet overeenkomt met een eerder gebruikt wachtwoord en voldoet aan de gestelde eisen voor de complexiteit van het wachtwoord door de website.</value>
   </data>
   <data name="PasswordResetFailed_PasswordInHistory.Text">
     <value xml:space="preserve">Uw nieuwe wachtwoord is niet geaccepteerd wegens beveiligingsredenen. Kies een wachtwoord dat niet overeenkomt met een eerder gebruikt wachtwoord.</value>
@@ -1357,7 +1357,7 @@
     <value xml:space="preserve">De verstuurde URL bevat niet toegestane karakters, Deze zijn verwijderd. U kunt nogmaals op bijwerken klikken om de aangepaste URL te accepteren.</value>
   </data>
   <data name="ProfileUrlNotUnique.Text">
-    <value xml:space="preserve">De gevraagde URL is niet geldig. Als u het voorgesteld alternatief wil accepteren, klik dan op update.</value>
+    <value xml:space="preserve">De gevraagde URL is niet geldig. Als u het voorgesteld alternatief wil accepteren, klik dan op Update.</value>
   </data>
   <data name="Public.Text">
     <value xml:space="preserve">Publiek</value>
@@ -1476,10 +1476,10 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">Tweede</value>
   </data>
   <data name="Seconds.Text">
-    <value xml:space="preserve">Seconden</value>
+    <value xml:space="preserve">seconden</value>
   </data>
   <data name="SecondsAgo.Text">
-    <value xml:space="preserve"> {0} Seconden geleden</value>
+    <value xml:space="preserve"> {0} seconden geleden</value>
   </data>
   <data name="SECURITY_Installer.Text">
     <value xml:space="preserve">U bent niet bevoegd dit component te installeren</value>
@@ -1494,7 +1494,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">Geselecteerde rol</value>
   </data>
   <data name="SendMail.Error">
-    <value xml:space="preserve">Er is een fout opgetreden bij het verzenden van bevestiging e-mails - {0}.  Echter, het gebruiker account is succesvol aangemaakt.</value>
+    <value xml:space="preserve">Er is een fout opgetreden bij het verzenden van bevestiging e-mails - {0}.  Echter, het gebruikersaccount is succesvol aangemaakt.</value>
   </data>
   <data name="SizeB.Text">
     <value xml:space="preserve">B</value>
@@ -1569,7 +1569,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">Einde Sql uitvoer: {0} gereed</value>
   </data>
   <data name="SQL_EndUnInstall.Text">
-    <value xml:space="preserve">Einde sql de-installatie</value>
+    <value xml:space="preserve">Einde sql deïnstallatie</value>
   </data>
   <data name="SQL_Exceptions.Text">
     <value xml:space="preserve">SQL uitvoer leverde de volgende uitzonderingen op: {0}{1}</value>
@@ -1614,7 +1614,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">Hoofdgebruiker</value>
   </data>
   <data name="System_Default.Text">
-    <value xml:space="preserve">Systeem Standaard</value>
+    <value xml:space="preserve">Systeem standaard</value>
   </data>
   <data name="TabAccess.Error">
     <value xml:space="preserve">U heeft geen toegang om deze pagina te bekijken.</value>
@@ -1743,16 +1743,16 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">Zichtbaarheid:</value>
   </data>
   <data name="Week.Text">
-    <value xml:space="preserve">Week </value>
+    <value xml:space="preserve">week </value>
   </data>
   <data name="WeekAgo.Text">
     <value xml:space="preserve">{0} week geleden</value>
   </data>
   <data name="Weekly.Text">
-    <value xml:space="preserve">Wekelijks</value>
+    <value xml:space="preserve">wekelijks</value>
   </data>
   <data name="Weeks.Text">
-    <value xml:space="preserve">Weken</value>
+    <value xml:space="preserve">weken</value>
   </data>
   <data name="WeeksAgo.Text">
     <value xml:space="preserve">{0} weken geleden</value>
@@ -1761,7 +1761,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">&lt;p&gt; Helaas was er een fout met deze Wizard. Gelieve het onderstaande bericht door te nemen en neem contact op met uw provider. &lt;/p&gt;</value>
   </data>
   <data name="Wizard.Success.FailureTitle">
-    <value xml:space="preserve">Wizard Mislukt:</value>
+    <value xml:space="preserve">Wizard mislukt:</value>
   </data>
   <data name="Wizard.Success.SuccessDetail">
     <value xml:space="preserve">&lt;p&gt;Gefeliciteerd. De wizard is voltooid.&lt;/p&gt;</value>
@@ -1830,10 +1830,10 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">Bijgewerkt door {1} versie{2} - datum: {3}</value>
   </data>
   <data name="Year.Text">
-    <value xml:space="preserve">Jaar</value>
+    <value xml:space="preserve">jaar</value>
   </data>
   <data name="Years.Text">
-    <value xml:space="preserve">Jaren</value>
+    <value xml:space="preserve">jaren</value>
   </data>
   <data name="YellowWarning.Text">
     <value xml:space="preserve">Waarschuwing</value>
