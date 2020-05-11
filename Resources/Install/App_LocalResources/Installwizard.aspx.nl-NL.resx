@@ -12,6 +12,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AcceptTerms.Required">
+    <value xml:space="preserve">Ga akkoord met de gebruikersvoorwaarden om door te gaan.</value>
+  </data>
+  <data name="AcceptTerms.Text">
+    <value xml:space="preserve">Ik ga akkoord met de  &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;gebruikersvoorwaardenlicense&lt;/a&gt;</value>
+  </data>
   <data name="AccountInfo.Text">
     <value xml:space="preserve">Vul uw account informatie in</value>
   </data>
@@ -87,7 +93,7 @@
   <data name="DatabaseObjectQualifier.Text">
     <value xml:space="preserve">Object Qualifier </value>
   </data>
-  <data name="DatabaseOwner.Text" lastModified="2018-07-24 11:44:46">
+  <data name="DatabaseOwner.Text" lastModified="2018-07-24 09:44:46">
     <value xml:space="preserve">Database Eigenaar</value>
   </data>
   <data name="DatabasePassword.Help">
@@ -132,8 +138,8 @@
   <data name="DatabaseType.Help">
     <value xml:space="preserve">Type database dat wordt gebruikt voor de installatie.</value>
   </data>
-  <data name="DatabaseType.Text">
-    <value xml:space="preserve">Database type</value>
+  <data name="DatabaseType.Text" lastModified="2020-05-10 17:13:30">
+    <value xml:space="preserve">Soort database</value>
   </data>
   <data name="DatabaseUsername.Help">
     <value xml:space="preserve">De gebruikersnaam voor de database.</value>
@@ -152,6 +158,9 @@
   </data>
   <data name="DeletingOldFiles.Text">
     <value xml:space="preserve">Verwijderen van oudere bestanden voor</value>
+  </data>
+  <data name="DotNetVersion472Required.Text" lastModified="2020-05-10 17:13:30">
+    <value xml:space="preserve">.Net Framework 4.7.2 is vereist. COntroleer de Windows updates voordat u verder gaat.</value>
   </data>
   <data name="Email.Help">
     <value xml:space="preserve">Vul een emailadres in voor deze gebruiker</value>
@@ -438,14 +447,5 @@ Standaard database installatie opties niet beschikbaar</value>
   </data>
   <data name="WebsiteTemplate.Text">
     <value xml:space="preserve">Sjabloon</value>
-  </data>
-  <data name="AcceptTerms.Required">
-    <value>Ga akkoord met de gebruikersvoorwaarden om door te gaan.</value>
-  </data>
-  <data name="AcceptTerms.Text">
-    <value>Ik ga akkoord met de  &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;gebruikersvoorwaardenlicense&lt;/a&gt;</value>
-  </data>
-  <data name="DotNetVersion472Required.Text">
-    <value>.Net Framework 4.7.2 is required. Check for Windows updates before proceeding.</value>
   </data>
 </root>

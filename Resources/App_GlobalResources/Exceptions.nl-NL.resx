@@ -28,7 +28,7 @@
     <value xml:space="preserve">Het onderliggende systeem heeft een uitzondering gegenereerd. Het bestand is niet toegevoegd.</value>
   </data>
   <data name="AddFolderAlreadyExists.Text">
-    <value xml:space="preserve">De bijgeleverde pad bestaat reeds. De map is niet toegevoegd.</value>
+    <value xml:space="preserve">De aangegeven map bestaat al. De map is niet toegevoegd.</value>
   </data>
   <data name="AddFolderParentCannotBeFound.Text">
     <value xml:space="preserve">Bovenliggende map kan niet worden gevonden.</value>
@@ -64,13 +64,13 @@
     <value xml:space="preserve">Het portaal heeft geen ruimte beschikbaar voor het opslaan van het opgegeven bestand. Het bestand is niet gekopieerd.</value>
   </data>
   <data name="CopyFilePermissionsNotMet.Text">
-    <value xml:space="preserve">Machtigingen niet voldaan. Het bestand is niet gekopieerd.</value>
+    <value xml:space="preserve">De vereiste rechten ontbreken. Het bestand is niet gekopieerd.</value>
   </data>
   <data name="CopyFileUnderlyingSystemError.Text">
     <value xml:space="preserve">Het onderliggende systeem genereert een uitzondering. Het bestand is niet gekopieerd.</value>
   </data>
   <data name="CreateValidatorException.Text" lastModified="2015-12-30 05:35:53">
-    <value xml:space="preserve">Kon validator niet starten - {0}</value>
+    <value xml:space="preserve">De validatie kan niet getart worden  - {0}</value>
   </data>
   <data name="DeleteFileUnderlyingSystemError.Text">
     <value xml:space="preserve">Het onderliggende systeem heeft een uitzondering gegenereerd. Het bestand is niet verwijderd.</value>
@@ -235,7 +235,7 @@
     <value xml:space="preserve">De eigenschap'{1}' van '{0}' kan niet null of leeg.</value>
   </data>
   <data name="PublishPagePermissionsNotMet">
-    <value xml:space="preserve">Rechten zijn niet toerijkend, de pagina is niet gepubliceerd.</value>
+    <value xml:space="preserve">Rechten zijn niet toereikend, de pagina is niet gepubliceerd.</value>
   </data>
   <data name="RenameFileAlreadyExists.Text">
     <value xml:space="preserve">Deze map bevat al een bestand met dezelfde naam. Het bestand is niet hernoemd.</value>

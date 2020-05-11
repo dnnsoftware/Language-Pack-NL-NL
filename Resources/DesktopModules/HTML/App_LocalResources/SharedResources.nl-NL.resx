@@ -15,13 +15,18 @@
   <data name="ApproveContent.Action">
     <value xml:space="preserve">Goedkeuren</value>
   </data>
-  <data name="RejectContent.Action">
-    <value xml:space="preserve">Afwijzen</value>
+  <data name="NotificationBody.Text" lastModified="2020-05-10 17:54:48">
+    <value xml:space="preserve">Content is in a [STATE] status op de volgende oagina van uw site: 
+&lt;br /&gt;
+&lt;a href='[URL]'&gt;[URL]&lt;/a&gt;</value>
+  </data>
+  <data name="NotificationSubject.Text">
+    <value xml:space="preserve">Inhoud [ACTION] Kennisgeving</value>
   </data>
   <data name="PublishContent.Action">
     <value xml:space="preserve">Publiceren</value>
   </data>
-  <data name="NotificationSubject.Text">
-    <value xml:space="preserve">Inhoud [ACTION] Kennisgeving</value>
+  <data name="RejectContent.Action">
+    <value xml:space="preserve">Afwijzen</value>
   </data>
 </root>

@@ -109,8 +109,7 @@
     <value xml:space="preserve">Beveiligingscode</value>
   </data>
   <data name="CaptchaAlt.Text">met 
-    <value xml:space="preserve">CAPTCHA Afbeelding</value>
-  </data>
+    <value xml:space="preserve">CAPTCHA Afbeelding</value></data>
   <data name="CaptchaText.Text">
     <value xml:space="preserve">Vul de bovenstaande code hieronder in</value>
   </data>
@@ -1840,5 +1839,57 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
   </data>
   <data name="Yes.Text">
     <value xml:space="preserve">Ja</value>
+  </data>
+  <data name="CLEANUP_ProcessError.Text">
+    <value>Bij het opschonen van bestanden trad een niet-fatale fout op: {0}</value>
+  </data>
+  <data name="CreatePortalHomeFolderExists.Error">
+    <value>De portal map {0} is al in gebruikt.</value>
+  </data>
+  <data name="DefaultWorkflowState1.OnDiscardMessageBody">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState1.OnDiscardMessageSubject">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState3.OnCompleteMessageBody">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState3.OnCompleteMessageSubject">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState3.OnDiscardMessageBody">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState3.OnDiscardMessageSubject">
+    <value>
+    </value>
+  </data>
+  <data name="EXCEPTION_GlobDotDotNotSupportedInCleanup.Text">
+    <value>".." is een niet-ondersteunde glob eigenschap in de opschooncomponent. Deze opschoning is overgeslagen.</value>
+  </data>
+  <data name="File.Text">
+    <value>
+    </value>
+  </data>
+  <data name="InvalidFirstName.Text">
+    <value>De opgegeven voornaam is niet correct</value>
+  </data>
+  <data name="InvalidLastName.Text">
+    <value>De opgegeven achternaam is niet correct</value>
+  </data>
+  <data name="OAuthConfigBase_HostConfig.Help">
+    <value>Zet deze optie AAN om deze configuratie op HOST niveau vast te leggen, zodat alle portalen de configuratie voor deze authenticatieprovider delen.</value>
+  </data>
+  <data name="OAuthConfigBase_HostConfig.Text">
+    <value>Gebruik Host Configuratie? </value>
+  </data>
+  <data name="VerificationMailSendSuccessful.Text">
+    <value>Verificatie e-mail is succesvol verstuurd.</value>
   </data>
 </root>
