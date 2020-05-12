@@ -31,16 +31,7 @@ Als je wijzgingen (Pull Request) uiteindelijk verwerkt is, synchroniseer dan je 
 
 De synchronisatie moet je ook doen als anderen bijdragen hebben geleverd die in deze centrale repository zijn verwerkt.
 
-# Standaard woorden bij vertaling
+## BELANGRIJK: Common Terms
 
-en-US term | nl-NL vertaling | Toelichting
----|---
-site|website |
-website|website |
-portal|site |
-state | status | in workflows
-you | jij | aanspreekvorm
-your | jouw | 
-page | pagina | pagina in de site
-tab | pagina | pagina in de site
-user | gebruiker | 
+Om te voorkomen dat de één "U" gebruikt en de ander "Jij" is er een [gids voor taalgebruik](.github/COMMON_TERMS.md). Lees deze s.v.p. door alvorens aan de slag te gaan.
+
