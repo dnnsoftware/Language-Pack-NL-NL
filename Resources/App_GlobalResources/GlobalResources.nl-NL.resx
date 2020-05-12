@@ -265,7 +265,7 @@
     <value>Professionele functies</value>
   </data>
   <data name="//Host//ProfessionalFeatures//ActivateyourLicense.String" xml:space="preserve">
-    <value>Activeer je licentie</value>
+    <value>Activeer uw licentie</value>
   </data>
   <data name="//Host//ProfessionalFeatures//AdvancedURLManagement.String" xml:space="preserve">
     <value>Geavanceerd URL management</value>
@@ -825,14 +825,14 @@ Met vriendelijke groet,
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" xml:space="preserve">
     <value>Beste [User:DisplayName],
 
-Je hebt een wachtwoord reset link aangevraad van [Portal:PortalName], Je account staat klaar voor goedkeuring.
+U heeft een wachtwoord reset link aangevraad van [Portal:PortalName], Uw account staat klaar voor goedkeuring.
 
 Het wachtwoord kan worden gereset nadat het account is goedgekeurd.
 
 Met vriendelijk groet,
 [Portal:PortalName]
 
-*Opmerking: Als je geen wachtwoord reset link hebt aangevraagd, verwijder dan dit bericht.</value>
+*Opmerking: Als u geen wachtwoord reset link heeft aangevraagd, verwijder dan dit bericht.</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] wachtwoord herinnering</value>
@@ -1023,7 +1023,7 @@ Dank u voor het in ons gestelde vertrouwen,
     <value>[Portal:PortalName] Nieuwe gebruikersregistratie</value>
   </data>
   <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],Je account voor [Portal:PortalName] Is niet meer geauthoriseerd. Website Adres: [Portal:URL]Gebruikersnaam: [User:UserName]Mocht u vragen hebben, Neem contact op met de websiteadmin [Portal:Email]Met vriendelijke groet,[Portal:PortalName]</value>
+    <value>Beste [User:DisplayName],Uw account voor [Portal:PortalName] Is niet meer geauthoriseerd. Website Adres: [Portal:URL]Gebruikersnaam: [User:UserName]Mocht u vragen hebben, Neem contact op met de websiteadmin [Portal:Email]Met vriendelijke groet,[Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" xml:space="preserve">
     <value>Uw account is niet langer geauthoriseerd voor [Portal:URL]</value>
