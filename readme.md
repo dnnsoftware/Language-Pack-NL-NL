@@ -30,3 +30,17 @@ Zorg dat je een (gratis) account hebt op GitHub.
 Als je wijzgingen (Pull Request) uiteindelijk verwerkt is, synchroniseer dan je lokale (clone) repository (Fetch, Merge) en je (fork) kopie op Github (Push). 
 
 De synchronisatie moet je ook doen als anderen bijdragen hebben geleverd die in deze centrale repository zijn verwerkt.
+
+# Standaard woorden bij vertaling
+
+en-US term | nl-NL vertaling | Toelichting
+---|---
+site|website |
+website|website |
+portal|site |
+state | status | in workflows
+you | jij | aanspreekvorm
+your | jouw | 
+page | pagina | pagina in de site
+tab | pagina | pagina in de site
+user | gebruiker | 
