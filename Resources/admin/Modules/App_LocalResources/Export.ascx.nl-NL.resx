@@ -25,10 +25,10 @@
     <value xml:space="preserve">De geselecteerde module biedt geen ondersteuning voor het exporteren van inhoud</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">Module exporterenBeheerders kunnen de inhoud van deze module exporteren.</value>
+    <value xml:space="preserve">Beheerders kunnen de inhoud van deze module exporteren.</value>
   </data>
   <data name="NoContent.Text">
-    <value xml:space="preserve">De geselecteerde module bevat geen inhoud</value>
+    <value xml:space="preserve">De geselecteerde module heeft geen inhoud.</value>
   </data>
   <data name="plFile.Help" lastModified="2015-12-30 08:47:21">
     <value xml:space="preserve">Vul een export bestandsnaam in.</value>
