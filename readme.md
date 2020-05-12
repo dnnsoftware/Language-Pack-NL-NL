@@ -5,7 +5,7 @@ Versions available:
 * DNN 09.02.00
 * DNN 09.06.01
 
-## How kun je aan de Nederlandse vertaling bijdragen?
+## Hoe kun je aan de Nederlandse vertaling bijdragen?
 
 **Uitgangspunt**: om de kwaliteit en consitentie van de vertalingen te bewaken, worden alle bijdragen worden door 2 mensen beoordeeld alvorens ze worden doorgevoerd.
 
