@@ -5,7 +5,7 @@ on: create
 jobs:
   updateVersions:
     runs-on: ubuntu-latest
-    if: ${{ github.event.ref_type == 'branch' && startsWith(github.event.ref, 'release/' }}
+    if: ${{ github.event.ref_type == 'branch' && startsWith(github.event.ref, 'release/') }}
     steps:
       - uses: action/checkout@v2
     
