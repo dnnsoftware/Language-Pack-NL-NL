@@ -53,10 +53,6 @@
 						</languageFile>
 						<languageFile>
 							<path>admin\Security\App_LocalResources</path>
-							<name>dataconsent.ascx.nl-NL.resx</name>
-						</languageFile>
-						<languageFile>
-							<path>admin\Security\App_LocalResources</path>
 							<name>AccessDenied.ascx.nl-NL.resx</name>
 						</languageFile>
 						<languageFile>
@@ -250,6 +246,10 @@
 						<languageFile>
 							<path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
 							<name>SearchResults.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>DataConsent.ascx.nl-NL.resx</name>
 						</languageFile>
 						<languageFile>
 							<path>DesktopModules\Admin\Security\App_LocalResources</path>
