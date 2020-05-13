@@ -911,7 +911,7 @@
 						<package>Dnn.GoogleAnalyticsConnector</package>
 						<languageFile>
 							<path>DesktopModules\Connectors\GoogleAnalytics\App_LocalResources</path>
-							<name>sharedresources.nl-NL.resx</name>
+							<name>SharedResources.nl-NL.resx</name>
 						</languageFile>
 					</languageFiles>
 				</component>
