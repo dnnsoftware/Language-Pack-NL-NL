@@ -908,7 +908,7 @@
 				<component type="ExtensionLanguage">
 					<languageFiles>
 						<code>nl-NL</code>
-						<package>Dnn.GoogleAnalyticsConnector</package>
+						<package>Dnn.Connectors.GoogleAnalytics</package>
 						<languageFile>
 							<path>DesktopModules\Connectors\GoogleAnalytics\App_LocalResources</path>
 							<name>SharedResources.nl-NL.resx</name>
