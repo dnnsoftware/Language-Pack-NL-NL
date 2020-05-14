@@ -366,9 +366,9 @@
             voor de inhoud, modules en skins. Deze functies vereisen aangepaste beveiligingsinstellingen
             zodat de applicatie in staat is om te maken en te verwijderen bestanden in uw website.&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
-            Met behulp van Windows Verkenner, bladert u naar de hoofdmap van de website. Rechtsklik
-            op de map en selecteer Delen en beveiliging uit het menu (let op dat als u gebruik
-            maakt van Windows XP moet u mogelijk &amp;lt;a href="http://support.microsoft.com/kb/307874/nl-nl"&amp;gt;
+            Met behulp van Windows Verkenner, blader je naar de hoofdmap van de website. Rechtsklik
+            op de map en selecteer Delen en beveiliging uit het menu (let op dat als je gebruik
+            maakt van Windows XP moet je mogelijk &amp;lt;a href="http://support.microsoft.com/kb/307874/nl-nl"&amp;gt;
                 eenvoudig delen van bestanden uitschakelen&amp;lt;/a&amp;gt; voordat deze opties worden weergegeven).
             Selecteer het tabblad Beveiliging. Voeg de juiste gebruikersaccount en stel de machtigingen
             in.&amp;lt;/p&amp;gt;
@@ -452,10 +452,10 @@
     <value>Licentie activeren</value>
   </data>
   <data name="AddFollowerRequestBody.Text" xml:space="preserve">
-    <value>U wordt nu gevolgd door {0}</value>
+    <value>Je wordt nu gevolgd door {0}</value>
   </data>
   <data name="AddFollowerRequestSubject.Text" xml:space="preserve">
-    <value>{0} volgt u nu</value>
+    <value>{0} volgt je nu</value>
   </data>
   <data name="AddFriendRequestBody.Text" xml:space="preserve">
     <value>{0} wil vrienden worden met u</value>
@@ -770,8 +770,8 @@ Verzenden compleet op:      [Custom:3]
 
                             &amp;lt;tr&amp;gt;
                                 &amp;lt;td align="center"&amp;gt;
-                                    &amp;lt;p&amp;gt;Copyright 2013 &amp;lt;a href="[SITEURL]"&amp;gt;[PORTALNAME]&amp;lt;/a&amp;gt; All rights reserved.&amp;lt;/p&amp;gt;
-                                    &amp;lt;p&amp;gt;If you wish to no longer receive emails in the future, please &amp;lt;a href="[UNSUBSCRIBEURL]"&amp;gt;unsubscribe&amp;lt;/a&amp;gt; here.&amp;lt;/p&amp;gt;
+                                    &amp;lt;p&amp;gt;Copyright 2013 &amp;lt;a href="[SITEURL]"&amp;gt;[PORTALNAME]&amp;lt;/a&amp;gt; Alle rechten voorbehouden.&amp;lt;/p&amp;gt;
+                                    &amp;lt;p&amp;gt; Wanneer je in de toekomst geen mails meer wilt ontvangen, klik dan &amp;lt;a href="[UNSUBSCRIBEURL]"&amp;gt;unsubscribe&amp;lt;/a&amp;gt; hier.&amp;lt;/p&amp;gt;
                                 &amp;lt;/td&amp;gt;
                             &amp;lt;/tr&amp;gt;
                         &amp;lt;/table&amp;gt;
@@ -807,17 +807,17 @@ Verzenden compleet op:      [Custom:3]
   <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" xml:space="preserve">
     <value>Beste [Profile:FullName],
 
-U heeft uw wachtwoord herstel opgevraagd van de [Portal:PortalName] website.
+Je hebt een wachtwoordherstel opgevraagd van de [Portal:PortalName] website.
 
 Website Addres: [Portal:URL]
 Gebruikersnaam: [User:Username]
 
-Link naar wachtwoord reset pagina:  [Portal:PASSWORDREMINDERURL]?ctl=PasswordReset&amp;amp;resetToken=[Membership:PasswordResetToken]
+Link naar wachtwoordherstel pagina:  [Portal:PASSWORDREMINDERURL]?ctl=PasswordReset&amp;amp;resetToken=[Membership:PasswordResetToken]
 
 Met vriendelijke groet,
 [Portal:PortalName]
 
-*NB: als u uw geen wachtwoord herstel heeft opgevraagd, dan kunt u dit bericht negeren.</value>
+*NB: als je geen wachtwoord herstel hebt opgevraagd, dan kunt je dit bericht negeren.</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] Wachtwoord opvragen</value>
@@ -825,14 +825,14 @@ Met vriendelijke groet,
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" xml:space="preserve">
     <value>Beste [User:DisplayName],
 
-U heeft een wachtwoord reset link aangevraad van [Portal:PortalName], Uw account staat klaar voor goedkeuring.
+Je hebt een wachtwoordherstel link aangevraad van [Portal:PortalName], Je account staat klaar voor goedkeuring.
 
 Het wachtwoord kan worden gereset nadat het account is goedgekeurd.
 
 Met vriendelijk groet,
 [Portal:PortalName]
 
-*Opmerking: Als u geen wachtwoord reset link heeft aangevraagd, verwijder dan dit bericht.</value>
+*Opmerking: Als je geen wachtwoordherstel link hebt aangevraagd, verwijder dan dit bericht.</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] wachtwoord herinnering</value>
@@ -861,7 +861,7 @@ Verificatiecode: [User:VerificationCode]
 
 Maak alstublieft gebruik van de gelegenheid om de website nu te bezoeken en maak zo goed mogelijk gebruik van de mogelijkheden!
 
-Dank u voor het gebruik van onze diensten
+Dank voor het gebruik van onze diensten
 
 [Host:HostTitle]
 </value>
@@ -874,7 +874,7 @@ Dank u voor het gebruik van onze diensten
 
 Uw profiel voor  de [Portal:PortalName] website is succesvol bijgewerkt.
 
-Sincerely,
+Vriendelijke groet,
 [Portal:PortalName]
 </value>
   </data>
@@ -891,7 +891,7 @@ Beschrijving: [Custom:1]
 Ingangsdatum: [Custom:2]
 Verloopdatum: [Custom:3]
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 </value>
   </data>
@@ -905,10 +905,10 @@ De toegang van uw gebruikersaccount voor de [Portal:PortalName] website is recen
 
 Rol: [Custom:0]
 Beschrijving: [Custom:1]
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]</value>
   </data>
   <data name="EMAIL_ROLE_UNASSIGNMENT_SUBJECT.Text" xml:space="preserve">
@@ -924,7 +924,7 @@ Beschrijving: [Custom:1]
 Datum Ingang: [Custom:2]
 Datum Verlopen: [Custom:3]
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 </value>
   </data>
@@ -950,9 +950,9 @@ Dank u voor het in ons gestelde vertrouwen,
     <value>Registratie is goedgekeurd voor  [Portal:URL]</value>
   </data>
   <data name="EMAIL_USER_LOCKOUT_BODY.Text" xml:space="preserve">
-    <value>Er is een poging gedaan om met een afgesloten gebruikersaccount in te loggen ( gebruikersnaam: [Custom:0] ) op [Date:Current]. Wellicht wilt u dit verder onderzoeken...
+    <value>Er is een poging gedaan om met een afgesloten gebruikersaccount in te loggen ( gebruikersnaam: [Custom:0] ) op [Date:Current]. Wellicht wil je dit verder onderzoeken...
 
-Dank U,
+Dank,
 
 [Portal:PortalName]
 </value>
@@ -971,14 +971,14 @@ Email: [User:Email]</value>
   <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text" xml:space="preserve">
     <value>Beste  [User:DisplayName],
 
-Dank u voor uw registratie voor de [Portal:PortalName] website. Lees de volgende informatie aandachtig en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+Dank voor je registratie voor de [Portal:PortalName] website. Lees de volgende informatie aandachtig en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
 
 Website Adres: [Portal:URL]
 Gebruikersnaam: [User:UserName]
 
-Uw accountgegevens zullen worden gecontroleerd door de website beheerder, u ontvangt een bericht als uw account geactiveerd is.
+Uw accountgegevens zullen worden gecontroleerd door de website beheerder, je ontvangt een bericht als je account geactiveerd is.
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank je voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 </value>
   </data>
@@ -988,7 +988,7 @@ Dank u voor het in ons gestelde vertrouwen,
   <data name="EMAIL_USER_REGISTRATION_PUBLIC_BODY.Text" xml:space="preserve">
     <value>Beste [User:DisplayName],
 
-U bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+Je bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
 
 Website Adres: [Portal:URL]
 Gebruikersnaam: [User:UserName]
@@ -1003,7 +1003,7 @@ Dank u voor het in ons gestelde vertrouwen,
   </data>
   <data name="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text" xml:space="preserve">
     <value>Beste [User:FullName],
-U bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+Je bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
 
 Website Adres: [Portal:URL]
 Gebruikersnaam: [Membership:UserName]
@@ -1014,16 +1014,16 @@ U kunt de volgende link gebruiken om de registratie af te ronden:
 
 http://[Portal:URL]/default.aspx?ctl=Login&amp;amp;username=[Membership:UserName]&amp;amp;verificationcode=[User:VerificationCode]
 
-U bent van harte welkom!
+Je bent van harte welkom!
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] Nieuwe gebruikersregistratie</value>
   </data>
   <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],Uw account voor [Portal:PortalName] Is niet meer geauthoriseerd. Website Adres: [Portal:URL]Gebruikersnaam: [User:UserName]Mocht u vragen hebben, Neem contact op met de websiteadmin [Portal:Email]Met vriendelijke groet,[Portal:PortalName]</value>
+    <value>Beste [User:DisplayName],Uw account voor [Portal:PortalName] Is niet meer geauthoriseerd. Website Adres: [Portal:URL]Gebruikersnaam: [User:UserName]Mocht je vragen hebben, Neem contact op met de websiteadmin [Portal:Email]Met vriendelijke groet,[Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" xml:space="preserve">
     <value>Uw account is niet langer geauthoriseerd voor [Portal:URL]</value>
@@ -1048,7 +1048,7 @@ E-mail: [Membership:Email]
   <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_BODY.Text" xml:space="preserve">
     <value>Beste [User:DisplayName],
 
-U heeft uw wachtwoord gewijzigd op [Portal:PortalName].
+Je hebt je wachtwoord gewijzigd op [Portal:PortalName].
 
 Gebruik de volgende informatie om in te loggen:
 
@@ -1560,7 +1560,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Markeer als niet vertaald</value>
   </data>
   <data name="UrlPathNotUnique.Error" xml:space="preserve">
-    <value>De toegevoegde URL is niet beschikbaar. Als u het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
+    <value>De toegevoegde URL is niet beschikbaar. Als je het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
   </data>
   <data name="UserRelationship_Added.Text" xml:space="preserve">
     <value>Toegevoegd UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
