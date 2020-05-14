@@ -12,1030 +12,1039 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Actions.Header" lastModified="2016-11-27 00:14:55">
+  <data name="Actions.Header" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">Acties</value>
   </data>
-  <data name="AdminMembershipResetLinkValidity.ErrorMessage" lastModified="2016-11-27 00:14:55">
+  <data name="AdminMembershipResetLinkValidity.ErrorMessage" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">Administrator reset link timeouts moeten een numerieke waarde zijn tussen 0 en 10000.</value>
   </data>
-  <data name="Alert.Text" lastModified="2016-11-27 00:14:55">
+  <data name="Alert.Text" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">WAARSCHUWING</value>
   </data>
-  <data name="AllowIP.Text" lastModified="2016-11-27 00:14:55">
+  <data name="AllowIP.Text" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">Toestaan</value>
   </data>
-  <data name="AsyncTimeout.ErrorMessage" lastModified="2016-11-27 00:14:55">
-    <value xml:space="preserve">Tijd voor timeout moet een numerieke waarde zijn die gelijk zijn of groter dan 90 en kleiner dan 10000.</value>
+  <data name="AsyncTimeout.ErrorMessage" lastModified="2016-11-26 22:14:55">
+    <value xml:space="preserve">Tijd voor timeout moet een numerieke waarde zijn die gelijk is of groter dan 90 en kleiner dan 10000.</value>
   </data>
-  <data name="AuditChecks.Text" lastModified="2016-11-27 00:14:55">
+  <data name="AuditChecks.Text" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">Audit controles</value>
   </data>
-  <data name="AuditExplanation.Text" lastModified="2016-11-27 00:14:55">
+  <data name="AuditExplanation.Text" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">Notititie: Het systeem voert automatische scans uit voor de bekende best practices van de beveiliging</value>
   </data>
-  <data name="Authorized.Header" lastModified="2016-11-27 00:14:55">
+  <data name="Authorized.Header" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">Geauthoriseerd</value>
   </data>
-  <data name="AutoAccountUnlockDuration.ErrorMessage" lastModified="2016-11-27 00:14:55">
+  <data name="AutoAccountUnlockDuration.ErrorMessage" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">Automatische account ontgrendelingstijd moet een numerieke waarde zijn die gelijk of groter is dan 0 maar minder dan 1000.</value>
   </data>
-  <data name="BasicLoginSettingsError" lastModified="2016-11-27 00:14:55">
+  <data name="BasicLoginSettingsError" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">Kan login instellingen niet bijwerken, probeer het later opnieuw..</value>
   </data>
-  <data name="BasicLoginSettingsUpdateSuccess" lastModified="2016-11-27 00:14:55">
+  <data name="BasicLoginSettingsUpdateSuccess" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">Login instellingen zijn bijgewerkt.</value>
   </data>
-  <data name="BulletinDescription.Text" lastModified="2016-11-27 00:14:55">
+  <data name="BulletinDescription.Text" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">OMSCHRIJVING</value>
   </data>
-  <data name="BulletinLink.Text" lastModified="2016-11-27 00:14:55">
+  <data name="BulletinLink.Text" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">LINK</value>
   </data>
-  <data name="Bulletins.Text" lastModified="2016-11-27 00:14:55">
+  <data name="Bulletins.Text" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">BERICHTEN</value>
   </data>
-  <data name="BulletinsDoNotExist.Text" lastModified="2016-11-27 00:14:55">
+  <data name="BulletinsDoNotExist.Text" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">Er zijn op dit moment geen beveiligingsberichten voor DNN platform versie {0}.</value>
   </data>
-  <data name="BulletinsExist.Text" lastModified="2016-11-27 00:14:55">
+  <data name="BulletinsExist.Text" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">Er zijn op dit moment {0} beveiligingsberichten voor DNN platform versie {1}:</value>
   </data>
-  <data name="Cancel.Text" lastModified="2016-11-27 00:14:55">
+  <data name="Cancel.Text" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">Annuleren</value>
   </data>
-  <data name="CannotDelete.Text" lastModified="2016-11-27 01:17:29">
+  <data name="CannotDelete.Text" lastModified="2016-11-26 23:17:29">
     <value xml:space="preserve">U kunt deze rol niet verwijderen, omdat deze actie het huidige IP adres zal buitensluiten.</value>
   </data>
-  <data name="CheckAllowableFileExtensionsFailure.Text" lastModified="2016-11-27 01:17:29">
+  <data name="Check.Text">
+    <value xml:space="preserve">[ Check ]</value>
+  </data>
+  <data name="CheckAllowableFileExtensionsFailure.Text" lastModified="2016-11-26 23:17:29">
     <value xml:space="preserve">Er zijn aspx, asp of php bestanden gevonden in de toegestane extensie instellingen. Dit geeft hackers de mogelijkheid om code te uploaden. Verwijder de extentie binnen Host &gt; Gastheer Settings&gt; Toegestane extensies.</value>
   </data>
-  <data name="CheckAllowableFileExtensionsName.Text" lastModified="2016-11-27 02:19:19">
+  <data name="CheckAllowableFileExtensionsName.Text" lastModified="2016-11-27 00:19:19">
     <value xml:space="preserve">Controleer of er schadelijke extensies worden toegestaan door de bestandsuploader</value>
   </data>
-  <data name="CheckAllowableFileExtensionsReason.Text" lastModified="2016-11-27 04:22:08">
+  <data name="CheckAllowableFileExtensionsReason.Text" lastModified="2016-11-27 02:22:08">
     <value xml:space="preserve">Er zijn aspx, asp of php bestanden gevonden in de toegestane extensie instellingen. Dit geeft hackers de mogelijkheid om code te uploaden. Verwijder de extentie binnen Host &gt; Gastheer Settings&gt; Toegestane extensies.</value>
   </data>
-  <data name="CheckAllowableFileExtensionsSuccess.Text" lastModified="2016-11-27 04:22:08">
+  <data name="CheckAllowableFileExtensionsSuccess.Text" lastModified="2016-11-27 02:22:08">
     <value xml:space="preserve">De toegestane extensies zijn correct ingesteld.</value>
   </data>
-  <data name="CheckBiographyFailure.Text" lastModified="2016-11-27 06:42:57">
+  <data name="CheckBiographyFailure.Text" lastModified="2016-11-27 04:42:57">
     <value xml:space="preserve">Dit veld is geavanceerd tekstveld. Spammer kunnen via dit veld binnen hun biografie links plaatsen naar hun website.</value>
   </data>
-  <data name="CheckBiographyName.Text" lastModified="2016-11-27 06:42:57">
+  <data name="CheckBiographyName.Text" lastModified="2016-11-27 04:42:57">
     <value xml:space="preserve">Controleer of er geavanceerde tekstvelden aanwezig zijn binnen de profielvelden.</value>
   </data>
-  <data name="CheckBiographyReason.Text" lastModified="2016-11-27 06:42:57">
+  <data name="CheckBiographyReason.Text" lastModified="2016-11-27 04:42:57">
     <value xml:space="preserve">Het biografieveld is een bekend doelwit van spammers omdat ze hier HTML/Links in kunnen plaatsen. In DNN 7.2.0 is dit veld vervangen door een meerlijnstekstveld om dit risico te verwijderen.</value>
   </data>
-  <data name="CheckBiographySuccess.Text" lastModified="2016-11-27 06:42:57">
+  <data name="CheckBiographySuccess.Text" lastModified="2016-11-27 04:42:57">
     <value xml:space="preserve">Het veld is een meerlijnstekstveld</value>
   </data>
-  <data name="CheckDebugFailure.Text" lastModified="2016-11-27 06:42:57">
+  <data name="CheckDebugFailure.Text" lastModified="2016-11-27 04:42:57">
     <value xml:space="preserve">Dubug staat aan - overweeg om deze instelling uit te schakelen in de web.config (of gebruik de configuratie manager)</value>
   </data>
-  <data name="CheckDebugName.Text" lastModified="2016-11-27 07:55:08">
+  <data name="CheckDebugName.Text" lastModified="2016-11-27 05:55:08">
     <value xml:space="preserve">Controleer debug status.</value>
   </data>
-  <data name="CheckDebugReason.Text" lastModified="2016-11-27 07:55:08">
+  <data name="CheckDebugReason.Text" lastModified="2016-11-27 05:55:08">
     <value xml:space="preserve">Als het debug attribuut geactiveerd staat heeft dit invloed op de snelheid en van het bruikbare beveiligings uitzonderingen laten zien aan hackers. </value>
   </data>
-  <data name="CheckDebugSuccess.Text" lastModified="2016-11-27 07:55:08">
+  <data name="CheckDebugSuccess.Text" lastModified="2016-11-27 05:55:08">
     <value xml:space="preserve">Niet in debug mode. Deze instelling is afhankelijk van de ingestelde waarde in de web.config.</value>
   </data>
-  <data name="CheckDefaultPageFailure.Text" lastModified="2016-11-27 07:55:08">
+  <data name="CheckDefaultPageFailure.Text" lastModified="2016-11-27 05:55:08">
     <value xml:space="preserve">De standaard pagina(s) zijn aangepast. We raden aan deze pagina(s) goed te onderzoeken, deze kunnen zijn aangepast door een hacker en schadelijke code bevatten. Het beste kunnen de bestanden worden vergeleken met de bestanden uit een schone installatie van uw product. Controleer of de versie van uw DNN of Evoq website overeen komt met de versie van de applicatie waarmee u de bestanden wilt vergelijken. Verwijder eventuele schadelijke code of vervang de bestanden met de bestanden uit de schone installatie.</value>
   </data>
-  <data name="CheckDefaultPageName.Text" lastModified="2016-11-27 07:55:08">
+  <data name="CheckDefaultPageName.Text" lastModified="2016-11-27 05:55:08">
     <value xml:space="preserve">Controleer of de default.aspx of default.aspx.cs bestanden zijn aangepast.</value>
   </data>
-  <data name="CheckDefaultPageReason.Text" lastModified="2016-11-27 07:55:08">
+  <data name="CheckDefaultPageReason.Text" lastModified="2016-11-27 05:55:08">
     <value xml:space="preserve">DNN gebruikt de default.aspx om alles te laten, dit bestand wordt bij iedere website opvraag ingeladen, als iemand dit bestand heeft aangepast kan dit een enorm risico vormen voor uw website.</value>
   </data>
-  <data name="CheckDefaultPageSuccess.Text" lastModified="2016-11-27 07:55:08">
+  <data name="CheckDefaultPageSuccess.Text" lastModified="2016-11-27 05:55:08">
     <value xml:space="preserve">De default.aspx en default.aspx.cs bestanden zijn niet aangepast.</value>
   </data>
-  <data name="CheckDiskAccessFailure.Text" lastModified="2016-11-27 09:10:04">
+  <data name="CheckDiskAccessFailure.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">Hackers kunnen schijven/mappen buiten de website openen</value>
   </data>
-  <data name="CheckDiskAccessName.Text" lastModified="2016-11-27 09:10:04">
+  <data name="CheckDiskAccessName.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">Controleerd de toegang tot schrijven/mappen buiten de websitemap</value>
   </data>
-  <data name="CheckDiskAccessReason.Text" lastModified="2016-11-27 09:10:04">
+  <data name="CheckDiskAccessReason.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">De gebruikers die gebruikt wordt om uw website te draaien heeft toegang to bestanden buiten uw website locatie. een hacker kan deze bestanden lezen, bewerken of allebei.</value>
   </data>
-  <data name="CheckDiskAccessSuccess.Text" lastModified="2016-11-27 09:10:04">
+  <data name="CheckDiskAccessSuccess.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">Hackers kunnen geen schrijven/mappen buiten de websiten bereiken</value>
   </data>
-  <data name="CheckFileExists.Error" lastModified="2016-11-27 09:10:04">
+  <data name="CheckFileExists.Error" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">Het huidige SQL Server account van xp_fileexist uitvoeren. Hiermee kan worden bepaald welke bestanden er op de server bestaan.</value>
   </data>
-  <data name="CheckHiddenSystemFilesFailure.Text" lastModified="2016-11-27 09:10:04">
+  <data name="CheckHiddenSystemFilesFailure.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">Er zijn bestanden die staan gemarkeerd als systeembestanden of als verborgen bestanden binnen de websitemap.</value>
   </data>
-  <data name="CheckHiddenSystemFilesName.Text" lastModified="2016-11-27 09:10:04">
+  <data name="CheckHiddenSystemFilesName.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">Controleer verborgen bestanden</value>
   </data>
-  <data name="CheckHiddenSystemFilesReason.Text" lastModified="2016-11-27 09:10:04">
+  <data name="CheckHiddenSystemFilesReason.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">Hackers kunnen rootkits uploaden in de website, ze markeren deze als systeembestanden of verborgen bestanden waardoor de bestanden niet zichtbaar zijn bestandsmanager.</value>
   </data>
-  <data name="CheckHiddenSystemFilesSuccess.Text" lastModified="2016-11-27 09:10:04">
+  <data name="CheckHiddenSystemFilesSuccess.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">Er zijn geen bestanden die als systeembestanden of als verborgen bestanden staan gemarkeerd binnen de website.</value>
   </data>
-  <data name="CheckModuleHeaderAndFooterFailure.Text" lastModified="2016-11-27 09:10:04">
+  <data name="CheckModuleHeaderAndFooterFailure.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">Er zijn modules binnen uw systeem die een header of footer instellingen hebben, controleer deze instellingen of deze geen phishing code bevatten.</value>
   </data>
-  <data name="CheckModuleHeaderAndFooterName.Text" lastModified="2016-11-27 09:10:04">
+  <data name="CheckModuleHeaderAndFooterName.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">Controleer of modules header of footer instellingen hebben</value>
   </data>
-  <data name="CheckModuleHeaderAndFooterReason.Text" lastModified="2016-11-27 09:10:04">
+  <data name="CheckModuleHeaderAndFooterReason.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">Hackers kunnen module header en/of footer instellingen gebruiken voor het injecteren van content of phishing aanvallen.</value>
   </data>
-  <data name="CheckModuleHeaderAndFooterSuccess.Text" lastModified="2016-11-27 09:10:04">
+  <data name="CheckModuleHeaderAndFooterSuccess.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">Er zijn geen modules gevonden met header en/of footer instellingen.</value>
   </data>
-  <data name="CheckPasswordFormatFailure.Text" lastModified="2016-11-27 09:10:04">
+  <data name="CheckPasswordFormatFailure.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">De instelling passwordFormat is niet ingesteld op Hashed in de web.config. Overweeg deze instelling aan te passen in de web.config (of via de configuratie manager)</value>
   </data>
-  <data name="CheckPasswordFormatName.Text" lastModified="2016-11-27 10:11:58">
+  <data name="CheckPasswordFormatName.Text" lastModified="2016-11-27 08:11:58">
     <value xml:space="preserve">Controleer wachtwoord formaat instellingen</value>
   </data>
-  <data name="CheckPasswordFormatReason.Text" lastModified="2016-11-27 10:11:58">
+  <data name="CheckPasswordFormatReason.Text" lastModified="2016-11-27 08:11:58">
     <value xml:space="preserve">Als de waarde vrij is van encryptors kunnen hackers gebruikerswachtwoorden ophalen uit de database.</value>
   </data>
-  <data name="CheckPasswordFormatSuccess.Text" lastModified="2016-11-27 10:11:58">
+  <data name="CheckPasswordFormatSuccess.Text" lastModified="2016-11-27 08:11:58">
     <value xml:space="preserve">Het wachtwoordformat is ingesteld op Hashed in de web.config</value>
   </data>
-  <data name="CheckPurpose.Header" lastModified="2016-11-27 10:11:58">
+  <data name="CheckPurpose.Header" lastModified="2016-11-27 08:11:58">
     <value xml:space="preserve">Doel van de controle</value>
   </data>
-  <data name="CheckRarelyUsedSuperuserFailure.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckRarelyUsedSuperuserFailure.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">We hebben één of meerdere host accounts gevonden welke voor zes maanden of langer inactief zijn. Overweeg deze account te verwijderen</value>
   </data>
-  <data name="CheckRarelyUsedSuperuserName.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckRarelyUsedSuperuserName.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Controleer of host account amper worden gebruikt</value>
   </data>
-  <data name="CheckRarelyUsedSuperuserReason.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckRarelyUsedSuperuserReason.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Host accounts zijn de accounts met de meeste rechten, We raden aan om deze tot een minimum te beperken.</value>
   </data>
-  <data name="CheckRarelyUsedSuperuserSuccess.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckRarelyUsedSuperuserSuccess.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Alle hostgebruikers zijn actieve gebruikers van het systeem.</value>
   </data>
-  <data name="CheckSiteRegistrationFailure.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckSiteRegistrationFailure.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">één of meerdere websites maken gebruik van een publieke gebruikersregistratie</value>
   </data>
-  <data name="CheckSiteRegistrationName.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckSiteRegistrationName.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Controleer of websites gebruik maken van publieke gebruikersregistratie</value>
   </data>
-  <data name="CheckSiteRegistrationReason.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckSiteRegistrationReason.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Websites met een publieke gebruikersregistratie zijn een gelieft doelwit van spammers.</value>
   </data>
-  <data name="CheckSiteRegistrationSuccess.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckSiteRegistrationSuccess.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Alle websites hebben een afgesloten gebruikersregistratie</value>
   </data>
-  <data name="CheckSqlRiskFailure.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckSqlRiskFailure.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Het huidige SQL connectie kan gevaarlijke commando's uitvoeren op de SQL Server.</value>
   </data>
-  <data name="CheckSqlRiskName.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckSqlRiskName.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Controleer rechten van het huidige SQL account</value>
   </data>
-  <data name="CheckSqlRiskReason.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckSqlRiskReason.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Als het SQL Server account niet goed is geconfigureerd kan dit een risico vormen omdat hackers dit kunnen gebruiken om speciale script op de server uit te voeren.</value>
   </data>
-  <data name="CheckSqlRiskSuccess.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckSqlRiskSuccess.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Het SQL Server account is correct geconfigureerd.</value>
   </data>
-  <data name="CheckSuperuserOldPasswordFailure.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckSuperuserOldPasswordFailure.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Er is tenminste één host gebruikers waarvan het wachtwoord langer als zes maanden is gewijzigd.</value>
   </data>
-  <data name="CheckSuperuserOldPasswordName.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckSuperuserOldPasswordName.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Controleer of hostgebruikers niet regelmatig hun wachtwoord wijzigen</value>
   </data>
-  <data name="CheckSuperuserOldPasswordReason.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckSuperuserOldPasswordReason.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Host gebruikers hebben de meeste rechten, daarom is het aan te raden om hun wachtwoord regelmatig te veranderen.</value>
   </data>
-  <data name="CheckSuperuserOldPasswordSuccess.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckSuperuserOldPasswordSuccess.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Er zijn geen hostgebruikers die een wachtwoord hebben dat ouder is als zes maanden.</value>
   </data>
-  <data name="CheckTelerikVulnerabilityFailure.Text" lastModified="2018-07-24 15:00:42">
+  <data name="CheckTelerikVulnerabilityFailure.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">De kwetsbaarheid van de Telerik-component is niet gepatcht, ga naar http://www.dnnsoftware.com/community-blog/cid/155449/critical-security-update--september2017 voor gedetailleerde informatie en om de patch te downloaden.</value>
   </data>
-  <data name="CheckTelerikVulnerabilityName.Text" lastModified="2018-07-24 15:00:42">
+  <data name="CheckTelerikVulnerabilityName.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">Controleer of de Telerik-component een kwetsbaarheid heeft.</value>
   </data>
-  <data name="CheckTelerikVulnerabilityReason.Text" lastModified="2018-07-24 15:00:42">
+  <data name="CheckTelerikVulnerabilityReason.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">Componenten van derden waarnaar in de kern wordt verwezen, kunnen in oudere versies kwetsbaar zijn en moeten worden gepatcht.</value>
   </data>
-  <data name="CheckTelerikVulnerabilitySuccess.Text" lastModified="2018-07-24 15:00:42">
+  <data name="CheckTelerikVulnerabilitySuccess.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">Telerik-component al gepatcht.</value>
   </data>
-  <data name="CheckTracing.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckTracing.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Tracing is actief - overweg deze instelling aan te passen in de web.config. (of gebruik de configuratie manager)</value>
   </data>
-  <data name="CheckTracingFailure.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckTracingFailure.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Tracing is actief - dit geeft hackers de mogelijkheid om activiteiten op de website te zien.</value>
   </data>
-  <data name="CheckTracingName.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckTracingName.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Controleer of asp.net tracing is geactiveerd</value>
   </data>
-  <data name="CheckTracingReason.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckTracingReason.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Als de tracing optie is geactiveerd stelt dit hackers in staat om website activiteiten te zien</value>
   </data>
-  <data name="CheckTracingSuccess.Text" lastModified="2016-11-27 11:25:37">
+  <data name="CheckTracingSuccess.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">Tracing is niet actief</value>
   </data>
-  <data name="CheckUnexpectedExtensionsFailure.Text" lastModified="2016-11-27 12:32:19">
+  <data name="CheckUnexpectedExtensionsFailure.Text" lastModified="2016-11-27 10:32:19">
     <value xml:space="preserve">Er is een asp php extensie gevonden- deze kunnen onschadelijk zijn, maar kunnen ook een indicatie geven dat uw website worden uitgebuit en dat deze bestanden tools zijn. We raden aan bestanden te controleren. </value>
   </data>
-  <data name="CheckUnexpectedExtensionsName.Text" lastModified="2016-11-27 12:32:19">
+  <data name="CheckUnexpectedExtensionsName.Text" lastModified="2016-11-27 10:32:19">
     <value xml:space="preserve">Controleer of asp/php bestanden zijn gevonden</value>
   </data>
-  <data name="CheckUnexpectedExtensionsReason.Text" lastModified="2016-11-27 15:54:25">
+  <data name="CheckUnexpectedExtensionsReason.Text" lastModified="2016-11-27 13:54:25">
     <value xml:space="preserve">DNN is een asp.net web applicatie. Onder normale omstandigheden worden er geen andere applicatie extensies gebruikt zoals aps en php.</value>
   </data>
-  <data name="CheckUnexpectedExtensionsSuccess.Text" lastModified="2016-11-27 16:57:46">
+  <data name="CheckUnexpectedExtensionsSuccess.Text" lastModified="2016-11-27 14:57:46">
     <value xml:space="preserve">Er zijn geen onverwachte extensies gevonden</value>
   </data>
-  <data name="CheckViewstatemacFailure.Text" lastModified="2016-11-27 16:57:46">
+  <data name="CheckViewstatemacFailure.Text" lastModified="2016-11-27 14:57:46">
     <value xml:space="preserve">Viewstatemac validatie is niet actief</value>
   </data>
-  <data name="CheckViewstatemacName.Text" lastModified="2016-11-27 16:57:46">
+  <data name="CheckViewstatemacName.Text" lastModified="2016-11-27 14:57:46">
     <value xml:space="preserve">Controleer of viewstat is beveiligd</value>
   </data>
-  <data name="CheckViewstatemacReason.Text" lastModified="2016-11-27 16:57:46">
+  <data name="CheckViewstatemacReason.Text" lastModified="2016-11-27 14:57:46">
     <value xml:space="preserve">Een View-state MAC is een versleutelde versie van de verborgen variabele waaruit een pagina bestaat als deze naar de browser worden gestuurd. Als deze waarde actief is wordt de versleutelde versie van de view stage gecontroleerd om te voorkomen dat er  ongewenste aanpassingen vanuit de client kunnen worden gedaan.</value>
   </data>
-  <data name="CheckViewstatemacSuccess.Text" lastModified="2016-11-27 17:58:40">
+  <data name="CheckViewstatemacSuccess.Text" lastModified="2016-11-27 15:58:40">
     <value xml:space="preserve">De viewstate is beveiligd via het gebruik van een MAC</value>
   </data>
-  <data name="cmdAdd.Text" lastModified="2016-11-27 17:58:40">
+  <data name="cmdAdd.Text" lastModified="2016-11-27 15:58:40">
     <value xml:space="preserve">Nieuw filter toevoegen</value>
   </data>
-  <data name="cmdCancel.Text" lastModified="2016-11-27 17:58:40">
+  <data name="cmdCancel.Text" lastModified="2016-11-27 15:58:40">
     <value xml:space="preserve">Bewerken annuleren</value>
   </data>
-  <data name="cmdCheck.Text" lastModified="2016-11-27 17:58:40">
+  <data name="cmdCheck.Text" lastModified="2016-11-27 15:58:40">
     <value xml:space="preserve">Controleren</value>
   </data>
-  <data name="cmdModifiedFiles.Text" lastModified="2016-11-27 17:58:40">
+  <data name="cmdModifiedFiles.Text" lastModified="2016-11-27 15:58:40">
     <value xml:space="preserve">Zoek recent aangepaste bestanden</value>
   </data>
-  <data name="cmdSearch.Text" lastModified="2016-11-27 17:58:40">
+  <data name="cmdSearch.Text" lastModified="2016-11-27 15:58:40">
     <value xml:space="preserve">Zoeken</value>
   </data>
-  <data name="ContainsDuplicateAddresses.Text" lastModified="2016-11-27 19:01:45">
+  <data name="ContainsDuplicateAddresses.Text" lastModified="2016-11-27 17:01:45">
     <value xml:space="preserve">De gebruiker basis van deze site bevat dubbele emailadressen. Als u het emailadres wilt gebruiken als gebruikersnaam dienen eerste de emailadressen te worden ontdubbelt.</value>
   </data>
-  <data name="CreatedDate.Header" lastModified="2016-11-27 20:02:31">
+  <data name="CreatedDate.Header" lastModified="2016-11-27 18:02:31">
     <value xml:space="preserve">Aanmaakdatum</value>
   </data>
-  <data name="CreatedDate.Text" lastModified="2016-11-27 20:02:31">
+  <data name="CreatedDate.Text" lastModified="2016-11-27 18:02:31">
     <value xml:space="preserve">AANMAAKDATUM</value>
   </data>
-  <data name="Custom.Text" lastModified="2016-11-27 20:02:31">
+  <data name="Custom.Text" lastModified="2016-11-27 18:02:31">
     <value xml:space="preserve">Aangepast</value>
   </data>
-  <data name="DatabaseInstance.Text" lastModified="2016-11-27 20:02:31">
-    <value xml:space="preserve">DATABASE INSTANCE</value>
+  <data name="DatabaseInstance.Text" lastModified="2016-11-27 18:02:31">
+    <value xml:space="preserve">DATABASE INSTANTIE</value>
   </data>
-  <data name="DatabaseValue.Text" lastModified="2016-11-27 20:02:31">
+  <data name="DatabaseValue.Text" lastModified="2016-11-27 18:02:31">
     <value xml:space="preserve">WAARDE</value>
   </data>
-  <data name="DefaultAuthProvider.Help" lastModified="2016-11-27 21:04:16">
+  <data name="DefaultAuthProvider.Help" lastModified="2016-11-27 19:04:16">
     <value xml:space="preserve">U kunt de standaard authenticatie prodiver selecteren voor de gebruikerslogin. Alleen providers die forms authenticatie ondersteunen kunnen worden geselecteerd.</value>
   </data>
-  <data name="DefaultAuthProvider.Text" lastModified="2016-11-27 22:04:43">
+  <data name="DefaultAuthProvider.Text" lastModified="2016-11-27 20:04:43">
     <value xml:space="preserve">Standaard authenticatie provider</value>
   </data>
-  <data name="Delete.Text" lastModified="2016-11-27 22:04:43">
+  <data name="Delete.Text" lastModified="2016-11-27 20:04:43">
     <value xml:space="preserve">Verwijder filter</value>
   </data>
-  <data name="DeletedTab.Text" lastModified="2018-07-24 15:00:42">
+  <data name="DeletedTab.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">Het tabblad met dit ID {0} is verwijderd.</value>
   </data>
-  <data name="DeleteError.Text" lastModified="2016-11-27 23:08:09">
+  <data name="DeleteError.Text" lastModified="2016-11-27 21:08:09">
     <value xml:space="preserve">Kan het IP filter niet verwijderen. Probeer het later opnieuw.</value>
   </data>
-  <data name="DeleteSuccess.Text" lastModified="2016-11-27 23:08:09">
+  <data name="DeleteSuccess.Text" lastModified="2016-11-27 21:08:09">
     <value xml:space="preserve">IP filter is verwijderd.</value>
   </data>
-  <data name="DenyIP.Text" lastModified="2016-11-27 23:08:09">
+  <data name="DenyIP.Text" lastModified="2016-11-27 21:08:09">
     <value xml:space="preserve">Weigeren</value>
   </data>
-  <data name="Disabled.Text" lastModified="2018-07-24 15:00:42">
+  <data name="Disabled.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">Het tabblad met dit ID {0} is uitgeschakeld.</value>
   </data>
-  <data name="DisplayName.Header" lastModified="2016-11-27 23:08:09">
+  <data name="DisplayName.Header" lastModified="2016-11-27 21:08:09">
     <value xml:space="preserve">Weergave naam</value>
   </data>
-  <data name="Edit.Text" lastModified="2016-11-27 23:08:09">
+  <data name="Edit.Text" lastModified="2016-11-27 21:08:09">
     <value xml:space="preserve">Filter bewerken</value>
   </data>
-  <data name="Email.Header" lastModified="2018-07-24 15:00:42">
+  <data name="Email.Header" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">E-mail</value>
   </data>
-  <data name="Empty.Text" lastModified="2018-07-24 15:00:42">
+  <data name="Empty.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">{0} zou niet leeg moeten zijn.</value>
   </data>
-  <data name="ExecuteCommand.Error" lastModified="2016-11-28 00:08:55">
+  <data name="ExecuteCommand.Error" lastModified="2016-11-27 22:08:55">
     <value xml:space="preserve">De huidige SQL Server account kan xp_cmdshell uitvoeren waarmee een commandline kan woden geopend op het SQL Server.</value>
   </data>
-  <data name="Fail.Text" lastModified="2016-11-28 01:09:26">
+  <data name="Fail.Text" lastModified="2016-11-27 23:09:26">
     <value xml:space="preserve">Mislukt</value>
   </data>
-  <data name="Filename.Header" lastModified="2016-11-28 01:09:26">
+  <data name="Filename.Header" lastModified="2016-11-27 23:09:26">
     <value xml:space="preserve">Bestandnaam</value>
   </data>
-  <data name="FileName.Text" lastModified="2016-11-28 01:09:26">
+  <data name="FileName.Text" lastModified="2016-11-27 23:09:26">
     <value xml:space="preserve">BESTANDSNAAM</value>
   </data>
-  <data name="FilterType.Header" lastModified="2018-07-24 15:00:42">
+  <data name="FilterType.Header" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">FILTERTYPE</value>
   </data>
-  <data name="FirstName.Header" lastModified="2016-11-28 01:09:26">
+  <data name="FirstName.Header" lastModified="2016-11-27 23:09:26">
     <value xml:space="preserve">Voornaam</value>
   </data>
-  <data name="GetFolderTree.Error" lastModified="2016-11-28 02:18:57">
+  <data name="GetFolderTree.Error" lastModified="2016-11-28 00:18:57">
     <value xml:space="preserve">De huidige SQL Server account kan xp_dirtree uitvoeren waarmee kunnen bestanden op de server zihctbaar worden gemaakt.</value>
   </data>
-  <data name="GlobalSetting.Text" lastModified="2016-11-28 03:21:56">
+  <data name="GlobalSetting.Text" lastModified="2016-11-28 01:21:56">
     <value xml:space="preserve">Dit is een globale instelling. Aanpassingen in deze instellingen hebben effect op alle sites.</value>
   </data>
-  <data name="GlobalSettingsTab.Text" lastModified="2016-11-28 03:21:56">
+  <data name="GlobalSettingsTab.Text" lastModified="2016-11-28 01:21:56">
     <value xml:space="preserve">Dit is een globale instellingtab. Aanpassingen in deze instellingen hebben effect op alle sites.</value>
   </data>
-  <data name="HighRiskFiles.Text" lastModified="2016-11-28 04:24:49">
+  <data name="HighRiskFiles.Text" lastModified="2016-11-28 02:24:49">
     <value xml:space="preserve">Hoog risico bestanden</value>
   </data>
-  <data name="HostSettings.Text" lastModified="2016-11-28 04:24:49">
+  <data name="HostSettings.Text" lastModified="2016-11-28 02:24:49">
     <value xml:space="preserve">Host instellingen</value>
   </data>
-  <data name="IpAddress.Header" lastModified="2016-11-28 04:24:49">
+  <data name="IpAddress.Header" lastModified="2016-11-28 02:24:49">
     <value xml:space="preserve">IP ADRES</value>
   </data>
-  <data name="IPFilter.Header" lastModified="2018-07-24 15:00:42">
+  <data name="IPFilter.Header" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">IP-filter</value>
   </data>
-  <data name="IpFilterDeletedWarning.Text" lastModified="2016-11-28 04:24:49">
+  <data name="IpFilterDeletedWarning.Text" lastModified="2016-11-28 02:24:49">
     <value xml:space="preserve">Weet u zeker dat u dit IP filter wilt verwijderen?</value>
   </data>
-  <data name="IPFiltersDisabled.Text" lastModified="2016-11-28 05:26:10">
+  <data name="IPFiltersDisabled.Text" lastModified="2016-11-28 03:26:10">
     <value xml:space="preserve">Login IP filtering is momenteel uitgeschakeld. selecteer IP adres controle onder leden accounts om deze te activeren</value>
   </data>
-  <data name="IpFilterUpdateError.Text" lastModified="2016-11-28 06:28:11">
+  <data name="IpFilterUpdateError.Text" lastModified="2016-11-28 04:28:11">
     <value xml:space="preserve">Kan het IP filter niet bijwerken. Probeer het later opnieuw.</value>
   </data>
-  <data name="IpFilterUpdateSuccess.Text" lastModified="2016-11-28 07:28:37">
+  <data name="IpFilterUpdateSuccess.Text" lastModified="2016-11-28 05:28:37">
     <value xml:space="preserve">Het IP filter is bijgewerkt.</value>
   </data>
-  <data name="IPRange.Text" lastModified="2016-11-28 08:30:20">
+  <data name="IPRange.Text" lastModified="2016-11-28 06:30:20">
     <value xml:space="preserve">IP Bereik</value>
   </data>
-  <data name="IPValidation.ErrorMessage" lastModified="2016-11-28 08:30:20">
+  <data name="IPValidation.ErrorMessage" lastModified="2016-11-28 06:30:20">
     <value xml:space="preserve">Gebruik een valide IP adres/mask</value>
   </data>
-  <data name="LastActivityDate.Header" lastModified="2016-11-28 08:30:20">
+  <data name="LastActivityDate.Header" lastModified="2016-11-28 06:30:20">
     <value xml:space="preserve">Laatste activiteit datum</value>
   </data>
-  <data name="LastActivityDate.Text" lastModified="2016-11-28 08:30:20">
-    <value xml:space="preserve">LAATSTE ACTIVITEITES DATUM</value>
+  <data name="LastActivityDate.Text" lastModified="2016-11-28 06:30:20">
+    <value xml:space="preserve">LAATSTE ACTIVITEIT DATUM</value>
   </data>
-  <data name="LastLogin.Header" lastModified="2016-11-28 08:30:20">
+  <data name="LastLogin.Header" lastModified="2016-11-28 06:30:20">
     <value xml:space="preserve">Laatste login</value>
   </data>
-  <data name="LastLogin.Text" lastModified="2016-11-28 08:30:20">
+  <data name="LastLogin.Text" lastModified="2016-11-28 06:30:20">
     <value xml:space="preserve">LAATSTE LOGIN</value>
   </data>
-  <data name="LastModifiedDate.Header" lastModified="2016-11-28 09:30:51">
+  <data name="LastModifiedDate.Header" lastModified="2016-11-28 07:30:51">
     <value xml:space="preserve">Laatste modificatie datum</value>
   </data>
-  <data name="LastName.Header" lastModified="2016-11-28 09:30:51">
+  <data name="LastName.Header" lastModified="2016-11-28 07:30:51">
     <value xml:space="preserve">Achternaam</value>
   </data>
-  <data name="LastWriteTime.Text" lastModified="2016-11-28 09:30:51">
-    <value xml:space="preserve">LAATSTE MODIFICATIE DATUM</value>
+  <data name="LastWriteTime.Text" lastModified="2016-11-28 07:30:51">
+    <value xml:space="preserve">LAATST AANGEPAST DATUM</value>
   </data>
-  <data name="LoginSettingsRestoreWarning.Text" lastModified="2016-11-28 10:32:23">
+  <data name="LoginSettingsRestoreWarning.Text" lastModified="2016-11-28 08:32:23">
     <value xml:space="preserve">Weet u zeker dat u de aanpassingen wilt annuleren?</value>
   </data>
-  <data name="LowRiskFiles.Text" lastModified="2016-11-28 10:32:23">
+  <data name="LowRiskFiles.Text" lastModified="2016-11-28 08:32:23">
     <value xml:space="preserve">Laag risico bestanden</value>
   </data>
-  <data name="MaxInvalidPasswordAttemptsTitle.Help" lastModified="2016-11-28 11:33:59">
+  <data name="MaxInvalidPasswordAttemptsTitle.Help" lastModified="2016-11-28 09:33:59">
     <value xml:space="preserve">Specificeerd het aantal verkeerde wachtwoord ingaves dat mag worden gedaan voor dat het account wordt geblokeerd. Dit kan alleen worden aangepast in de web.config.</value>
   </data>
-  <data name="MaxInvalidPasswordAttemptsTitle.Text" lastModified="2016-11-28 12:34:16">
+  <data name="MaxInvalidPasswordAttemptsTitle.Text" lastModified="2016-11-28 10:34:16">
     <value xml:space="preserve">Max ongeldig wachtwoord pogingen</value>
   </data>
-  <data name="maxUploadSize.Error" lastModified="2016-11-28 13:35:15">
+  <data name="maxUploadSize.Error" lastModified="2016-11-28 11:35:15">
     <value xml:space="preserve">Maximale upload grootte moet tussen de 12 en {0} liggen</value>
   </data>
-  <data name="MemberSettingsError.Text" lastModified="2016-11-28 13:35:15">
+  <data name="MemberSettingsError.Text" lastModified="2016-11-28 11:35:15">
     <value xml:space="preserve">Kan leden instellingen niet bijwerken. Probeer het later opnieuw.</value>
   </data>
-  <data name="MemberSettingsRestoreWarning.Text" lastModified="2016-11-28 14:35:34">
+  <data name="MemberSettingsRestoreWarning.Text" lastModified="2016-11-28 12:35:34">
     <value xml:space="preserve">Weet u zeker dat u de aanpassingen wilt annuleren?</value>
   </data>
-  <data name="MemberSettingsUpdateSuccess.Text" lastModified="2016-11-28 15:35:52">
+  <data name="MemberSettingsUpdateSuccess.Text" lastModified="2016-11-28 13:35:52">
     <value xml:space="preserve">De leden instellingen zijn opgeslagen.</value>
   </data>
-  <data name="MembershipDaysBeforePasswordReuse.ErrorMessage" lastModified="2018-07-24 15:00:42">
+  <data name="MembershipDaysBeforePasswordReuse.ErrorMessage" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">Aantal dagen vóór wachtwoord Hergebruik moet een geheel getal groter dan of gelijk aan 0 en kleiner dan 10000 zijn.</value>
   </data>
-  <data name="MembershipNumberPasswords.ErrorMessage" lastModified="2016-11-28 16:37:23">
+  <data name="MembershipNumberPasswords.ErrorMessage" lastModified="2016-11-28 14:37:23">
     <value xml:space="preserve">Aantal wachtewoorden dat wordt opgeslagen moet een numerieke waarde zijn dat groter is of gelijk aan 0 en kleiner dan 10000.</value>
   </data>
-  <data name="MembershipResetLinkValidity.ErrorMessage" lastModified="2016-11-28 16:37:23">
+  <data name="MembershipResetLinkValidity.ErrorMessage" lastModified="2016-11-28 14:37:23">
     <value xml:space="preserve">Reset link timeouts moeten een numerieke waarde zijn die groter is dan 0 en minder dan 10000</value>
   </data>
-  <data name="MinNonAlphanumericCharactersTitle.Help" lastModified="2016-11-28 17:39:09">
+  <data name="MinNonAlphanumericCharactersTitle.Help" lastModified="2016-11-28 15:39:09">
     <value xml:space="preserve">Specificeert het minimaal aantal speciale karakters in het wachtwoord. Dit kan alleen worden aangepast in de web.config.</value>
   </data>
-  <data name="MinNonAlphanumericCharactersTitle.Text" lastModified="2016-11-28 18:40:03">
+  <data name="MinNonAlphanumericCharactersTitle.Text" lastModified="2016-11-28 16:40:03">
     <value xml:space="preserve">Minimale niet alphabetische karakters</value>
   </data>
-  <data name="MinPasswordLengthTitle.Help" lastModified="2016-11-28 19:40:49">
+  <data name="MinPasswordLengthTitle.Help" lastModified="2016-11-28 17:40:49">
     <value xml:space="preserve">Specificeert het minimaal aantal karakters in het wachtwoord. Dit kan alleen worden aangepast in de web.config. </value>
   </data>
-  <data name="MinPasswordLengthTitle.Text" lastModified="2016-11-28 20:42:27">
+  <data name="MinPasswordLengthTitle.Text" lastModified="2016-11-28 18:42:27">
     <value xml:space="preserve">Minimale wachtwoord lengte</value>
   </data>
-  <data name="ModifiedFiles.Text" lastModified="2016-11-28 20:42:27">
+  <data name="ModifiedFiles.Text" lastModified="2016-11-28 18:42:27">
     <value xml:space="preserve">Recentelijk aangepaste bestanden</value>
   </data>
-  <data name="ModifiedFilesLoadWarning.Text" lastModified="2016-11-28 21:44:31">
+  <data name="ModifiedFilesLoadWarning.Text" lastModified="2016-11-28 19:44:31">
     <value xml:space="preserve">Tool zal alle bestanden in uw systeem indexeren en de recent aangepaste bestanden weergeven. Dit kan enige tijd duren bij een website met veel bestanden.</value>
   </data>
-  <data name="ModifiedSettings.Text" lastModified="2016-11-28 22:45:45">
-    <value xml:space="preserve">Recent gemodificeerde instellingen</value>
+  <data name="ModifiedSettings.Text" lastModified="2016-11-28 20:45:45">
+    <value xml:space="preserve">Recent aangepaste instellingen</value>
   </data>
-  <data name="ModuleId.Text" lastModified="2018-07-24 15:00:42">
+  <data name="ModuleId.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">MODULE-ID</value>
   </data>
-  <data name="ModuleSettings.Text" lastModified="2016-11-28 22:45:45">
+  <data name="ModuleSettings.Text" lastModified="2016-11-28 20:45:45">
     <value xml:space="preserve">Module instellingen</value>
   </data>
-  <data name="nav_Security.Text" lastModified="2016-11-28 22:45:45">
+  <data name="nav_Security.Text" lastModified="2016-11-28 20:45:45">
     <value xml:space="preserve">Beveiliging</value>
   </data>
-  <data name="No.Text" lastModified="2016-11-28 22:45:45">
+  <data name="No.Text" lastModified="2016-11-28 20:45:45">
     <value xml:space="preserve">Nee</value>
   </data>
-  <data name="NoDatabaseResults.Text" lastModified="2016-11-28 22:45:45">
+  <data name="NoDatabaseResults.Text" lastModified="2016-11-28 20:45:45">
     <value xml:space="preserve">Zoekterm is niet gevonden in de database</value>
   </data>
-  <data name="NoDisplayName.Text" lastModified="2016-11-28 23:47:57">
+  <data name="NoDisplayName.Text" lastModified="2016-11-28 21:47:57">
     <value xml:space="preserve">U heeft de vereis unieke weergavenaam optie geselecteerd maar u heeft niet het weergavenaam veld in de lijst van velden opgenomen.</value>
   </data>
-  <data name="NoEmail.Text" lastModified="2016-11-29 00:48:41">
-    <value xml:space="preserve">Het "Email" veld, moet mininmaal zijn ingesloten.</value>
+  <data name="NoEmail.Text" lastModified="2016-11-28 22:48:41">
+    <value xml:space="preserve">Het "E-mail" veld, moet minimaal zijn ingesloten.</value>
   </data>
-  <data name="NoFileResults.Text" lastModified="2016-11-29 01:50:34">
+  <data name="NoFileResults.Text" lastModified="2016-11-28 23:50:34">
     <value xml:space="preserve">Zoekterm is niet gevonden in een bestand</value>
   </data>
-  <data name="None.Text" lastModified="2016-11-29 01:50:34">
+  <data name="None.Text" lastModified="2016-11-28 23:50:34">
     <value xml:space="preserve">Geen</value>
   </data>
-  <data name="NoneSpecified.Text" lastModified="2016-11-29 01:50:34">
+  <data name="NoneSpecified.Text" lastModified="2016-11-28 23:50:34">
     <value xml:space="preserve">Niets gespecificeerd</value>
   </data>
-  <data name="Notes.Text" lastModified="2016-11-29 01:50:34">
+  <data name="Notes.Text" lastModified="2016-11-28 23:50:34">
     <value xml:space="preserve">Notities</value>
   </data>
-  <data name="NotValid.Text" lastModified="2018-07-24 15:00:42">
+  <data name="NotValid.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">{0} {1} is niet geldig.</value>
   </data>
-  <data name="OtherSettingsError.Text" lastModified="2016-11-29 02:52:28">
+  <data name="OtherSettingsError.Text" lastModified="2016-11-29 00:52:28">
     <value xml:space="preserve">Kan instellingen niet bijwerken. Probeer het later opnieuw.</value>
   </data>
-  <data name="OtherSettingsRestoreWarning.Text" lastModified="2016-11-29 02:52:28">
+  <data name="OtherSettingsRestoreWarning.Text" lastModified="2016-11-29 00:52:28">
     <value xml:space="preserve">Weet u zeker dat u de aanpassingen wilt annuleren?</value>
   </data>
-  <data name="OtherSettingsUpdateSuccess.Text" lastModified="2016-11-29 02:52:28">
+  <data name="OtherSettingsUpdateSuccess.Text" lastModified="2016-11-29 00:52:28">
     <value xml:space="preserve">Instellingen zijn bijgewerkt.</value>
   </data>
-  <data name="Pass.Text" lastModified="2016-11-29 02:52:28">
-    <value xml:space="preserve">PASS</value>
+  <data name="Pass.Text" lastModified="2016-11-29 00:52:28">
+    <value xml:space="preserve">OK</value>
   </data>
-  <data name="PasswordAttemptWindowTitle.Help" lastModified="2016-11-29 02:52:28">
+  <data name="PasswordAttemptWindowTitle.Help" lastModified="2016-11-29 00:52:28">
     <value xml:space="preserve">Specificeert de lengte van de tijd dat een account wordt geblokkeerd als het wachtwoord te vaak verkeerd is ingevoerd. Dit kan alleen worden ingesteld in de web.config.</value>
   </data>
-  <data name="PasswordAttemptWindowTitle.Text" lastModified="2016-11-29 03:52:40">
-    <value xml:space="preserve">Password poging scherm</value>
+  <data name="PasswordAttemptWindowTitle.Text" lastModified="2016-11-29 01:52:40">
+    <value xml:space="preserve">Wachtwoord poging scherm</value>
   </data>
-  <data name="PasswordConfig_PasswordExpiry.Help" lastModified="2016-11-29 04:54:00">
+  <data name="PasswordConfig_PasswordExpiry.Help" lastModified="2016-11-29 02:54:00">
     <value xml:space="preserve">Vul het aantal dagen waarna de gebruiker zijn wachtwoord moet wijzigen. Vul een 0 in als het wachtwoord nooit verloopt.</value>
   </data>
-  <data name="PasswordConfig_PasswordExpiry.Text" lastModified="2016-11-29 06:55:02">
+  <data name="PasswordConfig_PasswordExpiry.Text" lastModified="2016-11-29 04:55:02">
     <value xml:space="preserve">Wachtwoord verloopt (in dagen)</value>
   </data>
-  <data name="PasswordConfig_PasswordExpiryReminder.Help" lastModified="2016-11-29 05:54:54">
+  <data name="PasswordConfig_PasswordExpiryReminder.Help" lastModified="2016-11-29 03:54:54">
     <value xml:space="preserve">Vul het aantal dagen in waarop de gebruikers een waarschuwing krijgen dat hun wachtwoord op het punt staat te verlopen.</value>
   </data>
-  <data name="PasswordConfig_PasswordExpiryReminder.Text" lastModified="2016-11-29 07:56:05">
+  <data name="PasswordConfig_PasswordExpiryReminder.Text" lastModified="2016-11-29 05:56:05">
     <value xml:space="preserve">Wachtwoord verloopt herinnering (in dagen)</value>
   </data>
-  <data name="PasswordExpiry.ErrorMessage" lastModified="2016-11-29 07:56:05">
+  <data name="PasswordExpiry.ErrorMessage" lastModified="2016-11-29 05:56:05">
     <value xml:space="preserve">Wachtwoord verloopt moet een een numerieke waarde zijn dat gelijk of groter is aan 0 en minder dan 10000.</value>
   </data>
-  <data name="PasswordExpiryReminder.ErrorMessage" lastModified="2016-11-29 08:56:25">
+  <data name="PasswordExpiryReminder.ErrorMessage" lastModified="2016-11-29 06:56:25">
     <value xml:space="preserve">Wachtwoord verloopt herinnering moet een een numerieke waarde zijn dat gelijk of groter is aan 0 en minder dan 10000.</value>
   </data>
-  <data name="PasswordFormat.Help" lastModified="2016-11-29 09:58:43">
+  <data name="PasswordFormat.Help" lastModified="2016-11-29 07:58:43">
     <value xml:space="preserve">Het wachtwoord formaat.</value>
   </data>
-  <data name="PasswordFormat.Text" lastModified="2016-11-29 09:58:43">
+  <data name="PasswordFormat.Text" lastModified="2016-11-29 07:58:43">
     <value xml:space="preserve">Wachtwoord formaat</value>
   </data>
-  <data name="PasswordResetEnabledTitle.Help" lastModified="2016-11-29 09:58:43">
+  <data name="PasswordResetEnabledTitle.Help" lastModified="2016-11-29 07:58:43">
     <value xml:space="preserve">Specificeer of gebruikers een wachtwoord reset kunnen aanvragen of niet. Dit kan alleen worden aangepast in de web.config.</value>
   </data>
-  <data name="PasswordResetEnabledTitle.Text" lastModified="2016-11-29 09:58:43">
+  <data name="PasswordResetEnabledTitle.Text" lastModified="2016-11-29 07:58:43">
     <value xml:space="preserve">Wachtwoord reset actief</value>
   </data>
-  <data name="PasswordRetrievalEnabled.Help" lastModified="2016-11-29 10:59:32">
+  <data name="PasswordRetrievalEnabled.Help" lastModified="2016-11-29 08:59:32">
     <value xml:space="preserve">Geeft aan of gebruikers hun wachtwoord kunnen ophalen.</value>
   </data>
-  <data name="PasswordRetrievalEnabled.Text" lastModified="2016-11-29 10:59:32">
+  <data name="PasswordRetrievalEnabled.Text" lastModified="2016-11-29 08:59:32">
     <value xml:space="preserve">Wachtwoord opvragen actief</value>
   </data>
-  <data name="PasswordStrengthRegularExpressionTitle.Help" lastModified="2016-11-29 13:07:26">
+  <data name="PasswordStrengthRegularExpressionTitle.Help" lastModified="2016-11-29 11:07:26">
     <value xml:space="preserve">De regular expression die gebruikt wordt voor het evalueren van de wachtwoord complexiteit voor de provider die gespecificeerd zijn in de provider instellingen. Dit kan alleen worden aangepast in de web.config bij het toevoegen/wijzigen van de passwordStrengthRegularExpression node van de AspNetSqlMembershipProvider. Notitie: Deze server validatie is anders dan de wachtwoord sterkte meter die geintroduceert in 7.1.0 welke alleen een wachtwoord sterkte adviseerd, waar deze expressie een vereiste is voor nieuwe wachtwoorden (als het is gedefinieerd).</value>
   </data>
-  <data name="PasswordStrengthRegularExpressionTitle.Text" lastModified="2016-11-29 14:09:24">
+  <data name="PasswordStrengthRegularExpressionTitle.Text" lastModified="2016-11-29 12:09:24">
     <value xml:space="preserve">Wachtwoord sterkte regular expression</value>
   </data>
-  <data name="plAdministrator.Help" lastModified="2016-11-29 15:10:23">
+  <data name="plAdministrator.Help" lastModified="2016-11-29 13:10:23">
     <value xml:space="preserve">De hoofdadministrator die een mail bericht krijgt bij leden activiteiten.</value>
   </data>
-  <data name="plAdministrator.Text" lastModified="2016-11-29 15:10:23">
+  <data name="plAdministrator.Text" lastModified="2016-11-29 13:10:23">
     <value xml:space="preserve">Hoofdadministrator</value>
   </data>
-  <data name="plAdminResetLinkValidity.Help" lastModified="2016-11-29 16:11:42">
+  <data name="plAdminResetLinkValidity.Help" lastModified="2016-11-29 14:11:42">
     <value xml:space="preserve">Tijd in minuten dat de wachtwoord reset link die gestuurd is door de site administrator geldig is.</value>
   </data>
-  <data name="plAdminResetLinkValidity.Text" lastModified="2016-11-29 16:11:42">
+  <data name="plAdminResetLinkValidity.Text" lastModified="2016-11-29 14:11:42">
     <value xml:space="preserve">Administrator reset link timeout (in minuten)</value>
   </data>
-  <data name="plAsyncTimeout.Help" lastModified="2016-11-29 17:13:40">
+  <data name="plAsyncTimeout.Help" lastModified="2016-11-29 15:13:40">
     <value xml:space="preserve">Stel de waarde in voor de tijd in seconden, voor de asynchrone postbacks een timeout geven als er geen reactie is. De waarde moet tussen de 90-9999 seconden liggen.</value>
   </data>
-  <data name="plAsyncTimeout.Text" lastModified="2016-11-29 17:13:40">
+  <data name="plAsyncTimeout.Text" lastModified="2016-11-29 15:13:40">
     <value xml:space="preserve">Tijd voor timeout (Seconden)</value>
   </data>
-  <data name="plAutoAccountUnlock.Help" lastModified="2016-11-29 18:19:25">
+  <data name="plAutoAccountUnlock.Help" lastModified="2016-11-29 16:19:25">
     <value xml:space="preserve">Nadat een account is geblokkeerd wegens te veel inlogpogingen, dit kan automatisch worden gedeblokkeerd na een succesvolle authenticatie nadat een bepaalde tijd is verstreken. Vul het aantal minuten in dat er gewacht moet worden voor het account automatisch kan worden gedeblokkeerd. Vul "0" in om de autodeblokkeer functie uit te schakelen. </value>
   </data>
-  <data name="plAutoAccountUnlock.Text" lastModified="2016-11-30 02:28:07">
+  <data name="plAutoAccountUnlock.Text" lastModified="2016-11-30 00:28:07">
     <value xml:space="preserve">Auto-Deblokkeer account na (Minuten)</value>
   </data>
-  <data name="plDebugMode.Help" lastModified="2016-11-30 03:30:11">
+  <data name="plDebugMode.Help" lastModified="2016-11-30 01:30:11">
     <value xml:space="preserve">Vink deze optie aan om de installatie in "Debug mode" uit te voeren. Dit zorgt ervoor dat meerdere onderdelen van de applicatie betere foutmeldingen genereren. Notitie: Dit kan invloed hebben op de snelheid.</value>
   </data>
-  <data name="plDebugMode.Text" lastModified="2018-07-24 15:00:42">
+  <data name="plDebugMode.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">Foutopsporingsmodus</value>
   </data>
-  <data name="plDisplayCopyright.Help" lastModified="2018-07-24 15:00:42">
-    <value xml:space="preserve">Vink dit selectievakje aan om de DNN-auteursrechtcredits toe te voegen aan de paginabron.</value>
+  <data name="plDefaultEndUserExtensionWhitelist.Help" lastModified="2020-05-10 13:48:55">
+    <value xml:space="preserve">Dit is de lijst van extensies van bestanden die eindgebruikers mogen uploaden. Administrators deze overschrijven, maar kunnen nooit andere extensies toestaan dan die in de masterlijst is opgenomen. Let op: deze lijst wordt gefilterd door de bovenstaande lijst wanneer deze wordt opgeslagen.</value>
   </data>
-  <data name="plDisplayCopyright.Text" lastModified="2018-07-24 15:00:42">
-    <value xml:space="preserve">Toon auteursrechtcredits</value>
+  <data name="plDefaultEndUserExtensionWhitelist.Text">
+    <value xml:space="preserve">Standaard eindgebruiker extensie whitelist</value>
   </data>
-  <data name="plEnableBannedList.Help" lastModified="2016-11-30 04:31:04">
+  <data name="plEnableBannedList.Help" lastModified="2016-11-30 02:31:04">
     <value xml:space="preserve">Vink deze optie aan om een wachtwoord te controleren tegenover een lijst met verboden onderdelen.</value>
   </data>
-  <data name="plEnableBannedList.Text" lastModified="2016-11-30 04:31:04">
+  <data name="plEnableBannedList.Text" lastModified="2016-11-30 02:31:04">
     <value xml:space="preserve">Activeer verboden wachtwoord lijst</value>
   </data>
-  <data name="plEnableIPChecking.Help" lastModified="2016-11-30 05:31:43">
+  <data name="plEnableIPChecking.Help" lastModified="2016-11-30 03:31:43">
     <value xml:space="preserve">Activeer of het IP adres wordt gecontroleerd tijdens het inloggen</value>
   </data>
-  <data name="plEnableIPChecking.Text" lastModified="2016-11-30 06:32:03">
+  <data name="plEnableIPChecking.Text" lastModified="2016-11-30 04:32:03">
     <value xml:space="preserve">Activeer IP adres controle</value>
   </data>
-  <data name="plEnablePasswordHistory.Help" lastModified="2016-11-30 07:33:48">
+  <data name="plEnablePasswordHistory.Help" lastModified="2016-11-30 05:33:48">
     <value xml:space="preserve">Activeerd of er een lijst wordt bijgehouden van de reeds gebruikte wachtwoorden om te voorkomen dat een wachtwoord opnieuw wordt gebruikt.</value>
   </data>
-  <data name="plEnablePasswordHistory.Text" lastModified="2016-11-30 07:33:48">
+  <data name="plEnablePasswordHistory.Text" lastModified="2016-11-30 05:33:48">
     <value xml:space="preserve">Activeer wachtwoord geschiedenis</value>
   </data>
-  <data name="plEnableRegisterNotification.Help" lastModified="2016-11-30 08:35:34">
+  <data name="plEnableRegisterNotification.Help" lastModified="2016-11-30 06:35:34">
     <value xml:space="preserve">Vink deze optie aan als er een email bericht moet worden verstuurd naar de hoofd administrator bij de registratie van een nieuwe gebruiker.</value>
   </data>
-  <data name="plEnableRegisterNotification.Text" lastModified="2016-11-30 09:36:54">
+  <data name="plEnableRegisterNotification.Text" lastModified="2016-11-30 07:36:54">
     <value xml:space="preserve">Ontvang berichtgeving bij nieuwe gebruikersregistratie</value>
   </data>
-  <data name="plEnableStrengthMeter.Help" lastModified="2016-11-30 10:38:31">
+  <data name="plEnableStrengthMeter.Help" lastModified="2016-11-30 08:38:31">
     <value xml:space="preserve">Geeft aan of de wachtwoord sterkte meter wordt getoond op het registratiescherm</value>
   </data>
-  <data name="plEnableStrengthMeter.Text" lastModified="2016-11-30 10:38:31">
+  <data name="plEnableStrengthMeter.Text" lastModified="2016-11-30 08:38:31">
     <value xml:space="preserve">Activeer wachtwoord sterkte controle</value>
   </data>
-  <data name="plFileExtensions.Help" lastModified="2016-11-30 11:43:42">
+  <data name="plFileExtensions.Help" lastModified="2016-11-30 09:43:42">
     <value xml:space="preserve">Vul de bestands extensies in (gescheiden door comma's) die geupload kunnen worden binnen de website.</value>
   </data>
-  <data name="plFileExtensions.Text" lastModified="2016-11-30 11:43:42">
+  <data name="plFileExtensions.Text" lastModified="2016-11-30 09:43:42">
     <value xml:space="preserve">Toegestane bestands extensies:</value>
   </data>
-  <data name="plFirstIP.Help" lastModified="2016-11-30 11:43:42">
+  <data name="plFirstIP.Help" lastModified="2016-11-30 09:43:42">
     <value xml:space="preserve">Dit is of het enkele IP om te filteren , of zal worden gebruikt met de subnet mask om het bereik te berekenen van de IP adressen.</value>
   </data>
-  <data name="plFirstIP.Text" lastModified="2016-11-30 12:44:30">
+  <data name="plFirstIP.Text" lastModified="2016-11-30 10:44:30">
     <value xml:space="preserve">Eerste IP</value>
   </data>
-  <data name="plHideLoginControl.Help" lastModified="2016-11-30 12:44:30">
+  <data name="plForceLogOutAfterPasswordChanged.Help">
+    <value xml:space="preserve">Forceer uitloggen nadat de gebruiker het wachtwoord heeft gewijzigd.</value>
+  </data>
+  <data name="plForceLogOutAfterPasswordChanged.Text">
+    <value xml:space="preserve">Forceer uitloggen na wijzigen van wachtwoord</value>
+  </data>
+  <data name="plHideLoginControl.Help" lastModified="2016-11-30 10:44:30">
     <value xml:space="preserve">Vink deze optie aan om de login te verbergen op de pagina.</value>
   </data>
-  <data name="plHideLoginControl.Text" lastModified="2016-11-30 12:44:30">
+  <data name="plHideLoginControl.Text" lastModified="2016-11-30 10:44:30">
     <value xml:space="preserve">Verberg login control</value>
   </data>
-  <data name="plMaxUploadSize.Help" lastModified="2016-11-30 13:45:29">
+  <data name="plMaxUploadSize.Help" lastModified="2016-11-30 11:45:29">
     <value xml:space="preserve">Maximale grootte van bestand dat kan worden geupload naar de site. Het maximum is 12 MB.</value>
   </data>
-  <data name="plMaxUploadSize.Text" lastModified="2016-11-30 13:45:29">
+  <data name="plMaxUploadSize.Text" lastModified="2016-11-30 11:45:29">
     <value xml:space="preserve">Maximale upload grootte</value>
   </data>
-  <data name="plNumberPasswords.Help" lastModified="2016-11-30 14:48:10">
+  <data name="plNumberPasswords.Help" lastModified="2016-11-30 12:48:10">
     <value xml:space="preserve">Vul het aantal wachtwoorden in om op te slaan voor de hergebruik controle</value>
   </data>
-  <data name="plNumberPasswords.Text" lastModified="2016-11-30 14:48:10">
+  <data name="plNumberPasswords.Text" lastModified="2016-11-30 12:48:10">
     <value xml:space="preserve">Aantal wachtwoorden in opslag</value>
   </data>
-  <data name="plPasswordDays.Help" lastModified="2018-07-24 15:00:42">
+  <data name="plPasswordDays.Help" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">Voer de tijd in dagen in die moet verstrijken voordat een wachtwoord opnieuw kan worden gebruikt</value>
   </data>
-  <data name="plPasswordDays.Text" lastModified="2018-07-24 15:00:42">
+  <data name="plPasswordDays.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">Aantal dagen vóór wachtwoordhergebruik</value>
   </data>
-  <data name="plRememberMe.Help" lastModified="2016-11-30 15:49:31">
+  <data name="plRememberMe.Help" lastModified="2016-11-30 13:49:31">
     <value xml:space="preserve">Vink deze optie aan om het herinner wachtwoord veld op de login pagina weer te geven die gebruikers de mogelijkheid geeft om ingelogd te blijven bij meerdere bezoeken.</value>
   </data>
-  <data name="plRememberMe.Text" lastModified="2016-11-30 16:50:13">
+  <data name="plRememberMe.Text" lastModified="2016-11-30 14:50:13">
     <value xml:space="preserve">Activeer Herinner mij op login pagina</value>
   </data>
-  <data name="plResetLinkValidity.Help" lastModified="2016-11-30 16:50:13">
+  <data name="plResetLinkValidity.Help" lastModified="2016-11-30 14:50:13">
     <value xml:space="preserve">Wachtwoord reset links zijn geldig voor (in minuten).</value>
   </data>
-  <data name="plResetLinkValidity.Text" lastModified="2016-11-30 17:50:32">
+  <data name="plResetLinkValidity.Text" lastModified="2016-11-30 15:50:32">
     <value xml:space="preserve">Reset link timeout (in minuten)</value>
   </data>
-  <data name="plRuleSpecifity.Help" lastModified="2016-11-30 18:51:37">
+  <data name="plRuleSpecifity.Help" lastModified="2016-11-30 16:51:37">
     <value xml:space="preserve">Bepaald of de regel geldt voor een enkel IP adres of een bereik van IP adressen.</value>
   </data>
-  <data name="plRuleSpecifity.Text" lastModified="2016-11-30 19:52:52">
+  <data name="plRuleSpecifity.Text" lastModified="2016-11-30 17:52:52">
     <value xml:space="preserve">Regel specificiteit</value>
   </data>
-  <data name="plRuleType.Help" lastModified="2016-11-30 20:53:39">
+  <data name="plRuleType.Help" lastModified="2016-11-30 18:53:39">
     <value xml:space="preserve">Bepaald of deze regel toegang toestaat of juist blokkeert.</value>
   </data>
-  <data name="plRuleType.Text" lastModified="2016-11-30 20:53:39">
+  <data name="plRuleType.Text" lastModified="2016-11-30 18:53:39">
     <value xml:space="preserve">Regeltype</value>
   </data>
-  <data name="plSearchTerm.Text" lastModified="2016-11-30 20:53:39">
+  <data name="plSearchTerm.Text" lastModified="2016-11-30 18:53:39">
     <value xml:space="preserve">Zoekterm</value>
   </data>
-  <data name="plShowCriticalErrors.Help" lastModified="2016-11-30 21:55:00">
+  <data name="plShowCriticalErrors.Help" lastModified="2016-11-30 19:55:00">
     <value xml:space="preserve">Deze instellinge bepaald of een foutbericht worden weergegeven in de pagina die worden verstuurd via de fout querystring parameter.</value>
   </data>
-  <data name="plShowCriticalErrors.Text" lastModified="2016-11-30 21:55:00">
+  <data name="plShowCriticalErrors.Text" lastModified="2016-11-30 19:55:00">
     <value xml:space="preserve">Toon kritieke fouten op het scherm</value>
   </data>
-  <data name="plSSLEnabled.Help" lastModified="2016-11-30 22:57:14">
+  <data name="plSSLEnabled.Help" lastModified="2016-11-30 20:57:14">
     <value xml:space="preserve">Vink deze optie aan als er een SSL certificaat geinstalleerd is en beschikbaar is op deze website.</value>
   </data>
-  <data name="plSSLEnabled.Text" lastModified="2016-11-30 22:57:14">
+  <data name="plSSLEnabled.Text" lastModified="2016-11-30 20:57:14">
     <value xml:space="preserve">SSL geactiveerd</value>
   </data>
-  <data name="plSSLEnforced.Help" lastModified="2016-11-30 22:57:14">
+  <data name="plSSLEnforced.Help" lastModified="2016-11-30 20:57:14">
     <value xml:space="preserve">Vink deze optie aan om onbeveiligde pagina's niet beschikbaar te maken met SSL (HTTPS).</value>
   </data>
-  <data name="plSSLEnforced.Text" lastModified="2016-11-30 23:58:32">
+  <data name="plSSLEnforced.Text" lastModified="2016-11-30 21:58:32">
     <value xml:space="preserve">SSL geforceerd</value>
   </data>
-  <data name="plSSLOffload.Help" lastModified="2016-11-30 23:58:32">
+  <data name="plSSLOffload.Help" lastModified="2016-11-30 21:58:32">
     <value xml:space="preserve">Stelt de naam in van de HTTP header die wordt gecontroleerd of er een netwerk balancer gebruik maakt van SSL Offloading</value>
   </data>
-  <data name="plSSLOffload.Text" lastModified="2016-11-30 23:58:32">
+  <data name="plSSLOffload.Text" lastModified="2016-11-30 21:58:32">
     <value xml:space="preserve">SSL Offload Header waarde</value>
   </data>
-  <data name="plSSLURL.Help" lastModified="2016-12-01 01:01:58">
+  <data name="plSSLURL.Help" lastModified="2016-11-30 23:01:58">
     <value xml:space="preserve">Specificeer optioneel welke URL er wordt gebruikt voor de beveiligde verbinding van de site. Dit is alleen nodig als je geen SSL certificaat hebt geinstalleerd voor je standaard website URL. Een voorbeeld is een gedeeld hosting account waar de host je voorzien van een gedeelde SSL URL.</value>
   </data>
-  <data name="plSSLURL.Text" lastModified="2016-12-01 02:03:08">
+  <data name="plSSLURL.Text" lastModified="2016-12-01 00:03:08">
     <value xml:space="preserve">SSL URL</value>
   </data>
-  <data name="plSTDURL.Help" lastModified="2016-12-01 02:03:08">
+  <data name="plSTDURL.Help" lastModified="2016-12-01 00:03:08">
     <value xml:space="preserve">Als er een SSL URL boven is gespecificeerd. specificeer dan een standaard URL voor onbeveiligde verbindingen.</value>
   </data>
-  <data name="plSTDURL.Text" lastModified="2016-12-01 02:03:08">
+  <data name="plSTDURL.Text" lastModified="2016-12-01 00:03:08">
     <value xml:space="preserve">Standaard URL</value>
   </data>
-  <data name="plSubnet.Help" lastModified="2016-12-01 03:04:17">
+  <data name="plSubnet.Help" lastModified="2016-12-01 01:04:17">
     <value xml:space="preserve">De subnetmast zal worden gecombineerd met het eerste IP adres om het bereik van de IP adressen te berekenen voor de filtering.</value>
   </data>
-  <data name="plSubnet.Text" lastModified="2018-07-24 15:00:42">
+  <data name="plSubnet.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">Masker</value>
   </data>
-  <data name="plUserRegistration.Help" lastModified="2016-12-01 06:07:53">
+  <data name="plUserRegistration.Help" lastModified="2016-12-01 04:07:53">
     <value xml:space="preserve">Selecteer het gebruikersregistratietype, als er één is toegestaan voor de site. Prive registraties vereisten een goedkeuring door de site administrator voor er toegang wordt verleend tot de gebruikersrol. Publieke registratie geeft direct toegang en geverifieerd registratie vereist een goedgekeurd emailadres.</value>
   </data>
-  <data name="plUserRegistration.Text" lastModified="2016-12-01 05:04:39">
+  <data name="plUserRegistration.Text" lastModified="2016-12-01 03:04:39">
     <value xml:space="preserve">Gebruikersregistratie</value>
   </data>
-  <data name="PortalId.Text" lastModified="2016-12-01 07:08:15">
+  <data name="PortalId.Text" lastModified="2016-12-01 05:08:15">
     <value xml:space="preserve">PORTAAL ID</value>
   </data>
-  <data name="PortalSettings.Text" lastModified="2016-12-01 07:08:15">
+  <data name="PortalSettings.Text" lastModified="2016-12-01 05:08:15">
     <value xml:space="preserve">Portaal instellingen</value>
   </data>
-  <data name="Private.Text" lastModified="2016-12-01 07:08:15">
-    <value xml:space="preserve">Prive</value>
+  <data name="Private.Text" lastModified="2020-05-10 15:49:22">
+    <value xml:space="preserve">Privé</value>
   </data>
-  <data name="Public.Text" lastModified="2016-12-01 07:08:15">
+  <data name="Public.Text" lastModified="2016-12-01 05:08:15">
     <value xml:space="preserve">Publiek</value>
   </data>
-  <data name="Redirect_AfterLogin.Help" lastModified="2016-12-01 08:09:06">
+  <data name="Redirect_AfterLogin.Help" lastModified="2016-12-01 06:09:06">
     <value xml:space="preserve">Stel optioneel een pagina in waar gebruikers naartoe worden gestuurd na een succesvolle login.</value>
   </data>
-  <data name="Redirect_AfterLogin.Text" lastModified="2016-12-01 08:09:06">
+  <data name="Redirect_AfterLogin.Text" lastModified="2016-12-01 06:09:06">
     <value xml:space="preserve">Doorsturen na login</value>
   </data>
-  <data name="Redirect_AfterLogout.Help" lastModified="2016-12-01 09:09:34">
+  <data name="Redirect_AfterLogout.Help" lastModified="2016-12-01 07:09:34">
     <value xml:space="preserve">Stel optioneel een pagina in waar gebruikers naartoe worden gestuurd na een succesvolle uitlog</value>
   </data>
-  <data name="Redirect_AfterLogout.Text" lastModified="2016-12-01 09:09:34">
+  <data name="Redirect_AfterLogout.Text" lastModified="2016-12-01 07:09:34">
     <value xml:space="preserve">Doorsturen na uitlog</value>
   </data>
-  <data name="Redirect_AfterRegistration.Help" lastModified="2016-12-01 10:11:18">
+  <data name="Redirect_AfterRegistration.Help" lastModified="2016-12-01 08:11:18">
     <value xml:space="preserve">Stel optioneel een pagina in waar gebruikers naartoe worden gestuurd na een succesvolle registratie</value>
   </data>
-  <data name="Redirect_AfterRegistration.Text" lastModified="2016-12-01 10:11:18">
+  <data name="Redirect_AfterRegistration.Text" lastModified="2016-12-01 08:11:18">
     <value xml:space="preserve">Doorsturen na registratie</value>
   </data>
-  <data name="Registration_ExcludeTerms.Help" lastModified="2016-12-01 11:12:41">
+  <data name="Registration_ExcludeTerms.Help" lastModified="2016-12-01 09:12:41">
     <value xml:space="preserve">Je kunt een comma gescheiden lijst opstellen met termen die door gebruikers niet kunnen worden gebruikt in hun gebruikersnaam of weergavenaam.</value>
   </data>
-  <data name="Registration_ExcludeTerms.Text" lastModified="2016-12-01 11:12:41">
+  <data name="Registration_ExcludeTerms.Text" lastModified="2016-12-01 09:12:41">
     <value xml:space="preserve">Buitengesloten termen</value>
   </data>
-  <data name="Registration_RandomPassword.Help" lastModified="2016-12-01 12:13:56">
+  <data name="Registration_RandomPassword.Help" lastModified="2016-12-01 10:13:56">
     <value xml:space="preserve">Vink deze instellinge aan om een willekeurig wachtwoord te genereren tijdens de registratie, in plaats van een wachtwoord invul veld.</value>
   </data>
-  <data name="Registration_RandomPassword.Text" lastModified="2016-12-01 12:13:56">
+  <data name="Registration_RandomPassword.Text" lastModified="2016-12-01 10:13:56">
     <value xml:space="preserve">Gebruik willekeurig wachtwoord</value>
   </data>
-  <data name="Registration_RequireConfirmPassword.Help" lastModified="2016-12-01 13:15:04">
+  <data name="Registration_RequireConfirmPassword.Help" lastModified="2016-12-01 11:15:04">
     <value xml:space="preserve">Vink deze optie aan om een wachtwoordbevestigingsveld weer te geven op het registratie scherm.</value>
   </data>
-  <data name="Registration_RequireConfirmPassword.Text" lastModified="2016-12-01 13:15:04">
+  <data name="Registration_RequireConfirmPassword.Text" lastModified="2016-12-01 11:15:04">
     <value xml:space="preserve">Vereis wachtwoord bevestiging</value>
   </data>
-  <data name="Registration_RequireUniqueDisplayName.Help" lastModified="2016-12-01 15:16:41">
+  <data name="Registration_RequireUniqueDisplayName.Help" lastModified="2016-12-01 13:16:41">
     <value xml:space="preserve">vereis optioneel dat gebruikers een unieke weergavenaam gebruiken. Als een gebruiker een naam in geeft die al reeds in gebruik is zal er een alternatief worden voorgesteld.</value>
   </data>
-  <data name="Registration_RequireUniqueDisplayName.Text" lastModified="2016-12-01 15:16:41">
+  <data name="Registration_RequireUniqueDisplayName.Text" lastModified="2016-12-01 13:16:41">
     <value xml:space="preserve">Vereis een unieke weergavenaam</value>
   </data>
-  <data name="Registration_UseAuthProviders.Help" lastModified="2016-12-01 16:18:02">
+  <data name="Registration_UseAuthProviders.Help" lastModified="2016-12-01 14:18:02">
     <value xml:space="preserve">Selecteer deze optie om authenticatie providers te gebruiken tijdens het registreren. denk er wel aan dat niet alle providers deze optie ondersteunen.</value>
   </data>
-  <data name="Registration_UseAuthProviders.Text" lastModified="2016-12-01 16:18:02">
+  <data name="Registration_UseAuthProviders.Text" lastModified="2016-12-01 14:18:02">
     <value xml:space="preserve">Gebruik Authenticatie providers</value>
   </data>
-  <data name="Registration_UseEmailAsUserName.Help" lastModified="2016-12-01 17:19:28">
-    <value xml:space="preserve">Vink deze optie aan om het emailadres te gebruiken als gebruikersnaam. Als deze optie actief is dan zal het gebruikersnaamveld niet worden getoond op het registratiescherm.</value>
+  <data name="Registration_UseEmailAsUserName.Help" lastModified="2016-12-01 15:19:28">
+    <value xml:space="preserve">Vink deze optie aan om het e-mailadres te gebruiken als gebruikersnaam. Als deze optie actief is dan zal het gebruikersnaam veld niet worden getoond op het registratiescherm.</value>
   </data>
-  <data name="Registration_UseEmailAsUserName.Text" lastModified="2016-12-01 17:19:28">
-    <value xml:space="preserve">Gebruik Emailadres als gebruikersnaam</value>
+  <data name="Registration_UseEmailAsUserName.Text" lastModified="2016-12-01 15:19:28">
+    <value xml:space="preserve">Gebruik e-mailadres als gebruikersnaam</value>
   </data>
-  <data name="Registration_UseProfanityFilter.Help" lastModified="2016-12-01 18:21:22">
-    <value xml:space="preserve">Vink deze optie aan om een heiligschennis filter te gebruiken voor gebruikersnamen en weergavenaam velden tijdens de registratie.</value>
+  <data name="Registration_UseProfanityFilter.Help" lastModified="2016-12-01 16:21:22">
+    <value xml:space="preserve">Vink deze optie aan om een verboden woorden filter te gebruiken voor gebruikersnamen en weergavenaam velden tijdens de registratie.</value>
   </data>
-  <data name="Registration_UseProfanityFilter.Text" lastModified="2016-12-01 19:21:41">
-    <value xml:space="preserve">Gebruik heiligschennis filter</value>
+  <data name="Registration_UseProfanityFilter.Text" lastModified="2016-12-01 17:21:41">
+    <value xml:space="preserve">Gebruik verboden woorden filter</value>
   </data>
-  <data name="registrationFieldsLabel.Help" lastModified="2016-12-01 23:28:15">
+  <data name="registrationFieldsLabel.Help" lastModified="2016-12-01 21:28:15">
     <value xml:space="preserve">Je kunt een comma gescheiden lijst opgeven van velden die je mee wilt geven. Als deze instelling wordt gebruikt, overschrijft dit de andere instellingen. De mogelijke velden zijn onderandere gebuikersnaam, email, wachtwoord, bevestig wachtwoord, weergavenaam en alle profiel eigenschappen.</value>
   </data>
-  <data name="registrationFieldsLabel.Text" lastModified="2016-12-01 22:25:58">
+  <data name="registrationFieldsLabel.Text" lastModified="2016-12-01 20:25:58">
     <value xml:space="preserve">Registratievelden:</value>
   </data>
-  <data name="registrationFormTypeLabel.Help" lastModified="2016-12-02 00:28:45">
+  <data name="registrationFormTypeLabel.Help" lastModified="2016-12-01 22:28:45">
     <value xml:space="preserve">Selecteer het registratie formulier dat je wilt gebruiken.</value>
   </data>
-  <data name="registrationFormTypeLabel.Text" lastModified="2016-12-02 00:28:45">
+  <data name="registrationFormTypeLabel.Text" lastModified="2016-12-01 22:28:45">
     <value xml:space="preserve">Registratie formulier type</value>
   </data>
-  <data name="RegistrationSettingsError.Text" lastModified="2016-12-02 01:29:38">
+  <data name="RegistrationSettingsError.Text" lastModified="2016-12-01 23:29:38">
     <value xml:space="preserve">Kan de registratie instellingen niet wijzigen. Probeer het later opnieuw.</value>
   </data>
-  <data name="RegistrationSettingsRestoreWarning.Text" lastModified="2016-12-02 01:29:38">
+  <data name="RegistrationSettingsRestoreWarning.Text" lastModified="2016-12-01 23:29:38">
     <value xml:space="preserve">Weet u zeker dat u de instellingen wilt annuleren?</value>
   </data>
-  <data name="RegistrationSettingsUpdateSuccess.Text" lastModified="2016-12-02 02:30:53">
+  <data name="RegistrationSettingsUpdateSuccess.Text" lastModified="2016-12-02 00:30:53">
     <value xml:space="preserve">De registratie instellingen zijn gewijzigt.</value>
   </data>
-  <data name="RegRead.Error" lastModified="2016-12-02 02:30:53">
+  <data name="RegRead.Error" lastModified="2016-12-02 00:30:53">
     <value xml:space="preserve">Het huidige SQL Server account van register waardes lezen. controleer de rechten op de xp_regread, xp_regwrite, xp_regenumkeys, xp_regenumvalues, xp_regdeletekey, xp_regdeletekey, xp_regdeletevalue, xp_instance_regread, xp_instance_regwrite, xp_instance_regenumkeys, xp_instance_regenumvalues, xp_instance_regdeletekey, xp_instance_regdeletekey, xp_instance_regdeletevalue stored procedures.</value>
   </data>
-  <data name="RequestFailed_Admin.Text" lastModified="2016-12-02 03:31:52">
+  <data name="RequestFailed_Admin.Text" lastModified="2016-12-02 01:31:52">
     <value xml:space="preserve">kan niet verbinden met {0}. Controleer of het adres geldig is en dat uw hosting provider hun proxyserver instellingen correct heeft staan.</value>
   </data>
-  <data name="RequestFailed_User.Text" lastModified="2016-12-02 04:32:24">
+  <data name="RequestFailed_User.Text" lastModified="2016-12-02 02:32:24">
     <value xml:space="preserve">De nieuwsfeed is op dit moment niet beschikbaar. foutboodschap:</value>
   </data>
-  <data name="RequiresQuestionAndAnswerTitle.Help" lastModified="2016-12-02 05:33:31">
+  <data name="RequiresQuestionAndAnswerTitle.Help" lastModified="2016-12-02 03:33:31">
     <value xml:space="preserve">Geeft aan of er een vraag en antwoord systeem wordt gebruikt als onderdeel van het registratieproces. Dit kan alleen worden veranderd in de web.config.</value>
   </data>
-  <data name="RequiresQuestionAndAnswerTitle.Text" lastModified="2016-12-02 06:34:57">
+  <data name="RequiresQuestionAndAnswerTitle.Text" lastModified="2016-12-02 04:34:57">
     <value xml:space="preserve">Vereist vraag en antwoord</value>
   </data>
-  <data name="RequiresUniqueEmail.Help" lastModified="2016-12-02 06:34:57">
-    <value xml:space="preserve">Vink deze optie aan als iedere gebruik een uniek emailadres moet invoeren. dit voorkomt dat gebruikers zich meerdere keren registreren met hetzelfde emailadres.</value>
+  <data name="RequiresUniqueEmail.Help" lastModified="2016-12-02 04:34:57">
+    <value xml:space="preserve">Vink deze optie aan als iedere gebruik een uniek e-mailadres moet invoeren. dit voorkomt dat gebruikers zich meerdere keren registreren met hetzelfde e-mailadres.</value>
   </data>
-  <data name="RequiresUniqueEmail.Text" lastModified="2016-12-01 20:25:26">
-    <value xml:space="preserve">Vereis uniek emailadres</value>
+  <data name="RequiresUniqueEmail.Text" lastModified="2016-12-01 18:25:26">
+    <value xml:space="preserve">Vereis uniek e-mailadres</value>
   </data>
-  <data name="Result.Header" lastModified="2016-12-01 20:25:26">
+  <data name="Result.Header" lastModified="2016-12-01 18:25:26">
     <value xml:space="preserve">Resultaat</value>
   </data>
-  <data name="Result.Text" lastModified="2016-12-01 20:25:26">
+  <data name="Result.Text" lastModified="2016-12-01 18:25:26">
     <value xml:space="preserve">RESULTAAT</value>
   </data>
-  <data name="Save.Text" lastModified="2016-12-01 20:25:26">
+  <data name="Save.Text" lastModified="2016-12-01 18:25:26">
     <value xml:space="preserve">Opslaan</value>
   </data>
-  <data name="saveRule.Text" lastModified="2016-12-01 20:25:26">
+  <data name="saveRule.Text" lastModified="2016-12-01 18:25:26">
     <value xml:space="preserve">Filter bijwerken</value>
   </data>
-  <data name="ScannerChecks.Text" lastModified="2016-12-01 20:25:26">
+  <data name="ScannerChecks.Text" lastModified="2016-12-01 18:25:26">
     <value xml:space="preserve">Zoek in bestandssysteem en database</value>
   </data>
-  <data name="SearchDatabaseResult.Text" lastModified="2016-12-01 20:25:26">
-    <value xml:space="preserve">Database: {0} instances gevonden</value>
+  <data name="SearchDatabaseResult.Text" lastModified="2016-12-01 18:25:26">
+    <value xml:space="preserve">Database: {0} instanties gevonden</value>
   </data>
-  <data name="SearchFileSystemResult.Text" lastModified="2016-12-01 20:25:26">
+  <data name="SearchFileSystemResult.Text" lastModified="2016-12-01 18:25:26">
     <value xml:space="preserve">Bestandssyteem: {0} bestanden gevonden</value>
   </data>
-  <data name="SearchPlaceHolder.Text" lastModified="2016-12-01 20:25:26">
+  <data name="SearchPlaceHolder.Text" lastModified="2016-12-01 18:25:26">
     <value xml:space="preserve">Zoeken</value>
   </data>
-  <data name="SearchTermRequired.Text" lastModified="2016-12-01 20:25:26">
+  <data name="SearchTermRequired.Text" lastModified="2016-12-01 18:25:26">
     <value xml:space="preserve">Zoekterm is vereist</value>
   </data>
-  <data name="Security_CaptchaChangePassword.Help" lastModified="2016-12-01 20:25:26">
+  <data name="Security_CaptchaChangePassword.Help" lastModified="2016-12-01 18:25:26">
     <value xml:space="preserve">Vink deze optie aan om een CAPTCHA te gebruiken bij het veranderen van wachtwoorden</value>
   </data>
-  <data name="Security_CaptchaChangePassword.Text" lastModified="2016-12-01 21:25:45">
+  <data name="Security_CaptchaChangePassword.Text" lastModified="2016-12-01 19:25:45">
     <value xml:space="preserve">Gebruik CAPTCHA om wachtwoord te veranderen</value>
   </data>
-  <data name="Security_CaptchaLogin.Help" lastModified="2016-12-02 07:37:16">
+  <data name="Security_CaptchaLogin.Help" lastModified="2016-12-02 05:37:16">
     <value xml:space="preserve">Vink deze optie aan om CAPTCHA te gebruiken voor het associëren van logins, OpenID, LiveID, Cardspace</value>
   </data>
-  <data name="Security_CaptchaLogin.Text" lastModified="2016-12-02 08:37:38">
-    <value xml:space="preserve">Gebruik CAPTCH voor het associëren van logins</value>
+  <data name="Security_CaptchaLogin.Text" lastModified="2016-12-02 06:37:38">
+    <value xml:space="preserve">Gebruik CAPTCHA voor het associëren van logins</value>
   </data>
-  <data name="Security_CaptchaRegister.Help" lastModified="2016-12-02 09:41:19">
+  <data name="Security_CaptchaRegister.Help" lastModified="2016-12-02 07:41:19">
     <value xml:space="preserve">Geeft aan of de site gebruik moet maken van CAPTCHA voor registratie</value>
   </data>
-  <data name="Security_CaptchaRegister.Text" lastModified="2016-12-02 10:43:31">
+  <data name="Security_CaptchaRegister.Text" lastModified="2016-12-02 08:43:31">
     <value xml:space="preserve">Gebruik CAPTCHA voor registratie</value>
   </data>
-  <data name="Security_CaptchaRetrivePassword.Help" lastModified="2016-12-02 11:46:29">
+  <data name="Security_CaptchaRetrivePassword.Help" lastModified="2016-12-02 09:46:29">
     <value xml:space="preserve">Vink deze optie aan om CAPTCHA te gebruiken voor het ophalen van wachtwoorden.</value>
   </data>
-  <data name="Security_CaptchaRetrivePassword.Text" lastModified="2016-12-02 11:46:29">
+  <data name="Security_CaptchaRetrivePassword.Text" lastModified="2016-12-02 09:46:29">
     <value xml:space="preserve">Gebruik CAPTCHA voor het ophalen van wachtwoorden</value>
   </data>
-  <data name="Security_DisplayNameFormat.Help" lastModified="2016-12-02 11:46:29">
+  <data name="Security_DisplayNameFormat.Help" lastModified="2016-12-02 09:46:29">
     <value xml:space="preserve">Geef optioneel het format op voor het weergeven van weergavenamen. Dit format kan tokens bevatten voor dynamische vervanging zoals [FIRSTNAME] [LASTNAME]. Als een weergavenaam format is gespecificeerd zal de weergave naam niet langer te bewerken zijn via de gebruikersinterfase.</value>
   </data>
-  <data name="Security_DisplayNameFormat.Text" lastModified="2016-12-02 12:47:06">
+  <data name="Security_DisplayNameFormat.Text" lastModified="2016-12-02 10:47:06">
     <value xml:space="preserve">Weergavenaam format</value>
   </data>
-  <data name="Security_EmailValidation.Help" lastModified="2016-12-02 13:48:37">
+  <data name="Security_EmailValidation.Help" lastModified="2016-12-02 11:48:37">
     <value xml:space="preserve">Modificeer optioneel de email validatie expressie welke wordt gebruikt om de geldigheid van het ingegeven emailadres te controleren.</value>
   </data>
-  <data name="Security_EmailValidation.Text" lastModified="2016-12-02 13:48:37">
-    <value xml:space="preserve">Emailadres validatie</value>
+  <data name="Security_EmailValidation.Text" lastModified="2016-12-02 11:48:37">
+    <value xml:space="preserve">E-mailadres validatie</value>
   </data>
-  <data name="Security_RequireValidProfile.Help" lastModified="2016-12-02 14:49:54">
-    <value xml:space="preserve">Vink deze optie aan als gebruikers alle vereiste velden moeten invullen waaronder Gebruikersnaam, voornaam, achternaam, weergavenaam, emailadres en wachtwoord velden tijden de registratie.</value>
+  <data name="Security_RequireValidProfile.Help" lastModified="2016-12-02 12:49:54">
+    <value xml:space="preserve">Vink deze optie aan als gebruikers alle vereiste velden moeten invullen waaronder Gebruikersnaam, voornaam, achternaam, weergavenaam, e-mailadres en wachtwoord velden tijden de registratie.</value>
   </data>
-  <data name="Security_RequireValidProfile.Text" lastModified="2016-12-02 17:52:01">
+  <data name="Security_RequireValidProfile.Text" lastModified="2016-12-02 15:52:01">
     <value xml:space="preserve">Vereis een geldig profiel voor registratie</value>
   </data>
-  <data name="Security_RequireValidProfileAtLogin.Help" lastModified="2016-12-02 16:51:32">
+  <data name="Security_RequireValidProfileAtLogin.Help" lastModified="2016-12-02 14:51:32">
     <value xml:space="preserve">Vink deze optie aan om gebruikers te verplichten hun profiel bij te werken tijdens de eerste login als de velden verplicht zijn.</value>
   </data>
-  <data name="Security_RequireValidProfileAtLogin.Text" lastModified="2016-12-02 17:52:01">
+  <data name="Security_RequireValidProfileAtLogin.Text" lastModified="2016-12-02 15:52:01">
     <value xml:space="preserve">Vereis een geldig profiel voor login</value>
   </data>
-  <data name="Security_UserNameValidation.Help" lastModified="2016-12-02 18:54:26">
-    <value xml:space="preserve">Voeg je eigen validatie expressie in welke wordt gebruikt voor het controleren van de geldigheid van de opgegeven gebruikersnaam. Als je deze veranderd moet ook het bericht worden aangepast dat gebruikers zien als er een ongeldige gebruikersnaam wordt ingevoerd, dit kan middels de localization editor. (SharedResources.resx - Username.RegExError)</value>
+  <data name="Security_UserNameValidation.Help" lastModified="2016-12-02 16:54:26">
+    <value xml:space="preserve">Voer je eigen validatie expressie in welke wordt gebruikt voor het controleren van de geldigheid van de opgegeven gebruikersnaam. Als je deze verandert moet ook het bericht worden aangepast dat gebruikers zien als er een ongeldige gebruikersnaam wordt ingevoerd, dit kan middels de localization editor. (SharedResources.resx - Username.RegExError)</value>
   </data>
-  <data name="Security_UserNameValidation.Text" lastModified="2016-11-29 23:26:13">
+  <data name="Security_UserNameValidation.Text" lastModified="2016-11-29 21:26:13">
     <value xml:space="preserve">Gebruikersnaam validatie</value>
   </data>
-  <data name="SecurityCheck.Text" lastModified="2016-11-29 23:26:13">
+  <data name="SecurityCheck.Text" lastModified="2016-11-29 21:26:13">
     <value xml:space="preserve">BEVEILIGINGSCONTROLE</value>
   </data>
-  <data name="SettingName.Text" lastModified="2016-11-29 23:26:13">
+  <data name="SettingName.Text" lastModified="2016-11-29 21:26:13">
     <value xml:space="preserve">INSTELLINGSNAAM</value>
   </data>
-  <data name="SettingValue.Text" lastModified="2016-11-29 23:26:13">
+  <data name="SettingValue.Text" lastModified="2016-11-29 21:26:13">
     <value xml:space="preserve">INSTELLINGSWAARDE</value>
   </data>
-  <data name="Severity.Header" lastModified="2016-11-30 00:26:51">
+  <data name="Severity.Header" lastModified="2016-11-29 22:26:51">
     <value xml:space="preserve">Zwaarte</value>
   </data>
-  <data name="SingleIP.Text" lastModified="2016-11-30 00:26:51">
+  <data name="SingleIP.Text" lastModified="2016-11-29 22:26:51">
     <value xml:space="preserve">Enkel IP</value>
   </data>
-  <data name="SslSettingsError.Text" lastModified="2016-11-30 00:26:51">
+  <data name="SslSettingsError.Text" lastModified="2016-11-29 22:26:51">
     <value xml:space="preserve">Kan SSL instellingen niet bijwerken. Probeer het later opnieuw.</value>
   </data>
-  <data name="SslSettingsRestoreWarning.Text" lastModified="2016-11-30 01:27:18">
+  <data name="SslSettingsRestoreWarning.Text" lastModified="2016-11-29 23:27:18">
     <value xml:space="preserve">Weet u zeker dat u de instellingen wilt annuleren?</value>
   </data>
-  <data name="SslSettingsUpdateSuccess.Text" lastModified="2016-11-30 01:27:18">
+  <data name="SslSettingsUpdateSuccess.Text" lastModified="2016-11-29 23:27:18">
     <value xml:space="preserve">De SSL instellingen zijn bijgewerkt</value>
   </data>
-  <data name="Standard.Text" lastModified="2016-11-29 19:20:03">
-    <value xml:space="preserve">Standaar</value>
+  <data name="Standard.Text" lastModified="2016-11-29 17:20:03">
+    <value xml:space="preserve">Standaard</value>
   </data>
-  <data name="SuperuserActivity.Text" lastModified="2016-11-29 19:20:03">
+  <data name="SuperuserActivity.Text" lastModified="2016-11-29 17:20:03">
     <value xml:space="preserve">Superuser activiteit</value>
   </data>
-  <data name="SuperUserActivityExplaination.Text" lastModified="2016-11-29 20:21:16">
+  <data name="SuperUserActivityExplaination.Text" lastModified="2016-11-29 18:21:16">
     <value xml:space="preserve">Onder zijn de Superuser activiteiten. Zoek hier naar verdachte activiteiten. Let goed op de creatie en laatste login datums.</value>
   </data>
-  <data name="SysAdmin.Error" lastModified="2016-11-29 21:22:30">
+  <data name="SysAdmin.Error" lastModified="2016-11-29 19:22:30">
     <value xml:space="preserve">Huidige SQL Server account is 'sysadmin'</value>
   </data>
-  <data name="TabAuditChecks.Text" lastModified="2016-11-29 21:22:30">
+  <data name="TabAuditChecks.Text" lastModified="2016-11-29 19:22:30">
     <value xml:space="preserve">AUDIT CONTROLES</value>
   </data>
-  <data name="TabBasicLoginSettings.Text" lastModified="2016-11-29 21:22:30">
+  <data name="TabBasicLoginSettings.Text" lastModified="2016-11-29 19:22:30">
     <value xml:space="preserve">BASIS LOGIN INSTELLINGEN</value>
   </data>
-  <data name="TabId.Text" lastModified="2018-07-24 15:00:42">
+  <data name="TabId.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">TAB-ID</value>
   </data>
-  <data name="TabIpFilters.Text" lastModified="2018-07-24 15:00:42">
+  <data name="TabIpFilters.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">LOGIN IP-FILTERS</value>
   </data>
-  <data name="TabLoginSettings.Text" lastModified="2016-11-29 21:22:30">
+  <data name="TabLoginSettings.Text" lastModified="2016-11-29 19:22:30">
     <value xml:space="preserve">Login instellingen</value>
   </data>
-  <data name="TabMemberAccounts.Text" lastModified="2016-11-29 21:22:30">
+  <data name="TabMemberAccounts.Text" lastModified="2016-11-29 19:22:30">
     <value xml:space="preserve">Leden accounts</value>
   </data>
-  <data name="TabMemberSettings.Text" lastModified="2016-11-29 21:22:30">
+  <data name="TabMemberSettings.Text" lastModified="2016-11-29 19:22:30">
     <value xml:space="preserve">LEDEN BEHEER</value>
   </data>
-  <data name="TabMore.Text" lastModified="2016-11-29 21:22:30">
+  <data name="TabMore.Text" lastModified="2016-11-29 19:22:30">
     <value xml:space="preserve">Meer</value>
   </data>
-  <data name="TabMoreSecuritySettings.Text" lastModified="2016-11-29 22:24:45">
+  <data name="TabMoreSecuritySettings.Text" lastModified="2016-11-29 20:24:45">
     <value xml:space="preserve">MEER BEVEILIGINGS INSTELLINGEN</value>
   </data>
-  <data name="TabRegistrationSettings.Text" lastModified="2016-11-29 22:24:45">
+  <data name="TabRegistrationSettings.Text" lastModified="2016-11-29 20:24:45">
     <value xml:space="preserve">REGISTRATIE INSTELLINGEN</value>
   </data>
-  <data name="TabScannerCheck.Text" lastModified="2016-11-29 22:24:45">
-    <value xml:space="preserve">SCANNE CONTROLE</value>
+  <data name="TabScannerCheck.Text" lastModified="2016-11-29 20:24:45">
+    <value xml:space="preserve">SCANNER CONTROLE</value>
   </data>
-  <data name="TabSecurityAnalyzer.Text" lastModified="2018-07-24 15:00:42">
-    <value xml:space="preserve">Beveiligingsanalyzer</value>
+  <data name="TabSecurityAnalyzer.Text" lastModified="2018-07-24 11:00:42">
+    <value xml:space="preserve">Beveiligings analyse</value>
   </data>
-  <data name="TabSecurityBulletins.Text" lastModified="2016-11-29 22:24:45">
+  <data name="TabSecurityBulletins.Text" lastModified="2016-11-29 20:24:45">
     <value xml:space="preserve">Beveiligings berichten</value>
   </data>
-  <data name="TabSettings.Text" lastModified="2016-11-29 22:24:45">
+  <data name="TabSettings.Text" lastModified="2016-11-29 20:24:45">
     <value xml:space="preserve">Tab instelllingen</value>
   </data>
-  <data name="TabSslSettings.Text" lastModified="2016-11-29 22:24:45">
+  <data name="TabSslSettings.Text" lastModified="2016-11-29 20:24:45">
     <value xml:space="preserve">SSL instellingen</value>
   </data>
-  <data name="TabSuperuserActivity.Text" lastModified="2016-11-29 22:24:45">
+  <data name="TabSuperuserActivity.Text" lastModified="2016-11-29 20:24:45">
     <value xml:space="preserve">SUPERUSER ACTIVITEITEN</value>
   </data>
-  <data name="UserId.Text" lastModified="2018-07-24 15:00:42">
+  <data name="UserId.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">Gebruikers-ID</value>
   </data>
-  <data name="Username.Header" lastModified="2016-11-29 22:24:45">
+  <data name="Username.Header" lastModified="2016-11-29 20:24:45">
     <value xml:space="preserve">Gebruikersnaam</value>
   </data>
-  <data name="Username.Text" lastModified="2016-11-29 22:24:45">
+  <data name="Username.Text" lastModified="2016-11-29 20:24:45">
     <value xml:space="preserve">GEBRUIKERSNAAM</value>
   </data>
-  <data name="UserNotMemberOfRole.Text" lastModified="2018-07-24 15:00:42">
+  <data name="UserNotMemberOfRole.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">Gebruiker is geen lid van rol {0}</value>
   </data>
-  <data name="Verified.Text" lastModified="2016-11-29 22:24:45">
+  <data name="Verified.Text" lastModified="2016-11-29 20:24:45">
     <value xml:space="preserve">Geverifieerd</value>
   </data>
-  <data name="Yes.Text" lastModified="2016-11-29 19:20:03">
+  <data name="Yes.Text" lastModified="2016-11-29 17:20:03">
     <value xml:space="preserve">Ja</value>
   </data>
 </root>

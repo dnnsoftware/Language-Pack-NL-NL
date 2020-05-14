@@ -13,25 +13,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="cmdUpdate.Text">
-    <value xml:space="preserve">Bron Bijwerken</value>
+    <value xml:space="preserve">Bron bijwerken</value>
   </data>
   <data name="ControlTitle_viewsource.Text">
-    <value xml:space="preserve">Weergave Module Control Bron</value>
+    <value xml:space="preserve">Toon Module Control bron</value>
   </data>
   <data name="NoFileTypeSelected.Text">
-    <value xml:space="preserve">U moet een bestand type selecteren voordat u op de knop bijwerken drukt.</value>
+    <value xml:space="preserve">U moet een bestandstype selecteren voordat u op de knop bijwerken drukt.</value>
   </data>
   <data name="plFile.Help" lastModified="2015-12-30 09:20:26">
-    <value xml:space="preserve">Selecteer het bestand waarvan je de bron wilt weergegeven.</value>
+    <value xml:space="preserve">Selecteer het bestand waarvan u de bron wilt weergegeven.</value>
   </data>
   <data name="plFile.Text">
-    <value xml:space="preserve">Selecteer Bestand:</value>
+    <value xml:space="preserve">Selecteer bestand:</value>
   </data>
   <data name="plSource.Help">
     <value xml:space="preserve">U kunt de broncode van de module besturingselement in het tekstvak hieronder bekijken. Als u werkt op een lokale computer dan kun je ook bewerken en de bron te wijzigen.</value>
   </data>
   <data name="plSource.Text">
-    <value xml:space="preserve">module besturingselement:</value>
+    <value xml:space="preserve">Module besturingselement:</value>
   </data>
   <data name="SourceFile.Text">
     <value xml:space="preserve">Bronbestand - {0}</value>

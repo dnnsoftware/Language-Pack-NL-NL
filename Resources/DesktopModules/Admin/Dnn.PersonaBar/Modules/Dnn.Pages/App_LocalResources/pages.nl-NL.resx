@@ -1,780 +1,813 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="AddMissingLanguages.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Toevoegen ontbrekende talen</value>
-  </data>
-  <data name="AddMultiplePages.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Toevoegen Meerdere Pagina's</value>
-  </data>
-  <data name="AddPage.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Toevoegen Pagina</value>
-  </data>
-  <data name="AddPages.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Toevoegen Pagina's</value>
-  </data>
-  <data name="AddRole.Text">
-    <value xml:space="preserve">Toevoegen</value>
-  </data>
-  <data name="AddRolePlaceHolder.Text">
-    <value xml:space="preserve">Begin met typen om een rol toe te voegen</value>
-  </data>
-  <data name="addTagsPlaceholder.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Toevoegen Tags</value>
-  </data>
-  <data name="AddUrl.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Toevoegen URL</value>
-  </data>
-  <data name="AddUser.Text">
-    <value xml:space="preserve">Toevoegen</value>
-  </data>
-  <data name="AddUserPlaceHolder.Text">
-    <value xml:space="preserve">Begin met typen om een gebruikerl toe te voegen</value>
-  </data>
-  <data name="Advanced.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Geavanceerd</value>
-  </data>
-  <data name="AdvancedFilters.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Geavanceerde filters</value>
-  </data>
-  <data name="AllGroups.Text">
-    <value xml:space="preserve">[Alle Rolen]</value>
-  </data>
-  <data name="AllowIndexing.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Toestaan indexeren</value>
-  </data>
-  <data name="AllowIndexing_tooltip.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Deze instelling regelt of een pagina geindexeerd moet worden door bots. Het gebruikt INDEX/NOINDEX waarden voor ROBOTS meta tag.</value>
-  </data>
-  <data name="AnErrorOccurred.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Een fout is opgetreden</value>
-  </data>
-  <data name="Appearance.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Uiterlijk</value>
-  </data>
-  <data name="Apply.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Toepassen</value>
-  </data>
-  <data name="BackToPages.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Terug naar pagina's</value>
-  </data>
-  <data name="BackToPageSettings.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Terug naar pagina instellingen</value>
-  </data>
-  <data name="BadTemplate.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Het pagina sjabloon is geen geldig xml document. Selecteer een ander sjabloon en probeer opnieuw.</value>
-  </data>
-  <data name="BranchParent.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Ouder tak</value>
-  </data>
-  <data name="BrowseAction.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Druk op {opslaan|[ENTER]} om te bewaren, of {annuleren|[ESC]}om te annuleren</value>
-  </data>
-  <data name="BrowseButton.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Blader in bestandssysteem</value>
-  </data>
-  <data name="BulkPageResponseTotalMessage.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">[PAGES_CREATED] van [PAGES_TOTAL] pagina's zijn gemaakt.</value>
-  </data>
-  <data name="BulkPageSettings.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Bulk pagina instellingen</value>
-  </data>
-  <data name="BulkPagesLabel.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Een pagina per regel, voorafgaand met "&amp;gt;"om hierarchie te creeeren.</value>
-  </data>
-  <data name="BulkPagesToAdd.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Bulk pagina's om toe te voegen</value>
-  </data>
-  <data name="BulkPageValidateResponseTotalMessage.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">[PAGES_TOTAL] pagina's zijn gevalideerd.</value>
-  </data>
-  <data name="cacheDuration.ErrorMessage" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Cacheduur moet een integer zijn.</value>
-  </data>
-  <data name="CacheDuration.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Cache duur (seconden)</value>
-  </data>
-  <data name="CacheDuration_tooltip.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Vul de duur (in seconden) in om de pagina te cachen. Dit moet een integer zijn.</value>
-  </data>
-  <data name="cacheMaxVaryByCount.ErrorMessage" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Vary By Limit moet een integer zijn.</value>
-  </data>
-  <data name="CacheSettings.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Cache instellingen</value>
-  </data>
-  <data name="Cancel.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Annuleren</value>
-  </data>
-  <data name="CancelWithoutSaving.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Weet u zeker dat u wilt sluiten? Wijzigingen zullen verloren gaan. </value>
-  </data>
-  <data name="CannotCopyPermissionsToDescendantPages.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">U heeft geen toestemming om toestemmingen te kopieren naar onderliggende pagina's</value>
-  </data>
-  <data name="CannotDeleteSpecialPage.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Een speciale pagina kan niet verwijderd worden.</value>
-  </data>
-  <data name="ChangesNotSaved.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Wijzigingen zijn niet opgeslagen</value>
-  </data>
-  <data name="Clear.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Opschonen</value>
-  </data>
-  <data name="ClearPageCache.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Cache opschonen - Deze pagina</value>
-  </data>
-  <data name="CopyAppearanceToDescendantPages.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Kopieer uiterlijk naar onderliggende pagina's</value>
-  </data>
-  <data name="CopyAppearanceToDescendantPagesSuccess.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Uiterlijk is succesvol naar onderliggende pagina's gekopieerd</value>
-  </data>
-  <data name="CopyModule.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Kopieer Module</value>
-  </data>
-  <data name="CopyPermissionsToDescendantPages.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Kopieer Toestemmingen naar Onderliggende Pagina's</value>
-  </data>
-  <data name="CopyPermissionsToDescendantPagesSuccess.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Toestemmingen zijn succesvol naar onderliggende pagina's gekopieerd</value>
-  </data>
-  <data name="Created.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">Gemaakt</value>
-  </data>
-  <data name="CreatedValue.Text" lastModified="2016-11-29 19:18:02">
-    <value xml:space="preserve">[CREATEDDATE] door [CREATEDUSER]</value>
-  </data>
-  <data name="CustomUrlPathCleaned.Error" lastModified="2016-11-29 20:33:47">
-    <value xml:space="preserve">De ingevoerde pagina URL bevat karakters die niet gebruikt kunnen worden in een URL of zijn ongeldige karakters voor een URL. Deze karakters zijn verwijderd. Klik nog eens op de update knop om de aangepaste URL te accepteren.&amp;lt;br&amp;gt;[NOTE: The illegal characters list is the following: &amp;lt;&amp;gt;\?:&amp;amp;=+|%# ]</value>
-  </data>
-  <data name="Default.Text" lastModified="2016-11-29 20:33:47">
-    <value xml:space="preserve">[Standaard taal]</value>
-  </data>
-  <data name="DefaultImageTitle.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Afbeelding</value>
-  </data>
-  <data name="Delete.Text" lastModified="2016-11-29 20:33:47">
-    <value xml:space="preserve">Verwijderen</value>
-  </data>
-  <data name="DeleteModuleConfirm.Text" lastModified="2016-11-29 20:33:47">
-    <value xml:space="preserve">Weet u zeker dat u de module "[MODULETITLE]" wilt verwijderen van de pagina?</value>
-  </data>
-  <data name="DeletePageConfirm.Text" lastModified="2016-11-29 20:33:47">
-    <value xml:space="preserve">&amp;lt;p&amp;gt;Bevestig dat u deze pagina wilt verwijderen.&amp;lt;/p&amp;gt;</value>
-  </data>
-  <data name="DeletePageModuleSuccess.Text" lastModified="2016-11-29 20:33:47">
-    <value xml:space="preserve">Module "[MODULETITLE]" is succesvol verwijderd</value>
-  </data>
-  <data name="Description.Label" lastModified="2016-11-29 20:33:47">
-    <value xml:space="preserve">Beschrijving</value>
-  </data>
-  <data name="Description.Text">
-    <value xml:space="preserve">Omschrijving</value>
-  </data>
-  <data name="Detached.Text" lastModified="2016-11-29 20:33:47">
-    <value xml:space="preserve">Vrijstaand {0}</value>
-  </data>
-  <data name="Details.Text" lastModified="2016-11-29 20:33:47">
-    <value xml:space="preserve">Details</value>
-  </data>
-  <data name="DisableLink.Text">
-    <value xml:space="preserve">pagina uitschakelen</value>
-  </data>
-  <data name="DisableLink_tooltip.Text">
-    <value xml:space="preserve">Als de pagina is uitgeschakeld kan deze niet worden aangeklikt in het navigatie menu. De optie wordt gebruikt om een start locatie te definiëren voor submenu onderdelen.</value>
-  </data>
-  <data name="DisplayInMenu.Text" lastModified="2016-11-29 20:33:47">
-    <value xml:space="preserve">Weergeven in menu</value>
-  </data>
-  <data name="DisplayInMenuTooltip.Text" lastModified="2016-11-29 20:33:47">
-    <value xml:space="preserve">U heeft de keuze om wel of niet de pagina in het hoofd navigatie menu in te sluiten. Als een pagina niet is ingesloten in het menu, dan kunt u er nog steeds naar verwijzen via de betreffende pagina URL.</value>
-  </data>
-  <data name="DragDefault.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Sleep een bestand of selecteer een optie</value>
-  </data>
-  <data name="DragInvalid.Text">
-    <value xml:space="preserve">Je kunt aan pagina niet als sub-pagina van zichzelf plaatsen</value>
-  </data>
-  <data name="DragOver.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Sleep een bestand.</value>
-  </data>
-  <data name="DragPageTooltip.Text" lastModified="2016-11-29 21:38:50">
-    <value xml:space="preserve">Sleep pagina naar locatie</value>
-  </data>
-  <data name="DuplicatePage.Text" lastModified="2016-11-29 21:38:50">
-    <value xml:space="preserve">Dupliceer Pagina</value>
-  </data>
-  <data name="DuplicateUrl.Error" lastModified="2016-11-29 21:38:50">
-    <value xml:space="preserve">De URL is een duplicaat van een bestaande URL.</value>
-  </data>
-  <data name="Edit.Text" lastModified="2016-11-29 21:38:50">
-    <value xml:space="preserve">Bewerken</value>
-  </data>
-  <data name="EditTab.Text">
-    <value xml:space="preserve">Bewerken</value>
-  </data>
-  <data name="EmptyRole.Text">
-    <value xml:space="preserve">Voeg een rol toe om de rechten per rol in te stellen</value>
-  </data>
-  <data name="EmptyTabName.Text" lastModified="2016-11-29 21:38:50">
-    <value xml:space="preserve">Tabblad Naam is leeg</value>
-  </data>
-  <data name="EmptyUser.Text">
-    <value xml:space="preserve">Voeg een gebruiker toe om de rechten per gebruiker in te stellen</value>
-  </data>
-  <data name="EnableScheduling.Text" lastModified="2016-11-29 21:38:50">
-    <value xml:space="preserve">Plannen inschakelen</value>
-  </data>
-  <data name="EnableSchedulingTooltip.Text" lastModified="2016-11-29 21:38:50">
-    <value xml:space="preserve">Plannen inschakelen voor deze pagina.</value>
-  </data>
-  <data name="EndDate.Text" lastModified="2016-11-29 21:38:50">
-    <value xml:space="preserve">Einddatum</value>
-  </data>
-  <data name="Error_EmptyTabName.Text" lastModified="2016-11-29 21:38:50">
-    <value xml:space="preserve">De paginanaam mag niet leeg zijn.</value>
-  </data>
-  <data name="Error_PathDuplicateWithAlias.Text" lastModified="2016-11-29 21:38:50">
-    <value xml:space="preserve">Er is een site domein identiek aan uw pagina pad.</value>
-  </data>
-  <data name="Error_StartDateAfterEndDate.Text" lastModified="2016-11-29 21:38:50">
-    <value xml:space="preserve">De startdatum kan niet na de einddatum liggen.</value>
-  </data>
-  <data name="Error_TabExists.Text" lastModified="2016-11-29 21:38:50">
-    <value xml:space="preserve">De paginanaam die u gekozen heeft wordt al gebruikt voor een andere pagina op hetzelfde niveau van de pagina hierarchie.</value>
-  </data>
-  <data name="Error_TabRecycled.Text" lastModified="2016-11-29 21:38:50">
-    <value xml:space="preserve">een pagina met deze naam bestaat in de prullenbak. Om deze pagina te herstellen gebruik de prullenbak.</value>
-  </data>
-  <data name="Error_UrlPathCleaned.Text" lastModified="2016-11-29 22:43:18">
-    <value xml:space="preserve">De pagina URL bevat karakters die niet gebruikt kunnen worden in een URL of zijn ongeldige karakters voor een URL.&amp;amp;lt;br&amp;amp;gt;[NOTE: The illegal characters list is the following: &amp;amp;lt;&amp;amp;gt;\?:&amp;amp;amp;=+|%# ]</value>
-  </data>
-  <data name="Error_UrlPathNotUnique.Text" lastModified="2016-11-29 22:43:18">
-    <value xml:space="preserve">De ingediende URL is niet beschikbaar aangezien dat er al een pagina bestaat met deze URL.</value>
-  </data>
-  <data name="ErrorPages.Text" lastModified="2016-11-29 22:43:18">
-    <value xml:space="preserve">U moet minstens een pagina selecteren om te exporteren.</value>
-  </data>
-  <data name="Exclude.Text" lastModified="2016-11-29 22:43:18">
-    <value xml:space="preserve">Uitsluiten</value>
-  </data>
-  <data name="ExcludeParamsInCacheValidation.Text" lastModified="2016-11-29 22:43:18">
-    <value xml:space="preserve">Sluit Params uit in Cache Validatie</value>
-  </data>
-  <data name="ExcludeParamsInCacheValidation_tooltip.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Een lijst van querystring parameter namen (gescheiden door komma's ) om uit te sluiten van variaties van gecachte pagina's. Deze instelling is enkel geldig wanneer de standaard hierboven is ingesteld op INSLUITEN querystring parameters van gecachte pagina variaties.</value>
-  </data>
-  <data name="Existing.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Bestaande</value>
-  </data>
-  <data name="ExistingPage.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Bestaande pagina</value>
-  </data>
-  <data name="ExistingPageTooltip.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Herleid naar een bestaande pagina op uw site.</value>
-  </data>
-  <data name="ExportedMessage.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Het pagina sjabloon is gemaakt naar {0}</value>
-  </data>
-  <data name="ExternalRedirectionUrlRequired.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">De URL is benodigd.</value>
-  </data>
-  <data name="ExternalUrl.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Externe URL</value>
-  </data>
-  <data name="ExternalUrlTooltip.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Herleid naar een externe URL bron</value>
-  </data>
-  <data name="File.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Bestand</value>
-  </data>
-  <data name="FilterByGroup.Text">
-    <value xml:space="preserve">Filter op groep:</value>
-  </data>
-  <data name="FilterByModifiedDateText.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Filter op bewerkingsdatumbereik</value>
-  </data>
-  <data name="FilterbyPageTypeText.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Filter op paginatype</value>
-  </data>
-  <data name="FilterbyPublishStatusText.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Fiter op publicatiestatus</value>
-  </data>
-  <data name="Folder.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Map</value>
-  </data>
-  <data name="FolderTooltip.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Selecteer de export map waar het sjabloon moet worden opgeslagen.</value>
-  </data>
-  <data name="GeneratedBy.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Gegenereerd door</value>
-  </data>
-  <data name="GlobalGroups.Text">
-    <value xml:space="preserve">[Algemene rollen]</value>
-  </data>
-  <data name="Hidden.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Pagina is verborgen in menu</value>
-  </data>
-  <data name="HomeDirectory.Label" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Home map</value>
-  </data>
-  <data name="Include.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Insluiten</value>
-  </data>
-  <data name="IncludeContent.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Insluiten content</value>
-  </data>
-  <data name="IncludeContentTooltip.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Vink dit vakje aan om de module content in te sluiten.</value>
-  </data>
-  <data name="IncludeExcludeParams.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Insluiten / Uitsluiten Params door de standaard</value>
-  </data>
-  <data name="IncludeExcludeParams_tooltip.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Indien ingesteld als INSLUITEN, zullen alle querystring parameter waarde variaties resulteren in een nieuw item in de output cache. Indien ingesteld als UITSLUITEN, zullen querystring parameters niet worden gebruikt om de gecachte pagina te varieren.</value>
-  </data>
-  <data name="IncludeParamsInCacheValidation.Text" lastModified="2016-11-29 23:52:44">
-    <value xml:space="preserve">Insluiten Params in Cache Validatie</value>
-  </data>
-  <data name="IncludeParamsInCacheValidation_tooltip.Text" lastModified="2016-11-30 00:58:06">
-    <value xml:space="preserve">Een lijst van querystring parameter namen (gescheiden door komma's ) om in te sluiten in de variaties van gecachte pagina's. Deze instelling is enkel geldig wanneer de standaard hierboven is ingesteld op UITSLUITEN querystring parameters van gecachte pagina variaties.</value>
-  </data>
-  <data name="InvalidRequest.Error" lastModified="2016-11-30 02:03:53">
-    <value xml:space="preserve">De aanvraag is ongeldig</value>
-  </data>
-  <data name="InvalidTabName.Text" lastModified="2016-11-30 02:03:53">
-    <value xml:space="preserve">{0} is een ongeldige Pagina Titel</value>
-  </data>
-  <data name="Keywords.Text" lastModified="2016-11-30 02:03:53">
-    <value xml:space="preserve">Trefwoorden</value>
-  </data>
-  <data name="Layout.Text" lastModified="2016-11-30 02:03:53">
-    <value xml:space="preserve">Opmaak</value>
-  </data>
-  <data name="lblAll.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Alles</value>
-  </data>
-  <data name="lblCachedItemCount.Text" lastModified="2018-07-22 15:57:32">
-    <value xml:space="preserve">Huidige Cachetelling: {0} varianten voor deze pagina</value>
-  </data>
-  <data name="lblCollapseAll.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">ALLES INKLAPPEn</value>
-  </data>
-  <data name="lblDateRange.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Datumbereik</value>
-  </data>
-  <data name="lblDraft.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Concept</value>
-  </data>
-  <data name="lblExpandAll.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">ALLES UITKLAPPEn</value>
-  </data>
-  <data name="lblFile.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Bestand</value>
-  </data>
-  <data name="lblFromDate.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Vanaf datum</value>
-  </data>
-  <data name="lblGeneralFilters.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">ALGEMENE FILTERS</value>
-  </data>
-  <data name="lblModifiedDate.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Bewerkingsdatum</value>
-  </data>
-  <data name="lblNone.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Geen</value>
-  </data>
-  <data name="lblNormal.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Standaard</value>
-  </data>
-  <data name="lblPageFound.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Pagina gevonden</value>
-  </data>
-  <data name="lblPagesFound.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Pagana's gevonden</value>
-  </data>
-  <data name="lblPublishDate.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Publicatiedatum</value>
-  </data>
-  <data name="lblPublished.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Gepubliceerd</value>
-  </data>
-  <data name="lblPublishStatus.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Publicatiestatus</value>
-  </data>
-  <data name="lblTagFilters.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">TAG FILTERSE</value>
-  </data>
-  <data name="lblUrl.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">URL</value>
-  </data>
-  <data name="LinkButton.Text" lastModified="2018-07-22 00:10:25">
-    <value xml:space="preserve">Voer URL Link in</value>
-  </data>
-  <data name="LinkInputAction.Text" lastModified="2018-07-22 02:10:39">
-    <value xml:space="preserve">Druk op {opslaan|[ENTER]} om te bewaren, of {annuleren|[ESC]}om te annuleren</value>
-  </data>
-  <data name="LinkInputPlaceholder.Text" lastModified="2018-07-22 15:57:32">
-    <value xml:space="preserve">http://voorbeeld.nl/afbeeldingsnaam.jpg</value>
-  </data>
-  <data name="LinkInputTitle.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">URL Link</value>
-  </data>
-  <data name="MakeNeutral.ErrorMessage" lastModified="2016-11-30 02:03:53">
-    <value xml:space="preserve">Pagina kan niet worden geconverteerd naar een neutrale cultuur, omdat er subpagina's zijn.</value>
-  </data>
-  <data name="MakeNeutralWarning.Text" lastModified="2016-11-30 02:03:53">
-    <value xml:space="preserve">Dit zal de vertaalde versie van de pagina verwijderen. enkel de standaard cultuur versie van de pagina zal overblijven. Weet u zeker dat u dit wilt doen?</value>
-  </data>
-  <data name="MakePageNeutral.Text" lastModified="2016-11-30 02:03:53">
-    <value xml:space="preserve">Maak pagina neutraal</value>
-  </data>
-  <data name="MakePagesTranslatable.Text" lastModified="2016-11-30 02:03:53">
-    <value xml:space="preserve">Maak pagina vertaalbaar</value>
-  </data>
-  <data name="MethodPermissionDenied.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">De gebruiker heeft geen toegang tot deze methode.</value>
-  </data>
-  <data name="ModifiedDateRange.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Bewerkingsdatumbereik</value>
-  </data>
-  <data name="ModuleCopyType.Copy" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Kopieer</value>
-  </data>
-  <data name="ModuleCopyType.New" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Nieuw</value>
-  </data>
-  <data name="ModuleCopyType.Reference" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Referentie</value>
-  </data>
-  <data name="ModuleDeleted.Text" lastModified="2016-11-30 02:03:53">
-    <value xml:space="preserve">De module is verwijderd en bestaat in de prullenbak.</value>
-  </data>
-  <data name="ModuleInfo.Text" lastModified="2016-11-30 02:03:53">
-    <value xml:space="preserve">Module: {0}&amp;lt;br/&amp;gt;ModuleTitel: {1}&amp;lt;br/&amp;gt;Vak: {2}</value>
-  </data>
-  <data name="ModuleInfoForNonAdmins.Text" lastModified="2016-11-30 03:07:42">
-    <value xml:space="preserve">U heeft niet genoeg toestemmingen om de titel van deze module te wijzigen.</value>
-  </data>
-  <data name="Modules.Text" lastModified="2016-11-30 03:07:42">
-    <value xml:space="preserve">Modules</value>
-  </data>
-  <data name="ModuleSettings.Text" lastModified="2016-11-30 03:07:42">
-    <value xml:space="preserve">Module instellingen</value>
-  </data>
-  <data name="ModulesOnThisPage.Text" lastModified="2016-11-30 03:07:42">
-    <value xml:space="preserve">Modules op deze pagina</value>
-  </data>
-  <data name="More.Text" lastModified="2016-11-30 03:07:42">
-    <value xml:space="preserve">Meer</value>
-  </data>
-  <data name="Name.Text" lastModified="2016-11-30 03:07:42">
-    <value xml:space="preserve">Naam</value>
-  </data>
-  <data name="NameTooltip.Text" lastModified="2016-11-30 03:07:42">
-    <value xml:space="preserve">Dit is de naam van de pagina. De tekst die u invult zal worden getoond in het menu systeem.</value>
-  </data>
-  <data name="nav_Pages.Text" lastModified="2016-11-30 03:07:42">
-    <value xml:space="preserve">Pagina's</value>
-  </data>
-  <data name="NeutralPageClickButton.Text" lastModified="2016-11-30 03:07:42">
-    <value xml:space="preserve">Om dit te veranderen in een vertaalbare pagina, klik op deze knop.</value>
-  </data>
-  <data name="NeutralPageText.Text" lastModified="2016-11-30 03:07:42">
-    <value xml:space="preserve">Dit is een "Taal Neutrale" pagina. dit betekent dat de pagina zichtbaar zal zijn in elke taal van de site. Taal neutrale pagina's kunnen niet worden vertaald.</value>
-  </data>
-  <data name="NewContentMessage.Body" lastModified="2016-11-30 04:10:16">
-    <value xml:space="preserve">De volgende pagina heeft nieuwe content klaarstaan voor vertaling &amp;lt;br/&amp;gt;Page: &amp;lt;a href='{1}'&amp;gt;{0}&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;{2}</value>
-  </data>
-  <data name="NewContentMessage.Subject" lastModified="2016-11-30 04:10:16">
-    <value xml:space="preserve">Nieuwe content klaar voor vertaling</value>
-  </data>
-  <data name="NoContainers.Text" lastModified="2016-11-30 04:10:16">
-    <value xml:space="preserve">Dit thema heeft geen velden</value>
-  </data>
-  <data name="NoLayouts.Text" lastModified="2016-11-30 04:10:16">
-    <value xml:space="preserve">Dit thema heeft geen opmaak</value>
-  </data>
-  <data name="NoModules.Text" lastModified="2016-11-30 04:10:16">
-    <value xml:space="preserve">Deze pagina heeft geen modules</value>
-  </data>
-  <data name="None.Text" lastModified="2016-11-30 04:10:16">
-    <value xml:space="preserve">Geen</value>
-  </data>
-  <data name="NoneSpecified.Text" lastModified="2016-11-30 04:10:16">
-    <value xml:space="preserve">Niet gespecificeerd</value>
-  </data>
-  <data name="NoPageFound.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Geen pagina gevonden.</value>
-  </data>
-  <data name="NoPageSelected.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Er is op dit moment geen pagina geselecteerd.</value>
-  </data>
-  <data name="NoPermissionAddPage.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Je hebt geen rechten om een pagina toe te voegen.</value>
-  </data>
-  <data name="NoPermissionCopyPage.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Je hebt geen rechten om deze pagina te kopieren.</value>
-  </data>
-  <data name="NoPermissionDeletePage.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Je hebt geen rechten om de pagina te verwijderen.</value>
-  </data>
-  <data name="NoPermissionEditPage.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Je hebt geen rechten om pagina te bewerken.</value>
-  </data>
-  <data name="NoPermissionManagePage.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Je hebt geen rechten om de pagina te beheren.</value>
-  </data>
-  <data name="NoPermissionViewPage.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Je hebt geen rechten om de pagina te bekijken.</value>
-  </data>
-  <data name="NoPermissionViewRedirectPage.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Je hebt geen rechten om redirect-pagina te bekijken.</value>
-  </data>
-  <data name="NotActive.Text" lastModified="2016-11-30 04:10:16">
-    <value xml:space="preserve">[Taal is niet actief]</value>
-  </data>
-  <data name="NotEmptyNameError.Text" lastModified="2016-11-30 04:10:16">
-    <value xml:space="preserve">Dit veld is vereist</value>
-  </data>
-  <data name="NoThemes.Text" lastModified="2016-11-30 04:10:16">
-    <value xml:space="preserve">Uw site heeft geen thema's</value>
-  </data>
-  <data name="NoThemeSelectedForContainers.Text" lastModified="2016-11-30 09:34:35">
-    <value xml:space="preserve">Selecteer een thema om containers te laden</value>
-  </data>
-  <data name="NoThemeSelectedForLayouts.Text" lastModified="2016-11-30 04:10:16">
-    <value xml:space="preserve">Selecteer een thema om opmaak te laden</value>
-  </data>
-  <data name="NotifyModalHeader.Text" lastModified="2016-11-30 05:11:21">
-    <value xml:space="preserve">Verzend een notificatie aan vertalers</value>
-  </data>
-  <data name="NotifyModalPlaceholder.Text" lastModified="2016-11-30 05:11:21">
-    <value xml:space="preserve">Vul een bericht in om te verzenden naar vertalers</value>
-  </data>
-  <data name="NotifyTranslators.Text" lastModified="2016-11-30 05:11:21">
-    <value xml:space="preserve">Inlichten vertalers</value>
-  </data>
-  <data name="NotSpecified.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">&lt; Geen opgegeven &gt;</value>
-  </data>
-  <data name="NotTranslated.Text" lastModified="2016-11-30 05:11:21">
-    <value xml:space="preserve">Niet vertaald {0}</value>
-  </data>
-  <data name="Off.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Uit</value>
-  </data>
-  <data name="On.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Aan</value>
-  </data>
-  <data name="OpenLinkInNewWindow.Text" lastModified="2016-11-30 05:11:21">
-    <value xml:space="preserve">Open Link in nieuw venster</value>
-  </data>
-  <data name="OpenLinkInNewWindowTooltip.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Open Link in nieuw browser scherm</value>
-  </data>
-  <data name="OutputCacheProvider.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Output Cache Provider</value>
-  </data>
-  <data name="OutputCacheProvider_tooltip.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Selecteerde de provider die gebruikt moet worden voor deze pagina</value>
-  </data>
-  <data name="page_name_tooltip" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Paginanaam</value>
-  </data>
-  <data name="page_title_tooltip" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Paginatitel</value>
-  </data>
-  <data name="PageContainer.Text" lastModified="2016-11-30 09:34:35">
-    <value xml:space="preserve">Pagina container</value>
-  </data>
-  <data name="PageContainerTooltip.Text" lastModified="2016-11-30 09:34:35">
-    <value xml:space="preserve">De geselecteerde container zal worden toegepast op alle modules binnen deze pagina.</value>
-  </data>
-  <data name="PageCreatedMessage.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Pagina succesvol aangemaakt.</value>
-  </data>
-  <data name="PageDeletedMessage.Text">
-    <value xml:space="preserve">Pagina is succesvol verwijderd</value>
-  </data>
-  <data name="PageHeaderTags.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Pagina Header Tags</value>
-  </data>
-  <data name="PageHeaderTags_tooltip.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Vul tags in (i.e. META tags) die moeten worden samengevoegd in de "HEAD"tag van de HTML voor deze pagina.</value>
-  </data>
-  <data name="PageLayoutTooltip.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">De geselecteerde opmaak zal worden toegepast op deze pagina.</value>
-  </data>
-  <data name="PageNotFound.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Pagina bestaat niet.</value>
-  </data>
-  <data name="PageParent.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Ouder pagina</value>
-  </data>
-  <data name="Pages_Seo_DeleteWarningMessage.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Weet u zeker dat u deze URL wilt verwijderen?</value>
-  </data>
-  <data name="Pages_Seo_GeneratedByAutomatic.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Automatisch</value>
-  </data>
-  <data name="Pages_Seo_QueryString.Help" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Voeg een optionele Querystring toe aan de Herleid URL</value>
-  </data>
-  <data name="Pages_Seo_QueryString.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Querystring</value>
-  </data>
-  <data name="Pages_Seo_SelectedAliasUsage.Help" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Als de geselecteerde site alias verschilt van de primaire site alias, selecteer de gebruiksoptie.</value>
-  </data>
-  <data name="Pages_Seo_SelectedAliasUsage.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Geselecteerde Site alias gebuik</value>
-  </data>
-  <data name="Pages_Seo_SelectedAliasUsageOptionPageAndChildPages.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Pagina en subpagina's</value>
-  </data>
-  <data name="Pages_Seo_SelectedAliasUsageOptionSameAsParent.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Gelijk aan Ouder pagina</value>
-  </data>
-  <data name="Pages_Seo_SelectedAliasUsageOptionThisPageOnly.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Enkel deze pagina</value>
-  </data>
-  <data name="Pages_Seo_SiteAlias.Help" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Selecteer de alias van deze pagina om een specifieke alias te gebruiken.</value>
-  </data>
-  <data name="Pages_Seo_SiteAlias.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Site alias</value>
-  </data>
-  <data name="Pages_Seo_UrlPath.Help" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">Specificeer het pad voor de URL. Vul geen http:// in of de site alias.</value>
-  </data>
-  <data name="Pages_Seo_UrlPath.Text" lastModified="2016-11-30 06:21:01">
-    <value xml:space="preserve">URL pad</value>
-  </data>
-  <data name="Pages_Seo_UrlType.Help" lastModified="2016-11-30 07:24:06">
-    <value xml:space="preserve">Selecteer 'Actief' of 'Herleiden'. Actief betekent dat de URL zal worden gebruikt als de URL voor de pagina en een HTTP status code 200 zal terugsturen. 'Herleiden' betekent dat de ingevoerde URL zal worden herleid naar de Actieve URL voor de huidige pagina.</value>
-  </data>
-  <data name="Pages_Seo_UrlType.Text" lastModified="2016-11-30 08:25:52">
-    <value xml:space="preserve">URL Type</value>
-  </data>
-  <data name="PageSettings.Text" lastModified="2016-11-30 08:25:52">
-    <value xml:space="preserve">Pagina Instellingen</value>
-  </data>
-  <data name="PagesSearchHeader.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Pagina zoekresultaten</value>
-  </data>
-  <data name="PageStyleSheet.Text" lastModified="2016-11-30 08:25:52">
-    <value xml:space="preserve">Pagina Stylesheet</value>
-  </data>
-  <data name="PageStyleSheetTooltip.Text" lastModified="2016-11-30 08:25:52">
-    <value xml:space="preserve">Een stylesheet die enkel geladen zal worden voor deze pagina. Het bestand moet gelokaliseerd zijn in de home directory of een submap van de huidige website.</value>
-  </data>
-  <data name="PageTheme.Text" lastModified="2016-11-30 09:34:35">
-    <value xml:space="preserve">Pagina Thema</value>
-  </data>
-  <data name="PageThemeTooltip.Text" lastModified="2016-11-30 09:34:35">
-    <value xml:space="preserve">Het geselecteerde thema zal worden toegepast op de pagina</value>
-  </data>
-  <data name="PageType.Text" lastModified="2016-11-30 09:34:35">
-    <value xml:space="preserve">Pagina Type</value>
-  </data>
-  <data name="PageUpdatedMessage.Text">
-    <value xml:space="preserve">Pagina update succesvol</value>
-  </data>
-  <data name="ParentPage.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Ouderpagina</value>
-  </data>
-  <data name="PathDuplicateWithAlias.Text" lastModified="2016-11-30 09:34:35">
-    <value xml:space="preserve">Er is een site domein identiek aan uw pagina pad.</value>
-  </data>
-  <data name="PathDuplicateWithPage.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Er is al een pagina met het zelfde URL pad {0}.</value>
-  </data>
-  <data name="Pending.Text" lastModified="2016-11-30 09:34:35">
-    <value xml:space="preserve">Versleep de pagina naar de gewenste locatie.</value>
-  </data>
-  <data name="PermanentRedirect.Text" lastModified="2016-11-30 09:34:35">
-    <value xml:space="preserve">Permanente herleiding</value>
-  </data>
-  <data name="PermanentRedirectTooltip.Text" lastModified="2016-11-30 09:34:35">
-    <value xml:space="preserve">Vink dit vakje aan als u de klant wilt inlichten dat deze pagina moet worden beschouwd als permanent verplaatst. dit stelt zoekmachines in staat om hun URLs aan te passen om direct naar de bron te kunnen verwijzen. Dit is genegeerd als het LinkType Geen is.</value>
-  </data>
-  <data name="Permissions.Text" lastModified="2016-11-30 09:34:35">
-    <value xml:space="preserve">Toestemmingen</value>
-  </data>
-  <data name="PermissionsByRole.Text">
-    <value xml:space="preserve">Rechten op basis van rol</value>
-  </data>
-  <data name="PermissionsByUser.Text">
-    <value xml:space="preserve">Rechten op basis van gebruiker</value>
-  </data>
-  <data name="PleaseSelectLayoutContainer.Text" lastModified="2016-11-30 09:34:35">
-    <value xml:space="preserve">U moet een opmaak en een veld selecteren om de operatie uit te voeren.</value>
-  </data>
-  <data name="PreviewThemeLayoutAndContainer.Text" lastModified="2016-11-30 09:34:35">
-    <value xml:space="preserve">Bekijk Thema Opmaak en Container vooraf</value>
-  </data>
-  <data name="Prompt_DeletePage_Description.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Verwijdert een pagina in de portal en stuurt deze naar de Prullenbak. Voor extra veiligheid staat deze methode het niet toe om pagina's met kinderen, hostpagina's of pagina's in het //Admin-pad te verwijderen.</value>
-  </data>
-  <data name="Prompt_DeletePage_FlagId.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Geeft expliciet de pagina-ID aan die moet worden verwijderd. Gebruik van de vlagnaam is niet vereist. U kunt eenvoudig de ID-waarde als het eerste argument opgeven. Vereist als &lt;span class="mono"&gt;--parentid&lt;/span&gt; niet opgegeven is.</value>
-  </data>
-  <data name="Prompt_DeletePage_FlagName.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">De naam (niet de titel) van de pagina die moet worden verwijderd.</value>
-  </data>
-  <data name="Prompt_DeletePage_FlagParentId.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">Het pagina- / tab-ID van het bovenliggende item van de pagina in de paginahiërarchie. Alleen vereist als --naam is opgegeven als parameter verwijderen en de pagina zich niet in de hoofdmap bevindt.</value>
-  </data>
-  <data name="Prompt_DeletePage_ResultHtml.Text" lastModified="2018-07-22 04:18:34">
-    <value xml:space="preserve">&lt;div&gt;
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="AddMissingLanguages.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Ontbrekende talen toevoegen</value>
+	</data>
+	<data name="AddMultiplePages.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Meerdere pagina's toevoegen</value>
+	</data>
+	<data name="AddPage.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Pagina toevoegen</value>
+	</data>
+	<data name="AddPages.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Pagina's toevoegen</value>
+	</data>
+	<data name="AddRole.Text">
+		<value xml:space="preserve">Toevoegen</value>
+	</data>
+	<data name="AddRolePlaceHolder.Text">
+		<value xml:space="preserve">Begin met typen om een rol toe te voegen</value>
+	</data>
+	<data name="addTagsPlaceholder.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Tags toevoegen</value>
+	</data>
+	<data name="AddUrl.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">URL toevoegen</value>
+	</data>
+	<data name="AddUser.Text">
+		<value xml:space="preserve">Toevoegen</value>
+	</data>
+	<data name="AddUserPlaceHolder.Text">
+		<value xml:space="preserve">Begin met typen om een gebruikerl toe te voegen</value>
+	</data>
+	<data name="Advanced.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Geavanceerd</value>
+	</data>
+	<data name="AdvancedFilters.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Geavanceerde filters</value>
+	</data>
+	<data name="AllGroups.Text">
+		<value xml:space="preserve">[Alle rollen]</value>
+	</data>
+	<data name="AllowIndexing.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Indexeren toestaan</value>
+	</data>
+	<data name="AllowIndexing_tooltip.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Deze instelling regelt of een pagina geindexeerd moet worden door bots. Het gebruikt INDEX/NOINDEX waarden voor ROBOTS meta tag.</value>
+	</data>
+	<data name="AnErrorOccurred.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Er is een fout opgetreden</value>
+	</data>
+	<data name="Appearance.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Uiterlijk</value>
+	</data>
+	<data name="Apply.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Toepassen</value>
+	</data>
+	<data name="BackToPages.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Terug naar pagina's</value>
+	</data>
+	<data name="BackToPageSettings.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Terug naar pagina instellingen</value>
+	</data>
+	<data name="BadTemplate.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Het pagina sjabloon is geen geldig xml document. Selecteer een ander sjabloon en probeer opnieuw.</value>
+	</data>
+	<data name="BranchParent.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Ouder tak</value>
+	</data>
+	<data name="BrowseAction.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Druk op {opslaan|[ENTER]} om te bewaren, of {annuleren|[ESC]}om te annuleren</value>
+	</data>
+	<data name="BrowseButton.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Blader in bestandssysteem</value>
+	</data>
+	<data name="BulkPageResponseTotalMessage.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">[PAGES_CREATED] van [PAGES_TOTAL] pagina's zijn gemaakt.</value>
+	</data>
+	<data name="BulkPageSettings.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Bulk pagina instellingen</value>
+	</data>
+	<data name="BulkPagesLabel.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Eén pagina per regel, voorafgaand met "&gt;"om hiërarchie te creeëren.</value>
+	</data>
+	<data name="BulkPagesToAdd.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Pagina's in bulk toevoegen</value>
+	</data>
+	<data name="BulkPageValidateResponseTotalMessage.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">[PAGES_TOTAL] pagina's zijn gevalideerd.</value>
+	</data>
+	<data name="cacheDuration.ErrorMessage" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Cacheduur moet een geheel getal zijn.</value>
+	</data>
+	<data name="CacheDuration.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Cacheduur (seconden)</value>
+	</data>
+	<data name="CacheDuration_tooltip.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Vul de duur (in seconden) in om de pagina te cachen. Dit moet een geheel getal zijn.</value>
+	</data>
+	<data name="cacheMaxVaryByCount.ErrorMessage" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Varieer door Limiet moet een geheel getal zijn.</value>
+	</data>
+	<data name="CacheSettings.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Cache instellingen</value>
+	</data>
+	<data name="Cancel.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Annuleren</value>
+	</data>
+	<data name="CancelWithoutSaving.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Weet u zeker dat u wilt sluiten? Wijzigingen zullen verloren gaan. </value>
+	</data>
+	<data name="CannotCopyPermissionsToDescendantPages.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">U heeft geen toestemming om toestemmingen te kopiëren naar onderliggende pagina's</value>
+	</data>
+	<data name="CannotDeleteSpecialPage.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Een speciale pagina kan niet verwijderd worden.</value>
+	</data>
+	<data name="ChangesNotSaved.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Wijzigingen zijn niet opgeslagen</value>
+	</data>
+	<data name="CheckToPublishPage_tooltip.Text">
+		<value xml:space="preserve">Selecteer dit om deze pagina voor deze taal te publiceren</value>
+	</data>
+	<data name="CheckToTransalePage_tooltip.Text">
+		<value xml:space="preserve">Selecteer dit om deze pagina als vertaald voor deze taal te markeren</value>
+	</data>
+	<data name="CheckToTranslateAllModules_tooltip.Text">
+		<value xml:space="preserve">Selecteer dit om alle pagina's als vertaald voor deze taal te markeren</value>
+	</data>
+	<data name="CheckToTranslateModule_tooltip.Text">
+		<value xml:space="preserve">Selecteer dit om deze module als vertaald te markeren</value>
+	</data>
+	<data name="Clear.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Opschonen</value>
+	</data>
+	<data name="ClearPageCache.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Cache opschonen - Deze pagina</value>
+	</data>
+	<data name="ClickToDeLocalizeAllModules_tooltip.Text">
+		<value xml:space="preserve">Klik om lokalisatie voor alle modules uit te schakelen</value>
+	</data>
+	<data name="ClickToDeLocalizeModule_tooltip.Text">
+		<value xml:space="preserve">Klik om lokalisatie voor deze module uit te schakelen</value>
+	</data>
+	<data name="ClickToLocalizeAllModules_tooltip.Text">
+		<value xml:space="preserve">Klik om alle modules te lokaliseren</value>
+	</data>
+	<data name="ClickToLocalizeModule_tooltip.Text">
+		<value xml:space="preserve">Klik om lokalisatie voor deze module in te schakelen</value>
+	</data>
+	<data name="Continue.Text">
+		<value xml:space="preserve">Doorgaan</value>
+	</data>
+	<data name="CopyAppearanceToDescendantPages.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Kopieer uiterlijk naar onderliggende pagina's</value>
+	</data>
+	<data name="CopyAppearanceToDescendantPagesSuccess.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Uiterlijk is succesvol naar onderliggende pagina's gekopieerd</value>
+	</data>
+	<data name="CopyModule.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Kopieer module</value>
+	</data>
+	<data name="CopyPermissionsToDescendantPages.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Kopieer Toestemmingen naar onderliggende pagina's</value>
+	</data>
+	<data name="CopyPermissionsToDescendantPagesSuccess.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Machtigingen zijn succesvol naar onderliggende pagina's gekopieerd</value>
+	</data>
+	<data name="Created.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">Gemaakt</value>
+	</data>
+	<data name="CreatedValue.Text" lastModified="2016-11-29 16:18:02">
+		<value xml:space="preserve">[CREATEDDATE] door [CREATEDUSER]</value>
+	</data>
+	<data name="CustomUrlPathCleaned.Error" lastModified="2016-11-29 17:33:47">
+		<value xml:space="preserve">De ingevoerde pagina URL bevat karakters die niet gebruikt kunnen worden in een URL of zijn ongeldige karakters voor een URL. Deze karakters zijn verwijderd. Klik nog eens op de update knop om de aangepaste URL te accepteren.&amp;lt;br&amp;gt;[NOTE: The illegal characters list is the following: &amp;lt;&amp;gt;\?:&amp;amp;=+|%# ]</value>
+	</data>
+	<data name="CustomUrlPortalAlias.Error">
+		<value xml:space="preserve">Selecteer een geldige site alias voor deze aangepaste URL.</value>
+	</data>
+	<data name="Default.Text" lastModified="2016-11-29 17:33:47">
+		<value xml:space="preserve">[Standaard taal]</value>
+	</data>
+	<data name="DefaultImageTitle.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Afbeelding</value>
+	</data>
+	<data name="Delete.Text" lastModified="2016-11-29 17:33:47">
+		<value xml:space="preserve">Verwijderen</value>
+	</data>
+	<data name="DeleteModuleConfirm.Text" lastModified="2016-11-29 17:33:47">
+		<value xml:space="preserve">Weet u zeker dat u de module "[MODULETITLE]" wilt verwijderen van de pagina?</value>
+	</data>
+	<data name="DeletePageConfirm.Text" lastModified="2016-11-29 17:33:47">
+		<value xml:space="preserve">&lt;p&gt;Bevestig dat u deze pagina wilt verwijderen.&lt;/p&gt;</value>
+	</data>
+	<data name="DeletePageModuleSuccess.Text" lastModified="2016-11-29 17:33:47">
+		<value xml:space="preserve">Module "[MODULETITLE]" is succesvol verwijderd</value>
+	</data>
+	<data name="DeleteTranslationConfirm.Text">
+		<value xml:space="preserve">U staat op het punt om de '&lt;b&gt;{0}&lt;/b&gt;' vertaling van deze pagina permanent te &lt;b&gt;verwijderen&lt;/b&gt;. Weet u zeker dat u door wil gaan?</value>
+	</data>
+	<data name="Description.Label" lastModified="2016-11-29 17:33:47">
+		<value xml:space="preserve">Beschrijving</value>
+	</data>
+	<data name="Description.Text">
+		<value xml:space="preserve">Omschrijving</value>
+	</data>
+	<data name="Detached.Text" lastModified="2016-11-29 17:33:47">
+		<value xml:space="preserve">Vrijstaand {0}</value>
+	</data>
+	<data name="Details.Text" lastModified="2016-11-29 17:33:47">
+		<value xml:space="preserve">Details</value>
+	</data>
+	<data name="DisableLink.Text">
+		<value xml:space="preserve">pagina uitschakelen</value>
+	</data>
+	<data name="DisableLink_tooltip.Text">
+		<value xml:space="preserve">Als de pagina is uitgeschakeld kan deze niet worden aangeklikt in het navigatie menu. De optie wordt gebruikt om een start locatie te definiëren voor submenu onderdelen.</value>
+	</data>
+	<data name="DisplayInMenu.Text" lastModified="2016-11-29 17:33:47">
+		<value xml:space="preserve">Weergeven in menu</value>
+	</data>
+	<data name="DisplayInMenuTooltip.Text" lastModified="2016-11-29 17:33:47">
+		<value xml:space="preserve">U heeft de keuze om wel of niet de pagina in het hoofd navigatie menu in te sluiten. Als een pagina niet is ingesloten in het menu, dan kunt u er nog steeds naar verwijzen via de betreffende pagina URL.</value>
+	</data>
+	<data name="DragDefault.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Sleep een bestand of selecteer een optie</value>
+	</data>
+	<data name="DragInvalid.Text">
+		<value xml:space="preserve">Je kunt aan pagina niet als sub-pagina van zichzelf plaatsen</value>
+	</data>
+	<data name="DragOver.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Sleep een bestand.</value>
+	</data>
+	<data name="DragPageTooltip.Text" lastModified="2016-11-29 18:38:50">
+		<value xml:space="preserve">Sleep pagina naar locatie</value>
+	</data>
+	<data name="DuplicatePage.Text" lastModified="2016-11-29 18:38:50">
+		<value xml:space="preserve">Dupliceer Pagina</value>
+	</data>
+	<data name="DuplicateUrl.Error" lastModified="2016-11-29 18:38:50">
+		<value xml:space="preserve">De URL is een duplicaat van een bestaande URL.</value>
+	</data>
+	<data name="Edit.Text" lastModified="2016-11-29 18:38:50">
+		<value xml:space="preserve">Bewerken</value>
+	</data>
+	<data name="EditContent.Text" lastModified="2020-05-11 12:15:01">
+		<value xml:space="preserve">Content bewerken</value>
+	</data>
+	<data name="EditTab.Text">
+		<value xml:space="preserve">Bewerken</value>
+	</data>
+	<data name="EmptyRole.Text">
+		<value xml:space="preserve">Voeg een rol toe om de rechten per rol in te stellen</value>
+	</data>
+	<data name="EmptyTabName.Text" lastModified="2016-11-29 18:38:50">
+		<value xml:space="preserve">Tabblad Naam is leeg</value>
+	</data>
+	<data name="EmptyUser.Text">
+		<value xml:space="preserve">Voeg een gebruiker toe om de rechten per gebruiker in te stellen</value>
+	</data>
+	<data name="EnableScheduling.Text" lastModified="2016-11-29 18:38:50">
+		<value xml:space="preserve">Plannen inschakelen</value>
+	</data>
+	<data name="EnableSchedulingTooltip.Text" lastModified="2016-11-29 18:38:50">
+		<value xml:space="preserve">Plannen inschakelen voor deze pagina.</value>
+	</data>
+	<data name="EndDate.Text" lastModified="2016-11-29 18:38:50">
+		<value xml:space="preserve">Einddatum</value>
+	</data>
+	<data name="ErrorPages.Text" lastModified="2016-11-29 19:43:18">
+		<value xml:space="preserve">U moet minstens een pagina selecteren om te exporteren.</value>
+	</data>
+	<data name="Exclude.Text" lastModified="2016-11-29 19:43:18">
+		<value xml:space="preserve">Uitsluiten</value>
+	</data>
+	<data name="ExcludeParamsInCacheValidation.Text" lastModified="2016-11-29 19:43:18">
+		<value xml:space="preserve">Sluit Params uit in Cache Validatie</value>
+	</data>
+	<data name="ExcludeParamsInCacheValidation_tooltip.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Een lijst van querystring parameter namen (gescheiden door komma's ) om uit te sluiten van variaties van gecachte pagina's. Deze instelling is enkel geldig wanneer de standaard hierboven is ingesteld op INSLUITEN querystring parameters van gecachte pagina variaties.</value>
+	</data>
+	<data name="Existing.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Bestaande</value>
+	</data>
+	<data name="ExistingPage.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Bestaande pagina</value>
+	</data>
+	<data name="ExistingPageTooltip.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Herleid naar een bestaande pagina op uw site.</value>
+	</data>
+	<data name="ExportedMessage.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Het pagina sjabloon is gemaakt naar {0}</value>
+	</data>
+	<data name="ExternalRedirectionUrlRequired.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">De URL is benodigd.</value>
+	</data>
+	<data name="ExternalUrl.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Externe URL</value>
+	</data>
+	<data name="ExternalUrlTooltip.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Herleid naar een externe URL bron</value>
+	</data>
+	<data name="File.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Bestand</value>
+	</data>
+	<data name="FilterByGroup.Text">
+		<value xml:space="preserve">Filter op groep:</value>
+	</data>
+	<data name="FilterByModifiedDateText.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Filter op bewerkingsdatumbereik</value>
+	</data>
+	<data name="FilterbyPageTypeText.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Filter op paginatype</value>
+	</data>
+	<data name="FilterbyPublishStatusText.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Fiter op publicatiestatus</value>
+	</data>
+	<data name="Folder.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Map</value>
+	</data>
+	<data name="FolderTooltip.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Selecteer de export map waar het sjabloon moet worden opgeslagen.</value>
+	</data>
+	<data name="GeneratedBy.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Gegenereerd door</value>
+	</data>
+	<data name="GlobalGroups.Text">
+		<value xml:space="preserve">[Algemene rollen]</value>
+	</data>
+	<data name="Hidden.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Pagina is verborgen in menu</value>
+	</data>
+	<data name="HomeDirectory.Label" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Home map</value>
+	</data>
+	<data name="IconFile.Help">
+		<value xml:space="preserve">De pagina icon is een plaatje dat door het thema of menusysteem voor iedere pagina gebruikt kan worden.</value>
+	</data>
+	<data name="IconFile.Text">
+		<value xml:space="preserve">Klein icon</value>
+	</data>
+	<data name="IconFileLarge.Help">
+		<value xml:space="preserve">De pagina icon is een plaatje dat door het thema of menusysteem voor iedere pagina gebruikt kan worden.</value>
+	</data>
+	<data name="IconFileLarge.Text">
+		<value xml:space="preserve">Groot icon</value>
+	</data>
+	<data name="Include.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Inclusief</value>
+	</data>
+	<data name="IncludeContent.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Inclusief content</value>
+	</data>
+	<data name="IncludeContentTooltip.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Selecteer dit  om de module content in te sluiten.</value>
+	</data>
+	<data name="IncludeExcludeParams.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Insluiten/Uitsluiten Params als standaard</value>
+	</data>
+	<data name="IncludeExcludeParams_tooltip.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Indien ingesteld als INSLUITEN, zullen alle querystring parameter waarde variaties resulteren in een nieuw item in de output cache. Indien ingesteld als UITSLUITEN, zullen querystring parameters niet worden gebruikt om de gecachte pagina te varieren.</value>
+	</data>
+	<data name="IncludeParamsInCacheValidation.Text" lastModified="2016-11-29 20:52:44">
+		<value xml:space="preserve">Insluiten Params in Cache Validatie</value>
+	</data>
+	<data name="IncludeParamsInCacheValidation_tooltip.Text" lastModified="2016-11-29 21:58:06">
+		<value xml:space="preserve">Een lijst van querystring parameter namen (gescheiden door komma's ) om in te sluiten in de variaties van gecachte pagina's. Deze instelling is enkel geldig wanneer de standaard hierboven is ingesteld op UITSLUITEN querystring parameters van gecachte pagina variaties.</value>
+	</data>
+	<data name="InvalidRequest.Error" lastModified="2016-11-29 23:03:53">
+		<value xml:space="preserve">De aanvraag is ongeldig</value>
+	</data>
+	<data name="InvalidTabName.Text" lastModified="2016-11-29 23:03:53">
+		<value xml:space="preserve">{0} is een ongeldige Pagina Titel</value>
+	</data>
+	<data name="IsNotSharedModule.Text" lastModified="2020-05-11 12:15:01">
+		<value xml:space="preserve">Gedeeld: Niet Waar</value>
+	</data>
+	<data name="Keywords.Text" lastModified="2016-11-29 23:03:53">
+		<value xml:space="preserve">Trefwoorden</value>
+	</data>
+	<data name="Layout.Text" lastModified="2016-11-29 23:03:53">
+		<value xml:space="preserve">Opmaak</value>
+	</data>
+	<data name="lblAll.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Alles</value>
+	</data>
+	<data name="lblCachedItemCount.Text" lastModified="2018-07-22 09:57:32">
+		<value xml:space="preserve">Huidige Cachetelling: {0} varianten voor deze pagina</value>
+	</data>
+	<data name="lblCollapseAll.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">ALLES INKLAPPEN</value>
+	</data>
+	<data name="lblDateRange.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Datumbereik</value>
+	</data>
+	<data name="lblDraft.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Concept</value>
+	</data>
+	<data name="lblExpandAll.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">ALLES UITKLAPPEN</value>
+	</data>
+	<data name="lblFile.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Bestand</value>
+	</data>
+	<data name="lblFromDate.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Vanaf datum</value>
+	</data>
+	<data name="lblGeneralFilters.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">ALGEMENE FILTERS</value>
+	</data>
+	<data name="lblModifiedDate.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Bewerkingsdatum</value>
+	</data>
+	<data name="lblNone.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Geen</value>
+	</data>
+	<data name="lblNormal.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Standaard</value>
+	</data>
+	<data name="lblPageFound.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Pagina gevonden</value>
+	</data>
+	<data name="lblPagesFound.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Pagana's gevonden</value>
+	</data>
+	<data name="lblPublishDate.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Publicatiedatum</value>
+	</data>
+	<data name="lblPublished.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Gepubliceerd</value>
+	</data>
+	<data name="lblPublishStatus.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Publicatiestatus</value>
+	</data>
+	<data name="lblTagFilters.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">TAG FILTERSE</value>
+	</data>
+	<data name="lblUrl.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">URL</value>
+	</data>
+	<data name="LinkButton.Text" lastModified="2018-07-21 18:10:25">
+		<value xml:space="preserve">Voer URL Link in</value>
+	</data>
+	<data name="LinkInputAction.Text" lastModified="2018-07-21 20:10:39">
+		<value xml:space="preserve">Druk op {opslaan|[ENTER]} om te bewaren, of {annuleren|[ESC]}om te annuleren</value>
+	</data>
+	<data name="LinkInputPlaceholder.Text" lastModified="2018-07-22 09:57:32">
+		<value xml:space="preserve">http://voorbeeld.nl/afbeeldingsnaam.jpg</value>
+	</data>
+	<data name="LinkInputTitle.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">URL Link</value>
+	</data>
+	<data name="LocalizedSharedModule_tooltip.Text">
+		<value xml:space="preserve">Dit is een vertaalde gedeelde module</value>
+	</data>
+	<data name="MakeNeutral.ErrorMessage" lastModified="2016-11-29 23:03:53">
+		<value xml:space="preserve">Pagina kan niet worden geconverteerd naar een neutrale cultuur, omdat er subpagina's zijn.</value>
+	</data>
+	<data name="MakeNeutralWarning.Text" lastModified="2016-11-29 23:03:53">
+		<value xml:space="preserve">Dit zal de vertaalde versie van de pagina verwijderen. enkel de standaard cultuur versie van de pagina zal overblijven. Weet u zeker dat u dit wilt doen?</value>
+	</data>
+	<data name="MakePageNeutral.Text" lastModified="2016-11-29 23:03:53">
+		<value xml:space="preserve">Maak pagina neutraal</value>
+	</data>
+	<data name="MakePagesTranslatable.Text" lastModified="2016-11-29 23:03:53">
+		<value xml:space="preserve">Maak pagina vertaalbaar</value>
+	</data>
+	<data name="MethodPermissionDenied.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">De gebruiker heeft geen toegang tot deze methode.</value>
+	</data>
+	<data name="ModifiedDateRange.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Bewerkingsdatumbereik</value>
+	</data>
+	<data name="ModuleCopyType.Copy" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Kopieer</value>
+	</data>
+	<data name="ModuleCopyType.New" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Nieuw</value>
+	</data>
+	<data name="ModuleCopyType.Reference" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Referentie</value>
+	</data>
+	<data name="ModuleDeleted.Text" lastModified="2016-11-29 23:03:53">
+		<value xml:space="preserve">De module is verwijderd en bestaat in de prullenbak.</value>
+	</data>
+	<data name="ModuleInfo.Text" lastModified="2016-11-29 23:03:53">
+		<value xml:space="preserve">Module: {0}&amp;lt;br/&amp;gt;ModuleTitel: {1}&amp;lt;br/&amp;gt;Vak: {2}</value>
+	</data>
+	<data name="ModuleInfoForNonAdmins.Text" lastModified="2016-11-30 00:07:42">
+		<value xml:space="preserve">U heeft niet genoeg toestemmingen om de titel van deze module te wijzigen.</value>
+	</data>
+	<data name="Modules.Text" lastModified="2016-11-30 00:07:42">
+		<value xml:space="preserve">Modules</value>
+	</data>
+	<data name="ModuleSettings.Text" lastModified="2016-11-30 00:07:42">
+		<value xml:space="preserve">Module instellingen</value>
+	</data>
+	<data name="ModulesOnThisPage.Text" lastModified="2016-11-30 00:07:42">
+		<value xml:space="preserve">Modules op deze pagina</value>
+	</data>
+	<data name="More.Text" lastModified="2016-11-30 00:07:42">
+		<value xml:space="preserve">Meer</value>
+	</data>
+	<data name="Name.Text" lastModified="2016-11-30 00:07:42">
+		<value xml:space="preserve">Naam</value>
+	</data>
+	<data name="NameTooltip.Text" lastModified="2016-11-30 00:07:42">
+		<value xml:space="preserve">Dit is de naam van de pagina. De tekst die u invult zal worden getoond in het menu systeem.</value>
+	</data>
+	<data name="nav_Pages.Text" lastModified="2016-11-30 00:07:42">
+		<value xml:space="preserve">Pagina's</value>
+	</data>
+	<data name="NeutralPageClickButton.Text" lastModified="2016-11-30 00:07:42">
+		<value xml:space="preserve">Om dit te veranderen in een vertaalbare pagina, klik op deze knop.</value>
+	</data>
+	<data name="NeutralPageText.Text" lastModified="2016-11-30 00:07:42">
+		<value xml:space="preserve">Dit is een "Taal Neutrale" pagina. dit betekent dat de pagina zichtbaar zal zijn in elke taal van de site. Taal neutrale pagina's kunnen niet worden vertaald.</value>
+	</data>
+	<data name="NewContentMessage.Body" lastModified="2016-11-30 01:10:16">
+		<value xml:space="preserve">De volgende pagina heeft nieuwe content klaarstaan voor vertaling &amp;lt;br/&amp;gt;Page: &amp;lt;a href='{1}'&amp;gt;{0}&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;{2}</value>
+	</data>
+	<data name="NewContentMessage.Subject" lastModified="2016-11-30 01:10:16">
+		<value xml:space="preserve">Nieuwe content klaar voor vertaling</value>
+	</data>
+	<data name="NoContainers.Text" lastModified="2016-11-30 01:10:16">
+		<value xml:space="preserve">Dit thema heeft geen velden</value>
+	</data>
+	<data name="NoLayouts.Text" lastModified="2016-11-30 01:10:16">
+		<value xml:space="preserve">Dit thema heeft geen opmaak</value>
+	</data>
+	<data name="NoModules.Text" lastModified="2016-11-30 01:10:16">
+		<value xml:space="preserve">Deze pagina heeft geen modules</value>
+	</data>
+	<data name="None.Text" lastModified="2016-11-30 01:10:16">
+		<value xml:space="preserve">Geen</value>
+	</data>
+	<data name="NoneSpecified.Text" lastModified="2016-11-30 01:10:16">
+		<value xml:space="preserve">Niet gespecificeerd</value>
+	</data>
+	<data name="NoPageFound.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Geen pagina gevonden.</value>
+	</data>
+	<data name="NoPageSelected.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Er is op dit moment geen pagina geselecteerd.</value>
+	</data>
+	<data name="NoPermissionAddPage.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Je hebt geen rechten om een pagina toe te voegen.</value>
+	</data>
+	<data name="NoPermissionCopyPage.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Je hebt geen rechten om deze pagina te kopieren.</value>
+	</data>
+	<data name="NoPermissionDeletePage.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Je hebt geen rechten om de pagina te verwijderen.</value>
+	</data>
+	<data name="NoPermissionEditPage.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Je hebt geen rechten om pagina te bewerken.</value>
+	</data>
+	<data name="NoPermissionManagePage.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Je hebt geen rechten om de pagina te beheren.</value>
+	</data>
+	<data name="NoPermissionViewPage.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Je hebt geen rechten om de pagina te bekijken.</value>
+	</data>
+	<data name="NoPermissionViewRedirectPage.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Je hebt geen rechten om redirect-pagina te bekijken.</value>
+	</data>
+	<data name="NotActive.Text" lastModified="2016-11-30 01:10:16">
+		<value xml:space="preserve">[Taal is niet actief]</value>
+	</data>
+	<data name="NotEmptyNameError.Text" lastModified="2016-11-30 01:10:16">
+		<value xml:space="preserve">Dit veld is vereist</value>
+	</data>
+	<data name="NoThemes.Text" lastModified="2016-11-30 01:10:16">
+		<value xml:space="preserve">Uw site heeft geen thema's</value>
+	</data>
+	<data name="NoThemeSelectedForContainers.Text" lastModified="2016-11-30 06:34:35">
+		<value xml:space="preserve">Selecteer een thema om containers te laden</value>
+	</data>
+	<data name="NoThemeSelectedForLayouts.Text" lastModified="2016-11-30 01:10:16">
+		<value xml:space="preserve">Selecteer een thema om opmaak te laden</value>
+	</data>
+	<data name="NotifyModalHeader.Text" lastModified="2016-11-30 02:11:21">
+		<value xml:space="preserve">Verzend een notificatie aan vertalers</value>
+	</data>
+	<data name="NotifyModalPlaceholder.Text" lastModified="2016-11-30 02:11:21">
+		<value xml:space="preserve">Vul een bericht in om te verzenden naar vertalers</value>
+	</data>
+	<data name="NotifyTranslators.Text" lastModified="2016-11-30 02:11:21">
+		<value xml:space="preserve">Inlichten vertalers</value>
+	</data>
+	<data name="NotSpecified.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">&lt; Geen opgegeven &gt;</value>
+	</data>
+	<data name="NotTranslated.Text" lastModified="2016-11-30 02:11:21">
+		<value xml:space="preserve">Niet vertaald {0}</value>
+	</data>
+	<data name="Off.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Uit</value>
+	</data>
+	<data name="On.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Aan</value>
+	</data>
+	<data name="OpenLinkInNewWindow.Text" lastModified="2016-11-30 02:11:21">
+		<value xml:space="preserve">Open Link in nieuw venster</value>
+	</data>
+	<data name="OpenLinkInNewWindowTooltip.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Open Link in nieuw browser scherm</value>
+	</data>
+	<data name="OutputCacheProvider.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Output Cache Provider</value>
+	</data>
+	<data name="OutputCacheProvider_tooltip.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Selecteerde de provider die gebruikt moet worden voor deze pagina</value>
+	</data>
+	<data name="page_name_tooltip" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Paginanaam</value>
+	</data>
+	<data name="page_title_tooltip" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Paginatitel</value>
+	</data>
+	<data name="PageContainer.Text" lastModified="2016-11-30 06:34:35">
+		<value xml:space="preserve">Pagina container</value>
+	</data>
+	<data name="PageContainerTooltip.Text" lastModified="2016-11-30 06:34:35">
+		<value xml:space="preserve">De geselecteerde container zal worden toegepast op alle modules binnen deze pagina.</value>
+	</data>
+	<data name="PageCreatedMessage.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Pagina succesvol aangemaakt.</value>
+	</data>
+	<data name="PageDeletedMessage.Text">
+		<value xml:space="preserve">Pagina is succesvol verwijderd</value>
+	</data>
+	<data name="PageHeaderTags.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Pagina Header Tags</value>
+	</data>
+	<data name="PageHeaderTags_tooltip.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Vul tags in (i.e. META tags) die moeten worden samengevoegd in de "HEAD"tag van de HTML voor deze pagina.</value>
+	</data>
+	<data name="PageLayoutTooltip.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">De geselecteerde opmaak zal worden toegepast op deze pagina.</value>
+	</data>
+	<data name="PageNotFound.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Pagina bestaat niet.</value>
+	</data>
+	<data name="PageParent.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Ouder pagina</value>
+	</data>
+	<data name="Pages_Seo_DeleteWarningMessage.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Weet u zeker dat u deze URL wilt verwijderen?</value>
+	</data>
+	<data name="Pages_Seo_GeneratedByAutomatic.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Automatisch</value>
+	</data>
+	<data name="Pages_Seo_QueryString.Help" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Voeg een optionele Querystring toe aan de Herleid URL</value>
+	</data>
+	<data name="Pages_Seo_QueryString.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Querystring</value>
+	</data>
+	<data name="Pages_Seo_SelectedAliasUsage.Help" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Als de geselecteerde site alias verschilt van de primaire site alias, selecteer de gebruiksoptie.</value>
+	</data>
+	<data name="Pages_Seo_SelectedAliasUsage.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Geselecteerde Site alias gebuik</value>
+	</data>
+	<data name="Pages_Seo_SelectedAliasUsageOptionPageAndChildPages.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Pagina en subpagina's</value>
+	</data>
+	<data name="Pages_Seo_SelectedAliasUsageOptionSameAsParent.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Gelijk aan Ouder pagina</value>
+	</data>
+	<data name="Pages_Seo_SelectedAliasUsageOptionThisPageOnly.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Enkel deze pagina</value>
+	</data>
+	<data name="Pages_Seo_SiteAlias.Help" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Selecteer de alias van deze pagina om een specifieke alias te gebruiken.</value>
+	</data>
+	<data name="Pages_Seo_SiteAlias.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Site alias</value>
+	</data>
+	<data name="Pages_Seo_UrlPath.Help" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">Specificeer het pad voor de URL. Vul geen http:// in of de site alias.</value>
+	</data>
+	<data name="Pages_Seo_UrlPath.Text" lastModified="2016-11-30 03:21:01">
+		<value xml:space="preserve">URL pad</value>
+	</data>
+	<data name="Pages_Seo_UrlType.Help" lastModified="2016-11-30 04:24:06">
+		<value xml:space="preserve">Selecteer 'Actief' of 'Herleiden'. Actief betekent dat de URL zal worden gebruikt als de URL voor de pagina en een HTTP status code 200 zal terugsturen. 'Herleiden' betekent dat de ingevoerde URL zal worden herleid naar de Actieve URL voor de huidige pagina.</value>
+	</data>
+	<data name="Pages_Seo_UrlType.Text" lastModified="2016-11-30 05:25:52">
+		<value xml:space="preserve">URL Type</value>
+	</data>
+	<data name="PageSettings.Text" lastModified="2016-11-30 05:25:52">
+		<value xml:space="preserve">Pagina Instellingen</value>
+	</data>
+	<data name="PagesSearchHeader.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Pagina zoekresultaten</value>
+	</data>
+	<data name="PageStyleSheet.Text" lastModified="2016-11-30 05:25:52">
+		<value xml:space="preserve">Pagina Stylesheet</value>
+	</data>
+	<data name="PageStyleSheetTooltip.Text" lastModified="2016-11-30 05:25:52">
+		<value xml:space="preserve">Een stylesheet die enkel geladen zal worden voor deze pagina. Het bestand moet gelokaliseerd zijn in de home directory of een submap van de huidige website.</value>
+	</data>
+	<data name="PageTheme.Text" lastModified="2016-11-30 06:34:35">
+		<value xml:space="preserve">Pagina Thema</value>
+	</data>
+	<data name="PageThemeTooltip.Text" lastModified="2016-11-30 06:34:35">
+		<value xml:space="preserve">Het geselecteerde thema zal worden toegepast op de pagina</value>
+	</data>
+	<data name="PageType.Text" lastModified="2016-11-30 06:34:35">
+		<value xml:space="preserve">Pagina type</value>
+	</data>
+	<data name="PageUpdatedMessage.Text">
+		<value xml:space="preserve">Pagina succesvol bijgewerkt</value>
+	</data>
+	<data name="ParentPage.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Bovenliggende pagina</value>
+	</data>
+	<data name="PathDuplicateWithAlias.Text" lastModified="2016-11-30 06:34:35">
+		<value xml:space="preserve">Er is een site domein identiek aan uw pagina pad.</value>
+	</data>
+	<data name="PathDuplicateWithPage.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Er is al een pagina met hetzelfde URL pad {0}.</value>
+	</data>
+	<data name="Pending.Text" lastModified="2016-11-30 06:34:35">
+		<value xml:space="preserve">Versleep de pagina naar de gewenste locatie.</value>
+	</data>
+	<data name="PermanentRedirect.Text" lastModified="2016-11-30 06:34:35">
+		<value xml:space="preserve">Permanent doorsturen</value>
+	</data>
+	<data name="PermanentRedirectTooltip.Text" lastModified="2016-11-30 06:34:35">
+		<value xml:space="preserve">Vink dit vakje aan als u de klant wilt inlichten dat deze pagina moet worden beschouwd als permanent verplaatst. dit stelt zoekmachines in staat om hun URLs aan te passen om direct naar de bron te kunnen verwijzen. Dit is genegeerd als het LinkType Geen is.</value>
+	</data>
+	<data name="Permissions.Text" lastModified="2016-11-30 06:34:35">
+		<value xml:space="preserve">Machtigingen</value>
+	</data>
+	<data name="PermissionsByRole.Text">
+		<value xml:space="preserve">Rechten op basis van rol</value>
+	</data>
+	<data name="PermissionsByUser.Text">
+		<value xml:space="preserve">Rechten op basis van gebruiker</value>
+	</data>
+	<data name="PleaseSelectLayoutContainer.Text" lastModified="2016-11-30 06:34:35">
+		<value xml:space="preserve">U moet een opmaak en een veld selecteren om de operatie uit te voeren.</value>
+	</data>
+	<data name="PreviewThemeLayoutAndContainer.Text" lastModified="2016-11-30 06:34:35">
+		<value xml:space="preserve">Bekijk thema opmaak en container vooraf</value>
+	</data>
+	<data name="Prompt_DeletePage_Description.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Verwijdert een pagina in de portal en stuurt deze naar de Prullenbak. Voor extra veiligheid staat deze methode het niet toe om pagina's met kinderen, hostpagina's of pagina's in het //Admin-pad te verwijderen.</value>
+	</data>
+	<data name="Prompt_DeletePage_FlagId.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Geeft expliciet de pagina-ID aan die moet worden verwijderd. Gebruik van de vlagnaam is niet vereist. U kunt eenvoudig de ID-waarde als het eerste argument opgeven. Vereist als &lt;span class="mono"&gt;--parentid&lt;/span&gt; niet opgegeven is.</value>
+	</data>
+	<data name="Prompt_DeletePage_FlagName.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">De naam (niet de titel) van de pagina die moet worden verwijderd.</value>
+	</data>
+	<data name="Prompt_DeletePage_FlagParentId.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">Het pagina- / tab-ID van het bovenliggende item van de pagina in de paginahiërarchie. Alleen vereist als --naam is opgegeven als parameter verwijderen en de pagina zich niet in de hoofdmap bevindt.</value>
+	</data>
+	<data name="Prompt_DeletePage_ResultHtml.Text" lastModified="2018-07-21 22:18:34">
+		<value xml:space="preserve">&lt;div&gt;
     &lt;h4&gt;Verwijder pagina op Pagina ID&lt;/h4&gt;
     &lt;code class="block"&gt;
       delete-page 999
     &lt;/code&gt;
 
     &lt;h4&gt;Verwijder pagian op naam onder een andere ouder&lt;/h4&gt;
-    &lt;p&gt;OPMERKING: op dit moment staat Prompt niet toe dat u pagina's met kinderen verwijdert&lt;/p&gt;
+    &lt;p&gt;OPMERKING: op dit moment staat Prompt niet toe dat u pagina's met subpagina's verwijdert&lt;/p&gt;
     &lt;code class="block"&gt;
       delete-page --name "test" --parentid 999
     &lt;/code&gt;
   &lt;/div&gt;</value>
-  </data>
-  <data name="Prompt_FlagMatch.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">De markeringswaarde - {0} kan niet hetzelfde zijn als de pagina die u probeert bij te werken</value>
-  </data>
-  <data name="Prompt_FlagRequired.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">--{0} is vereist.</value>
-  </data>
-  <data name="Prompt_GetPage_Description.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">&lt;p class="lead"&gt;Geeft informatie over de opgegeven pagina.&lt;/p&gt;
+	</data>
+	<data name="Prompt_FlagMatch.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">De markeringswaarde - {0} kan niet hetzelfde zijn als de pagina die u probeert bij te werken</value>
+	</data>
+	<data name="Prompt_FlagRequired.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">--{0} is vereist.</value>
+	</data>
+	<data name="Prompt_GetPage_Description.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">&lt;p class="lead"&gt;Geeft informatie over de opgegeven pagina.&lt;/p&gt;
     &lt;blockquote&gt;
         &lt;strong&gt;Pagina's versus Tabs&lt;/strong&gt;: Vanwege historische redenen, refereert DNN intern aan pagina's als &amp;quot;tabs&amp;quot;. Dus, elke keer dat je een verwijzing ziet naar &lt;em&gt;tab&lt;/em&gt; of &lt;em&gt;page&lt;/em&gt;, onthoudt dan dat ze gelijkwaardig zijn. Waarden die worden teruggegeven via Prompt, gebruiken meestal DNN's interne naamconventies (vandaar &lt;em&gt; tab &lt;/ em&gt;), hoewel de eigen syntaxis van Prompt meestal het woord &lt;em&gt; pagina &lt;/ em&gt; zal gebruiken in plaats van &lt;em&gt; tab &lt;/ em&gt;.
     &lt;/blockquote&gt;</value>
-  </data>
-  <data name="Prompt_GetPage_FlagId.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">Geeft expliciet de pagina-ID op die moet worden opgehaald. Gebruik van de markering is niet verplicht. U kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
-  </data>
-  <data name="Prompt_GetPage_FlagName.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">De naam (niet titel) van de pagina.</value>
-  </data>
-  <data name="Prompt_GetPage_FlagParentId.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">Het pagina-/tab-ID van het bovenliggende item van de pagina in de paginahiërarchie. Alleen vereist als --naam is opgegeven als parameter ophalen en de pagina zich niet in de hoofdmap bevindt.</value>
-  </data>
-  <data name="Prompt_GetPage_ResultHtml.Text" lastModified="2018-07-22 11:56:04">
-    <value xml:space="preserve">&lt;div&gt;
+	</data>
+	<data name="Prompt_GetPage_FlagId.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">Geeft expliciet de pagina-ID op die moet worden opgehaald. Gebruik van de markering is niet verplicht. U kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
+	</data>
+	<data name="Prompt_GetPage_FlagName.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">De naam (niet titel) van de pagina.</value>
+	</data>
+	<data name="Prompt_GetPage_FlagParentId.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">Het pagina-/tab-ID van het bovenliggende item van de pagina in de paginahiërarchie. Alleen vereist als --naam is opgegeven als parameter ophalen en de pagina zich niet in de hoofdmap bevindt.</value>
+	</data>
+	<data name="Prompt_GetPage_ResultHtml.Text" lastModified="2018-07-22 05:56:04">
+		<value xml:space="preserve">&lt;div&gt;
         &lt;h4&gt;ID Verkrijg pagina op basis van Pagina (Tab) ID&lt;/h4&gt;
         &lt;code class="block"&gt;
             get-page &lt;em&gt;paginaId&lt;/em&gt;
@@ -815,63 +848,63 @@
             &lt;tr&gt;&lt;td&gt;Omschrijving&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Pagina 1 is mijn ouder. Ik ben pagina 1a&lt;/td&gt;&lt;/tr&gt;
         &lt;/table&gt;
     &lt;/div&gt;</value>
-  </data>
-  <data name="Prompt_Goto_Description.Text" lastModified="2018-07-22 11:56:04">
-    <value xml:space="preserve">Navigeert naar de opgegeven pagina binnen de DNN-portal</value>
-  </data>
-  <data name="Prompt_Goto_FlagId.Text" lastModified="2018-07-22 11:56:04">
-    <value xml:space="preserve">Geef het pagina (tab) ID op van de pagina waarnaar u wilt navigeren. Expliciet gebruik van de markering &lt;span class = "mono"&gt; - id &lt;/ span&gt; is niet nodig. Geef gewoon de pagina-ID door als het eerste argument achter de opdrachtnaam</value>
-  </data>
-  <data name="Prompt_Goto_FlagName.Text" lastModified="2018-07-22 13:56:15">
-    <value xml:space="preserve">De naam (niet titel) van de pagina.</value>
-  </data>
-  <data name="Prompt_Goto_FlagParentId.Text" lastModified="2018-07-22 17:58:25">
-    <value xml:space="preserve">Het pagina- / tab-ID van het bovenliggende item van de pagina in de paginahiërarchie. Alleen vereist als --naam is opgegeven als gooto-parameter en de pagina zich niet in de hoofdmap bevindt.</value>
-  </data>
-  <data name="Prompt_Goto_ResultHtml.Text" lastModified="2018-07-22 20:11:04">
-    <value xml:space="preserve">&lt;div&gt;
+	</data>
+	<data name="Prompt_Goto_Description.Text" lastModified="2018-07-22 05:56:04">
+		<value xml:space="preserve">Navigeert naar de opgegeven pagina binnen de DNN-portal</value>
+	</data>
+	<data name="Prompt_Goto_FlagId.Text" lastModified="2018-07-22 05:56:04">
+		<value xml:space="preserve">Geef het pagina (tab) ID op van de pagina waarnaar u wilt navigeren. Expliciet gebruik van de markering &lt;span class = "mono"&gt; - id &lt;/ span&gt; is niet nodig. Geef gewoon de pagina-ID door als het eerste argument achter de opdrachtnaam</value>
+	</data>
+	<data name="Prompt_Goto_FlagName.Text" lastModified="2018-07-22 07:56:15">
+		<value xml:space="preserve">De naam (niet titel) van de pagina.</value>
+	</data>
+	<data name="Prompt_Goto_FlagParentId.Text" lastModified="2018-07-22 11:58:25">
+		<value xml:space="preserve">Het pagina- / tab-ID van het bovenliggende item van de pagina in de paginahiërarchie. Alleen vereist als --naam is opgegeven als gooto-parameter en de pagina zich niet in de hoofdmap bevindt.</value>
+	</data>
+	<data name="Prompt_Goto_ResultHtml.Text" lastModified="2018-07-22 14:11:04">
+		<value xml:space="preserve">&lt;div&gt;
     &lt;h4&gt;Navigeer naar een pagina binnen de site&lt;/h4&gt;
     &lt;p&gt;Deze opdracht navigeert de browser naar een pagina met paginaID van 74&lt;/p&gt;
     &lt;code class="block"&gt;
       goto 74
     &lt;/code&gt;
   &lt;/div&gt;</value>
-  </data>
-  <data name="Prompt_IfSpecifiedMustHaveValue.Text" lastModified="2018-07-22 20:11:04">
-    <value xml:space="preserve">Als u de markering - {0} opgeeft, moet deze worden ingesteld op Waar of Onwaar.</value>
-  </data>
-  <data name="Prompt_InvalidPageId.Text" lastModified="2018-07-22 20:11:04">
-    <value xml:space="preserve">U moet een geldig nummer opgeven voor Pagina ID</value>
-  </data>
-  <data name="Prompt_InvalidParentId.Text" lastModified="2018-07-22 20:11:04">
-    <value xml:space="preserve">De --{0}-waarde van de markering moet een geldig Pagina (Tab) ID zijn;.</value>
-  </data>
-  <data name="Prompt_ListPages_Description.Text" lastModified="2018-07-22 09:45:32">
-    <value xml:space="preserve">&lt;p class="lead"&gt;Geeft informatie over de lijst van pagina's gebaseerd op de specifieke criteria.&lt;/p&gt;
+	</data>
+	<data name="Prompt_IfSpecifiedMustHaveValue.Text" lastModified="2018-07-22 14:11:04">
+		<value xml:space="preserve">Als u de markering - {0} opgeeft, moet deze worden ingesteld op Waar of Onwaar.</value>
+	</data>
+	<data name="Prompt_InvalidPageId.Text" lastModified="2018-07-22 14:11:04">
+		<value xml:space="preserve">U moet een geldig nummer opgeven voor Pagina ID</value>
+	</data>
+	<data name="Prompt_InvalidParentId.Text" lastModified="2018-07-22 14:11:04">
+		<value xml:space="preserve">De --{0}-waarde van de markering moet een geldig Pagina (Tab) ID zijn;.</value>
+	</data>
+	<data name="Prompt_ListPages_Description.Text" lastModified="2018-07-22 03:45:32">
+		<value xml:space="preserve">&lt;p class="lead"&gt;Geeft informatie over de lijst van pagina's gebaseerd op de specifieke criteria.&lt;/p&gt;
     &lt;blockquote&gt;
         &lt;strong&gt;Pagina's versus Tabs&lt;/strong&gt;: Vanwege historische redenen, refereert DNN intern aan pagina's als &amp;quot;tabs&amp;quot;. Dus, elke keer dat je een verwijzing ziet naar &lt;em&gt;tab&lt;/em&gt; of &lt;em&gt;page&lt;/em&gt;, onthoudt dan dat ze gelijkwaardig zijn. Waarden die worden teruggegeven via Prompt, gebruiken meestal DNN's interne naamconventies (vandaar &lt;em&gt; tab &lt;/ em&gt;), hoewel de eigen syntaxis van Prompt meestal het woord &lt;em&gt; pagina &lt;/ em&gt; zal gebruiken in plaats van &lt;em&gt; tab &lt;/ em&gt;.
     &lt;/blockquote&gt;</value>
-  </data>
-  <data name="Prompt_ListPages_FlagDeleted.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">If &lt;span class="mono"&gt;true&lt;/span&gt;,alleen pagina's die verwijderd zijn (dus in DNN's Prullen) zullen worden teruggegeven. Als &lt;span class="mono"&gt;false&lt;/span&gt;dan zullen alleen pagina's die niet verwijderd zijn teruggegeven worden. Als de markering opgegeven is, maar geen waarde heeft, dan wordt aangenomen dat &lt;span class="mono"&gt;true&lt;/span&gt; is. Als de markering niet is opgegegeven, zullen zowel verwijderde als niet-verwijderde pagina's worden teruggegeven.</value>
-  </data>
-  <data name="Prompt_ListPages_FlagName.Text" lastModified="2018-07-22 20:11:04">
-    <value xml:space="preserve">Alleen pagina's ophalen waarvan de naam overeenkomt met de expressie. Kan het jokerteken asterisk (&lt;span class = "mono"&gt; * &lt;/ span&gt;) gebruiken om overeen te komen met 0 of meer tekens.</value>
-  </data>
-  <data name="Prompt_ListPages_FlagParentId.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">Hetpagina-ID (tab-ID) van de bovenliggende pagina waarvan u de onderliggende pagina's wilt ophalen. Als het eerste argument een geldige pagina-ID is, hoeft u niet expliciet de markering --parentid te gebruiken</value>
-  </data>
-  <data name="Prompt_ListPages_FlagPath.Text" lastModified="2018-07-22 20:11:04">
-    <value xml:space="preserve">Alleen pagina's ophalen waarvan het pad overeenkomt met de expressie. Kan het jokerteken asterisk (&lt;span class = "mono"&gt; * &lt;/ span&gt;) gebruiken om overeen te komen met 0 of meer tekens.</value>
-  </data>
-  <data name="Prompt_ListPages_FlagSkin.Text" lastModified="2018-07-22 20:11:04">
-    <value xml:space="preserve">Alleen pagina's ophalen waarvan de skin overeenkomt met de expressie. Kan het jokerteken asterisk (&lt;span class = "mono"&gt; * &lt;/ span&gt;) gebruiken om overeen te komen met 0 of meer tekens.</value>
-  </data>
-  <data name="Prompt_ListPages_FlagTitle.Text" lastModified="2018-07-22 20:11:04">
-    <value xml:space="preserve">Alleen pagina's ophalen waarvan de titel overeenkomt met de expressie. Kan het jokerteken asterisk (&lt;span class = "mono"&gt; * &lt;/ span&gt;) gebruiken om overeen te komen met 0 of meer tekens.</value>
-  </data>
-  <data name="Prompt_ListPages_ResultHtml.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">&lt;div&gt;
+	</data>
+	<data name="Prompt_ListPages_FlagDeleted.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">If &lt;span class="mono"&gt;true&lt;/span&gt;,alleen pagina's die verwijderd zijn (dus in DNN's Prullen) zullen worden teruggegeven. Als &lt;span class="mono"&gt;false&lt;/span&gt;dan zullen alleen pagina's die niet verwijderd zijn teruggegeven worden. Als de markering opgegeven is, maar geen waarde heeft, dan wordt aangenomen dat &lt;span class="mono"&gt;true&lt;/span&gt; is. Als de markering niet is opgegegeven, zullen zowel verwijderde als niet-verwijderde pagina's worden teruggegeven.</value>
+	</data>
+	<data name="Prompt_ListPages_FlagName.Text" lastModified="2018-07-22 14:11:04">
+		<value xml:space="preserve">Alleen pagina's ophalen waarvan de naam overeenkomt met de expressie. Kan het jokerteken asterisk (&lt;span class = "mono"&gt; * &lt;/ span&gt;) gebruiken om overeen te komen met 0 of meer tekens.</value>
+	</data>
+	<data name="Prompt_ListPages_FlagParentId.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">Hetpagina-ID (tab-ID) van de bovenliggende pagina waarvan u de onderliggende pagina's wilt ophalen. Als het eerste argument een geldige pagina-ID is, hoeft u niet expliciet de markering --parentid te gebruiken</value>
+	</data>
+	<data name="Prompt_ListPages_FlagPath.Text" lastModified="2018-07-22 14:11:04">
+		<value xml:space="preserve">Alleen pagina's ophalen waarvan het pad overeenkomt met de expressie. Kan het jokerteken asterisk (&lt;span class = "mono"&gt; * &lt;/ span&gt;) gebruiken om overeen te komen met 0 of meer tekens.</value>
+	</data>
+	<data name="Prompt_ListPages_FlagSkin.Text" lastModified="2018-07-22 14:11:04">
+		<value xml:space="preserve">Alleen pagina's ophalen waarvan de skin overeenkomt met de expressie. Kan het jokerteken asterisk (&lt;span class = "mono"&gt; * &lt;/ span&gt;) gebruiken om overeen te komen met 0 of meer tekens.</value>
+	</data>
+	<data name="Prompt_ListPages_FlagTitle.Text" lastModified="2018-07-22 14:11:04">
+		<value xml:space="preserve">Alleen pagina's ophalen waarvan de titel overeenkomt met de expressie. Kan het jokerteken asterisk (&lt;span class = "mono"&gt; * &lt;/ span&gt;) gebruiken om overeen te komen met 0 of meer tekens.</value>
+	</data>
+	<data name="Prompt_ListPages_ResultHtml.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">&lt;div&gt;
         &lt;h4&gt;Zet alle pagina's in de huidige portal in een lijst&lt;/h4&gt;
         &lt;code class="block"&gt;
             list-Paginas
@@ -1083,42 +1116,42 @@
         &lt;/table&gt;
 
     &lt;/div&gt;</value>
-  </data>
-  <data name="Prompt_ListRoles_FlagMax.Text" lastModified="2018-07-23 12:44:56">
-    <value xml:space="preserve">Paginagrootte voor de pagina. Max is 500.</value>
-  </data>
-  <data name="Prompt_ListRoles_FlagPage.Text" lastModified="2018-07-23 12:44:56">
-    <value xml:space="preserve">Paginanummer om records te tonen.</value>
-  </data>
-  <data name="Prompt_ListRoles_FlagVisible.Text" lastModified="2018-07-23 08:40:19">
-    <value xml:space="preserve">Als &lt;span class="mono"&gt;true&lt;/span&gt; is worden alleen pagina's weergegeven die zichtbaar zijn in het navigatiemenu. Als &lt;span class="mono"&gt;false&lt;/span&gt; worden alleen de verborgen pagina's teruggegeven. Als de markering is opgegeven maar geen waarde heeft, wordt &lt;span class="mono"&gt;tru &lt;/span&gt; verondersteld. Als de markering niet is opgegeven, worden zowel zichtbare als verborgen pagina's teruggegeven.</value>
-  </data>
-  <data name="Prompt_NewPage_Description.Text" lastModified="2018-07-23 06:37:03">
-    <value xml:space="preserve">Genereert een nieuwe pagina binnen het portaal</value>
-  </data>
-  <data name="Prompt_NewPage_FlagDescription.Text" lastModified="2018-07-23 00:29:58">
-    <value xml:space="preserve">De omschrijving die voor de pagina moet worden gebruikt</value>
-  </data>
-  <data name="Prompt_NewPage_FlagKeywords.Text" lastModified="2018-07-23 02:30:33">
-    <value xml:space="preserve">Steekwoorden die moeten worden gebruikt voor de pagina</value>
-  </data>
-  <data name="Prompt_NewPage_FlagName.Text" lastModified="2018-07-23 08:40:19">
-    <value xml:space="preserve">De naam die voor de pagina moet worden gebruikt. De markering&lt;code&gt; - name &lt;/ code&gt; hoeft niet expliciet te worden gedeclareerd als het eerste argument een string is en geen markering.</value>
-  </data>
-  <data name="Prompt_NewPage_FlagParentId.Text" lastModified="2018-07-23 08:40:19">
-    <value xml:space="preserve">Als u wilt dat dit het kind van een pagina is, geeft u de ID van die pagina op als &lt;span class="mono"&gt; - parentid &lt;/span&gt;</value>
-  </data>
-  <data name="Prompt_NewPage_FlagTitle.Text" lastModified="2018-07-23 04:31:49">
-    <value xml:space="preserve">De weergavetitel die voor de pagina moet worden gebruikt</value>
-  </data>
-  <data name="Prompt_NewPage_FlagUrl.Text" lastModified="2018-07-23 08:40:19">
-    <value xml:space="preserve">Een aangepaste URL om te gebruiken voor de pagina. Als dit niet wordt opgegeven, wordt de &lt;span class="mono"&gt; - name &lt;/span&gt; door DNN gebruikt bij het maken van de URL</value>
-  </data>
-  <data name="Prompt_NewPage_FlagVisible.Text" lastModified="2018-07-23 10:43:27">
-    <value xml:space="preserve">Als waar, is de pagina zichtbaar in het navigatiemenu van de site</value>
-  </data>
-  <data name="Prompt_NewPage_ResultHtml.Text" lastModified="2018-07-23 14:50:18">
-    <value xml:space="preserve">&lt;div&gt;
+	</data>
+	<data name="Prompt_ListRoles_FlagMax.Text" lastModified="2018-07-23 06:44:56">
+		<value xml:space="preserve">Paginagrootte voor de pagina. Max is 500.</value>
+	</data>
+	<data name="Prompt_ListRoles_FlagPage.Text" lastModified="2018-07-23 06:44:56">
+		<value xml:space="preserve">Paginanummer om records te tonen.</value>
+	</data>
+	<data name="Prompt_ListRoles_FlagVisible.Text" lastModified="2018-07-23 02:40:19">
+		<value xml:space="preserve">Als &lt;span class="mono"&gt;true&lt;/span&gt; is worden alleen pagina's weergegeven die zichtbaar zijn in het navigatiemenu. Als &lt;span class="mono"&gt;false&lt;/span&gt; worden alleen de verborgen pagina's teruggegeven. Als de markering is opgegeven maar geen waarde heeft, wordt &lt;span class="mono"&gt;tru &lt;/span&gt; verondersteld. Als de markering niet is opgegeven, worden zowel zichtbare als verborgen pagina's teruggegeven.</value>
+	</data>
+	<data name="Prompt_NewPage_Description.Text" lastModified="2018-07-23 00:37:03">
+		<value xml:space="preserve">Genereert een nieuwe pagina binnen het portaal</value>
+	</data>
+	<data name="Prompt_NewPage_FlagDescription.Text" lastModified="2018-07-22 18:29:58">
+		<value xml:space="preserve">De omschrijving die voor de pagina moet worden gebruikt</value>
+	</data>
+	<data name="Prompt_NewPage_FlagKeywords.Text" lastModified="2018-07-22 20:30:33">
+		<value xml:space="preserve">Steekwoorden die moeten worden gebruikt voor de pagina</value>
+	</data>
+	<data name="Prompt_NewPage_FlagName.Text" lastModified="2018-07-23 02:40:19">
+		<value xml:space="preserve">De naam die voor de pagina moet worden gebruikt. De markering&lt;code&gt; - name &lt;/ code&gt; hoeft niet expliciet te worden gedeclareerd als het eerste argument een string is en geen markering.</value>
+	</data>
+	<data name="Prompt_NewPage_FlagParentId.Text" lastModified="2018-07-23 02:40:19">
+		<value xml:space="preserve">Als u wilt dat dit het kind van een pagina is, geeft u de ID van die pagina op als &lt;span class="mono"&gt; - parentid &lt;/span&gt;</value>
+	</data>
+	<data name="Prompt_NewPage_FlagTitle.Text" lastModified="2018-07-22 22:31:49">
+		<value xml:space="preserve">De weergavetitel die voor de pagina moet worden gebruikt</value>
+	</data>
+	<data name="Prompt_NewPage_FlagUrl.Text" lastModified="2018-07-23 02:40:19">
+		<value xml:space="preserve">Een aangepaste URL om te gebruiken voor de pagina. Als dit niet wordt opgegeven, wordt de &lt;span class="mono"&gt; - name &lt;/span&gt; door DNN gebruikt bij het maken van de URL</value>
+	</data>
+	<data name="Prompt_NewPage_FlagVisible.Text" lastModified="2018-07-23 04:43:27">
+		<value xml:space="preserve">Als waar, is de pagina zichtbaar in het navigatiemenu van de site</value>
+	</data>
+	<data name="Prompt_NewPage_ResultHtml.Text" lastModified="2018-07-23 08:50:18">
+		<value xml:space="preserve">&lt;div&gt;
     &lt;h4&gt;Maak een nieuwe pagina (Minimale Syntax)&lt;/h4&gt;
     &lt;h5&gt;Gebruik de &lt;span class="mono"&gt;--name&lt;/span&gt; markering impliciet&lt;/h5&gt;
     &lt;code class="block"&gt;
@@ -1207,63 +1240,66 @@
     &lt;/table&gt;
 
   &lt;/div&gt;</value>
-  </data>
-  <data name="Prompt_NoPageId.Text" lastModified="2018-07-23 10:43:27">
-    <value xml:space="preserve">Geen geldig Pagina ID opgegeven</value>
-  </data>
-  <data name="Prompt_NoPages.Text" lastModified="2018-07-23 10:43:27">
-    <value xml:space="preserve">Geen pagina's gevonden.</value>
-  </data>
-  <data name="Prompt_NothingToUpdate.Text" lastModified="2018-07-23 10:43:27">
-    <value xml:space="preserve">Niets om te updaten! Zeg wat geupdatet moet worden met markeringen zoals --{0} --{1} -0-{3}, enz. </value>
-  </data>
-  <data name="Prompt_PageCreated.Text" lastModified="2018-07-23 10:43:27">
-    <value xml:space="preserve">The pagina is aangemaakt</value>
-  </data>
-  <data name="Prompt_PageCreateFailed.Text" lastModified="2018-07-23 10:43:27">
-    <value xml:space="preserve">Het is niet mogelijk de nieuwe pagina aan te maken</value>
-  </data>
-  <data name="Prompt_PageNotFound.Text" lastModified="2018-07-23 10:43:27">
-    <value xml:space="preserve">Pagina niet gevonden.</value>
-  </data>
-  <data name="Prompt_PagesCategory.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">Pagina-opdrachten</value>
-  </data>
-  <data name="Prompt_ParameterRequired.Text" lastModified="2018-07-23 10:43:27">
-    <value xml:space="preserve">Het pagina-id of paginanaam met markering - naam moet worden opgegeven.</value>
-  </data>
-  <data name="Prompt_ParentIdNotNumeric.Text" lastModified="2018-07-23 10:43:27">
-    <value xml:space="preserve">Wanneer u - {0} opgeeft , moet u een geldig numeriek pagina-ID (tab ID) opgeven</value>
-  </data>
-  <data name="Prompt_SetPage_Description.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">Instellen of updaten van de eigenschappen van de opgegeven pagina</value>
-  </data>
-  <data name="Prompt_SetPage_FlagDescription.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">De omschrijving die voor de pagina moet worden gebruikt</value>
-  </data>
-  <data name="Prompt_SetPage_FlagId.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">Het ID van de pagina die u wilt updaten.</value>
-  </data>
-  <data name="Prompt_SetPage_FlagKeywords.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">Steekwoorden die voor de pagina moeten worden gebruikt</value>
-  </data>
-  <data name="Prompt_SetPage_FlagName.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">De naam die voor de pagina moet worden gebruikt</value>
-  </data>
-  <data name="Prompt_SetPage_FlagParentId.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">Als u wilt dat dit het kind van een pagina is, geeft u de ID van die pagina op als de &lt;span class="mono"&gt;--parentid&lt;/span&gt;</value>
-  </data>
-  <data name="Prompt_SetPage_FlagTitle.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">De weergavetitel die voor de pagina moet worden gebruikt</value>
-  </data>
-  <data name="Prompt_SetPage_FlagUrl.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">Een aangepaste URL om te gebruiken voor de pagina. Als dit niet wordt opgegeven, wordt de &lt;span class="mono"&gt; - name&lt;/span&gt; door DNN gebruikt bij het maken van de URL</value>
-  </data>
-  <data name="Prompt_SetPage_FlagVisible.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">Als waar, is de pagina zichtbaar in het navigatiemenu van de site</value>
-  </data>
-  <data name="Prompt_SetPage_ResultHtml.Text" lastModified="2018-07-23 16:52:53">
-    <value xml:space="preserve">&lt;div&gt;
+	</data>
+	<data name="Prompt_NoPageId.Text" lastModified="2018-07-23 04:43:27">
+		<value xml:space="preserve">Geen geldig Pagina ID opgegeven</value>
+	</data>
+	<data name="Prompt_NoPages.Text" lastModified="2018-07-23 04:43:27">
+		<value xml:space="preserve">Geen pagina's gevonden.</value>
+	</data>
+	<data name="Prompt_NothingToUpdate.Text" lastModified="2018-07-23 04:43:27">
+		<value xml:space="preserve">Niets om te updaten! Zeg wat geupdatet moet worden met markeringen zoals --{0} --{1} -0-{3}, enz. </value>
+	</data>
+	<data name="Prompt_PageCreated.Text" lastModified="2018-07-23 04:43:27">
+		<value xml:space="preserve">The pagina is aangemaakt</value>
+	</data>
+	<data name="Prompt_PageCreateFailed.Text" lastModified="2018-07-23 04:43:27">
+		<value xml:space="preserve">Het is niet mogelijk de nieuwe pagina aan te maken</value>
+	</data>
+	<data name="Prompt_PageFound.Text">
+		<value xml:space="preserve">Page found.</value>
+	</data>
+	<data name="Prompt_PageNotFound.Text" lastModified="2018-07-23 04:43:27">
+		<value xml:space="preserve">Pagina niet gevonden.</value>
+	</data>
+	<data name="Prompt_PagesCategory.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">Pagina-opdrachten</value>
+	</data>
+	<data name="Prompt_ParameterRequired.Text" lastModified="2018-07-23 04:43:27">
+		<value xml:space="preserve">Het pagina-id of paginanaam met markering - naam moet worden opgegeven.</value>
+	</data>
+	<data name="Prompt_ParentIdNotNumeric.Text" lastModified="2018-07-23 04:43:27">
+		<value xml:space="preserve">Wanneer u - {0} opgeeft , moet u een geldig numeriek pagina-ID (tab ID) opgeven</value>
+	</data>
+	<data name="Prompt_SetPage_Description.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">Instellen of updaten van de eigenschappen van de opgegeven pagina</value>
+	</data>
+	<data name="Prompt_SetPage_FlagDescription.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">De omschrijving die voor de pagina moet worden gebruikt</value>
+	</data>
+	<data name="Prompt_SetPage_FlagId.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">Het ID van de pagina die u wilt updaten.</value>
+	</data>
+	<data name="Prompt_SetPage_FlagKeywords.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">Steekwoorden die voor de pagina moeten worden gebruikt</value>
+	</data>
+	<data name="Prompt_SetPage_FlagName.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">De naam die voor de pagina moet worden gebruikt</value>
+	</data>
+	<data name="Prompt_SetPage_FlagParentId.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">Als u wilt dat dit het kind van een pagina is, geeft u de ID van die pagina op als de &lt;span class="mono"&gt;--parentid&lt;/span&gt;</value>
+	</data>
+	<data name="Prompt_SetPage_FlagTitle.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">De weergavetitel die voor de pagina moet worden gebruikt</value>
+	</data>
+	<data name="Prompt_SetPage_FlagUrl.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">Een aangepaste URL om te gebruiken voor de pagina. Als dit niet wordt opgegeven, wordt de &lt;span class="mono"&gt; - name&lt;/span&gt; door DNN gebruikt bij het maken van de URL</value>
+	</data>
+	<data name="Prompt_SetPage_FlagVisible.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">Als waar, is de pagina zichtbaar in het navigatiemenu van de site</value>
+	</data>
+	<data name="Prompt_SetPage_ResultHtml.Text" lastModified="2018-07-23 10:52:53">
+		<value xml:space="preserve">&lt;div&gt;
         &lt;h4&gt;Update eigenschappen van een pagina&lt;/h4&gt;
         &lt;code class="block"&gt;
             set-page 78 --title "Mijn nieuwe paginatitel" --name Page78
@@ -1391,197 +1427,224 @@
         &lt;/table&gt;
 
     &lt;/div&gt;</value>
-  </data>
-  <data name="PublishedCheckbox.Text" lastModified="2016-11-30 09:34:35">
-    <value xml:space="preserve">Gepubliceerd</value>
-  </data>
-  <data name="Reference.Text" lastModified="2016-11-30 10:35:27">
-    <value xml:space="preserve">Refereren naar {0}</value>
-  </data>
-  <data name="ReferenceDefault.Text" lastModified="2016-11-30 10:35:27">
-    <value xml:space="preserve">Refereer naar Standaard Taal {0}</value>
-  </data>
-  <data name="Role.Text">
-    <value xml:space="preserve">Rol</value>
-  </data>
-  <data name="Save.Text" lastModified="2016-11-30 10:35:27">
-    <value xml:space="preserve">Opslaan</value>
-  </data>
-  <data name="SaveAsTemplate.Text" lastModified="2016-11-30 11:38:23">
-    <value xml:space="preserve">Opslaan als sjabloon</value>
-  </data>
-  <data name="Search.Text" lastModified="2016-11-30 11:38:23">
-    <value xml:space="preserve">Zoeken</value>
-  </data>
-  <data name="SearchFilesPlaceHolder.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">Zoeken in bestanden...</value>
-  </data>
-  <data name="SearchFolders.Text" lastModified="2016-11-30 11:38:23">
-    <value xml:space="preserve">Zoeken in mappen</value>
-  </data>
-  <data name="SearchFoldersPlaceHolder.Text" lastModified="2018-07-22 22:29:15">
-    <value xml:space="preserve">Zoeken in mappen...</value>
-  </data>
-  <data name="SecureConnection.Text" lastModified="2016-11-30 11:38:23">
-    <value xml:space="preserve">Beveiligde verbinding</value>
-  </data>
-  <data name="SecureConnection_tooltip.Text" lastModified="2016-11-30 11:38:23">
-    <value xml:space="preserve">Specificeer of deze pagina wel of niet moet worden gedwongen om een beveiligde verbinding (SSL) te gebruiken. Deze optie zal enkel ingeschakeld zijn als de admin SSL heeft ingeschakeld in de site instellingen.</value>
-  </data>
-  <data name="Security.Text" lastModified="2016-11-30 11:38:23">
-    <value xml:space="preserve">Beveiliging</value>
-  </data>
-  <data name="SEO.Text" lastModified="2016-11-30 11:38:23">
-    <value xml:space="preserve">S.E.O.</value>
-  </data>
-  <data name="SetPageContainer.Text" lastModified="2016-11-30 11:38:23">
-    <value xml:space="preserve">Bepaal pagina container</value>
-  </data>
-  <data name="SetPageLayout.Text" lastModified="2016-11-30 11:38:23">
-    <value xml:space="preserve">Bepaal pagina opmaak</value>
-  </data>
-  <data name="SetPageTheme.Text" lastModified="2016-11-30 11:38:23">
-    <value xml:space="preserve">Bepaal pagina thema</value>
-  </data>
-  <data name="Settings.Text" lastModified="2016-11-30 11:38:23">
-    <value xml:space="preserve">Instellingen</value>
-  </data>
-  <data name="Site.Text" lastModified="2016-11-30 11:38:23">
-    <value xml:space="preserve">Site</value>
-  </data>
-  <data name="SiteDefault.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">Site standaard</value>
-  </data>
-  <data name="SiteDetails_Pages.Text" lastModified="2016-11-30 11:38:23">
-    <value xml:space="preserve">Pagina's</value>
-  </data>
-  <data name="SitemapPriority.Text" lastModified="2016-11-30 11:38:23">
-    <value xml:space="preserve">Sitemap Prioriteit</value>
-  </data>
-  <data name="SitemapPriority_tooltip.Text" lastModified="2016-11-30 12:40:00">
-    <value xml:space="preserve">Vul de gewenste prioriteit in (tussen 1 en 1.0). Dit helpt om te bepalen hoe de pagina is gerankt in Google ten opzichte van andere pagina's op uw site (0.5 is de standaard).</value>
-  </data>
-  <data name="Standard.Text" lastModified="2016-11-30 13:41:18">
-    <value xml:space="preserve">Standaard</value>
-  </data>
-  <data name="StartDate.Text" lastModified="2016-11-30 13:41:18">
-    <value xml:space="preserve">Startdatum</value>
-  </data>
-  <data name="Status.Text" lastModified="2016-11-30 13:41:18">
-    <value xml:space="preserve">Status</value>
-  </data>
-  <data name="Status_Disabled.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">Uitschakelen</value>
-  </data>
-  <data name="Status_Hidden.Text">
-    <value xml:space="preserve">Verborgen</value>
-  </data>
-  <data name="Status_Visible.Text">
-    <value xml:space="preserve">Zichtbaar</value>
-  </data>
-  <data name="System.Text" lastModified="2016-11-30 13:41:18">
-    <value xml:space="preserve">Systeem</value>
-  </data>
-  <data name="TabExists.Text" lastModified="2016-11-30 13:41:18">
-    <value xml:space="preserve">De paginanaam die u heeft gekozen wordt al gebruikt door een andere pagina op hetzelfde niveau in de pagina hierarchy. </value>
-  </data>
-  <data name="TabRecycled.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Een pagina met deze naam bestaat in de prullenbak. Om deze pagina te herstellen gebruik de prullenbak. </value>
-  </data>
-  <data name="TabToRedirectIsRequired.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">Pagina waarnaar moet worden omgeleid, is vereist.</value>
-  </data>
-  <data name="Tags.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Tags</value>
-  </data>
-  <data name="TagsInstructions.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">Begin met typen om te filteren op tags</value>
-  </data>
-  <data name="TemplateDescriptionTooltip.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Vul een beschrijving in voor dit sjabloon.</value>
-  </data>
-  <data name="TemplateName.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Sjabloon Naam</value>
-  </data>
-  <data name="TemplateNameTooltip.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Vul een naam in voor het pagina sjabloon.</value>
-  </data>
-  <data name="Title.Label" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Titel</value>
-  </data>
-  <data name="Title.Text">
-    <value xml:space="preserve">Titel</value>
-  </data>
-  <data name="TitleTooltip.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Vul een titel in voor de pagina. De titel zal worden weergegeven in de titelbalk van de browser.</value>
-  </data>
-  <data name="TopPage.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Top pagina</value>
-  </data>
-  <data name="Translated.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Vertaald {0}</value>
-  </data>
-  <data name="TranslatedCheckbox.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Vertaald</value>
-  </data>
-  <data name="TranslationMessageConfirmMessage.Error" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Er is iets misgegaan bij het inlichten van de vertalers.</value>
-  </data>
-  <data name="TranslationMessageConfirmMessage.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Vertalers succesvol ingelicht.</value>
-  </data>
-  <data name="UpdateLocalization.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Update lokalisatie</value>
-  </data>
-  <data name="UploadButton.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">Upload een bestand</value>
-  </data>
-  <data name="UploadComplete.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">Upload afgerond</value>
-  </data>
-  <data name="UploadDefault.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">mijnAfbeelding.jpg</value>
-  </data>
-  <data name="UploadFailed.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">Upload mislukt</value>
-  </data>
-  <data name="Uploading.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">Aan het uploaden...</value>
-  </data>
-  <data name="Url.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">URL</value>
-  </data>
-  <data name="UrlPathNotUnique.Error" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">De ingediende URL is niet beschikbaar. Als u het voorgestelde alternatief wilt accepteren, klik op Opslaan.</value>
-  </data>
-  <data name="UrlsForThisPage.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">URLs voor deze pagina</value>
-  </data>
-  <data name="UrlType.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">URL Type</value>
-  </data>
-  <data name="User.Text">
-    <value xml:space="preserve">Gebruiker</value>
-  </data>
-  <data name="ValidatePages.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">Valideer pagina('s)</value>
-  </data>
-  <data name="ValidFileIsRequired.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">Geldig bestand is vereist.</value>
-  </data>
-  <data name="VaryByLimit.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Varieer door Limiet</value>
-  </data>
-  <data name="VaryByLimit_tooltip.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Vul het maximum aantal variaties in om te cachen voor deze pagina. Dit moet een integer zijn. (Noot, deze eigenschap voorkomt potentiele ontkenning van service aanvallen.)</value>
-  </data>
-  <data name="View.Text" lastModified="2016-11-30 14:47:37">
-    <value xml:space="preserve">Weergave</value>
-  </data>
-  <data name="ViewTab.Text">
-    <value xml:space="preserve">Bekijken</value>
-  </data>
-  <data name="WrongFormat.Text" lastModified="2018-07-22 07:44:30">
-    <value xml:space="preserve">Verkeerd formaat</value>
-  </data>
+	</data>
+	<data name="Prompt_TrueFalseRequired.Text">
+		<value xml:space="preserve">U moet een True of False voor de&amp;nbsp; --{0} vlag gebruiken.</value>
+	</data>
+	<data name="Prompt_UnableToFindSpecified.Text">
+		<value xml:space="preserve">Pagina gespeciceerd  voor --{0} '{1}' niet gevonden.</value>
+	</data>
+	<data name="PublishedCheckbox.Text" lastModified="2016-11-30 06:34:35">
+		<value xml:space="preserve">Gepubliceerd</value>
+	</data>
+	<data name="Reference.Text" lastModified="2016-11-30 07:35:27">
+		<value xml:space="preserve">Refereren naar {0}</value>
+	</data>
+	<data name="ReferenceDefault.Text" lastModified="2016-11-30 07:35:27">
+		<value xml:space="preserve">Refereer naar Standaard Taal {0}</value>
+	</data>
+	<data name="Role.Text">
+		<value xml:space="preserve">Rol</value>
+	</data>
+	<data name="Save.Text" lastModified="2016-11-30 07:35:27">
+		<value xml:space="preserve">Opslaan</value>
+	</data>
+	<data name="SaveAsTemplate.Text" lastModified="2016-11-30 08:38:23">
+		<value xml:space="preserve">Opslaan als sjabloon</value>
+	</data>
+	<data name="Search.Text" lastModified="2016-11-30 08:38:23">
+		<value xml:space="preserve">Zoeken</value>
+	</data>
+	<data name="SearchFilesPlaceHolder.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">Zoeken in bestanden...</value>
+	</data>
+	<data name="SearchFolders.Text" lastModified="2016-11-30 08:38:23">
+		<value xml:space="preserve">Zoeken in mappen</value>
+	</data>
+	<data name="SearchFoldersPlaceHolder.Text" lastModified="2018-07-22 16:29:15">
+		<value xml:space="preserve">Zoeken in mappen...</value>
+	</data>
+	<data name="SecureConnection.Text" lastModified="2016-11-30 08:38:23">
+		<value xml:space="preserve">Beveiligde verbinding</value>
+	</data>
+	<data name="SecureConnection_tooltip.Text" lastModified="2016-11-30 08:38:23">
+		<value xml:space="preserve">Specificeer of deze pagina wel of niet moet worden gedwongen om een beveiligde verbinding (SSL) te gebruiken. Deze optie zal enkel ingeschakeld zijn als de admin SSL heeft ingeschakeld in de site instellingen.</value>
+	</data>
+	<data name="Security.Text" lastModified="2016-11-30 08:38:23">
+		<value xml:space="preserve">Beveiliging</value>
+	</data>
+	<data name="SEO.Text" lastModified="2016-11-30 08:38:23">
+		<value xml:space="preserve">S.E.O.</value>
+	</data>
+	<data name="SetPageContainer.Text" lastModified="2016-11-30 08:38:23">
+		<value xml:space="preserve">Bepaal pagina container</value>
+	</data>
+	<data name="SetPageLayout.Text" lastModified="2016-11-30 08:38:23">
+		<value xml:space="preserve">Bepaal pagina opmaak</value>
+	</data>
+	<data name="SetPageTheme.Text" lastModified="2016-11-30 08:38:23">
+		<value xml:space="preserve">Bepaal pagina thema</value>
+	</data>
+	<data name="Settings.Text" lastModified="2016-11-30 08:38:23">
+		<value xml:space="preserve">Instellingen</value>
+	</data>
+	<data name="SharedModule.Text" lastModified="2020-05-11 12:15:01">
+		<value xml:space="preserve">Gedeeld: Waar</value>
+	</data>
+	<data name="Site.Text" lastModified="2016-11-30 08:38:23">
+		<value xml:space="preserve">Site</value>
+	</data>
+	<data name="SiteDefault.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">Site standaard</value>
+	</data>
+	<data name="SiteDetails_Pages.Text" lastModified="2016-11-30 08:38:23">
+		<value xml:space="preserve">Pagina's</value>
+	</data>
+	<data name="SitemapPriority.Text" lastModified="2016-11-30 08:38:23">
+		<value xml:space="preserve">Sitemap Prioriteit</value>
+	</data>
+	<data name="SitemapPriority_tooltip.Text" lastModified="2016-11-30 09:40:00">
+		<value xml:space="preserve">Vul de gewenste prioriteit in (tussen 1 en 1.0). Dit helpt om te bepalen hoe de pagina is gerankt in Google ten opzichte van andere pagina's op uw site (0.5 is de standaard).</value>
+	</data>
+	<data name="Standard.Text" lastModified="2016-11-30 10:41:18">
+		<value xml:space="preserve">Standaard</value>
+	</data>
+	<data name="StartDate.Text" lastModified="2016-11-30 10:41:18">
+		<value xml:space="preserve">Startdatum</value>
+	</data>
+	<data name="Status.Text" lastModified="2016-11-30 10:41:18">
+		<value xml:space="preserve">Status</value>
+	</data>
+	<data name="Status_Disabled.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">Uitschakelen</value>
+	</data>
+	<data name="Status_Hidden.Text">
+		<value xml:space="preserve">Verborgen</value>
+	</data>
+	<data name="Status_Visible.Text">
+		<value xml:space="preserve">Zichtbaar</value>
+	</data>
+	<data name="System.Text" lastModified="2016-11-30 10:41:18">
+		<value xml:space="preserve">Systeem</value>
+	</data>
+	<data name="TabExists.Text" lastModified="2016-11-30 10:41:18">
+		<value xml:space="preserve">De paginanaam die u heeft gekozen wordt al gebruikt door een andere pagina op hetzelfde niveau in de pagina hiërarchy. </value>
+	</data>
+	<data name="TabRecycled.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Een pagina met deze naam bestaat in de prullenbak. Om deze pagina te herstellen gebruik de prullenbak. </value>
+	</data>
+	<data name="TabToRedirectIsRequired.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">Pagina waarnaar moet worden omgeleid, is vereist.</value>
+	</data>
+	<data name="Tags.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Tags</value>
+	</data>
+	<data name="TagsInstructions.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">Begin met typen om te filteren op tags</value>
+	</data>
+	<data name="TemplateDescriptionTooltip.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Vul een beschrijving in voor dit sjabloon.</value>
+	</data>
+	<data name="TemplateName.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Sjabloon Naam</value>
+	</data>
+	<data name="TemplateNameTooltip.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Vul een naam in voor het pagina sjabloon.</value>
+	</data>
+	<data name="Title.Label" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Titel</value>
+	</data>
+	<data name="Title.Text">
+		<value xml:space="preserve">Titel</value>
+	</data>
+	<data name="TitleTooltip.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Vul een titel in voor de pagina. De titel zal worden weergegeven in de titelbalk van de browser.</value>
+	</data>
+	<data name="TopPage.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Top pagina</value>
+	</data>
+	<data name="Translated.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Vertaald {0}</value>
+	</data>
+	<data name="TranslatedCheckbox.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Vertaald</value>
+	</data>
+	<data name="TranslationMessageConfirmMessage.Error" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Er is iets misgegaan bij het inlichten van de vertalers.</value>
+	</data>
+	<data name="TranslationMessageConfirmMessage.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Vertalers succesvol ingelicht.</value>
+	</data>
+	<data name="UnCheckAllTranslatedModules_tooltip.Text">
+		<value xml:space="preserve">Deselecteer dit om alle modules te markeren voor vertaling in bewerking</value>
+	</data>
+	<data name="UnCheckPublishedPage_tooltip.Text">
+		<value xml:space="preserve">Deselecteer dit om deze pagina te markeren voor gereed voor publiceren  in deze taal</value>
+	</data>
+	<data name="UnCheckTransaledPage_tooltip.Text">
+		<value xml:space="preserve">Deselecteer dit om deze pagina te markeren voor vertaling in bewerking</value>
+	</data>
+	<data name="UnCheckTranslatedModule_tooltip.Text">
+		<value xml:space="preserve">Deselecteer dit om de module te markeren voor vertaling in bewerking</value>
+	</data>
+	<data name="UpdateLocalization.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Lokalisatie bijwerken</value>
+	</data>
+	<data name="UpdateLocalizationSuccess.Text">
+		<value xml:space="preserve">Klaar!</value>
+	</data>
+	<data name="UpdateLocalizationWarning.Text">
+		<value xml:space="preserve">Bijwerken van de lokalisatie kan een paar minuten duren, afhankelijk van het aantal modules. Wacht a.u.b. tot het proces klaar is.</value>
+	</data>
+	<data name="UploadButton.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">Upload een bestand</value>
+	</data>
+	<data name="UploadComplete.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">Upload afgerond</value>
+	</data>
+	<data name="UploadDefault.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">MijnAfbeelding.jpg</value>
+	</data>
+	<data name="UploadFailed.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">Upload mislukt</value>
+	</data>
+	<data name="Uploading.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">Aan het uploaden...</value>
+	</data>
+	<data name="Url.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">URL</value>
+	</data>
+	<data name="UrlPathNotUnique.Error" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">De ingediende URL is niet beschikbaar. Als u het voorgestelde alternatief wilt accepteren, klik op Opslaan.</value>
+	</data>
+	<data name="UrlsForThisPage.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">URLs voor deze pagina</value>
+	</data>
+	<data name="UrlType.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">URL Type</value>
+	</data>
+	<data name="User.Text">
+		<value xml:space="preserve">Gebruiker</value>
+	</data>
+	<data name="ValidatePages.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">Valideer pagina('s)</value>
+	</data>
+	<data name="ValidFileIsRequired.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">Geldig bestand is vereist.</value>
+	</data>
+	<data name="VaryByLimit.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Varieer door Limiet</value>
+	</data>
+	<data name="VaryByLimit_tooltip.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Vul het maximum aantal variaties in om te cachen voor deze pagina. Dit moet een integer zijn. (Noot, deze eigenschap voorkomt potentiele ontkenning van service aanvallen.)</value>
+	</data>
+	<data name="View.Text" lastModified="2016-11-30 11:47:37">
+		<value xml:space="preserve">Weergave</value>
+	</data>
+	<data name="ViewTab.Text">
+		<value xml:space="preserve">Bekijken</value>
+	</data>
+	<data name="WrongFormat.Text" lastModified="2018-07-22 01:44:30">
+		<value xml:space="preserve">Verkeerd formaat</value>
+	</data>
 </root>

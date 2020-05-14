@@ -1,5 +1,110 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -7,111 +112,111 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CellRequired.Text" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Mobiel nummer is verplicht.</value>
+  <data name="CellRequired.Text" xml:space="preserve">
+    <value>Mobiel nummer is een verplicht veld.</value>
   </data>
-  <data name="CityRequired.Text" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Plaats is verplicht.</value>
+  <data name="CityRequired.Text" xml:space="preserve">
+    <value>Plaats is een verplicht veld.</value>
   </data>
-  <data name="CountryRequired.Text" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Country is verplicht.</value>
+  <data name="CountryRequired.Text" xml:space="preserve">
+    <value>Land is een verplicht veld.</value>
   </data>
-  <data name="FaxRequired.Text" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Faxnummer is verplicht.</value>
+  <data name="FaxRequired.Text" xml:space="preserve">
+    <value>Faxnummer is een verplicht veld.</value>
   </data>
-  <data name="plCell.Help" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Geef uw Mobiel telefoonnummer in.</value>
+  <data name="plCell.Help" xml:space="preserve">
+    <value>Vul hier uw mobiel telefoonnummer in.</value>
   </data>
-  <data name="plCell.Text">
-    <value xml:space="preserve">Mobiel:</value>
+  <data name="plCell.Text" xml:space="preserve">
+    <value>Mobiel:</value>
   </data>
-  <data name="plCity.Help" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Geef uw woonplaats in.</value>
+  <data name="plCity.Help" xml:space="preserve">
+    <value>Vul hier uw woonplaats in.</value>
   </data>
-  <data name="plCity.Text">
-    <value xml:space="preserve">Woonplaats:</value>
+  <data name="plCity.Text" xml:space="preserve">
+    <value>Woonplaats:</value>
   </data>
-  <data name="plCountry.Help" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Geef uw land in.</value>
+  <data name="plCountry.Help" xml:space="preserve">
+    <value>Vul hier uw land in.</value>
   </data>
-  <data name="plCountry.Text">
-    <value xml:space="preserve">Land:</value>
+  <data name="plCountry.Text" xml:space="preserve">
+    <value>Land:</value>
   </data>
-  <data name="plFax.Help" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Geef uw faxnummer in.</value>
+  <data name="plFax.Help" xml:space="preserve">
+    <value>Vul hier uw faxnummer in.</value>
   </data>
-  <data name="plFax.Text">
-    <value xml:space="preserve">Fax:</value>
+  <data name="plFax.Text" xml:space="preserve">
+    <value>Fax:</value>
   </data>
-  <data name="plPostal.Help">
-    <value xml:space="preserve">Geef de postcode in </value>
+  <data name="plPostal.Help" xml:space="preserve">
+    <value>Vul hier de postcode in </value>
   </data>
-  <data name="plPostal.Text">
-    <value xml:space="preserve">Postcode:</value>
+  <data name="plPostal.Text" xml:space="preserve">
+    <value>Postcode:</value>
   </data>
-  <data name="plProvince.Help" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Selecteer de provincie uit de lijst.</value>
+  <data name="plProvince.Help" xml:space="preserve">
+    <value>Selecteer de provincie uit de lijst.</value>
   </data>
-  <data name="plProvince.Text">
-    <value xml:space="preserve">Provincie:</value>
+  <data name="plProvince.Text" xml:space="preserve">
+    <value>Provincie:</value>
   </data>
-  <data name="plRegion.Help">
-    <value xml:space="preserve">Geef de regio in</value>
+  <data name="plRegion.Help" xml:space="preserve">
+    <value>Vul hier de regio in</value>
   </data>
-  <data name="plRegion.Text">
-    <value xml:space="preserve">Regio:</value>
+  <data name="plRegion.Text" xml:space="preserve">
+    <value>Regio:</value>
   </data>
-  <data name="plState.Help" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Selecteer de staat uit de lijst.</value>
+  <data name="plState.Help" xml:space="preserve">
+    <value>Selecteer de staat uit de lijst.</value>
   </data>
-  <data name="plState.Text">
-    <value xml:space="preserve">Staat:</value>
+  <data name="plState.Text" xml:space="preserve">
+    <value>Staat:</value>
   </data>
-  <data name="plStreet.Help" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Geef de straat en huisnummer in b.v. Hoofdstraat 1.</value>
+  <data name="plStreet.Help" xml:space="preserve">
+    <value>Vul hier de straat en het huisnummer in b.v. Hoofdstraat 1.</value>
   </data>
-  <data name="plStreet.Text">
-    <value xml:space="preserve">Straat + huisnummer:</value>
+  <data name="plStreet.Text" xml:space="preserve">
+    <value>Straat + huisnummer:</value>
   </data>
-  <data name="plTelephone.Help" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Geef telefoonnummer in.</value>
+  <data name="plTelephone.Help" xml:space="preserve">
+    <value>Vul hier het telefoonnummer in.</value>
   </data>
-  <data name="plTelephone.Text">
-    <value xml:space="preserve">Telefoon:</value>
+  <data name="plTelephone.Text" xml:space="preserve">
+    <value>Telefoon:</value>
   </data>
-  <data name="plUnit.Help" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Geef het unit of appartement in.</value>
+  <data name="plUnit.Help" xml:space="preserve">
+    <value>Vul hier de unit of het appartement in.</value>
   </data>
-  <data name="plUnit.Text" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Afdeling #:</value>
+  <data name="plUnit.Text" xml:space="preserve">
+    <value>Unit of appartement nr:</value>
   </data>
-  <data name="plZip.Help" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Geef de postcode in.</value>
+  <data name="plZip.Help" xml:space="preserve">
+    <value>Vuk hier de postcode in.</value>
   </data>
-  <data name="plZip.Text">
-    <value xml:space="preserve">Postcode:</value>
+  <data name="plZip.Text" xml:space="preserve">
+    <value>Postcode:</value>
   </data>
-  <data name="PostalRequired.Text" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Postcode is verplicht.</value>
+  <data name="PostalRequired.Text" xml:space="preserve">
+    <value>Postcode is een verplicht veld.</value>
   </data>
-  <data name="ProvinceRequired.Text" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">De provincie is verplicht.</value>
+  <data name="ProvinceRequired.Text" xml:space="preserve">
+    <value>De provincie is een verplicht veld.</value>
   </data>
-  <data name="RegionRequired.Text" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Regio is vereiverplicht.</value>
+  <data name="RegionRequired.Text" xml:space="preserve">
+    <value>Regio is een verplicht veld.</value>
   </data>
-  <data name="StateRequired.Text" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Staat is verplicht.</value>
+  <data name="StateRequired.Text" xml:space="preserve">
+    <value>Staat is een verplicht veld.</value>
   </data>
-  <data name="StreetRequired.Text" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Street is verplicht.</value>
+  <data name="StreetRequired.Text" xml:space="preserve">
+    <value>Straat is een verplicht veld.</value>
   </data>
-  <data name="TelephoneRequired.Text" lastModified="2015-12-30 10:40:52">
-    <value xml:space="preserve">Telefoonnummer is verplicht.</value>
+  <data name="TelephoneRequired.Text" xml:space="preserve">
+    <value>Telefoonnummer is een verplicht veld.</value>
   </data>
 </root>

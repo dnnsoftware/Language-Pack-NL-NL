@@ -13,10 +13,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CreateFolderToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Nieuwe folder aanpassen</value>
+    <value xml:space="preserve">Nieuwe map</value>
   </data>
   <data name="CreateFolderToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Nieuwe folder aanpassen</value>
+    <value xml:space="preserve">Nieuwe map</value>
   </data>
   <data name="DownloadToolBarButtonExtensionPoint.AltText">
     <value xml:space="preserve">Download</value>
@@ -34,7 +34,7 @@
     <value xml:space="preserve">Map kan niet worden aangemaakt ({0}), de map bestaat al binnen deze locatie.</value>
   </data>
   <data name="FolderFileNameHasInvalidcharacters.Error">
-    <value xml:space="preserve">De naam bevat ongeldige karakters. Specificeer een naam zonder  {0}</value>
+    <value xml:space="preserve">De naam bevat ongeldige karakters. Specificeer een naam zonder {0}</value>
   </data>
   <data name="RefreshFolderToolBarButtonExtensionPoint.AltText">
     <value xml:space="preserve">Verversen</value>
@@ -67,10 +67,10 @@
     <value xml:space="preserve">Hernoemen</value>
   </data>
   <data name="CopyToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Kopiër</value>
+    <value xml:space="preserve">Kopieer</value>
   </data>
   <data name="CopyToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Kopiër</value>
+    <value xml:space="preserve">Kopieer</value>
   </data>
   <data name="FileAlreadyExists.Error">
     <value xml:space="preserve">Het bestand bestaat al in de bestemmingsmap</value>
@@ -82,16 +82,16 @@
     <value xml:space="preserve">Verplaats</value>
   </data>
   <data name="ToggleLeftPaneToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Indrukken</value>
+    <value xml:space="preserve">Klikken</value>
   </data>
   <data name="ToggleLeftPaneToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Indrukken</value>
+    <value xml:space="preserve">Klikken</value>
   </data>
   <data name="DestinationFolderCannotMatchSourceFolder.Error">
     <value xml:space="preserve">Bestemmingsmap mag niet overeenkomen met de bronmap</value>
   </data>
   <data name="UserHasNoPermissionToCopyFolder.Error">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om vanuit deze map te mogen kopiëren</value>
+    <value xml:space="preserve">De gebruiker heeft geen rechten om vanuit deze map te kopiëren</value>
   </data>
   <data name="UserHasNoPermissionToMoveFolder.Error">
     <value xml:space="preserve">De gebruiker heeft geen rechten om deze map te verplaatsen</value>
@@ -103,19 +103,19 @@
     <value xml:space="preserve">Haal URL op</value>
   </data>
   <data name="ViewPropertiesToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Map eigenschappen weergeven</value>
+    <value xml:space="preserve">Mapeigenschappen weergeven</value>
   </data>
   <data name="ViewPropertiesToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Map eigenschappen weergeven</value>
+    <value xml:space="preserve">Mapeigenschappen weergeven</value>
   </data>
   <data name="GridViewToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Lijst weergave</value>
+    <value xml:space="preserve">Lijstweergave</value>
   </data>
   <data name="GridViewToolBarButtonExtensionPoint.Text">
     <value xml:space="preserve">Lijst</value>
   </data>
   <data name="ListViewToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Iconen weergave</value>
+    <value xml:space="preserve">Iconenweergave</value>
   </data>
   <data name="ListViewToolBarButtonExtensionPoint.Text">
     <value xml:space="preserve">Iconen</value>
@@ -145,10 +145,10 @@
     <value xml:space="preserve">Open het bestand in een nieuw tabblad</value>
   </data>
   <data name="UserHasNoPermissionToReadFile.Error">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om dit bestand te mogen lezen</value>
+    <value xml:space="preserve">De gebruiker heeft geen rechten om dit bestand te lezen</value>
   </data>
   <data name="UserHasNoPermissionToReadFolder.Error">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om deze map te mogen lezen</value>
+    <value xml:space="preserve">De gebruiker heeft geen rechten om deze map te lezen</value>
   </data>
   <data name="FieldCreated.DisplayName">
     <value xml:space="preserve">Aangemaakt</value>
@@ -163,7 +163,7 @@
     <value xml:space="preserve">Aangepast door</value>
   </data>
   <data name="UserHasNoPermissionToBrowseFolder.Error">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om binnen deze map te kijken</value>
+    <value xml:space="preserve">De gebruiker heeft geen rechten om in deze map te kijken</value>
   </data>
   <data name="RefreshMenuItemExtensionPoint.Text">
     <value xml:space="preserve">Verversen</value>
@@ -172,13 +172,13 @@
     <value xml:space="preserve">Synchroniseer deze map</value>
   </data>
   <data name="SyncRecursivelyMenuItemExtensionPoint.Text">
-    <value xml:space="preserve">Synchroniseer deze map en sunmappen</value>
+    <value xml:space="preserve">Synchroniseer deze map en submappen</value>
   </data>
   <data name="SyncToolBarMenuButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Synchriniseer</value>
+    <value xml:space="preserve">Synchroniseer</value>
   </data>
   <data name="SyncToolBarMenuButtonExtensionPoint.Text">
-    <value xml:space="preserve">Synchriniseer</value>
+    <value xml:space="preserve">Synchroniseer</value>
   </data>
   <data name="Published.Text">
     <value xml:space="preserve">Publiceren</value>
@@ -193,10 +193,10 @@
     <value xml:space="preserve">Bestanden uitpakken</value>
   </data>
   <data name="MappedPathRegExValidator.ErrorMessage">
-    <value xml:space="preserve">Koppelingspad van geen absoluut pad zijn</value>
+    <value xml:space="preserve">Koppelingspad kan geen absoluut pad zijn</value>
   </data>
   <data name="MoveNotAllowedBetweenFolderTypes.Error">
-    <value xml:space="preserve">Map verplaats operatie tussen deze twee maptypes is niet toegestaan</value>
+    <value xml:space="preserve">Map verplaatsoperatie tussen deze twee maptypes is niet toegestaan</value>
   </data>
   <data name="FolderDoesNotExists.Error">
     <value xml:space="preserve">Deze map bestaat niet</value>
@@ -220,6 +220,6 @@
     <value xml:space="preserve">Ontkoppel</value>
   </data>
   <data name="UserHasNoPermissionToUnlinkFolder.Error">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om deze map te mogen ontkoppelen</value>
+    <value xml:space="preserve">De gebruiker heeft geen rechten om deze map te ontkoppelen</value>
   </data>
 </root>

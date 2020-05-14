@@ -61,7 +61,7 @@
     <value>Uitsluiten</value>
   </data>
   <data name="DragTip.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
-    <value>&amp;lt;p&amp;gt;Voeg module toe:&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Klik en sleep de module naar de gekozen locatie&amp;lt;/p&amp;gt;</value>
+    <value>&lt;p&gt;Voeg module toe:&lt;/p&gt;&lt;p&gt;Klik en sleep de module naar de gekozen locatie&lt;/p&gt;</value>
   </data>
   <data name="EditBarMessageLabel.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
     <value>De getoonde wijzigingen zijn niet gepubliceerd</value>
@@ -91,7 +91,7 @@
     <value>Klik om uit te vouwen</value>
   </data>
   <data name="pagePicker_selectItemDefaultText.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
-    <value>&amp;lt;Geen gespecificeerd&amp;gt;</value>
+    <value>&lt;Geen gespecificeerd&gt;</value>
   </data>
   <data name="pagePicker_sortAscendingButtonTitle.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
     <value>A-Z</value>
@@ -115,7 +115,7 @@
     <value>Zoeken</value>
   </data>
   <data name="Service_CopyPermissionError.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
-    <value>Fout onstaan tijdens het kopiëren van toestemmingen naar onderliggende pagina's. </value>
+    <value>Fout tijdens het kopiëren van toestemmingen naar onderliggende pagina's. </value>
   </data>
   <data name="Service_CopyPermissionSuccessful.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
     <value>Kopiëren toestemmingen naar onderliggende pagina's succesvol.</value>
@@ -130,16 +130,16 @@
     <value>Pagina {0} kan niet worden verwijderd voordat de subpagina's ervan eerst worden verwijderd.&amp;lt;br/&amp;gt;</value>
   </data>
   <data name="Service_RemoveTabModuleError.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
-    <value>Fout ontstaan bij het verwijderen van de pagina:&amp;lt;br/&amp;gt;{0}</value>
+    <value>Fout ontstaan bij het verwijderen van de pagina:&lt;br/&gt;{0}</value>
   </data>
   <data name="Service_RestoreModuleError.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
     <value>Fout herstellen module {0} op pagina {1}. Pagina is verwijderd.</value>
   </data>
   <data name="Service_RestoreTabError.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
-    <value>Pagina {0} kan niet worden hersteld totdat de bovenliggende pagina eerst wordt hersteld.&amp;lt;br/&amp;gt;</value>
+    <value>Pagina {0} kan niet worden hersteld totdat de bovenliggende pagina eerst wordt hersteld.&lt;br/&gt;</value>
   </data>
   <data name="Service_RestoreTabModuleError.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
-    <value>Fout ontstaan bij het herstellen van de pagina:&amp;lt;br/&amp;gt;{0}</value>
+    <value>Fout ontstaan bij het herstellen van de pagina:&lt;br/&gt;{0}</value>
   </data>
   <data name="System.Text" xml:space="preserve" lastModified="2016-11-30 09:12:50">
     <value>Systeem</value>

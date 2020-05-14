@@ -162,4 +162,10 @@
   <data name="YearsAgo.Text" lastModified="2016-12-01 12:44:59">
     <value xml:space="preserve">{0} jaren geleden</value>
   </data>
+  <data name="SwitchOff.Text">
+    <value>Uit</value>
+  </data>
+  <data name="SwitchOn.Text">
+    <value>Aan</value>
+  </data>
 </root>

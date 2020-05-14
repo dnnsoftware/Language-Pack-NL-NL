@@ -12,319 +12,319 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddContent.Action" lastModified="2018-07-24 16:25:44">
+  <data name="AddContent.Action" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Voeg item om te plannen toe</value>
   </data>
-  <data name="All.Text" lastModified="2016-12-01 03:37:13">
+  <data name="All.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Alle</value>
   </data>
-  <data name="APPLICATION_START.Text" lastModified="2016-12-01 03:37:13">
+  <data name="APPLICATION_START.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">APPLICATIE_START</value>
   </data>
-  <data name="Cancel.Text" lastModified="2016-12-01 03:37:13">
+  <data name="Cancel.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Annuleren</value>
   </data>
-  <data name="cmdAddTask.Text" lastModified="2016-12-01 03:37:13">
-    <value xml:space="preserve">Toevoegen taak</value>
+  <data name="cmdAddTask.Text" lastModified="2016-12-01 02:37:13">
+    <value xml:space="preserve">Taak toevoegen</value>
   </data>
-  <data name="cmdDelete.Text" lastModified="2016-12-01 03:37:13">
+  <data name="cmdDelete.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Verwijderen</value>
   </data>
-  <data name="cmdRun.Text" lastModified="2016-12-01 03:37:13">
-    <value xml:space="preserve">Voer nu uit</value>
+  <data name="cmdRun.Text" lastModified="2016-12-01 02:37:13">
+    <value xml:space="preserve">Nu uitvoeren</value>
   </data>
-  <data name="cmdSave.Text" lastModified="2016-12-01 03:37:13">
+  <data name="cmdSave.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Opslaan</value>
   </data>
-  <data name="cmdStart.Text" lastModified="2016-12-01 03:37:13">
+  <data name="cmdStart.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Start</value>
   </data>
-  <data name="cmdStop.Text" lastModified="2016-12-01 03:37:13">
+  <data name="cmdStop.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Stop</value>
   </data>
-  <data name="ContentOptions.Action" lastModified="2016-12-01 03:37:13">
+  <data name="ContentOptions.Action" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Bekijk Planning Status</value>
   </data>
-  <data name="ControlTitle_.Text" lastModified="2016-12-01 03:37:13">
+  <data name="ControlTitle_.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Planning</value>
   </data>
-  <data name="ControlTitle_edit.Text" lastModified="2016-12-01 03:37:13">
+  <data name="ControlTitle_edit.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Bewerk taak</value>
   </data>
-  <data name="ControlTitle_history.Text" lastModified="2016-12-01 03:37:13">
+  <data name="ControlTitle_history.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Taak Geschiedenis</value>
   </data>
-  <data name="ControlTitle_status.Text" lastModified="2016-12-01 03:37:13">
+  <data name="ControlTitle_status.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Planning Status</value>
   </data>
-  <data name="Day.Text" lastModified="2016-12-01 03:37:13">
+  <data name="Day.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Dag</value>
   </data>
-  <data name="DayPlural.Text" lastModified="2018-07-24 16:25:44">
+  <data name="DayPlural.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">dagen</value>
   </data>
-  <data name="Days.Text" lastModified="2016-12-01 03:37:13">
+  <data name="Days.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Dagen</value>
   </data>
-  <data name="DaySingular.Text" lastModified="2018-07-24 16:25:44">
+  <data name="DaySingular.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">dag</value>
   </data>
-  <data name="DeleteError.Text" lastModified="2016-12-01 03:37:13">
+  <data name="DeleteError.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Kan planning item niet verwijderen. Probeer later nog eens.</value>
   </data>
-  <data name="DeleteSuccess.Text" lastModified="2016-12-01 03:37:13">
+  <data name="DeleteSuccess.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Het plannning item is verwijderd.</value>
   </data>
-  <data name="Description.Header" lastModified="2016-12-01 03:37:13">
+  <data name="Description.Header" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Beschrijving</value>
   </data>
-  <data name="DescriptionColumn.Text" lastModified="2016-12-01 03:37:13">
+  <data name="DescriptionColumn.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">BESCHRIJVING</value>
   </data>
-  <data name="Disabled.Text" lastModified="2016-12-01 03:37:13">
+  <data name="Disabled.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Uitgeschakeld</value>
   </data>
-  <data name="DisabledMessage.Text" lastModified="2016-12-01 03:37:13">
+  <data name="DisabledMessage.Text" lastModified="2016-12-01 02:37:13">
     <value xml:space="preserve">Planner is momenteel uitgeschakeld.</value>
   </data>
-  <data name="Duration.Header" lastModified="2016-12-01 04:45:08">
+  <data name="Duration.Header" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">Duur (seconden)</value>
   </data>
-  <data name="DurationColumn.Text" lastModified="2016-12-01 04:45:08">
+  <data name="DurationColumn.Text" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">DUUR (SEC)</value>
   </data>
-  <data name="Enabled.Header" lastModified="2016-12-01 04:45:08">
+  <data name="Enabled.Header" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">INGESCHAKELD</value>
   </data>
-  <data name="Enabled.Label" lastModified="2016-12-01 04:45:08">
+  <data name="Enabled.Label" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">Ingeschakeld</value>
   </data>
-  <data name="Ended.Header" lastModified="2016-12-01 04:45:08">
+  <data name="Ended.Header" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">Beëindigd</value>
   </data>
-  <data name="Frequency.Header" lastModified="2016-12-01 04:45:08">
+  <data name="Frequency.Header" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">FREQUENTIE</value>
   </data>
-  <data name="History.Text" lastModified="2016-12-01 04:45:08">
+  <data name="History.Text" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">Weergave geschiedenis</value>
   </data>
-  <data name="HistoryModalTitle.Text" lastModified="2016-12-01 04:45:08">
+  <data name="HistoryModalTitle.Text" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">Taak Geschiedenis:</value>
   </data>
-  <data name="Hour.Text" lastModified="2016-12-01 04:45:08">
+  <data name="Hour.Text" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">Uur</value>
   </data>
-  <data name="HourPlural.Text" lastModified="2018-07-24 16:25:44">
+  <data name="HourPlural.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">uur</value>
   </data>
-  <data name="Hours.Text" lastModified="2016-12-01 04:45:08">
+  <data name="Hours.Text" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">Uren</value>
   </data>
-  <data name="HourSingular.Text" lastModified="2018-07-24 16:25:44">
+  <data name="HourSingular.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">uren</value>
   </data>
-  <data name="InvalidFrequencyAndRetry.Text" lastModified="2016-12-01 04:45:08">
+  <data name="InvalidFrequencyAndRetry.Text" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">De waarden voor frequentie en opnieuw proberen zijn ongeldig  als de de opnieuw proberen interval de frequentie interval overschrijdt.</value>
   </data>
-  <data name="lblActiveThreadsLabel.Text" lastModified="2016-12-01 04:45:08">
+  <data name="lblActiveThreadsLabel.Text" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">Actieve Threads:</value>
   </data>
-  <data name="lblCommand.Text" lastModified="2016-12-01 04:45:08">
+  <data name="lblCommand.Text" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">Opdracht:</value>
   </data>
-  <data name="lblFreeThreadsLabel.Text" lastModified="2016-12-01 04:45:08">
-    <value xml:space="preserve">Gratis Threads:</value>
+  <data name="lblFreeThreadsLabel.Text" lastModified="2016-12-01 03:45:08">
+    <value xml:space="preserve">Vrije Threads:</value>
   </data>
-  <data name="lblMaxThreadsLabel.Text" lastModified="2016-12-01 04:45:08">
-    <value xml:space="preserve">Maximaal aantal threads:</value>
+  <data name="lblMaxThreadsLabel.Text" lastModified="2016-12-01 03:45:08">
+    <value xml:space="preserve">Maximum aantal threads:</value>
   </data>
-  <data name="lblProcessing.Text" lastModified="2016-12-01 05:48:20">
+  <data name="lblProcessing.Text" lastModified="2016-12-01 04:48:20">
     <value xml:space="preserve">Items die verwerkt worden</value>
   </data>
-  <data name="lblQueue.Text" lastModified="2016-12-01 04:45:08">
+  <data name="lblQueue.Text" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">Items in de rij</value>
   </data>
-  <data name="lblStartDelay.Text" lastModified="2016-12-01 04:45:08">
-    <value xml:space="preserve">Planning Start Vertraging (mins):</value>
+  <data name="lblStartDelay.Text" lastModified="2016-12-01 03:45:08">
+    <value xml:space="preserve">Planning Start vertraging (min.):</value>
   </data>
-  <data name="lblStatusLabel.Text" lastModified="2016-12-01 04:45:08">
+  <data name="lblStatusLabel.Text" lastModified="2016-12-01 03:45:08">
     <value xml:space="preserve">Status:</value>
   </data>
-  <data name="LessThanMinute.Text" lastModified="2018-07-24 16:25:44">
+  <data name="LessThanMinute.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">minder dan een minuut</value>
   </data>
-  <data name="lnkHistory.Text" lastModified="2016-12-01 05:48:20">
+  <data name="lnkHistory.Text" lastModified="2016-12-01 04:48:20">
     <value xml:space="preserve">Geschiedenis</value>
   </data>
-  <data name="ManuallyStopped.Text" lastModified="2016-12-01 05:48:20">
+  <data name="ManuallyStopped.Text" lastModified="2016-12-01 04:48:20">
     <value xml:space="preserve">Handmatig gestopt vanuit planning status pagina</value>
   </data>
-  <data name="Minute.Text" lastModified="2016-12-01 05:48:20">
+  <data name="Minute.Text" lastModified="2016-12-01 04:48:20">
     <value xml:space="preserve">Minuut</value>
   </data>
-  <data name="MinutePlural.Text" lastModified="2018-07-24 16:25:44">
+  <data name="MinutePlural.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">minuten</value>
   </data>
-  <data name="Minutes.Text" lastModified="2016-12-01 05:48:20">
+  <data name="Minutes.Text" lastModified="2016-12-01 04:48:20">
     <value xml:space="preserve">Minuten</value>
   </data>
-  <data name="MinuteSingular.Text" lastModified="2018-07-24 16:25:44">
+  <data name="MinuteSingular.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">minuut</value>
   </data>
-  <data name="ModuleHelp.Text" lastModified="2016-12-01 05:48:20">
-    <value xml:space="preserve">&amp;amp;lt;h1&amp;amp;gt;Over Planning&amp;amp;lt;/h1&amp;amp;gt;&amp;amp;lt;p&amp;amp;gt;Staat u toe om te plannen om taken uit te voeren met specifieke intervallen.&amp;amp;lt;/p&amp;amp;gt;</value>
+  <data name="ModuleHelp.Text" lastModified="2016-12-01 04:48:20">
+    <value xml:space="preserve">&lt;h1&gt;Over Planning&lt;/h1&gt;&lt;p&gt;Staat u toe om te plannen om taken uit te voeren met specifieke intervallen.&lt;/p&gt;</value>
   </data>
-  <data name="Months.Text" lastModified="2016-12-01 05:48:20">
+  <data name="Months.Text" lastModified="2016-12-01 04:48:20">
     <value xml:space="preserve">Maanden</value>
   </data>
-  <data name="n/a.Text" lastModified="2018-07-24 16:25:44">
+  <data name="n/a.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">niet van toepassing</value>
   </data>
-  <data name="Name.Header" lastModified="2016-12-01 05:48:20">
-    <value xml:space="preserve">Taak Naam</value>
+  <data name="Name.Header" lastModified="2016-12-01 04:48:20">
+    <value xml:space="preserve">Taaknaam</value>
   </data>
-  <data name="nav_TaskScheduler.Text" lastModified="2016-12-01 05:48:20">
+  <data name="nav_TaskScheduler.Text" lastModified="2016-12-01 04:48:20">
     <value xml:space="preserve">Planner</value>
   </data>
-  <data name="NextStart.Header" lastModified="2016-12-01 05:48:20">
+  <data name="NextStart.Header" lastModified="2016-12-01 04:48:20">
     <value xml:space="preserve">Volgende Start</value>
   </data>
-  <data name="NextStart.Label" lastModified="2016-12-01 05:48:20">
+  <data name="NextStart.Label" lastModified="2016-12-01 04:48:20">
     <value xml:space="preserve">Volgende Start</value>
   </data>
-  <data name="No.Text" lastModified="2016-12-01 05:48:20">
+  <data name="No.Text" lastModified="2016-12-01 04:48:20">
     <value xml:space="preserve">Nee</value>
   </data>
-  <data name="None.Text" lastModified="2016-12-01 05:48:20">
+  <data name="None.Text" lastModified="2016-12-01 04:48:20">
     <value xml:space="preserve">Geen</value>
   </data>
-  <data name="NOT_SET.Text" lastModified="2016-12-01 05:48:20">
+  <data name="NOT_SET.Text" lastModified="2016-12-01 04:48:20">
     <value xml:space="preserve">Niet ingesteld</value>
   </data>
-  <data name="NoTasks.Text" lastModified="2016-12-01 05:48:20">
-    <value xml:space="preserve">Er zijn geen taken in de rij en er zijn geen taken die verwerkt worden.</value>
+  <data name="NoTasks.Text" lastModified="2016-12-01 04:48:20">
+    <value xml:space="preserve">Er staan geen taken in de wachtrij en er zijn geen taken die verwerkt worden.</value>
   </data>
-  <data name="NoTasksMessage.Text" lastModified="2018-07-24 16:25:44">
+  <data name="NoTasksMessage.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Wanneer u taken in de wachtrij of verwerking hebt staan, verschijnen ze hier.</value>
   </data>
-  <data name="Notes.Header" lastModified="2016-12-01 06:49:54">
+  <data name="Notes.Header" lastModified="2016-12-01 05:49:54">
     <value xml:space="preserve">Notities</value>
   </data>
-  <data name="ObjectDependencies.Header" lastModified="2016-12-01 06:49:54">
+  <data name="ObjectDependencies.Header" lastModified="2016-12-01 05:49:54">
     <value xml:space="preserve">Object afhankelijkheden:</value>
   </data>
-  <data name="Overdue.Header" lastModified="2016-12-01 06:49:54">
-    <value xml:space="preserve">Over tijd (seconden):</value>
+  <data name="Overdue.Header" lastModified="2016-12-01 05:49:54">
+    <value xml:space="preserve">Te laat (seconden):</value>
   </data>
-  <data name="pagerSummary.Text" lastModified="2016-12-01 06:49:54">
-    <value xml:space="preserve">Tonend {0}-{1} van {2} resultaten</value>
+  <data name="pagerSummary.Text" lastModified="2016-12-01 05:49:54">
+    <value xml:space="preserve">Toont {0} - {1} van {2} resultaten</value>
   </data>
-  <data name="pageSizeOption.Text" lastModified="2016-12-01 06:49:54">
+  <data name="pageSizeOption.Text" lastModified="2016-12-01 05:49:54">
     <value xml:space="preserve">{0} resultaten per pagina</value>
   </data>
-  <data name="plAttachToEvent.Help" lastModified="2016-12-01 08:30:12">
-    <value xml:space="preserve">Selecteer "Applicatie Start" om dit evenement uit te voeren als de web app start. Noot: evenementen die draaien op APPLICATION_END kunnen mogelijkerwijs niet betrouwbaar draaien op sommige hosts.</value>
+  <data name="plAttachToEvent.Help" lastModified="2016-12-01 07:30:12">
+    <value xml:space="preserve">Selecteer "Applicatie Start" om dit item uit te voeren als de web app start. Let op: items die draaien op APPLICATION_END kunnen mogelijkerwijs niet betrouwbaar draaien op sommige hosts.</value>
   </data>
-  <data name="plAttachToEvent.Text" lastModified="2016-12-01 08:30:12">
-    <value xml:space="preserve">Uitvoeren op Evenement</value>
+  <data name="plAttachToEvent.Text" lastModified="2016-12-01 07:30:12">
+    <value xml:space="preserve">Uitvoeren bij gebeurtenis</value>
   </data>
-  <data name="plCatchUpEnabled.Help" lastModified="2016-12-01 08:30:12">
-    <value xml:space="preserve">Vink dit vakje aan om dit evenement uit te voeren bij elke frequentie die gemist wordt tijdens elke server uitval.</value>
+  <data name="plCatchUpEnabled.Help" lastModified="2016-12-01 07:30:12">
+    <value xml:space="preserve">Vink dit vakje aan om dit item uit te voeren bij elke frequentie die gemist wordt tijdens elke server uitval.</value>
   </data>
-  <data name="plCatchUpEnabled.Text" lastModified="2016-12-01 08:30:12">
-    <value xml:space="preserve">Inhaal taken</value>
+  <data name="plCatchUpEnabled.Text" lastModified="2016-12-01 07:30:12">
+    <value xml:space="preserve">Gemiste taken inhalen</value>
   </data>
-  <data name="plEnabled.Help" lastModified="2016-12-01 08:30:12">
+  <data name="plEnabled.Help" lastModified="2016-12-01 07:30:12">
     <value xml:space="preserve">Vink dit vakje aan om de planning voor deze taak in te schakelen. </value>
   </data>
-  <data name="plEnabled.Text" lastModified="2016-12-01 08:30:12">
-    <value xml:space="preserve">Inschakelen Planning</value>
+  <data name="plEnabled.Text" lastModified="2016-12-01 07:30:12">
+    <value xml:space="preserve">Actief</value>
   </data>
-  <data name="plFriendlyName.Help" lastModified="2016-12-01 08:30:12">
+  <data name="plFriendlyName.Help" lastModified="2016-12-01 07:30:12">
     <value xml:space="preserve">Vul een naam in voor de geplande taak.</value>
   </data>
-  <data name="plFriendlyName.Text" lastModified="2016-12-01 08:30:12">
+  <data name="plFriendlyName.Text" lastModified="2016-12-01 07:30:12">
     <value xml:space="preserve">Vriendelijke naam</value>
   </data>
-  <data name="plObjectDependencies.Help" lastModified="2016-12-01 08:30:12">
-    <value xml:space="preserve">Vul de tabellen of andere objecten in waar dit evenement van afhangt. (Eg. Gebruikers, GebruikersOnline"</value>
+  <data name="plObjectDependencies.Help" lastModified="2016-12-01 07:30:12">
+    <value xml:space="preserve">Vul de tabellen of andere objecten in waar dit item van afhangt. (Eg. Gebruikers, GebruikersOnline"</value>
   </data>
-  <data name="plObjectDependencies.Text" lastModified="2016-12-01 08:30:12">
+  <data name="plObjectDependencies.Text" lastModified="2016-12-01 07:30:12">
     <value xml:space="preserve">Òbject afhankelijkheden</value>
   </data>
-  <data name="plRetainHistoryNum.Help" lastModified="2016-12-01 08:30:12">
+  <data name="plRetainHistoryNum.Help" lastModified="2016-12-01 07:30:12">
     <value xml:space="preserve">Selecteer het aantal items om te behouden in de planning geschiedenis.</value>
   </data>
-  <data name="plRetainHistoryNum.Text" lastModified="2016-12-01 08:30:12">
-    <value xml:space="preserve">Behoud Planning Geschiedenis</value>
+  <data name="plRetainHistoryNum.Text" lastModified="2016-12-01 07:30:12">
+    <value xml:space="preserve">Behoud planning geschiedenis items</value>
   </data>
-  <data name="plRetryTimeLapse.Help" lastModified="2016-12-01 09:44:09">
+  <data name="plRetryTimeLapse.Help" lastModified="2016-12-01 08:44:09">
     <value xml:space="preserve">Stel de tijd periode in om de taak opnieuw uit te voeren na een mislukking.</value>
   </data>
-  <data name="plRetryTimeLapse.Text" lastModified="2016-12-01 09:44:09">
-    <value xml:space="preserve">Opnieuw proberen Tijd Verloop</value>
+  <data name="plRetryTimeLapse.Text" lastModified="2016-12-01 08:44:09">
+    <value xml:space="preserve">Opnieuw proberen na</value>
   </data>
-  <data name="plScheduleAppStartDelay.Help" lastModified="2016-12-01 09:44:09">
+  <data name="plScheduleAppStartDelay.Help" lastModified="2016-12-01 08:44:09">
     <value xml:space="preserve">Aantal minuten dat het systeem zou moeten wachten voordat het ingeplande taken uitvoert na een herstart. Standaard is 1 min.</value>
   </data>
-  <data name="plScheduleAppStartDelay.Text" lastModified="2016-12-01 09:44:09">
-    <value xml:space="preserve">Planning Vertraging:</value>
+  <data name="plScheduleAppStartDelay.Text" lastModified="2016-12-01 08:44:09">
+    <value xml:space="preserve">Planning vertraging:</value>
   </data>
-  <data name="plSchedulerMode.Help" lastModified="2016-12-01 09:44:09">
+  <data name="plSchedulerMode.Help" lastModified="2016-12-01 08:44:09">
     <value xml:space="preserve">De Timer Methode onderhoudt een aparte thread om geplande taken uit te voeren terwijl dat het werkproces actief is.  Alternatief, de Aanvraag Methode voert taken uit wanneer HTTP Verzoeken worden gemaakt. U kunt ook de planner uitschakelen door Uitschakelen te selecteren.</value>
   </data>
-  <data name="plSchedulerMode.Text" lastModified="2016-12-01 09:44:09">
-    <value xml:space="preserve">Planner Modus:</value>
+  <data name="plSchedulerMode.Text" lastModified="2016-12-01 08:44:09">
+    <value xml:space="preserve">Planner methode:</value>
   </data>
-  <data name="plScheduleStartDate.Help" lastModified="2016-12-01 09:44:09">
+  <data name="plScheduleStartDate.Help" lastModified="2016-12-01 08:44:09">
     <value xml:space="preserve">Vul de startdatum/tijd in voor de geplande taak. Noot: als de server down is op de geplande tijd of andere taken draaien al, dan zal de taak worden uitgevoerd zodra de server weer online komt. </value>
   </data>
-  <data name="plScheduleStartDate.Text" lastModified="2016-12-01 09:44:09">
-    <value xml:space="preserve">Planning Start Datum/Tijd</value>
+  <data name="plScheduleStartDate.Text" lastModified="2016-12-01 08:44:09">
+    <value xml:space="preserve">Planning startdatum en tijd</value>
   </data>
-  <data name="plServers.Help" lastModified="2016-12-01 09:44:09">
+  <data name="plServers.Help" lastModified="2016-12-01 08:44:09">
     <value xml:space="preserve">Filter geplande taken door een enkele server of kies Alle om alle taken te bekijken.</value>
   </data>
-  <data name="plServers.Text" lastModified="2016-12-01 09:44:09">
-    <value xml:space="preserve">Server Naam:</value>
+  <data name="plServers.Text" lastModified="2016-12-01 08:44:09">
+    <value xml:space="preserve">Servernaam:</value>
   </data>
-  <data name="plTimeLapse.Help" lastModified="2016-12-01 11:09:26">
+  <data name="plTimeLapse.Help" lastModified="2016-12-01 10:09:26">
     <value xml:space="preserve">Stel de tijd periode in om te bepalen hoe frequent deze taak moet worden uitgevoerd.</value>
   </data>
-  <data name="plTimeLapse.Text" lastModified="2016-12-01 11:09:26">
+  <data name="plTimeLapse.Text" lastModified="2016-12-01 10:09:26">
     <value xml:space="preserve">Frequentie</value>
   </data>
-  <data name="plType.Help" lastModified="2016-12-01 11:09:26">
+  <data name="plType.Help" lastModified="2016-12-01 10:09:26">
     <value xml:space="preserve">Dit is de volledige klas naam gevolgd door de verzamelingsnaam. Eg. "DotNetNuke.Entities.Users.PurgeUsersOnline,DOTNETNUKE"</value>
   </data>
-  <data name="plType.Text" lastModified="2016-12-01 11:09:26">
-    <value xml:space="preserve">Volledige klas Naam en Verzameling</value>
+  <data name="plType.Text" lastModified="2016-12-01 10:09:26">
+    <value xml:space="preserve">Volledige Classname en Assembly</value>
   </data>
-  <data name="processing.Text" lastModified="2016-12-01 11:09:26">
-    <value xml:space="preserve">Verwerkend...</value>
+  <data name="processing.Text" lastModified="2016-12-01 10:09:26">
+    <value xml:space="preserve">Bezig...</value>
   </data>
-  <data name="Prompt_FetchTaskFailed.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_FetchTaskFailed.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Fout bij ophalen van de taakdetails. Gelieve het logboek te raadplegen voor meer details.</value>
   </data>
-  <data name="Prompt_FlagCantBeEmpty.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_FlagCantBeEmpty.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Indien opgegeven, kan de markering --{0} niet leeg zijn.\n</value>
   </data>
-  <data name="Prompt_FlagMustBeNumber.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_FlagMustBeNumber.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Indien opgegeven, moet de markering --{0} een nummer zijn.\n</value>
   </data>
-  <data name="Prompt_FlagMustBeTrueFalse.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_FlagMustBeTrueFalse.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Indien opgegeven, moet de markering --{0} Waar of Onwaar zijn.\n</value>
   </data>
-  <data name="Prompt_FlagRequired.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_FlagRequired.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">De --{0} markering is vereist.\n</value>
   </data>
-  <data name="Prompt_GetTask_Description.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_GetTask_Description.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Haalt details op voor de opgegeven Scheduler-taak. DNN verwijst naar deze als planningen of scheduler-items. Prompt verwijst naar hen als taken.</value>
   </data>
-  <data name="Prompt_GetTask_FlagId.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_GetTask_FlagId.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Het Schedule-id voor het item dat u wilt ophalen. Als u het ID doorgeeft als de eerste waarde achter de opdrachtnaam, hoeft u niet expliciet de vlag naam &lt;span class ="mono" --id&lt;/span&gt; te gebruiken.</value>
   </data>
-  <data name="Prompt_GetTask_ResultHtml.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_GetTask_ResultHtml.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">&lt;h4&gt;Verkrijg een taak&lt;/h4&gt;
   &lt;code class="block"&gt;
     get-task 11
@@ -378,16 +378,16 @@
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_ListTasks_Description.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_ListTasks_Description.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Hiermee wordt een lijst met geplande taken opgehaald op basis van de opgegeven criteria. DNN verwijst naar deze als planningen of scheduler-items. Prompt verwijst naar hen als taken.</value>
   </data>
-  <data name="Prompt_ListTasks_FlagEnabled.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_ListTasks_FlagEnabled.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Indien opgegeven, worden in Prompt taken geretourneerd die zijn ingeschakeld (als deze markering is ingesteld op true) of uitgeschakeld (als deze is ingesteld op false). Als deze vlag niet is opgegeven, retourneert Prompt taken ongeacht de ingeschakelde status.</value>
   </data>
-  <data name="Prompt_ListTasks_FlagName.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_ListTasks_FlagName.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Indien opgegeven, retourneert Prompt taken waarvan de beschrijvende naam overeenkomt met de uitdrukking. Dit ondersteunt het matchen van jokertekens via de asterisk (&lt;span class="mono"&gt;*&lt;/ span&gt;) om nul (0) of meer tekens te vertegenwoordigen.</value>
   </data>
-  <data name="Prompt_ListTasks_ResultHtml.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_ListTasks_ResultHtml.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">&lt;h4&gt;Maak een lijst van alle taken&lt;/h4&gt;
   &lt;code class="block"&gt;
     list-tasks
@@ -603,16 +603,22 @@
     &lt;/tbody&gt;
   &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_SetTask_Description.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_ScheduleFlagRequired.Text">
+    <value xml:space="preserve">You must specify the scheduled item's ID using the --{0} flag or by passing the number as the first argument.\n</value>
+  </data>
+  <data name="Prompt_SchedulerCategory.Text">
+    <value xml:space="preserve">Planner commando's</value>
+  </data>
+  <data name="Prompt_SetTask_Description.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Eigenschappen voor de opgegeven geplande taak instellen of bijwerken.</value>
   </data>
-  <data name="Prompt_SetTask_FlagEnabled.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_SetTask_FlagEnabled.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Als deze waar is, wordt de opgegeven taak ingeschakeld. Wanneer deze onwaar is, wordt de opgegeven taak uitgeschakeld.</value>
   </data>
-  <data name="Prompt_SetTask_FlagId.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_SetTask_FlagId.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">De Schedule-id van de taak die u wilt bijwerken. U kunt voorkomen dat u de &lt;span class="mono"&gt;--id&lt;/span&gt; -markering expliciet invoegt door de Schedule-ID als het eerste argument door te geven.</value>
   </data>
-  <data name="Prompt_SetTask_ResultHtml.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_SetTask_ResultHtml.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">&lt;h4&gt;Schakel de &amp;quot;Purge Schedule History&amp;quot; taak uit&lt;/h4&gt;
   &lt;code class="block"&gt;
     set-task 3 --enabled false
@@ -671,211 +677,214 @@
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_TaskAlreadyDisabled.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_TaskAlreadyDisabled.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Taak is al uitgeschakeld.</value>
   </data>
-  <data name="Prompt_TaskAlreadyEnabled.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_TaskAlreadyEnabled.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Taak is al ingeschakeld.</value>
   </data>
-  <data name="Prompt_TaskNotFound.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_TaskFound.Text">
+    <value xml:space="preserve">Taak {0} is gevonden.</value>
+  </data>
+  <data name="Prompt_TaskNotFound.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Geen taak gevonden met id {0},</value>
   </data>
-  <data name="Prompt_TasksFound.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_TasksFound.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">{0} taken gevonden.</value>
   </data>
-  <data name="Prompt_TaskUpdated.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_TaskUpdated.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Taak met succes bijgewerkt.</value>
   </data>
-  <data name="Prompt_TaskUpdateFailed.Text" lastModified="2018-07-24 16:25:44">
+  <data name="Prompt_TaskUpdateFailed.Text" lastModified="2018-07-24 14:25:44">
     <value xml:space="preserve">Taak bijwerken mislukt.</value>
   </data>
-  <data name="RanOnServerColumn.Text" lastModified="2016-12-01 11:09:26">
-    <value xml:space="preserve">DRAAIEND OP SERVER</value>
+  <data name="RanOnServerColumn.Text" lastModified="2016-12-01 10:09:26">
+    <value xml:space="preserve">SERVER</value>
   </data>
-  <data name="RequestMethod.Text" lastModified="2016-12-01 11:09:26">
+  <data name="RequestMethod.Text" lastModified="2016-12-01 10:09:26">
     <value xml:space="preserve">Verzoek methode</value>
   </data>
-  <data name="RetryTimeLapse.Header" lastModified="2016-12-01 11:09:26">
-    <value xml:space="preserve">PROBEER TIJD VERLOOP OPNIEUW</value>
+  <data name="RetryTimeLapse.Header" lastModified="2016-12-01 10:09:26">
+    <value xml:space="preserve">OPNIEUW PROBEREN</value>
   </data>
-  <data name="RetryTimeLapseValidator.ErrorMessage" lastModified="2016-12-01 11:09:26">
+  <data name="RetryTimeLapseValidator.ErrorMessage" lastModified="2016-12-01 10:09:26">
     <value xml:space="preserve">Probeer opnieuw frequency bereik tussen 1 en 999999.</value>
   </data>
-  <data name="RUNNING_EVENT_SCHEDULE.Text" lastModified="2016-12-01 11:09:26">
-    <value xml:space="preserve">UITVOEREN EVENEMENT PLANNING</value>
+  <data name="RUNNING_EVENT_SCHEDULE.Text" lastModified="2016-12-01 10:09:26">
+    <value xml:space="preserve">UITVOEREN GEBEURTENIS PLANNING</value>
   </data>
-  <data name="RUNNING_REQUEST_SCHEDULE.Text" lastModified="2016-12-01 11:09:26">
+  <data name="RUNNING_REQUEST_SCHEDULE.Text" lastModified="2016-12-01 10:09:26">
     <value xml:space="preserve">UITVOEREN VERZOEK PLANNING</value>
   </data>
-  <data name="RUNNING_TIMER_SCHEDULE.Text" lastModified="2016-12-01 11:09:26">
-    <value xml:space="preserve">UITVOEREN TIMER PLANNER</value>
+  <data name="RUNNING_TIMER_SCHEDULE.Text" lastModified="2016-12-01 10:09:26">
+    <value xml:space="preserve">UITVOEREN TIMER PLANNING</value>
   </data>
-  <data name="RunNow.Text" lastModified="2016-12-01 12:16:54">
+  <data name="RunNow.Text" lastModified="2016-12-01 11:16:54">
     <value xml:space="preserve">Item toegevoegd aan planning voor directe uitvoering.</value>
   </data>
-  <data name="RunNowError.Text" lastModified="2016-12-01 12:16:54">
+  <data name="RunNowError.Text" lastModified="2016-12-01 11:16:54">
     <value xml:space="preserve">Kan item niet toevoegen aan planning. Probeer later nog eens.</value>
   </data>
-  <data name="ScheduleAppStartDelayValidation.Text" lastModified="2016-12-01 12:16:54">
+  <data name="ScheduleAppStartDelayValidation.Text" lastModified="2016-12-01 11:16:54">
     <value xml:space="preserve">Waarde moet in minuten zijn.</value>
   </data>
-  <data name="ScheduleHistory.Action" lastModified="2016-12-01 12:16:54">
+  <data name="ScheduleHistory.Action" lastModified="2016-12-01 11:16:54">
     <value xml:space="preserve">Bekijk Planning Geschiedenis</value>
   </data>
-  <data name="ScheduleID.Header" lastModified="2016-12-01 12:16:54">
+  <data name="ScheduleID.Header" lastModified="2016-12-01 11:16:54">
     <value xml:space="preserve">ID:</value>
   </data>
-  <data name="ScheduleItemCreateError.Text" lastModified="2016-12-01 12:16:54">
+  <data name="ScheduleItemCreateError.Text" lastModified="2016-12-01 11:16:54">
     <value xml:space="preserve">Kan planning item niet maken.Probeer later nog eens.</value>
   </data>
-  <data name="ScheduleItemCreateSuccess.Text" lastModified="2016-12-01 12:16:54">
+  <data name="ScheduleItemCreateSuccess.Text" lastModified="2016-12-01 11:16:54">
     <value xml:space="preserve">Planning item succesvol gemaakt.</value>
   </data>
-  <data name="ScheduleItemDeletedWarning.Text" lastModified="2016-12-01 12:16:54">
+  <data name="ScheduleItemDeletedWarning.Text" lastModified="2016-12-01 11:16:54">
     <value xml:space="preserve">Weet u zeker dat u het geplande item wilt verwijderen?</value>
   </data>
-  <data name="ScheduleItemUpdateError.Text" lastModified="2016-12-01 12:16:54">
+  <data name="ScheduleItemUpdateError.Text" lastModified="2016-12-01 11:16:54">
     <value xml:space="preserve">Kan gepland item niet updaten. Probeer later nog eens.</value>
   </data>
-  <data name="ScheduleItemUpdateSuccess.Text" lastModified="2016-12-01 12:16:54">
+  <data name="ScheduleItemUpdateSuccess.Text" lastModified="2016-12-01 11:16:54">
     <value xml:space="preserve">Gepland item updaten succesvol.</value>
   </data>
-  <data name="SchedulerStartError.Text" lastModified="2016-12-01 12:16:54">
+  <data name="SchedulerStartError.Text" lastModified="2016-12-01 11:16:54">
     <value xml:space="preserve">Kan planner niet starten. Probeer later nog eens.</value>
   </data>
-  <data name="SchedulerStartSuccess.Text" lastModified="2016-12-01 12:16:54">
+  <data name="SchedulerStartSuccess.Text" lastModified="2016-12-01 11:16:54">
     <value xml:space="preserve">Planner succesvol gestart.</value>
   </data>
-  <data name="SchedulerStopError.Text" lastModified="2016-12-01 13:18:55">
+  <data name="SchedulerStopError.Text" lastModified="2016-12-01 12:18:55">
     <value xml:space="preserve">Kon planner niet stoppen. Probeer later nog eens.</value>
   </data>
-  <data name="SchedulerStopSuccess.Text" lastModified="2016-12-01 13:18:55">
+  <data name="SchedulerStopSuccess.Text" lastModified="2016-12-01 12:18:55">
     <value xml:space="preserve">Planner succesvol gestopt. </value>
   </data>
-  <data name="SchedulerUpdateError.Text" lastModified="2016-12-01 13:18:55">
+  <data name="SchedulerUpdateError.Text" lastModified="2016-12-01 12:18:55">
     <value xml:space="preserve">Kon planning instellingen niet updaten. Probeer later nog eens.</value>
   </data>
-  <data name="SchedulerUpdateSuccess.Text" lastModified="2016-12-01 13:18:55">
+  <data name="SchedulerUpdateSuccess.Text" lastModified="2016-12-01 12:18:55">
     <value xml:space="preserve">Planner instellingen succesvol ge-update.</value>
   </data>
-  <data name="Seconds.Text" lastModified="2016-12-01 13:18:55">
+  <data name="Seconds.Text" lastModified="2016-12-01 12:18:55">
     <value xml:space="preserve">Seconden</value>
   </data>
-  <data name="Server.Header" lastModified="2016-12-01 13:18:55">
+  <data name="Server.Header" lastModified="2016-12-01 12:18:55">
     <value xml:space="preserve">Draaiend op Server</value>
   </data>
-  <data name="Servers.Header" lastModified="2016-12-01 13:18:55">
+  <data name="Servers.Header" lastModified="2016-12-01 12:18:55">
     <value xml:space="preserve">Servers:</value>
   </data>
   <data name="Servers.Text">
     <value xml:space="preserve">Servers</value>
   </data>
-  <data name="ServerTime.Text" lastModified="2016-12-01 14:24:06">
+  <data name="ServerTime.Text" lastModified="2016-12-01 13:24:06">
     <value xml:space="preserve">Server Tijd:</value>
   </data>
-  <data name="Settings.Text" lastModified="2016-12-01 14:24:06">
+  <data name="Settings.Text" lastModified="2016-12-01 13:24:06">
     <value xml:space="preserve">Instellingen</value>
   </data>
-  <data name="SettingsRestoreWarning.Text" lastModified="2016-12-01 14:24:06">
+  <data name="SettingsRestoreWarning.Text" lastModified="2016-12-01 13:24:06">
     <value xml:space="preserve">Weet u zeker dat u uw wijzigingen wilt annuleren?</value>
   </data>
-  <data name="SHUTTING_DOWN.Text" lastModified="2016-12-01 14:24:06">
+  <data name="SHUTTING_DOWN.Text" lastModified="2016-12-01 13:24:06">
     <value xml:space="preserve">AFSLUITEN</value>
   </data>
-  <data name="Start.Header" lastModified="2016-12-01 14:24:06">
+  <data name="Start.Header" lastModified="2016-12-01 13:24:06">
     <value xml:space="preserve">Start/Einde/Volgende</value>
   </data>
-  <data name="Start/End/Next Start.Header" lastModified="2016-12-01 14:24:06">
-    <value xml:space="preserve">Start/Einde/Volgende Start</value>
+  <data name="Start/End/Next Start.Header" lastModified="2016-12-01 13:24:06">
+    <value xml:space="preserve">Start/Einde/Volgende start</value>
   </data>
-  <data name="Started.Header" lastModified="2016-12-01 14:24:06">
+  <data name="Started.Header" lastModified="2016-12-01 13:24:06">
     <value xml:space="preserve">Gestart</value>
   </data>
-  <data name="StartEndColumn.Text" lastModified="2016-12-01 14:24:06">
+  <data name="StartEndColumn.Text" lastModified="2016-12-01 13:24:06">
     <value xml:space="preserve">START/EINDE</value>
   </data>
-  <data name="StartSchedule.Text" lastModified="2016-12-01 14:24:06">
-    <value xml:space="preserve">Start planning</value>
+  <data name="StartSchedule.Text" lastModified="2016-12-01 13:24:06">
+    <value xml:space="preserve">Start planner</value>
   </data>
-  <data name="Status.Text" lastModified="2016-12-01 14:24:06">
+  <data name="Status.Text" lastModified="2016-12-01 13:24:06">
     <value xml:space="preserve">Bekijk status</value>
   </data>
-  <data name="Stop.Header" lastModified="2016-12-01 14:24:06">
+  <data name="Stop.Header" lastModified="2016-12-01 13:24:06">
     <value xml:space="preserve">Stoppen</value>
   </data>
-  <data name="STOPPED.Text" lastModified="2016-12-01 14:24:06">
+  <data name="STOPPED.Text" lastModified="2016-12-01 13:24:06">
     <value xml:space="preserve">GESTOPT</value>
   </data>
-  <data name="StopSchedule.Text" lastModified="2016-12-01 14:24:06">
-    <value xml:space="preserve">Stop Planning</value>
+  <data name="StopSchedule.Text" lastModified="2016-12-01 13:24:06">
+    <value xml:space="preserve">Stop planner</value>
   </data>
-  <data name="Succeeded.Header" lastModified="2016-12-01 14:24:06">
+  <data name="Succeeded.Header" lastModified="2016-12-01 13:24:06">
     <value xml:space="preserve">Geslaagd</value>
   </data>
-  <data name="SucceededColumn.Text" lastModified="2016-12-01 14:24:06">
+  <data name="SucceededColumn.Text" lastModified="2016-12-01 13:24:06">
     <value xml:space="preserve">GESLAAGD</value>
   </data>
-  <data name="TabHistory.Text" lastModified="2016-12-01 14:24:06">
+  <data name="TabHistory.Text" lastModified="2016-12-01 13:24:06">
     <value xml:space="preserve">GESCHIEDENIS</value>
   </data>
-  <data name="TabHistoryTitle.Text" lastModified="2016-12-01 14:24:06">
+  <data name="TabHistoryTitle.Text" lastModified="2016-12-01 13:24:06">
     <value xml:space="preserve">Planning Geschiedenis</value>
   </data>
-  <data name="TabScheduler.Text" lastModified="2016-12-01 15:27:39">
+  <data name="TabScheduler.Text" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">PLANNER</value>
   </data>
-  <data name="TabTaskQueue.Text" lastModified="2016-12-01 15:27:39">
+  <data name="TabTaskQueue.Text" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">TAAK RIJ</value>
   </data>
-  <data name="Thread.Header" lastModified="2016-12-01 15:27:39">
+  <data name="Thread.Header" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">Thread:</value>
   </data>
-  <data name="TimeLapsePrefix.Text" lastModified="2016-12-01 15:27:39">
+  <data name="TimeLapsePrefix.Text" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">Elke:</value>
   </data>
-  <data name="TimeLapseRequired.ErrorMessage" lastModified="2016-12-01 15:27:39">
+  <data name="TimeLapseRequired.ErrorMessage" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">U moet de frequentie waarde instellen tussen 1 en 999999.</value>
   </data>
-  <data name="TimeLapseValidator.ErrorMessage" lastModified="2016-12-01 15:27:39">
+  <data name="TimeLapseValidator.ErrorMessage" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">Frequentie bereik is tussen 1 en 999999.</value>
   </data>
-  <data name="TimeRemaining.Header" lastModified="2016-12-01 15:27:39">
+  <data name="TimeRemaining.Header" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">Tijd resterend (seconden):</value>
   </data>
-  <data name="TimerMethod.Text" lastModified="2016-12-01 15:27:39">
+  <data name="TimerMethod.Text" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">Timer Methode</value>
   </data>
-  <data name="TriggeredBy.Header" lastModified="2016-12-01 15:27:39">
+  <data name="TriggeredBy.Header" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">Veroorzaakt door:</value>
   </data>
-  <data name="Type.Header" lastModified="2016-12-01 15:27:39">
+  <data name="Type.Header" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">Type</value>
   </data>
-  <data name="TypeRequired.Text" lastModified="2016-12-01 15:27:39">
+  <data name="TypeRequired.Text" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">Het type planning item is vereist.</value>
   </data>
-  <data name="Update.Text" lastModified="2016-12-01 15:27:39">
-    <value xml:space="preserve">Updaten</value>
+  <data name="Update.Text" lastModified="2016-12-01 14:27:39">
+    <value xml:space="preserve">Bijwerken</value>
   </data>
-  <data name="UpdateSuccess.Text" lastModified="2016-12-01 15:27:39">
+  <data name="UpdateSuccess.Text" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">Uw wijzigingen zijn opgeslagen.</value>
   </data>
-  <data name="ViewLog.Header" lastModified="2016-12-01 15:27:39">
+  <data name="ViewLog.Header" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">Log</value>
   </data>
-  <data name="WAITING_FOR_OPEN_THREAD.Text" lastModified="2016-12-01 15:27:39">
+  <data name="WAITING_FOR_OPEN_THREAD.Text" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">WACHTEND OP OPEN THREAD</value>
   </data>
-  <data name="WAITING_FOR_REQUEST.Text" lastModified="2016-12-01 15:27:39">
+  <data name="WAITING_FOR_REQUEST.Text" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">WACHTEND OP VERZOEK</value>
   </data>
-  <data name="Weeks.Text" lastModified="2016-12-01 15:27:39">
+  <data name="Weeks.Text" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">Weken</value>
   </data>
-  <data name="Years.Text" lastModified="2016-12-01 15:27:39">
+  <data name="Years.Text" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">Jaren</value>
   </data>
-  <data name="Yes.Text" lastModified="2016-12-01 15:27:39">
+  <data name="Yes.Text" lastModified="2016-12-01 14:27:39">
     <value xml:space="preserve">Ja</value>
   </data>
 </root>

@@ -12,11 +12,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="LocalizedTemplateName.Text" lastModified="2018-07-24 11:37:36">
+  <data name="LocalizedTemplateName.Text" lastModified="2018-07-23 21:37:36">
     <value xml:space="preserve">Standaard Website</value>
   </data>
   <data name="PortalDescription.Text">
-    <value xml:space="preserve">Standaard Website Template</value>
+    <value xml:space="preserve">Standaard Website sjabloon</value>
   </data>
   <data name="RoleGroup.Description.Text">
     <value xml:space="preserve">Een dummy rolgroep die de globale rollen vertegenwoordigd</value>
@@ -25,28 +25,28 @@
     <value xml:space="preserve">nl-NL</value>
   </data>
   <data name="Setting.FooterText.Text">
-    <value xml:space="preserve">Copyright [year] DNN Corp</value>
+    <value xml:space="preserve">Copyright [year]</value>
   </data>
-  <data name="Tab.404ErrorPage..Module.Content.Text">
-    <value xml:space="preserve">Sorry, De gevraaagde pagina kan niet worden gevonden en kan zijn verwijderd, is hernoemd, of is tijdelijk niet beschikbaar. U kunt het vanaf de Home pagina opnieuw proberen.  Neem contact met ons op als dit probleem blijft aanhouden.</value>
+  <data name="Tab.404ErrorPage..Module.Content.Text" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">Helaas, de pagina waar u naar zocht is op dit moment niet beschikbaar. Ga naar de home pagina en probeer het opnieuw. Of neem contact met ons op als u niet kunt vinden wat u zoekt.</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Title.Text">
-    <value xml:space="preserve">De gevraagde pagina kan niet worden gevonden</value>
+    <value xml:space="preserve">De pagina kan niet worden gevonden.</value>
   </data>
   <data name="Tab.404ErrorPage.Content.Text">
-    <value xml:space="preserve">404 Error Pagina</value>
+    <value xml:space="preserve">404 Fout pagina</value>
   </data>
-  <data name="Tab.404ErrorPage.Title.Text">
-    <value xml:space="preserve">404 Error Pagina</value>
+  <data name="Tab.404ErrorPage.Title.Text" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">404 Fout: pagina niet gevonden</value>
   </data>
-  <data name="Tab.ActivityFeed.CenterPane.JournalModule.Title.Text">
-    <value xml:space="preserve">Dagboek</value>
+  <data name="Tab.ActivityFeed.CenterPane.JournalModule.Title.Text" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">Journaal</value>
   </data>
   <data name="Tab.ActivityFeed.CenterPane.ProfileModule.Title.Text">
     <value xml:space="preserve">Bekijk profiel</value>
   </data>
   <data name="Tab.ActivityFeed.Content.Text">
-    <value xml:space="preserve">Activiteitentoevoer</value>
+    <value xml:space="preserve">Activiteiten</value>
   </data>
   <data name="Tab.ActivityFeed.FooterCenterPane.Module.Content.0.Text">
     <value xml:space="preserve">Geschiedenis</value>
@@ -60,77 +60,81 @@
   <data name="Tab.ActivityFeed.FooterCenterPane.Module.Title.Text">
     <value xml:space="preserve">Bedrijf</value>
   </data>
-  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.0.Text" lastModified="2018-07-24 11:37:36">
+  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.0.Text" lastModified="2018-07-23 21:37:36">
     <value xml:space="preserve">Berg</value>
   </data>
-  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.1.Text">
-    <value xml:space="preserve">Gravity</value>
+  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.1.Text" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">Zwaartekracht</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.2.Text">
     <value xml:space="preserve">Weg</value>
   </data>
-  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.3.Text" lastModified="2018-07-24 11:37:36">
+  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.3.Text" lastModified="2018-07-23 21:37:36">
     <value xml:space="preserve">Stad</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.4.Text">
     <value xml:space="preserve">Junior</value>
   </data>
-  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.5.Text" lastModified="2018-07-24 11:37:36">
-    <value xml:space="preserve">Zandweg/ Straat</value>
+  <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Content.5.Text" lastModified="2020-05-10 05:36:12">
+    <value xml:space="preserve">Straat</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftOuterPane.Module.Title.Text">
     <value xml:space="preserve">Producten</value>
   </data>
-  <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.0.Text">
-    <value xml:space="preserve">FAQ</value>
+  <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.0.Text" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">Veelgestelde vragen</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.1.Text">
-    <value xml:space="preserve">Fiets handleidingen</value>
+    <value xml:space="preserve">Fietshandleidingen</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.2.Text">
-    <value xml:space="preserve">Product Catalogi</value>
+    <value xml:space="preserve">Productcatalogi</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.3.Text">
-    <value xml:space="preserve">Product Archief</value>
+    <value xml:space="preserve">Productarchief</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.4.Text">
-    <value xml:space="preserve">Product ondersteuning</value>
+    <value xml:space="preserve">Productondersteuning</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.5.Text">
-    <value xml:space="preserve">Fiets garantie</value>
+    <value xml:space="preserve">Fietsgarantie</value>
   </data>
   <data name="Tab.ActivityFeed.FooterLeftPane.Module.Content.6.Text">
     <value xml:space="preserve">Nieuwsbrief</value>
   </data>
-  <data name="Tab.ActivityFeed.FooterLeftPane.Module.Title.Text">
-    <value xml:space="preserve">Klanten Support</value>
+  <data name="Tab.ActivityFeed.FooterLeftPane.Module.Title.Text" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">Klantondersteuning</value>
   </data>
   <data name="Tab.ActivityFeed.FooterRightOuterPane.Module.Title.Text">
     <value xml:space="preserve">Verbind</value>
   </data>
-  <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.0.Text">
-    <value xml:space="preserve">Awesome Cycles, Inc.</value>
+  <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.0.Text" lastModified="2020-05-10 09:44:27">
+    <value xml:space="preserve">De Voorbeeld Organisatie B.V.</value>
   </data>
-  <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.1.Text" lastModified="2015-12-31 09:51:42">
-    <value xml:space="preserve">3457 W. Somewhere Street.</value>
+  <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.1.Text" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">
+Zomaareenstraat 123
+1234 AA EENSTAD</value>
   </data>
-  <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.2.Text" lastModified="2015-12-31 09:51:42">
-    <value xml:space="preserve">Phone: (555) 555-4563</value>
+  <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.2.Text" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">
+Telefoon: 012-3456789</value>
   </data>
-  <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.3.Text" lastModified="2015-12-31 09:51:42">
-    <value xml:space="preserve">Fax: (555) 555-4564</value>
+  <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.3.Text" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">
+Fax: 012-1234567</value>
   </data>
-  <data name="Tab.ActivityFeed.FooterRightPane.Module.Title.Text">
-    <value xml:space="preserve">Contact ons</value>
+  <data name="Tab.ActivityFeed.FooterRightPane.Module.Title.Text" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">Neem contact op</value>
   </data>
   <data name="Tab.ActivityFeed.Name.Text">
     <value xml:space="preserve">Activiteitentoevoer</value>
   </data>
   <data name="Tab.ActivityFeed.RightPane.Module.Title.Text">
-    <value xml:space="preserve"> Ledenlijst</value>
+    <value xml:space="preserve">Ledenlijst</value>
   </data>
-  <data name="Tab.ActivityFeed.Title.Text">
-    <value xml:space="preserve">Activiteitentoevoer</value>
+  <data name="Tab.ActivityFeed.Title.Text" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">Activiteitenoverzicht</value>
   </data>
   <data name="Tab.AdvancedSettings.ContentPane.Module.Title.Text">
     <value xml:space="preserve">Geavanceerde configuratie instellingen</value>
@@ -159,13 +163,13 @@
   <data name="Tab.ContentStaging.Name.Text">
     <value xml:space="preserve">Inhoud overbrengen</value>
   </data>
-  <data name="Tab.DCCManager.Description.Text" lastModified="2015-12-31 09:51:42">
+  <data name="Tab.DCCManager.Description.Text" lastModified="2015-12-31 02:51:42">
     <value xml:space="preserve">Beheer de Dynamische content types voor je website</value>
   </data>
-  <data name="Tab.DCCmanager.Name.Text" lastModified="2015-12-31 09:51:42">
+  <data name="Tab.DCCmanager.Name.Text" lastModified="2015-12-31 02:51:42">
     <value xml:space="preserve">Dynamische content type beheerder</value>
   </data>
-  <data name="Tab.DCCManager.Title.Text" lastModified="2015-12-31 09:51:42">
+  <data name="Tab.DCCManager.Title.Text" lastModified="2015-12-31 02:51:42">
     <value xml:space="preserve">Dynamische content type beheerder</value>
   </data>
   <data name="Tab.DevicePreview.Content.Text">
@@ -187,7 +191,7 @@
     <value xml:space="preserve">Bestandsbeheer</value>
   </data>
   <data name="Tab.DigitalAssetsManagement.Description.Text">
-    <value xml:space="preserve">Beheer assets binnen het portaal.</value>
+    <value xml:space="preserve">Beheer bestanden binnen het portaal.</value>
   </data>
   <data name="Tab.DigitalAssetsManagement.Name.Text">
     <value xml:space="preserve">Bestandsbeheer</value>
@@ -201,7 +205,7 @@
   <data name="Tab.Extensions.ContentPane.Module.Title.Text">
     <value xml:space="preserve">Extensies</value>
   </data>
-  <data name="Tab.Extensions.Description.Text" lastModified="2015-12-31 09:51:42">
+  <data name="Tab.Extensions.Description.Text" lastModified="2015-12-31 02:51:42">
     <value xml:space="preserve">Installeren, toevoegen, bewerken en verwijderen van extenties, zoals modules, thema's en taalpakketten.</value>
   </data>
   <data name="Tab.Extensions.Name.Text">
@@ -227,16 +231,16 @@
     <value xml:space="preserve">Google Analytics</value>
   </data>
   <data name="Tab.Home.CompanyIntro.Text">
-    <value xml:space="preserve">DNN (Voorheen DotNetNuke) biedt een pakket van oplossingen voor het creëren van rijke, belonende online ervaringen voor klanten, partners en medewerkers. DNN producten en technologie zijn de fundering voor meer als 750.000 websites wereldwijd. In de lijn van onze commerciele CMS en Social community oplossingen. DNN is de ondersteuner van het DotNetNuke open source project.</value>
+    <value xml:space="preserve">DNN (Voorheen DotNetNuke) biedt een pakket van oplossingen voor het creëren van rijke, belonende online ervaringen voor klanten, partners en medewerkers. DNN producten en technologie zijn de fundering voor meer als 750.000 websites wereldwijd.</value>
   </data>
-  <data name="Tab.Home.Header.Content">
-    <value xml:space="preserve">DNN&lt;sup&gt;&amp;reg;&lt;/sup&gt;maakt de installatie en het gebruik makkelijk voor jou.&lt;sup&gt;&amp;reg;&lt;/sup&gt;We hebben meerdere opties om aan te sluiten bij uw behoefte, Of u het CMS nu wilt proberen in de Cloud, of wilt installeren op uw eigen server of op uw lokale computer voor ontwikkeling. U bent slechts een klik verwijderd van uw start met DNN&lt;sup&gt;&amp;reg;&lt;/sup&gt;.</value>
+  <data name="Tab.Home.Header.Content" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">DNN&lt;sup&gt;&amp;reg;&lt;/sup&gt; maakt installatie en gebruik makkelijk. Er zijn meerdere opties om aan te sluiten bij uw website behoefte, Of u het CMS nu wilt proberen in de Cloud, of wilt installeren op uw eigen server of op uw lokale computer voor ontwikkeling. U bent slechts één klik verwijderd van uw start met DNN&lt;sup&gt;&amp;reg;&lt;/sup&gt;.</value>
   </data>
   <data name="Tab.Home.Header.Title">
     <value xml:space="preserve">Elke tocht begint met de eerste stap</value>
   </data>
   <data name="Tab.Home.Main.Blog.Link">
-    <value xml:space="preserve">http://www.dnnsoftware.com/community-blog?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=blog&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://dnncommunity.org/blogs</value>
   </data>
   <data name="Tab.Home.Main.Blog.SubLink.Text">
     <value xml:space="preserve">Lees het Community blog</value>
@@ -247,8 +251,68 @@
   <data name="Tab.Home.Main.Blog.Tooltip">
     <value xml:space="preserve">Informatief en vermakelijk, uitdagend en educatief, het DNN community blog heeft altijd verse content. verse ideeën en nieuwe meningen. Duik er direct in. </value>
   </data>
+  <data name="Tab.Home.Main.Blogs.Link" lastModified="2020-05-10 05:36:12">
+    <value xml:space="preserve">https://dnncommunity.org/blogs</value>
+  </data>
+  <data name="Tab.Home.Main.Blogs.SubLink.Text" lastModified="2020-05-10 05:36:12">
+    <value xml:space="preserve">Bezoek de DNN blogs</value>
+  </data>
+  <data name="Tab.Home.Main.Blogs.Title" lastModified="2020-05-10 05:36:12">
+    <value xml:space="preserve">Blogs</value>
+  </data>
+  <data name="Tab.Home.Main.Blogs.Tooltip" lastModified="2020-05-12 09:48:01">
+    <value xml:space="preserve">Informatief en onderhoudend, de DNN community blogs bieden een schat aan informatie</value>
+  </data>
+  <data name="Tab.Home.Main.Code.Link" lastModified="2020-05-10 05:36:12">
+    <value xml:space="preserve">https://github.com/dnnsoftware/Dnn.Platform</value>
+  </data>
+  <data name="Tab.Home.Main.Code.SubLink.Text" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">Ga naar het DNN Platform Open Source project op GitHub</value>
+  </data>
+  <data name="Tab.Home.Main.Code.Title" lastModified="2020-05-10 05:36:12">
+    <value xml:space="preserve">Code</value>
+  </data>
+  <data name="Tab.Home.Main.Code.Tooltip" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">Het Open Source DNN Platform is volledig beschikbaar op GitHub.</value>
+  </data>
+  <data name="Tab.Home.Main.Community.Link" lastModified="2020-05-10 07:43:14">
+    <value xml:space="preserve">https://dnncommunity.org</value>
+  </data>
+  <data name="Tab.Home.Main.Community.SubLink.Text" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">Bezoek de DNN Community site</value>
+  </data>
+  <data name="Tab.Home.Main.Community.Title" lastModified="2020-05-10 07:43:14">
+    <value xml:space="preserve">DNN Community</value>
+  </data>
+  <data name="Tab.Home.Main.Community.Tooltip" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">De DNN Community is actief. Bezoek de website en neem deel aan de activiteiten.</value>
+  </data>
+  <data name="Tab.Home.Main.Docs.Link" lastModified="2020-05-10 07:43:14">
+    <value xml:space="preserve">https://dnndocs.com</value>
+  </data>
+  <data name="Tab.Home.Main.Docs.SubLink.Text" lastModified="2020-05-10 07:43:14">
+    <value xml:space="preserve">Bezoek DNN Docs</value>
+  </data>
+  <data name="Tab.Home.Main.Docs.Title" lastModified="2020-05-10 07:43:14">
+    <value xml:space="preserve">Docs</value>
+  </data>
+  <data name="Tab.Home.Main.Docs.Tooltip" lastModified="2020-05-10 07:43:14">
+    <value xml:space="preserve">DNN Docs in een open source gereedschap met informatie om met DNN te beginnen.</value>
+  </data>
+  <data name="Tab.Home.Main.Extensions.Link" lastModified="2020-05-10 07:43:14">
+    <value xml:space="preserve">https://dnncommunity.org/Forge</value>
+  </data>
+  <data name="Tab.Home.Main.Extensions.SubLink.Text" lastModified="2020-05-10 07:43:14">
+    <value xml:space="preserve">Bekijk de DNN uitbreidingen (extensies)</value>
+  </data>
+  <data name="Tab.Home.Main.Extensions.Title" lastModified="2020-05-10 07:43:14">
+    <value xml:space="preserve">Uitbreidingen</value>
+  </data>
+  <data name="Tab.Home.Main.Extensions.Tooltip" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">DNN kan op vele manier worden uitgebreid. Er zijn vele gratis en commerciële uitbreidingen (vormgeving, modules, bibliotheken, etc.) beschikbaar.</value>
+  </data>
   <data name="Tab.Home.Main.Forums.Link">
-    <value xml:space="preserve">http://www.dnnsoftware.com/forums?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=forums&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://dnncommunity.org/forums</value>
   </data>
   <data name="Tab.Home.Main.Forums.SubLink.Text">
     <value xml:space="preserve">Bezoek het DNN forum</value>
@@ -256,11 +320,11 @@
   <data name="Tab.Home.Main.Forums.Title">
     <value xml:space="preserve">Forum</value>
   </data>
-  <data name="Tab.Home.Main.Forums.Tooltip">
-    <value xml:space="preserve">Het oude Roman Forum was de plaats voor publiek spreekers, commerciele transacties en gladiarotische gevechten. Het DNN forum is niet zo belangrijk om aan deel te nemen.</value>
+  <data name="Tab.Home.Main.Forums.Tooltip" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">Het forum is de plaats voor vragen, antwoorden en algemene informatie. Neem deel!</value>
   </data>
   <data name="Tab.Home.Main.LeaderBoard.Link">
-    <value xml:space="preserve">http://www.dnnsoftware.com/leaderboard?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=leaderboard&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://dnncommunity.org/Community/Leadership-Team</value>
   </data>
   <data name="Tab.Home.Main.LeaderBoard.SubLink.Text">
     <value xml:space="preserve">Bekijk het Leiderbord</value>
@@ -272,7 +336,7 @@
     <value xml:space="preserve">Contributies verdienen erkenning. Dus waar kom jij op het leiderbord. Draag een stukje bij, en betrek andere in de race. Iedereen houdt wel van een beetje vriendeschappelijke competitie.</value>
   </data>
   <data name="Tab.Home.Main.OnlineHelp.Link">
-    <value xml:space="preserve">http://www.dnnsoftware.com/leaderboard?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=leaderboard&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://dnncommunity.org/documentation</value>
   </data>
   <data name="Tab.Home.Main.OnlineHelp.SubLink.Text">
     <value xml:space="preserve">Bekijk de online help</value>
@@ -284,7 +348,7 @@
     <value xml:space="preserve">Je kunt gewoon niet zonder een beetje hulp van je vrienden. Of zonder een beetje hulp van de uitgebreide DNN library</value>
   </data>
   <data name="Tab.Home.Main.QA.Link">
-    <value xml:space="preserve">http://www.dnnsoftware.com/leaderboard?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=leaderboard&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://dnncommunity.org/Community/Leadership-Team</value>
   </data>
   <data name="Tab.Home.Main.QA.SubLink.Text">
     <value xml:space="preserve">Bezoek Q&amp;A</value>
@@ -296,7 +360,7 @@
     <value xml:space="preserve">U kunt niet tot dit punt komen zonder een aantal vragen. U heeft misschien zelfs wel een paar antwoorden om te delen. Hoe dan ook, u gaat richting de Q&amp;A pagina. </value>
   </data>
   <data name="Tab.Home.Main.Shop.Link">
-    <value xml:space="preserve">http://store.dnnsoftware.com/?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=shop&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://store.dnnsoftware.com/</value>
   </data>
   <data name="Tab.Home.Main.Shop.SubLink.Text">
     <value xml:space="preserve">Winkel in de DNN shop</value>
@@ -307,11 +371,11 @@
   <data name="Tab.Home.Main.Shop.Tooltip">
     <value xml:space="preserve">U kunt veel nieuwe code schrijven om deze nieuwe website geweldig te maken. Of u koopt gewoon uw toegang tot succes in de DNN shop. Zo bent u er sneller.</value>
   </data>
-  <data name="Tab.Home.Main.Title">
-    <value xml:space="preserve">Sluit je aan bij de Community om interactie te hebben of om te leren.</value>
+  <data name="Tab.Home.Main.Title" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">Sluit je aan bij de DNN Community voor interactie en om te leren.</value>
   </data>
   <data name="Tab.Home.Main.Videos.Link">
-    <value xml:space="preserve">http://store.dnnsoftware.com/?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=shop&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://dnncommunity.org/Resources/White-Papers</value>
   </data>
   <data name="Tab.Home.Main.Videos.SubLink.Text">
     <value xml:space="preserve">Bekijk DNN video's</value>
@@ -323,7 +387,7 @@
     <value xml:space="preserve">Iedereen leert visueel. Wat is er beter dan het online bekijken van een video terwijl je door kunt werken. De DNN Video bibliotheek is een grote bron van How-to informatie.</value>
   </data>
   <data name="Tab.Home.Main.Webinars.Link">
-    <value xml:space="preserve">http://store.dnnsoftware.com/?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=shop&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://dnncommunity.org/documentation</value>
   </data>
   <data name="Tab.Home.Main.Webinars.SubLink.Text">
     <value xml:space="preserve">Woon een webinar bij</value>
@@ -335,7 +399,7 @@
     <value xml:space="preserve">Betreed de wereld van de DNN webinars waar mensen met kennis deze met je delen. Dat is veel kennis, en het is is bedoeld om uw kennis te vergroten.</value>
   </data>
   <data name="Tab.Home.Main.Wikis.Link">
-    <value xml:space="preserve">http://store.dnnsoftware.com/?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=shop&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://dnncommunity.org/documentation</value>
   </data>
   <data name="Tab.Home.Main.Wikis.SubLink.Text">
     <value xml:space="preserve">Lees de DNN wiki</value>
@@ -352,8 +416,11 @@
   <data name="Tab.Home.PageName.Title">
     <value xml:space="preserve">Home</value>
   </data>
+  <data name="Tab.Home.PlatformIntro.Text" lastModified="2020-05-12 03:42:39">
+    <value xml:space="preserve">DNN (voorheen DotNetNuke) is een open source schaalbaar, uitbreidbaar en veilig content management systeem (CMS).</value>
+  </data>
   <data name="Tab.Home.Product.Content.Link">
-    <value xml:space="preserve">http://store.dnnsoftware.com/?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=shop&amp;utm_content=7.3-tile&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://store.dnnsoftware.com/</value>
   </data>
   <data name="Tab.Home.Product.Content.Link.Title">
     <value xml:space="preserve">Maak en beheer Inhoud</value>
@@ -362,7 +429,7 @@
     <value xml:space="preserve">Rijkere inhoud, sterkere &lt;br/&gt;beveiliging en verbeterde&lt;br/&gt;SEO direct onder &lt;br/&gt; uw vingertoppen</value>
   </data>
   <data name="Tab.Home.Product.Social.Link">
-    <value xml:space="preserve">http://www.dnnsoftware.com/solutions/evoq-social-online-community-management?utm_source=dnn-platform-install&amp;utm_medium=web-link&amp;utm_term=evoq-social&amp;utm_content=7.3-banner&amp;utm_campaign=dnn-platform-home</value>
+    <value xml:space="preserve">https://dnncommunity.org/documentation</value>
   </data>
   <data name="Tab.Home.Product.Social.Link.Title">
     <value xml:space="preserve">Bouw en vergroot communities</value>
@@ -373,28 +440,28 @@
   <data name="Tab.Home.SocialLinks.Facebook.Link">
     <value xml:space="preserve">http://www.youtube.com/user/dotnetnuke</value>
   </data>
-  <data name="Tab.Home.SocialLinks.Facebook.Text" lastModified="2018-07-24 11:37:36">
+  <data name="Tab.Home.SocialLinks.Facebook.Text" lastModified="2018-07-23 21:37:36">
     <value xml:space="preserve">Facebook</value>
   </data>
   <data name="Tab.Home.SocialLinks.LinkedIn.Link">
     <value xml:space="preserve">http://www.youtube.com/user/dotnetnuke</value>
   </data>
-  <data name="Tab.Home.SocialLinks.LinkedIn.Text" lastModified="2018-07-24 11:37:36">
+  <data name="Tab.Home.SocialLinks.LinkedIn.Text" lastModified="2018-07-23 21:37:36">
     <value xml:space="preserve">LinkedIn</value>
   </data>
-  <data name="Tab.Home.SocialLinks.Title">
-    <value xml:space="preserve">Blijf in contact met DNN</value>
+  <data name="Tab.Home.SocialLinks.Title" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">De sociale media van de DNN Community</value>
   </data>
   <data name="Tab.Home.SocialLinks.Twitter.Link">
     <value xml:space="preserve">http://www.youtube.com/user/dotnetnuke</value>
   </data>
-  <data name="Tab.Home.SocialLinks.Twitter.Text" lastModified="2018-07-24 11:37:36">
+  <data name="Tab.Home.SocialLinks.Twitter.Text" lastModified="2018-07-23 21:37:36">
     <value xml:space="preserve">Twitter</value>
   </data>
   <data name="Tab.Home.SocialLinks.Youtube.Link">
     <value xml:space="preserve">http://www.youtube.com/user/dotnetnuke</value>
   </data>
-  <data name="Tab.Home.SocialLinks.Youtube.Text" lastModified="2018-07-24 11:37:36">
+  <data name="Tab.Home.SocialLinks.Youtube.Text" lastModified="2018-07-23 21:37:36">
     <value xml:space="preserve">Youtube</value>
   </data>
   <data name="Tab.Languages.Content.Text">
@@ -445,8 +512,8 @@
   <data name="Tab.MyFriends.CenterPane.MemberDirectoryModule.Title.Text">
     <value xml:space="preserve">Lid van directory</value>
   </data>
-  <data name="Tab.MyFriends.CenterPane.ViewProfileModule.Title.Text">
-    <value xml:space="preserve">Bekijk profiel</value>
+  <data name="Tab.MyFriends.CenterPane.ViewProfileModule.Title.Text" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">Bekijk het profiel</value>
   </data>
   <data name="Tab.MyFriends.Content.Text">
     <value xml:space="preserve">Mijn vrienden</value>
@@ -463,68 +530,69 @@
   <data name="Tab.MyFriends.FooterCenterPane.Module.Title.Text">
     <value xml:space="preserve">Bedrijf</value>
   </data>
-  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.0.Text">
-    <value xml:space="preserve">Mountain</value>
+  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.0.Text" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">Berg</value>
   </data>
-  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.1.Text">
-    <value xml:space="preserve">Gravity</value>
+  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.1.Text" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">Zwaartekracht</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.2.Text">
     <value xml:space="preserve">Weg</value>
   </data>
-  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.3.Text" lastModified="2018-07-24 11:37:36">
+  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.3.Text" lastModified="2018-07-23 21:37:36">
     <value xml:space="preserve">Stad</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.4.Text">
     <value xml:space="preserve">Junior</value>
   </data>
-  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.5.Text" lastModified="2018-07-24 11:37:36">
-    <value xml:space="preserve">Zandweg/ Straat</value>
+  <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Content.5.Text" lastModified="2020-05-10 07:43:14">
+    <value xml:space="preserve">Straat</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftOuterPane.Module.Title.Text">
     <value xml:space="preserve">Producten</value>
   </data>
-  <data name="Tab.MyFriends.FooterLeftPane.Module.Content.0.Text">
-    <value xml:space="preserve">FAQ</value>
+  <data name="Tab.MyFriends.FooterLeftPane.Module.Content.0.Text" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">Veelgestelde vragen (FAQ)</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftPane.Module.Content.1.Text">
-    <value xml:space="preserve">Fiets handleidingen</value>
+    <value xml:space="preserve">Fietshandleidingen</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftPane.Module.Content.2.Text">
-    <value xml:space="preserve">Product catalogi</value>
+    <value xml:space="preserve">Productcatalogi</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftPane.Module.Content.3.Text">
-    <value xml:space="preserve">Product archief</value>
+    <value xml:space="preserve">Productarchief</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftPane.Module.Content.4.Text">
-    <value xml:space="preserve">Product ondersteunin</value>
+    <value xml:space="preserve">Productondersteuning</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftPane.Module.Content.5.Text">
-    <value xml:space="preserve">Fiest garantie</value>
+    <value xml:space="preserve">Fiestgarantie</value>
   </data>
   <data name="Tab.MyFriends.FooterLeftPane.Module.Content.6.Text">
     <value xml:space="preserve">Nieuwsbrief</value>
   </data>
-  <data name="Tab.MyFriends.FooterLeftPane.Module.Title.Text">
-    <value xml:space="preserve">Klanten support</value>
+  <data name="Tab.MyFriends.FooterLeftPane.Module.Title.Text" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">Klantondersteuning</value>
   </data>
   <data name="Tab.MyFriends.FooterRightOuterPane.Module.Title.Text">
     <value xml:space="preserve">Connect</value>
   </data>
   <data name="Tab.MyFriends.FooterRightPane.Module.Content.0.Text">
-    <value xml:space="preserve">Awesome Cycles, Inc.</value>
+    <value xml:space="preserve">De Voorbeeld Organisatie B.V.</value>
   </data>
-  <data name="Tab.MyFriends.FooterRightPane.Module.Content.1.Text" lastModified="2015-12-31 09:51:42">
-    <value xml:space="preserve">3457 W. Somewhere Street.</value>
+  <data name="Tab.MyFriends.FooterRightPane.Module.Content.1.Text" lastModified="2020-05-10 09:44:27">
+    <value xml:space="preserve">Zomaareenstraat 123
+1234 AA EENSTAD</value>
   </data>
-  <data name="Tab.MyFriends.FooterRightPane.Module.Content.2.Text" lastModified="2015-12-31 09:51:42">
-    <value xml:space="preserve">Phone: (555) 555-4563</value>
+  <data name="Tab.MyFriends.FooterRightPane.Module.Content.2.Text" lastModified="2015-12-31 02:51:42">
+    <value xml:space="preserve">Telefoon: 012-3456789</value>
   </data>
-  <data name="Tab.MyFriends.FooterRightPane.Module.Content.3.Text" lastModified="2015-12-31 09:51:42">
-    <value xml:space="preserve">Fax: (555) 555-4564</value>
+  <data name="Tab.MyFriends.FooterRightPane.Module.Content.3.Text" lastModified="2015-12-31 02:51:42">
+    <value xml:space="preserve">Fax: 012-1234567</value>
   </data>
   <data name="Tab.MyFriends.FooterRightPane.Module.Title.Text">
-    <value xml:space="preserve">Contact ons</value>
+    <value xml:space="preserve">Neem contact op</value>
   </data>
   <data name="Tab.MyFriends.LeftPane.Module.Title.Text">
     <value xml:space="preserve">Bekijk profiel</value>
@@ -532,8 +600,8 @@
   <data name="Tab.MyFriends.Name.Text">
     <value xml:space="preserve">Vrienden</value>
   </data>
-  <data name="Tab.MyFriends.RightPane.MemberDirectoryModule.Title.Text">
-    <value xml:space="preserve">Lid van directory</value>
+  <data name="Tab.MyFriends.RightPane.MemberDirectoryModule.Title.Text" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">Ledenlijst</value>
   </data>
   <data name="Tab.MyFriends.RightPane.NavigationModule.Title.Text">
     <value xml:space="preserve">Navigatie</value>
@@ -541,8 +609,8 @@
   <data name="Tab.MyFriends.Title.Text">
     <value xml:space="preserve">Mijn vrienden</value>
   </data>
-  <data name="Tab.MyMessages.CenterPane.MessageCenterModule.Title.Text">
-    <value xml:space="preserve">Berichten center</value>
+  <data name="Tab.MyMessages.CenterPane.MessageCenterModule.Title.Text" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">Berichtencentrum</value>
   </data>
   <data name="Tab.MyMessages.CenterPane.ViewProfileModule.Title.Text">
     <value xml:space="preserve">Bekijk profiel</value>
@@ -562,68 +630,69 @@
   <data name="Tab.MyMessages.FooterCenterPane.Module.Title.Text">
     <value xml:space="preserve">Bedrijf</value>
   </data>
-  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.0.Text" lastModified="2018-07-24 11:37:36">
+  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.0.Text" lastModified="2018-07-23 21:37:36">
     <value xml:space="preserve">Berg</value>
   </data>
-  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.1.Text">
-    <value xml:space="preserve">Gravity</value>
+  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.1.Text" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">Zwaartekracht</value>
   </data>
   <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.2.Text">
     <value xml:space="preserve">Weg</value>
   </data>
-  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.3.Text" lastModified="2018-07-24 11:37:36">
+  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.3.Text" lastModified="2018-07-23 21:37:36">
     <value xml:space="preserve">Stad</value>
   </data>
   <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.4.Text">
     <value xml:space="preserve">Junior</value>
   </data>
-  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.5.Text" lastModified="2018-07-24 11:37:36">
-    <value xml:space="preserve">Zandweg/ Straat</value>
+  <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Content.5.Text" lastModified="2018-07-23 21:37:36">
+    <value xml:space="preserve">Straat</value>
   </data>
   <data name="Tab.MyMessages.FooterLeftOuterPane.Module.Title.Text">
     <value xml:space="preserve">Producten</value>
   </data>
-  <data name="Tab.MyMessages.FooterLeftPane.Module.Content.0.Text">
-    <value xml:space="preserve">FAQ</value>
+  <data name="Tab.MyMessages.FooterLeftPane.Module.Content.0.Text" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">Veelgestelde vragen (FAQ)</value>
   </data>
   <data name="Tab.MyMessages.FooterLeftPane.Module.Content.1.Text">
-    <value xml:space="preserve">Fiets handleidingen</value>
+    <value xml:space="preserve">Fietshandleidingen</value>
   </data>
   <data name="Tab.MyMessages.FooterLeftPane.Module.Content.2.Text">
-    <value xml:space="preserve">Product catalogi</value>
+    <value xml:space="preserve">Productcatalogi</value>
   </data>
   <data name="Tab.MyMessages.FooterLeftPane.Module.Content.3.Text">
-    <value xml:space="preserve">Product archief</value>
+    <value xml:space="preserve">Productarchief</value>
   </data>
   <data name="Tab.MyMessages.FooterLeftPane.Module.Content.4.Text">
-    <value xml:space="preserve">Product ondersteuning</value>
+    <value xml:space="preserve">Productondersteuning</value>
   </data>
   <data name="Tab.MyMessages.FooterLeftPane.Module.Content.5.Text">
-    <value xml:space="preserve">Fiets garantie</value>
+    <value xml:space="preserve">Fietsgarantie</value>
   </data>
   <data name="Tab.MyMessages.FooterLeftPane.Module.Content.6.Text">
     <value xml:space="preserve">Nieuwsbrief</value>
   </data>
-  <data name="Tab.MyMessages.FooterLeftPane.Module.Title.Text">
-    <value xml:space="preserve">Klanten support</value>
+  <data name="Tab.MyMessages.FooterLeftPane.Module.Title.Text" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">Klantondersteuning</value>
   </data>
   <data name="Tab.MyMessages.FooterRightOuterPane.Module.Title.Text">
     <value xml:space="preserve">Verbind</value>
   </data>
   <data name="Tab.MyMessages.FooterRightPane.Module.Content.0.Text">
-    <value xml:space="preserve">Awesome Cycles, Inc.</value>
+    <value xml:space="preserve">De Voorbeeld Organisatie B.V.</value>
   </data>
-  <data name="Tab.MyMessages.FooterRightPane.Module.Content.1.Text" lastModified="2015-12-31 09:51:42">
-    <value xml:space="preserve">3457 W. Somewhere Street.</value>
+  <data name="Tab.MyMessages.FooterRightPane.Module.Content.1.Text" lastModified="2020-05-10 09:44:27">
+    <value xml:space="preserve">Zomaareenstraat 123
+1234 AA EENSTAD</value>
   </data>
-  <data name="Tab.MyMessages.FooterRightPane.Module.Content.2.Text" lastModified="2015-12-31 09:51:42">
-    <value xml:space="preserve">Phone: (555) 555-4563</value>
+  <data name="Tab.MyMessages.FooterRightPane.Module.Content.2.Text" lastModified="2015-12-31 02:51:42">
+    <value xml:space="preserve">Telefoon: 012-3456789</value>
   </data>
-  <data name="Tab.MyMessages.FooterRightPane.Module.Content.3.Text" lastModified="2015-12-31 09:51:42">
-    <value xml:space="preserve">Fax: (555) 555-4564</value>
+  <data name="Tab.MyMessages.FooterRightPane.Module.Content.3.Text" lastModified="2015-12-31 02:51:42">
+    <value xml:space="preserve">Fax: 012-1234567</value>
   </data>
-  <data name="Tab.MyMessages.FooterRightPane.Module.Title.Text">
-    <value xml:space="preserve">Contact ons</value>
+  <data name="Tab.MyMessages.FooterRightPane.Module.Title.Text" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">Neem contact op</value>
   </data>
   <data name="Tab.MyMessages.LeftPane.Module.Title.Text">
     <value xml:space="preserve">Bekijk profiel</value>
@@ -631,14 +700,14 @@
   <data name="Tab.MyMessages.Name.Text">
     <value xml:space="preserve">Berichten</value>
   </data>
-  <data name="Tab.MyMessages.RightPane.MemberDirectoryModule.Title.Text">
-    <value xml:space="preserve">LId van directory</value>
+  <data name="Tab.MyMessages.RightPane.MemberDirectoryModule.Title.Text" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">Ledenlijst</value>
   </data>
   <data name="Tab.MyMessages.RightPane.NavigationModule.Title.Text">
     <value xml:space="preserve">Navigatie</value>
   </data>
   <data name="Tab.MyMessages.Title.Text">
-    <value xml:space="preserve">Mijn bercihten</value>
+    <value xml:space="preserve">Mijn berichten</value>
   </data>
   <data name="Tab.MyProfile.CenterPane.ViewProfileModule.Title.Text">
     <value xml:space="preserve">Bekijk profiel</value>
@@ -658,65 +727,66 @@
   <data name="Tab.MyProfile.FooterCenterPane.Module.Title.Text">
     <value xml:space="preserve">Bedrijf</value>
   </data>
-  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.0.Text" lastModified="2018-07-24 11:37:36">
+  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.0.Text" lastModified="2018-07-23 21:37:36">
     <value xml:space="preserve">Berg</value>
   </data>
-  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.1.Text">
-    <value xml:space="preserve">Gravity</value>
+  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.1.Text" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">Zwaartekracht</value>
   </data>
   <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.2.Text">
     <value xml:space="preserve">Weg</value>
   </data>
-  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.3.Text" lastModified="2018-07-24 11:37:36">
+  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.3.Text" lastModified="2018-07-23 21:37:36">
     <value xml:space="preserve">Stad</value>
   </data>
   <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.4.Text">
     <value xml:space="preserve">Junior</value>
   </data>
-  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.5.Text" lastModified="2018-07-24 11:37:36">
-    <value xml:space="preserve">Zandweg/ Straat</value>
+  <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Content.5.Text" lastModified="2018-07-23 21:37:36">
+    <value xml:space="preserve">Straat</value>
   </data>
   <data name="Tab.MyProfile.FooterLeftOuterPane.Module.Title.Text">
     <value xml:space="preserve">Producten</value>
   </data>
-  <data name="Tab.MyProfile.FooterLeftPane.Module.Content.0.Text">
-    <value xml:space="preserve">FAQ</value>
+  <data name="Tab.MyProfile.FooterLeftPane.Module.Content.0.Text" lastModified="2020-05-12 05:45:43">
+    <value xml:space="preserve">Veelgestelde vragen (FAQ)</value>
   </data>
   <data name="Tab.MyProfile.FooterLeftPane.Module.Content.1.Text">
-    <value xml:space="preserve">Fiets handleidingen</value>
+    <value xml:space="preserve">Fietshandleidingen</value>
   </data>
   <data name="Tab.MyProfile.FooterLeftPane.Module.Content.2.Text">
-    <value xml:space="preserve">Product catalogi</value>
+    <value xml:space="preserve">Productcatalogi</value>
   </data>
   <data name="Tab.MyProfile.FooterLeftPane.Module.Content.3.Text">
-    <value xml:space="preserve">Product archief</value>
+    <value xml:space="preserve">Productarchief</value>
   </data>
   <data name="Tab.MyProfile.FooterLeftPane.Module.Content.4.Text">
-    <value xml:space="preserve">product ondersteuning</value>
+    <value xml:space="preserve">productondersteuning</value>
   </data>
   <data name="Tab.MyProfile.FooterLeftPane.Module.Content.5.Text">
-    <value xml:space="preserve">Fiets garantie</value>
+    <value xml:space="preserve">Fietsgarantie</value>
   </data>
   <data name="Tab.MyProfile.FooterLeftPane.Module.Content.6.Text">
     <value xml:space="preserve">Niewsbrief</value>
   </data>
-  <data name="Tab.MyProfile.FooterLeftPane.Module.Title.Text">
-    <value xml:space="preserve">Klanten support</value>
+  <data name="Tab.MyProfile.FooterLeftPane.Module.Title.Text" lastModified="2020-05-12 07:46:57">
+    <value xml:space="preserve">Klantondersteuning</value>
   </data>
   <data name="Tab.MyProfile.FooterRightOuterPane.Module.Title.Text">
     <value xml:space="preserve">Verbind</value>
   </data>
-  <data name="Tab.MyProfile.FooterRightPane.Module.Content.0.Text">
-    <value xml:space="preserve">Awesome Cycles, Inc.</value>
+  <data name="Tab.MyProfile.FooterRightPane.Module.Content.0.Text" lastModified="2020-05-10 07:43:14">
+    <value xml:space="preserve">De Voorbeeld Organisatie B.V.</value>
   </data>
-  <data name="Tab.MyProfile.FooterRightPane.Module.Content.1.Text" lastModified="2015-12-31 09:51:42">
-    <value xml:space="preserve">Someplace, CA 12345</value>
+  <data name="Tab.MyProfile.FooterRightPane.Module.Content.1.Text" lastModified="2020-05-10 09:44:27">
+    <value xml:space="preserve">Zomaareenstraat 123
+1234 AA EENSTAD</value>
   </data>
-  <data name="Tab.MyProfile.FooterRightPane.Module.Content.2.Text" lastModified="2015-12-31 09:51:42">
-    <value xml:space="preserve">Phone: (555) 555-4563</value>
+  <data name="Tab.MyProfile.FooterRightPane.Module.Content.2.Text" lastModified="2020-05-10 07:43:14">
+    <value xml:space="preserve">Telefoon: 012-3456789</value>
   </data>
-  <data name="Tab.MyProfile.FooterRightPane.Module.Content.3.Text" lastModified="2015-12-31 09:51:42">
-    <value xml:space="preserve">Fax: (555) 555-4564</value>
+  <data name="Tab.MyProfile.FooterRightPane.Module.Content.3.Text" lastModified="2020-05-10 07:43:14">
+    <value xml:space="preserve">Fax: 012-1234567</value>
   </data>
   <data name="Tab.MyProfile.FooterRightPane.Module.Title.Text">
     <value xml:space="preserve">Contact ons</value>
@@ -727,8 +797,8 @@
   <data name="Tab.MyProfile.Name.Text">
     <value xml:space="preserve">Mijn profiel</value>
   </data>
-  <data name="Tab.MyProfile.RightPane.MemberDirectoryModule.Title.Text">
-    <value xml:space="preserve">Lid van directory</value>
+  <data name="Tab.MyProfile.RightPane.MemberDirectoryModule.Title.Text" lastModified="2020-05-12 07:46:57">
+    <value xml:space="preserve">Ledenlijst</value>
   </data>
   <data name="Tab.MyProfile.RightPane.NavigationModule.Title.Text">
     <value xml:space="preserve">Navigatie</value>
@@ -752,10 +822,10 @@
     <value xml:space="preserve">Nieuwsbrieven</value>
   </data>
   <data name="Tab.PageManagement.Content.Text">
-    <value xml:space="preserve">Pagina beheer</value>
+    <value xml:space="preserve">Paginabeheer</value>
   </data>
   <data name="Tab.PageManagement.ContentPane.Module.Title.Text">
-    <value xml:space="preserve">Pagina beheer</value>
+    <value xml:space="preserve">Paginabeheer</value>
   </data>
   <data name="Tab.PageManagement.Description.Text">
     <value xml:space="preserve">Pagina's binnen de site beheren.</value>
@@ -764,10 +834,10 @@
     <value xml:space="preserve">Pagina's</value>
   </data>
   <data name="Tab.PageManagement.Title.Text">
-    <value xml:space="preserve">Pagina beheer</value>
+    <value xml:space="preserve">Paginabeheer</value>
   </data>
-  <data name="Tab.PortalAdministration.Content.Text">
-    <value xml:space="preserve">Portaal Administratie</value>
+  <data name="Tab.PortalAdministration.Content.Text" lastModified="2020-05-12 07:46:57">
+    <value xml:space="preserve">Portaaladministratie</value>
   </data>
   <data name="Tab.PortalAdministration.ContentPane.Module.Title.Text">
     <value xml:space="preserve">Basisfuncties</value>
@@ -776,7 +846,7 @@
     <value xml:space="preserve">Admin</value>
   </data>
   <data name="Tab.PortalAdministration.Title.Text">
-    <value xml:space="preserve">Portaal Administratie</value>
+    <value xml:space="preserve">Portal Administratie</value>
   </data>
   <data name="Tab.RecycleBin.Content.Text">
     <value xml:space="preserve">Prullenmand</value>
@@ -785,7 +855,7 @@
     <value xml:space="preserve">Prullenmand</value>
   </data>
   <data name="Tab.RecycleBin.Description.Text">
-    <value xml:space="preserve">Bekijken, herstellen of permanent hergebruik pagina's en modules die zijn verwijderd uit de portaal. </value>
+    <value xml:space="preserve">Bekijken, herstellen of permanent hergebruik pagina's en modules die zijn verwijderd uit de portal. </value>
   </data>
   <data name="Tab.RecycleBin.Name.Text">
     <value xml:space="preserve">Prullenmand</value>
@@ -800,16 +870,16 @@
     <value xml:space="preserve">Zoek Admin</value>
   </data>
   <data name="Tab.SearchResultsCE.Content.Text">
-    <value xml:space="preserve">Zoek resultaten</value>
+    <value xml:space="preserve">Zoekresultaten</value>
   </data>
   <data name="Tab.SearchResultsCE.ContentPane.ResultsModule.Title.Text">
     <value xml:space="preserve">Resultaten</value>
   </data>
   <data name="Tab.SearchResultsCE.ContentPane.SearchResultsModule.Title.Text">
-    <value xml:space="preserve">Zoek resultaten</value>
+    <value xml:space="preserve">Zoekresultaten</value>
   </data>
   <data name="Tab.SearchResultsCE.Name.Text">
-    <value xml:space="preserve">Zoek resultaten</value>
+    <value xml:space="preserve">Zoekresultaten</value>
   </data>
   <data name="Tab.SearchResultsCE.Title.Text">
     <value xml:space="preserve">Zoek resultaten</value>
@@ -818,13 +888,13 @@
     <value xml:space="preserve">Resultaten</value>
   </data>
   <data name="Tab.SearchResultsPro.ContentPane.SearchResultsModule.Title.Text">
-    <value xml:space="preserve">Zoek resultaten</value>
+    <value xml:space="preserve">Zoekresultaten</value>
   </data>
   <data name="Tab.SearchResultsPro.Name.Text">
-    <value xml:space="preserve">Zoek resultaten</value>
+    <value xml:space="preserve">Zoekresultaten</value>
   </data>
   <data name="Tab.SearchResultsPro.Title.Text">
-    <value xml:space="preserve">Zoek resultaten</value>
+    <value xml:space="preserve">Zoekresultaten</value>
   </data>
   <data name="Tab.SecurityRoles.Content.Text">
     <value xml:space="preserve">Beveligingsrollen</value>
@@ -962,8 +1032,8 @@
   <data name="Tab.UserAccounts.ContentPane.Module.Title.Text">
     <value xml:space="preserve">Gebruikersaccounts</value>
   </data>
-  <data name="Tab.UserAccounts.Description.Text">
-    <value xml:space="preserve">Gebruikersaccounts voor het portaal beheren.</value>
+  <data name="Tab.UserAccounts.Description.Text" lastModified="2020-05-10 07:43:14">
+    <value xml:space="preserve">Beheer gebruikersaccounts voor het portaal.</value>
   </data>
   <data name="Tab.UserAccounts.Name.Text">
     <value xml:space="preserve">Gebruikersaccounts</value>

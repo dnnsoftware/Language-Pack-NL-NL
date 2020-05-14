@@ -15,28 +15,28 @@
   <data name="cmdLogin.Text">
     <value xml:space="preserve">Aanmelden</value>
   </data>
-  <data name="Title.Text">
-    <value xml:space="preserve">Standaard</value>
-  </data>
-  <data name="InvalidVerificationCode.Text">
-    <value xml:space="preserve">Ongeldige verificatiecode</value>
-  </data>
-  <data name="UserAlreadyVerified.Text">
-    <value xml:space="preserve">Gebruiker al geverifieerd</value>
-  </data>
-  <data name="UserDoesNotExist.Text">
-    <value xml:space="preserve">Gebruiker bestaat niet</value>
-  </data>
-  <data name="Email.Text">
-    <value xml:space="preserve">E-mail adres:</value>
-  </data>
   <data name="cmdPassword.Text">
     <value xml:space="preserve">Wachtwoord resetten</value>
   </data>
   <data name="cmdRegister.Text">
     <value xml:space="preserve">Registreren</value>
   </data>
+  <data name="Email.Text">
+    <value xml:space="preserve">E-mailadres:</value>
+  </data>
+  <data name="InvalidVerificationCode.Text" lastModified="2020-05-10 17:10:50">
+    <value xml:space="preserve">Ongeldige verificatiecode.</value>
+  </data>
   <data name="Remember.Text">
     <value xml:space="preserve">Aangemeld blijven</value>
+  </data>
+  <data name="Title.Text">
+    <value xml:space="preserve">Standaard</value>
+  </data>
+  <data name="UserAlreadyVerified.Text" lastModified="2020-05-10 17:10:50">
+    <value xml:space="preserve">Gebruiker al geverifieerd.</value>
+  </data>
+  <data name="UserDoesNotExist.Text" lastModified="2020-05-10 17:10:50">
+    <value xml:space="preserve">Gebruiker bestaat niet.</value>
   </data>
 </root>

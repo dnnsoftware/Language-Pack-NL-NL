@@ -40,7 +40,7 @@
     <value xml:space="preserve">Typ</value>
   </data>
   <data name="nav_Prompt.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">Melding</value>
+    <value xml:space="preserve">Prompt</value>
   </data>
   <data name="Prompt_AddModule_Description.Text" lastModified="2018-07-18 07:39:54">
     <value xml:space="preserve">Voegt een module toe aan een pagina op de website.</value>
@@ -1047,5 +1047,60 @@
   </data>
   <data name="SessionHisotryCleared.Text" lastModified="2018-07-20 13:34:22">
     <value xml:space="preserve">Sessieopdrachtgeschiedenis gewist.</value>
+  </data>
+  <data name="InValidPortalId.Text">
+    <value>Portal Id {0} behoort niet tot de Site Group.</value>
+  </data>
+  <data name="Prompt_CommandHelpSyntax.Text">
+    <value>&lt;section class="dnn-prompt-inline-help"&gt;
+  &lt;h3&gt;Basic Syntax&lt;/h3&gt;
+  &lt;p&gt;
+    &lt;em&gt;Prompt&lt;/em&gt; functions in a way similar to a Terminal, Bash shell, Windows CMD shell, or Powershell. You enter a command and hit &lt;code&gt;ENTER&lt;/code&gt; and the computer responds with a result. For very simple commands like &lt;code&gt;help&lt;/code&gt; or &lt;code&gt;list-modules&lt;/code&gt;, that's all you need. Some commands, though, may require additional data or they may allow you to provide additional options.
+  &lt;/p&gt;
+  &lt;p&gt;
+    Specifying a target or context for a command: For commands that operate on an object like a user, or that require a context like a page, you simply provide that information after the command. For example, to find the user &lt;em&gt;jsmith&lt;/em&gt; using the &lt;code&gt;get-user&lt;/code&gt; command, you would type: &lt;code&gt;get-user jsmith&lt;/code&gt; followed by the &lt;code&gt;ENTER&lt;/code&gt; key to submit it. If you will be specifying flags (see next paragraph), those should &lt;em&gt;always come after&lt;/em&gt; the target/context of the command.
+  &lt;/p&gt;
+  &lt;p&gt;
+    Specifying Options to Commands: Some commands require even more data or allow you to specify optional configuration information. In &lt;em&gt;Prompt&lt;/em&gt; we call these &amp;quot;flags&amp;quot;. These should come &lt;em&gt;after&lt;/em&gt; any target/context needed by the command (see above paragraph) and &lt;em&gt;must&lt;/em&gt; be preceded with two hyphens or dashes (&lt;code&gt;--&lt;/code&gt;). There should be no spaces between the dashes and there should be no space between the dashes and the name of the flag. If then flag requires a value, you add that after the flag.
+  &lt;/p&gt;
+  &lt;p&gt;
+    As an example of using flags, take the &lt;code&gt;get-user&lt;/code&gt; command. By default, you would specify the username of the user you want to find. However, you can also search by their email address. In that case, you would use the &lt;code&gt;--email&lt;/code&gt; flag. Here's how you would use it:
+  &lt;/p&gt;
+  &lt;code class="block"&gt;
+    get-user --email jsmith@sample.com
+  &lt;/code&gt;
+  &lt;p&gt;
+    If the value of a flag is more than one word, enclose it in double quotes like so:
+  &lt;/p&gt;
+  &lt;code class="block"&gt;
+    set-page --title "My Page"
+  &lt;/code&gt;
+
+  &lt;h4&gt;See Also&lt;/h4&gt;
+  &lt;a data-cmd="help learn" class="dnn-prompt-cmd-insert" href="#"&gt;Learning Prompt Commands&lt;/a&gt;
+  &lt;a data-cmd="help" class="dnn-prompt-cmd-insert" href="#"&gt;Prompt Commands List&lt;/a&gt;
+
+&lt;/section&gt;</value>
+  </data>
+  <data name="Prompt_CommandNotFound.Text">
+    <value>Unable to find help for that command</value>
+  </data>
+  <data name="Prompt_Default.Text">
+    <value>Default</value>
+  </data>
+  <data name="Prompt_GetHost_OkMessage.Text">
+    <value>get-host command executed successfully.</value>
+  </data>
+  <data name="Prompt_GetModule_Result.Text">
+    <value>Module '{0}' is gevonden op pagina '{1}'.</value>
+  </data>
+  <data name="Prompt_GetPortal_Found.Text">
+    <value>Portal '{0}' is gevonden</value>
+  </data>
+  <data name="Prompt_ListPortals_Results.Text">
+    <value>'{0}' Portal{1} gevonden.</value>
+  </data>
+  <data name="Prompt_NoModule.Text">
+    <value>No module found with id {0}.</value>
   </data>
 </root>

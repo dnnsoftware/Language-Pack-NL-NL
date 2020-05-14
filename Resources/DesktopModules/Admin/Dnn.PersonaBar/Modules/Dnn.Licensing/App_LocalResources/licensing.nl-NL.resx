@@ -15,18 +15,6 @@
   <data name="Activated.Header" xml:space="preserve" lastModified="2016-11-30 07:18:33">
     <value>Geactiveerd</value>
   </data>
-  <data name="CheckOutEvoq" xml:space="preserve" lastModified="2016-11-30 07:18:33">
-    <value>Evoq verzorgt een uitgebreid pakket kenmerken dat uw hele team zal gebruiken en liefhebben. </value>
-  </data>
-  <data name="CheckOutEvoq.Header" xml:space="preserve" lastModified="2016-11-30 07:18:33">
-    <value>Bekijk EVOQ</value>
-  </data>
-  <data name="DocumentCenter" xml:space="preserve" lastModified="2016-11-30 07:18:33">
-    <value>Ongeacht uw vragen, DNN's nieuwe" Doc Center" is de plaats om naar toe te gaan voor antwoorden, tutorials en product assistentie.</value>
-  </data>
-  <data name="DocumentCenter.Header" xml:space="preserve" lastModified="2016-11-30 07:18:33">
-    <value>DOCUMENTATIE CENTER</value>
-  </data>
   <data name="Error.ACT1.Text" xml:space="preserve" lastModified="2016-11-30 07:18:33">
     <value>Licensie Activatie mislukt. De ingevoerde licensie details matchen niet met een geldige licensie. &lt;br /&gt;&lt;br /&gt; Controleer uw licensie details op  &lt;a href="{0}" target="_blank"&gt; uw licensie pagina op dnnsoftware.com&lt;/a&gt; en probeer opnieuw. Als u problemen blijft houden, contacteer Technisch Support.</value>
   </data>
@@ -73,7 +61,7 @@
     <value>VERVALT</value>
   </data>
   <data name="InvoiceNumber.Header" xml:space="preserve" lastModified="2016-11-30 13:40:15">
-    <value>INVOICE NUMMER</value>
+    <value>FACTUURNUMMER</value>
   </data>
   <data name="LicenseType.Development" xml:space="preserve" lastModified="2016-11-30 13:40:15">
     <value>Ontwikkeling</value>
@@ -82,7 +70,7 @@
     <value>Failover</value>
   </data>
   <data name="LicenseType.Header" xml:space="preserve" lastModified="2016-11-30 13:40:15">
-    <value>LICENSIE TYPE</value>
+    <value>LICENTIETYPE</value>
   </data>
   <data name="LicenseType.Production" xml:space="preserve" lastModified="2016-11-30 13:40:15">
     <value>Productie</value>
@@ -135,16 +123,34 @@
   <data name="Success.TrialExtensionRequest" xml:space="preserve" lastModified="2016-11-30 15:51:26">
     <value>Uw proef licensie verlenging verzoek is ingediend. U zal een email ontvangen binnen 1 werkdag met instructies voor het verlengen van uw licensie. Als u vragen heeft over de proef licensie verlengingen, bel DNN Corp. Sales Dept. op 650-288-3150.</value>
   </data>
-  <data name="UpgradeToEvoq" xml:space="preserve" lastModified="2016-11-30 16:53:48">
-    <value>Klaar om uw web aanwezigheid naar het volgende niveau te tillen? Start een gratis proefversie of plan een aangepaste demo voor uw team in.</value>
-  </data>
-  <data name="UpgradeToEvoq.Header" xml:space="preserve" lastModified="2016-11-30 16:53:48">
-    <value>UPGRADEN</value>
-  </data>
   <data name="WebLicenseList.url" xml:space="preserve" lastModified="2016-11-30 16:53:48">
     <value>http://www.dnnsoftware.com/Support/Success-Network/License-Management</value>
   </data>
   <data name="WebServer.Header" xml:space="preserve" lastModified="2016-11-30 16:53:48">
     <value>WEB SERVER</value>
+  </data>
+  <data name="Community">
+    <value>Er is een levendige en actieve DNN Community. Bezoek ons en neem deel aan activiteiten en evenementen. Krijg hulp, bespreek projecten en blijf op de hoogte van de ontwikkelingen.</value>
+  </data>
+  <data name="Community.Header">
+    <value>DE COMMUNITY</value>
+  </data>
+  <data name="Docs">
+    <value>Ongeacht uw vragen, DNN's nieuwe" Doc Center" is de plaats om naar toe te gaan voor antwoorden, tutorials en product assistentie.</value>
+  </data>
+  <data name="Docs.Header">
+    <value>DOCUMENTATIE CENTER</value>
+  </data>
+  <data name="GitHub">
+    <value>&lt;div&gt;Het Open Source DNNlatform project is volledig beschikbaar op GitHub. Bezoek ons en raak betrokken. Meld problemen, geef terugkoppeling en draag bij aan de ontwikkeling van het platform&lt;/div&gt;</value>
+  </data>
+  <data name="GitHub.Header">
+    <value>THE CODE</value>
+  </data>
+  <data name="Intro">
+    <value>DNN® (voorheen DotNetNuke® ) is het leidende Open Source content management platform (CMS) in het Microsoft ecosysteem. DNN wordt gebruikt om professionele website te maken, social intranets, community portals, extranets en meer.&lt;/div&gt;&lt;div&gt;DNNPlatform is meer dan 8 milhoen keer gedownload en kent een activieve commuity van meer dan 1 miljoen leden.</value>
+  </data>
+  <data name="Intro.Header">
+    <value>DNN Platform</value>
   </data>
 </root>

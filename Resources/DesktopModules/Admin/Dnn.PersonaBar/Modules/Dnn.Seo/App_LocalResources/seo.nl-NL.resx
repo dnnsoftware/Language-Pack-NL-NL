@@ -37,10 +37,10 @@
     <value xml:space="preserve">Alias in URL</value>
   </data>
   <data name="autoAsciiConvertLabel.Help" lastModified="2016-12-01 04:21:43">
-    <value xml:space="preserve">Wanneer gecontroleerd, karakters met een accent (diacritic) zoals å enè zullen worden geconverteerd naar hun plain-ascii equivalent.  Voorbeeld : å -&amp;gt; a en è -&amp;gt; e.</value>
+    <value xml:space="preserve">Indien aangevinkt zullen karakters met een accent (diakritische tekens) zoals å en è worden geconverteerd naar hun plain-ascii equivalent.  Voorbeeld : å -&gt; a en è -&gt; e.</value>
   </data>
   <data name="autoAsciiConvertLabel.Text" lastModified="2016-12-01 05:25:48">
-    <value xml:space="preserve">Converteren karakters met accenten</value>
+    <value xml:space="preserve">Converteer karakters met accenten</value>
   </data>
   <data name="Built_In_Url.Text" lastModified="2016-12-01 05:25:48">
     <value xml:space="preserve">Ingebouwde URL</value>
@@ -55,7 +55,7 @@
     <value xml:space="preserve">Verwijderde pagina</value>
   </data>
   <data name="Diacritic_Characters.Text" lastModified="2016-12-01 05:25:48">
-    <value xml:space="preserve">Diacritic karakters</value>
+    <value xml:space="preserve">Diakritische tekens</value>
   </data>
   <data name="DisableCaching.Text" lastModified="2016-12-01 05:25:48">
     <value xml:space="preserve">Uitschakelen caching</value>
@@ -64,7 +64,7 @@
     <value xml:space="preserve">Uitgeschakelde pagina</value>
   </data>
   <data name="Do301RedirectToPortalHome.Text" lastModified="2018-07-24 15:04:13">
-    <value xml:space="preserve">site Homepagina</value>
+    <value xml:space="preserve">Site Homepagina</value>
   </data>
   <data name="Do404Error.Text" lastModified="2016-12-01 05:25:48">
     <value xml:space="preserve">404 fout</value>
@@ -94,7 +94,7 @@
     <value xml:space="preserve">De Herschrijf niet URL Reguliere Uitdrukking  stopt URL herschrijven van voorkomen op alle matchende URL's. Gebruik deze waarde wanneer een URL geinterpreteerd wordt als een DotNetNuke pagina, maar niet zou moeten zijn.</value>
   </data>
   <data name="doNotRewriteRegExLabel.Text" lastModified="2016-12-01 07:31:24">
-    <value xml:space="preserve">Herschrijf niet URL Reguliere Uitdrukking </value>
+    <value xml:space="preserve">Niet herschrijven van URL Reguliere Uitdrukking </value>
   </data>
   <data name="doNotUseFriendlyUrlsRegExInvalidPattern.Text" lastModified="2016-12-01 08:34:12">
     <value xml:space="preserve">Gebruik geen vriendelijke URL's Reguliere Uitdrukking is ongeldig</value>
@@ -109,7 +109,7 @@
     <value xml:space="preserve">Vink dit vakje aan als je oude "niet-vriendelijke" URL's wilt laten herleiden naar de nieuwe URL's.</value>
   </data>
   <data name="enable301RedirectsLabel.Text" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Herleiden naar Vriendelijke URL's</value>
+    <value xml:space="preserve">Doorsturen naar Vriendelijke URL's</value>
   </data>
   <data name="Enabled.Header" lastModified="2016-12-01 09:38:17">
     <value xml:space="preserve">Ingeschakeld</value>
@@ -121,13 +121,13 @@
     <value xml:space="preserve">Converteer URL's naar lowercase</value>
   </data>
   <data name="enableSitemapProvider.Help" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Inschakelen Sitemap Provider</value>
+    <value xml:space="preserve">Sitemap Provider inschakelen</value>
   </data>
   <data name="enableSitemapProvider.Text" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Inschakelen Sitemap Provider</value>
+    <value xml:space="preserve">Sitemap Provider inschakelen</value>
   </data>
   <data name="enableSystemGeneratedUrlsLabel.Help" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">U kunt configureren goe het systeem URL's zal genereren.</value>
+    <value xml:space="preserve">U kunt hier configureren hoe het systeem URL's zal genereren.</value>
   </data>
   <data name="enableSystemGeneratedUrlsLabel.Text" lastModified="2016-12-01 09:38:17">
     <value xml:space="preserve">Aaneenschakelen Pagina URL's</value>
@@ -208,7 +208,7 @@
     <value xml:space="preserve">Insluiten verborgen pagina's</value>
   </data>
   <data name="lblLevelPriority.Help" lastModified="2016-12-01 19:04:58">
-    <value xml:space="preserve">Indien aangevinkt,zal  de prioriteit voor elke pagina worden berekend vanuit de hierarchie van de pagina. Top nievau pagina's hebben een waarde van 1, Tweede niveau 0.9, Derde niveau 0.8,... Deze instelling zal de waarde niet wijzigen die is opgeslagen in de actuele pagina, maar het zal de berekende waarde gebruiken indien vereist.</value>
+    <value xml:space="preserve">Indien aangevinkt,zal  de prioriteit voor elke pagina worden berekend vanuit de hierarchie van de pagina. Topniveau pagina's hebben een waarde van 1, Tweede niveau 0.9, Derde niveau 0.8,... Deze instelling zal de waarde niet wijzigen die is opgeslagen in de actuele pagina, maar het zal de berekende waarde gebruiken indien vereist.</value>
   </data>
   <data name="lblLevelPriority.Text" lastModified="2016-12-01 20:05:16">
     <value xml:space="preserve">Gebruik Pagina Niveau Gebaseerde Prioriteiten</value>
@@ -472,7 +472,7 @@
     <value xml:space="preserve">URL's Zonder Reguliere Uitdrukking is ongeldig.</value>
   </data>
   <data name="urlsWithNoExtensionRegExLabel.Help" lastModified="2016-12-02 13:49:31">
-    <value xml:space="preserve">Het URL's Zonder Reguliere Uitdrukking patroon wordt gebruikt om URL's te valideren die niet verwijzen naar bron op de server, die geen DotNetNuke pagina's zijn, maar kunnen worden opgevraagd zonder URL extentie. URL's die deze reguliere uitdrukking matchen zullen niet behandeld worden als een 404 als een matchende DotNetNuke pagina niet kan worden gevonden voor de URL.</value>
+    <value xml:space="preserve">Het URL's Zonder Reguliere Uitdrukking patroon wordt gebruikt om URL's te valideren die niet verwijzen naar bron op de server, die geen DNN pagina's zijn, maar kunnen worden opgevraagd zonder URL extentie. URL's die deze reguliere uitdrukking matchen zullen niet behandeld worden als een 404 als een matchende DotNetNuke pagina niet kan worden gevonden voor de URL.</value>
   </data>
   <data name="urlsWithNoExtensionRegExLabel.Text" lastModified="2016-12-02 14:51:23">
     <value xml:space="preserve">URL's Zonder Reguliere Uitdrukking</value>

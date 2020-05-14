@@ -12,8 +12,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AcceptTerms.Required">
+    <value xml:space="preserve">Ga akkoord met de gebruikersvoorwaarden om door te gaan.</value>
+  </data>
+  <data name="AcceptTerms.Text">
+    <value xml:space="preserve">Ik ga akkoord met de  &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;gebruikersvoorwaardenlicense&lt;/a&gt;</value>
+  </data>
   <data name="AccountInfo.Text">
-    <value xml:space="preserve">Vul uw Account informatie in</value>
+    <value xml:space="preserve">Vul uw account informatie in</value>
   </data>
   <data name="AccountInfoIntro.Text">
     <value xml:space="preserve">Vul de volgende informatie in om uw omgeving te installeren.</value>
@@ -87,7 +93,7 @@
   <data name="DatabaseObjectQualifier.Text">
     <value xml:space="preserve">Object Qualifier </value>
   </data>
-  <data name="DatabaseOwner.Text" lastModified="2018-07-24 11:44:46">
+  <data name="DatabaseOwner.Text" lastModified="2018-07-24 09:44:46">
     <value xml:space="preserve">Database Eigenaar</value>
   </data>
   <data name="DatabasePassword.Help">
@@ -132,8 +138,8 @@
   <data name="DatabaseType.Help">
     <value xml:space="preserve">Type database dat wordt gebruikt voor de installatie.</value>
   </data>
-  <data name="DatabaseType.Text">
-    <value xml:space="preserve">Database type</value>
+  <data name="DatabaseType.Text" lastModified="2020-05-10 17:13:30">
+    <value xml:space="preserve">Soort database</value>
   </data>
   <data name="DatabaseUsername.Help">
     <value xml:space="preserve">De gebruikersnaam voor de database.</value>
@@ -152,6 +158,9 @@
   </data>
   <data name="DeletingOldFiles.Text">
     <value xml:space="preserve">Verwijderen van oudere bestanden voor</value>
+  </data>
+  <data name="DotNetVersion472Required.Text" lastModified="2020-05-10 17:13:30">
+    <value xml:space="preserve">.Net Framework 4.7.2 is vereist. COntroleer de Windows updates voordat u verder gaat.</value>
   </data>
   <data name="Email.Help">
     <value xml:space="preserve">Vul een emailadres in voor deze gebruiker</value>
@@ -265,7 +274,7 @@ Bij gebruik van Windows Explorer, browse naar de folders van uw website ( {0} ).
     <value xml:space="preserve">Installatieversie toevoegen</value>
   </data>
   <data name="IntroDetail.Text">
-    <value xml:space="preserve">&amp;lt;a class="videoLink" href="http://www.dotnetnuke.com/Resources/Training/Training-Videos/Installation.aspx" target="new"&amp;gt;Bekijk Installatie Video&amp;lt;/a&amp;gt;</value>
+    <value xml:space="preserve">&lt;a class="videoLink" href="http://www.dotnetnuke.com/Resources/Training/Training-Videos/Installation.aspx" target="new"&gt;Bekijk Installatie Video&lt;/a&gt;</value>
   </data>
   <data name="InvalidQualifier.Text">
     <value xml:space="preserve">De objectqualifier moet met een letter beginnen en mag niet langer zijn dan 20 tekens</value>
@@ -407,7 +416,7 @@ Standaard database installatie opties niet beschikbaar</value>
     <value xml:space="preserve">De gebruikersnaam voor het SuperUser account.</value>
   </data>
   <data name="UserName.Required">
-    <value xml:space="preserve">Gebruikersnaam benodigd.</value>
+    <value xml:space="preserve">Gebruikersnaam is verplicht.</value>
   </data>
   <data name="UserName.Text">
     <value xml:space="preserve">Gebruikersnaam:</value>
@@ -422,21 +431,21 @@ Standaard database installatie opties niet beschikbaar</value>
     <value xml:space="preserve">Website aanmaken</value>
   </data>
   <data name="WebsiteInfo.Text">
-    <value xml:space="preserve">Website Informatie</value>
+    <value xml:space="preserve">Website informatie</value>
   </data>
   <data name="WebsiteName.Help">
-    <value xml:space="preserve">Geef de naam in die u wilt gebruiken voor uw website</value>
+    <value xml:space="preserve">Geef de naam op die u wilt gebruiken voor uw website</value>
   </data>
   <data name="WebsiteName.Required">
-    <value xml:space="preserve">Website naam benodigd.</value>
+    <value xml:space="preserve">Website naam is verplicht.</value>
   </data>
   <data name="WebsiteName.Text">
-    <value xml:space="preserve">Website Naam</value>
+    <value xml:space="preserve">Website naam</value>
   </data>
   <data name="WebsiteTemplate.Help">
     <value xml:space="preserve">Het soort website dat u wilt maken.</value>
   </data>
   <data name="WebsiteTemplate.Text">
-    <value xml:space="preserve">Template</value>
+    <value xml:space="preserve">Sjabloon</value>
   </data>
 </root>

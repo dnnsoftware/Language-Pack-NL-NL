@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddTerm.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
-    <value>Toevoegen term</value>
+    <value>Term toevoegen</value>
   </data>
   <data name="Application.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
     <value>Applicatie</value>
@@ -37,10 +37,10 @@
     <value>Maak nieuw woordenboek</value>
   </data>
   <data name="ControlTitle_edit.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
-    <value>Bewerken woordenboek</value>
+    <value>Bewerk woordenboek</value>
   </data>
   <data name="ControlTitle_editvocabulary.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
-    <value>Bewerken woordenboek</value>
+    <value>Bewerk woordenboek</value>
   </data>
   <data name="Create.Text" xml:space="preserve" lastModified="2016-12-02 08:02:04">
     <value>Maak nieuw woordenboek</value>
@@ -115,10 +115,10 @@
     <value>Vereist veld</value>
   </data>
   <data name="SaveTerm.Text" xml:space="preserve" lastModified="2016-12-02 09:04:29">
-    <value>Updaten</value>
+    <value>Bijwerken</value>
   </data>
   <data name="SaveVocabulary.Text" xml:space="preserve" lastModified="2016-12-02 09:04:29">
-    <value>Updaten</value>
+    <value>Bijwerken</value>
   </data>
   <data name="Scope.Header" xml:space="preserve" lastModified="2016-12-02 10:08:14">
     <value>Bereik</value>
@@ -130,13 +130,13 @@
     <value>Het bereik van dit woordenboek, applicatie-wijd of site-specifiek.</value>
   </data>
   <data name="Simple.Text" xml:space="preserve" lastModified="2016-12-02 10:08:14">
-    <value>Simpel</value>
+    <value>Eenvoudig</value>
   </data>
   <data name="TermExists.Error" xml:space="preserve" lastModified="2016-12-02 10:08:14">
     <value>De term "{0}" bestaat in de lijst.</value>
   </data>
   <data name="TermName.Required" xml:space="preserve" lastModified="2016-12-02 10:08:14">
-    <value>De term Naam is een vereist veld.</value>
+    <value>De term naam is een vereist veld.</value>
   </data>
   <data name="TermName.Text" xml:space="preserve" lastModified="2016-12-02 10:08:14">
     <value>Naam</value>
@@ -163,7 +163,7 @@
     <value>Type</value>
   </data>
   <data name="Type.ToolTip" xml:space="preserve" lastModified="2016-12-02 10:08:14">
-    <value>Het type woordenboek, simpel of hierarchisch.</value>
+    <value>Het type woordenboek, eenvoudig of hiërarchisch.</value>
   </data>
   <data name="VocabularyExists.Error" xml:space="preserve" lastModified="2016-12-02 10:08:14">
     <value>Het woordenboek "{0}" bestaat in de lijst.</value>
@@ -172,12 +172,12 @@
     <value>Alle</value>
   </data>
   <data name="BackToVocabularies.Text">
-    <value>Terug naar Vocabularies</value>
+    <value>Terug naar woordenboeken</value>
   </data>
   <data name="Close.Text">
     <value>Sluiten</value>
   </data>
   <data name="EditFieldHelper.Text">
-    <value>Druk op enter als je klaar bent, op op Esc om te annuleren</value>
+    <value>Druk op enter als je klaar bent, of op Esc om te annuleren</value>
   </data>
 </root>

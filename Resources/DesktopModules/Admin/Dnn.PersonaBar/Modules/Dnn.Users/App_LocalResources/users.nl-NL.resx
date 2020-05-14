@@ -15,322 +15,358 @@
   <data name="AccountData.Text">
     <value xml:space="preserve">Account gegevens</value>
   </data>
-  <data name="AccountSettings.Text" lastModified="2016-11-30 20:59:52">
+  <data name="AccountSettings.Text" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Account Instellingen</value>
   </data>
-  <data name="Add.Text" lastModified="2016-11-30 20:59:52">
+  <data name="Add.Text" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Toevoegen</value>
   </data>
-  <data name="AddRolePlaceHolder.Text" lastModified="2016-11-30 20:59:52">
+  <data name="AddRolePlaceHolder.Text" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Begin met typen om een rol aan deze gebruiker toe te voegen</value>
   </data>
-  <data name="All.Text" lastModified="2016-11-30 20:59:52">
+  <data name="All.Text" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Alle</value>
   </data>
-  <data name="Approved.Help" lastModified="2016-11-30 20:59:52">
+  <data name="Answer.Help" lastModified="2020-05-10 16:07:00">
+    <value xml:space="preserve">Geef een antwoord op de wachtwoordvraag</value>
+  </data>
+  <data name="Answer.Required" lastModified="2020-05-10 16:07:00">
+    <value xml:space="preserve">U moet een antwoord geven op de wachtwoordvraag</value>
+  </data>
+  <data name="Answer.Text">
+    <value xml:space="preserve">Wachtwoord antwoord:</value>
+  </data>
+  <data name="Approved.Help" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Geeft aan of deze gebruiker gemachtigd is voor deze site.</value>
   </data>
-  <data name="Approved.Text" lastModified="2016-11-30 20:59:52">
+  <data name="Approved.Text" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Gemachtigd:</value>
   </data>
-  <data name="Authorized.Header" lastModified="2016-11-30 20:59:52">
+  <data name="Authorized.Header" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Status</value>
   </data>
-  <data name="Authorized.Text" lastModified="2016-11-30 20:59:52">
+  <data name="Authorized.Text" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Gemachtigd</value>
   </data>
-  <data name="btnApply.Text" lastModified="2016-11-30 20:59:52">
+  <data name="btnApply.Text" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Toepassen</value>
   </data>
-  <data name="btnCancel.Text" lastModified="2016-11-30 20:59:52">
+  <data name="btnCancel.Text" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Annuleren</value>
   </data>
-  <data name="btnCreate.Text" lastModified="2016-11-30 20:59:52">
+  <data name="btnCreate.Text" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Maken</value>
   </data>
-  <data name="btnCreateUser.Text" lastModified="2016-11-30 20:59:52">
-    <value xml:space="preserve">Toevoegen gebruiker</value>
+  <data name="btnCreateUser.Text" lastModified="2016-11-30 19:59:52">
+    <value xml:space="preserve">Gebruiker toevoegen</value>
   </data>
-  <data name="btnSave.Text" lastModified="2016-11-30 20:59:52">
+  <data name="btnSave.Text" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Opslaan</value>
   </data>
-  <data name="Cancel.Text" lastModified="2016-11-30 20:59:52">
+  <data name="Cancel.Text" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Annuleren</value>
   </data>
-  <data name="CannotAddUser.Text" lastModified="2016-11-30 20:59:52">
+  <data name="CannotAddUser.Text" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Deze site is geconfigureerd om te vereisen dat gebruikers Vraag en antwoord invullen om wachtwoord herinneringen te ontvangen. Deze configuratie is onverenigbaar met beheerders die gebruikers toevoegen en is daarom uitgeschakeld voor deze site. </value>
   </data>
-  <data name="CannotChangePassword.Text" lastModified="2016-11-30 22:05:48">
+  <data name="CannotChangePassword.Text" lastModified="2016-11-30 21:05:48">
     <value xml:space="preserve">Uw configuratie vereist de gebruiker om een Vraag en Antwoord in te vullen voor een wachtwoord herinnering. Wanneer deze instelling is toegepast zullen beheerders niet in staat zijn om het wachtwoord van een gebruiker te veranderen, daarom is deze mogelijheid uitgeschakeld voor deze site. </value>
   </data>
-  <data name="ChangePassword.Text" lastModified="2016-11-30 22:05:48">
+  <data name="ChangePassword.Text" lastModified="2016-11-30 21:05:48">
     <value xml:space="preserve">Wijzig wachtwoord</value>
   </data>
-  <data name="ChangeSuccessful.Text" lastModified="2016-11-30 22:05:48">
+  <data name="ChangeSuccessful.Text" lastModified="2016-11-30 21:05:48">
     <value xml:space="preserve">Wachtwoord succesvol gewijzigd</value>
   </data>
-  <data name="cmdAuthorize.Text" lastModified="2016-11-30 22:05:48">
+  <data name="cmdAuthorize.Text" lastModified="2016-11-30 21:05:48">
     <value xml:space="preserve">Machtig gebruiker</value>
   </data>
-  <data name="cmdPassword.Text" lastModified="2016-11-30 22:05:48">
+  <data name="cmdPassword.Text" lastModified="2016-11-30 21:05:48">
     <value xml:space="preserve">Forceer wachtwoord wijziging</value>
   </data>
-  <data name="cmdUnAuthorize.Text" lastModified="2016-11-30 22:05:48">
-    <value xml:space="preserve">Machtiging gebruiken intrekken</value>
+  <data name="cmdUnAuthorize.Text" lastModified="2016-11-30 21:05:48">
+    <value xml:space="preserve">Machtiging gebruiker intrekken</value>
   </data>
-  <data name="cmdUnLock.Text" lastModified="2016-11-30 22:05:48">
+  <data name="cmdUnLock.Text" lastModified="2016-11-30 21:05:48">
     <value xml:space="preserve">Ontsleutel account</value>
   </data>
   <data name="cmUnlockUser.Text">
     <value xml:space="preserve">Blokkering gebruiker opheffen</value>
   </data>
-  <data name="Confirm.Help" lastModified="2016-11-30 22:05:48">
+  <data name="Confirm.Help" lastModified="2016-11-30 21:05:48">
     <value xml:space="preserve">Vul wachtwoord opnieuw in om te bevestigen</value>
   </data>
-  <data name="Confirm.Required" lastModified="2016-11-30 22:05:48">
+  <data name="Confirm.Required" lastModified="2016-11-30 21:05:48">
     <value xml:space="preserve">U moet een wachtwoord bevestiging geven.</value>
   </data>
-  <data name="Confirm.Text" lastModified="2016-11-30 22:05:48">
+  <data name="Confirm.Text" lastModified="2016-11-30 21:05:48">
     <value xml:space="preserve">Bevestig wachtwoord:</value>
   </data>
-  <data name="ConfirmMismatch.ErrorMessage" lastModified="2016-11-30 22:05:48">
-    <value xml:space="preserve">Het wachtwoord en Bevestiging wachtwoord moeten gelijk zijn.</value>
+  <data name="ConfirmMismatch.ErrorMessage" lastModified="2016-11-30 21:05:48">
+    <value xml:space="preserve">Het wachtwoord en bevestig wachtwoord moeten gelijk zijn.</value>
   </data>
-  <data name="Created.Header" lastModified="2016-11-30 22:05:48">
-    <value xml:space="preserve">Aangesloten</value>
+  <data name="CouldNotRemoveAll.Text">
+    <value xml:space="preserve">Kon niet alle gebruikers verwijderen</value>
   </data>
-  <data name="CreatedDate.Help" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">De datum dat deze gebruikers account gemaakt is.</value>
+  <data name="Created.Header" lastModified="2016-11-30 21:05:48">
+    <value xml:space="preserve">Lid geworden</value>
   </data>
-  <data name="CreatedDate.Text" lastModified="2016-11-30 23:09:23">
+  <data name="CreatedDate.Help" lastModified="2016-11-30 22:09:23">
+    <value xml:space="preserve">De datum dat dit gebruikersaccount gemaakt is.</value>
+  </data>
+  <data name="CreatedDate.Text" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">Gemaakte datum:</value>
   </data>
-  <data name="Delete.Text" lastModified="2016-11-30 23:09:23">
+  <data name="Delete.Text" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">Verwijderen</value>
   </data>
-  <data name="Deleted.Text" lastModified="2016-11-30 23:09:23">
+  <data name="Deleted.Text" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">Verwijderd</value>
   </data>
-  <data name="DeleteRole.Confirm" lastModified="2016-11-30 23:09:23">
+  <data name="DeleteRole.Confirm" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">Weet u zeker dat u de '{0} 'rol wilt verwijderen uit '{1}'?</value>
   </data>
-  <data name="DeleteUser.Confirm" lastModified="2016-11-30 23:09:23">
+  <data name="DeleteUser.Confirm" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">Weet u zeker dat u deze gebruiker wilt verwijderen?</value>
   </data>
-  <data name="DeleteUser.Text" lastModified="2016-11-30 23:09:23">
+  <data name="DeleteUser.Text" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">Verwijder gebruiker</value>
   </data>
-  <data name="DemoteFromSuperUser.Text" lastModified="2016-11-30 23:09:23">
+  <data name="DemoteFromSuperUser.Text" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">Maak normale gebruiker</value>
   </data>
-  <data name="DemoteToRegularUser.Text" lastModified="2016-11-30 23:09:23">
+  <data name="DemoteToRegularUser.Text" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">Maak normale gebruiker</value>
   </data>
-  <data name="DisplayName.Help" lastModified="2016-11-30 23:09:23">
+  <data name="DisplayName.Help" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">Vul een weergavenaam in.</value>
   </data>
-  <data name="DisplayName.RegExError" lastModified="2016-11-30 23:09:23">
+  <data name="DisplayName.RegExError" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">De weergavenaam is ongeldig.</value>
   </data>
-  <data name="DisplayName.Required" lastModified="2016-11-30 23:09:23">
+  <data name="DisplayName.Required" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">Weergavenaam is vereist.</value>
   </data>
-  <data name="DisplayName.Text" lastModified="2016-11-30 23:09:23">
+  <data name="DisplayName.Text" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">Weergavenaam:</value>
   </data>
-  <data name="Email.Header" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">Email</value>
+  <data name="Email.Header" lastModified="2016-11-30 22:09:23">
+    <value xml:space="preserve">E-mail</value>
   </data>
-  <data name="Email.Help" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">Vul een geldig emailadres in.</value>
+  <data name="Email.Help" lastModified="2016-11-30 22:09:23">
+    <value xml:space="preserve">Vul een geldig e-mailadres in.</value>
   </data>
-  <data name="Email.RegExError" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">U moet een geldig emailadres invullen.</value>
+  <data name="Email.RegExError" lastModified="2016-11-30 22:09:23">
+    <value xml:space="preserve">U moet een geldig e-mailadres invullen.</value>
   </data>
-  <data name="Email.Required" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">Email is vereist.</value>
+  <data name="Email.Required" lastModified="2016-11-30 22:09:23">
+    <value xml:space="preserve">E-mailadres is verplicht.</value>
   </data>
-  <data name="Email.Text" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">Emailadres:</value>
+  <data name="Email.Text" lastModified="2016-11-30 22:09:23">
+    <value xml:space="preserve">E-mailadres:</value>
   </data>
-  <data name="Expires.Header" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">Vervalt</value>
+  <data name="Expires.Header" lastModified="2016-11-30 22:09:23">
+    <value xml:space="preserve">Verloopt</value>
   </data>
   <data name="False.Text">
     <value xml:space="preserve">Onwaar</value>
   </data>
-  <data name="FirstName.Help" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">Vul een eerste naam in.</value>
+  <data name="FirstName.Help" lastModified="2016-11-30 22:09:23">
+    <value xml:space="preserve">Vul een voornaam in.</value>
   </data>
-  <data name="FirstName.RegExError" lastModified="2016-11-30 23:09:23">
-    <value xml:space="preserve">Eerste naam is ongeldig.</value>
+  <data name="FirstName.RegExError" lastModified="2016-11-30 22:09:23">
+    <value xml:space="preserve">Voornaam is ongeldig.</value>
   </data>
-  <data name="FirstName.Required" lastModified="2016-12-01 00:14:25">
-    <value xml:space="preserve">Eerste naam is vereist.</value>
+  <data name="FirstName.Required" lastModified="2016-11-30 23:14:25">
+    <value xml:space="preserve">Voornaam is verplicht.</value>
   </data>
-  <data name="FirstName.Text" lastModified="2016-12-01 00:14:25">
-    <value xml:space="preserve">Eerste naam:</value>
+  <data name="FirstName.Text" lastModified="2016-11-30 23:14:25">
+    <value xml:space="preserve">Voornaam:</value>
   </data>
-  <data name="ForceChangePassword.Text" lastModified="2016-12-01 00:14:25">
+  <data name="ForceChangePassword.Text" lastModified="2016-11-30 23:14:25">
     <value xml:space="preserve">Forceer wachtwoord wijziging</value>
   </data>
-  <data name="InSufficientPermissions.Text" lastModified="2016-12-01 00:14:25">
-    <value xml:space="preserve">U heeft niet genoeg toestemmingen om deze actie uit te voeren.</value>
+  <data name="HasAgreedToTerms.Help">
+    <value xml:space="preserve">De gebruiker is akkoord gegaan met de voorwaarden op deze website via het data consent mechanisme</value>
   </data>
-  <data name="InvalidPasswordAnswer.Text" lastModified="2016-12-01 00:14:25">
+  <data name="HasAgreedToTerms.Text">
+    <value xml:space="preserve">Akkoord gegaan met voorwaarden</value>
+  </data>
+  <data name="HasAgreedToTerms.title">
+    <value xml:space="preserve">Gebruiker is akkoord gegaan met de voorwaarden</value>
+  </data>
+  <data name="HasNotAgreedToTerms.Text">
+    <value xml:space="preserve">Gebruiker is niet akkoord gegaan met de voorwaarden</value>
+  </data>
+  <data name="HasNotAgreedToTerms.title">
+    <value xml:space="preserve">Gebruiker is niet akkoord gegaan met de voorwaarden</value>
+  </data>
+  <data name="InSufficientPermissions.Text" lastModified="2016-11-30 23:14:25">
+    <value xml:space="preserve">U heeft niet genoeg rechten om deze actie uit te voeren.</value>
+  </data>
+  <data name="InvalidPasswordAnswer.Text" lastModified="2016-11-30 23:14:25">
     <value xml:space="preserve">Wachtwoord antwoord is ongeldig.</value>
   </data>
-  <data name="IsDeleted.Help" lastModified="2016-12-01 00:14:25">
+  <data name="IsDeleted.Help" lastModified="2016-11-30 23:14:25">
     <value xml:space="preserve">Geeft aan of deze gebruiker verwijderd is.</value>
   </data>
-  <data name="IsDeleted.Text" lastModified="2016-12-01 00:14:25">
+  <data name="IsDeleted.Text" lastModified="2016-11-30 23:14:25">
     <value xml:space="preserve">Verwijderd:</value>
   </data>
-  <data name="IsOnLine.Help" lastModified="2016-12-01 00:14:25">
+  <data name="IsOnLine.Help" lastModified="2016-11-30 23:14:25">
     <value xml:space="preserve">Geeft aan of deze gebruiker momenteel online is.</value>
   </data>
-  <data name="IsOnLine.Text" lastModified="2016-12-01 00:14:25">
+  <data name="IsOnLine.Text" lastModified="2016-11-30 23:14:25">
     <value xml:space="preserve">Gebruiker is online:</value>
   </data>
-  <data name="IsOwner.Text" lastModified="2016-12-01 00:14:25">
+  <data name="IsOwner.Text" lastModified="2016-11-30 23:14:25">
     <value xml:space="preserve">Is eigenaar</value>
   </data>
-  <data name="LastActivityDate.Help" lastModified="2016-12-01 00:14:25">
+  <data name="LastActivityDate.Help" lastModified="2016-11-30 23:14:25">
     <value xml:space="preserve">De datum dat deze gebruiker voor het laatst actief was op de site.</value>
   </data>
-  <data name="LastActivityDate.Text" lastModified="2016-12-01 00:14:25">
+  <data name="LastActivityDate.Text" lastModified="2016-11-30 23:14:25">
     <value xml:space="preserve">Datum laatste activiteit:</value>
   </data>
-  <data name="LastLockoutDate.Help" lastModified="2016-12-01 00:14:25">
+  <data name="LastConsented.Help">
+    <value xml:space="preserve">Het moment waarop de gebruiker voor het laatst akkoord is gegaan met de voorwaarden van de site. Indien de voorwaarden in de tussentijd zijn gewijzigd dan zou de gebruiker gemarkeerd kunnen zijn als niet akkoord gegaan met de voorwaarden</value>
+  </data>
+  <data name="LastConsented.Text">
+    <value xml:space="preserve">Laatst akkoord gegaan op</value>
+  </data>
+  <data name="LastLockoutDate.Help" lastModified="2016-11-30 23:14:25">
     <value xml:space="preserve">De datum dat de gebruiker voor het laatst buitengesloten was van de site door meerdere mislukte inlog pogingen.</value>
   </data>
-  <data name="LastLockoutDate.Text" lastModified="2016-12-01 00:14:25">
-    <value xml:space="preserve">Laatste Buitengesloten datum:</value>
+  <data name="LastLockoutDate.Text" lastModified="2016-11-30 23:14:25">
+    <value xml:space="preserve">Laatste buitengesloten datum:</value>
   </data>
-  <data name="LastLoginDate.Help" lastModified="2016-12-01 00:14:25">
+  <data name="LastLoginDate.Help" lastModified="2016-11-30 23:14:25">
     <value xml:space="preserve">De datum wanneer deze gebruiker voor het laatst heeft ingelogd op de site,</value>
   </data>
-  <data name="LastLoginDate.Text" lastModified="2016-12-01 00:14:25">
+  <data name="LastLoginDate.Text" lastModified="2016-11-30 23:14:25">
     <value xml:space="preserve">Laatste inlog datum:</value>
   </data>
-  <data name="LastName.Help" lastModified="2016-12-01 01:21:27">
+  <data name="LastName.Help" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Vul een achternaam in.</value>
   </data>
-  <data name="LastName.RegExError" lastModified="2016-12-01 01:21:27">
+  <data name="LastName.RegExError" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Achternaam is ongeldig.</value>
   </data>
-  <data name="LastName.Required" lastModified="2016-12-01 01:21:27">
+  <data name="LastName.Required" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Achternaam is vereist.</value>
   </data>
-  <data name="LastName.Text" lastModified="2016-12-01 01:21:27">
+  <data name="LastName.Text" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Achternaam:</value>
   </data>
-  <data name="LastPasswordChangeDate.Help" lastModified="2016-12-01 01:21:27">
+  <data name="LastPasswordChangeDate.Help" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">De datum dat deze gebruiker voor het laatst het wachtwoord heeft gewijzigd. </value>
   </data>
-  <data name="LastPasswordChangeDate.Text" lastModified="2016-12-01 01:21:27">
+  <data name="LastPasswordChangeDate.Text" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Laatste wachtwoord wijziging</value>
   </data>
-  <data name="LockedOut.Help" lastModified="2016-12-01 01:21:27">
+  <data name="LockedOut.Help" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Geeft aan of de gebruiker momenteel is buitengesloten van de site door meerdere mislukte inlog pogingen.</value>
   </data>
-  <data name="LockedOut.Text" lastModified="2016-12-01 01:21:27">
+  <data name="LockedOut.Text" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Buitengesloten:</value>
   </data>
-  <data name="ManageProfile.title" lastModified="2016-12-01 01:21:27">
+  <data name="ManageProfile.title" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Profiel instellingen. </value>
   </data>
-  <data name="ManageRoles.title" lastModified="2016-12-01 01:21:27">
+  <data name="ManageRoles.title" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Gebruikersrollen.</value>
   </data>
-  <data name="ManageSettings.title" lastModified="2016-12-01 01:21:27">
+  <data name="ManageSettings.title" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Account instellingen</value>
   </data>
-  <data name="Name.Header" lastModified="2016-12-01 01:21:27">
+  <data name="Name.Header" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Naam</value>
   </data>
-  <data name="nav_Users.Text" lastModified="2016-12-01 01:21:27">
+  <data name="nav_Users.Text" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Gebruikers</value>
   </data>
-  <data name="Never.Text" lastModified="2016-12-01 01:21:27">
+  <data name="Never.Text" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Nooit</value>
   </data>
-  <data name="NewConfirm.Help" lastModified="2016-12-01 01:21:27">
+  <data name="NewConfirm.Help" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Vul uw wachtwoord opnieuw in om te bevestigen.</value>
   </data>
-  <data name="NewConfirm.Required" lastModified="2016-12-01 01:21:27">
+  <data name="NewConfirm.Required" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">U dient een wachtwoord bevestiging te geven.</value>
   </data>
-  <data name="NewConfirm.Text" lastModified="2016-12-01 01:21:27">
+  <data name="NewConfirm.Text" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Bevestig wachtwoord:</value>
   </data>
-  <data name="NewConfirmMismatch.ErrorMessage" lastModified="2016-12-01 01:21:27">
+  <data name="NewConfirmMismatch.ErrorMessage" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Het nieuwe wachtwoord en bevestiging wachtwoord moeten overeen komen. </value>
   </data>
-  <data name="NewPassword.Help" lastModified="2016-12-01 02:28:56">
+  <data name="NewPassword.Help" lastModified="2016-12-01 01:28:56">
     <value xml:space="preserve">Vul uw nieuwe wachtwoord in.</value>
   </data>
-  <data name="NewPassword.Required" lastModified="2016-12-01 02:28:56">
+  <data name="NewPassword.Required" lastModified="2016-12-01 01:28:56">
     <value xml:space="preserve">U moet een wachtwoord geven.</value>
   </data>
-  <data name="NewPassword.Text" lastModified="2016-12-01 02:28:56">
+  <data name="NewPassword.Text" lastModified="2016-12-01 01:28:56">
     <value xml:space="preserve">Nieuw wachtwoord:</value>
   </data>
-  <data name="NoRoles.Text" lastModified="2016-12-01 02:28:56">
+  <data name="NoRoles.Text" lastModified="2016-12-01 01:28:56">
     <value xml:space="preserve">Geen rollen gevonden.</value>
   </data>
-  <data name="Notify.Text" lastModified="2016-12-01 02:28:56">
+  <data name="Notify.Text" lastModified="2016-12-01 01:28:56">
     <value xml:space="preserve">Verzend een email aan nieuwe gebruiker.</value>
   </data>
-  <data name="noUsers.Text" lastModified="2016-12-01 03:36:03">
+  <data name="noUsers.Text" lastModified="2016-12-01 02:36:03">
     <value xml:space="preserve">Geen gebruikers gevonden.</value>
   </data>
-  <data name="OptionUnavailable.Text" lastModified="2016-12-01 03:36:03">
+  <data name="OptionUnavailable.Text" lastModified="2016-12-01 02:36:03">
     <value xml:space="preserve">Reset wachtwoord optie is momenteel niet beschikbaar.</value>
   </data>
-  <data name="Password.Help" lastModified="2016-12-01 03:36:03">
+  <data name="Password.Help" lastModified="2016-12-01 02:36:03">
     <value xml:space="preserve">Vul een wachtwoord in voor deze gebruiker.</value>
   </data>
-  <data name="Password.Required" lastModified="2016-12-01 03:36:03">
+  <data name="Password.Required" lastModified="2016-12-01 02:36:03">
     <value xml:space="preserve">U moet een wachtwoord geven.</value>
   </data>
-  <data name="Password.Text" lastModified="2016-12-01 03:36:03">
+  <data name="Password.Text" lastModified="2016-12-01 02:36:03">
     <value xml:space="preserve">Wachtwoord:</value>
   </data>
-  <data name="PasswordInvalid.Text" lastModified="2016-12-01 03:36:03">
+  <data name="PasswordInvalid.Text" lastModified="2016-12-01 02:36:03">
     <value xml:space="preserve">U moet een geldig wachtwoord geven. Controleer met de site beheerder als u de wachtwoord vereisten niet kent.</value>
   </data>
-  <data name="PasswordManagement.Text" lastModified="2016-12-01 03:36:03">
+  <data name="PasswordManagement.Text" lastModified="2016-12-01 02:36:03">
     <value xml:space="preserve">Wachtwoord beheer1</value>
   </data>
-  <data name="PasswordResetFailed.Text" lastModified="2016-12-01 03:36:03">
+  <data name="PasswordResetFailed.Text" lastModified="2016-12-01 02:36:03">
     <value xml:space="preserve">Uw nieuwe wachtwoord is niet geaccepteerd voor beveiligings redenen. Vul een wachtwoord in dat u nog niet eerder heeft gebruikt en dat lang en complex genoeg is om aan de vereisten van de site's wachtwoord complexiteit te voldoen.</value>
   </data>
-  <data name="PasswordResetFailed_PasswordInHistory.Text" lastModified="2016-12-01 03:36:03">
+  <data name="PasswordResetFailed_PasswordInHistory.Text" lastModified="2016-12-01 02:36:03">
     <value xml:space="preserve">Uw nieuwe wachtwoord is niet geaccepteerd door beveiligings redenen. Kies een wachtwoord dat nog niet eerder is gebruikt.</value>
   </data>
-  <data name="PasswordSent.Text" lastModified="2016-12-01 03:36:03">
+  <data name="PasswordSent.Text" lastModified="2016-12-01 02:36:03">
     <value xml:space="preserve">Als de gebruikersnaam correct was, dan zou u een email moeten ontvangen met een link om uw wachtwoord te resetten.</value>
   </data>
-  <data name="PromoteToSuperUser.Text" lastModified="2016-12-01 04:40:37">
+  <data name="PromoteToSuperUser.Text" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Maak Superuser</value>
   </data>
-  <data name="Prompt_AddRoles_Description.Text" lastModified="2018-07-22 06:31:46">
+  <data name="Prompt_AddRoles_Description.Text" lastModified="2018-07-22 04:31:46">
     <value xml:space="preserve">Voeg een of meer DNN beveiligings rollen toe aan een gebruiker.</value>
   </data>
-  <data name="Prompt_AddRoles_FlagEnd.Text" lastModified="2018-07-22 06:31:46">
+  <data name="Prompt_AddRoles_FlagEnd.Text" lastModified="2018-07-22 04:31:46">
     <value xml:space="preserve">Eind datum voor de rol.</value>
   </data>
-  <data name="Prompt_AddRoles_FlagId.Text" lastModified="2018-07-22 06:31:46">
+  <data name="Prompt_AddRoles_FlagId.Text" lastModified="2018-07-22 04:31:46">
     <value xml:space="preserve">Gebruiker ID van gebruiker voor wie de rollen zullen worden toegevoegd. Als een nummer word gebruikt als eerste argument is het niet nodig om de &lt;span class="mono"&gt;--id&lt;/span&gt; vlag expliciet te gebruiken</value>
   </data>
-  <data name="Prompt_AddRoles_FlagRoles.Text" lastModified="2018-07-22 06:31:46">
+  <data name="Prompt_AddRoles_FlagRoles.Text" lastModified="2018-07-22 04:31:46">
     <value xml:space="preserve">Komma-gescheiden string van DNN rol namen om toe te passen op de gebruiker.</value>
   </data>
-  <data name="Prompt_AddRoles_FlagStart.Text" lastModified="2018-07-22 08:33:58">
+  <data name="Prompt_AddRoles_FlagStart.Text" lastModified="2018-07-22 06:33:58">
     <value xml:space="preserve">Ingangs datum van de rol.</value>
   </data>
-  <data name="Prompt_AddRoles_ResultHtml.Text" lastModified="2018-07-22 08:33:58">
+  <data name="Prompt_AddRoles_NotFound.Text" lastModified="2020-05-10 16:07:00">
+    <value xml:space="preserve">Kan de rol {0} '{1}' niet vinden. --De rolparameter accepteert alleen bestaande rollen.</value>
+  </data>
+  <data name="Prompt_AddRoles_ResultHtml.Text" lastModified="2018-07-22 06:33:58">
     <value xml:space="preserve">&lt;h4&gt;Voeg een Rol toe aan een Gebruiker&lt;/h4&gt;
     &lt;code class="block"&gt;add-roles --id 23 --roles Editor&lt;/code&gt; OR
     &lt;code class="block"&gt;add-roles 23 --roles Editor&lt;/code&gt; OR
@@ -341,22 +377,22 @@
     &lt;h4&gt;Voeg Meerdere Rollen toe aan een Gebruiker&lt;/h4&gt;
     &lt;code class="block"&gt;add-roles --id 23 --roles "Editor, Writer, Article Reviewer"&lt;/code&gt;</value>
   </data>
-  <data name="Prompt_CannotPurgeUser.Text" lastModified="2018-07-22 10:41:48">
+  <data name="Prompt_CannotPurgeUser.Text" lastModified="2018-07-22 08:41:48">
     <value xml:space="preserve">Kan een gebruiker niet opschonen die niet eerst verwijdert is. Probeer verwijder-gebruiker.</value>
   </data>
-  <data name="Prompt_DateParseError.Text" lastModified="2018-07-22 10:41:48">
+  <data name="Prompt_DateParseError.Text" lastModified="2018-07-22 08:41:48">
     <value xml:space="preserve">Kan de {0} Datum '{1}' niet lezen. Probeer het JJJJ-MM-DD formaat aan te houden.</value>
   </data>
-  <data name="Prompt_DeleteUser_Description.Text" lastModified="2018-07-22 10:41:48">
+  <data name="Prompt_DeleteUser_Description.Text" lastModified="2018-07-22 08:41:48">
     <value xml:space="preserve">Verwijderd een specifieke gebruiker van het portaal. Na verwijdering kan de gebruiker nog steeds worden teruggehaald. Om de gebruiker permanent te verwijderen dient u dit commando op te volgen met het commando &lt;code&gt;purge-user&lt;/code&gt;. </value>
   </data>
-  <data name="Prompt_DeleteUser_FlagId.Text" lastModified="2018-07-22 10:41:48">
+  <data name="Prompt_DeleteUser_FlagId.Text" lastModified="2018-07-22 08:41:48">
     <value xml:space="preserve">Het gebruiker User ID. Als deze vlag niet gebruikt word moet het gebruiker ID het eerste argument zijn.</value>
   </data>
-  <data name="Prompt_DeleteUser_FlagNotify.Text" lastModified="2018-07-22 10:41:48">
+  <data name="Prompt_DeleteUser_FlagNotify.Text" lastModified="2018-07-22 08:41:48">
     <value xml:space="preserve">Wanneer correct zal de &amp;quot;Unregister User&amp;quot; notificatie email verzonden worden (normaliter naar de site Admin)</value>
   </data>
-  <data name="Prompt_DeleteUser_ResultHtml.Text" lastModified="2018-07-22 15:22:01">
+  <data name="Prompt_DeleteUser_ResultHtml.Text" lastModified="2018-07-22 13:22:01">
     <value xml:space="preserve">&lt;h4&gt;Verwijder een Gebruiker&lt;/h4&gt;
     &lt;p&gt;Dit verwijdert een gebruiker met Gebruiker ID van 345. De gebruiker is niet permanent verwijderd op dit moment; maar bevindt zich in een soort recycle bin. U kunt de code &lt;code&gt;get-user 345&lt;/code&gt; gebruiken om de gebruiker details in te zien en u zult zien dat de &lt;code&gt;IsDeleted&lt;/code&gt; eigenschap nu True is. U kunt dus het &lt;code&gt;restore-user&lt;/code&gt; commando gebruiken om het gebruiker record te herstellen of u kunt de gebruiker herstellen met gebruik van de DNN user interface. Als u de gebruiker permanent wil verwijderen dient u een tweede commando uit te voeren: &lt;code&gt;purge-user&lt;/code&gt;&lt;/p&gt;
     &lt;code class="block"&gt;delete-user 345&lt;/code&gt;
@@ -369,23 +405,23 @@
     &lt;p&gt;Dit is de meer expliciete vorm van bovenstaande code.&lt;/p&gt;
     &lt;code class="block"&gt;delete-user --id 345 --notify true&lt;/code&gt;</value>
   </data>
-  <data name="Prompt_EmailSent.Text" lastModified="2018-07-22 15:22:01">
+  <data name="Prompt_EmailSent.Text" lastModified="2018-07-22 13:22:01">
     <value xml:space="preserve">Een email is verstuurd naar de gebruiker.</value>
   </data>
-  <data name="Prompt_GetUser_Description.Text" lastModified="2018-07-22 15:22:01">
+  <data name="Prompt_GetUser_Description.Text" lastModified="2018-07-22 13:22:01">
     <value xml:space="preserve">Hiermee kunt u informatie van de huidige gebruiker weergeven of een gebruiker terughalen aan de hand van Gebruiker ID, Gebruikernaam of Email address.
 Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</value>
   </data>
-  <data name="Prompt_GetUser_FlagEmail.Text" lastModified="2018-07-22 17:27:54">
+  <data name="Prompt_GetUser_FlagEmail.Text" lastModified="2018-07-22 15:27:54">
     <value xml:space="preserve">Het email adres van de terug te halen gebruiker. U kunt een asterisk (&lt;span class="mono"&gt; * &lt;/span&gt;) als wildcard gebruiken om 0 of meer karakters aan te duiden.</value>
   </data>
-  <data name="Prompt_GetUser_FlagId.Text" lastModified="2018-07-22 17:27:54">
+  <data name="Prompt_GetUser_FlagId.Text" lastModified="2018-07-22 15:27:54">
     <value xml:space="preserve">Specificeerd expliciet het Gebruikerid voor de terug te halen gebruiker.</value>
   </data>
-  <data name="Prompt_GetUser_FlagUsername.Text" lastModified="2018-07-22 17:27:54">
+  <data name="Prompt_GetUser_FlagUsername.Text" lastModified="2018-07-22 15:27:54">
     <value xml:space="preserve">De gebruikernaam voor de gebruiker die terug gehaald moet worden. U kunt een asterisk (&lt;span class="mono"&gt; * &lt;/span&gt;) als wildcard gebruiken om 0 of meer karakters aan te duiden.</value>
   </data>
-  <data name="Prompt_GetUser_ResultHtml.Text" lastModified="2018-07-23 16:44:26">
+  <data name="Prompt_GetUser_ResultHtml.Text" lastModified="2018-07-23 14:44:26">
     <value xml:space="preserve">&lt;div&gt;
     &lt;h4&gt;Haal huidige gebruiker op&lt;/h4&gt;
     &lt;code class="block"&gt;
@@ -650,31 +686,31 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     &lt;/table&gt;
   &lt;/div&gt;</value>
   </data>
-  <data name="Prompt_IfSpecifiedMustHaveValue.Text" lastModified="2018-07-22 23:38:44">
+  <data name="Prompt_IfSpecifiedMustHaveValue.Text" lastModified="2018-07-22 21:38:44">
     <value xml:space="preserve">Als u de --{0} vlag specificeerd moet deze op True of False gezet worden.</value>
   </data>
-  <data name="Prompt_InvalidFlag.Text" lastModified="2018-07-23 01:44:13">
+  <data name="Prompt_InvalidFlag.Text" lastModified="2018-07-22 23:44:13">
     <value xml:space="preserve">Ongeldige vlag '--{0}'. Bedoelde u --{1} ?</value>
   </data>
-  <data name="Prompt_ListUsers_Description.Text" lastModified="2018-07-23 01:44:13">
+  <data name="Prompt_ListUsers_Description.Text" lastModified="2018-07-22 23:44:13">
     <value xml:space="preserve">Vind gebruikers aan de hand van email of gebruikernaam. Ondersteund partial matching op Email of Gebruikernaam. U kunt alleen zoeken op 1 markering tegelijkertijd. Markeringen kunnen niet gecombineerd worden.</value>
   </data>
-  <data name="Prompt_ListUsers_FlagEmail.Text" lastModified="2018-07-23 05:59:17">
+  <data name="Prompt_ListUsers_FlagEmail.Text" lastModified="2018-07-23 03:59:17">
     <value xml:space="preserve">Een zoekpatroon om te zoeken op het emailadres van de gebruiker. U kunt een asterisk (&lt;span class="mono"&gt; * &lt;/span&gt;) als wildcard gebruiken om 0 of meer karakters aan te duiden.</value>
   </data>
-  <data name="Prompt_ListUsers_FlagMax.Text" lastModified="2018-07-23 05:59:17">
+  <data name="Prompt_ListUsers_FlagMax.Text" lastModified="2018-07-23 03:59:17">
     <value xml:space="preserve">Pagina Grootte voor de pagina. Max is 500.</value>
   </data>
-  <data name="Prompt_ListUsers_FlagPage.Text" lastModified="2018-07-23 05:59:17">
+  <data name="Prompt_ListUsers_FlagPage.Text" lastModified="2018-07-23 03:59:17">
     <value xml:space="preserve">Pagina nummer om records te tonen.</value>
   </data>
-  <data name="Prompt_ListUsers_FlagRole.Text" lastModified="2018-07-23 05:59:17">
+  <data name="Prompt_ListUsers_FlagRole.Text" lastModified="2018-07-23 03:59:17">
     <value xml:space="preserve">De naam van de DNN Beveiliging Rol waarvan u de leden wilt toevoegen aan een lijst. BELANGRIJK: wildcard zoeken is NIET aangezet voor deze markering op dit moment. Rol namen zijn niet hoofdlettergevoelig maar de spacing moet correct zijn.</value>
   </data>
-  <data name="Prompt_ListUsers_FlagUsername.Text" lastModified="2018-07-23 08:05:52">
+  <data name="Prompt_ListUsers_FlagUsername.Text" lastModified="2018-07-23 06:05:52">
     <value xml:space="preserve">Een zoek patroon om op te zoeken in de gebruikernaam. U kunt een asterisk (&lt;span class="mono"&gt; * &lt;/span&gt;) als wildcard gebruiken om 0 of meer karakters aan te duiden.</value>
   </data>
-  <data name="Prompt_ListUsers_ResultHtml.Text" lastModified="2018-07-23 14:20:31">
+  <data name="Prompt_ListUsers_ResultHtml.Text" lastModified="2018-07-23 12:20:31">
     <value xml:space="preserve">&lt;div&gt;
         &lt;h4&gt;Maak een Lijst van Alle Gebruikers in het huidige Portaal&lt;/h4&gt;
         &lt;code class="block"&gt;
@@ -840,98 +876,98 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
         &lt;/table&gt;
     &lt;/div&gt;</value>
   </data>
-  <data name="Prompt_NewUser_Description.Text" lastModified="2018-07-23 18:47:20">
+  <data name="Prompt_NewUser_Description.Text" lastModified="2018-07-23 16:47:20">
     <value xml:space="preserve">Creeert een nieuwe Gebruiker record in het portaal.</value>
   </data>
-  <data name="Prompt_NewUser_FlagApproved.Text" lastModified="2018-07-23 18:47:20">
+  <data name="Prompt_NewUser_FlagApproved.Text" lastModified="2018-07-23 16:47:20">
     <value xml:space="preserve">Of het gebruiker account is geauthorizeerd. Staat standaard op true als er hier niks word gespecificeerd.</value>
   </data>
-  <data name="Prompt_NewUser_FlagEmail.Text" lastModified="2018-07-23 20:56:23">
+  <data name="Prompt_NewUser_FlagEmail.Text" lastModified="2018-07-23 18:56:23">
     <value xml:space="preserve">Het Email adres van de gebruiker</value>
   </data>
-  <data name="Prompt_NewUser_FlagFirstname.Text" lastModified="2018-07-23 20:56:23">
+  <data name="Prompt_NewUser_FlagFirstname.Text" lastModified="2018-07-23 18:56:23">
     <value xml:space="preserve">De VoorNaam van de gebruiker</value>
   </data>
-  <data name="Prompt_NewUser_FlagLastname.Text" lastModified="2018-07-23 20:56:23">
+  <data name="Prompt_NewUser_FlagLastname.Text" lastModified="2018-07-23 18:56:23">
     <value xml:space="preserve">De AchterNaam van de gebruiker</value>
   </data>
-  <data name="Prompt_NewUser_FlagNotify.Text" lastModified="2018-07-23 23:04:52">
+  <data name="Prompt_NewUser_FlagNotify.Text" lastModified="2018-07-23 21:04:52">
     <value xml:space="preserve">Wanneer True zal het syteem een email versturen naar het email adres van de gebruiker. Het type email word bepaald door het registratie type. Wanneer dit niet ingevuld is zullen de portaal standaard waardes worden gebruikt. Als de site registratie modus op None is gezet zal er geen email verstuurd worden ongeacht de waarde van &lt;code&gt;--notify&lt;/code&gt;.</value>
   </data>
-  <data name="Prompt_NewUser_FlagPassword.Text" lastModified="2018-07-23 23:04:52">
+  <data name="Prompt_NewUser_FlagPassword.Text" lastModified="2018-07-23 21:04:52">
     <value xml:space="preserve">Het Wachtwoord van het gebruiker account. Als dit niet word gespecificeerd zal er een random wachtwoord worden gegenereerd. Let er op dat als de gebruiker niet word gedwongen zijn wachtwoord te resetten u moet zorgen dat &lt;em&gt;iemand&lt;/em&gt; word verwittigd van het wachtwoord.</value>
   </data>
-  <data name="Prompt_NewUser_FlagUsername.Text" lastModified="2018-07-24 01:09:10">
+  <data name="Prompt_NewUser_FlagUsername.Text" lastModified="2018-07-23 23:09:10">
     <value xml:space="preserve">De Gebruikernaam van de gebruiker</value>
   </data>
-  <data name="Prompt_NewUser_ResultHtml.Text" lastModified="2018-07-24 01:09:10">
+  <data name="Prompt_NewUser_ResultHtml.Text" lastModified="2018-07-23 23:09:10">
     <value xml:space="preserve">&lt;h4&gt;Creeer een Nieuwe Gebruiker met Alleen de Vereiste Waardes&lt;/h4&gt;
     &lt;p&gt;Dit genereerd een random wachtwoord en kent dit toe aan de nieuw gecreeerde gebruiker. De weergave naam word gegegnereerd door de voornaam en achternaam aan elkaar te plakken. Let op dat omdat "van Doorne" een spatie bevat we deze moeten omvatten in dubbele quotes. De resulterende Weergave naam word dan "Erik van Doorne".&lt;/p&gt;
     &lt;code class="block"&gt;new-user --username edoorne --email edoorne@myemail.com --firstname Erik --lastname "van Doorne"&lt;/code&gt;</value>
   </data>
-  <data name="Prompt_NothingToSetUser.Text" lastModified="2018-07-24 03:17:04">
+  <data name="Prompt_NothingToSetUser.Text" lastModified="2018-07-24 01:17:04">
     <value xml:space="preserve">Niets meer om up te daten. Voeg a.u.b. meer markeringen in met waardes om te updaten of type 'help set-user' voor meer informatie.</value>
   </data>
-  <data name="Prompt_NoUserId.Text" lastModified="2018-07-24 05:18:08">
+  <data name="Prompt_NoUserId.Text" lastModified="2018-07-24 03:18:08">
     <value xml:space="preserve">Geen Gebruiker ID meegegeven. Niks meer te doen.</value>
   </data>
-  <data name="Prompt_OnlyOneFlagRequired.Text" lastModified="2018-07-24 05:18:08">
+  <data name="Prompt_OnlyOneFlagRequired.Text" lastModified="2018-07-24 03:18:08">
     <value xml:space="preserve">U moet 1 en slechts 1 markering specificeren: --{0}, --{1}, or --{2}.</value>
   </data>
-  <data name="Prompt_PasswordReset.Text" lastModified="2018-07-24 07:21:15">
+  <data name="Prompt_PasswordReset.Text" lastModified="2018-07-24 05:21:15">
     <value xml:space="preserve">Gebruiker wachtwoord is gereset.</value>
   </data>
-  <data name="Prompt_ResetPassword_Description.Text" lastModified="2018-07-25 01:44:02">
+  <data name="Prompt_ResetPassword_Description.Text" lastModified="2018-07-24 23:44:02">
     <value xml:space="preserve">Stelt het wachtwoord token in voor de gebruiker. &lt;em&gt;Dit reset het wachtwoord van de gebruiker niet automatisch&lt;/em&gt;. Staqndaard word dit commando verzonden om het het geresette wachtwoord naar de gebruiker te sturen vbia email. U kunt dit gedarg overschrijven door de &lt;code&gt;--notify&lt;/code&gt; markering met een waarde van &lt;code&gt;false&lt;/code&gt; te specificeren</value>
   </data>
-  <data name="Prompt_ResetPassword_FlagId.Text" lastModified="2018-07-25 01:44:02">
+  <data name="Prompt_ResetPassword_FlagId.Text" lastModified="2018-07-24 23:44:02">
     <value xml:space="preserve">Gebruiker ID van de gebruiker om de Geresette Wachtwoord link naar toe te sturen.</value>
   </data>
-  <data name="Prompt_ResetPassword_FlagNotify.Text" lastModified="2018-07-25 01:44:02">
+  <data name="Prompt_ResetPassword_FlagNotify.Text" lastModified="2018-07-24 23:44:02">
     <value xml:space="preserve">Wanneer true zal het systeem een email sturen naar de gebruiker zijn email adres.</value>
   </data>
-  <data name="Prompt_ResetPassword_ResultHtml.Text" lastModified="2018-07-25 01:44:02">
+  <data name="Prompt_ResetPassword_ResultHtml.Text" lastModified="2018-07-24 23:44:02">
     <value xml:space="preserve">&lt;code class="block"&gt;
     reset-password &lt;em&gt;userId&lt;/em&gt;
   &lt;/code&gt;</value>
   </data>
-  <data name="Prompt_RestoreNotRequired.Text" lastModified="2018-07-25 01:44:02">
+  <data name="Prompt_RestoreNotRequired.Text" lastModified="2018-07-24 23:44:02">
     <value xml:space="preserve">Deze gebruiker is nite verwijderd. Niks om te herstellen.</value>
   </data>
-  <data name="Prompt_RolesEmpty.Text" lastModified="2018-07-25 01:44:02">
+  <data name="Prompt_RolesEmpty.Text" lastModified="2018-07-24 23:44:02">
     <value xml:space="preserve">--roles kunnen niet leeg zijn.</value>
   </data>
-  <data name="Prompt_SearchUserParameterRequired.Text" lastModified="2018-07-25 01:44:02">
+  <data name="Prompt_SearchUserParameterRequired.Text" lastModified="2018-07-24 23:44:02">
     <value xml:space="preserve">Om te zoeken naar een gebruiker moet u ofwel een --id (GebruikerId), --email (Gebruiker Email), of --name (Gebruikernaam) specificeren.</value>
   </data>
-  <data name="Prompt_SetUser_Description.Text" lastModified="2018-07-25 03:49:36">
+  <data name="Prompt_SetUser_Description.Text" lastModified="2018-07-25 01:49:36">
     <value xml:space="preserve">Laat u verschillende waardes gerelateerd aan de gespecificeerde gebruiker instellen.</value>
   </data>
-  <data name="Prompt_SetUser_FlagApproved.Text" lastModified="2018-07-25 03:49:36">
+  <data name="Prompt_SetUser_FlagApproved.Text" lastModified="2018-07-25 01:49:36">
     <value xml:space="preserve">Toestemming status van de gebruiker.</value>
   </data>
-  <data name="Prompt_SetUser_FlagDisplayname.Text" lastModified="2018-07-25 03:49:36">
+  <data name="Prompt_SetUser_FlagDisplayname.Text" lastModified="2018-07-25 01:49:36">
     <value xml:space="preserve">De naam om weer te geven voor de gebruiker.</value>
   </data>
-  <data name="Prompt_SetUser_FlagEmail.Text" lastModified="2018-07-25 03:49:36">
+  <data name="Prompt_SetUser_FlagEmail.Text" lastModified="2018-07-25 01:49:36">
     <value xml:space="preserve">Het email adres om in te stellen voor de gebruiker.</value>
   </data>
-  <data name="Prompt_SetUser_FlagFirstname.Text" lastModified="2018-07-25 03:49:36">
+  <data name="Prompt_SetUser_FlagFirstname.Text" lastModified="2018-07-25 01:49:36">
     <value xml:space="preserve">De voornaam van de gebruiker.</value>
   </data>
-  <data name="Prompt_SetUser_FlagId.Text" lastModified="2018-07-25 03:49:36">
+  <data name="Prompt_SetUser_FlagId.Text" lastModified="2018-07-25 01:49:36">
     <value xml:space="preserve">Het GebruikerId voor de gebruiker die word geupdate. Deze waarde is verplicht, maar als u de waarde als eerste argument mee geeft na de commando heeft u niet expliciet de &lt;span class="mono"&gt;--id&lt;/span&gt; markering te gebruiken. (zie de voorbeelden onder)</value>
   </data>
-  <data name="Prompt_SetUser_FlagLastname.Text" lastModified="2018-07-25 03:49:36">
+  <data name="Prompt_SetUser_FlagLastname.Text" lastModified="2018-07-25 01:49:36">
     <value xml:space="preserve">De achternaam van de gebruiker.</value>
   </data>
-  <data name="Prompt_SetUser_FlagPassword.Text" lastModified="2018-07-25 03:49:36">
+  <data name="Prompt_SetUser_FlagPassword.Text" lastModified="2018-07-25 01:49:36">
     <value xml:space="preserve">Het nieuwe wachtwoord om toe te kennen aan de gebruiker. Het wachtwoord moet geldig zijn volgens de wachtwoord regels van de site.</value>
   </data>
-  <data name="Prompt_SetUser_FlagUsername.Text" lastModified="2018-07-25 05:57:00">
+  <data name="Prompt_SetUser_FlagUsername.Text" lastModified="2018-07-25 03:57:00">
     <value xml:space="preserve">De gebruikernaam om in te stellen voor de gebruiker.</value>
   </data>
-  <data name="Prompt_SetUser_ResultHtml.Text" lastModified="2018-07-25 05:57:00">
+  <data name="Prompt_SetUser_ResultHtml.Text" lastModified="2018-07-25 03:57:00">
     <value xml:space="preserve">&lt;div&gt;
         &lt;h4&gt;Afkeuren/Goedkeuren van een Gebruiker&lt;/h4&gt;
         &lt;p&gt;
@@ -957,76 +993,100 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
 
     &lt;/div&gt;</value>
   </data>
-  <data name="Prompt_StartDateGreaterThanEnd.Text" lastModified="2018-07-25 08:00:15">
+  <data name="Prompt_StartDateGreaterThanEnd.Text" lastModified="2018-07-25 06:00:15">
     <value xml:space="preserve">Start Datum kan niet later zijn dan Eind Datum.</value>
   </data>
-  <data name="Prompt_UserAlreadyDeleted.Text" lastModified="2018-07-25 08:00:15">
+  <data name="Prompt_UserAlreadyDeleted.Text" lastModified="2018-07-25 06:00:15">
     <value xml:space="preserve">Gebruiker is al verwijderd. Wilt u deze permanent verwijderen? Gebruik dan \"purge-user\"</value>
   </data>
-  <data name="Prompt_UserDeletionFailed.Text" lastModified="2018-07-25 08:00:15">
+  <data name="Prompt_UserDeletionFailed.Text" lastModified="2018-07-25 06:00:15">
     <value xml:space="preserve">De gebruiker was gevonden maar het syteem kan deze niet verwijderen.</value>
   </data>
-  <data name="Prompt_UserIdIsRequired.Text" lastModified="2018-07-25 08:00:15">
+  <data name="Prompt_UserIdIsRequired.Text" lastModified="2018-07-25 06:00:15">
     <value xml:space="preserve">U moet een geldig Gebruiker ID specificeren als eerste argument of u moet de --id markering gebruiken.</value>
   </data>
-  <data name="Prompt_UserPurged.Text" lastModified="2018-07-25 08:00:15">
-    <value xml:space="preserve">De Gebruiker is permanent verwijderd van de site.</value>
+  <data name="Prompt_UserPurged.Text" lastModified="2018-07-25 06:00:15">
+    <value xml:space="preserve">De gebruiker is permanent verwijderd van de site.</value>
   </data>
-  <data name="Prompt_UsersCategory.Text" lastModified="2018-07-25 08:00:15">
+  <data name="Prompt_UsersCategory.Text" lastModified="2018-07-25 06:00:15">
     <value xml:space="preserve">Gebruiker Commandos.</value>
   </data>
-  <data name="Random.Help" lastModified="2016-12-01 04:40:37">
+  <data name="Question.Help">
+    <value xml:space="preserve">Enter a password question to be used when retrieving the password.</value>
+  </data>
+  <data name="Question.Required">
+    <value xml:space="preserve">You must provide a password question.</value>
+  </data>
+  <data name="Question.Text">
+    <value xml:space="preserve">Password Question:</value>
+  </data>
+  <data name="Random.Help" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Vink dit vakje aan om een random wachtwoord te kiezen.</value>
   </data>
-  <data name="Random.Text" lastModified="2016-12-01 04:40:37">
+  <data name="Random.Text" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Random wachtwoord.</value>
   </data>
-  <data name="RegisterationFailed.Text" lastModified="2016-12-01 04:40:37">
+  <data name="RegisterationFailed.Text" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Registratie mislukt. Probeer later nog eens.</value>
   </data>
-  <data name="RegisteredUsers.Text" lastModified="2016-12-01 04:40:37">
+  <data name="RegisteredUsers.Text" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Geregistreerde gebruikers</value>
   </data>
-  <data name="RemoveUser.Confirm" lastModified="2016-12-01 04:40:37">
+  <data name="RemoveDeleted.Btn">
+    <value xml:space="preserve">Verwijder 'verwijderde gebruikers'</value>
+  </data>
+  <data name="RemoveDeleted.Confirm" lastModified="2020-05-10 16:07:00">
+    <value xml:space="preserve">WIlt u de voor verwijdering gemarkeerde gebruikers definitief verwijderen? Dit kan niet ongedaan gemaakt worden.</value>
+  </data>
+  <data name="RemoveDeleted.Done" lastModified="2020-05-10 16:07:00">
+    <value xml:space="preserve">Alle voor verwijdering gemarkeerde gebruikers zijn definitief verwijderd.</value>
+  </data>
+  <data name="RemoveUser.Confirm" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Weet u zeker dat u deze gebruiker permanent wilt verwijderen?</value>
   </data>
-  <data name="RemoveUser.Text" lastModified="2016-12-01 04:40:37">
+  <data name="RemoveUser.Text" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Verwijder gebruiker permanent</value>
   </data>
-  <data name="ResetPassword.Text" lastModified="2016-12-01 04:40:37">
-    <value xml:space="preserve">Verzend wachtwoord rest link</value>
+  <data name="RequestedRemoval.Text" lastModified="2020-05-10 16:07:00">
+    <value xml:space="preserve">Verzoekt vewijdering</value>
   </data>
-  <data name="RestoreUser.Text" lastModified="2016-12-01 04:40:37">
+  <data name="RequestsRemoval.title" lastModified="2020-05-10 16:07:00">
+    <value xml:space="preserve">De gebruiker heeft om definitve verwijdering gevraagd</value>
+  </data>
+  <data name="ResetPassword.Text" lastModified="2016-12-01 03:40:37">
+    <value xml:space="preserve">Verzend wachtwoord herstel link</value>
+  </data>
+  <data name="RestoreUser.Text" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Herstellen gebruiker</value>
   </data>
-  <data name="Role.Header" lastModified="2016-12-01 04:40:37">
+  <data name="Role.Header" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Rol</value>
   </data>
-  <data name="RoleIsNotApproved.Text" lastModified="2016-12-01 04:40:37">
+  <data name="RoleIsNotApproved.Text" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Kan geen rol toewijzen die niet is goedgekeurd.</value>
   </data>
-  <data name="Roles.Title" lastModified="2016-12-01 04:40:37">
+  <data name="Roles.Title" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Rollen</value>
   </data>
-  <data name="rolesPageInfoText.Text" lastModified="2016-12-01 04:40:37">
+  <data name="rolesPageInfoText.Text" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Pagina {0} van {1}</value>
   </data>
-  <data name="rolesSummaryText.Text" lastModified="2016-12-01 04:40:37">
+  <data name="rolesSummaryText.Text" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Weergeven {0}-{1} van {2}</value>
   </data>
-  <data name="SearchPlaceHolder.Text" lastModified="2016-12-01 04:40:37">
-    <value xml:space="preserve">Zoeken gebruikers</value>
+  <data name="SearchPlaceHolder.Text" lastModified="2016-12-01 03:40:37">
+    <value xml:space="preserve">Zoek gebruikers</value>
   </data>
-  <data name="SendEmail.Text" lastModified="2016-12-01 04:40:37">
-    <value xml:space="preserve">Verzenden email</value>
+  <data name="SendEmail.Text" lastModified="2016-12-01 03:40:37">
+    <value xml:space="preserve">Verzend e-mail</value>
   </data>
-  <data name="ShowLabel.Text" lastModified="2016-12-01 04:40:37">
-    <value xml:space="preserve">Weergeven:</value>
+  <data name="ShowLabel.Text" lastModified="2016-12-01 03:40:37">
+    <value xml:space="preserve">Filter:</value>
   </data>
-  <data name="Start.Header" lastModified="2016-12-01 04:40:37">
+  <data name="Start.Header" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Start</value>
   </data>
-  <data name="SuperUsers.Text" lastModified="2016-12-01 04:40:37">
+  <data name="SuperUsers.Text" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Superusers</value>
   </data>
   <data name="SwitchOff.Text">
@@ -1038,70 +1098,70 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
   <data name="True.Text">
     <value xml:space="preserve">Waar</value>
   </data>
-  <data name="UnAuthorized.Text" lastModified="2016-12-01 05:48:57">
+  <data name="UnAuthorized.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Ongemachtigd</value>
   </data>
-  <data name="UpdatePassword.Help" lastModified="2016-12-01 05:48:57">
+  <data name="UpdatePassword.Help" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Geeft aan of deze gebruiker opgedragen is om het wachtwoord te wijzigen.</value>
   </data>
-  <data name="UpdatePassword.Text" lastModified="2016-12-01 05:48:57">
+  <data name="UpdatePassword.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Updaten wachtwoord:</value>
   </data>
-  <data name="UserAuthorized.Text" lastModified="2016-12-01 05:48:57">
+  <data name="UserAuthorized.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Gebruiker succesvol gemachtigd.</value>
   </data>
-  <data name="UserCreated.Text" lastModified="2016-12-01 05:48:57">
-    <value xml:space="preserve">Gebruiker succesvol gemaakt.</value>
+  <data name="UserCreated.Text" lastModified="2016-12-01 04:48:57">
+    <value xml:space="preserve">Gebruiker succesvol aangemaakt.</value>
   </data>
-  <data name="UserDeleted.Text" lastModified="2016-12-01 05:48:57">
+  <data name="UserDeleted.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Gebruiker succesvol verwijderd.</value>
   </data>
-  <data name="UserDeleteError.Text" lastModified="2016-12-01 05:48:57">
+  <data name="UserDeleteError.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Mislukt om gebruiker te verwijderen.</value>
   </data>
-  <data name="UserFolder.Help" lastModified="2016-12-01 05:48:57">
+  <data name="UserFolder.Help" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">De map die alle bestanden van degebruiker opslaat.</value>
   </data>
-  <data name="UserFolder.Text" lastModified="2016-12-01 05:48:57">
+  <data name="UserFolder.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Gebruikersmap:</value>
   </data>
-  <data name="Username.Help" lastModified="2016-12-01 05:48:57">
+  <data name="Username.Help" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Vul een gebruikersnaam in. Het moet minstens vijf karakters lang zijn en het moet een alfanummerieke waarde zijn. </value>
   </data>
-  <data name="Username.RegExError" lastModified="2016-12-01 05:48:57">
+  <data name="Username.RegExError" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">De gebruikersnaam is ongeldig.</value>
   </data>
-  <data name="Username.Required" lastModified="2016-12-01 05:48:57">
+  <data name="Username.Required" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Gebruikersnaam is vereist.</value>
   </data>
-  <data name="Username.Text" lastModified="2016-12-01 05:48:57">
+  <data name="Username.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Gebruikersnaam:</value>
   </data>
-  <data name="UsernameNotUnique.Text" lastModified="2016-12-01 05:48:57">
+  <data name="UsernameNotUnique.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Gebruikersnaam moet uniek zijn.</value>
   </data>
-  <data name="UserNotFound.Text" lastModified="2016-12-01 05:48:57">
+  <data name="UserNotFound.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Gebruiker niet gevonden.</value>
   </data>
-  <data name="UserPasswordUpdateChanged.Text" lastModified="2016-12-01 05:48:57">
+  <data name="UserPasswordUpdateChanged.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Gebruiker moet wachtwoord updaten bij volgende login.</value>
   </data>
-  <data name="UserRemoveError.Text" lastModified="2016-12-01 05:48:57">
+  <data name="UserRemoveError.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Kan gebruiker niet verwijderen.</value>
   </data>
-  <data name="UserRestored.Text" lastModified="2016-12-01 05:48:57">
+  <data name="UserRestored.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Gebruiker succesvol hersteld.</value>
   </data>
-  <data name="UserRestoreError.Text" lastModified="2016-12-01 05:48:57">
+  <data name="UserRestoreError.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Kan gebruiker niet herstellen.</value>
   </data>
-  <data name="usersPageSizeOptionText.Text" lastModified="2016-12-01 05:48:57">
+  <data name="usersPageSizeOptionText.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">{0} gebruikers per pagina</value>
   </data>
-  <data name="usersSummaryText.Text" lastModified="2016-12-01 05:48:57">
+  <data name="usersSummaryText.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Weergeven {0}-{1} van {2}</value>
   </data>
-  <data name="UserUnAuthorized.Text" lastModified="2016-12-01 05:48:57">
+  <data name="UserUnAuthorized.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Gebruiker succesvol ontmachtigd.</value>
   </data>
   <data name="UserUnLocked.Text">
@@ -1110,10 +1170,10 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
   <data name="UserUnlockError.Text">
     <value xml:space="preserve">Deblokkeren van gebruiker mislukt.</value>
   </data>
-  <data name="UserUpdated.Text" lastModified="2016-12-01 05:48:57">
+  <data name="UserUpdated.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Gebruiker succesvol ge-update.</value>
   </data>
-  <data name="ViewProfile.Text" lastModified="2016-12-01 05:48:57">
+  <data name="ViewProfile.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Bekijk profiel</value>
   </data>
 </root>

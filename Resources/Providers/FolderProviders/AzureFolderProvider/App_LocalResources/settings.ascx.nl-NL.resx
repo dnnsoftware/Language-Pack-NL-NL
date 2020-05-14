@@ -12,88 +12,97 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccessDenied.ErrorMessage" lastModified="2018-07-20 10:01:13">
+  <data name="AccessDenied.ErrorMessage" lastModified="2018-07-20 08:01:13">
     <value xml:space="preserve">Toegang werd geweigerd.</value>
   </data>
-  <data name="AccountNotFound.ErrorMessage" lastModified="2018-07-20 10:01:13">
+  <data name="AccountNotFound.ErrorMessage" lastModified="2018-07-20 08:01:13">
     <value xml:space="preserve">Het opgegeven account is niet gevonden.</value>
   </data>
-  <data name="AuthenticationFailure.ErrorMessage" lastModified="2018-07-20 10:01:13">
+  <data name="AuthenticationFailure.ErrorMessage" lastModified="2018-07-20 08:01:13">
     <value xml:space="preserve">Een authenticatiefout is opgetreden.</value>
   </data>
-  <data name="CredentialsRequired.ErrorMessage" lastModified="2018-07-20 10:01:13">
+  <data name="CredentialsRequired.ErrorMessage" lastModified="2018-07-20 08:01:13">
     <value xml:space="preserve">Geef uw inloggegevens op voor het verversen van de containerlijst, alstublieft.</value>
   </data>
-  <data name="ListContainers.ErrorMessage" lastModified="2018-07-20 10:01:13">
+  <data name="ListContainers.ErrorMessage" lastModified="2018-07-20 08:01:13">
     <value xml:space="preserve">Er is een fout opgetreden tijdens het ophalen van de lijst met containers.</value>
   </data>
-  <data name="MultipleFolderMappingsWithSameSettings.ErrorMessage" lastModified="2018-07-20 10:01:13">
+  <data name="MultipleFolderMappingsWithSameSettings.ErrorMessage" lastModified="2018-07-20 08:01:13">
     <value xml:space="preserve">Er is nog een FolderMapping met hetzelfde Account en Container. Voer een ander account of container in.</value>
   </data>
-  <data name="NewContainer.ErrorMessage" lastModified="2018-07-20 10:01:13">
+  <data name="NewContainer.ErrorMessage" lastModified="2018-07-20 08:01:13">
     <value xml:space="preserve">Er is een fout opgetreden bij het aanmaken van de nieuwe container.</value>
   </data>
-  <data name="NewContainer.Text" lastModified="2018-07-20 10:01:13">
+  <data name="NewContainer.Text" lastModified="2018-07-20 08:01:13">
     <value xml:space="preserve">Nieuwe container</value>
   </data>
-  <data name="plAccountKey.Help" lastModified="2018-07-20 10:01:13">
+  <data name="plAccountKey.Help" lastModified="2018-07-20 08:01:13">
     <value xml:space="preserve">Voer de accountsleutel in. De primaire of secundaire Azure-toegangstoetsen kunnen worden gebruikt voor de accountsleutel.</value>
   </data>
-  <data name="plAccountKey.Text" lastModified="2018-07-20 10:01:13">
+  <data name="plAccountKey.Text" lastModified="2018-07-20 08:01:13">
     <value xml:space="preserve">Accountsleutel</value>
   </data>
-  <data name="plAccountName.Help" lastModified="2018-07-20 10:01:13">
+  <data name="plAccountName.Help" lastModified="2018-07-20 08:01:13">
     <value xml:space="preserve">Voer de accountnaam in.</value>
   </data>
-  <data name="plAccountName.Text" lastModified="2018-07-20 10:01:13">
+  <data name="plAccountName.Text" lastModified="2018-07-20 08:01:13">
     <value xml:space="preserve">Accountnaam</value>
   </data>
-  <data name="plContainerName.Help" lastModified="2018-07-20 10:01:13">
+  <data name="plContainerName.Help" lastModified="2018-07-20 08:01:13">
     <value xml:space="preserve">Voer de containernaam in of selecteer deze.</value>
   </data>
-  <data name="plContainerName.Text" lastModified="2018-07-20 10:01:13">
+  <data name="plContainerName.Text" lastModified="2018-07-20 08:01:13">
     <value xml:space="preserve">Containernaam</value>
   </data>
-  <data name="plCustomDomain.Help" lastModified="2018-07-20 12:06:50">
+  <data name="plCustomDomain.Help" lastModified="2018-07-20 10:06:50">
     <value xml:space="preserve">Voer hetzelfde aangepaste domein in dat vooraf is ingesteld in het Azure Storage Account</value>
   </data>
-  <data name="plCustomDomain.Text" lastModified="2018-07-20 12:06:50">
+  <data name="plCustomDomain.Text" lastModified="2018-07-20 10:06:50">
     <value xml:space="preserve">Aangepast domein</value>
   </data>
-  <data name="plDirectLink.Help" lastModified="2018-07-20 12:06:50">
+  <data name="plDirectLink.Help" lastModified="2018-07-20 10:06:50">
     <value xml:space="preserve">Als dit veld is aangevinkt, wijst het pad naar bestanden van dit maptype naar het echte pad. Als dit niet is aangevinkt, wordt het LinkClick-pad gebruikt.</value>
   </data>
-  <data name="plDirectLink.Text" lastModified="2018-07-20 14:36:06">
+  <data name="plDirectLink.Text" lastModified="2018-07-20 12:36:06">
     <value xml:space="preserve">Gebruik directe link</value>
   </data>
-  <data name="plUseHttps.Help" lastModified="2018-07-20 12:06:50">
+  <data name="plSyncBatchSize.Help" lastModified="2020-05-10 17:47:01">
+    <value xml:space="preserve">Geef het maximum aantal items dat kan worden opgehaald vand e Azure storage voor iedere aanvraag voor mapsynchronisatie. Des te kleiner het aantal, des te meer aanvragen er gedaan moet worden op alle gegevens op te halen. Een te groot aantal kan een time-out veroorzaken</value>
+  </data>
+  <data name="plSyncBatchSize.Text" lastModified="2020-05-10 17:47:01">
+    <value xml:space="preserve">Batchgrootte van de synchronsatie</value>
+  </data>
+  <data name="plUseHttps.Help" lastModified="2018-07-20 10:06:50">
     <value xml:space="preserve">Selecteer deze optie als u standaard HTTPS-eindpunten wilt gebruiken.</value>
   </data>
-  <data name="plUseHttps.Text" lastModified="2018-07-20 12:06:50">
+  <data name="plUseHttps.Text" lastModified="2018-07-20 10:06:50">
     <value xml:space="preserve">Gebruik HTTPS-eindpunten</value>
   </data>
-  <data name="RefreshContainerList.Text" lastModified="2018-07-20 12:06:50">
+  <data name="RefreshContainerList.Text" lastModified="2018-07-20 10:06:50">
     <value xml:space="preserve">&lt; Verversen &gt;</value>
   </data>
-  <data name="SelectContainer.Text" lastModified="2018-07-20 12:06:50">
+  <data name="SelectContainer.Text" lastModified="2018-07-20 10:06:50">
     <value xml:space="preserve">&lt; Selecteeer een container &gt;</value>
   </data>
-  <data name="SelectExistingContainer.Text" lastModified="2018-07-20 12:06:50">
+  <data name="SelectExistingContainer.Text" lastModified="2018-07-20 10:06:50">
     <value xml:space="preserve">Selecteer een bestaande container</value>
   </data>
-  <data name="tbCustomDomain.Error" lastModified="2018-07-20 12:06:50">
+  <data name="tbCustomDomain.Error" lastModified="2018-07-20 10:06:50">
     <value xml:space="preserve">De aangepaste domeinnaam moet een geldige DNS naam zijn.</value>
   </data>
-  <data name="tbCustomDomain.Help" lastModified="2018-07-20 12:06:50">
+  <data name="tbCustomDomain.Help" lastModified="2018-07-20 10:06:50">
     <value xml:space="preserve">Voer hetzelfde aangepaste domein in dat vooraf is ingesteld in het Azure Storage Account</value>
   </data>
-  <data name="valAccountKey.ErrorMessage" lastModified="2018-07-20 14:36:06">
+  <data name="tbSyncBatchSize.Error" lastModified="2020-05-10 17:47:01">
+    <value xml:space="preserve">De batchgrootte moet een positief geheel getal zijn.</value>
+  </data>
+  <data name="valAccountKey.ErrorMessage" lastModified="2018-07-20 12:36:06">
     <value xml:space="preserve">Accountsleutel is vereist.</value>
   </data>
-  <data name="valAccountName.ErrorMessage" lastModified="2018-07-20 14:36:06">
+  <data name="valAccountName.ErrorMessage" lastModified="2018-07-20 12:36:06">
     <value xml:space="preserve">Accountnaam is vereist.</value>
   </data>
-  <data name="valContainerName.ErrorMessage" lastModified="2018-07-20 14:36:06">
+  <data name="valContainerName.ErrorMessage" lastModified="2018-07-20 12:36:06">
     <value xml:space="preserve">Containernaam is vereist.</value>
   </data>
 </root>

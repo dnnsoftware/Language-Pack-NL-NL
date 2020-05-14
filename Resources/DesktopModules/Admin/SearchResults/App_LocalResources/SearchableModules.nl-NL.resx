@@ -16,7 +16,7 @@
     <value xml:space="preserve">Alle</value>
   </data>
   <data name="Crawler_tab.Text">
-    <value xml:space="preserve">Pagina's</value>
+    <value xml:space="preserve">Pagina</value>
   </data>
   <data name="Crawler_user.Text">
     <value xml:space="preserve">Gebruikers</value>
@@ -37,9 +37,9 @@
     <value xml:space="preserve">Dagboek</value>
   </data>
   <data name="Module_Text/HTML.Text">
-    <value xml:space="preserve">pagina's</value>
+    <value xml:space="preserve">pagina</value>
   </data>
   <data name="Module_Group Directory.Text">
-    <value>Groep directorie</value>
+    <value>Groep map</value>
   </data>
 </root>
