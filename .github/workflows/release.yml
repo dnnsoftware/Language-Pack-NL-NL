@@ -18,13 +18,13 @@ jobs:
     - name: Zip Release
       run: cd Resources && zip -r $FILENAME.zip *
       env:
-        FILENAME: ${{ github.event.repository.name }}_${{ steps.version.outputs.versionString }}
+        FILENAME: Dnn_Platform_${{ github.event.repository.name }}_${{ steps.version.outputs.versionString }}
 
     - name: Create Release
       uses: ncipollo/release-action@v1.6.1
       with:
         artifacts: Resources/*.zip
         body: Dnn Language pack
-        tag: ${{ steps.version.outputs.major }}.${{ steps.version.outputs.minor }}.${{ steps.version.outputs.patch }}
+        tag: v${{ steps.version.outputs.major }}.${{ steps.version.outputs.minor }}.${{ steps.version.outputs.patch }}
         # The Github token.
         token: ${{ secrets.GITHUB_TOKEN }}
