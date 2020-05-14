@@ -16,7 +16,7 @@
     <value xml:space="preserve">Exporteren</value>
   </data>
   <data name="ControlTitle_exportmodule.Text">
-    <value xml:space="preserve">Module Exporteren</value>
+    <value xml:space="preserve">Module exporteren</value>
   </data>
   <data name="Error.Text">
     <value xml:space="preserve">Er is een fout opgetreden tijdens het exporteren</value>
@@ -25,7 +25,7 @@
     <value xml:space="preserve">De geselecteerde module biedt geen ondersteuning voor het exporteren van inhoud</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">Module exporterenBeheerders kunnen de inhoud van deze module exporteren.</value>
+    <value xml:space="preserve">Module exporteren - Beheerders kunnen de inhoud van deze module exporteren</value>
   </data>
   <data name="NoContent.Text">
     <value xml:space="preserve">De geselecteerde module bevat geen inhoud</value>
@@ -46,6 +46,6 @@
     <value xml:space="preserve">Beginmap</value>
   </data>
   <data name="Validation.Text">
-    <value xml:space="preserve">U moet een map en een bestandsnaam specificeren om te kunnen exporteren</value>
+    <value xml:space="preserve">Je moet een map en een bestandsnaam specificeren om te kunnen exporteren</value>
   </data>
 </root>

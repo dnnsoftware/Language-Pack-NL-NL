@@ -16,10 +16,10 @@
     <value xml:space="preserve">Importeer</value>
   </data>
   <data name="ControlTitle_importtab.Text">
-    <value xml:space="preserve">Importeer Pagina</value>
+    <value xml:space="preserve">Importeer pagina</value>
   </data>
   <data name="EmptyTabName.Text" lastModified="2016-03-08 14:11:04">
-    <value xml:space="preserve">U niet een naam specificeren voor deze pagina.</value>
+    <value xml:space="preserve">Je moet een naam specificeren voor deze pagina.</value>
   </data>
   <data name="Error.Text">
     <value xml:space="preserve">Er is een fout opgetreden tijdens het importeren</value>
@@ -28,16 +28,16 @@
     <value xml:space="preserve">Achter</value>
   </data>
   <data name="InsertAtEnd.Text">
-    <value xml:space="preserve">Onderaan Toevoegen</value>
+    <value xml:space="preserve">Onderaan toevoegen</value>
   </data>
   <data name="InsertBefore.Text">
     <value xml:space="preserve">Voor</value>
   </data>
   <data name="InsertPosition.Help">
-    <value xml:space="preserve">Selecteer de pagina waar u deze pagina voor of achter wilt invoegen.</value>
+    <value xml:space="preserve">Selecteer de pagina waar je deze pagina voor of achter wilt invoegen.</value>
   </data>
   <data name="InsertPosition.Text">
-    <value xml:space="preserve">Pagina Invoegen:</value>
+    <value xml:space="preserve">Pagina invoegen:</value>
   </data>
   <data name="InvalidTabName.Text" lastModified="2016-03-08 14:11:04">
     <value xml:space="preserve">Dit is een ongeldige paginanaam.</value>
@@ -112,10 +112,10 @@
     <value xml:space="preserve">Specificeer de import modus.</value>
   </data>
   <data name="SpecifyName.Text">
-    <value xml:space="preserve">U moet een naam opgeven voor de pagina</value>
+    <value xml:space="preserve">Je moet een naam opgeven voor de pagina</value>
   </data>
   <data name="TabExists.Text">
-    <value xml:space="preserve">De paginanaam die u heeft gekozen is al in gebruik op het zelfde niveau in de pagina hiërarchie.</value>
+    <value xml:space="preserve">De paginanaam die je hebt gekozen is al in gebruik op het zelfde niveau in de pagina hiërarchie.</value>
   </data>
   <data name="TabRecycled.Text">
     <value xml:space="preserve">Een pagina met dezelfde naam bestaat al in de prullenmand. Om deze pagina te herstellen moet u de prullenbak gebruiker.</value>

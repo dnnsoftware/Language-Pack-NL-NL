@@ -16,7 +16,7 @@
     <value xml:space="preserve">Bron bijwerken</value>
   </data>
   <data name="ControlTitle_viewsource.Text">
-    <value xml:space="preserve">Toon Module Control bron</value>
+    <value xml:space="preserve">Toon modulecontrol bron</value>
   </data>
   <data name="NoFileTypeSelected.Text">
     <value xml:space="preserve">U moet een bestandstype selecteren voordat u op de knop bijwerken drukt.</value>

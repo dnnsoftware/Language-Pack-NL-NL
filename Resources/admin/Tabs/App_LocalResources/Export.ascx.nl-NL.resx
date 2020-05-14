@@ -16,7 +16,7 @@
     <value xml:space="preserve">Map:</value>
   </data>
   <data name="plFolder.Help">
-    <value xml:space="preserve">Selecteer de map waarin u dit sjabloon wilt opslaan</value>
+    <value xml:space="preserve">Selecteer de map waarin je dit sjabloon wilt opslaan</value>
   </data>
   <data name="plFile.Text">
     <value xml:space="preserve">Naam sjabloon:</value>
@@ -37,7 +37,7 @@
     <value xml:space="preserve">Er is een fout opgetreden tijdens het exporteren</value>
   </data>
   <data name="Validation.Text">
-    <value xml:space="preserve">U moet een map en sjabloon naam opgeven alvorens te kunnen exporteren</value>
+    <value xml:space="preserve">Je moet een map en sjabloon naam opgeven alvorens te kunnen exporteren</value>
   </data>
   <data name="Root.Text">
     <value xml:space="preserve">Hoofdmap</value>
@@ -52,15 +52,15 @@
     <value xml:space="preserve">Inclusief de inhoud van deze module</value>
   </data>
   <data name="plContent.Text">
-    <value xml:space="preserve">Inclusief Content:</value>
+    <value xml:space="preserve">Inclusief inhoud:</value>
   </data>
   <data name="ExportedMessage.Text">
     <value xml:space="preserve">Het pagina sjabloon is aangemaakt in &lt;b&gt;{0}&lt;/b&gt;</value>
   </data>
   <data name="valDescription.ErrorMessage">
-    <value xml:space="preserve">U moet een beschrijving van het sjabloon invoeren.</value>
+    <value xml:space="preserve">Je moet een beschrijving van het sjabloon invoeren.</value>
   </data>
   <data name="valFileName.ErrorMessage">
-    <value xml:space="preserve">U moet een bestandsnaam opgeven voor het sjabloon</value>
+    <value xml:space="preserve">Je moet een bestandsnaam opgeven voor het sjabloon</value>
   </data>
 </root>
