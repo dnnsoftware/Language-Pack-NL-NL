@@ -9,6 +9,7 @@ In dit taalpakket gebruiken we de **Jij** vorm.
 en-US term | *Technical term* | nl-NL vertaling | Toelichting
 --- | --- | --- | ---
 container | container | container | modulevorm op pagina
+extension |  | uitbreiding | 
 host settings |  | systeeminstellingen | 
 page | tab | pagina | pagina in de site
 pane | pane | deelvenster | onderdeel paginaindeling
