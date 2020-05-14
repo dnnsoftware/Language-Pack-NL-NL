@@ -12,17 +12,18 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AcceptTerms.Required" lastModified="2018-07-24 05:39:16">
+  <data name="AcceptTerms.Required" lastModified="2018-07-23 21:39:16">
     <value xml:space="preserve">Accepteer de gebruikersvoorwaarden om door te gaan.</value>
   </data>
-  <data name="AcceptTerms.Text" lastModified="2018-07-24 05:39:16">
+  <data name="AcceptTerms.Text" lastModified="2018-07-23 21:39:16">
     <value xml:space="preserve">Ik accepteer de &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;gebruikersvoorwaarden&lt;/a&gt;</value>
   </data>
   <data name="AccountInfo.Text">
     <value xml:space="preserve">Account informatie</value>
   </data>
-  <data name="BestPractices.Text">
-    <value xml:space="preserve">U staat op het punt om uw website te upgraden naar een recentere versie van de applicatie. Het toepassen van upgrades op een consistente basis is de beste manier om ervoor te zorgen dat u de integriteit van uw investering en de veiligheid van uw gebruikers en bezittingen te garanderen. Voordat u verder gaat met de geautomatiseerde upgrade-proces moet u ervoor zorgen dat: &lt;ul&gt; &lt;li&gt; je hebt plannen gemaakt om dit proces eerste poging in een staging-omgeving &lt;li&gt; u uw huidige installatie kenmerken gedocumenteerd in onder meer het doen van onderzoek over de verenigbaarheid van een derde partij modules die u gebruikt &lt;li&gt; die u hebt gemaakt van de nodige back-ups van uw omgeving, zodat u in staat zal zijn om uw website te herstellen in het geval van een onverwachte upgrade mislukking. &lt;/ Ul&gt;</value>
+  <data name="BestPractices.Text" lastModified="2020-05-14 07:52:07">
+    <value xml:space="preserve">Je staat op het punt om je  website te upgraden naar een recentere versie van de applicatie. Het regelmatig toepassen van upgrades is de beste manier om ervoor te zorgen dat de integriteit van de investering en de veiligheid van de gebruikers gegarandeerd blijft. 
+Voordat je verder gaat met de geautomatiseerde upgrade-proces moetje ervoor zorgen dat: &lt;ul&gt; &lt;li&gt;je deze eerst probeert in een testomgeving&lt;/li&gt;&lt;li&gt;er een back-up is van de huidige installatie&lt;/li&gt;&lt;li&gt;eventueel aangeschafte extensies van derden werken in de nieuwe omgeving&lt;/li&gt;&lt;/ ul&gt;</value>
   </data>
   <data name="CurrentVersion.Text">
     <value xml:space="preserve">Huidige versie - {0}</value>
@@ -36,32 +37,32 @@
   <data name="ErrorInStep.Text">
     <value xml:space="preserve">Er is een fout opgetreden - {0}</value>
   </data>
-  <data name="ExtensionsUpgrade.Text">
-    <value xml:space="preserve">Extensies bijwerken</value>
+  <data name="ExtensionsUpgrade.Text" lastModified="2020-05-14 09:53:57">
+    <value xml:space="preserve">Uitbreidingen bijwerken</value>
   </data>
-  <data name="ImprovementProgramExplain.Text" lastModified="2018-07-24 07:42:10">
-    <value xml:space="preserve">Het product improvement program stelt ons in staat om beter te kunnen begrijpen hoe we DNN voor u kunnen verbeteren. De data helpt ons het gebruik te analyseren en laat ons inzien wat belangrijk is voor de mensen die dit product gebruiken. Alle data is anoniem en alleen voor intern gebruik. Voor meer informatie over het&lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;Product Improvement Program&lt;/a&gt;.</value>
+  <data name="ImprovementProgramExplain.Text" lastModified="2020-05-14 09:53:57">
+    <value xml:space="preserve">Het productverbeterprogramma stelt de DNN Community in staat om beter te kunnen begrijpen hoe we DNN kunnen verbeteren. De gegevens helpen ons het gebruik te analyseren en laten ons inzien wat belangrijk is voor de mensen die dit product gebruiken. Alle data is anoniem en alleen voor intern gebruik. Voor meer informatie over het&lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;Product Improvement Program&lt;/a&gt;.</value>
   </data>
-  <data name="ImprovementProgramLabel.Text" lastModified="2018-07-24 09:44:15">
-    <value xml:space="preserve">Stuur anonieme gebruiks informatie naar DNN</value>
+  <data name="ImprovementProgramLabel.Text" lastModified="2020-05-14 09:53:57">
+    <value xml:space="preserve">Stuur anonieme gebruiksinformatie naar DNN</value>
   </data>
-  <data name="ImprovementsProgramTitle.Text" lastModified="2020-05-10 17:14:20">
+  <data name="ImprovementsProgramTitle.Text" lastModified="2020-05-10 09:14:20">
     <value xml:space="preserve">Programma voor productverbetering</value>
   </data>
-  <data name="IntroDetail.Text">
-    <value xml:space="preserve">&lt;p&gt; Welkom op de DotNetNuke Upgrade Pagina.&lt;/p&gt;De eerste stap is het kiezen van de taal die u wilt gebruiken voor de upgrade.&lt;/p&gt;</value>
+  <data name="IntroDetail.Text" lastModified="2020-05-14 09:53:57">
+    <value xml:space="preserve">&lt;p&gt; Welkom op de DNN Upgrade Pagina.&lt;/p&gt;De eerste stap is het kiezen van de taal die je wilt gebruiken voor de upgrade.&lt;/p&gt;</value>
   </data>
   <data name="InvalidCredentials.Text">
     <value xml:space="preserve">Gebruikersnaam en wachtwoord niet herkend</value>
   </data>
-  <data name="Next.Text">
-    <value xml:space="preserve">Nu Upgraden</value>
+  <data name="Next.Text" lastModified="2020-05-14 09:53:57">
+    <value xml:space="preserve">Start upgraden</value>
   </data>
   <data name="NoInstallationLog.Text">
     <value xml:space="preserve">Geen installatie log</value>
   </data>
-  <data name="Password.Help">
-    <value xml:space="preserve">Het wachtwoord voor het Super User account</value>
+  <data name="Password.Help" lastModified="2020-05-14 14:01:46">
+    <value xml:space="preserve">Het wachtwoord voor het hoofdgebruikersaccount</value>
   </data>
   <data name="Password.Text">
     <value xml:space="preserve">Wachtwoord:</value>
@@ -84,26 +85,26 @@
   <data name="UpgradeDone.Text">
     <value xml:space="preserve">Upgrade voltooid</value>
   </data>
-  <data name="UpgradeStarted.Text" lastModified="2018-07-24 09:44:15">
+  <data name="UpgradeStarted.Text" lastModified="2018-07-24 01:44:15">
     <value xml:space="preserve">Upgrade gestart om</value>
   </data>
   <data name="UpgradingDatabase.Text">
     <value xml:space="preserve">Database bijwerken</value>
   </data>
-  <data name="Username.Help">
-    <value xml:space="preserve">De gebruikersnaam voor het Super User account</value>
+  <data name="Username.Help" lastModified="2020-05-14 12:01:01">
+    <value xml:space="preserve">De gebruikersnaam voor het hoofdgebruiker account</value>
   </data>
-  <data name="Username.Text">
-    <value xml:space="preserve">Host (SuperUser) Gebruikersnaam:</value>
+  <data name="Username.Text" lastModified="2020-05-14 14:01:46">
+    <value xml:space="preserve">Systeem (SuperUser) hoofdgebruikersnaam:</value>
   </data>
   <data name="Version.Text">
     <value xml:space="preserve">Upgrade - versie {0}</value>
   </data>
-  <data name="VersionsMatch.Text" lastModified="2018-07-24 09:44:15">
+  <data name="VersionsMatch.Text" lastModified="2018-07-24 01:44:15">
     <value xml:space="preserve">Database en applicatie versie zijn gelijk - geen uprade om toe te passen.</value>
   </data>
-  <data name="VersionsMatchButIncrementalExists.Text" lastModified="2018-07-24 09:44:15">
-    <value xml:space="preserve">Database en applicatie versie zijn gelijk - geen incrementele release om naar up te graden.</value>
+  <data name="VersionsMatchButIncrementalExists.Text" lastModified="2020-05-14 12:01:01">
+    <value xml:space="preserve">Database en applicatie versie zijn gelijk - er is een incrementele ugrade versie beschikbaar.</value>
   </data>
   <data name="ViewWebsite.Text">
     <value xml:space="preserve">Website weergeven</value>
