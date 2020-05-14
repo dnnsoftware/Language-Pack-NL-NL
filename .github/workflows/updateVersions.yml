@@ -28,4 +28,3 @@ jobs:
           ACTOR: ${{ github.actor }}
           TOKEN: ${{ github.token }}
           REPOSITORY: ${{ github.repository }}
-        
