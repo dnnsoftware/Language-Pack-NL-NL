@@ -57,17 +57,17 @@
   <data name="FileUpload.DragAndDropAreaTitle.Text">
     <value xml:space="preserve">Sleep bestanden of klik om te bladeren</value>
   </data>
-  <data name="FileUpload.EmptyFileUpload.Error">
-    <value xml:space="preserve">Uw browser ondersteunt geen uploads van lege bestanden</value>
+  <data name="FileUpload.EmptyFileUpload.Error" lastModified="2020-05-15 15:58:36">
+    <value xml:space="preserve">Je browser ondersteunt geen uploads van lege bestanden</value>
   </data>
   <data name="FileUpload.ErrorDialogTitle.Text">
     <value xml:space="preserve">Fout</value>
   </data>
-  <data name="FileUpload.FileAlreadyExists.Error">
-    <value xml:space="preserve">Het bestand dat u wilt uploaden bestaat al in de map</value>
+  <data name="FileUpload.FileAlreadyExists.Error" lastModified="2020-05-15 15:58:36">
+    <value xml:space="preserve">Het bestand dat je wilt uploaden bestaat al in de map</value>
   </data>
-  <data name="FileUpload.FileIsTooLarge.Error">
-    <value xml:space="preserve">Bestandsgrootte groter dan {0}</value>
+  <data name="FileUpload.FileIsTooLarge.Error" lastModified="2020-05-15 15:58:36">
+    <value xml:space="preserve">Bestandsgrootte meer dan {0}</value>
   </data>
   <data name="FileUpload.FileUploadCancelled.Error">
     <value xml:space="preserve">Upload geannuleerd</value>
@@ -78,8 +78,8 @@
   <data name="FileUpload.FileUploadFailed.Error">
     <value xml:space="preserve">Upload mislukt</value>
   </data>
-  <data name="FileUpload.InvalidFileExtensions.Error">
-    <value xml:space="preserve">Geselecteerde bestanden met ongeldige extensies zijn niet geüpload. U kunt alleen bestanden uploaden met de volgende extenties: {0}.</value>
+  <data name="FileUpload.InvalidFileExtensions.Error" lastModified="2020-05-15 15:58:36">
+    <value xml:space="preserve">Geselecteerde bestanden met ongeldige extensies zijn niet geüpload. Je kunt alleen bestanden uploaden met de volgende extenties: {0}.</value>
   </data>
   <data name="FileUpload.KeepButton.Text">
     <value xml:space="preserve">Behouden</value>
@@ -90,8 +90,8 @@
   <data name="FileUpload.Title.Text">
     <value xml:space="preserve">Upload bestanden</value>
   </data>
-  <data name="FileUpload.TooManyFiles.Error">
-    <value xml:space="preserve">U kunt niet meer dan {0} bestanden per keer uploaden.</value>
+  <data name="FileUpload.TooManyFiles.Error" lastModified="2020-05-15 15:58:36">
+    <value xml:space="preserve">Je kunt niet meer dan {0} bestanden per keer uploaden.</value>
   </data>
   <data name="FileUpload.UploadFileMethod.Text">
     <value xml:space="preserve">Upload bestand</value>
@@ -123,8 +123,8 @@
   <data name="NoMatches.Text">
     <value xml:space="preserve">Geen overeenkomsten</value>
   </data>
-  <data name="NoPermission.Text">
-    <value xml:space="preserve">U bent niet bevoegd bestanden te bekijken in het bestandsysteem van deze site</value>
+  <data name="NoPermission.Text" lastModified="2020-05-15 15:58:36">
+    <value xml:space="preserve">Je bent niet bevoegd bestanden te bekijken in het bestandsysteem van deze site</value>
   </data>
   <data name="Ok.Text">
     <value xml:space="preserve">Ok</value>
@@ -132,8 +132,8 @@
   <data name="PasswordRulesBodyText.Text">
     <value xml:space="preserve">Bevat tenminste {0} karakters, 1 hoofdletter, 1 nummer en {1}.</value>
   </data>
-  <data name="PasswordRulesHeadText.Text">
-    <value xml:space="preserve">Wachtwoord regels:</value>
+  <data name="PasswordRulesHeadText.Text" lastModified="2020-05-15 15:58:36">
+    <value xml:space="preserve">Wachtwoordregels:</value>
   </data>
   <data name="PasswordStrengthFair.Text">
     <value xml:space="preserve">redelijk</value>
