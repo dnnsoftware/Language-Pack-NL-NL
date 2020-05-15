@@ -21,7 +21,7 @@
   <data name="ExtensionNotAllowed.Text">
     <value xml:space="preserve">Deze bestandsextensie is niet toegestaan</value>
   </data>
-  <data name="NoPermission.Text">
-    <value xml:space="preserve">Niet toegestaan</value>
+  <data name="NoPermission.Text" lastModified="2020-05-15 13:41:24">
+    <value xml:space="preserve">Onvoldoende rechten</value>
   </data>
 </root>
