@@ -34,16 +34,16 @@
     <value xml:space="preserve">&lt;span&gt;{0}&lt;/span&gt;&lt;strong&gt;Meldingen&lt;/strong&gt;</value>
   </data>
   <data name="ProfileAvatar.Text">
-    <value xml:space="preserve">Profiel Avatar</value>
+    <value xml:space="preserve">Profiel avatar</value>
   </data>
   <data name="Register.Text">
     <value xml:space="preserve">Registreren</value>
   </data>
   <data name="ToolTip.Text">
-    <value xml:space="preserve">Klik hier om naar uw profiel te gaan.</value>
+    <value xml:space="preserve">Klik hier om naar je profiel te gaan.</value>
   </data>
   <data name="ToolTipNewMessages.Text">
-    <value xml:space="preserve">U heeft {0} nieuwe bericht(en). Klik hier om naar uw profiel pagina te gaan.</value>
+    <value xml:space="preserve">Je hebt {0} nieuwe bericht(en). Klik hier om naar je profiel pagina te gaan.</value>
   </data>
   <data name="VisitMyProfile.Text">
     <value xml:space="preserve">Bezoek mijn profiel</value>

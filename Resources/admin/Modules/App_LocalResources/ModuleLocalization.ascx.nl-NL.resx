@@ -16,16 +16,16 @@
     <value xml:space="preserve">Cultuur</value>
   </data>
   <data name="UnBound.Header">
-    <value xml:space="preserve">Is los gekoppeld?</value>
+    <value xml:space="preserve">Is losgekoppeld?</value>
   </data>
   <data name="markModuleTranslated.Text">
-    <value xml:space="preserve">Markeer als Vertaald</value>
+    <value xml:space="preserve">Markeer als vertaald</value>
   </data>
   <data name="markModuleUnTranslated.Text">
-    <value xml:space="preserve">Markeer als Niet Vertaald</value>
+    <value xml:space="preserve">Markeer als niet vertaald</value>
   </data>
   <data name="ModuleTitle.Header">
-    <value xml:space="preserve">Module Titel</value>
+    <value xml:space="preserve">Module titel</value>
   </data>
   <data name="Translated.Header">
     <value xml:space="preserve">Vertaald?</value>
@@ -40,12 +40,12 @@
     <value xml:space="preserve">Module</value>
   </data>
   <data name="bindModule.Text">
-    <value xml:space="preserve">Referentie Standaard Cultuur</value>
+    <value xml:space="preserve">Referentie standaard cultuur</value>
   </data>
   <data name="unbindModule.Text">
     <value xml:space="preserve">Loskoppelen van standaard taal</value>
   </data>
   <data name="BindConfirm.Text">
-    <value xml:space="preserve">Koppelen aan de standaard cultuur versie zal de inhoud uit de subcultuur versies verwijderen. Deze actie is onomkeerbaar. Weet u zeker dat u verder wil gaan?</value>
+    <value xml:space="preserve">Koppelen aan de standaard cultuur versie zal de inhoud uit de subcultuur versies verwijderen. Deze actie is onomkeerbaar. Weet je zeker dat je verder wil gaan?</value>
   </data>
 </root>
