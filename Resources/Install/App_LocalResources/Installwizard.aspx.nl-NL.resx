@@ -15,23 +15,23 @@
   <data name="AcceptTerms.Required">
     <value xml:space="preserve">Ga akkoord met de gebruikersvoorwaarden om door te gaan.</value>
   </data>
-  <data name="AcceptTerms.Text">
-    <value xml:space="preserve">Ik ga akkoord met de  &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;gebruikersvoorwaardenlicense&lt;/a&gt;</value>
+  <data name="AcceptTerms.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Ik ga akkoord met de  &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;gebruikersvoorwaardenl/a&gt;</value>
   </data>
-  <data name="AccountInfo.Text">
-    <value xml:space="preserve">Vul uw account informatie in</value>
+  <data name="AccountInfo.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Vul je accountinformatie in</value>
   </data>
-  <data name="AccountInfoIntro.Text">
-    <value xml:space="preserve">Vul de volgende informatie in om uw omgeving te installeren.</value>
+  <data name="AccountInfoIntro.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Vul de volgende informatie in om je omgeving te installeren.</value>
   </data>
   <data name="AdminInfo.Text">
     <value xml:space="preserve">Administratieve informatie</value>
   </data>
-  <data name="CheckingIIS.Text">
-    <value xml:space="preserve">Controleren van IIS configuratie</value>
+  <data name="CheckingIIS.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Controleren van de IIS configuratie</value>
   </data>
-  <data name="ChooseDbError.Text">
-    <value xml:space="preserve">U dient een type database te selecteren</value>
+  <data name="ChooseDbError.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Je moet een type database te selecteren</value>
   </data>
   <data name="cmdContinue.Text">
     <value xml:space="preserve">Volgende</value>
@@ -57,8 +57,8 @@
   <data name="DatabaseAdvanced.Text">
     <value xml:space="preserve">Aangepast</value>
   </data>
-  <data name="DatabaseConnectionError.Text">
-    <value xml:space="preserve">Database Connectie Error</value>
+  <data name="DatabaseConnectionError.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Databaseconnectie fout</value>
   </data>
   <data name="DatabaseError.Text">
     <value xml:space="preserve">Connectie met database niet mogelijk.</value>
@@ -66,26 +66,26 @@
   <data name="DatabaseFilename.Help">
     <value xml:space="preserve">Naam van database bestand.</value>
   </data>
-  <data name="DatabaseFilename.Required">
-    <value xml:space="preserve">Database bestandsnaam is benodigd.</value>
+  <data name="DatabaseFilename.Required" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Databasebestandsnaam is benodigd.</value>
   </data>
   <data name="DatabaseFilename.Text">
     <value xml:space="preserve">Bestandsnaam</value>
   </data>
-  <data name="DatabaseInfo.Text">
-    <value xml:space="preserve">Database Informatie</value>
+  <data name="DatabaseInfo.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Databaseinformatie</value>
   </data>
-  <data name="DatabaseInstallation.Text">
-    <value xml:space="preserve">Database Installatie</value>
+  <data name="DatabaseInstallation.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Databaseinstallatie</value>
   </data>
   <data name="DatabaseName.Help">
     <value xml:space="preserve">De naam van de database.</value>
   </data>
-  <data name="DatabaseName.Required">
-    <value xml:space="preserve">Database naam is benodigd.</value>
+  <data name="DatabaseName.Required" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Databasenaam is benodigd.</value>
   </data>
-  <data name="DatabaseName.Text">
-    <value xml:space="preserve">Database naam</value>
+  <data name="DatabaseName.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Databasenaam</value>
   </data>
   <data name="DatabaseObjectQualifier.Help">
     <value xml:space="preserve">De object qualifier voor uw website.</value>
@@ -93,23 +93,23 @@
   <data name="DatabaseObjectQualifier.Text">
     <value xml:space="preserve">Object Qualifier </value>
   </data>
-  <data name="DatabaseOwner.Text" lastModified="2018-07-24 09:44:46">
-    <value xml:space="preserve">Database Eigenaar</value>
+  <data name="DatabaseOwner.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Databaseeigenaar</value>
   </data>
   <data name="DatabasePassword.Help">
     <value xml:space="preserve">Wachtwoord van de database.</value>
   </data>
-  <data name="DatabasePassword.Required">
-    <value xml:space="preserve">Database wachtwoord is benodigd.</value>
+  <data name="DatabasePassword.Required" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Databasewachtwoord is benodigd.</value>
   </data>
-  <data name="DatabasePassword.Text">
-    <value xml:space="preserve">Database Wachtwoord</value>
+  <data name="DatabasePassword.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Databasewachtwoord</value>
   </data>
-  <data name="DatabaseRunAs.Help">
-    <value xml:space="preserve">Draai database als de specificeerde gebruiker.</value>
+  <data name="DatabaseRunAs.Help" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Gebruik de database met de opgegeven databasegebruiker.</value>
   </data>
-  <data name="DatabaseRunAs.Text">
-    <value xml:space="preserve">Draai database als</value>
+  <data name="DatabaseRunAs.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Gebruik de database als</value>
   </data>
   <data name="DatabaseSecurity.Help">
     <value xml:space="preserve">Het type beveiliging dat wordt gebruikt voor de database.</value>
@@ -117,20 +117,20 @@
   <data name="DatabaseSecurity.Text">
     <value xml:space="preserve">Beveiliging</value>
   </data>
-  <data name="DatabaseServer.Help">
-    <value xml:space="preserve">De naam van de database server.</value>
+  <data name="DatabaseServer.Help" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">De naam van de databaseserver.</value>
   </data>
-  <data name="DatabaseServer.Required">
-    <value xml:space="preserve">Database server naam is benodigd.</value>
+  <data name="DatabaseServer.Required" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Databaseserver naam is benodigd.</value>
   </data>
-  <data name="DatabaseServer.Text">
-    <value xml:space="preserve">Server naam</value>
+  <data name="DatabaseServer.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Servernaam</value>
   </data>
-  <data name="DatabaseSetup.Help">
-    <value xml:space="preserve">Standaard of geavanceerde database setup.</value>
+  <data name="DatabaseSetup.Help" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Standaard of geavanceerde database instellingen.</value>
   </data>
-  <data name="DatabaseSetup.Text">
-    <value xml:space="preserve">Database setup</value>
+  <data name="DatabaseSetup.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Database instellingen</value>
   </data>
   <data name="DatabaseStandard.Text">
     <value xml:space="preserve">Standaard</value>
@@ -138,8 +138,8 @@
   <data name="DatabaseType.Help">
     <value xml:space="preserve">Type database dat wordt gebruikt voor de installatie.</value>
   </data>
-  <data name="DatabaseType.Text" lastModified="2020-05-10 17:13:30">
-    <value xml:space="preserve">Soort database</value>
+  <data name="DatabaseType.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Type database</value>
   </data>
   <data name="DatabaseUsername.Help">
     <value xml:space="preserve">De gebruikersnaam voor de database.</value>
@@ -153,35 +153,35 @@
   <data name="DbSecurityIntegrated.Text">
     <value xml:space="preserve">Geïntegreerd</value>
   </data>
-  <data name="DbSecurityUserDefined.Text">
-    <value xml:space="preserve">Door gebruiker gespecificeerd</value>
+  <data name="DbSecurityUserDefined.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Door de gebruiker gespecificeerd</value>
   </data>
   <data name="DeletingOldFiles.Text">
     <value xml:space="preserve">Verwijderen van oudere bestanden voor</value>
   </data>
-  <data name="DotNetVersion472Required.Text" lastModified="2020-05-10 17:13:30">
+  <data name="DotNetVersion472Required.Text" lastModified="2020-05-10 13:13:30">
     <value xml:space="preserve">.Net Framework 4.7.2 is vereist. COntroleer de Windows updates voordat u verder gaat.</value>
   </data>
-  <data name="Email.Help">
-    <value xml:space="preserve">Vul een emailadres in voor deze gebruiker</value>
+  <data name="Email.Help" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Vul een e-mailadres in voor deze gebruiker</value>
   </data>
-  <data name="Email.Invalid">
-    <value xml:space="preserve">Het ingevulde emailadres is niet geldig</value>
+  <data name="Email.Invalid" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Het ingevulde e-mailadres is niet geldig</value>
   </data>
-  <data name="Email.Required">
-    <value xml:space="preserve">Een emailadres is vereist</value>
+  <data name="Email.Required" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Een e-mailadres is vereist</value>
   </data>
-  <data name="Email.Text">
-    <value xml:space="preserve">Emailadres:</value>
+  <data name="Email.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">E-mailadres:</value>
   </data>
-  <data name="Error.Text">
-    <value xml:space="preserve">Error </value>
+  <data name="Error.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Fout</value>
   </data>
-  <data name="ErrorInStep.Text">
-    <value xml:space="preserve"> Er heeft zich een fout voorgedaan - {0}</value>
+  <data name="ErrorInStep.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Er heeft zich een fout voorgedaan - {0}</value>
   </data>
-  <data name="ExtensionsInstallation.Text">
-    <value xml:space="preserve">Extensie installatie</value>
+  <data name="ExtensionsInstallation.Text" lastModified="2020-05-14 11:41:07">
+    <value xml:space="preserve">Installatie uitbreiding</value>
   </data>
   <data name="FcnMode.Text">
     <value xml:space="preserve">FcnMode toevoegen</value>
@@ -189,10 +189,10 @@
   <data name="FileAndFolderPermissionCheck.Text">
     <value xml:space="preserve">Controle van machtiging op mappen en bestanden</value>
   </data>
-  <data name="FileAndFolderPermissionCheckFailed.Text">
-    <value xml:space="preserve">&amp;lt;div class="permission"&amp;gt;&amp;lt;img alt=afbeelding geeft de beveiligingsintellingen van de hoofdfolder van de website weer, Dit moet zijn Lezen, Schrijven en Wijzingen voor de ASPNET of NT AUTHORITY/NETWORK SERVICE accounts." src="..\403-3.gif" align="right" hspace="10"/&amp;gt;
+  <data name="FileAndFolderPermissionCheckFailed.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">&amp;lt;div class="permission"&amp;gt;&amp;lt;img alt=afbeelding geeft de beveiligingsintellingen van de hoofdmap van de website weer, Dit moet zijn Lezen, Schrijven en Wijzingen voor de ASPNET of NT AUTHORITY/NETWORK SERVICE accounts." src="..\403-3.gif" align="right" hspace="10"/&amp;gt;
 &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color='red'&amp;gt;De website voldoet niet aan de beveiligingscheck&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
-Bij gebruik van Windows Explorer, browse naar de folders van uw website ( {0} ). Rechter muis klik op de  folder en selecteer delen en beveiliging uit het popup menu. selecteer de beveiligings tab. Voeg de benodigde gebruikers toe en stel de juiste rechten in.
+Bij gebruik van Windows Explorer, browse naar de map van uw website ( {0} ). Rechter muis klik op de  map en selecteer delen en beveiliging uit het popup menu. selecteer de beveiligings tab. Voeg de benodigde gebruikers toe en stel de juiste rechten in.
 &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
 &amp;lt;h3&amp;gt;Bij gebruik van Windows 2000 - IIS5&amp;lt;/h3&amp;gt;
 &amp;lt;p&amp;gt;De ASPNET User Account moet Lees, Schrijf, en wijzing rechten hebben op de hoofdfolder van uw website&amp;lt;/p&amp;gt;
@@ -216,26 +216,26 @@ Bij gebruik van Windows Explorer, browse naar de folders van uw website ( {0} ).
   <data name="FolderDeleteCheck.Text">
     <value xml:space="preserve">Controleren van verwijderen van map</value>
   </data>
-  <data name="HostWarning.Text">
-    <value xml:space="preserve">Uw hostnaam bevat illegale karacters (alleen a-Z, 0-9, - en . zijn toegestaan). U dient de gebruikersnaam aan te passen.</value>
+  <data name="HostWarning.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">Je hostnaam bevat illegale tekens (alleen a-Z, 0-9, - en . zijn toegestaan). Je moet de gebruikersnaam aanpassen.</value>
   </data>
   <data name="IISVerificationFail.Text">
     <value xml:space="preserve">AppPool in IIS moet onder Integrated Mode draaien</value>
   </data>
-  <data name="ImprovementProgramExplain.Text">
-    <value xml:space="preserve">Het product verbeter programma stelt ons in staat om een beter beeld te krijgen hoe we DNN kunnen verbeteren voor jou. De data helpt ons om het gebruik te analyseren en om te zien wat belangrijk is voor de mensen die ons product gebruiken. Alle data is anoniem en alleen voor intern gebruik. Kijk voor meer informatie op &amp;lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&amp;gt;Product Improvement Program&amp;lt;/a&amp;gt;.</value>
+  <data name="ImprovementProgramExplain.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">Het productverbeterprogramma stelt de DNN Community in staat om een beter beeld te krijgen hoe we DNN kunnen verbeteren voor jou. De gegevens helpen om het gebruik te analyseren en om te zien wat belangrijk is voor de mensen die DNN gebruiken. Alle data is anoniem en alleen voor intern gebruik. Kijk voor meer informatie op &amp;lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&amp;gt;Product Improvement Program&amp;lt;/a&amp;gt;.</value>
   </data>
   <data name="ImprovementProgramLabel.Text">
     <value xml:space="preserve">Stuur anonieme gebruikersinformatie naar DNN</value>
   </data>
-  <data name="ImprovementsProgramTitle.Text">
-    <value xml:space="preserve">product verbetering programma</value>
+  <data name="ImprovementsProgramTitle.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">Productverbeteringsprogramma</value>
   </data>
-  <data name="InitHostSetting.Text">
-    <value xml:space="preserve">Doorvoeren van Host instellingen</value>
+  <data name="InitHostSetting.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">Initialiseren van Host instellingen</value>
   </data>
-  <data name="InputErrorInvalidPassword.Text">
-    <value xml:space="preserve">Het ingegeven wachtwoord voldoet niet aan de minimale wachtwoord verplichting.</value>
+  <data name="InputErrorInvalidPassword.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">Het ingegeven wachtwoord voldoet niet aan de minimale wachtwoord vereisten.</value>
   </data>
   <data name="InputErrorMissingRequiredFields.Text">
     <value xml:space="preserve">Verplichte velden niet ingevuld</value>
@@ -279,20 +279,20 @@ Bij gebruik van Windows Explorer, browse naar de folders van uw website ( {0} ).
   <data name="InvalidQualifier.Text">
     <value xml:space="preserve">De objectqualifier moet met een letter beginnen en mag niet langer zijn dan 20 tekens</value>
   </data>
-  <data name="IsAbleToPerformDatabaseActions.Text">
-    <value xml:space="preserve">De door u opgegeven database gebruiker heeft onvoldoende rechten (dbo) om te kunnen installeren</value>
+  <data name="IsAbleToPerformDatabaseActions.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">De door jou opgegeven database gebruiker heeft onvoldoende rechten (dbo) om te kunnen installeren</value>
   </data>
   <data name="IsAbleToPerformDatabaseActionsCheck.Text">
     <value xml:space="preserve">Controleren of database gebruiker in staat is om de  benodigde acties uit te voeren</value>
   </data>
-  <data name="IsSqlServerDbo.Text">
-    <value xml:space="preserve">De door u opgegeven database gebruiker heeft geen dbo rechten</value>
+  <data name="IsSqlServerDbo.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">De door jou opgegeven database gebruiker heeft geen dbo rechten</value>
   </data>
-  <data name="IsValidDotNetVersion.Text">
-    <value xml:space="preserve">DotNetNuke heeft .net 4.0 of hoger nodig om te kunnen werken</value>
+  <data name="IsValidDotNetVersion.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">DNN heeft .net 4.0 of hoger nodig om te kunnen werken</value>
   </data>
-  <data name="IsValidSqlServerVersion.Text">
-    <value xml:space="preserve">DotNetNuke heeft SQL 2008 (Express of volledig product) nodig om te kunnen werken.</value>
+  <data name="IsValidSqlServerVersion.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">DNN heeft SQL 2008 (Express of volledig product) nodig om te kunnen werken.</value>
   </data>
   <data name="IsValidSqlServerVersionCheck.Text">
     <value xml:space="preserve">Controleren of database versie SQL 2008 (express of volledig product) of hoger is</value>
@@ -327,14 +327,14 @@ Bij gebruik van Windows Explorer, browse naar de folders van uw website ( {0} ).
   <data name="LegacyLangaugePack.Text">
     <value xml:space="preserve">Dit taalpakket is ouder dan de huidige applicatie versie: </value>
   </data>
-  <data name="LicenseActivation.Text">
-    <value xml:space="preserve">Activeren van licentie</value>
+  <data name="LicenseActivation.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">Activeren van de licentie</value>
   </data>
-  <data name="NoErrorsLogged.Text">
-    <value xml:space="preserve">Er zijn geen installatie errors gelogd</value>
+  <data name="NoErrorsLogged.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">Er zijn geen installatie fouten gevonden en vastgelegd</value>
   </data>
-  <data name="NoInstallationLog.Text">
-    <value xml:space="preserve">Geen installatie log</value>
+  <data name="NoInstallationLog.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">Geen installatielog</value>
   </data>
   <data name="PageTitle.Text">
     <value xml:space="preserve">Installatie</value>
@@ -363,8 +363,8 @@ Bij gebruik van Windows Explorer, browse naar de folders van uw website ( {0} ).
   <data name="SeeLogs.Text">
     <value xml:space="preserve">Bekijk Logs</value>
   </data>
-  <data name="SkipCreatingSite.Text">
-    <value xml:space="preserve">Portal Alias [{0}] is al aanwezig. Deze stap wordt over geslagen.</value>
+  <data name="SkipCreatingSite.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">Site Alias [{0}] is al aanwezig. Deze stap wordt over geslagen.</value>
   </data>
   <data name="SqlTypeExpress.Text">
     <value xml:space="preserve">SQL server express bestand</value>
@@ -394,8 +394,8 @@ Standaard database installatie opties niet beschikbaar</value>
   <data name="TemplateSolutions.Text">
     <value xml:space="preserve">Solutions website</value>
   </data>
-  <data name="TestingDatabase.Text">
-    <value xml:space="preserve">Controleren van database connectie</value>
+  <data name="TestingDatabase.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">Controleren van databaseconnectie</value>
   </data>
   <data name="TimerMinutes.Text">
     <value xml:space="preserve">Minuten</value>
@@ -433,17 +433,17 @@ Standaard database installatie opties niet beschikbaar</value>
   <data name="WebsiteInfo.Text">
     <value xml:space="preserve">Website informatie</value>
   </data>
-  <data name="WebsiteName.Help">
-    <value xml:space="preserve">Geef de naam op die u wilt gebruiken voor uw website</value>
+  <data name="WebsiteName.Help" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">Geef de websitenaam op die je wilt gebruiken </value>
   </data>
-  <data name="WebsiteName.Required">
-    <value xml:space="preserve">Website naam is verplicht.</value>
+  <data name="WebsiteName.Required" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">Websitenaam is verplicht.</value>
   </data>
-  <data name="WebsiteName.Text">
-    <value xml:space="preserve">Website naam</value>
+  <data name="WebsiteName.Text" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">Websitenaam</value>
   </data>
-  <data name="WebsiteTemplate.Help">
-    <value xml:space="preserve">Het soort website dat u wilt maken.</value>
+  <data name="WebsiteTemplate.Help" lastModified="2020-05-14 13:47:45">
+    <value xml:space="preserve">Het type website dat je wilt maken.</value>
   </data>
   <data name="WebsiteTemplate.Text">
     <value xml:space="preserve">Sjabloon</value>
