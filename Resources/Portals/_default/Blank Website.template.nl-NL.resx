@@ -12,11 +12,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="LocalizedTemplateName.Text" lastModified="2020-05-12 09:49:44">
-    <value xml:space="preserve">Blanco website</value>
+  <data name="LocalizedTemplateName.Text" lastModified="2020-05-14 14:36:24">
+    <value xml:space="preserve">Lege website</value>
   </data>
-  <data name="PortalDescription.Text" lastModified="2020-05-12 09:49:44">
-    <value xml:space="preserve">Blanco sjabloon</value>
+  <data name="PortalDescription.Text" lastModified="2020-05-14 14:36:24">
+    <value xml:space="preserve">Sjabloon voor lege site</value>
   </data>
   <data name="RoleGroup.Description.Text">
     <value xml:space="preserve">Een dummy rol groep die de globale rollen vertegenwoordigd</value>
@@ -27,16 +27,16 @@
   <data name="Setting.FooterText.Text">
     <value xml:space="preserve">Copyright [year]</value>
   </data>
-  <data name="Tab.404ErrorPage..Module.Content.Text">
-    <value xml:space="preserve">Helaas, de pagina die u probeert op te vragen kan niet gevonden worden en is misschien verwijderd, of de naam is gewijzigd of is tijdelijk niet beschikbaar. Ga terug naar de home pagina en begin daar opnieuw. NEem contact op met de website beheerder als het probleem weer optreedt en u niet kunt vinden waarnaar u op zoek bent.</value>
+  <data name="Tab.404ErrorPage..Module.Content.Text" lastModified="2020-05-14 14:36:24">
+    <value xml:space="preserve">Helaas, de pagina die je probeert op te vragen kan niet gevonden worden en is misschien verwijderd, of de naam is gewijzigd of is tijdelijk niet beschikbaar. Ga terug naar de home pagina en begin daar opnieuw. Neem contact op met de website beheerder als het probleem weer optreedt en je niet kunt vinden waar je naar op zoek bent.</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Title.Text">
     <value xml:space="preserve">Pagina is niet gevonden.</value>
   </data>
-  <data name="Tab.404ErrorPage.Content.Text" lastModified="2020-05-12 09:49:44">
+  <data name="Tab.404ErrorPage.Content.Text" lastModified="2020-05-12 07:49:44">
     <value xml:space="preserve">404 Fout: Pagina niet gevonden</value>
   </data>
-  <data name="Tab.404ErrorPage.Title.Text" lastModified="2020-05-12 09:49:44">
+  <data name="Tab.404ErrorPage.Title.Text" lastModified="2020-05-12 07:49:44">
     <value xml:space="preserve">404 Fout Pagina</value>
   </data>
   <data name="Tab.About.RightPane.OtherModule.Content.8.Text">
@@ -54,13 +54,13 @@
   <data name="Tab.AdvancedSettings.Title.Text">
     <value xml:space="preserve">Geavanceerde configuratie instellingen</value>
   </data>
-  <data name="Tab.DCCManager.Title.Text" lastModified="2015-12-31 08:48:58">
+  <data name="Tab.DCCManager.Title.Text" lastModified="2015-12-31 07:48:58">
     <value xml:space="preserve">Dynamic Content Type Manager</value>
   </data>
-  <data name="Tab.DigitalAssetsManagement.Title.Text" lastModified="2015-12-31 08:48:58">
+  <data name="Tab.DigitalAssetsManagement.Title.Text" lastModified="2015-12-31 07:48:58">
     <value xml:space="preserve">Bestandsbeheerder</value>
   </data>
-  <data name="Tab.Extensions.Title.Text" lastModified="2015-12-31 08:48:58">
+  <data name="Tab.Extensions.Title.Text" lastModified="2015-12-31 07:48:58">
     <value xml:space="preserve">Extenties</value>
   </data>
   <data name="Tab.GettingStarted.Actions.Module.Content.0.Text">
@@ -159,17 +159,17 @@
   <data name="Tab.Home.Name.Text">
     <value xml:space="preserve">Home</value>
   </data>
-  <data name="Tab.MyFriends.Title.Text" lastModified="2015-12-31 08:48:58">
+  <data name="Tab.MyFriends.Title.Text" lastModified="2015-12-31 07:48:58">
     <value xml:space="preserve">Mijn vrienden</value>
   </data>
-  <data name="Tab.MyMessages.Title.Text" lastModified="2015-12-31 08:48:58">
+  <data name="Tab.MyMessages.Title.Text" lastModified="2015-12-31 07:48:58">
     <value xml:space="preserve">Mijn berichten</value>
   </data>
-  <data name="Tab.MyProfile.Title.Text" lastModified="2015-12-31 08:48:58">
+  <data name="Tab.MyProfile.Title.Text" lastModified="2015-12-31 07:48:58">
     <value xml:space="preserve">Mijn profiel</value>
   </data>
-  <data name="Tab.PortalAdministration.Title.Text" lastModified="2020-05-12 09:49:44">
-    <value xml:space="preserve">Portaal administratie</value>
+  <data name="Tab.PortalAdministration.Title.Text" lastModified="2020-05-14 14:36:24">
+    <value xml:space="preserve">Site administratie</value>
   </data>
   <data name="Tab.SearchAdmin.ContentPane.Module.Title.Text">
     <value xml:space="preserve">Zoek Admin</value>
@@ -177,19 +177,19 @@
   <data name="Tab.SearchAdmin.Description.Text">
     <value xml:space="preserve">Zoek Admin</value>
   </data>
-  <data name="Tab.SearchResultsCE.Title.Text" lastModified="2020-05-12 09:49:44">
+  <data name="Tab.SearchResultsCE.Title.Text" lastModified="2020-05-12 07:49:44">
     <value xml:space="preserve">Zoekresultaten</value>
   </data>
-  <data name="Tab.SecurityRoles.Title.Text" lastModified="2015-12-31 08:48:58">
+  <data name="Tab.SecurityRoles.Title.Text" lastModified="2015-12-31 07:48:58">
     <value xml:space="preserve">Beveiligingsrollen</value>
   </data>
-  <data name="Tab.SiteSettings.Title.Text" lastModified="2015-12-31 08:48:58">
+  <data name="Tab.SiteSettings.Title.Text" lastModified="2015-12-31 07:48:58">
     <value xml:space="preserve">Site instellingen</value>
   </data>
-  <data name="Tab.Taxonomy.Title.Text" lastModified="2015-12-31 08:48:58">
+  <data name="Tab.Taxonomy.Title.Text" lastModified="2015-12-31 07:48:58">
     <value xml:space="preserve">Taxonomy</value>
   </data>
-  <data name="Tab.UserAccounts.Title.Text" lastModified="2015-12-31 08:48:58">
+  <data name="Tab.UserAccounts.Title.Text" lastModified="2015-12-31 07:48:58">
     <value xml:space="preserve">Gebruikersaccounts</value>
   </data>
 </root>
