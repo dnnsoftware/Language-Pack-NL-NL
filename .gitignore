@@ -6,6 +6,7 @@
 *
 
 # Except the following
+!.github/*
 !.gitattributes
 !.gitignore
 !readme.md

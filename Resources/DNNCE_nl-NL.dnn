@@ -1,985 +1,1001 @@
 <dotnetnuke type="Package" version="5.0">
-  <packages>
-    <package name="Core_nl-NL" type="CoreLanguagePack" version="09.02.00">
-      <friendlyName>DNN Core Nederlands (Nederland)</friendlyName>
-      <description>Dutch (Netherlands) language pack for DNN Platform.</description>
-      <iconFile />
-      <owner>
-        <organization>.NET Foundation</organization>
-        <url>https://www.dnncommunity.org</url>
-        <email>info@dnncommunity.org</email>
-      </owner>
-      <license>br&gt;Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="CoreLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <displayName>Nederlands (Nederland)</displayName>
-            <fallback />
-            <languageFile>
-              <path>admin\Modules\App_LocalResources</path>
-              <name>Export.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Modules\App_LocalResources</path>
-              <name>Import.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Modules\App_LocalResources</path>
-              <name>ModuleLocalization.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Modules\App_LocalResources</path>
-              <name>ModulePermissions.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Modules\App_LocalResources</path>
-              <name>ModuleSettings.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Modules\App_LocalResources</path>
-              <name>ViewSource.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Portal\App_LocalResources</path>
-              <name>Privacy.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Portal\App_LocalResources</path>
-              <name>Terms.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Security\App_LocalResources</path>
-              <name>AccessDenied.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Security\App_LocalResources</path>
-              <name>PasswordReset.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Security\App_LocalResources</path>
-              <name>SendPassword.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Skins\App_LocalResources</path>
-              <name>Copyright.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Skins\App_LocalResources</path>
-              <name>Language.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Skins\App_LocalResources</path>
-              <name>LinkToFullSite.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Skins\App_LocalResources</path>
-              <name>LinkToMobileSite.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Skins\App_LocalResources</path>
-              <name>LinkToTabletSite.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Skins\App_LocalResources</path>
-              <name>Login.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Skins\App_LocalResources</path>
-              <name>Privacy.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Skins\App_LocalResources</path>
-              <name>Search.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Skins\App_LocalResources</path>
-              <name>Tags.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Skins\App_LocalResources</path>
-              <name>Terms.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Skins\App_LocalResources</path>
-              <name>Toast.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Skins\App_LocalResources</path>
-              <name>TreeViewMenu.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Skins\App_LocalResources</path>
-              <name>User.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Skins\App_LocalResources</path>
-              <name>UserAndLogin.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Tabs\App_LocalResources</path>
-              <name>Export.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Tabs\App_LocalResources</path>
-              <name>Import.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>admin\Users\App_LocalResources</path>
-              <name>ViewProfile.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>App_GlobalResources</path>
-              <name>Exceptions.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>App_GlobalResources</path>
-              <name>FileUpload.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>App_GlobalResources</path>
-              <name>GlobalResources.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>App_GlobalResources</path>
-              <name>List_Country.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>App_GlobalResources</path>
-              <name>SharedResources.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>App_GlobalResources</path>
-              <name>WebControls.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>controls\App_LocalResources</path>
-              <name>Address.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>controls\App_LocalResources</path>
-              <name>DualListControl.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>controls\App_LocalResources</path>
-              <name>filepickeruploader.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>controls\App_LocalResources</path>
-              <name>Help.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>controls\App_LocalResources</path>
-              <name>LocaleSelectorControl.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>controls\App_LocalResources</path>
-              <name>ModuleAuditControl.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>controls\App_LocalResources</path>
-              <name>SkinControl.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>controls\App_LocalResources</path>
-              <name>TextEditor.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>controls\App_LocalResources</path>
-              <name>URLControl.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>controls\App_LocalResources</path>
-              <name>UrlTrackingControl.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>controls\App_LocalResources</path>
-              <name>User.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
-              <name>Authentication.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
-              <name>Login.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Authentication\App_LocalResources</path>
-              <name>Logoff.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Console\App_LocalResources</path>
-              <name>Settings.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Console\App_LocalResources</path>
-              <name>ViewConsole.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\HtmlEditorManager\App_LocalResources</path>
-              <name>providerconfiguration.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\HtmlEditorManager\Controls\App_LocalResources</path>
-              <name>InvalidConfiguration.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\ModuleCreator\App_LocalResources</path>
-              <name>CreateModule.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\ModuleCreator\App_LocalResources</path>
-              <name>ViewSource.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
-              <name>ResultsSettings.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
-              <name>SearchableModules.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
-              <name>SearchResults.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>EditGroups.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>EditProfileDefinition.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>EditRoles.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>EditUser.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>ManageUsers.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>MemberServices.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>Membership.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>Password.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>Profile.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>ProfileDefinitions.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>Register.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>Roles.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>SecurityRoles.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>SharedResources.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>User.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>Users.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Security\App_LocalResources</path>
-              <name>UserSettings.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
-              <name>Settings.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
-              <name>SharedResources.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
-              <name>ViewProfile.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>Install\App_LocalResources</path>
-              <name>Installwizard.aspx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>Install\App_LocalResources</path>
-              <name>UpgradeWizard.aspx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>Portals\_default</path>
-              <name>Blank Website.template.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>Portals\_default</path>
-              <name>Default Website.template.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\EditExtension\App_LocalResources</path>
-              <name>authenticationeditor.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\EditExtension\App_LocalResources</path>
-              <name>editextension.ascx.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="DDRMenu_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>DDR Menu Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for DDR Menu.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>DDRMenu</package>
-            <languageFile>
-              <path>DesktopModules\DDRMenu\App_LocalResources</path>
-              <name>MenuSettings.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\DDRMenu\App_LocalResources</path>
-              <name>MenuView.ascx.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="DigitalAssetsManagement_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>Digital Asset Management Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for Digital Asset Management.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>DigitalAssetsManagement</package>
-            <languageFile>
-              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
-              <name>EditFolderMapping.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
-              <name>FileFieldsControl.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
-              <name>FileProperties.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
-              <name>FolderMappings.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
-              <name>FolderProperties.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
-              <name>SearchBoxControl.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
-              <name>Settings.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
-              <name>SharedResources.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\DigitalAssets\App_LocalResources</path>
-              <name>View.ascx.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="DNN_HTML_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>HTML Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for HTML.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>DNN_HTML</package>
-            <languageFile>
-              <path>DesktopModules\HTML\App_LocalResources</path>
-              <name>EditHtml.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\HTML\App_LocalResources</path>
-              <name>HtmlModule.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\HTML\App_LocalResources</path>
-              <name>MyWork.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\HTML\App_LocalResources</path>
-              <name>Settings.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\HTML\App_LocalResources</path>
-              <name>SharedResources.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\HTML\App_LocalResources</path>
-              <name>Workflow.ascx.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="Journal_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>Journal Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for Journal.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>Journal</package>
-            <languageFile>
-              <path>DesktopModules\Journal\App_LocalResources</path>
-              <name>Edit.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Journal\App_LocalResources</path>
-              <name>Settings.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Journal\App_LocalResources</path>
-              <name>SharedResources.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Journal\App_LocalResources</path>
-              <name>View.ascx.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="DotNetNuke.Modules.MemberDirectory_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>Member Directory Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for Member Directory.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>DotNetNuke.Modules.MemberDirectory</package>
-            <languageFile>
-              <path>DesktopModules\MemberDirectory\App_LocalResources</path>
-              <name>Settings.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\MemberDirectory\App_LocalResources</path>
-              <name>View.ascx.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="DotNetNuke.Modules.CoreMessaging_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>Message Center Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for Message Center.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>DotNetNuke.Modules.CoreMessaging</package>
-            <languageFile>
-              <path>DesktopModules\CoreMessaging\App_LocalResources</path>
-              <name>SharedResources.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\CoreMessaging\App_LocalResources</path>
-              <name>View.ascx.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="DNNCorp.RazorHost_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>Razor Host Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for Razor Host.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>DNNCorp.RazorHost</package>
-            <languageFile>
-              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
-              <name>AddScript.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
-              <name>CreateModule.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
-              <name>EditScript.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
-              <name>RazorHost.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
-              <name>Settings.ascx.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="Social Groups_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>Social Groups Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for Social Groups.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>Social Groups</package>
-            <languageFile>
-              <path>DesktopModules\SocialGroups\App_LocalResources</path>
-              <name>CreateSettings.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\SocialGroups\App_LocalResources</path>
-              <name>Edit.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\SocialGroups\App_LocalResources</path>
-              <name>ListSettings.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\SocialGroups\App_LocalResources</path>
-              <name>SharedResources.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\SocialGroups\App_LocalResources</path>
-              <name>View.ascx.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="DefaultAuthentication_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>Default Authentication Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for Default Authentication.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>DefaultAuthentication</package>
-            <languageFile>
-              <path>DesktopModules\AuthenticationServices\DNN\App_LocalResources</path>
-              <name>Login.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\AuthenticationServices\DNN\App_LocalResources</path>
-              <name>Settings.ascx.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="Dnn.EditBar.UI_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>Dnn.EditBar.UI Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for Dnn.EditBar.UI.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>Dnn.EditBar.UI</package>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
-              <name>addexistingmodule.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
-              <name>addmodule.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
-              <name>common.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
-              <name>editbar.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.EditBar\Resources\ContentEditorManager\App_LocalResources</path>
-              <name>sharedresources.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="Dnn.PersonaBar.UI_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>Dnn.PersonaBar.UI Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for Dnn.PersonaBar.UI.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>Dnn.PersonaBar.UI</package>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
-              <name>personabar.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
-              <name>sharedresources.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
-              <name>tabs.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.AdminLogs\App_LocalResources</path>
-              <name>adminlogs.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.ConfigConsole\App_LocalResources</path>
-              <name>configconsole.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.CssEditor\App_LocalResources</path>
-              <name>csseditor.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Extensions\App_LocalResources</path>
-              <name>extensions.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Licensing\App_LocalResources</path>
-              <name>licensing.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Pages\App_LocalResources</path>
-              <name>pages.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Recyclebin\App_LocalResources</path>
-              <name>recyclebin.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Roles\App_LocalResources</path>
-              <name>roles.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Security\App_LocalResources</path>
-              <name>security.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Seo\App_LocalResources</path>
-              <name>seo.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Servers\App_LocalResources</path>
-              <name>servers.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteImportExport\App_LocalResources</path>
-              <name>SiteImportExport.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Sites\App_LocalResources</path>
-              <name>sites.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteSettings\App_LocalResources</path>
-              <name>sitesettings.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SqlConsole\App_LocalResources</path>
-              <name>sqlconsole.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.TaskScheduler\App_LocalResources</path>
-              <name>taskscheduler.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Themes\App_LocalResources</path>
-              <name>themes.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Users\App_LocalResources</path>
-              <name>users.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Vocabularies\App_LocalResources</path>
-              <name>vocabularies.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Connectors\App_LocalResources</path>
-              <name>connectors.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Prompt\App_LocalResources</path>
-              <name>prompt.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="SiteExportImport_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>Site Export Import Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for Site Export Import.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>SiteExportImport</package>
-            <languageFile>
-              <path>DesktopModules\SiteExportImport\App_LocalResources</path>
-              <name>ExportImport.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="Dnn.AzureConnector_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>Dnn Azure Connector Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for Dnn Azure Connector.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>Dnn.AzureConnector</package>
-            <languageFile>
-              <path>DesktopModules\Connectors\Azure\App_LocalResources</path>
-              <name>SharedResources.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="AspNetClientCapabilityProvider_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>DotNetNuke ASP.NET Client Capability Provider Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for DotNetNuke ASP.NET Client Capability Provider.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>AspNetClientCapabilityProvider</package>
-            <languageFile>
-              <path>Providers\ClientCapabilityProviders\AspNetClientCapabilityProvider\App_LocalResources</path>
-              <name>SharedResources.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="DotNetNuke.Providers.FolderProviders_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>DotNetNuke Folder Providers Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for DotNetNuke Folder Providers.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>DotNetNuke.Providers.FolderProviders</package>
-            <languageFile>
-              <path>Providers\FolderProviders\AzureFolderProvider\App_LocalResources</path>
-              <name>Settings.ascx.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-    <package name="DNNConnect.CKEditorProvider_nl-NL" type="ExtensionLanguagePack" version="09.02.00">
-      <friendlyName>DNN Connect CKEditor Provider Nederlands (Nederland)</friendlyName>
-      <description><![CDATA[Dutch (Netherlands) language pack for DNN Connect CKEditor Provider.<br />This translation of DNN into Dutch (Netherlands) was done by <a href="http://www.xcess.nl">XCESS expertise center b.v.</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
-      <iconFile />
-      <owner>
-        <name>DNN Corporation</name>
-        <organization>DNN Corporation</organization>
-        <url>www.dnnsoftware.com</url>
-        <email>support@dnnsoftware.com</email>
-      </owner>
-      <license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-      <releaseNotes />
-      <components>
-        <component type="ExtensionLanguage">
-          <languageFiles>
-            <code>nl-NL</code>
-            <package>DNNConnect.CKEditorProvider</package>
-            <languageFile>
-              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
-              <name>Browser.aspx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
-              <name>EditorConfigManager.ascx.nl-NL.resx</name>
-            </languageFile>
-            <languageFile>
-              <path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
-              <name>Options.aspx.nl-NL.resx</name>
-            </languageFile>
-          </languageFiles>
-        </component>
-      </components>
-    </package>
-  </packages>
+	<packages>
+		<package name="Core_nl-NL" type="CoreLanguagePack" version="09.06.01">
+			<friendlyName>DNN Core Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes>
+				<![CDATA[Releasenotes voor het nl-NL Taalpakket<br />nl-NL taalpakket voor DNNPlatform 09.06.01]]>
+			</releaseNotes>
+			<components>
+				<component type="CoreLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<displayName>Nederlands (Nederland)</displayName>
+						<fallback />
+						<languageFile>
+							<path>admin\Modules\App_LocalResources</path>
+							<name>Export.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Modules\App_LocalResources</path>
+							<name>Import.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Modules\App_LocalResources</path>
+							<name>ModuleLocalization.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Modules\App_LocalResources</path>
+							<name>ModulePermissions.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Modules\App_LocalResources</path>
+							<name>ModuleSettings.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Modules\App_LocalResources</path>
+							<name>ViewSource.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Portal\App_LocalResources</path>
+							<name>Privacy.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Portal\App_LocalResources</path>
+							<name>Terms.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Security\App_LocalResources</path>
+							<name>AccessDenied.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Security\App_LocalResources</path>
+							<name>PasswordReset.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Security\App_LocalResources</path>
+							<name>SendPassword.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Skins\App_LocalResources</path>
+							<name>Copyright.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Skins\App_LocalResources</path>
+							<name>Language.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Skins\App_LocalResources</path>
+							<name>LinkToFullSite.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Skins\App_LocalResources</path>
+							<name>LinkToMobileSite.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Skins\App_LocalResources</path>
+							<name>LinkToTabletSite.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Skins\App_LocalResources</path>
+							<name>Login.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Skins\App_LocalResources</path>
+							<name>Privacy.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Skins\App_LocalResources</path>
+							<name>Search.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Skins\App_LocalResources</path>
+							<name>Tags.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Skins\App_LocalResources</path>
+							<name>Terms.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Skins\App_LocalResources</path>
+							<name>Toast.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Skins\App_LocalResources</path>
+							<name>TreeViewMenu.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Skins\App_LocalResources</path>
+							<name>User.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Skins\App_LocalResources</path>
+							<name>UserAndLogin.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Tabs\App_LocalResources</path>
+							<name>Export.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Tabs\App_LocalResources</path>
+							<name>Import.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>admin\Users\App_LocalResources</path>
+							<name>ViewProfile.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>App_GlobalResources</path>
+							<name>Exceptions.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>App_GlobalResources</path>
+							<name>FileUpload.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>App_GlobalResources</path>
+							<name>GlobalResources.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>App_GlobalResources</path>
+							<name>List_Country.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>App_GlobalResources</path>
+							<name>SharedResources.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>App_GlobalResources</path>
+							<name>WebControls.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>controls\App_LocalResources</path>
+							<name>Address.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>controls\App_LocalResources</path>
+							<name>DualListControl.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>controls\App_LocalResources</path>
+							<name>filepickeruploader.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>controls\App_LocalResources</path>
+							<name>Help.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>controls\App_LocalResources</path>
+							<name>LocaleSelectorControl.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>controls\App_LocalResources</path>
+							<name>ModuleAuditControl.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>controls\App_LocalResources</path>
+							<name>SkinControl.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>controls\App_LocalResources</path>
+							<name>TextEditor.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>controls\App_LocalResources</path>
+							<name>URLControl.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>controls\App_LocalResources</path>
+							<name>UrlTrackingControl.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>controls\App_LocalResources</path>
+							<name>User.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+							<name>Authentication.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+							<name>Login.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Authentication\App_LocalResources</path>
+							<name>Logoff.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Console\App_LocalResources</path>
+							<name>Settings.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Console\App_LocalResources</path>
+							<name>ViewConsole.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\HtmlEditorManager\App_LocalResources</path>
+							<name>providerconfiguration.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\HtmlEditorManager\Controls\App_LocalResources</path>
+							<name>InvalidConfiguration.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\ModuleCreator\App_LocalResources</path>
+							<name>CreateModule.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\ModuleCreator\App_LocalResources</path>
+							<name>ViewSource.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+							<name>ResultsSettings.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+							<name>SearchableModules.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
+							<name>SearchResults.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>DataConsent.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>EditGroups.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>EditProfileDefinition.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>EditRoles.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>EditUser.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>ManageUsers.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>MemberServices.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>Membership.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>Password.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>Profile.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>ProfileDefinitions.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>Register.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>Roles.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>SecurityRoles.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>SharedResources.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>User.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>Users.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Security\App_LocalResources</path>
+							<name>UserSettings.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+							<name>Settings.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+							<name>SharedResources.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\ViewProfile\App_LocalResources</path>
+							<name>ViewProfile.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>Install\App_LocalResources</path>
+							<name>Installwizard.aspx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>Install\App_LocalResources</path>
+							<name>UpgradeWizard.aspx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>Portals\_default</path>
+							<name>Blank Website.template.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>Portals\_default</path>
+							<name>Default Website.template.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\EditExtension\App_LocalResources</path>
+							<name>authenticationeditor.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\EditExtension\App_LocalResources</path>
+							<name>editextension.ascx.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="DDRMenu_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>DDR Menu Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>DDRMenu</package>
+						<languageFile>
+							<path>DesktopModules\DDRMenu\App_LocalResources</path>
+							<name>MenuSettings.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\DDRMenu\App_LocalResources</path>
+							<name>MenuView.ascx.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="DigitalAssetsManagement_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>Digital Asset Management Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>DigitalAssetsManagement</package>
+						<languageFile>
+							<path>DesktopModules\DigitalAssets\App_LocalResources</path>
+							<name>EditFolderMapping.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\DigitalAssets\App_LocalResources</path>
+							<name>FileFieldsControl.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\DigitalAssets\App_LocalResources</path>
+							<name>FileProperties.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\DigitalAssets\App_LocalResources</path>
+							<name>FolderMappings.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\DigitalAssets\App_LocalResources</path>
+							<name>FolderProperties.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\DigitalAssets\App_LocalResources</path>
+							<name>SearchBoxControl.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\DigitalAssets\App_LocalResources</path>
+							<name>Settings.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\DigitalAssets\App_LocalResources</path>
+							<name>SharedResources.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\DigitalAssets\App_LocalResources</path>
+							<name>View.ascx.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="DNN_HTML_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>HTML Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>	
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>DNN_HTML</package>
+						<languageFile>
+							<path>DesktopModules\HTML\App_LocalResources</path>
+							<name>EditHtml.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\HTML\App_LocalResources</path>
+							<name>HtmlModule.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\HTML\App_LocalResources</path>
+							<name>MyWork.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\HTML\App_LocalResources</path>
+							<name>Settings.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\HTML\App_LocalResources</path>
+							<name>SharedResources.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\HTML\App_LocalResources</path>
+							<name>Workflow.ascx.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="Journal_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>Journal Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>Journal</package>
+						<languageFile>
+							<path>DesktopModules\Journal\App_LocalResources</path>
+							<name>Edit.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Journal\App_LocalResources</path>
+							<name>Settings.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Journal\App_LocalResources</path>
+							<name>SharedResources.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Journal\App_LocalResources</path>
+							<name>View.ascx.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="DotNetNuke.Modules.MemberDirectory_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>Member Directory Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>DotNetNuke.Modules.MemberDirectory</package>
+						<languageFile>
+							<path>DesktopModules\MemberDirectory\App_LocalResources</path>
+							<name>Settings.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\MemberDirectory\App_LocalResources</path>
+							<name>View.ascx.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="DotNetNuke.Modules.CoreMessaging_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>Message Center Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>DotNetNuke.Modules.CoreMessaging</package>
+						<languageFile>
+							<path>DesktopModules\CoreMessaging\App_LocalResources</path>
+							<name>SharedResources.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\CoreMessaging\App_LocalResources</path>
+							<name>View.ascx.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="DNNCorp.RazorHost_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>Razor Host Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>DNNCorp.RazorHost</package>
+						<languageFile>
+							<path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+							<name>AddScript.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+							<name>CreateModule.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+							<name>EditScript.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+							<name>RazorHost.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\RazorModules\RazorHost\App_LocalResources</path>
+							<name>Settings.ascx.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="Social Groups_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>Social Groups Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>Social Groups</package>
+						<languageFile>
+							<path>DesktopModules\SocialGroups\App_LocalResources</path>
+							<name>CreateSettings.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\SocialGroups\App_LocalResources</path>
+							<name>Edit.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\SocialGroups\App_LocalResources</path>
+							<name>ListSettings.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\SocialGroups\App_LocalResources</path>
+							<name>SharedResources.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\SocialGroups\App_LocalResources</path>
+							<name>View.ascx.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="DefaultAuthentication_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>Default Authentication Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>DefaultAuthentication</package>
+						<languageFile>
+							<path>DesktopModules\AuthenticationServices\DNN\App_LocalResources</path>
+							<name>Login.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\AuthenticationServices\DNN\App_LocalResources</path>
+							<name>Settings.ascx.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="Dnn.EditBar.UI_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>Dnn.EditBar.UI Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>Dnn.EditBar.UI</package>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+							<name>addexistingmodule.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+							<name>addmodule.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+							<name>common.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.EditBar\App_LocalResources</path>
+							<name>editbar.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.EditBar\Resources\ContentEditorManager\App_LocalResources</path>
+							<name>sharedresources.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="Dnn.PersonaBar.UI_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>Dnn.PersonaBar.UI Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>Dnn.PersonaBar.UI</package>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
+							<name>personabar.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
+							<name>sharedresources.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\App_LocalResources</path>
+							<name>tabs.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.AdminLogs\App_LocalResources</path>
+							<name>adminlogs.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.ConfigConsole\App_LocalResources</path>
+							<name>configconsole.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.CssEditor\App_LocalResources</path>
+							<name>csseditor.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Extensions\App_LocalResources</path>
+							<name>extensions.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Licensing\App_LocalResources</path>
+							<name>licensing.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Pages\App_LocalResources</path>
+							<name>pages.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Recyclebin\App_LocalResources</path>
+							<name>recyclebin.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Roles\App_LocalResources</path>
+							<name>roles.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Security\App_LocalResources</path>
+							<name>security.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Seo\App_LocalResources</path>
+							<name>seo.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Servers\App_LocalResources</path>
+							<name>servers.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteGroups\App_LocalResources</path>
+							<name>sitegroups.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteImportExport\App_LocalResources</path>
+							<name>SiteImportExport.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Sites\App_LocalResources</path>
+							<name>sites.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SiteSettings\App_LocalResources</path>
+							<name>sitesettings.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.SqlConsole\App_LocalResources</path>
+							<name>sqlconsole.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.TaskScheduler\App_LocalResources</path>
+							<name>taskscheduler.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Themes\App_LocalResources</path>
+							<name>themes.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Users\App_LocalResources</path>
+							<name>users.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\admin\Dnn.PersonaBar\Modules\Dnn.Vocabularies\App_LocalResources</path>
+							<name>vocabularies.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Connectors\App_LocalResources</path>
+							<name>connectors.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\Admin\Dnn.PersonaBar\Modules\Dnn.Prompt\App_LocalResources</path>
+							<name>prompt.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="SiteExportImport_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>Site Export Import Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>SiteExportImport</package>
+						<languageFile>
+							<path>DesktopModules\SiteExportImport\App_LocalResources</path>
+							<name>ExportImport.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="Dnn.AzureConnector_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>Dnn Azure Connector Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>Dnn.AzureConnector</package>
+						<languageFile>
+							<path>DesktopModules\Connectors\Azure\App_LocalResources</path>
+							<name>SharedResources.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="DNN.Connectors.GoogleAnalytics_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>Dnn Google Anlytics Connector Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>Dnn.Connectors.GoogleAnalytics</package>
+						<languageFile>
+							<path>DesktopModules\Connectors\GoogleAnalytics\App_LocalResources</path>
+							<name>SharedResources.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="AspNetClientCapabilityProvider_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>DNN ASP.NET Client Capability Provider Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>AspNetClientCapabilityProvider</package>
+						<languageFile>
+							<path>Providers\ClientCapabilityProviders\AspNetClientCapabilityProvider\App_LocalResources</path>
+							<name>SharedResources.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="DotNetNuke.Providers.FolderProviders_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>DNN Folder Providers Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>DotNetNuke.Providers.FolderProviders</package>
+						<languageFile>
+							<path>Providers\FolderProviders\AzureFolderProvider\App_LocalResources</path>
+							<name>Settings.ascx.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="DNNConnect.CKEditorProvider_nl-NL" type="ExtensionLanguagePack" version="09.06.01">
+			<friendlyName>DNN Connect CKEditor Provider Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile />
+			<owner>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
+			<releaseNotes></releaseNotes>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>DNNConnect.CKEditorProvider</package>
+						<languageFile>
+							<path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+							<name>Browser.aspx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+							<name>EditorConfigManager.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>Providers\HtmlEditorProviders\DNNConnect.CKE\App_LocalResources</path>
+							<name>Options.aspx.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+	</packages>
 </dotnetnuke>

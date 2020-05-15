@@ -1,0 +1,30 @@
+name: Release
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      
+    - name: get-version-from-dnn-manifest
+      uses: valadas/get-version-from-dnn-manifest@v1
+      id: version
+      
+    - name: Zip Release
+      run: cd Resources && zip -r $FILENAME.zip *
+      env:
+        FILENAME: Dnn_Platform_${{ github.event.repository.name }}_${{ steps.version.outputs.versionString }}
+
+    - name: Create Release
+      uses: ncipollo/release-action@v1.6.1
+      with:
+        artifacts: Resources/*.zip
+        body: Dnn ${{ github.event.repository.name }} version ${{ steps.version.outputs.versionString }}
+        tag: v${{ steps.version.outputs.major }}.${{ steps.version.outputs.minor }}.${{ steps.version.outputs.patch }}
+        # The Github token.
+        token: ${{ secrets.GITHUB_TOKEN }}

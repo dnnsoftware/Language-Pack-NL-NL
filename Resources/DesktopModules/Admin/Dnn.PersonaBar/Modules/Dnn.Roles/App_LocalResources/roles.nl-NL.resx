@@ -40,7 +40,7 @@
     <value xml:space="preserve">Vink dit vakje aan als gebruikers automatisch aan deze rol moeten worden toegewezen.</value>
   </data>
   <data name="AutoAssignment.Text" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Auto Toewijzing</value>
+    <value xml:space="preserve">Automatische toewijzing</value>
   </data>
   <data name="Both.Text" lastModified="2016-12-01 05:28:45">
     <value xml:space="preserve">Beiden</value>
@@ -85,7 +85,7 @@
     <value xml:space="preserve">Vul een beschrijving in voor de rol.</value>
   </data>
   <data name="Description.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Beschrijving.</value>
+    <value xml:space="preserve">Beschrijving</value>
   </data>
   <data name="Disabled.Text" lastModified="2016-12-01 07:13:42">
     <value xml:space="preserve">Uitgeschakeld</value>
@@ -166,10 +166,10 @@
     <value xml:space="preserve">Toestemmingen per rol</value>
   </data>
   <data name="plRoleGroups.Help" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Selecteer de rol groep waar deze rol toe behoort.</value>
+    <value xml:space="preserve">Selecteer de rolgroep waar deze rol toe behoort.</value>
   </data>
   <data name="plRoleGroups.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Rol groep</value>
+    <value xml:space="preserve">Rolgroep</value>
   </data>
   <data name="plRSVPCode.Help" lastModified="2018-07-24 09:47:52">
     <value xml:space="preserve">Voer een RSVP-code in voor de rol. Gebruikers kunnen zich eenvoudig abonneren op deze rol door deze code in te voeren op de pagina Services beheren van hun gebruikersaccount.</value>
@@ -654,7 +654,7 @@
     <value xml:space="preserve">Status</value>
   </data>
   <data name="UpdateGroup.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Updaten groep</value>
+    <value xml:space="preserve">Bijwerken groep</value>
   </data>
   <data name="UserNotFound.Text" lastModified="2016-12-01 09:19:43">
     <value xml:space="preserve">Gebruiker niet gevonden.</value>
@@ -667,5 +667,21 @@
   </data>
   <data name="UsersInRole.Text">
     <value xml:space="preserve">Gebruikers in rol</value>
+  </data>
+  <data name="Actions.Header">
+    <value>
+    </value>
+  </data>
+  <data name="Prompt_InvalidRoleStatus.Text">
+    <value>Invalid value passed for --{0}. Expecting 'pending', 'approved', or 'disabled'</value>
+  </data>
+  <data name="Prompt_ListRolesFailed.Text">
+    <value>Tonen van alle rollen niet gelukt</value>
+  </data>
+  <data name="Prompt_RoleFound.Text">
+    <value>Role '{0}' has been found.</value>
+  </data>
+  <data name="Prompt_UnableToParseBool.Text">
+    <value>Unable to parse the --{0} flag value '{1}'. Value should be True or False</value>
   </data>
 </root>
