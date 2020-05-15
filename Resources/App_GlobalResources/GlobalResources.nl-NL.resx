@@ -154,7 +154,88 @@
     <value>Bestandsbeheer</value>
   </data>
   <data name="//Host//HTMLEditorManager.String" xml:space="preserve">
-    <value>Beheer HTML Editor</value>
+    <value>Beheer HTML editor</value>
+  </data>
+  <data name="//Host//Languages.String" xml:space="preserve">
+    <value>Talen</value>
+  </data>
+  <data name="//Host//Lists.String" xml:space="preserve">
+    <value>Lijsten</value>
+  </data>
+  <data name="//Host//ModuleDefinitions.String" xml:space="preserve">
+    <value>Module definities</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures.String" xml:space="preserve">
+    <value>Professionele functies</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//ActivateyourLicense.String" xml:space="preserve">
+    <value>Activeer je licentie</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//AdvancedURLManagement.String" xml:space="preserve">
+    <value>Geavanceerd URL management</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//ApplicationIntegrity.String" xml:space="preserve">
+    <value>Applicatie integriteit</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//HealthMonitoring.String" xml:space="preserve">
+    <value>Site monitor</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//KnowledgeBase.String" xml:space="preserve">
+    <value>Kennisbank (Engelstalig)</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//LicenseManagement.String" xml:space="preserve">
+    <value>Licentiebeheer</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//ManageWebServers.String" xml:space="preserve">
+    <value>Webserver beheer</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//MySupportTickets.String" xml:space="preserve">
+    <value>Mijn support tickets</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SearchCrawlerAdmin.String" xml:space="preserve">
+    <value>Zoekmachine beheer</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SecurityCenter.String" xml:space="preserve">
+    <value>Beveiligingscentrum</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SharePointConnector.String" xml:space="preserve">
+    <value>SharePoint-koppeling</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SiteGroups.String" xml:space="preserve">
+    <value>Site groepen</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SoftwareandDocumentation.String" xml:space="preserve">
+    <value>Software en documentatie</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//SpecialOffers.String" xml:space="preserve">
+    <value>Aanbiedingen</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//TechnicalSupport.String" xml:space="preserve">
+    <value>Technische ondersteuning</value>
+  </data>
+  <data name="//Host//ProfessionalFeatures//UserSwitcher.String" xml:space="preserve">
+    <value>Andere gebruiker</value>
+  </data>
+  <data name="//Host//Schedule.String" xml:space="preserve">
+    <value>Taak schema's</value>
+  </data>
+  <data name="//Host//SearchAdmin.String" xml:space="preserve">
+    <value>Zoek beheerders</value>
+  </data>
+  <data name="//Host//SiteManagement.String" xml:space="preserve">
+    <value>Site beheer</value>
+  </data>
+  <data name="//Host//Skins.String" xml:space="preserve">
+    <value>Skins</value>
+  </data>
+  <data name="//Host//SQL.String" xml:space="preserve">
+    <value>SQL</value>
+  </data>
+  <data name="//Host//SuperuserAccounts.String" xml:space="preserve">
+    <value>SuperUser accounts</value>
+  </data>
+  <data name="//Host//Vendors.String" xml:space="preserve">
+    <value>Verkopers</value>
   </data>
   <data name="//Modules.Text" xml:space="preserve">
     <value>Modules</value>
@@ -180,18 +261,18 @@
   <data name="403_3.Error" xml:space="preserve">
     <value>    &amp;lt;div style="height: 100%; width: 90%;"&amp;gt;
         &amp;lt;h3&amp;gt;
-            DotNetNuke Configuratie fout&amp;lt;/h3&amp;gt;
+            DotNetNuke configuratiefout&amp;lt;/h3&amp;gt;
         &amp;lt;p&amp;gt;
             {0}&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
-            Uw DotNetNuke installatie lijkt een probleem met de beveiligingsinstellingen te
-            hebben (waarschijnlijk machtigingen). DotNetNuke heeft uitgebreide file upload mogelijkheden
+            Deze DNN installatie lijkt een probleem met de beveiligingsinstellingen te
+            hebben (waarschijnlijk machtigingen). DNN heeft uitgebreide file upload mogelijkheden
             voor de inhoud, modules en skins. Deze functies vereisen aangepaste beveiligingsinstellingen
-            zodat de applicatie in staat is om te maken en te verwijderen bestanden in uw website.&amp;lt;/p&amp;gt;
+            zodat de applicatie in staat is om bestanden te maken en te verwijderen in de website.&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
-            Met behulp van Windows Verkenner, bladert u naar de hoofdmap van de website. Rechtsklik
-            op de map en selecteer Delen en beveiliging uit het menu (let op dat als u gebruik
-            maakt van Windows XP moet u mogelijk &amp;lt;a href="http://support.microsoft.com/kb/307874/nl-nl"&amp;gt;
+            Met behulp van Windows Verkenner blader je naar de hoofdmap van de website. Rechtsklik
+            op de map en selecteer Delen en beveiliging uit het menu (let op dat als je gebruik
+            maakt van Windows XP moet je mogelijk &amp;lt;a href="http://support.microsoft.com/kb/307874/nl-nl"&amp;gt;
                 eenvoudig delen van bestanden uitschakelen&amp;lt;/a&amp;gt; voordat deze opties worden weergegeven).
             Selecteer het tabblad Beveiliging. Voeg de juiste gebruikersaccount en stel de machtigingen
             in.&amp;lt;/p&amp;gt;
@@ -206,19 +287,19 @@
             &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Bij gebruik van Windows 2003 - IIS6 or Vista/Windows 2008 - IIS7&amp;lt;/strong&amp;gt;
                 &amp;lt;br /&amp;gt;
                 &amp;lt;ol style="list-style-type: circle;"&amp;gt;
-                    &amp;lt;li&amp;gt;Het account NT AUTHORITY\NETWORK SERVICE&amp;amp;nbsp; moet Lees, Schrijf en Aanpassen rechten
+                    &amp;lt;li&amp;gt;Het account NT AUTHORITY\NETWORK SERVICE&amp;amp;nbsp; moet Lees, Schrijf en Wijzig rechten
                         hebben op de gehele applicatie directory.&amp;lt;/li&amp;gt;
                 &amp;lt;/ol&amp;gt;
             &amp;lt;/li&amp;gt;
             &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Bij gebruik van Windows 7 of Windows 2008r2 met IIS7.5&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
                 &amp;lt;ol style="list-style-type: circle;"&amp;gt;
-                    &amp;lt;li&amp;gt;The IIS AppPool\AppPoolIdentity virtuele user moet Lees, Schrijf en Aanpassen rechten
+                    &amp;lt;li&amp;gt;The IIS AppPool\AppPoolIdentity virtuele user moet Lees, Schrijf en Wijzig rechten
                         hebben op de gehele applicatie directory.&amp;lt;/li&amp;gt;
                 &amp;lt;/ol&amp;gt;
             &amp;lt;/li&amp;gt;
         &amp;lt;/ul&amp;gt;
         &amp;lt;p&amp;gt;
-            &amp;lt;img alt="Afbeelding die toont dat de beveiligingsinstellingen voor de hoofdmap van de website moet worden ingesteld op Lezen, Schrijven en Modify voor de ASPNET of NT AUTHORITY / NETWORK SERVICE accounts."
+            &amp;lt;img alt="Afbeelding die toont dat de beveiligingsinstellingen voor de hoofdmap van de website moet worden ingesteld op Lezen, Schrijven en Wijzigen voor de ASPNET of NT AUTHORITY / NETWORK SERVICE accounts."
                 src="images/403-3.gif" /&amp;gt;&amp;lt;/p&amp;gt;
     &amp;lt;/div&amp;gt;</value>
   </data>
@@ -236,9 +317,9 @@
                 &amp;lt;ul style="list-style-type: disc;"&amp;gt;
                     &amp;lt;li&amp;gt;Zodra de webserver een request ontvangt van de client, wordt the extensie waar 
                         de URL mee eindigt vergeleken met de Application Extension Mappings zoals 
-                        gedefinieer in IIS.&amp;lt;/li&amp;gt;
+                        gedefinieerd in IIS.&amp;lt;/li&amp;gt;
                     &amp;lt;li&amp;gt;Afhankelijk van de soort match wordt het request door IIS doorgestuurd naar de 
-                        in IIS gedefinieerde applicatie die dit request kan afhandelen (In IIS6 nis dit 
+                        in IIS gedefinieerde applicatie die dit verzoek kan afhandelen (In IIS6 is dit 
                         aspnet_asapi.dll voor ASP.NET requests)&amp;lt;/li&amp;gt;
                     &amp;lt;li&amp;gt;aspnet_isapi.dll&amp;amp;nbsp; behandelt het request in een vaste volgorde, beginnend 
                         bij Application_BeginRequest&amp;lt;/li&amp;gt;
@@ -275,10 +356,10 @@
     <value>Licentie activeren</value>
   </data>
   <data name="AddFollowerRequestBody.Text" xml:space="preserve">
-    <value>U wordt nu gevolgd door {0}</value>
+    <value>Je wordt nu gevolgd door {0}</value>
   </data>
   <data name="AddFollowerRequestSubject.Text" xml:space="preserve">
-    <value>{0} volgt u nu</value>
+    <value>{0} volgt je nu</value>
   </data>
   <data name="AddFriendRequestBody.Text" xml:space="preserve">
     <value>{0} wil vrienden worden met u</value>
@@ -361,7 +442,7 @@
   <data name="EMAIL_AFFILIATE_NOTIFICATION_BODY.Text" xml:space="preserve">
     <value>Beste [Custom:0],
 
-Uw account voor het {Portal:PortalName] affiliatie programma is aangemaakt.
+Je account voor het {Portal:PortalName] affiliatie programma is aangemaakt.
 Gebruik de volgende URL om te linken naar onze site:
 
 [Custom:1]
@@ -593,8 +674,8 @@ Verzenden compleet op:      [Custom:3]
 
                             &amp;lt;tr&amp;gt;
                                 &amp;lt;td align="center"&amp;gt;
-                                    &amp;lt;p&amp;gt;Copyright 2013 &amp;lt;a href="[SITEURL]"&amp;gt;[PORTALNAME]&amp;lt;/a&amp;gt; All rights reserved.&amp;lt;/p&amp;gt;
-                                    &amp;lt;p&amp;gt;If you wish to no longer receive emails in the future, please &amp;lt;a href="[UNSUBSCRIBEURL]"&amp;gt;unsubscribe&amp;lt;/a&amp;gt; here.&amp;lt;/p&amp;gt;
+                                    &amp;lt;p&amp;gt;Copyright 2013 &amp;lt;a href="[SITEURL]"&amp;gt;[PORTALNAME]&amp;lt;/a&amp;gt; Alle rechten voorbehouden.&amp;lt;/p&amp;gt;
+                                    &amp;lt;p&amp;gt; Wanneer je in de toekomst geen e-mails meer wilt ontvangen, klik dan &amp;lt;a href="[UNSUBSCRIBEURL]"&amp;gt;unsubscribe&amp;lt;/a&amp;gt; hier.&amp;lt;/p&amp;gt;
                                 &amp;lt;/td&amp;gt;
                             &amp;lt;/tr&amp;gt;
                         &amp;lt;/table&amp;gt;
@@ -630,17 +711,17 @@ Verzenden compleet op:      [Custom:3]
   <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" xml:space="preserve">
     <value>Beste [Profile:FullName],
 
-U heeft uw wachtwoord herstel opgevraagd van de [Portal:PortalName] website.
+Je hebt een wachtwoordherstel opgevraagd van de [Portal:PortalName] website.
 
 Website Addres: [Portal:URL]
 Gebruikersnaam: [User:Username]
 
-Link naar wachtwoord reset pagina:  [Portal:PASSWORDREMINDERURL]?ctl=PasswordReset&amp;amp;resetToken=[Membership:PasswordResetToken]
+Link naar wachtwoordherstel pagina:  [Portal:PASSWORDREMINDERURL]?ctl=PasswordReset&amp;amp;resetToken=[Membership:PasswordResetToken]
 
 Met vriendelijke groet,
 [Portal:PortalName]
 
-*NB: als u uw geen wachtwoord herstel heeft opgevraagd, dan kunt u dit bericht negeren.</value>
+*NB: als je geen wachtwoord herstel hebt opgevraagd, dan kunt je dit bericht negeren.</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] Wachtwoord opvragen</value>
@@ -648,14 +729,14 @@ Met vriendelijke groet,
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" xml:space="preserve">
     <value>Beste [User:DisplayName],
 
-Je hebt een wachtwoord reset link aangevraad van [Portal:PortalName], Je account staat klaar voor goedkeuring.
+Je hebt een wachtwoordherstel link aangevraad van [Portal:PortalName], Je account staat klaar voor goedkeuring.
 
 Het wachtwoord kan worden gereset nadat het account is goedgekeurd.
 
 Met vriendelijk groet,
 [Portal:PortalName]
 
-*Opmerking: Als je geen wachtwoord reset link hebt aangevraagd, verwijder dan dit bericht.</value>
+*Opmerking: Als je geen wachtwoordherstel link hebt aangevraagd, verwijder dan dit bericht.</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] wachtwoord herinnering</value>
@@ -663,7 +744,7 @@ Met vriendelijk groet,
   <data name="EMAIL_PASSWORD_UPDATED_BODY.Text" xml:space="preserve">
     <value>Geachte [User:DisplayName], 
 	
-	Uw wachtwoord voor [Portal:PortalName] is veranderd. 
+	Je wachtwoord voor [Portal:PortalName] is veranderd. 
 	
 	Contacteer the sitebeheerder op het volgende emailadres - [Portal:Email]
 	
@@ -675,7 +756,7 @@ Met vriendelijk groet,
   <data name="EMAIL_PORTAL_SIGNUP_BODY.Text" xml:space="preserve">
     <value>Beste [User:FullName],
 
-Uw web is aangemaakt. Lees alstublieft de volgend informatie zorgvuldig door, en archiveer dit bericht voor eventueel toekomstig gebruik.
+De website is aangemaakt. Lees alstublieft de volgend informatie zorgvuldig door, en archiveer dit bericht voor eventueel toekomstig gebruik.
 
 Website Adres: [Portal:URL]
 Gebruikersnaam: [Membership:UserName]
@@ -684,7 +765,7 @@ Verificatiecode: [User:VerificationCode]
 
 Maak alstublieft gebruik van de gelegenheid om de website nu te bezoeken en maak zo goed mogelijk gebruik van de mogelijkheden!
 
-Dank u voor het gebruik van onze diensten
+Dank voor het gebruik van onze diensten
 
 [Host:HostTitle]
 </value>
@@ -695,9 +776,9 @@ Dank u voor het gebruik van onze diensten
   <data name="EMAIL_PROFILE_UPDATED_BODY.Text" xml:space="preserve">
     <value>Beste [Profile:FullName],
 
-Uw profiel voor  de [Portal:PortalName] website is succesvol bijgewerkt.
+Je profiel voor  de [Portal:PortalName] website is succesvol bijgewerkt.
 
-Sincerely,
+Vriendelijke groet,
 [Portal:PortalName]
 </value>
   </data>
@@ -707,14 +788,14 @@ Sincerely,
   <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text" xml:space="preserve">
     <value>Beste [User:FullName],
 
-De toegangsrollen van uw gebruikersaccount voor de [Portal:PortalName] website zijn recentelijk aangepast, en bevat nu ook deze rol:
+De toegangsrollen van je gebruikersaccount voor de [Portal:PortalName] website zijn recentelijk aangepast en bevat nu ook deze rol:
 
 Rol: [Custom:0]
 Beschrijving: [Custom:1]
 Ingangsdatum: [Custom:2]
 Verloopdatum: [Custom:3]
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 </value>
   </data>
@@ -724,14 +805,14 @@ Dank u voor het in ons gestelde vertrouwen,
   <data name="EMAIL_ROLE_UNASSIGNMENT_BODY.Text" xml:space="preserve">
     <value>Beste [User:FullName],
 
-De toegang van uw gebruikersaccount voor de [Portal:PortalName] website is recentelijk aangepast, en bevat nu NIET meer deze rol:
+De toegang van je gebruikersaccount voor de [Portal:PortalName] website is recentelijk aangepast, en bevat nu NIET meer deze rol:
 
 Rol: [Custom:0]
 Beschrijving: [Custom:1]
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]</value>
   </data>
   <data name="EMAIL_ROLE_UNASSIGNMENT_SUBJECT.Text" xml:space="preserve">
@@ -740,14 +821,14 @@ Dank u voor het in ons gestelde vertrouwen,
   <data name="EMAIL_ROLE_UPDATE_BODY.Text" xml:space="preserve">
     <value>Geachte [User:DisplayName],
 
-Uw account bij [Portal:PortalName] is recentelijk bijgewerkt om toegang tot de volgende rol aan te passen:
+Je account bij [Portal:PortalName] is recentelijk bijgewerkt om toegang tot de volgende rol aan te passen:
 
 Rol: [Custom:0]
 Beschrijving: [Custom:1]
 Datum Ingang: [Custom:2]
 Datum Verlopen: [Custom:3]
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 </value>
   </data>
@@ -767,15 +848,15 @@ Dank u voor het in ons gestelde vertrouwen,
     <value>Nieuw bericht van {0}</value>
   </data>
   <data name="EMAIL_USER_AUTHORIZED_BODY.Text" xml:space="preserve">
-    <value>Beste  [User:DisplayName], Bedankt voor uw registratie op [Portal:PortalName]. Uw registratie is goedgekeurd en uw account is nu actief. Website Adres:  [Portal:URL] Gebruikersnaam:  [User:UserName] Bij voorbaar dank, wij waarderen uw bijdrage...[Portal:PortalName]</value>
+    <value>Beste  [User:DisplayName], Bedankt voor je registratie op [Portal:PortalName]. Je registratie is goedgekeurd en je account is nu actief. Website Adres:  [Portal:URL] Gebruikersnaam:  [User:UserName] Bij voorbaar dank, wij waarderen uw bijdrage...[Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" xml:space="preserve">
     <value>Registratie is goedgekeurd voor  [Portal:URL]</value>
   </data>
   <data name="EMAIL_USER_LOCKOUT_BODY.Text" xml:space="preserve">
-    <value>Er is een poging gedaan om met een afgesloten gebruikersaccount in te loggen ( gebruikersnaam: [Custom:0] ) op [Date:Current]. Wellicht wilt u dit verder onderzoeken...
+    <value>Er is een poging gedaan om met een afgesloten gebruikersaccount in te loggen ( gebruikersnaam: [Custom:0] ) op [Date:Current]. Wellicht wil je dit verder onderzoeken...
 
-Dank U,
+Dank,
 
 [Portal:PortalName]
 </value>
@@ -794,14 +875,14 @@ Email: [User:Email]</value>
   <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text" xml:space="preserve">
     <value>Beste  [User:DisplayName],
 
-Dank u voor uw registratie voor de [Portal:PortalName] website. Lees de volgende informatie aandachtig en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+Dank voor je registratie voor de [Portal:PortalName] website. Lees de volgende informatie aandachtig en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
 
 Website Adres: [Portal:URL]
 Gebruikersnaam: [User:UserName]
 
-Uw accountgegevens zullen worden gecontroleerd door de website beheerder, u ontvangt een bericht als uw account geactiveerd is.
+Je accountgegevens zullen worden gecontroleerd door de website beheerder, je ontvangt een bericht als je account geactiveerd is.
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank je voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 </value>
   </data>
@@ -811,14 +892,14 @@ Dank u voor het in ons gestelde vertrouwen,
   <data name="EMAIL_USER_REGISTRATION_PUBLIC_BODY.Text" xml:space="preserve">
     <value>Beste [User:DisplayName],
 
-U bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+Je bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
 
 Website Adres: [Portal:URL]
 Gebruikersnaam: [User:UserName]
 
-U bent van harte welkom!
+Je bent van harte welkom!
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_PUBLIC_SUBJECT.Text" xml:space="preserve">
@@ -826,36 +907,36 @@ Dank u voor het in ons gestelde vertrouwen,
   </data>
   <data name="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text" xml:space="preserve">
     <value>Beste [User:FullName],
-U bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+Je bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
 
 Website Adres: [Portal:URL]
 Gebruikersnaam: [Membership:UserName]
 Wachtwoord: [Membership:Password]
 Verificatiecode: [User:VerificationCode]
 
-U kunt de volgende link gebruiken om de registratie af te ronden: 
+Je kunt de volgende link gebruiken om de registratie af te ronden: 
 
 http://[Portal:URL]/default.aspx?ctl=Login&amp;amp;username=[Membership:UserName]&amp;amp;verificationcode=[User:VerificationCode]
 
-U bent van harte welkom!
+Je bent van harte welkom!
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] Nieuwe gebruikersregistratie</value>
   </data>
   <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],Je account voor [Portal:PortalName] Is niet meer geauthoriseerd. Website Adres: [Portal:URL]Gebruikersnaam: [User:UserName]Mocht u vragen hebben, Neem contact op met de websiteadmin [Portal:Email]Met vriendelijke groet,[Portal:PortalName]</value>
+    <value>Beste [User:DisplayName], Je account voor [Portal:PortalName] is niet meer geauthoriseerd. Websiteadres: [Portal:URL] Gebruikersnaam: [User:UserName]Mocht je vragen hebben, Neem contact op met de websiteadmin [Portal:Email]Met vriendelijke groet,[Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" xml:space="preserve">
-    <value>Uw account is niet langer geauthoriseerd voor [Portal:URL]</value>
+    <value>Je account is niet langer geauthoriseerd voor [Portal:URL]</value>
   </data>
   <data name="EMAIL_USER_UNREGISTER_BODY.Text" xml:space="preserve">
     <value>Datum: [Date:Current]
 Voornaam: [Profile:FirstName]
 Achternaam: [Profile:LastName]
-Street: [Profile:Street]
+Straat: [Profile:Street]
 Huisnummer: [Profile:Unit]
 Postcode: [Profile:PostalCode]
 Plaats: [Profile:City]
@@ -871,12 +952,12 @@ E-mail: [Membership:Email]
   <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_BODY.Text" xml:space="preserve">
     <value>Beste [User:DisplayName],
 
-U heeft uw wachtwoord gewijzigd op [Portal:PortalName].
+Je hebt je wachtwoord gewijzigd op [Portal:PortalName].
 
 Gebruik de volgende informatie om in te loggen:
 
 Website Adres: [Portal:URL]
-Naam Gebruiker :   [User:Username]
+Gebruikersnaam :   [User:Username]
 
 Met vriendelijke groet,
 [Portal:PortalName]</value>
@@ -907,9 +988,9 @@ Website: [Custom:14]</value>
   <data name="EMAIL_VENDOR_REGISTRATION_BODY.Text" xml:space="preserve">
     <value>Beste [Custom:0] [Custom:1],
 
-Uw bedrijf is succesvol geregistreerd bij de [Portal:PortalName] website.
+Je bedrijf is succesvol geregistreerd bij de [Portal:PortalName] website.
 
-Dank u,
+Vriendelijke groet,
 
 [Portal.PortalName]</value>
   </data>
@@ -1254,10 +1335,10 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     &lt;/div&gt;</value>
   </data>
   <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text" xml:space="preserve">
-    <value>Om uw wachtwoord op te kunnen vragen moet u uw gebruikersnaam opgeven, en een antwoord op de wachtwoord vraag.</value>
+    <value>Om jw wachtwoord op te kunnen vragen moet je jouw gebruikersnaam opgeven en een antwoord op de wachtwoord vraag.</value>
   </data>
   <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text" xml:space="preserve">
-    <value>Verifieer uw emailadres wijziging door uw wachtwoord opnieuw in te voeren.</value>
+    <value>Verifieer je emailadres wijziging door je wachtwoord opnieuw in te voeren.</value>
   </data>
   <data name="ModuleGenericActions.Action" xml:space="preserve">
     <value>Beheer</value>
@@ -1305,7 +1386,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Geen fouten opgetreden tijdens versturen</value>
   </data>
   <data name="NoLoginControl.Text" xml:space="preserve">
-    <value>U bent naar deze standaard Login Pagina omgeleid omdat deze website geen geldige Login Module bevat, of omdat de machtigingen niet juist zijn ingesteld.</value>
+    <value>Je bent naar deze standaard login pagina omgeleid omdat deze website geen geldige login module bevat, of omdat de machtigingen niet juist zijn ingesteld.</value>
   </data>
   <data name="NoSitesForThisInstallation.Error" xml:space="preserve">
     <value>Er bestaan op dit moment geen sites voor deze installatie.</value>
@@ -1383,7 +1464,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Markeer als niet vertaald</value>
   </data>
   <data name="UrlPathNotUnique.Error" xml:space="preserve">
-    <value>De toegevoegde URL is niet beschikbaar. Als u het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
+    <value>De toegevoegde URL is niet beschikbaar. Als je het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
   </data>
   <data name="UserRelationship_Added.Text" xml:space="preserve">
     <value>Toegevoegd UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>

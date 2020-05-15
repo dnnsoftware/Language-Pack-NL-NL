@@ -16,7 +16,7 @@
     <value xml:space="preserve">Importeren</value>
   </data>
   <data name="ControlTitle_importmodule.Text">
-    <value xml:space="preserve">Importeer Module</value>
+    <value xml:space="preserve">Importeer module</value>
   </data>
   <data name="Error.Text" lastModified="2015-12-30 09:06:55">
     <value xml:space="preserve">Er is een fout opgetreden tijdens het importeren.</value>
