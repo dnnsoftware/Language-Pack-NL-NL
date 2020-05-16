@@ -13,9 +13,10 @@ Zorg dat je een (gratis) account hebt op GitHub.
 
 ### De minimale werkwijze
 
-1. Fork deze repository (naar je eigen account)
-2. Corrigeer binnen GitHub de tekst in de file in je eigen account
-3. Maak een Pull Request met je verbetering
+1. Zoek in deze repository in de resources map naar het .resx bestand met de tekst
+2. Pas binnen GitHub de tekst in het bestand aan (Edit/potloodje icon)
+3. licht je wijziging onderaan (Propose file change) toe
+4. Klik op de button "Propose file change"
 
 ### De uitgebreide werkwijze
 
