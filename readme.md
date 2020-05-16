@@ -14,9 +14,10 @@ Zorg dat je een (gratis) account hebt op GitHub.
 ### De minimale werkwijze
 
 1. Zoek in deze repository in de resources map naar het .resx bestand met de tekst
-2. Pas binnen GitHub de tekst in het bestand aan (Edit/potloodje icon)
+2. Wijzig binnen GitHub de tekst in het bestand (Edit/potloodje icon)
 3. licht je wijziging onderaan (Propose file change) toe
 4. Klik op de button "Propose file change"
+5. Bevestig het maken van een "Pull request" van je wijziging
 
 ### De uitgebreide werkwijze
 
