@@ -12,8 +12,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="InvalidPortal.Text">
-    <value xml:space="preserve">Ongeldig portaal</value>
+  <data name="InvalidPortal.Text" lastModified="2020-05-16 16:37:39">
+    <value xml:space="preserve">Ongeldige site</value>
   </data>
   <data name="JobNotExist.Text">
     <value xml:space="preserve">Deze taak bestaat niet!</value>
@@ -39,7 +39,7 @@
   <data name="JobType_Import.Text">
     <value xml:space="preserve">Site Import</value>
   </data>
-  <data name="NotPortalAdmin.Text">
-    <value xml:space="preserve">Gebruiker is geen portal administrator</value>
+  <data name="NotPortalAdmin.Text" lastModified="2020-05-16 16:37:39">
+    <value xml:space="preserve">De gebruiker is geen sitebeheerder</value>
   </data>
 </root>

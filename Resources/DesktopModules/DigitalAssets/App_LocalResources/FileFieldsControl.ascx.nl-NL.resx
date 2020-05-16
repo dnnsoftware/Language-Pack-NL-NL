@@ -12,8 +12,8 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="FileAttrbutesLabel.Help">
-    <value xml:space="preserve">Bewerk bestand attributen</value>
+  <data name="FileAttrbutesLabel.Help" lastModified="2020-05-16 16:12:44">
+    <value xml:space="preserve">Bewerk bestandsattributen</value>
   </data>
   <data name="FileAttributeArchive.Text">
     <value xml:space="preserve">Archiveren</value>
@@ -36,7 +36,7 @@
   <data name="FileNameLabel.Text">
     <value xml:space="preserve">Naam</value>
   </data>
-  <data name="FileNameRequired.ErrorMessage">
-    <value xml:space="preserve">Bestandsnaam is vereist</value>
+  <data name="FileNameRequired.ErrorMessage" lastModified="2020-05-16 16:12:44">
+    <value xml:space="preserve">Een bestandsnaam is vereist</value>
   </data>
 </root>

@@ -12,6 +12,15 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="ControlTitle_mywork.Text">
+    <value xml:space="preserve">Mijn Werk</value>
+  </data>
+  <data name="lblMessage.Text">
+    <value xml:space="preserve">De volgende content moet worden beoordeeld voordat deze kan worden gepubliceerd:</value>
+  </data>
+  <data name="lblNoRecords.Text" lastModified="2020-05-16 16:23:02">
+    <value xml:space="preserve">Je hebt geen HTML content geassocieerd met je account. </value>
+  </data>
   <data name="ModuleHelp.Text">
     <value xml:space="preserve">&lt;p&gt;
         Met de HTML module kan zowel platte- als HTML tekst beheerd worden:
@@ -29,15 +38,6 @@
                 een WYSIWYG (What You See is What You Get) editor met functies zoals hyperlinks,
                 e-mail links, File Manager fotogalerij, bullet points, spellingscontrole en nog
                 veel meer.&lt;/li&gt;</value>
-  </data>
-  <data name="ControlTitle_mywork.Text">
-    <value xml:space="preserve">Mijn Werk</value>
-  </data>
-  <data name="lblMessage.Text">
-    <value xml:space="preserve">De volgende content moet worden beoordeeld voordat deze kan worden gepubliceerd:</value>
-  </data>
-  <data name="lblNoRecords.Text">
-    <value xml:space="preserve">Uw heeft geen HTML content gessocieerd met uw account. </value>
   </data>
   <data name="Page.Header">
     <value xml:space="preserve">Pagina</value>

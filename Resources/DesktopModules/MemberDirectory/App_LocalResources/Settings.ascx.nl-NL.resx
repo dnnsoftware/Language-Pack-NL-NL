@@ -12,29 +12,80 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="alternateItemTemplateLabel.Help">
-    <value xml:space="preserve">Dit alternerend item sjabloon wordt gebruikt om de details voor elk alternerend (even) item  weer te geven</value>
+  <data name="alternateItemTemplateLabel.Help" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Dit alternerend itemsjabloon wordt gebruikt om de details voor elk alternerend (even) item  weer te geven</value>
   </data>
-  <data name="alternateItemTemplateLabel.Text">
-    <value xml:space="preserve">Alternerend Item Sjabloon</value>
+  <data name="alternateItemTemplateLabel.Text" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Alternerend Itemsjabloon</value>
   </data>
-  <data name="itemTemplateLabel.Help">
-    <value xml:space="preserve">Dit item sjabloon wordt gebruikt om de details voor elk item  weer te geven</value>
+  <data name="Ascending.Text">
+    <value xml:space="preserve">Oplopend</value>
   </data>
-  <data name="itemTemplateLabel.Text">
-    <value xml:space="preserve">Itemsjabloon</value>
+  <data name="Biography.Text">
+    <value xml:space="preserve">Biografie</value>
   </data>
-  <data name="Templates.Text">
-    <value xml:space="preserve">Sjablonen</value>
+  <data name="Cell.Text">
+    <value xml:space="preserve">Mobiel</value>
   </data>
-  <data name="popUpTemplateLabel.Help">
-    <value xml:space="preserve">Het popup sjabloon wordt gebruikt om de details van een individueel groepslid weer te geven in een popup venster.</value>
+  <data name="City.Text">
+    <value xml:space="preserve">Stad</value>
   </data>
-  <data name="popUpTemplateLabel.Text">
-    <value xml:space="preserve">Popup sjabloon</value>
+  <data name="ControlTitle_settings.Text" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Instellingen groepsledenlijst</value>
   </data>
-  <data name="filterBySelectorLabel.Help">
-    <value xml:space="preserve">U kunt eventueel een filter toepassen op de ledenlijst. Selecteer het type filter dat u wilt gebruiken, en kies de rol, relatie of profiel eigenschap uit het dropdown menu.</value>
+  <data name="Country.Text">
+    <value xml:space="preserve">Land</value>
+  </data>
+  <data name="DateCreated.Text">
+    <value xml:space="preserve">Aanmaakdatum:</value>
+  </data>
+  <data name="Descending.Text">
+    <value xml:space="preserve">Aflopend</value>
+  </data>
+  <data name="disablePagerLabel.Help">
+    <value xml:space="preserve">Vink deze optie aan om de "Meer laden" optie uit te zetten. In dat geval kan alleen de eerste pagina weergegeven worden.</value>
+  </data>
+  <data name="disablePagerLabel.Text">
+    <value xml:space="preserve">Paginering uitzetten:</value>
+  </data>
+  <data name="DisplayName.Text">
+    <value xml:space="preserve">Weergavenaam</value>
+  </data>
+  <data name="DisplaySearch_Both.Text" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Eenvoudige en uitgebreide zoekfunctie</value>
+  </data>
+  <data name="DisplaySearch_None.Text">
+    <value xml:space="preserve">Geen</value>
+  </data>
+  <data name="DisplaySearch_Simple.Text" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Simpele zoekfunctie</value>
+  </data>
+  <data name="displaySearchLabel.Help" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Selecteer de zoekopties. "Geen" om geenzoek opties weer te geven; "simpel"  voor het weergeven van alleen simpele zoekopties; "Simpel en uitgebreid zoeken" om beide zoekopties weer te geven.</value>
+  </data>
+  <data name="displaySearchLabel.Text">
+    <value xml:space="preserve">Zoeken weergeven</value>
+  </data>
+  <data name="Email.Text">
+    <value xml:space="preserve">E-mail</value>
+  </data>
+  <data name="enablePopUpLabel.Help">
+    <value xml:space="preserve">Vink deze optie aan om het popup sjabloon te activeren</value>
+  </data>
+  <data name="enablePopUpLabel.Text">
+    <value xml:space="preserve">Activeer popup: </value>
+  </data>
+  <data name="ExcludeHostUsersLabel.Help" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Wanneer aangevinkt, komen applicatiebeheerders niet terug in de zoekresultaten</value>
+  </data>
+  <data name="ExcludeHostUsersLabel.Text" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Applicatiebeheerders uitsluiten:</value>
+  </data>
+  <data name="Fax.Text">
+    <value xml:space="preserve">Fax</value>
+  </data>
+  <data name="filterBySelectorLabel.Help" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Je kan eventueel een filter toepassen op de ledenlijst. Selecteer het type filter dat je wilt gebruiken, en kies de rol, relatie of profiel eigenschap uit het dropdown menu.</value>
   </data>
   <data name="filterBySelectorLabel.Text">
     <value xml:space="preserve">Filter op:</value>
@@ -42,59 +93,92 @@
   <data name="Filters.Text">
     <value xml:space="preserve">FIlters en Sorteren</value>
   </data>
-  <data name="None.Text">
-    <value xml:space="preserve">Geen filter</value>
-  </data>
-  <data name="ProfileProperty.Text">
-    <value xml:space="preserve">Profiel eigenschap:</value>
-  </data>
-  <data name="Relationship.Text">
-    <value xml:space="preserve">Relatie:</value>
+  <data name="FirstName.Text">
+    <value xml:space="preserve">Voornaam</value>
   </data>
   <data name="Group.Text">
     <value xml:space="preserve">Groep</value>
   </data>
+  <data name="IM.Text">
+    <value xml:space="preserve">IM</value>
+  </data>
+  <data name="itemTemplateLabel.Help">
+    <value xml:space="preserve">Dit item sjabloon wordt gebruikt om de details voor elk item  weer te geven</value>
+  </data>
+  <data name="itemTemplateLabel.Text">
+    <value xml:space="preserve">Itemsjabloon</value>
+  </data>
+  <data name="LastName.Text">
+    <value xml:space="preserve">Achternaam</value>
+  </data>
+  <data name="MiddleName.Text">
+    <value xml:space="preserve">Tussenvoegsel</value>
+  </data>
+  <data name="None.Text">
+    <value xml:space="preserve">Geen filter</value>
+  </data>
+  <data name="pageSize.Error">
+    <value xml:space="preserve">De paginagrootte moet liggen tussen 1 en 100</value>
+  </data>
+  <data name="pageSizeLabel.Help" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Je kan de afmeting van elke pagina bepalen door een getal tussen 1 en 100 in te voeren</value>
+  </data>
+  <data name="pageSizeLabel.Text">
+    <value xml:space="preserve">Paginagrootte:</value>
+  </data>
+  <data name="Paging.Text">
+    <value xml:space="preserve">Pagineeropties:</value>
+  </data>
+  <data name="popUpTemplateLabel.Help">
+    <value xml:space="preserve">Het popup sjabloon wordt gebruikt om de details van een individueel groepslid weer te geven in een popup venster.</value>
+  </data>
+  <data name="popUpTemplateLabel.Text">
+    <value xml:space="preserve">Popup sjabloon</value>
+  </data>
+  <data name="PostalCode.Text">
+    <value xml:space="preserve">Postcode</value>
+  </data>
+  <data name="PreferredLocale.Text" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Voorkeurtaal</value>
+  </data>
+  <data name="Prefix.Text">
+    <value xml:space="preserve">Voorvoegsel</value>
+  </data>
+  <data name="ProfileProperty.Text" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Profieleigenschap:</value>
+  </data>
+  <data name="Region.Text">
+    <value xml:space="preserve">Regio</value>
+  </data>
+  <data name="Relationship.Text">
+    <value xml:space="preserve">Relatie:</value>
+  </data>
   <data name="Search.Text">
     <value xml:space="preserve">Zoekinstellingen</value>
   </data>
-  <data name="searchField1Label.Help">
-    <value xml:space="preserve">Selecteer het eerste veld dat u wilt weergeven in de geavanceerde zoekmodus</value>
+  <data name="searchField1Label.Help" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Selecteer het eerste veld dat je wilt weergeven in de geavanceerde zoekmodus</value>
   </data>
   <data name="searchField1Label.Text">
     <value xml:space="preserve">Zoekveld 1:</value>
   </data>
-  <data name="searchField2Label.Help">
-    <value xml:space="preserve">Selecteer het tweede veld dat u wilt weergeven in de geavanceerde zoekmodus</value>
+  <data name="searchField2Label.Help" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Selecteer het tweede veld dat je wilt weergeven in de geavanceerde zoekmodus</value>
   </data>
   <data name="searchField2Label.Text">
     <value xml:space="preserve">Zoekveld 2:</value>
   </data>
-  <data name="searchField3Label.Help">
-    <value xml:space="preserve">Selecteer het derde veld dat u wilt weergeven in de geavanceerde zoekmodus</value>
+  <data name="searchField3Label.Help" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Selecteer het derde veld dat je wilt weergeven in de geavanceerde zoekmodus</value>
   </data>
   <data name="searchField3Label.Text">
     <value xml:space="preserve">Zoekveld 3:</value>
   </data>
-  <data name="searchField4Label.Help">
-    <value xml:space="preserve">Selecteer het vierde veld dat u wilt weergeven in de geavanceerde zoekmodus</value>
+  <data name="searchField4Label.Help" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">Selecteer het vierde veld dat je wilt weergeven in de geavanceerde zoekmodus</value>
   </data>
   <data name="searchField4Label.Text">
     <value xml:space="preserve">Zoekveld 4:</value>
-  </data>
-  <data name="displaySearchLabel.Help">
-    <value xml:space="preserve">Selecteer de zoek opties. "Geen" om geen zoek opties weer te geven; "simpel"  voor het weergeven van alleen simpele zoek opties; "Simpel en uitgebreid zoeken" om beide zoekopties weer te geven.</value>
-  </data>
-  <data name="displaySearchLabel.Text">
-    <value xml:space="preserve">Zoeken weergeven</value>
-  </data>
-  <data name="User.Text">
-    <value xml:space="preserve">Gebruiker</value>
-  </data>
-  <data name="enablePopUpLabel.Help">
-    <value xml:space="preserve">Vink deze optie aan om het popup sjabloon te activeren</value>
-  </data>
-  <data name="enablePopUpLabel.Text">
-    <value xml:space="preserve">Activeer popup: </value>
   </data>
   <data name="sortFieldListLabel.Help">
     <value xml:space="preserve">Kies het veld waarop de ledenlijst gesorteerd wordt.</value>
@@ -108,118 +192,34 @@
   <data name="sortOrderListLabel.Text">
     <value xml:space="preserve">Sorteervolgorde:</value>
   </data>
-  <data name="Ascending.Text">
-    <value xml:space="preserve">Oplopend</value>
-  </data>
-  <data name="Descending.Text">
-    <value xml:space="preserve">Aflopend</value>
-  </data>
-  <data name="DisplayName.Text">
-    <value xml:space="preserve">Weergavenaam</value>
-  </data>
-  <data name="Email.Text">
-    <value xml:space="preserve">E-mail</value>
-  </data>
-  <data name="Username.Text">
-    <value xml:space="preserve">Gebruikersnaam</value>
-  </data>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Instellingen groepsleden lijst</value>
-  </data>
-  <data name="DateCreated.Text">
-    <value xml:space="preserve">Aanmaakdatum:</value>
-  </data>
-  <data name="UserId.Text">
-    <value xml:space="preserve">Gebruikers ID:</value>
-  </data>
-  <data name="Paging.Text">
-    <value xml:space="preserve">Pagineeropties:</value>
-  </data>
-  <data name="disablePagerLabel.Help">
-    <value xml:space="preserve">Vink deze optie aan om de "Meer laden" optie uit te zetten. In dat geval kan alleen de eerste pagina weergegeven worden.</value>
-  </data>
-  <data name="disablePagerLabel.Text">
-    <value xml:space="preserve">Paginering uitzetten:</value>
-  </data>
-  <data name="pageSize.Error">
-    <value xml:space="preserve">De paginagrootte moet liggen tussen 1 en 100</value>
-  </data>
-  <data name="pageSizeLabel.Help">
-    <value xml:space="preserve">U kunt de afmeting van elke pagina bepalen door een getal tussen 1 en 100 in te voeren</value>
-  </data>
-  <data name="pageSizeLabel.Text">
-    <value xml:space="preserve">Paginagrootte:</value>
-  </data>
-  <data name="DisplaySearch_Both.Text">
-    <value xml:space="preserve">Eenvoudige en uitgebreide zoek functie</value>
-  </data>
-  <data name="DisplaySearch_None.Text">
-    <value xml:space="preserve">Geen</value>
-  </data>
-  <data name="DisplaySearch_Simple.Text">
-    <value xml:space="preserve">Simpele zoek functie</value>
-  </data>
-  <data name="ExcludeHostUsersLabel.Help">
-    <value xml:space="preserve">Wanneer aangevinkt, Host gebruikers komen niet terug in de zoekresultaten</value>
-  </data>
-  <data name="ExcludeHostUsersLabel.Text">
-    <value xml:space="preserve">Host gebruikers uitsluiten:</value>
-  </data>
-  <data name="Prefix.Text">
-    <value xml:space="preserve">Voorvoegsel</value>
-  </data>
-  <data name="FirstName.Text">
-    <value xml:space="preserve">Voornaam</value>
-  </data>
-  <data name="LastName.Text">
-    <value xml:space="preserve">Achternaam</value>
-  </data>
-  <data name="MiddleName.Text">
-    <value xml:space="preserve">Tussenvoegsel</value>
+  <data name="Street.Text">
+    <value xml:space="preserve">Straat</value>
   </data>
   <data name="Suffix.Text">
     <value xml:space="preserve">Achtervoegsel</value>
   </data>
-  <data name="Unit.Text">
-    <value xml:space="preserve">Afdeling</value>
-  </data>
-  <data name="Street.Text">
-    <value xml:space="preserve">Straat</value>
-  </data>
-  <data name="City.Text">
-    <value xml:space="preserve">Stad</value>
-  </data>
-  <data name="Region.Text">
-    <value xml:space="preserve">Regio</value>
-  </data>
-  <data name="Country.Text">
-    <value xml:space="preserve">Land</value>
-  </data>
-  <data name="PostalCode.Text">
-    <value xml:space="preserve">Postcode</value>
-  </data>
   <data name="Telephone.Text">
     <value xml:space="preserve">Telefoon</value>
   </data>
-  <data name="Cell.Text">
-    <value xml:space="preserve">Mobiel</value>
-  </data>
-  <data name="Fax.Text">
-    <value xml:space="preserve">Fax</value>
-  </data>
-  <data name="IM.Text">
-    <value xml:space="preserve">IM</value>
-  </data>
-  <data name="Website.Text">
-    <value xml:space="preserve">Website</value>
-  </data>
-  <data name="Biography.Text">
-    <value xml:space="preserve">Biografie</value>
+  <data name="Templates.Text">
+    <value xml:space="preserve">Sjablonen</value>
   </data>
   <data name="TimeZone.Text">
     <value xml:space="preserve">Tijdzone</value>
   </data>
-  <data name="PreferredLocale.Text">
-    <value xml:space="preserve">Voorkeur lokale</value>
+  <data name="Unit.Text">
+    <value xml:space="preserve">Afdeling</value>
+  </data>
+  <data name="User.Text">
+    <value xml:space="preserve">Gebruiker</value>
+  </data>
+  <data name="UserId.Text" lastModified="2020-05-16 16:33:06">
+    <value xml:space="preserve">GebruikersID:</value>
+  </data>
+  <data name="Username.Text">
+    <value xml:space="preserve">Gebruikersnaam</value>
+  </data>
+  <data name="Website.Text">
+    <value xml:space="preserve">Website</value>
   </data>
 </root>

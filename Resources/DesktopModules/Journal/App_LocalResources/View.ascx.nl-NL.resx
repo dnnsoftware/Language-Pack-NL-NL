@@ -24,8 +24,8 @@
   <data name="Community.Text">
     <value xml:space="preserve">Leden van de gemeenschap</value>
   </data>
-  <data name="DeleteItem.Text">
-    <value xml:space="preserve">Weet u zeker dat u dit onderdeel wilt verwijderen?</value>
+  <data name="DeleteItem.Text" lastModified="2020-05-16 16:30:09">
+    <value xml:space="preserve">Weet je zeker dat je dit onderdeel wilt verwijderen?</value>
   </data>
   <data name="EditModule.Text">
     <value xml:space="preserve">Module bewerken</value>

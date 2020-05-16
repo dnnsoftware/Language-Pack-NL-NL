@@ -18,14 +18,14 @@
   <data name="AccountKey.Text" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">Accountsleutel:</value>
   </data>
-  <data name="AccountKeyCannotBeEmpty.ErrorMessage" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">Accountsleutel mag niet leeg zijn:</value>
+  <data name="AccountKeyCannotBeEmpty.ErrorMessage" lastModified="2020-05-16 16:02:20">
+    <value xml:space="preserve">De accountsleutel mag niet leeg zijn:</value>
   </data>
   <data name="AccountName.Text" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">Accountnaam:</value>
   </data>
-  <data name="AccountNameCannotBeEmpty.ErrorMessage" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">Accountnaam mag niet leeg zijn.</value>
+  <data name="AccountNameCannotBeEmpty.ErrorMessage" lastModified="2020-05-16 16:02:20">
+    <value xml:space="preserve">De accountnaam mag niet leeg zijn.</value>
   </data>
   <data name="AccountNotFound.ErrorMessage" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">Het opgegeven account is niet gevonden.</value>
@@ -36,8 +36,8 @@
   <data name="Container.Text" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">Containernaam:</value>
   </data>
-  <data name="ErrorInvalidContainerName.Text" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">De ingediende containernaam is niet geldig.</value>
+  <data name="ErrorInvalidContainerName.Text" lastModified="2020-05-16 16:02:20">
+    <value xml:space="preserve">De opgegeven containernaam is niet geldig.</value>
   </data>
   <data name="ErrorMappingNameExists.Text" lastModified="2018-07-20 11:53:41">
     <value xml:space="preserve">De connectienaam bestaat al.</value>

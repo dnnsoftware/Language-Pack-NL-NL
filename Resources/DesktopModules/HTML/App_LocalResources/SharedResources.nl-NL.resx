@@ -15,8 +15,8 @@
   <data name="ApproveContent.Action">
     <value xml:space="preserve">Goedkeuren</value>
   </data>
-  <data name="NotificationBody.Text" lastModified="2020-05-10 17:54:48">
-    <value xml:space="preserve">Content is in a [STATE] status op de volgende oagina van uw site: 
+  <data name="NotificationBody.Text" lastModified="2020-05-16 16:24:15">
+    <value xml:space="preserve">Content is in a [STATE] status op de volgende pagina van jesite: 
 &lt;br /&gt;
 &lt;a href='[URL]'&gt;[URL]&lt;/a&gt;</value>
   </data>

@@ -24,8 +24,8 @@
   <data name="Module.Text">
     <value xml:space="preserve">Module</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">Hulp informatie niet nader ingevuld</value>
+  <data name="ModuleHelp.Text" lastModified="2020-05-16 16:23:52">
+    <value xml:space="preserve">Helpinstellingen</value>
   </data>
   <data name="Page.Text">
     <value xml:space="preserve">Pagina</value>
@@ -49,8 +49,8 @@
   <data name="plReplaceTokens.Text">
     <value xml:space="preserve">Tokens vervangen:</value>
   </data>
-  <data name="plSearchDescLength.Help">
-    <value xml:space="preserve">Defineer de maximale lengte van de omschrijving gebruikt in de hoofd zoekfunctie.</value>
+  <data name="plSearchDescLength.Help" lastModified="2020-05-16 16:23:52">
+    <value xml:space="preserve">Defineer de maximale lengte van de omschrijving gebruikt in de hoofdzoekfunctie.</value>
   </data>
   <data name="plSearchDescLength.Text">
     <value xml:space="preserve">Maximale lengte van de omschrijving in de zoekfunctie:</value>

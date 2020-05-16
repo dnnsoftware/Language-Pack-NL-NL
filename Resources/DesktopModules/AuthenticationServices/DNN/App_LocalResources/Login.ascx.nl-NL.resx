@@ -15,8 +15,8 @@
   <data name="cmdLogin.Text">
     <value xml:space="preserve">Aanmelden</value>
   </data>
-  <data name="cmdPassword.Text">
-    <value xml:space="preserve">Wachtwoord resetten</value>
+  <data name="cmdPassword.Text" lastModified="2020-05-16 16:16:13">
+    <value xml:space="preserve">Herstel wachtwoord</value>
   </data>
   <data name="cmdRegister.Text">
     <value xml:space="preserve">Registreren</value>
@@ -33,8 +33,8 @@
   <data name="Title.Text">
     <value xml:space="preserve">Standaard</value>
   </data>
-  <data name="UserAlreadyVerified.Text" lastModified="2020-05-10 17:10:50">
-    <value xml:space="preserve">Gebruiker al geverifieerd.</value>
+  <data name="UserAlreadyVerified.Text" lastModified="2020-05-16 16:16:13">
+    <value xml:space="preserve">Gebruiker is al geverifieerd.</value>
   </data>
   <data name="UserDoesNotExist.Text" lastModified="2020-05-10 17:10:50">
     <value xml:space="preserve">Gebruiker bestaat niet.</value>
