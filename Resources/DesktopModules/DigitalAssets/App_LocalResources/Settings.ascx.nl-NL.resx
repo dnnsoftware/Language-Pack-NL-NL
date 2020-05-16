@@ -12,17 +12,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="BasicSettings.Text">
-    <value xml:space="preserve">Basis instellingen</value>
+  <data name="BasicSettings.Text" lastModified="2020-05-16 16:16:07">
+    <value xml:space="preserve">Basisinstellingen</value>
   </data>
-  <data name="DefaultFolderType.Help">
-    <value xml:space="preserve">Stelt het standaard map type in dat wordt gebruikt bij het aanmaken van een nieuwe onder de hoofdmap</value>
+  <data name="DefaultFolderType.Help" lastModified="2020-05-16 16:16:07">
+    <value xml:space="preserve">Stelt het standaard maptype in dat wordt gebruikt bij het aanmaken van een nieuwe onder de hoofdmap</value>
   </data>
-  <data name="DefaultFolderType.Text">
-    <value xml:space="preserve">Standaard folder type</value>
+  <data name="DefaultFolderType.Text" lastModified="2020-05-16 16:16:07">
+    <value xml:space="preserve">Standaard maptype</value>
   </data>
-  <data name="ExcludeSubfolders.Text">
-    <value xml:space="preserve">Subfolders uitsluiten</value>
+  <data name="ExcludeSubfolders.Text" lastModified="2020-05-16 16:16:07">
+    <value xml:space="preserve">Submappen uitsluiten</value>
   </data>
   <data name="ExcludeSubfoldersLabel.Help">
     <value xml:space="preserve">Indien aangevinkt, zal de module alleen bestanden laten zien en bestanden in submappen maar het zal geen submappen laten zien.</value>
@@ -42,17 +42,17 @@
   <data name="IncludeSubfoldersFolderStructure.Text">
     <value xml:space="preserve">Met Submappen (Toon mappenstructuur)</value>
   </data>
-  <data name="Mode.Help">
-    <value xml:space="preserve">De mode waarin de module moet opereren.</value>
+  <data name="Mode.Help" lastModified="2020-05-16 16:16:07">
+    <value xml:space="preserve">De modus waarin de module moet opereren.</value>
   </data>
-  <data name="Mode.Text">
-    <value xml:space="preserve">Mode</value>
+  <data name="Mode.Text" lastModified="2020-05-16 16:16:07">
+    <value xml:space="preserve">Modus</value>
   </data>
   <data name="Normal.Text">
     <value xml:space="preserve">Normaal</value>
   </data>
-  <data name="NoSet.Text">
-    <value xml:space="preserve">No set</value>
+  <data name="NoSet.Text" lastModified="2020-05-16 16:16:07">
+    <value xml:space="preserve">Niet ingesteld</value>
   </data>
   <data name="User.Text">
     <value xml:space="preserve">Gebruiker</value>
@@ -60,7 +60,7 @@
   <data name="ViewCondition.Help">
     <value xml:space="preserve">Selecteer de filteropties voor toepassing in de grid</value>
   </data>
-  <data name="ViewCondition.Text">
-    <value xml:space="preserve">Set View Conditie</value>
+  <data name="ViewCondition.Text" lastModified="2020-05-16 16:16:07">
+    <value xml:space="preserve">Stel weergaveconditie in</value>
   </data>
 </root>

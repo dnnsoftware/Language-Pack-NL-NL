@@ -15,10 +15,10 @@
   <data name="AddContent.Action">
     <value xml:space="preserve">Content Toevoegen</value>
   </data>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Menu instellingen</value>
+  <data name="ControlTitle_settings.Text" lastModified="2020-05-16 16:11:44">
+    <value xml:space="preserve">Menu-instellingen</value>
   </data>
-  <data name="ModuleHelp.Text" lastModified="2015-12-31 10:40:33">
-    <value xml:space="preserve">De DDRMenu documentatie is beschikbaar op de &lt;a href="http://www.dotnetnuke.com/Resources/Wiki/Page/DDRMenu.aspx"&gt;DNN wiki&lt;/a&gt;.</value>
+  <data name="ModuleHelp.Text" lastModified="2020-05-16 16:11:44">
+    <value xml:space="preserve">De DDRMenu documentatie is beschikbaar op de &lt;a href="https://https://dnncommunity.org/documentation"&gt;DNN Docs&lt;/a&gt;.</value>
   </data>
 </root>

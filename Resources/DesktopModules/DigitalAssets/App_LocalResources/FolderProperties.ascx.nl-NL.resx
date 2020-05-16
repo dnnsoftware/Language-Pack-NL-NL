@@ -18,8 +18,8 @@
   <data name="cmdCopyPerm.Text">
     <value xml:space="preserve">Kopieer rechten</value>
   </data>
-  <data name="DialogTitle.Text">
-    <value xml:space="preserve">{0} Map informatie</value>
+  <data name="DialogTitle.Text" lastModified="2020-05-16 16:14:32">
+    <value xml:space="preserve">{0} Mapinformatie</value>
   </data>
   <data name="FolderNameLabel.Help">
     <value xml:space="preserve">Bewerk de huidige mapnaam</value>
@@ -27,11 +27,11 @@
   <data name="FolderNameLabel.Text">
     <value xml:space="preserve">Mapnaam</value>
   </data>
-  <data name="FolderTypeLabel.Help">
-    <value xml:space="preserve">Deze waarde geeft een indicatie van het map type van de huidige map</value>
+  <data name="FolderTypeLabel.Help" lastModified="2020-05-16 16:14:32">
+    <value xml:space="preserve">Deze waarde geeft een indicatie van het maptype van de huidige map</value>
   </data>
-  <data name="FolderTypeLabel.Text">
-    <value xml:space="preserve">Map type</value>
+  <data name="FolderTypeLabel.Text" lastModified="2020-05-16 16:14:32">
+    <value xml:space="preserve">Maptype</value>
   </data>
   <data name="GeneralTab.Text">
     <value xml:space="preserve">Algemeen</value>
@@ -42,8 +42,8 @@
   <data name="lblCopyPerm.Text">
     <value xml:space="preserve">Kopieer rechten naar sub-mappen:</value>
   </data>
-  <data name="PermissionCopyError.Text">
-    <value xml:space="preserve">Er is een fout opgetreden bij het kopieeren van de maprechten</value>
+  <data name="PermissionCopyError.Text" lastModified="2020-05-16 16:14:32">
+    <value xml:space="preserve">Er is een fout opgetreden bij het kopieëren van de maprechten</value>
   </data>
   <data name="PermissionsCopied.Text">
     <value xml:space="preserve">De rechten zijn succesvol gekopieerd</value>
@@ -54,13 +54,13 @@
   <data name="SaveButton.Text">
     <value xml:space="preserve">Opslaan</value>
   </data>
-  <data name="UserCannotChangePermissionsError.Text">
-    <value xml:space="preserve">U kunt de rechten van deze map niet wijzigen</value>
+  <data name="UserCannotChangePermissionsError.Text" lastModified="2020-05-16 16:14:32">
+    <value xml:space="preserve">Je kan de rechten van deze map niet wijzigen</value>
   </data>
-  <data name="UserCannotEditFolderError.Text">
-    <value xml:space="preserve">U heeft geen rechten om deze map te mogen bewerken</value>
+  <data name="UserCannotEditFolderError.Text" lastModified="2020-05-16 16:14:32">
+    <value xml:space="preserve">Je hebt geen rechten om deze map te bewerken</value>
   </data>
-  <data name="UserCannotReadFolderError.Text">
-    <value xml:space="preserve">U heeft geen rechten om deze map te mogen lezen</value>
+  <data name="UserCannotReadFolderError.Text" lastModified="2020-05-16 16:14:32">
+    <value xml:space="preserve">Je hebt geen rechten om deze map te lezen</value>
   </data>
 </root>

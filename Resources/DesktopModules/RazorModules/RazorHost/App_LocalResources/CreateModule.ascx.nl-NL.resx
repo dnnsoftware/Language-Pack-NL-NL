@@ -18,8 +18,8 @@
   <data name="ControlTitle_createmodule.Text">
     <value xml:space="preserve">Maak module</value>
   </data>
-  <data name="FolderExists.Text">
-    <value xml:space="preserve">De map die u heeft geselecteerd bestaat al. Selecteer een andere naam.</value>
+  <data name="FolderExists.Text" lastModified="2020-05-16 16:36:02">
+    <value xml:space="preserve">De map die je hebt geselecteerd bestaat al. Selecteer een andere naam.</value>
   </data>
   <data name="ImportControl.ErrorMessage">
     <value xml:space="preserve">Er is een error opgetreden tijdens het importeren van het module control, bekijk het logboek voor nadere informatie.</value>
@@ -97,8 +97,8 @@
   <data name="plAddPage.Help">
     <value xml:space="preserve">Vink deze optie aan om een test pagina aan te maken voor je nieuwe module.</value>
   </data>
-  <data name="plAddPage.Text">
-    <value xml:space="preserve">Test pagina toevoegen?</value>
+  <data name="plAddPage.Text" lastModified="2020-05-16 16:36:02">
+    <value xml:space="preserve">Testpagina toevoegen?</value>
   </data>
   <data name="plDescription.Help" lastModified="2015-12-31 10:46:26">
     <value xml:space="preserve">Geef een beschrijving van je module.</value>
@@ -115,17 +115,17 @@
   <data name="plName.Help">
     <value xml:space="preserve">Voer een Vriendelijke naam in voor je module.</value>
   </data>
-  <data name="plName.Text">
-    <value xml:space="preserve">Module naam:</value>
+  <data name="plName.Text" lastModified="2020-05-16 16:36:02">
+    <value xml:space="preserve">Modulenaam:</value>
   </data>
-  <data name="plSource.Text">
-    <value xml:space="preserve">Script Bron:</value>
+  <data name="plSource.Text" lastModified="2020-05-16 16:36:02">
+    <value xml:space="preserve">Scriptbron:</value>
   </data>
-  <data name="ScriptCopyError.Text">
-    <value xml:space="preserve">Er is een onverwachte fout opgetreden tijdens het kopiëren van het Script naar de bestemming map. Bekijk de sitelog voor meer informatie.  </value>
+  <data name="ScriptCopyError.Text" lastModified="2020-05-16 16:36:02">
+    <value xml:space="preserve">Er is een onverwachte fout opgetreden tijdens het kopiëren van het script naar de bestemmingsmap. Bekijk de sitelog voor meer informatie.  </value>
   </data>
-  <data name="scriptsLabel.Help">
-    <value xml:space="preserve">Selecteer het Script dat u wilt gebruiken voor de lijst.</value>
+  <data name="scriptsLabel.Help" lastModified="2020-05-16 16:36:02">
+    <value xml:space="preserve">Selecteer het script dat je wilt gebruiken voor de lijst.</value>
   </data>
   <data name="scriptsLabel.Text">
     <value xml:space="preserve">Selecteer Script:</value>
@@ -133,11 +133,11 @@
   <data name="SourceControl.Text">
     <value xml:space="preserve">Module Control - {0} </value>
   </data>
-  <data name="SourceFile.Text">
-    <value xml:space="preserve">Bron Script - {0}</value>
+  <data name="SourceFile.Text" lastModified="2020-05-16 16:36:02">
+    <value xml:space="preserve">Bronscript - {0}</value>
   </data>
-  <data name="TabExists.Text">
-    <value xml:space="preserve">Er bestaat al een pagina naam voor deze module naam. De module is aangemaakt maar de test pagina is niet aangemaakt. </value>
+  <data name="TabExists.Text" lastModified="2020-05-16 16:36:02">
+    <value xml:space="preserve">Er bestaat al een paginanaam voor deze module naam. De module is aangemaakt maar de testpagina is niet aangemaakt. </value>
   </data>
   <data name="valFolder.Text">
     <value xml:space="preserve">De map is benodigd&lt;br/&gt;</value>

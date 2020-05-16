@@ -18,14 +18,14 @@
   <data name="btnDelete.Text" lastModified="2020-05-08 17:52:07">
     <value xml:space="preserve">Verwijder de verbinding</value>
   </data>
-  <data name="ConnectorName.Text" lastModified="2020-05-08 17:52:07">
-    <value xml:space="preserve">Google Analytics Core Connector</value>
+  <data name="ConnectorName.Text" lastModified="2020-05-16 16:02:50">
+    <value xml:space="preserve">Google Analytics DNN Core Connector</value>
   </data>
-  <data name="DataConsent.Text" lastModified="2020-05-08 17:52:07">
-    <value xml:space="preserve">Let op: data instemming is actief, wardoor deze instelling automatisch actief is</value>
+  <data name="DataConsent.Text" lastModified="2020-05-16 16:02:50">
+    <value xml:space="preserve">Let op: datainstemming is actief, wardoor deze instelling automatisch actief is</value>
   </data>
-  <data name="TrackAdministrators.Text" lastModified="2020-05-08 17:52:07">
-    <value xml:space="preserve">Track voor Administrators</value>
+  <data name="TrackAdministrators.Text" lastModified="2020-05-16 16:02:50">
+    <value xml:space="preserve">Tracking voor Administrators</value>
   </data>
   <data name="TrackingCodeFormat.ErrorMessage" lastModified="2020-05-08 17:52:07">
     <value xml:space="preserve">Tracking code kan niet leeg zijn</value>

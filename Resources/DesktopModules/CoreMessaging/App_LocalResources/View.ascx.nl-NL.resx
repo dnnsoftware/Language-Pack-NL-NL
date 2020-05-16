@@ -12,11 +12,35 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Action.Text">
+    <value xml:space="preserve">Actie</value>
+  </data>
+  <data name="ActionNotPerformed.Text">
+    <value xml:space="preserve">Er is een fout opgetreden tijdens het uitvoeren van de actie. Probeer het later opnieuw.</value>
+  </data>
+  <data name="ActionPerformed.Text">
+    <value xml:space="preserve">De actie is met succes uitgevoerd.</value>
+  </data>
   <data name="Actions.Text">
     <value xml:space="preserve">Acties</value>
   </data>
+  <data name="Activity.Text">
+    <value xml:space="preserve">Activiteiten</value>
+  </data>
   <data name="All.Text">
     <value xml:space="preserve">Alle</value>
+  </data>
+  <data name="ApplyActionToMessages.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Een actie op je berichten toepassen</value>
+  </data>
+  <data name="Archived.Text">
+    <value xml:space="preserve">Gearchiveerd</value>
+  </data>
+  <data name="ArchivedMessages.Text">
+    <value xml:space="preserve">Verzonden berichten</value>
+  </data>
+  <data name="ArchiveMessages.Text">
+    <value xml:space="preserve">Archief bericht(en)</value>
   </data>
   <data name="ArrangeConversation.Text">
     <value xml:space="preserve">Gesprek</value>
@@ -36,6 +60,12 @@
   <data name="Attachments.Text">
     <value xml:space="preserve">Bijlage(n)</value>
   </data>
+  <data name="AutoSuggestError.Text">
+    <value xml:space="preserve">Er is een fout opgetreden tijdens het ophalen van suggesties:</value>
+  </data>
+  <data name="BackToMessages.Text">
+    <value xml:space="preserve">Terug naar berichten</value>
+  </data>
   <data name="Browse.Text">
     <value xml:space="preserve">Bladeren vanaf website</value>
   </data>
@@ -45,17 +75,74 @@
   <data name="ComposeNewMessage.Text">
     <value xml:space="preserve">Nieuw bericht opstellen</value>
   </data>
+  <data name="ContentNotAvailable.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">De inhoud van deze module is niet zichtbaar voor niet-geverifieerde gebruikers. Log in om de inhoud te zien.</value>
+  </data>
+  <data name="ConversationArchived.Text">
+    <value xml:space="preserve">Het gesprek is gearchiveerd.</value>
+  </data>
+  <data name="Conversations.Text">
+    <value xml:space="preserve">Gesprekken</value>
+  </data>
+  <data name="ConversationSetAsRead.Text">
+    <value xml:space="preserve">Het gesprek is ingesteld als lezen.</value>
+  </data>
+  <data name="ConversationSetAsUnread.Text">
+    <value xml:space="preserve">Het gesprek is ingesteld als ongelezen.</value>
+  </data>
+  <data name="ConversationUnarchived.Text">
+    <value xml:space="preserve">Het gesprek is geweest unarchived.</value>
+  </data>
+  <data name="CreateMessageError.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Er is een fout opgetreden tijdens het maken van het bericht. Probeer het later opnieuw.</value>
+  </data>
+  <data name="CreateMessageErrorWithDescription.Text">
+    <value xml:space="preserve">Er is een fout opgetreden tijdens het maken van het bericht:</value>
+  </data>
+  <data name="DismissAllConfirm.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Weet je zeker dat je alle {0} notificaties wilt verwijderen?</value>
+  </data>
+  <data name="DismissAllNotifications.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Verwijder alle notificaties</value>
+  </data>
   <data name="DismissThis.Text">
     <value xml:space="preserve">Alles verwijderen</value>
   </data>
-  <data name="DismissAllNotifications.Text">
-    <value xml:space="preserve">Verwijder alle berichtgevingen</value>
+  <data name="DNNCorp_Answers_Question.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Antwoord abonnement</value>
   </data>
-  <data name="DismissAllConfirm.Text">
-    <value xml:space="preserve">Weet u zeker dat u all {0} berichtgevingen wilt verwijderen?</value>
+  <data name="DNNCorp_Blogs.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Blogabonnement</value>
+  </data>
+  <data name="DNNCorp_Challenges_Challenge.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Abonnement voor uitdagingen</value>
+  </data>
+  <data name="DNNCorp_Discussions_Topic.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Discussieabonnement</value>
+  </data>
+  <data name="DNNCorp_File.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Bestandsabonnement</value>
+  </data>
+  <data name="DNNCorp_Folder.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Mapabonnement</value>
+  </data>
+  <data name="DNNCorp_Groups_CreatedApprovedGroup.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Groepabonnement</value>
+  </data>
+  <data name="DNNCorp_Ideas.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Ideeabonnement</value>
+  </data>
+  <data name="DNNCorp_SocialEvents_Event.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Evenementabonnement</value>
+  </data>
+  <data name="DNNCorp_Wiki_Page.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Wiki abonnement</value>
   </data>
   <data name="EditModule.Text">
     <value xml:space="preserve">Module bewerken</value>
+  </data>
+  <data name="EmailDeliverySchedule.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">E-mail afleveringsplanning</value>
   </data>
   <data name="FileSize.Header">
     <value xml:space="preserve">Bestandsgrootte:</value>
@@ -81,11 +168,44 @@
   <data name="FilterViewAll.Text">
     <value xml:space="preserve">Alle bekijken</value>
   </data>
+  <data name="Frequency.Text">
+    <value xml:space="preserve">Frequentie</value>
+  </data>
+  <data name="From.Text">
+    <value xml:space="preserve">Van</value>
+  </data>
   <data name="LastModified.Header">
     <value xml:space="preserve">Laatst gewijzigd</value>
   </data>
+  <data name="lblMessageFreq.Help" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Hoe vaak wil je e-mails ontvangen die je informatie geven over berichten van gebruikers op de site.</value>
+  </data>
+  <data name="lblMessageFreq.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Berichtverwerkingsfrequentie:</value>
+  </data>
+  <data name="lblNotificationFreq.Help" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Hoe vaak ontvang je e-mails over site notificaties</value>
+  </data>
+  <data name="lblNotificationFreq.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Notificatieverwerkingsfrequentie:</value>
+  </data>
+  <data name="lblSubscriptions.Help" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Weergeven en beheren van onderdelen waarop je bent geabonneerd.</value>
+  </data>
+  <data name="lblSubscriptions.Text">
+    <value xml:space="preserve">Inschrijvingen</value>
+  </data>
+  <data name="Loading.Text">
+    <value xml:space="preserve">bezig met laden...</value>
+  </data>
+  <data name="LoadingContent.Text">
+    <value xml:space="preserve">Inhoud laden...</value>
+  </data>
   <data name="LoadMore.Text">
     <value xml:space="preserve">Meer laden</value>
+  </data>
+  <data name="ManageSubscriptions.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Abonnementen beheren</value>
   </data>
   <data name="MarkArchive.Text">
     <value xml:space="preserve">Archief</value>
@@ -93,14 +213,20 @@
   <data name="MarkRead.Text">
     <value xml:space="preserve">Markeren als gelezen</value>
   </data>
+  <data name="MarkUnarchive.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">De-archiveer</value>
+  </data>
   <data name="MarkUnread.Text">
     <value xml:space="preserve">Markeren als ongelezen</value>
   </data>
-  <data name="Message.Text">
-    <value xml:space="preserve">Uw bericht</value>
+  <data name="Message.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Jouw bericht</value>
   </data>
-  <data name="MessageSent.Text">
-    <value xml:space="preserve">Uw bericht is succesvol verzonden.</value>
+  <data name="Messages.Text">
+    <value xml:space="preserve">Berichten</value>
+  </data>
+  <data name="MessageSent.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Je bericht is succesvol verzonden.</value>
   </data>
   <data name="MessageSentTitle.Text">
     <value xml:space="preserve">Bericht verzonden</value>
@@ -108,11 +234,35 @@
   <data name="Name.Header">
     <value xml:space="preserve">Naam</value>
   </data>
+  <data name="NewUnreadMessages.Text">
+    <value xml:space="preserve">Nieuwe ongelezen berichten</value>
+  </data>
   <data name="None.Text">
     <value xml:space="preserve">Geen</value>
   </data>
   <data name="NoResults.Text">
     <value xml:space="preserve">Geen resultaten</value>
+  </data>
+  <data name="NotificationConfirmNo.Text">
+    <value xml:space="preserve">Nee</value>
+  </data>
+  <data name="NotificationConfirmTitle.Text">
+    <value xml:space="preserve">Bevestigen</value>
+  </data>
+  <data name="NotificationConfirmYes.Text">
+    <value xml:space="preserve">Ja</value>
+  </data>
+  <data name="Notifications.Text">
+    <value xml:space="preserve">Meldingen</value>
+  </data>
+  <data name="Of.Text">
+    <value xml:space="preserve">van</value>
+  </data>
+  <data name="PermissionsNotProperlySet.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Modulemachtigingen zijn niet goed ingesteld. De module moet zichtbaar zijn voor niet-geverifieerde gebruikers. </value>
+  </data>
+  <data name="PrefSaved.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Je voorkeuren zijn bijgewerkt</value>
   </data>
   <data name="Read.Text">
     <value xml:space="preserve">Lezen</value>
@@ -126,83 +276,23 @@
   <data name="Reply.Text">
     <value xml:space="preserve">Antwoord</value>
   </data>
+  <data name="ReplyHasNoRecipients.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Dit bericht heeft geen geldige ontvangers meer, antwoorden zijn uitgezet.</value>
+  </data>
+  <data name="SearchFilter.Text">
+    <value xml:space="preserve">Zoek filter</value>
+  </data>
   <data name="Searching.Text">
     <value xml:space="preserve">Bezig met zoeken...</value>
   </data>
   <data name="Select.Text">
     <value xml:space="preserve">Selecteer</value>
   </data>
-  <data name="Send.Text">
-    <value xml:space="preserve">Verzenden</value>
-  </data>
-  <data name="Subject.Text">
-    <value xml:space="preserve">Onderwerp</value>
-  </data>
-  <data name="Throttling.Text">
-    <value xml:space="preserve">Gelieve te wachten alvorens een nieuw bericht te verzenden.</value>
-  </data>
-  <data name="Title.Text">
-    <value xml:space="preserve">Bericht opstellen</value>
-  </data>
-  <data name="To.Text">
-    <value xml:space="preserve">Verzenden</value>
-  </data>
-  <data name="Type.Header">
-    <value xml:space="preserve">Type</value>
-  </data>
-  <data name="Unread.Text">
-    <value xml:space="preserve">Ongelezen</value>
-  </data>
-  <data name="UserFileManagerTitle.Text">
-    <value xml:space="preserve">Blader bestand gebruiken</value>
-  </data>
-  <data name="ApplyActionToMessages.Text">
-    <value xml:space="preserve">Een actie op uw berichten toepassen</value>
-  </data>
-  <data name="Archived.Text">
-    <value xml:space="preserve">Gearchiveerd</value>
-  </data>
-  <data name="ArchivedMessages.Text">
-    <value xml:space="preserve">Verzonden berichten</value>
-  </data>
-  <data name="ArchiveMessages.Text">
-    <value xml:space="preserve">Archief bericht(en)</value>
-  </data>
-  <data name="BackToMessages.Text">
-    <value xml:space="preserve">Terug naar berichten</value>
-  </data>
-  <data name="ConversationArchived.Text">
-    <value xml:space="preserve">Het gesprek is gearchiveerd.</value>
-  </data>
-  <data name="ConversationSetAsRead.Text">
-    <value xml:space="preserve">Het gesprek is ingesteld als lezen.</value>
-  </data>
-  <data name="ConversationSetAsUnread.Text">
-    <value xml:space="preserve">Het gesprek is ingesteld als ongelezen.</value>
-  </data>
-  <data name="ConversationUnarchived.Text">
-    <value xml:space="preserve">Het gesprek is geweest unarchived.</value>
-  </data>
-  <data name="Conversations.Text">
-    <value xml:space="preserve">Gesprekken</value>
-  </data>
-  <data name="Loading.Text">
-    <value xml:space="preserve">bezig met laden...</value>
-  </data>
-  <data name="LoadingContent.Text">
-    <value xml:space="preserve">Inhoud laden...</value>
-  </data>
-  <data name="MarkUnarchive.Text">
-    <value xml:space="preserve">Désarchiver</value>
-  </data>
-  <data name="Messages.Text">
-    <value xml:space="preserve">Berichten</value>
-  </data>
-  <data name="NewUnreadMessages.Text">
-    <value xml:space="preserve">Nieuwe ongelezen berichten</value>
-  </data>
   <data name="SelectMessages.Text">
     <value xml:space="preserve">Selecteer berichten</value>
+  </data>
+  <data name="Send.Text">
+    <value xml:space="preserve">Verzenden</value>
   </data>
   <data name="Sent.Text">
     <value xml:space="preserve">Verzonden</value>
@@ -210,47 +300,8 @@
   <data name="SentMessages.Text">
     <value xml:space="preserve">Verzonden berichten</value>
   </data>
-  <data name="ShowPreviousReplies.Text">
-    <value xml:space="preserve">Toon vorige antwoorden</value>
-  </data>
-  <data name="PermissionsNotProperlySet.Text">
-    <value xml:space="preserve">Module machtigingen zijn niet goed ingesteld. De module moet zichtbaar zijn voor niet-geverifieerde gebruikers niet. Corrigeer dit.</value>
-  </data>
-  <data name="ContentNotAvailable.Text">
-    <value xml:space="preserve">De inhoud van deze module kan niet zichtbaar door niet-geverifieerde gebruikers. Gelieve in te loggen om te zien de inhoud ervan.</value>
-  </data>
-  <data name="Notifications.Text">
-    <value xml:space="preserve">Meldingen</value>
-  </data>
-  <data name="Of.Text">
-    <value xml:space="preserve">van</value>
-  </data>
-  <data name="TotalNotifications.Text">
-    <value xml:space="preserve">Totale meldingen</value>
-  </data>
-  <data name="From.Text">
-    <value xml:space="preserve">Van</value>
-  </data>
   <data name="SentTo.Text">
     <value xml:space="preserve">Verzonden naar</value>
-  </data>
-  <data name="NotificationConfirmNo.Text">
-    <value xml:space="preserve">Nee</value>
-  </data>
-  <data name="NotificationConfirmTitle.Text">
-    <value xml:space="preserve">Bevestigen</value>
-  </data>
-  <data name="NotificationConfirmYes.Text">
-    <value xml:space="preserve">Ja</value>
-  </data>
-  <data name="ActionNotPerformed.Text">
-    <value xml:space="preserve">Er is een fout opgetreden tijdens het uitvoeren van de actie. Probeer het later opnieuw.</value>
-  </data>
-  <data name="ActionPerformed.Text">
-    <value xml:space="preserve">De actie is met succes uitgevoerd.</value>
-  </data>
-  <data name="ReplyHasNoRecipients.Text">
-    <value xml:space="preserve">Dit bericht heeft geen geldige ontvangers meer dus antwoorden zijn uit gezet.</value>
   </data>
   <data name="ServerError.Text">
     <value xml:space="preserve">Er is een fout opgetreden tijdens het verwerken van het verzoek. Probeer het later opnieuw.</value>
@@ -258,100 +309,49 @@
   <data name="ServerErrorWithDescription.Text">
     <value xml:space="preserve">Er is een fout opgetreden tijdens het verwerken van het verzoek: </value>
   </data>
-  <data name="CreateMessageError.Text">
-    <value xml:space="preserve">Er is een fout opgetreden tijdens het maken van het bericht. Please try again later.</value>
+  <data name="ShowPreviousReplies.Text">
+    <value xml:space="preserve">Toon vorige antwoorden</value>
   </data>
-  <data name="CreateMessageErrorWithDescription.Text">
-    <value xml:space="preserve">Er is een fout opgetreden tijdens het maken van het bericht:</value>
-  </data>
-  <data name="AutoSuggestError.Text">
-    <value xml:space="preserve">Er is een fout opgetreden tijdens het ophalen van suggesties:</value>
-  </data>
-  <data name="Upload.Text">
-    <value xml:space="preserve">Uploaden vanaf computer</value>
-  </data>
-  <data name="Subscriptions.Text">
-    <value xml:space="preserve">Inschrijvingen</value>
-  </data>
-  <data name="Action.Text">
-    <value xml:space="preserve">Actie</value>
-  </data>
-  <data name="Activity.Text">
-    <value xml:space="preserve">Activiteiten</value>
-  </data>
-  <data name="ManageSubscriptions.Text">
-    <value xml:space="preserve">Inschrijvingen beheren</value>
-  </data>
-  <data name="Frequency.Text">
-    <value xml:space="preserve">Frequentie</value>
-  </data>
-  <data name="lblMessageFreq.Help">
-    <value xml:space="preserve">Hoe vaak ontvangt u E-mails die u informatie geven over berichten van gebruikers op de site.</value>
-  </data>
-  <data name="lblMessageFreq.Text">
-    <value xml:space="preserve">Bericht verwerkings frequentie:</value>
-  </data>
-  <data name="lblNotificationFreq.Help">
-    <value xml:space="preserve">Hoe vaak ontvangt u E-mails over site notificaties</value>
-  </data>
-  <data name="lblNotificationFreq.Text">
-    <value xml:space="preserve">Notificatie verwerkings frequentie:</value>
-  </data>
-  <data name="EmailDeliverySchedule.Text">
-    <value xml:space="preserve">E-mail aflevering planning</value>
-  </data>
-  <data name="PrefSaved.Text">
-    <value xml:space="preserve">Uw voorkeuren zijn bijgewerkt</value>
-  </data>
-  <data name="SearchFilter.Text">
-    <value xml:space="preserve">Zoek filter</value>
-  </data>
-  <data name="SubscriptionType.Text">
-    <value xml:space="preserve">Inschrijvings type</value>
-  </data>
-  <data name="Unsubscribe.Text">
-    <value xml:space="preserve">Uitschrijven</value>
+  <data name="Subject.Text">
+    <value xml:space="preserve">Onderwerp</value>
   </data>
   <data name="SubscribedDescription.Text">
     <value xml:space="preserve">Item</value>
   </data>
-  <data name="Unsubscribed.Text">
-    <value xml:space="preserve">U bent succesvol uitgeschreven</value>
-  </data>
-  <data name="lblSubscriptions.Help">
-    <value xml:space="preserve">Weergeven en beheren van onderdelen waarop u bent ingeschreven.</value>
-  </data>
-  <data name="lblSubscriptions.Text">
+  <data name="Subscriptions.Text">
     <value xml:space="preserve">Inschrijvingen</value>
   </data>
-  <data name="DNNCorp_Answers_Question.Text">
-    <value xml:space="preserve">Antwoord inschrijvingen</value>
+  <data name="SubscriptionType.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Inschrijvingstype</value>
   </data>
-  <data name="DNNCorp_Blogs.Text">
-    <value xml:space="preserve">Blog inschrijvingen</value>
+  <data name="Throttling.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Wacht alvorens een nieuw bericht te verzenden.</value>
   </data>
-  <data name="DNNCorp_Challenges_Challenge.Text">
-    <value xml:space="preserve">Uitdagings inschrijvingen</value>
+  <data name="Title.Text">
+    <value xml:space="preserve">Bericht opstellen</value>
   </data>
-  <data name="DNNCorp_Discussions_Topic.Text">
-    <value xml:space="preserve">Discussie inschrijvingen</value>
+  <data name="To.Text">
+    <value xml:space="preserve">Verzenden</value>
   </data>
-  <data name="DNNCorp_File.Text">
-    <value xml:space="preserve">Bestands inschrijvingen</value>
+  <data name="TotalNotifications.Text">
+    <value xml:space="preserve">Totale meldingen</value>
   </data>
-  <data name="DNNCorp_Folder.Text">
-    <value xml:space="preserve">Map inschrijvingen</value>
+  <data name="Type.Header">
+    <value xml:space="preserve">Type</value>
   </data>
-  <data name="DNNCorp_Groups_CreatedApprovedGroup.Text">
-    <value xml:space="preserve">Groeps inschrijvingen</value>
+  <data name="Unread.Text">
+    <value xml:space="preserve">Ongelezen</value>
   </data>
-  <data name="DNNCorp_Ideas.Text">
-    <value xml:space="preserve">Idee inschrijvingen</value>
+  <data name="Unsubscribe.Text">
+    <value xml:space="preserve">Uitschrijven</value>
   </data>
-  <data name="DNNCorp_SocialEvents_Event.Text">
-    <value xml:space="preserve">Evenement inschrijvingen</value>
+  <data name="Unsubscribed.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Je bent succesvol uitgeschreven</value>
   </data>
-  <data name="DNNCorp_Wiki_Page.Text">
-    <value xml:space="preserve">Wiki inschrijvingen</value>
+  <data name="Upload.Text">
+    <value xml:space="preserve">Uploaden vanaf computer</value>
+  </data>
+  <data name="UserFileManagerTitle.Text" lastModified="2020-05-16 16:09:51">
+    <value xml:space="preserve">Blader naar het te gebruiken bestand </value>
   </data>
 </root>

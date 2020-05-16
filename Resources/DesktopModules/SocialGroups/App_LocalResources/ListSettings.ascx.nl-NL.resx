@@ -12,11 +12,11 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Groepmodule instellingen</value>
+  <data name="ControlTitle_settings.Text" lastModified="2020-05-16 16:39:21">
+    <value xml:space="preserve">Groepsmodule instellingen</value>
   </data>
-  <data name="DefaultRoleGroup.Help">
-    <value xml:space="preserve">Selecteer de rolgroep die de rollen bevat die u wilt weergeven</value>
+  <data name="DefaultRoleGroup.Help" lastModified="2020-05-16 16:39:21">
+    <value xml:space="preserve">Selecteer de rolgroep die de rollen bevat die je wilt weergeven</value>
   </data>
   <data name="DefaultRoleGroup.Text">
     <value xml:space="preserve">Standaard rolgroep</value>
@@ -33,14 +33,14 @@
   <data name="GroupListPageSize.Help">
     <value xml:space="preserve">Specificeer het aantal groepen dat word teruggegeven per pagina.</value>
   </data>
-  <data name="GroupListPageSize.Text">
-    <value xml:space="preserve">Pagina grote van groepslijst</value>
+  <data name="GroupListPageSize.Text" lastModified="2020-05-16 16:39:21">
+    <value xml:space="preserve">Paginagrootte van groepslijst</value>
   </data>
-  <data name="GroupListSortDirField.Help">
-    <value xml:space="preserve">Kies de sorteer richting voor de lijst van groepen.</value>
+  <data name="GroupListSortDirField.Help" lastModified="2020-05-16 16:39:21">
+    <value xml:space="preserve">Kies de sorteerrichting voor de lijst van groepen.</value>
   </data>
-  <data name="GroupListSortDirField.Text">
-    <value xml:space="preserve">Sorteer richting</value>
+  <data name="GroupListSortDirField.Text" lastModified="2020-05-16 16:39:21">
+    <value xml:space="preserve">Sorteerrichting</value>
   </data>
   <data name="GroupListSortField.Help">
     <value xml:space="preserve">Kies het veld dat zal worden gebruikt voor het sorteren van de lijst met groepen.</value>
@@ -48,15 +48,15 @@
   <data name="GroupListSortField.Text">
     <value xml:space="preserve">Sorteer lijst op basis van</value>
   </data>
-  <data name="GroupListTemplateText.Help">
-    <value xml:space="preserve">U kunt het standaardsjabloon wijzigen om de weergave van de groepslijst aan te passen.  Gemeenschappelijke tokens zijn:&lt;br/&gt;
+  <data name="GroupListTemplateText.Help" lastModified="2020-05-16 16:39:21">
+    <value xml:space="preserve">Je kan het standaardsjabloon wijzigen om de weergave van de groepslijst aan te passen.  Gemeenschappelijke tokens zijn:&lt;br/&gt;
 [groupitem:GroupName]&lt;br&gt;
 [groupitem:GroupDescription]&lt;br/&gt;
 [groupitem:PhotoURL]&lt;br/&gt;
 [groupviewurl]&lt;br/&gt;</value>
   </data>
-  <data name="GroupListTemplateText.Text">
-    <value xml:space="preserve">Groepslijst sjabloon</value>
+  <data name="GroupListTemplateText.Text" lastModified="2020-05-16 16:39:21">
+    <value xml:space="preserve">Groepslijstsjabloon</value>
   </data>
   <data name="GroupListUserGroups.Help">
     <value xml:space="preserve">Selecteer deze optie om alleen de groepen weer te geven waar de huidige gebruiker bij hoort.</value>
@@ -73,15 +73,15 @@
   <data name="GroupViewPage.Help">
     <value xml:space="preserve">Selecteer de pagina waar gebruikers naar toe gaan om een bepaalde groep te bekijken</value>
   </data>
-  <data name="GroupViewTemplateText.Help">
-    <value xml:space="preserve">U kunt het standaardsjabloon wijzigen om de weergave van de groepslijst aan te passen.  Gemeenschappelijke tokens zijn:&lt;br/&gt;
+  <data name="GroupViewTemplateText.Help" lastModified="2020-05-16 16:39:21">
+    <value xml:space="preserve">Je kan het standaardsjabloon wijzigen om de weergave van de groepslijst aan te passen.  Gemeenschappelijke tokens zijn:&lt;br/&gt;
 [groupitem:GroupName]&lt;br&gt;
 [groupitem:GroupDescription]&lt;br/&gt;
 [groupitem:PhotoURL]&lt;br/&gt;
 [groupviewurl]&lt;br/&gt;</value>
   </data>
-  <data name="PageSizeValidation.Text">
-    <value xml:space="preserve">Ongeldige pagina grote opgegeven. (1-9999)</value>
+  <data name="PageSizeValidation.Text" lastModified="2020-05-16 16:39:21">
+    <value xml:space="preserve">Ongeldige paginagrootte opgegeven. (1-9999)</value>
   </data>
   <data name="ViewMode.Help">
     <value xml:space="preserve">Selecteer de modus waarin de module moet worden weergegeven.</value>

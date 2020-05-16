@@ -15,8 +15,8 @@
   <data name="CreateGroup.Text">
     <value xml:space="preserve">Groep maken</value>
   </data>
-  <data name="GroupName.Help">
-    <value xml:space="preserve">Voer de naam van de groep die u wilt maken</value>
+  <data name="GroupName.Help" lastModified="2020-05-16 16:41:49">
+    <value xml:space="preserve">Voer de naam van de groep die je wilt maken</value>
   </data>
   <data name="GroupName.Text">
     <value xml:space="preserve">Groepsnaam</value>

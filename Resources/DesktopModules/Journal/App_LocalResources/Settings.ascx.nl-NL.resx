@@ -30,20 +30,20 @@
   <data name="AllowResize.Text">
     <value xml:space="preserve">Foto's in grootte aanpassen</value>
   </data>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Dagboek instellingen</value>
+  <data name="ControlTitle_settings.Text" lastModified="2020-05-16 16:28:08">
+    <value xml:space="preserve">Dagboekinstellingen</value>
   </data>
   <data name="DefaultPageSize.Help">
     <value xml:space="preserve">Selecteer het aantal logboekitems dat moet worden weergegeven op een pagina.</value>
   </data>
-  <data name="DefaultPageSize.Text">
-    <value xml:space="preserve">Standaard pagina lengte</value>
+  <data name="DefaultPageSize.Text" lastModified="2020-05-16 16:28:08">
+    <value xml:space="preserve">Standaard paginalengte</value>
   </data>
-  <data name="EnableEditor.Help">
-    <value xml:space="preserve">Gebruik deze optie, in- of uitschakelen, van directe dagboek invoer met behulp van de dagboek bewerker.</value>
+  <data name="EnableEditor.Help" lastModified="2020-05-16 16:28:08">
+    <value xml:space="preserve">Gebruik deze optie om directe bewerking van de dagboekinvoer met behulp van de dagboekbewerker wel of niet mogelijk te maken</value>
   </data>
-  <data name="EnableEditor.Text">
-    <value xml:space="preserve">Inschakelen dagboek bewerker </value>
+  <data name="EnableEditor.Text" lastModified="2020-05-16 16:28:08">
+    <value xml:space="preserve">Inschakelen dagboekbewerker </value>
   </data>
   <data name="JournalFilters.Help">
     <value xml:space="preserve">Selecteer de dagboektypes die moeten worden weergegeven</value>

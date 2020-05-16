@@ -15,6 +15,9 @@
   <data name="Accessibility.Text">
     <value xml:space="preserve">Toegankelijkheid</value>
   </data>
+  <data name="AutoConfigure.Text">
+    <value xml:space="preserve">Auto configureren</value>
+  </data>
   <data name="Cancel.Text">
     <value xml:space="preserve">Annuleren</value>
   </data>
@@ -24,11 +27,75 @@
   <data name="CreateGroupButton.Text">
     <value xml:space="preserve">Groep maken</value>
   </data>
+  <data name="CreateNewGroup.Text">
+    <value xml:space="preserve">Nieuwe groep maken</value>
+  </data>
   <data name="Description.Text">
     <value xml:space="preserve">Beschrijving</value>
   </data>
   <data name="documents.Text">
     <value xml:space="preserve">documenten</value>
+  </data>
+  <data name="EditGroup.Text">
+    <value xml:space="preserve">Groep wijzigen</value>
+  </data>
+  <data name="GroupApprovedNotification.Body" lastModified="2020-05-16 16:41:43">
+    <value xml:space="preserve">Gefeliciteerd!  Je groep is goedgekeurd! Klik op de onderstaande link voor toegang tot je groep. &lt;br /&gt; &lt;br /&gt; &lt;a href="[groupitem:URL]"&gt; [groupitem:GroupName]&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;</value>
+  </data>
+  <data name="GroupApprovedNotification.Subject">
+    <value xml:space="preserve">De groep [groupitem:GroupName] is goedgekeurd.</value>
+  </data>
+  <data name="GroupCreatedNotification.Body">
+    <value xml:space="preserve">&lt;b&gt;Groepsnaam:&lt;/b&gt; &lt;a href="[groupitem:URL]"&gt; [groupitem:GroupName]&lt;/a&gt; &lt;br /&gt; &lt;b&gt;Beschrijving:&lt;/b&gt; [groupitem:Description] &lt; br / &gt; &lt;b&gt;Groepstype:&lt;/b&gt; [groupitem:GroupType] &lt;br /&gt; &lt;b&gt;Groepmaker:&lt;/b&gt; [groupitem:GroupCreatorName] &lt;br /&gt;
+</value>
+  </data>
+  <data name="GroupCreatedNotification.Subject">
+    <value xml:space="preserve">De groep [groupitem:GroupName] is aangemaakt.</value>
+  </data>
+  <data name="GroupEditUrl.Text">
+    <value xml:space="preserve">&lt;a href="{0}"&gt;Groep wijzigen&lt;/a&gt;</value>
+  </data>
+  <data name="GroupIdNotFound.Text">
+    <value xml:space="preserve">De gevraagde groep is niet gevonden</value>
+  </data>
+  <data name="GroupListTemplate.Text">
+    <value xml:space="preserve">&lt;div class="dgdGroupQuickInfoWrap dnnClear"&gt;
+                    &lt;div class="dgdAvatar dnnLeft"&gt;&lt;a href="[groupviewurl]"&gt;&lt;img src="[groupitem:PhotoURL]" alt="[groupitem:GroupName]" /&gt;&lt;/a&gt;&lt;/div&gt;
+                    &lt;div class="dgdGroupQuickInfo dnnLeft"&gt;
+                        &lt;h3&gt;&lt;a href="[groupviewurl]" title="[groupitem:GroupName]"&gt;[groupitem:GroupName]&lt;/a&gt;&lt;/h3&gt;
+                        &lt;p&gt;[groupitem:GroupDescription]&lt;/p&gt;
+                        &lt;ul&gt;
+                            &lt;li class="posts-icn"&gt;[groupitem:stat_status] {resx:posts}&lt;/li&gt;
+                            &lt;li class="member-icn"&gt;[groupitem:UserCount] {resx:members}&lt;/li&gt;
+                            &lt;li class="photo-icn"&gt;[groupitem:stat_photo] {resx:photos}&lt;/li&gt;
+                            &lt;li class="docs-icn"&gt;[groupitem:stat_file] {resx:documents}&lt;/li&gt;
+                            [IsNotMember]
+                            &lt;li class="join-group-icn"&gt;&lt;a href="#" title="" class="dnnTertiaryAction" id="groupJoin-[groupitem:RoleId]" groupid="[groupitem:RoleId]" groupViewTabId ="[GroupViewTabId]"&gt;{resx:Join}&lt;/a&gt;&lt;/li&gt;[/IsNotMember] 
+[IsPendingMember]&lt;li class="join-group-icn"&gt;&lt;a href="#" title="" class="dnnDisabled"&gt;{resx:Pending}&lt;/a&gt;&lt;/li&gt;[/IsPendingMember]
+                        &lt;/ul&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;</value>
+  </data>
+  <data name="GroupMemberApprovedNotification.Body" lastModified="2020-05-16 16:41:43">
+    <value xml:space="preserve">Je verzoek om lid te worden van &lt;a href="[groupitem:URL]"&gt;[groupitem:GroupName]&lt;/a&gt; is goedgekeurd</value>
+  </data>
+  <data name="GroupMemberApprovedNotification.Subject">
+    <value xml:space="preserve">Welkom bij [groupitem:GroupName]!</value>
+  </data>
+  <data name="GroupMemberPendingNotification.Body">
+    <value xml:space="preserve">&lt;a href="[ProfileUrl]" target="_blank"&gt;[DisplayName]&lt;/a&gt; wil lid worden van [groupitem:GroupName].</value>
+  </data>
+  <data name="GroupMemberPendingNotification.Subject">
+    <value xml:space="preserve">[DisplayName] wil lid worden van [groupitem:GroupName]</value>
+  </data>
+  <data name="GroupMemberRejectedNotification.Body" lastModified="2020-05-16 16:41:43">
+    <value xml:space="preserve">Tot onze spijt delen wij je mede dat je verzoek om lid te worden van &lt;b&gt;[groupitem:GroupName]&lt;/b&gt; op dit moment afgewezen is.</value>
+  </data>
+  <data name="GroupMemberRejectedNotification.Subject" lastModified="2020-05-16 16:41:43">
+    <value xml:space="preserve">Antwoord op je vraag om lid te worden van [groupitem:GroupName]</value>
+  </data>
+  <data name="GroupName.Invalid">
+    <value xml:space="preserve">De naam is ongeldig - Rollen mogen alleen de volgende karakters bevatten  &amp; $ + , / ? ~ # &lt; &gt; ( ) ¿ ¡ « » !  . :  * ' [ ]</value>
   </data>
   <data name="GroupName.Required">
     <value xml:space="preserve">Groepsnaam is vereist.</value>
@@ -36,11 +103,29 @@
   <data name="GroupName.Text">
     <value xml:space="preserve">Groepsnaam</value>
   </data>
+  <data name="GroupNameDuplicate.Text" lastModified="2020-05-16 16:41:43">
+    <value xml:space="preserve">De naam die je heeft opgegeven is al in gebruik.</value>
+  </data>
+  <data name="GroupPendingNotification.Body">
+    <value xml:space="preserve">&lt;b&gt;Groepsnaam:&lt;/b&gt; &lt;a href="[groupitem:URL]" target="_blank"&gt; [groupitem:GroupName]&lt;/a&gt; &lt;br /&gt; &lt;b&gt;Beschrijving:&lt;/b&gt; [groupitem:Description] &lt; br /&gt; &lt;b&gt;groepstype:&lt;/b&gt; [groupitem:GroupType] &lt; br /&gt; &lt;b&gt;groep Maker:&lt;/b&gt;[groupitem:GroupCreatorName] &lt; br /&gt;</value>
+  </data>
+  <data name="GroupPendingNotification.Subject">
+    <value xml:space="preserve">De groep [groupitem:GroupName] is in afwachting van goedkeuring.</value>
+  </data>
   <data name="GroupPicture.Help">
     <value xml:space="preserve">Selecteer een afbeelding vanaf uw computer, maximale bestandsgrootte is 2,5 MB</value>
   </data>
   <data name="GroupPicture.Text">
     <value xml:space="preserve">Groepsafbeelding</value>
+  </data>
+  <data name="GroupRejectedNotification.Body" lastModified="2020-05-16 16:41:43">
+    <value xml:space="preserve">Tot onze spijt delen wij je mede dat je verzoek voor het aanmaken van de &lt;b&gt;[groupitem:GroupName]&lt;/b&gt; groep, op dit moment afgewezen is.</value>
+  </data>
+  <data name="GroupRejectedNotification.Subject" lastModified="2020-05-16 16:41:43">
+    <value xml:space="preserve">Je verzoek voor de aanmaak van een nieuwe groep is afgewezen</value>
+  </data>
+  <data name="GroupSearch.Required">
+    <value xml:space="preserve">Zoekterm benodigd.</value>
   </data>
   <data name="GroupViewTemplate.Text">
     <value xml:space="preserve">&lt;div class="GroupViewTop"&gt;
@@ -70,8 +155,23 @@
   <data name="Join.Text">
     <value xml:space="preserve">Lid worden</value>
   </data>
+  <data name="JoinGroup.Text">
+    <value xml:space="preserve">Wordt lid</value>
+  </data>
+  <data name="LeaveGroup.Text">
+    <value xml:space="preserve">Verlaat groep</value>
+  </data>
   <data name="members.Text">
     <value xml:space="preserve">leden</value>
+  </data>
+  <data name="MembersMustBeApproved.Text">
+    <value xml:space="preserve">&lt;b&gt;Nieuwe leden goedkeuren:&lt;/b&gt;Gebruikers moeten lidmaatschap van deze groep aanvragen, en aanvragen moeten goedgekeurd worden door een groepsmanager.</value>
+  </data>
+  <data name="NoGroupsFound.Text">
+    <value xml:space="preserve">Er zijn geen groepen gevonden</value>
+  </data>
+  <data name="Pending.Text">
+    <value xml:space="preserve">Lidmaatschap nog niet goedgekeurd</value>
   </data>
   <data name="photos.Text">
     <value xml:space="preserve">foto 's</value>
@@ -91,131 +191,31 @@
   <data name="Public.Text">
     <value xml:space="preserve">Publiek</value>
   </data>
+  <data name="RejectGroup.Text">
+    <value xml:space="preserve">Deze groep afkeuren</value>
+  </data>
+  <data name="RejectMember.Text">
+    <value xml:space="preserve">Afkeuren</value>
+  </data>
   <data name="Remove.Text">
     <value xml:space="preserve">Verwijderen</value>
   </data>
   <data name="RequiredFields.Text">
     <value xml:space="preserve">Geeft verplichte velden aan</value>
   </data>
-  <data name="GroupListTemplate.Text">
-    <value xml:space="preserve">&lt;div class="dgdGroupQuickInfoWrap dnnClear"&gt;
-                    &lt;div class="dgdAvatar dnnLeft"&gt;&lt;a href="[groupviewurl]"&gt;&lt;img src="[groupitem:PhotoURL]" alt="[groupitem:GroupName]" /&gt;&lt;/a&gt;&lt;/div&gt;
-                    &lt;div class="dgdGroupQuickInfo dnnLeft"&gt;
-                        &lt;h3&gt;&lt;a href="[groupviewurl]" title="[groupitem:GroupName]"&gt;[groupitem:GroupName]&lt;/a&gt;&lt;/h3&gt;
-                        &lt;p&gt;[groupitem:GroupDescription]&lt;/p&gt;
-                        &lt;ul&gt;
-                            &lt;li class="posts-icn"&gt;[groupitem:stat_status] {resx:posts}&lt;/li&gt;
-                            &lt;li class="member-icn"&gt;[groupitem:UserCount] {resx:members}&lt;/li&gt;
-                            &lt;li class="photo-icn"&gt;[groupitem:stat_photo] {resx:photos}&lt;/li&gt;
-                            &lt;li class="docs-icn"&gt;[groupitem:stat_file] {resx:documents}&lt;/li&gt;
-                            [IsNotMember]
-                            &lt;li class="join-group-icn"&gt;&lt;a href="#" title="" class="dnnTertiaryAction" id="groupJoin-[groupitem:RoleId]" groupid="[groupitem:RoleId]" groupViewTabId ="[GroupViewTabId]"&gt;{resx:Join}&lt;/a&gt;&lt;/li&gt;[/IsNotMember] 
-[IsPendingMember]&lt;li class="join-group-icn"&gt;&lt;a href="#" title="" class="dnnDisabled"&gt;{resx:Pending}&lt;/a&gt;&lt;/li&gt;[/IsPendingMember]
-                        &lt;/ul&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;</value>
-  </data>
-  <data name="GroupNameDuplicate.Text">
-    <value xml:space="preserve">De naam die u heeft opgegeven is al in gebruik.</value>
-  </data>
-  <data name="GroupPendingNotification.Body">
-    <value xml:space="preserve">&lt;b&gt;Groepsnaam:&lt;/b&gt; &lt;a href="[groupitem:URL]" target="_blank"&gt; [groupitem:GroupName]&lt;/a&gt; &lt;br /&gt; &lt;b&gt;Beschrijving:&lt;/b&gt; [groupitem:Description] &lt; br /&gt; &lt;b&gt;groepstype:&lt;/b&gt; [groupitem:GroupType] &lt; br /&gt; &lt;b&gt;groep Maker:&lt;/b&gt;[groupitem:GroupCreatorName] &lt; br /&gt;</value>
-  </data>
-  <data name="GroupPendingNotification.Subject">
-    <value xml:space="preserve">De groep [groupitem:GroupName] is in afwachting van goedkeuring.</value>
-  </data>
-  <data name="GroupApprovedNotification.Body">
-    <value xml:space="preserve">Gefeliciteerd!  Uw groep is goedgekeurd! Klik op de onderstaande link voor toegang tot uw groep. &lt;br /&gt; &lt;br /&gt; &lt;a href="[groupitem:URL]"&gt; [groupitem:GroupName]&lt;/a&gt; &lt;br /&gt; &lt;br /&gt;</value>
-  </data>
-  <data name="GroupApprovedNotification.Subject">
-    <value xml:space="preserve">De groep [groupitem:GroupName] is goedgekeurd.</value>
-  </data>
-  <data name="GroupCreatedNotification.Body">
-    <value xml:space="preserve">&lt;b&gt;Groepsnaam:&lt;/b&gt; &lt;a href="[groupitem:URL]"&gt; [groupitem:GroupName]&lt;/a&gt; &lt;br /&gt; &lt;b&gt;Beschrijving:&lt;/b&gt; [groupitem:Description] &lt; br / &gt; &lt;b&gt;Groepstype:&lt;/b&gt; [groupitem:GroupType] &lt;br /&gt; &lt;b&gt;Groepmaker:&lt;/b&gt; [groupitem:GroupCreatorName] &lt;br /&gt;
-</value>
-  </data>
-  <data name="GroupCreatedNotification.Subject">
-    <value xml:space="preserve">De groep [groupitem:GroupName] is aangemaakt.</value>
-  </data>
-  <data name="GroupRejectedNotification.Body">
-    <value xml:space="preserve">Tot onze spijt moeten wij u meedelen dat uw verzoek voor het aanmaken van de &lt;b&gt;[groupitem:GroupName]&lt;/b&gt; groep, op dit moment afgewezen is.</value>
-  </data>
-  <data name="GroupRejectedNotification.Subject">
-    <value xml:space="preserve">Uw verzoek voor de aanmaak van een nieuwe groep is afgewezen</value>
-  </data>
-  <data name="CreateNewGroup.Text">
-    <value xml:space="preserve">Nieuwe groep maken</value>
-  </data>
-  <data name="GroupIdNotFound.Text">
-    <value xml:space="preserve">De gevraagde groep is niet gevonden</value>
-  </data>
-  <data name="NoGroupsFound.Text">
-    <value xml:space="preserve">Er zijn geen groepen gevonden</value>
-  </data>
-  <data name="Sample_RoleDescription.Text">
-    <value xml:space="preserve">Dit is de omschrijving voor de steekproef groep.  Deze groep bestaat niet echt.  U zien dit omdat u de module voor de eerste keer instelt of u beheerder bent en navigeren naar deze pagina zonder een groeps-id.</value>
+  <data name="Sample_RoleDescription.Text" lastModified="2020-05-16 16:41:43">
+    <value xml:space="preserve">Dit is de omschrijving voor de steekproef groep.  Deze groep bestaat niet echt.  Je ziet dit omdat je de module voor de eerste keer instelt of je beheerder bent en navigeren naar deze pagina zonder een groeps-id.</value>
   </data>
   <data name="Sample_RoleName.Text">
     <value xml:space="preserve">Voorbeeld sociale groep</value>
   </data>
-  <data name="SetupHeader.Text">
-    <value xml:space="preserve">Setup sociale groepen</value>
-  </data>
-  <data name="SetupIntro.Text">
-    <value xml:space="preserve">De sociale groepen module stelt gebruikers in staat om door groepen te bladeren, te bekijken en te maken.  De beste manier om de module configureren is het creëren van een pagina voor het bladern door de groepen en een andere pagina voor het weergeven van groepsdetails.  U kunt de module zelf configureren, of u kunt op "Auto configuratie" knop hieronder klikken.  &lt;br /&gt; &lt;br /&gt; &lt;b&gt;We raden aan de optie "Auto configuratie" te gebruiken als u niet bekend bent met de module.&lt;/b&gt;</value>
-  </data>
-  <data name="RejectGroup.Text">
-    <value xml:space="preserve">Deze groep afkeuren</value>
-  </data>
-  <data name="MembersMustBeApproved.Text">
-    <value xml:space="preserve">&lt;b&gt;Nieuwe leden goedkeuren:&lt;/b&gt;Gebruikers moeten lidmaatschap van deze groep aanvragen, en aanvragen moeten goedgekeurd worden door een groepsmanager.</value>
-  </data>
-  <data name="GroupMemberApprovedNotification.Body">
-    <value xml:space="preserve">Uw verzoek om lid te worden van &lt;a href="[groupitem:URL]"&gt;[groupitem:GroupName]&lt;/a&gt; is goedgekeurd</value>
-  </data>
-  <data name="GroupMemberApprovedNotification.Subject">
-    <value xml:space="preserve">Welkom bij [groupitem:GroupName]!</value>
-  </data>
-  <data name="GroupMemberPendingNotification.Body">
-    <value xml:space="preserve">&lt;a href="[ProfileUrl]" target="_blank"&gt;[DisplayName]&lt;/a&gt; wil lid worden van [groupitem:GroupName].</value>
-  </data>
-  <data name="GroupMemberPendingNotification.Subject">
-    <value xml:space="preserve">[DisplayName] wil lid worden van [groupitem:GroupName]</value>
-  </data>
-  <data name="GroupMemberRejectedNotification.Body">
-    <value xml:space="preserve">Tot onze spijt moeten wij u meedelen dat uw verzoek om lid te worden van &lt;b&gt;[groupitem:GroupName]&lt;/b&gt; op dit moment afgewezen is.</value>
-  </data>
-  <data name="GroupMemberRejectedNotification.Subject">
-    <value xml:space="preserve">Antwoord op uw vraag om lid te worden van [groupitem:GroupName]</value>
-  </data>
-  <data name="LeaveGroup.Text">
-    <value xml:space="preserve">Verlaat groep</value>
-  </data>
-  <data name="Pending.Text">
-    <value xml:space="preserve">Lidmaatschap nog niet goedgekeurd</value>
-  </data>
-  <data name="RejectMember.Text">
-    <value xml:space="preserve">Afkeuren</value>
-  </data>
-  <data name="EditGroup.Text">
-    <value xml:space="preserve">Groep wijzigen</value>
-  </data>
-  <data name="GroupEditUrl.Text">
-    <value xml:space="preserve">&lt;a href="{0}"&gt;Groep wijzigen&lt;/a&gt;</value>
-  </data>
-  <data name="JoinGroup.Text">
-    <value xml:space="preserve">Wordt lid</value>
-  </data>
-  <data name="AutoConfigure.Text">
-    <value xml:space="preserve">Auto configureren</value>
-  </data>
   <data name="SearchButton.Text">
     <value xml:space="preserve">Zoeken</value>
   </data>
-  <data name="GroupSearch.Required">
-    <value xml:space="preserve">Zoekterm benodigd.</value>
+  <data name="SetupHeader.Text">
+    <value xml:space="preserve">Setup sociale groepen</value>
   </data>
-  <data name="GroupName.Invalid">
-    <value xml:space="preserve">De naam is ongeldig - Rollen mogen alleen de volgende karakters bevatten  &amp; $ + , / ? ~ # &lt; &gt; ( ) ¿ ¡ « » !  . :  * ' [ ]</value>
+  <data name="SetupIntro.Text" lastModified="2020-05-16 16:41:43">
+    <value xml:space="preserve">De sociale groepen module stelt gebruikers in staat om door groepen te bladeren, te bekijken en te maken.  De beste manier om de module configureren is het creëren van een pagina voor het bladern door de groepen en een andere pagina voor het weergeven van groepsdetails.  Je kan de module zelf configureren, of u kunt op "Auto configuratie" knop hieronder klikken.  &lt;br /&gt; &lt;br /&gt; &lt;b&gt;We raden aan de optie "Auto configuratie" te gebruiken als je niet bekend bent met de module.&lt;/b&gt;</value>
   </data>
 </root>

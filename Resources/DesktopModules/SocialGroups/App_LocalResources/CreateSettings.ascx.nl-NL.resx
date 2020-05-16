@@ -12,14 +12,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DefaultRoleGroup.Help">
-    <value xml:space="preserve">Kies de rolgroep waarbinnen nieuwe groepen gecreëerd moeten worden. Dit zou dezelfde rolgroepp moeten zijn die u heeft gekozen voor uw hoofdgroepslijst</value>
+  <data name="DefaultRoleGroup.Help" lastModified="2020-05-16 16:38:08">
+    <value xml:space="preserve">Kies de rolgroep waarbinnen nieuwe groepen gecreëerd moeten worden. Dit zou dezelfde rolgroepp moeten zijn die je hebt gekozen voor je hoofdgroepslijst</value>
   </data>
   <data name="GroupListPage.Help">
     <value xml:space="preserve">Selecteer de pagina waar gebruikers naar toe gaan om de lijst met groepen te bekijken</value>
   </data>
-  <data name="GroupModeration.Help">
-    <value xml:space="preserve">Selecteer deze optie als u wilt dat groepen goedgekeurd moeten worden alvorens gepubliceerd te worden</value>
+  <data name="GroupModeration.Help" lastModified="2020-05-16 16:38:08">
+    <value xml:space="preserve">Selecteer deze optie als je wilt dat groepen goedgekeurd moeten worden alvorens gepubliceerd te worden</value>
   </data>
   <data name="GroupModeration.Text">
     <value xml:space="preserve">Groepen vereisen goedkeuring</value>

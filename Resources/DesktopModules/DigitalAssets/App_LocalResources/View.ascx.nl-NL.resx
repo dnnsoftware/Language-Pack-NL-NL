@@ -57,14 +57,14 @@
   <data name="Delete.Title">
     <value xml:space="preserve">Verwijder [ITEMS]...</value>
   </data>
-  <data name="DeleteConfirm.Text">
-    <value xml:space="preserve">Weet u zeker dat u [ITEMS] wilt verwijderen?</value>
+  <data name="DeleteConfirm.Text" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Weet je zeker dat je [ITEMS] wilt verwijderen?</value>
   </data>
-  <data name="DeleteConfirmWithMappedSubfolder.Text">
-    <value xml:space="preserve">Opmerking: De geselecteerde mappen bevatten [COUNT] externe mapen. Deze mappen zullen worden ontkoppeld van de website en de mappen en bestanden zullen blijven staan op de externe locatie.</value>
+  <data name="DeleteConfirmWithMappedSubfolder.Text" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Opmerking: De geselecteerde mappen bevatten [COUNT] externe mapen. Deze mappen worden ontkoppeld van de website en de mappen en bestanden blijven staan op de externe locatie.</value>
   </data>
-  <data name="DeleteConfirmWithMappedSubfolders.Text">
-    <value xml:space="preserve">Opmerking: De geselecteerde mappen bevatten [COUNT] externe mapen. Deze mappen zullen worden ontkoppeld van de website en de mappen en bestanden zullen blijven staan op de externe locatie.</value>
+  <data name="DeleteConfirmWithMappedSubfolders.Text" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Opmerking: De geselecteerde mappen bevatten [COUNT] externe mapen. Deze mappen worden ontkoppeld van de website en de mappen en bestanden blijven staan op de externe locatie.</value>
   </data>
   <data name="DeleteFolder.Text">
     <value xml:space="preserve">Verwijder map</value>
@@ -75,17 +75,17 @@
   <data name="Download.Text">
     <value xml:space="preserve">Download</value>
   </data>
-  <data name="DuplicateCopy.Subtext">
-    <value xml:space="preserve">Bestanden met de bestandsnaam(en) die u probeert te kopiëren bestaan al in deze locatie</value>
+  <data name="DuplicateCopy.Subtext" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Bestanden met de bestandsnaam(en) die je probeert te kopiëren bestaan al in deze locatie</value>
   </data>
   <data name="DuplicateFilesExist.Text">
     <value xml:space="preserve">Dubbele bestanden bestaan</value>
   </data>
-  <data name="DuplicateMove.Subtext">
-    <value xml:space="preserve">Bestanden met de bestandsnaam(en) die u probeert te verplaatsen bestaan al in deze locatie</value>
+  <data name="DuplicateMove.Subtext" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Bestanden met de bestandsnaam(en) die je probeert te verplaatsen bestaan al in deze locatie</value>
   </data>
-  <data name="DuplicateUpload.Subtext">
-    <value xml:space="preserve">Bestanden met de bestandsnaam(en) die u probeert te uploaden bestaan al in deze locatie</value>
+  <data name="DuplicateUpload.Subtext" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Bestanden met de bestandsnaam(en) die je probeert te uploaden bestaan al in deze locatie</value>
   </data>
   <data name="EditModule.Text">
     <value xml:space="preserve">Module bewerken</value>
@@ -93,8 +93,8 @@
   <data name="ExpandFile.Text">
     <value xml:space="preserve">Bestanden uitklappen</value>
   </data>
-  <data name="ExtensionChangeConfirmContent.Text">
-    <value xml:space="preserve">Als u de bestandsnaam extentie aanpast kan deze onbruikbaar worden. &lt;br&gt;weet u zeker dat u deze wilt veranderen?</value>
+  <data name="ExtensionChangeConfirmContent.Text" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Als u de bestandsnaam extentie aanpast kan deze onbruikbaar worden. &lt;br&gt;Weet je zeker dat je deze wilt veranderen?</value>
   </data>
   <data name="ExtensionChangeConfirmTitle.Text">
     <value xml:space="preserve">De extensies zijn veranderd</value>
@@ -105,11 +105,11 @@
   <data name="FileMultLabel.Text" lastModified="2016-03-08 14:24:05">
     <value xml:space="preserve">Bestanden</value>
   </data>
-  <data name="FileUploadAlreadyExists.Text">
-    <value xml:space="preserve">Het bestand dat u probeert te uploaden bestaat al in deze locatie</value>
+  <data name="FileUploadAlreadyExists.Text" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Het bestand dat je probeert te uploaden bestaat al in deze locatie</value>
   </data>
-  <data name="FileUploadEmptyFileIsNotSupported.Error">
-    <value xml:space="preserve">Uw browser ondersteund geen lege bestanden upload</value>
+  <data name="FileUploadEmptyFileIsNotSupported.Error" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Je browser ondersteund geen lege bestanden upload</value>
   </data>
   <data name="FileUploadErrorOccurred.Error">
     <value xml:space="preserve">Er is een fout opgetreden bij het uploaden van het bestand</value>
@@ -132,8 +132,8 @@
   <data name="FolderType.Help">
     <value xml:space="preserve">Selecteer het type van de map</value>
   </data>
-  <data name="FolderType.Text">
-    <value xml:space="preserve">Map type</value>
+  <data name="FolderType.Text" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Maptype</value>
   </data>
   <data name="GetFileUrlLabel.Text">
     <value xml:space="preserve">Bestands URL is:</value>
@@ -153,8 +153,8 @@
   <data name="InvalidGroup.Error">
     <value xml:space="preserve">De groep-ID is niet bepaald. Ga terug naar de groepspagina en selecteer de gewenste groep.</value>
   </data>
-  <data name="InvalidUser.Error">
-    <value xml:space="preserve">De module is geconfigureerd als Gebruikersmode, het kan niet gebruikt worden met een ongeautoriseerde gebruiker.</value>
+  <data name="InvalidUser.Error" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">De module is geconfigureerd als gebruikersmodus, de map kan niet gebruikt worden met een ongeautoriseerde gebruiker.</value>
   </data>
   <data name="Items.Text">
     <value xml:space="preserve">Onderdelen</value>
@@ -171,20 +171,20 @@
   <data name="LeftPaneFilesTab.Text">
     <value xml:space="preserve">Bestanden</value>
   </data>
-  <data name="LoadFolderContentError.Title">
-    <value xml:space="preserve">Er is een fout opgetreden bij het laden van de map inhoud</value>
+  <data name="LoadFolderContentError.Title" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Er is een fout opgetreden bij het laden van de mapinhoud</value>
   </data>
   <data name="Loading.Text">
     <value xml:space="preserve">Laden...</value>
   </data>
-  <data name="LoadSubFoldersError.Title">
-    <value xml:space="preserve">Er is een fout opgetreden bij het laden van de sub-mappen</value>
+  <data name="LoadSubFoldersError.Title" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Er is een fout opgetreden bij het laden van de submappen</value>
   </data>
-  <data name="ManageFolderTypes.Text">
-    <value xml:space="preserve">Beheer map types</value>
+  <data name="ManageFolderTypes.Text" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Beheer maptypes</value>
   </data>
-  <data name="MappedPath.Help">
-    <value xml:space="preserve">Voer het pad naar deze map in in de map provider. Het opgegeven pad is relatief tot de hoofdlocatie van de provider, Als deze leeg wordt gelaten zal deze verwijzen naar de provider hoofdlocatie.</value>
+  <data name="MappedPath.Help" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Voer het pad naar deze map in in de map provider. Het opgegeven pad is relatief tot de hoofdlocatie van de provider, Als deze leeg wordt gelaten verwijst deze naar de provider hoofdlocatie.</value>
   </data>
   <data name="MappedPath.Text">
     <value xml:space="preserve">Gekoppeld pad</value>
@@ -192,14 +192,14 @@
   <data name="MappedPathRegExValidator.ErrorMessage">
     <value xml:space="preserve">Het pad moet relatief zijn aan de hoofdlocatie van de provider</value>
   </data>
-  <data name="MaxFileUploadSizeError.Text">
-    <value xml:space="preserve">Can niet uploaden: bestand grootte is groter dan [MAXFILESIZE]</value>
+  <data name="MaxFileUploadSizeError.Text" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Kan niet uploaden: bestandsgrootte is groter dan [MAXFILESIZE]</value>
   </data>
   <data name="Modified.Header">
     <value xml:space="preserve">Datum aangepast</value>
   </data>
-  <data name="Move.Error">
-    <value xml:space="preserve">Verplaats error</value>
+  <data name="Move.Error" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Verplaatsfout</value>
   </data>
   <data name="Move.Text">
     <value xml:space="preserve">Verplaats</value>
@@ -228,14 +228,14 @@
   <data name="NoItemsDeleted.Title">
     <value xml:space="preserve">[ITEMS] kan niet worden verwijderd</value>
   </data>
-  <data name="NoItemsDeletedDescription.Text">
-    <value xml:space="preserve">U heeft geen rechten om de volgende onderdelen te verwijderen:</value>
+  <data name="NoItemsDeletedDescription.Text" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Je hebt geen rechten om de volgende onderdelen te verwijderen:</value>
   </data>
-  <data name="NoItemsSearch.Text">
-    <value xml:space="preserve">Er zijn geen onderdelen die overeenkomen met u zoekopdracht</value>
+  <data name="NoItemsSearch.Text" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Er zijn geen onderdelen die overeenkomen met je zoekopdracht</value>
   </data>
-  <data name="NoItemsSelected.Text">
-    <value xml:space="preserve">U moet tenminste één onderdeel selecteren om te kunnen verwijderen</value>
+  <data name="NoItemsSelected.Text" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Je moet tenminste één onderdeel selecteren om te kunnen verwijderen</value>
   </data>
   <data name="OkConfirm.Text">
     <value xml:space="preserve">OK</value>
@@ -339,8 +339,8 @@
   <data name="Unlink.Title">
     <value xml:space="preserve">Map ontkoppelen...</value>
   </data>
-  <data name="UnlinkConfirm.Text">
-    <value xml:space="preserve">Weet u zeker dat u de map wilt ontkoppelen?</value>
+  <data name="UnlinkConfirm.Text" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Weet je zeker dat je de map wilt ontkoppelen?</value>
   </data>
   <data name="UnlinkFolder.Text">
     <value xml:space="preserve">Map ontkoppelen</value>
@@ -363,8 +363,8 @@
   <data name="UploadFiles.DropHere">
     <value xml:space="preserve">Plaats hier iets</value>
   </data>
-  <data name="UploadFiles.Info">
-    <value xml:space="preserve">U kunt meerdere bestanden in één keer selecteren</value>
+  <data name="UploadFiles.Info" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Je kan meerdere bestanden in één keer selecteren</value>
   </data>
   <data name="UploadFiles.Title">
     <value xml:space="preserve">Bestanden uploaden</value>
@@ -375,13 +375,13 @@
   <data name="UploadingExtracting.Text">
     <value xml:space="preserve">Uploaden en uitpakken...</value>
   </data>
-  <data name="ViewFolderProperties.Text">
-    <value xml:space="preserve">Map eigenschappen weergeven</value>
+  <data name="ViewFolderProperties.Text" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Mapeigenschappen weergeven</value>
   </data>
   <data name="ViewProperties.Text">
     <value xml:space="preserve">Eigenschappen weergeven</value>
   </data>
-  <data name="ZipConfirmation.Text">
-    <value xml:space="preserve">U heeft geprobeerd het bestand [FILE] te uploaden dat is gecomprimeerd. &lt;/br&gt; Wilt u het bestand uitpakken?</value>
+  <data name="ZipConfirmation.Text" lastModified="2020-05-16 16:21:40">
+    <value xml:space="preserve">Je hebt geprobeerd het bestand [FILE] te uploaden dat is gecomprimeerd. &lt;/br&gt; Wilt je het bestand uitpakken?</value>
   </data>
 </root>
