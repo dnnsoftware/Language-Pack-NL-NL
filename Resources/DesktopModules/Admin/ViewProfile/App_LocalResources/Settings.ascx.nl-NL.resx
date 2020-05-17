@@ -21,8 +21,8 @@
   <data name="IncludeButton.Text">
     <value xml:space="preserve">Voeg "Bewerk" knop toe</value>
   </data>
-  <data name="LoadDefault.Confirm">
-    <value xml:space="preserve">Dit zal het bestaande sjabloon overschrijven. Weet u zeker dat u wilt doorgaan?</value>
+  <data name="LoadDefault.Confirm" lastModified="2020-05-17 18:17:59">
+    <value xml:space="preserve">Dit zal het bestaande sjabloon overschrijven. Weet u zeker dat je wilt doorgaan?</value>
   </data>
   <data name="LoadDefault.Text">
     <value xml:space="preserve">Laad standaard</value>

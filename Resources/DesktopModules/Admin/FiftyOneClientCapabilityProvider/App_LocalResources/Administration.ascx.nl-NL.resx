@@ -12,145 +12,110 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Activate.Header">
+    <value xml:space="preserve">Ga aan de slag &amp; activeer de functies</value>
+  </data>
   <data name="ActivateButtonText.Text">
     <value xml:space="preserve">Activeren</value>
   </data>
   <data name="ActivatedMessageHtml.Text">
     <value xml:space="preserve">&lt;p class="{0}"&gt;Premium gegevens is actief. Bedankt.&lt;/p&gt;</value>
   </data>
-  <data name="ActivateInstructionsHtml.Text">
-    <value xml:space="preserve">&lt;h3&gt;Activeer alle opties&lt;/h3&gt;&lt;p&gt;Stap 1 - Bemachtig een 51Degrees op locatie licentiecode.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Stap 2 - Plak uw licentiecode in het tekst veld hieronder . Selecteer "Activeer" om de licentie te activeren voor deze website&lt;/p&gt;&lt;br/&gt;</value>
+  <data name="ActivateInstructionsHtml.Text" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">&lt;h3&gt;Activeer alle opties&lt;/h3&gt;&lt;p&gt;Stap 1 - Bemachtig een 51Degrees on premise licentiecode.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Stap 2 - Plak uw licentiecode in het tekst veld hieronder . Selecteer "Activeer" om de licentie te activeren voor deze website&lt;/p&gt;&lt;br/&gt;</value>
   </data>
   <data name="ActivationDataInvalidHtml.Text">
     <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;De gegevensbron van de verstrekt bevat geen geldige gegevens.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
-  <data name="ActivationFailureCouldNotUpdateConfigHtml.Text">
-    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Het element fiftyOne/detectie van het configuratiebestand '{1}' kan niet worden ingevoegd. Controleer zorgen dat de volgende tekst tussen de tags fiftyOne aanwezig is en probeer het opnieuw activeren van de licentiesleutel.&lt;/p&gt;
+  <data name="ActivationFailureCouldNotUpdateConfigHtml.Text" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Het element fiftyOne/detectie van het configuratiebestand '{1}' kan niet worden ingevoegd. Controleer of de volgende tekst tussen de tags fiftyOne aanwezig is en probeer de licentiesleutel opnieuw te activeren.&lt;/p&gt;
 &lt;br&gt;
 &lt;span style="margin-left: 0px !important;"&gt;&lt;code style="color: #000000;"&gt;&amp;lt;&lt;/code&gt;&lt;code&gt;&lt;span style="color: #006699;"&gt;&lt;strong&gt;detection&lt;/strong&gt;&lt;/span&gt;&lt;/code&gt;&lt;code style="color: #808080;"&gt;binaryFilePath&lt;/code&gt;&lt;code style="color: #000000;"&gt;=&lt;/code&gt;&lt;code style="color: blue;"&gt;"~/App_Data/51Degrees-Premium.dat"&lt;/code&gt;&lt;code&gt;&lt;span style="color: #000000;"&gt;/&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/span&gt;&lt;/div&gt;</value>
   </data>
-  <data name="ActivationFailureCouldNotWriteDataFileHtml.Text">
+  <data name="ActivationFailureCouldNotWriteDataFileHtml.Text" lastModified="2020-05-17 16:50:47">
     <value xml:space="preserve">&lt;div class="{0}"&gt;
-&lt;p&gt;Het apparaatbestand '{1}' kan niet worden opgeslagen. Controleer dat de gebruiker '{2}' heeft schrijftoegang tot de map of locatie van de map wijzigen in een met schrijftoegang.&lt;/p&gt;
+&lt;p&gt;Het apparaatbestand '{1}' kan niet worden opgeslagen. Controleer of de gebruiker '{2}' schrijftoegang heeft  tot de map of wijzig de rechten locatie van de map wijzigen naar schrijftoegang.&lt;/p&gt;
 &lt;/div&gt;</value>
   </data>
-  <data name="ActivationFailureCouldNotWriteLicenceFileHtml.Text">
-    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Het licentie bestand '{1}' kon niet worden geschreven naar deze websites bin map '{2}'. Maak een tekstbestand met de extensie .lic en plak de licentiesleutel in het bestand. Sla het tekstbestand in de bin-map.&lt;/p&gt;&lt;/div&gt;</value>
+  <data name="ActivationFailureCouldNotWriteLicenceFileHtml.Text" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Het licentiebestand '{1}' kon niet worden geschreven naar deze websites bin map '{2}'. Maak een tekstbestand met de extensie .lic en plak de licentiesleutel in het bestand. Sla het tekstbestand in de bin-map.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
-  <data name="ActivationFailureGenericHtml.Text">
-    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Oeps. Er was een probleem de licentiesleutel te activeren. We zijn niet zeker waarom de licentiesleutel geboden kon niet worden geactiveerd. Neem dan &lt;a href="http://51degrees.mobi/AboutUs/ContactUs.aspx"&gt;Contact met ons&lt;/a&gt; verstrekken van details van uw website-implementatie en wij zullen proberen en u helpen.&lt;/p&gt;&lt;/div&gt;</value>
+  <data name="ActivationFailureGenericHtml.Text" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Oeps. Er was een probleem om de licentiesleutel te activeren. We zijn niet zeker waarom de licentiesleutel niet kon worden geactiveerd. Neem dan &lt;a href="http://51degrees.mobi/AboutUs/ContactUs.aspx"&gt;contact met ons&lt;/a&gt; op en verstrek details van uw website-implementatie en wij zullen proberen u te  helpen.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
-  <data name="ActivationFailureHttpHtml.Text">
-    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;We konden niet bereiken de 51Degrees.mobi licentie validatie-website op de host '{1}'. Dit zou kunnen zijn voor een van de volgende redenen.&lt;/p&gt;
+  <data name="ActivationFailureHttpHtml.Text" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;We konden de 51Degrees.mobi licentie niet bereiken tijdens validatie van de website op de host '{1}'. Dit zou kunnen komen door een van de volgende redenen.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Deze website wordt uitgevoerd in de modus middellange vertrouwen en het kenmerk &lt;a href="http://msdn.microsoft.com/en-us/library/system.web.configuration.trustsection.originurl(v=VS.80).aspx"&gt;originUrl&lt;/a&gt; in web.config staat geen toegang de host '{1}'. Wijzig de originUrl te nemen '{1}'. Meerdere hostnamen kunnen worden gescheiden door | tekenen.&lt;/li&gt;
+&lt;li&gt;Deze website wordt uitgevoerd in de modus 'Medium Trust' en het kenmerk &lt;a href="http://msdn.microsoft.com/en-us/library/system.web.configuration.trustsection.originurl(v=VS.80).aspx"&gt;originUrl&lt;/a&gt; 
+attribuut in web.config staat geen toegang toe voor de host '{1}'. Wijzig de originUrl om '{1}'. in te sluiten Meerdere hostnamen kunnen worden gescheiden door | tekenen.&lt;/li&gt;
 &lt;li&gt;De web servers firewall of een andere firewall blokkeert toegang tot de host of de SSL-poort 443. Controleer de firewall-configuratie.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Wanneer u hebt voltooid deze controles proberen de licentiesleutel opnieuw activeren.&lt;/p&gt;&lt;/div&gt;</value>
+&lt;p&gt;Wanneer je de controles hebt voltooid proberen je de licentiesleutel opnieuw te activeren.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
-  <data name="ActivationFailureInvalidHtml.Text">
-    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;De licentiesleutel aangeleverd mislukte validatie. Gelieve te is controleren de licentiesleutel valideren met uw wederverkoper.&lt;/p&gt;&lt;/div&gt;</value>
+  <data name="ActivationFailureInvalidHtml.Text" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;De activatie is mislukt door de aangeleverd licentiesleutel. Controleren de licentiesleutel validatie met je wederverkoper.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="ActivationStreamFailureHtml.Text">
     <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;De geboden gegevensbron kan niet worden gelezen.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
-  <data name="ActivationSuccessHtml.Text">
-    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Succes. Selecteer de knop "Vernieuwen" om de web-pagina te herladen en en beginnen Premium apparaatgegevens te gebruiken.  Opmerking: Kan er een korte vertraging als de toepassing wordt opnieuw opgestart.&lt;/p&gt;&lt;/div&gt;</value>
-  </data>
-  <data name="BackToExplorer.Text">
-    <value xml:space="preserve">Terug naar apparaat Explorer</value>
-  </data>
-  <data name="BrowserList.Header">
-    <value xml:space="preserve">Browser</value>
-  </data>
-  <data name="ContentList.Header">
-    <value xml:space="preserve">Inhoud</value>
-  </data>
-  <data name="DeviceExplorer.Header">
-    <value xml:space="preserve">Apparaat Explorer</value>
-  </data>
-  <data name="GetLatestData.Text">
-    <value xml:space="preserve">De meest recente gegevens ophalen</value>
-  </data>
-  <data name="HardwareList.Header">
-    <value xml:space="preserve">Hardware</value>
-  </data>
-  <data name="NoResultsFound.Text">
-    <value xml:space="preserve">Er werden geen resultaten gevonden die overeenkomen met uw zoekopdracht.</value>
-  </data>
-  <data name="PremiumIntro.Text">
-    <value xml:space="preserve">De {0} gegevens bevat duizenden apparaten, waaronder game consoles, eBook readers, tablets, smartphones en functie telefoons. Elk apparaat wordt geassocieerd met een breed scala van relevante eigenschappen, van schermgrootte en invoermogelijkheden van het besturingssysteem, browser en hardware.</value>
-  </data>
-  <data name="RefreshButtonText.Text">
-    <value xml:space="preserve">Vernieuwen</value>
-  </data>
-  <data name="SearchButton.Text">
-    <value xml:space="preserve">Apparaat vinden</value>
-  </data>
-  <data name="UploadButtonText.Text">
-    <value xml:space="preserve">Uploaden</value>
-  </data>
-  <data name="UploadData.Text">
-    <value xml:space="preserve">Gegevens uploaden</value>
-  </data>
-  <data name="ValidationFileErrorText.Text">
-    <value xml:space="preserve">Gebruik de knop Bladeren om een Premium gegevensbestand om te uploaden te selecteren.</value>
-  </data>
-  <data name="ValidationRequiredErrorText.Text">
-    <value xml:space="preserve">Een sleutel van de vergunning moet worden ingevoerd.</value>
-  </data>
-  <data name="ValidationRegExErrorText.Text">
-    <value xml:space="preserve">De licentiesleutel mag alleen alfanumerieke tekens in hoofdletters of numerieke waarden bevatten.</value>
+  <data name="ActivationSuccessHtml.Text" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Gelukt. Selecteer de knop "Vernieuwen" om de web-pagina te herladen en te starten met het gebruike van de Premium apparaatgegevens.  Opmerking: Er kan een korte vertraging optreden als de toepassing  opnieuw wordt gestart.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="BackButtonDevicesText.Text">
     <value xml:space="preserve">Andere leveranciers</value>
   </data>
-  <data name="DeviceSearchRequired.Text">
-    <value xml:space="preserve">Vereist</value>
-  </data>
   <data name="BackButtonDeviceText.Text">
     <value xml:space="preserve">Andere apparaten {0}</value>
   </data>
-  <data name="PremiumUploadError.Text">
-    <value xml:space="preserve">Er was een probleem uploaden van uw gegevens.</value>
+  <data name="BackToExplorer.Text" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Terug naar apparaatverkenner</value>
   </data>
-  <data name="PremiumUploadSuccess.Text">
-    <value xml:space="preserve">Gegevens is met succes geupload.</value>
+  <data name="BrowserList.Header">
+    <value xml:space="preserve">Browser</value>
+  </data>
+  <data name="Cancel.Action">
+    <value xml:space="preserve">Annuleren</value>
+  </data>
+  <data name="ContentList.Header">
+    <value xml:space="preserve">Inhoud</value>
   </data>
   <data name="ControlTitle_.Text">
     <value xml:space="preserve">Apparaat detectie</value>
   </data>
-  <data name="Activate.Header">
-    <value>Ga aan de slag &amp; activeer de functies</value>
-  </data>
-  <data name="Cancel.Action">
-    <value>Annuleren</value>
-  </data>
-  <data name="DeviceBrowserUnavailable.Html">
-    <value>&lt;p&gt;De apparaat data set die wordt gebruikt voor apparaat detectie bevat niet voldoende informatie over web geactiveerde apparaten om de apparaat verkenner tab te kunnen ondersteunen.&lt;/p&gt;
-&lt;p&gt;Beschikbare apparaten in de verbeterde versie van de apparaat detectie kunnen worden verkent op de 51 Degrees website.&lt;/p&gt;</value>
+  <data name="DeviceBrowserUnavailable.Html" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">&lt;p&gt;De apparaat dataset die wordt gebruikt voor apparaat detectie bevat niet voldoende informatie over web geactiveerde apparaten om de apparaatverkenner tab te kunnen ondersteunen.&lt;/p&gt;
+&lt;p&gt;Beschikbare apparaten in de verbeterde versie van de apparaatdetectie kunnen worden verkend op de 51Degrees website.&lt;/p&gt;</value>
   </data>
   <data name="DeviceBrowserUnavailableButton.Action">
-    <value>Ondek apparaten</value>
+    <value xml:space="preserve">Ondek apparaten</value>
   </data>
   <data name="DeviceBrowserUnavailableButton.Url">
-    <value>https://51degrees.com/resources/device-explorer</value>
+    <value xml:space="preserve">https://51degrees.com/resources/device-explorer</value>
+  </data>
+  <data name="DeviceExplorer.Header" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Apparaat verkenner</value>
+  </data>
+  <data name="DeviceSearchRequired.Text">
+    <value xml:space="preserve">Vereist</value>
   </data>
   <data name="Explorer.Header">
-    <value>Ondek apparaten</value>
+    <value xml:space="preserve">Ondek apparaten</value>
+  </data>
+  <data name="GetLatestData.Text">
+    <value xml:space="preserve">De meest recente gegevens ophalen</value>
   </data>
   <data name="GetStarted.Header">
-    <value>Ga van start</value>
+    <value xml:space="preserve">Ga van start</value>
   </data>
   <data name="GetStartedButton.Text">
-    <value>Fucties activeren</value>
+    <value xml:space="preserve">Fucties activeren</value>
   </data>
-  <data name="GetStartedDetail.Html">
-    <value>&lt;h3&gt;Afbeeldings optimalisatie&lt;/h3&gt;
-&lt;p&gt;Verzekerd dat correct geschaalde worden verzonden naar de webpagina's door het toevoegen van querystring parameters om afbeeldings URLs om correct geschaalde afbeeldingen terug te sturen voor het beeldscherm. Bijvoorbeeld; &lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;&amp;lt;img src="Empty.gif" data-src="/image.png?w=auto"/&amp;gt;&lt;/span&gt; or &lt;a style="font-family: 'Courier New', Courier, monospace; font-weight: bold;" href="/DesktopModules/Admin/FiftyOneClientCapabilityProvider/Images/Optimization.png?w=300" target="_blank"&gt;/DesktopModules/Admin/FiftyOneClientCapabilityProvider/Images/Optimization.png?w=300&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Afbeeldingen die groter zijn dan het gebruikte scherm zullen automatisch worden verkleint voordat deze worden verstuurd.&lt;/p&gt;
+  <data name="GetStartedDetail.Html" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">&lt;h3&gt;Afbeeldings optimalisatie&lt;/h3&gt;
+&lt;p&gt;Verzeker je dat correct geschaalde afbeeldingen worden verzonden naar de webpagina's door het toevoegen van querystring parameters. Bijvoorbeeld; &lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;&amp;lt;img src="Empty.gif" data-src="/image.png?w=auto"/&amp;gt;&lt;/span&gt; or &lt;a style="font-family: 'Courier New', Courier, monospace; font-weight: bold;" href="/DesktopModules/Admin/FiftyOneClientCapabilityProvider/Images/Optimization.png?w=300" target="_blank"&gt;/DesktopModules/Admin/FiftyOneClientCapabilityProvider/Images/Optimization.png?w=300&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Afbeeldingen die groter zijn dan het gebruikte scherm zullen automatisch worden verkleind voordat deze worden verstuurd.&lt;/p&gt;
 &lt;h3&gt;Apparaat detectie&lt;/h3&gt;
-&lt;h4&gt;Voor Web administratoren&lt;/h4&gt;
+&lt;h4&gt;Voor web administratoren&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Behoud desktop geoptimaliseerde inhoud zoals Flash of grote schermvideo's op dezelfde pagina als mobile en tablet inhoud.&lt;/li&gt;
 &lt;li&gt;Gebruik hover mega menu's om snelle navigatie met een muis en toetsenbord te optimaliseren terwijl het gebruik van responsive menu's het gebruik van touch schermen optimaliseren.&lt;/li&gt;
@@ -163,133 +128,169 @@
 &lt;li&gt;Krijg toegang tot apparaat mogelijkheen van Javascript met &lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;http://HOSTNAME/51Degrees.features.js&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;</value>
   </data>
-  <data name="GetStartedIntro.Html">
-    <value>&lt;p&gt;Client side responsive web design (RWD) houdt in dat alle inhoud maar de browser wordt gestuurd en de browser bepaald het formaat op basis van het apparaat. De 51Degrees Client Capability Provider maakt het mogelijk om de inhoud aan de server kant aan te sturen door andere afbeeldingen, navigatie en inhoud te versturen naar verschillende apparaat types. Dit reduceerd de pagina afmeeting zodat de snelheid op mobiele apparaten wordt verhoogd, presenteerd een optimale gebruikersinterfase en verhoogd uiteindelijk de gebruikerservaring.&lt;/p&gt;&lt;p&gt;Meer dan 85% van de blue chip bedrijven maken gebruik van apparaat detectie, inclusief eCommerce, Media, AdTech, Financieel en Reis sectoren. Lees meer over dit onderwerp.&lt;/p&gt;&lt;a href="https://51degrees.com/dnn" title="Lees meer over Apparaat detectie binnen DNN" class="dnnPrimaryAction" target="_blank"&gt;Lees meer&lt;/a&gt;</value>
+  <data name="GetStartedIntro.Html" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">&lt;p&gt;Client side responsive web design (RWD) houdt in dat alle inhoud naar de browser wordt gestuurd en de browser bepaalt het formaat op basis van het apparaat. De 51Degrees Client Capability Provider maakt het mogelijk om de inhoud aan de server kant aan te sturen door andere afbeeldingen, navigatie en inhoud te versturen naar verschillende apparaat types. Dit reduceert de paginagrootte zodat de snelheid op mobiele apparaten wordt verhoogd, presenteert een optimale gebruikersinterfase en verhoogt de uiteindelijke gebruikerservaring.&lt;/p&gt;&lt;p&gt;Meer dan 85% van de blue chip bedrijven maken gebruik van apparaat detectie, inclusief eCommerce, Media, AdTech, Financieel en Reis sectoren. Lees meer over dit onderwerp.&lt;/p&gt;&lt;a href="https://51degrees.com/dnn" title="Lees meer over Apparaat detectie binnen DNN" class="dnnPrimaryAction" target="_blank"&gt;Lees meer&lt;/a&gt;</value>
+  </data>
+  <data name="HardwareList.Header">
+    <value xml:space="preserve">Hardware</value>
   </data>
   <data name="ManualUpdates.Help">
-    <value>Upload nieuw apparaat datasetbestanden handmatig</value>
+    <value xml:space="preserve">Upload nieuw apparaat datasetbestanden handmatig</value>
   </data>
   <data name="NewDevices.Header">
-    <value>Top 5 nieuwe apparaten</value>
+    <value xml:space="preserve">Top 5 nieuwe apparaten</value>
+  </data>
+  <data name="NoResultsFound.Text">
+    <value xml:space="preserve">Er werden geen resultaten gevonden die overeenkomen met uw zoekopdracht.</value>
+  </data>
+  <data name="PremiumIntro.Text">
+    <value xml:space="preserve">De {0} gegevens bevat duizenden apparaten, waaronder game consoles, eBook readers, tablets, smartphones en functie telefoons. Elk apparaat wordt geassocieerd met een breed scala van relevante eigenschappen, van schermgrootte en invoermogelijkheden van het besturingssysteem, browser en hardware.</value>
+  </data>
+  <data name="PremiumUploadError.Text" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Er was een probleem uploaden van je gegevens.</value>
+  </data>
+  <data name="PremiumUploadSuccess.Text" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Gegevens zijn met succes geupload.</value>
   </data>
   <data name="Properties.Header">
-    <value>Beschikbare eigenschappen</value>
+    <value xml:space="preserve">Beschikbare eigenschappen</value>
   </data>
   <data name="Refresh.Action">
-    <value>Vernieuwen</value>
+    <value xml:space="preserve">Vernieuwen</value>
+  </data>
+  <data name="RefreshButtonText.Text">
+    <value xml:space="preserve">Vernieuwen</value>
+  </data>
+  <data name="SearchButton.Text">
+    <value xml:space="preserve">Apparaat vinden</value>
   </data>
   <data name="Settings.Header">
-    <value>Instellingen</value>
+    <value xml:space="preserve">Instellingen</value>
   </data>
-  <data name="SettingsAutoUpdates.Help">
-    <value>Activeer/deactiveer voor het automatisch bijwerken van de apparaat data file. Als de functie geactiveerd is dan zal de 51degrees module controleren of er een nieuwe versie van de apparaten data bestand beschikbaar is en zal deze direct implementeren zonder de applicatiepool te vernieuwen. Verbeterde data is nodig om deze optie te ondersteunen.</value>
+  <data name="SettingsAutoUpdates.Help" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Activeer/deactiveer dit voor het automatisch bijwerken van de apparaat data file. Als de functie geactiveerd is dan zal de 51Degrees module controleren of er een nieuwe versie van de apparaten data bestand beschikbaar is en zal deze direct implementeren zonder de applicatiepool te vernieuwen. Verbeterde data is nodig om deze optie te ondersteunen.</value>
   </data>
   <data name="SettingsAutoUpdates.Text">
-    <value>Automatische updates geactiveerd?</value>
+    <value xml:space="preserve">Automatische updates geactiveerd?</value>
   </data>
-  <data name="SettingsChangeError.Text">
-    <value>De apparaat detectie instellingen konden niet worden gewijzigt. controleer het 51Degrees.mobi.config bestanden voor de modificatie rechten en vernieuw de applicatiepool.</value>
+  <data name="SettingsChangeError.Text" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">De apparaat detectie instellingen konden niet worden gewijzigd Controleer het 51Degrees.mobi.config bestanden voor de modificatie rechten en vernieuw de applicatiepool.</value>
   </data>
   <data name="SettingsChangeSuccess.Text">
-    <value>Apparaat detectie instellingen zijn bijgewerkt. Ververs de applicatiepool om de nieuwe instellingen te activeren.</value>
+    <value xml:space="preserve">Apparaat detectie instellingen zijn bijgewerkt. Ververs de applicatiepool om de nieuwe instellingen te activeren.</value>
   </data>
   <data name="SettingsConfiguration.Header">
-    <value>Configuratie</value>
+    <value xml:space="preserve">Configuratie</value>
   </data>
-  <data name="SettingsDataSetDeviceCombinations.Help">
-    <value>Het aantal combinaties van apparaat, besturingssysteem en webbrowsers kan door deze websites worden gedetecteert.</value>
+  <data name="SettingsDataSetDeviceCombinations.Help" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Het aantal combinaties van apparaat, besturingssysteem en webbrowsers kan door deze websites worden gedetecteerd.</value>
   </data>
   <data name="SettingsDataSetDeviceCombinations.Text">
-    <value>Combinaties</value>
+    <value xml:space="preserve">Combinaties</value>
   </data>
-  <data name="SettingsDataSetHardwareProfiles.Help">
-    <value>Het aantal verschillende geactiveerde apparaat modellen dat de website op dit moment kan The number of different web enabled device models this web site can currently detect.</value>
+  <data name="SettingsDataSetHardwareProfiles.Help" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Het aantal verschillende geactiveerde apparaatmodellen dat de website op dit moment kan detecteren.</value>
   </data>
   <data name="SettingsDataSetHardwareProfiles.Text">
-    <value>Apparaten</value>
+    <value xml:space="preserve">Apparaten</value>
   </data>
-  <data name="SettingsDataSetName.Help">
-    <value>Licht, premium of enterprise hangt af van de actieve 51Degrees dataset. Licht wordt geleverd met DNN Platform en premium of enterprise wordt geleverd met Evoq. DNN Platform kan worden ge-upgrade met een licentiecode.</value>
+  <data name="SettingsDataSetName.Help" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Light, premium of enterprise hangt af van de actieve 51Degrees dataset. Loght wordt geleverd met het DNN Platform en premium of enterprise wordt geleverd met Evoq. DNN Platform kan worden geüpgraded met een licentiecode.</value>
   </data>
   <data name="SettingsDataSetName.Text">
-    <value>Naam</value>
+    <value xml:space="preserve">Naam</value>
   </data>
   <data name="SettingsDataSetNextUpdate.Help">
-    <value>Wanneer de volgende dataset voor 51Degrees wordt verwacht.</value>
+    <value xml:space="preserve">Wanneer de volgende dataset voor 51Degrees wordt verwacht.</value>
   </data>
   <data name="SettingsDataSetNextUpdate.Text">
-    <value>Volgende update</value>
+    <value xml:space="preserve">Volgende update</value>
   </data>
   <data name="SettingsDataSetPropertyCount.Help">
-    <value>Het aantal eigenschappen dat beschikbaar is binnen de active data set.</value>
+    <value xml:space="preserve">Het aantal eigenschappen dat beschikbaar is binnen de active data set.</value>
   </data>
   <data name="SettingsDataSetPropertyCount.Text">
-    <value>Eigenschappen aantal</value>
+    <value xml:space="preserve">Eigenschappen aantal</value>
   </data>
-  <data name="SettingsDataSetPublished.Help">
-    <value>Datum waarom de actieve set is gepubliceerd door 51Degrees.</value>
+  <data name="SettingsDataSetPublished.Help" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Datum waarop de actieve set is gepubliceerd door 51Degrees.</value>
   </data>
   <data name="SettingsDataSetPublished.Text">
-    <value>Gepubliceerd</value>
+    <value xml:space="preserve">Gepubliceerd</value>
   </data>
   <data name="SettingsDataSetVersion.Help">
-    <value>Het versie format van het apparaat data bestand.</value>
+    <value xml:space="preserve">Het versie format van het apparaat data bestand.</value>
   </data>
   <data name="SettingsDataSetVersion.Text">
-    <value>Data Format</value>
+    <value xml:space="preserve">Data Format</value>
   </data>
   <data name="SettingsEnabled.Help">
-    <value>Activeer/deactiveer apparaat detectie.</value>
+    <value xml:space="preserve">Activeer/deactiveer apparaat detectie.</value>
   </data>
   <data name="SettingsEnabled.Text">
-    <value>Apparaat detectie geactiveerd?</value>
+    <value xml:space="preserve">Apparaat detectie geactiveerd?</value>
   </data>
   <data name="SettingsFactory.Help">
-    <value>Het type data beheer methode dat in gebruik is. Stream gebruikt minder geheugen maar is langzamer. Geheugen is sneller maar gebruikt meer geheugen.</value>
+    <value xml:space="preserve">Het type data beheer methode dat in gebruik is. Stream gebruikt minder geheugen maar is langzamer. Geheugen is sneller maar gebruikt meer geheugen.</value>
   </data>
   <data name="SettingsFactory.Text">
-    <value>Mode</value>
+    <value xml:space="preserve">Mode</value>
   </data>
-  <data name="SettingsFileMode.Help">
-    <value>Het merendeel van de apparaat data wordt bewaard in het bestandssysteem. Kleine hoeveelheden worden in het geheugen geladen waar nodig. Dit verlaagd het geheugen gebruik. Wanneer de geheugen mode is gedeactiveerd waar het apparaat data bestand in het geheugen is ingeladen, zal bestands mode worden gebruikt om het minste geheugen te gebruiken.</value>
+  <data name="SettingsFileMode.Help" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Het merendeel van de apparaat data wordt bewaard in het bestandssysteem. Kleine hoeveelheden worden in het geheugen geladen waar nodig. Dit verlaagt het geheugengebruik. Wanneer de geheugen mode is gedeactiveerd waar het apparaat data bestand in het geheugen is ingeladen, zal bestandsmodus worden gebruikt om het minste geheugen te gebruiken.</value>
   </data>
-  <data name="SettingsFileMode.Text">
-    <value>Bestands mode geinstalleerd?</value>
+  <data name="SettingsFileMode.Text" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Bestandsmodus geinstalleerd?</value>
   </data>
-  <data name="SettingsImageOptimiser.Help">
-    <value>Wanneer de afbeeldings optimalizator en apparaat detectie zijn geactiveerd zal DNN geen afbeeldingen versturen naar het apparaat als deze te groot zijn om te worden weergegeven op het gebruikte scherm. Query string parameters kunnen worden meegegeven aan afbeelding URL's om deze automatisch te verkleinen voor betere prestaties.</value>
+  <data name="SettingsImageOptimiser.Help" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Wanneer de afbeeldings optimalisator en apparaatdetectie zijn geactiveerd zal DNN geen afbeeldingen versturen naar het apparaat als deze te groot zijn om te worden weergegeven op het gebruikte scherm. Query string parameters kunnen worden meegegeven aan afbeelding URL's om deze automatisch te verkleinen voor betere prestaties.</value>
   </data>
-  <data name="SettingsImageOptimiser.Text">
-    <value>Apparaat afbeelding optimalizator geactiveerd?</value>
+  <data name="SettingsImageOptimiser.Text" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Apparaat afbeeldings optimalisator geactiveerd?</value>
   </data>
   <data name="SettingsManualUpload.Header">
-    <value>Upload apparaat data</value>
+    <value xml:space="preserve">Upload apparaat data</value>
   </data>
-  <data name="SettingsRefresh.Help">
-    <value>Als apparaat detectie wordt gebruikt met Evoq of verbeterde 51Degrees apparaat data dan zal deze optie controleren of er nieuwe versies van de apparaat data beschikbaaris bij 51Degrees.</value>
+  <data name="SettingsRefresh.Help" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Als apparaatdetectie wordt gebruikt met Evoq of verbeterde 51Degrees apparaat data dan zal deze optie controleren of er nieuwe versies van de apparaat data beschikbaaris bij 51Degrees.</value>
   </data>
   <data name="SettingsRefresh.Text">
-    <value>Vernieuwen</value>
+    <value xml:space="preserve">Vernieuwen</value>
   </data>
-  <data name="SettingsShareUsage.Help">
-    <value>Activeer/Deactiveer delen van gebruiks data met 51Degrees.</value>
+  <data name="SettingsShareUsage.Help" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Activeer/Deactiveer het delen van gebruiksdata met 51Degrees.</value>
   </data>
-  <data name="SettingsShareUsage.Text">
-    <value>Delen van gebruiks data geactiveerd?</value>
+  <data name="SettingsShareUsage.Text" lastModified="2020-05-17 16:50:47">
+    <value xml:space="preserve">Delen van gebruiksdata geactiveerd?</value>
   </data>
   <data name="SettingsStats.Header">
-    <value>Apparaat Data Informatie</value>
+    <value xml:space="preserve">Apparaat Data Informatie</value>
   </data>
   <data name="SettingsUpload.Help">
-    <value>Upload een 51Degrees data bestand voor gebruik binnen apparaat detectie. Nieuwe data bestanden kunnen direct worden upgehaald van 51Degrees.</value>
+    <value xml:space="preserve">Upload een 51Degrees data bestand voor gebruik binnen apparaat detectie. Nieuwe data bestanden kunnen direct worden upgehaald van 51Degrees.</value>
   </data>
   <data name="SettingsUpload.Text">
-    <value>Handmatige upload</value>
+    <value xml:space="preserve">Handmatige upload</value>
   </data>
   <data name="Unavailable.Text">
-    <value>Niet beschikbaar</value>
+    <value xml:space="preserve">Niet beschikbaar</value>
   </data>
   <data name="Update.Action">
-    <value>Update</value>
+    <value xml:space="preserve">Update</value>
+  </data>
+  <data name="UploadButtonText.Text">
+    <value xml:space="preserve">Uploaden</value>
+  </data>
+  <data name="UploadData.Text">
+    <value xml:space="preserve">Gegevens uploaden</value>
+  </data>
+  <data name="ValidationFileErrorText.Text">
+    <value xml:space="preserve">Gebruik de knop Bladeren om een Premium gegevensbestand om te uploaden te selecteren.</value>
+  </data>
+  <data name="ValidationRegExErrorText.Text">
+    <value xml:space="preserve">De licentiesleutel mag alleen alfanumerieke tekens in hoofdletters of numerieke waarden bevatten.</value>
+  </data>
+  <data name="ValidationRequiredErrorText.Text">
+    <value xml:space="preserve">Een sleutel van de vergunning moet worden ingevoerd.</value>
   </data>
 </root>

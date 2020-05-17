@@ -12,52 +12,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="btn_Cancel.Text" lastModified="2018-07-19 05:25:01">
+  <data name="btn_Cancel.Text" lastModified="2018-07-19 03:25:01">
     <value xml:space="preserve">Annuleren</value>
   </data>
-  <data name="btn_Checking.Text" lastModified="2018-07-19 07:45:22">
+  <data name="btn_Checking.Text" lastModified="2018-07-19 05:45:22">
     <value xml:space="preserve">Aan het controleren ...</value>
   </data>
-  <data name="btn_Connect.Text" lastModified="2018-07-19 05:25:01">
+  <data name="btn_Connect.Text" lastModified="2018-07-19 03:25:01">
     <value xml:space="preserve">Koppelen</value>
   </data>
-  <data name="btn_Edit.Text" lastModified="2018-07-19 05:25:01">
+  <data name="btn_Edit.Text" lastModified="2018-07-19 03:25:01">
     <value xml:space="preserve">Wijzigen</value>
   </data>
-  <data name="btn_Save.Text" lastModified="2018-07-19 05:25:01">
+  <data name="btn_Save.Text" lastModified="2018-07-19 03:25:01">
     <value xml:space="preserve">Opslaan</value>
   </data>
-  <data name="ErrConnectorNotFound.Text" lastModified="2018-07-19 05:25:01">
+  <data name="ErrConnectorNotFound.Text" lastModified="2018-07-19 03:25:01">
     <value xml:space="preserve">Koppeling niet gevonden.</value>
   </data>
-  <data name="nav_Connectors.Text" lastModified="2018-07-19 05:25:01">
+  <data name="nav_Connectors.Text" lastModified="2018-07-19 03:25:01">
     <value xml:space="preserve">Koppelingen</value>
   </data>
-  <data name="Save.Text" lastModified="2018-07-19 05:25:01">
+  <data name="Save.Text" lastModified="2018-07-19 03:25:01">
     <value xml:space="preserve">Opslaan</value>
   </data>
-  <data name="title_Connections.Text" lastModified="2018-07-19 05:25:01">
+  <data name="title_Connections.Text" lastModified="2018-07-19 03:25:01">
     <value xml:space="preserve">Verbindingen instellen</value>
   </data>
-  <data name="txt_AddNew.Text" lastModified="2018-07-19 05:25:01">
+  <data name="txt_AddNew.Text" lastModified="2018-07-19 03:25:01">
     <value xml:space="preserve">Nieuwe toevoegen</value>
   </data>
-  <data name="txt_clickToEdit.Text" lastModified="2018-07-19 05:25:01">
+  <data name="txt_clickToEdit.Text" lastModified="2018-07-19 03:25:01">
     <value xml:space="preserve">Klik om de koppelingsnaam te wijzigen.</value>
   </data>
-  <data name="txt_Deleted.Text" lastModified="2018-07-19 05:25:01">
+  <data name="txt_Deleted.Text" lastModified="2018-07-19 03:25:01">
     <value xml:space="preserve">Item is succesvol verwijderd.</value>
   </data>
-  <data name="txt_DisplayNameIsNotUnique.Text" lastModified="2018-07-19 05:25:01">
+  <data name="txt_DisplayNameIsNotUnique.Text" lastModified="2018-07-19 03:25:01">
     <value xml:space="preserve">Een naam moet uniek zijn.</value>
   </data>
-  <data name="txt_DisplayNameIsNotValid.Text" lastModified="2018-07-19 05:25:01">
-    <value xml:space="preserve">Een naam kan alleen letters en nummers bevatten.</value>
+  <data name="txt_DisplayNameIsNotValid.Text" lastModified="2020-05-16 20:36:57">
+    <value xml:space="preserve">Een naam kan alleen letters en cijfers bevatten.</value>
   </data>
-  <data name="txt_Saved.Text" lastModified="2018-07-19 05:25:01">
+  <data name="txt_Saved.Text" lastModified="2018-07-19 03:25:01">
     <value xml:space="preserve">Item is succesvol opgeslagen.</value>
   </data>
-  <data name="txt_SetupConnections.Text" lastModified="2018-07-19 05:25:01">
+  <data name="txt_SetupConnections.Text" lastModified="2018-07-19 03:25:01">
     <value xml:space="preserve">Stel uw koppelingen in om gemakkelijk inhoud en meer te delen</value>
   </data>
 </root>

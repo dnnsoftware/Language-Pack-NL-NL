@@ -12,49 +12,49 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AdminHelp.Text" lastModified="2018-07-20 13:41:47">
-    <value xml:space="preserve">Deze editor stelt je in staat de Authentication Provider in te stellen.</value>
+  <data name="AdminHelp.Text" lastModified="2020-05-17 16:10:11">
+    <value xml:space="preserve">Deze editor stelt je in staat de Authenticatie Provider in te stellen.</value>
   </data>
-  <data name="AuthenticationSettings.Text" lastModified="2018-07-20 13:41:47">
+  <data name="AuthenticationSettings.Text" lastModified="2018-07-20 11:41:47">
     <value xml:space="preserve">Machtigingsinstellingen</value>
   </data>
-  <data name="AuthenticationType.Help" lastModified="2018-07-20 13:41:47">
+  <data name="AuthenticationType.Help" lastModified="2018-07-20 11:41:47">
     <value xml:space="preserve">Het type Authenticatiesysteem (bijv. LiveID, OpenID enz.)</value>
   </data>
-  <data name="AuthenticationType.Text" lastModified="2018-07-20 13:41:47">
+  <data name="AuthenticationType.Text" lastModified="2018-07-20 11:41:47">
     <value xml:space="preserve">Authenticatie type:</value>
   </data>
-  <data name="cmdUpdate.Text" lastModified="2018-07-20 13:41:47">
+  <data name="cmdUpdate.Text" lastModified="2018-07-20 11:41:47">
     <value xml:space="preserve">Bijwerken Authenticatie instellingen</value>
   </data>
-  <data name="HostHelp.Text" lastModified="2018-07-20 13:41:47">
-    <value xml:space="preserve">Deze editor stelt je in staat de Authentication Provider in te stellen. Je kunt de locatie van de bronbestanden instellen en je kunt de provider inschakelen. Ingeschakelde providers zijn beschikbaar voor website administrators, die hierna de provider voor hun website kunnen instellen.</value>
+  <data name="HostHelp.Text" lastModified="2020-05-17 16:10:11">
+    <value xml:space="preserve">Deze editor stelt je in staat de Authenticatie Provider in te stellen. Je kunt de locatie van de bronbestanden instellen en je kunt de provider inschakelen. Ingeschakelde providers zijn beschikbaar voor website administrators, die hierna de provider voor hun website kunnen instellen.</value>
   </data>
-  <data name="IsEnabled.Help" lastModified="2018-07-20 13:41:47">
+  <data name="IsEnabled.Help" lastModified="2018-07-20 11:41:47">
     <value xml:space="preserve">Vink aan om dit Authenticatiesysteem in te schakelen.</value>
   </data>
-  <data name="IsEnabled.Text" lastModified="2018-07-20 13:41:47">
+  <data name="IsEnabled.Text" lastModified="2018-07-20 11:41:47">
     <value xml:space="preserve">Ingeschakeld?</value>
   </data>
-  <data name="LoginControlSrc.Help" lastModified="2018-07-20 13:41:47">
+  <data name="LoginControlSrc.Help" lastModified="2018-07-20 11:41:47">
     <value xml:space="preserve">De bron van de Login Control voor dit Authenticatiesysteem</value>
   </data>
-  <data name="LoginControlSrc.Text" lastModified="2018-07-20 13:41:47">
+  <data name="LoginControlSrc.Text" lastModified="2018-07-20 11:41:47">
     <value xml:space="preserve">Login Control bron:</value>
   </data>
-  <data name="LogoffControlSrc.Help" lastModified="2018-07-20 13:41:47">
+  <data name="LogoffControlSrc.Help" lastModified="2018-07-20 11:41:47">
     <value xml:space="preserve">De bron van de Logoff Control voor dit Authenticatiesysteem</value>
   </data>
-  <data name="LogoffControlSrc.Text" lastModified="2018-07-20 13:41:47">
+  <data name="LogoffControlSrc.Text" lastModified="2018-07-20 11:41:47">
     <value xml:space="preserve">Logoff Control bron:</value>
   </data>
-  <data name="NoSettings.Text" lastModified="2018-07-20 13:41:47">
+  <data name="NoSettings.Text" lastModified="2018-07-20 11:41:47">
     <value xml:space="preserve">Dit Authenthicatiesysteem heeft geen instellingen om te configureren.</value>
   </data>
-  <data name="SettingsControlSrc.Help" lastModified="2018-07-20 13:41:47">
+  <data name="SettingsControlSrc.Help" lastModified="2018-07-20 11:41:47">
     <value xml:space="preserve">De bron van de Settings Control voor dit Authenticatiesysteem</value>
   </data>
-  <data name="SettingsControlSrc.Text" lastModified="2018-07-20 13:41:47">
+  <data name="SettingsControlSrc.Text" lastModified="2018-07-20 11:41:47">
     <value xml:space="preserve">Settings Control bron:</value>
   </data>
 </root>

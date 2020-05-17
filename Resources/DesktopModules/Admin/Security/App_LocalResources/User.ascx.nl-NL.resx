@@ -12,7 +12,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CaptchaText.Text" lastModified="2015-12-31 10:35:51">
+  <data name="CaptchaText.Text" lastModified="2015-12-31 09:35:51">
     <value xml:space="preserve">Voer de bovenstaande code hieronder in.</value>
   </data>
   <data name="cmdAdd.Text">
@@ -24,11 +24,11 @@
   <data name="cmdRestore.Text">
     <value xml:space="preserve">Herstellen</value>
   </data>
-  <data name="ComparePasswordsValidator.ErrorMessage" lastModified="2015-12-31 10:35:51">
+  <data name="ComparePasswordsValidator.ErrorMessage" lastModified="2015-12-31 09:35:51">
     <value xml:space="preserve">Het wachtwoord en de bevestiging moeten overeenkomen.</value>
   </data>
-  <data name="ConfirmUnRegister.Text" lastModified="2015-12-31 10:35:51">
-    <value xml:space="preserve">Weet u zeker dat u uw registratie ongedaan wilt maken.</value>
+  <data name="ConfirmUnRegister.Text" lastModified="2020-05-17 18:13:37">
+    <value xml:space="preserve">Weet je zeker dat je je registratie ongedaan wilt maken.</value>
   </data>
   <data name="CreateUser.Text">
     <value xml:space="preserve">Gebruiker aanmaken</value>
@@ -36,8 +36,8 @@
   <data name="Delete.Text">
     <value xml:space="preserve">Verwijderen</value>
   </data>
-  <data name="DisplayNameNotUnique.Text">
-    <value xml:space="preserve">De weergavenaam die u heeft ingevoerd is al reeds in gebruik, kies een andere naam.</value>
+  <data name="DisplayNameNotUnique.Text" lastModified="2020-05-17 18:13:37">
+    <value xml:space="preserve">De weergavenaam die je hebt ingevoerd is al reeds in gebruik, kies een andere naam.</value>
   </data>
   <data name="HideSiteList.Text">
     <value xml:space="preserve">Verberg lijst van sites</value>
@@ -48,49 +48,49 @@
   <data name="Password.Text">
     <value xml:space="preserve">Wachtwoord</value>
   </data>
-  <data name="PasswordHelpAdmin.Text" lastModified="2015-12-31 10:35:51">
-    <value xml:space="preserve">U kunt eventueel een wachtwoord opgeven voor deze gebruiker, of laat het systeem een willekeurig wachtwoord genereren.</value>
+  <data name="PasswordHelpAdmin.Text" lastModified="2020-05-17 18:13:37">
+    <value xml:space="preserve">Je kunt eventueel een wachtwoord opgeven voor deze gebruiker, of laat het systeem een willekeurig wachtwoord genereren.</value>
   </data>
   <data name="PasswordHelpUser.Text">
     <value xml:space="preserve">Geef een wachtwoord.</value>
   </data>
-  <data name="plAnswer.Help" lastModified="2015-12-31 10:35:51">
-    <value xml:space="preserve">Geef een antwoord op de Wachtwoord Vraag.</value>
+  <data name="plAnswer.Help" lastModified="2020-05-17 18:13:37">
+    <value xml:space="preserve">Geef een antwoord op de wachtwoordvraag.</value>
   </data>
   <data name="plAnswer.Text">
     <value xml:space="preserve">Wachtwoord Antwoord:</value>
   </data>
-  <data name="plAuthorize.Help" lastModified="2015-12-31 10:35:51">
+  <data name="plAuthorize.Help" lastModified="2015-12-31 09:35:51">
     <value xml:space="preserve">Autoriseer deze gebruiker.</value>
   </data>
   <data name="plAuthorize.Text">
     <value xml:space="preserve">Autoriseer :</value>
   </data>
-  <data name="plConfirm.Help" lastModified="2015-12-31 10:35:51">
+  <data name="plConfirm.Help" lastModified="2015-12-31 09:35:51">
     <value xml:space="preserve">Voer het wachtwoord opnieuw in om te bevestigen dat het juist getypt is.</value>
   </data>
   <data name="plConfirm.Text">
     <value xml:space="preserve">Bevestig wachtwoord:</value>
   </data>
-  <data name="plNotify.Help" lastModified="2015-12-31 10:35:51">
+  <data name="plNotify.Help" lastModified="2015-12-31 09:35:51">
     <value xml:space="preserve">Verstuur een e-mail naar de gebruiker.</value>
   </data>
   <data name="plNotify.Text">
     <value xml:space="preserve">Bericht:</value>
   </data>
-  <data name="plPassword.Help" lastModified="2015-12-31 10:35:51">
+  <data name="plPassword.Help" lastModified="2015-12-31 09:35:51">
     <value xml:space="preserve">Geef een wachtwoord voor deze gebruiker.</value>
   </data>
   <data name="plPassword.Text">
     <value xml:space="preserve">Wachtwoord:</value>
   </data>
-  <data name="plQuestion.Help" lastModified="2015-12-31 10:35:51">
-    <value xml:space="preserve">Geef een Wachtwoord Vraag die beantwoord moet worden bij het opvragen van het wachtwoord.</value>
+  <data name="plQuestion.Help" lastModified="2020-05-17 18:13:37">
+    <value xml:space="preserve">Geef een wachtwoordvraag die beantwoord moet worden bij het opvragen van het wachtwoord.</value>
   </data>
-  <data name="plQuestion.Text">
-    <value xml:space="preserve">Wachtwoord vraag:</value>
+  <data name="plQuestion.Text" lastModified="2020-05-17 18:13:37">
+    <value xml:space="preserve">Wachtwoordvraag:</value>
   </data>
-  <data name="plRandom.Help" lastModified="2015-12-31 10:35:51">
+  <data name="plRandom.Help" lastModified="2015-12-31 09:35:51">
     <value xml:space="preserve">Vink deze optie aan om een willekeurig wachtwoord te genereren.</value>
   </data>
   <data name="plRandom.Text">
@@ -99,8 +99,8 @@
   <data name="UnRegister.Text">
     <value xml:space="preserve">Registratie ongedaan maken</value>
   </data>
-  <data name="UpdateUserName.Text" lastModified="2015-12-31 10:35:51">
-    <value xml:space="preserve">Aantekening: Deze gebruiker is geregistreerd in {0} sites.</value>
+  <data name="UpdateUserName.Text" lastModified="2020-05-17 18:13:37">
+    <value xml:space="preserve">Opmerking: Deze gebruiker is geregistreerd in {0} sites.</value>
   </data>
   <data name="ViewSiteList.Text">
     <value xml:space="preserve">Geeft lijst van sites weer</value>

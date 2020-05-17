@@ -12,50 +12,26 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_manageprofile.Text">
-    <value xml:space="preserve">Profiel velden beheren</value>
-  </data>
   <data name="AddContent.Action">
     <value xml:space="preserve">Voeg nieuw profiel veld toe</value>
-  </data>
-  <data name="cmdRefresh.Text">
-    <value xml:space="preserve">Tabel verversen</value>
-  </data>
-  <data name="Name.Header">
-    <value xml:space="preserve">Naam</value>
   </data>
   <data name="Category.Header">
     <value xml:space="preserve">Categorie</value>
   </data>
-  <data name="DataType.Header">
-    <value xml:space="preserve">DataType</value>
-  </data>
-  <data name="Length.Header">
-    <value xml:space="preserve">Lengte</value>
-  </data>
-  <data name="DefaultValue.Header">
-    <value xml:space="preserve">Standaardwaarde</value>
-  </data>
-  <data name="ValidationExpression.Header">
-    <value xml:space="preserve">Expressie voor validatie</value>
-  </data>
-  <data name="Required.Header">
-    <value xml:space="preserve">Verplicht</value>
-  </data>
-  <data name="Visible.Header">
-    <value xml:space="preserve">Zichtbaar</value>
-  </data>
-  <data name="MoveDown.Text">
-    <value xml:space="preserve">Omlaag</value>
-  </data>
-  <data name="MoveUp.Text">
-    <value xml:space="preserve">Omhoog</value>
-  </data>
   <data name="cmdApply.Text">
     <value xml:space="preserve">Toepassen</value>
   </data>
-  <data name="ProfilePropertiesHelp.Text">
-    <value xml:space="preserve">Hier kun u de volgorde van profiel velden aanpassen, en bepalen of ze Verplicht of Zichtbaar zijn. Klik op de knop "Toepassen" om de gemaakte veranderingen op te slaan. Om details van een profielveld te bewerken klikt u op het bijbehorende potloodje in de eerste kolom.</value>
+  <data name="cmdRefresh.Text">
+    <value xml:space="preserve">Tabel verversen</value>
+  </data>
+  <data name="ControlTitle_manageprofile.Text">
+    <value xml:space="preserve">Profiel velden beheren</value>
+  </data>
+  <data name="DataType.Header">
+    <value xml:space="preserve">DataType</value>
+  </data>
+  <data name="DefaultValue.Header">
+    <value xml:space="preserve">Standaardwaarde</value>
   </data>
   <data name="DefaultVisibility.Header">
     <value xml:space="preserve">Standaard Zichtbaarheid</value>
@@ -65,5 +41,29 @@
   </data>
   <data name="Edit.Text">
     <value xml:space="preserve">Bewerken</value>
+  </data>
+  <data name="Length.Header">
+    <value xml:space="preserve">Lengte</value>
+  </data>
+  <data name="MoveDown.Text">
+    <value xml:space="preserve">Omlaag</value>
+  </data>
+  <data name="MoveUp.Text">
+    <value xml:space="preserve">Omhoog</value>
+  </data>
+  <data name="Name.Header">
+    <value xml:space="preserve">Naam</value>
+  </data>
+  <data name="ProfilePropertiesHelp.Text" lastModified="2020-05-17 18:07:14">
+    <value xml:space="preserve">Hier kun je de volgorde van profiel velden aanpassen, en bepalen of ze verplicht of zichtbaar zijn. Klik op de knop "Toepassen" om de gemaakte veranderingen op te slaan. Om details van een profielveld te bewerken klik je op het bijbehorende potloodje in de eerste kolom.</value>
+  </data>
+  <data name="Required.Header">
+    <value xml:space="preserve">Verplicht</value>
+  </data>
+  <data name="ValidationExpression.Header">
+    <value xml:space="preserve">Expressie voor validatie</value>
+  </data>
+  <data name="Visible.Header">
+    <value xml:space="preserve">Zichtbaar</value>
   </data>
 </root>

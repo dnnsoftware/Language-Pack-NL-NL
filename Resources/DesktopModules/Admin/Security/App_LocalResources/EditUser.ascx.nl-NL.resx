@@ -24,7 +24,7 @@
   <data name="cmdDelete.Text">
     <value xml:space="preserve">Uitschrijven</value>
   </data>
-  <data name="cmdHMACGenerate.Text" lastModified="2015-12-31 10:28:00">
+  <data name="cmdHMACGenerate.Text" lastModified="2015-12-31 09:28:00">
     <value xml:space="preserve">Genereer HMCA id's</value>
   </data>
   <data name="cmdProfile.Text">
@@ -42,16 +42,16 @@
   <data name="ControlTitle_profile.Text">
     <value xml:space="preserve">Profiel</value>
   </data>
-  <data name="DisplayNameNotUnique.Text">
-    <value xml:space="preserve">De weergavenaam die u heeft ingegeven is al reeds in gebruik, kies een andere naam.</value>
+  <data name="DisplayNameNotUnique.Text" lastModified="2020-05-17 17:48:18">
+    <value xml:space="preserve">De weergavenaam die je hebt ingegeven is al reeds in gebruik. Kies een andere naam.</value>
   </data>
-  <data name="ErrorDialogTitle.Text" lastModified="2015-12-31 10:28:00">
-    <value xml:space="preserve">Overwacht fout.</value>
+  <data name="ErrorDialogTitle.Text" lastModified="2020-05-17 17:48:18">
+    <value xml:space="preserve">Overwachte fout.</value>
   </data>
-  <data name="HMACAppIdLabel.Text" lastModified="2015-12-31 10:28:00">
+  <data name="HMACAppIdLabel.Text" lastModified="2015-12-31 09:28:00">
     <value xml:space="preserve">HMAC APP Id</value>
   </data>
-  <data name="HMACAppSecretLabel.Text" lastModified="2015-12-31 10:28:00">
+  <data name="HMACAppSecretLabel.Text" lastModified="2015-12-31 09:28:00">
     <value xml:space="preserve">HMAC APP geheim</value>
   </data>
   <data name="PasswordSettings.Text">
@@ -60,23 +60,23 @@
   <data name="SuccessMessage.Text">
     <value xml:space="preserve">Profiel URL is succesvol bijgewerkt</value>
   </data>
-  <data name="UserSubscribed.Text" lastModified="2015-12-31 10:28:00">
-    <value xml:space="preserve">U inschrijving op de rol {0} is succesvol .</value>
+  <data name="UserSubscribed.Text" lastModified="2020-05-17 17:48:18">
+    <value xml:space="preserve">Je inschrijving op de rol {0} is succesvol .</value>
   </data>
-  <data name="UserUnSubscribed.Text" lastModified="2015-12-31 10:28:00">
-    <value xml:space="preserve">U uitschrijving op de rol {0} is succesvol.</value>
+  <data name="UserUnSubscribed.Text" lastModified="2020-05-17 17:48:18">
+    <value xml:space="preserve">Je uitschrijving op de rol {0} is succesvol.</value>
   </data>
-  <data name="UserUpdated.Text">
-    <value xml:space="preserve">Account is succesvol bijgewerkt.</value>
+  <data name="UserUpdated.Text" lastModified="2020-05-17 17:48:18">
+    <value xml:space="preserve">Het account is succesvol bijgewerkt.</value>
   </data>
-  <data name="UserUpdatedError.Text">
-    <value xml:space="preserve">Er is een overwachte fout opgetreden tijdens het bijwerken van uw account.</value>
+  <data name="UserUpdatedError.Text" lastModified="2020-05-17 17:48:18">
+    <value xml:space="preserve">Er is een overwachte fout opgetreden tijdens het bijwerken van je account.</value>
   </data>
-  <data name="VanityUrlHeader.Text">
-    <value xml:space="preserve">Aantekening: U kunt uw publieke profiel URL maar één keer aanpassen.</value>
+  <data name="VanityUrlHeader.Text" lastModified="2020-05-17 17:48:18">
+    <value xml:space="preserve">Opmerking: Je kunt je publieke profiel URL maar één keer aanpassen.</value>
   </data>
-  <data name="VanityUrlLabel.Help">
-    <value xml:space="preserve">U kunt een eigen URL opgeven voor het identificeren van uw profiel welke u vervolgens weer kan delen met andere community gebruikers. </value>
+  <data name="VanityUrlLabel.Help" lastModified="2020-05-17 17:48:18">
+    <value xml:space="preserve">Je kunt een eigen URL opgeven voor het identificeren van je profiel welke je vervolgens weer kan delen met andere community gebruikers. </value>
   </data>
   <data name="VanityUrlLabel.Text">
     <value xml:space="preserve">ProfielURL:</value>
