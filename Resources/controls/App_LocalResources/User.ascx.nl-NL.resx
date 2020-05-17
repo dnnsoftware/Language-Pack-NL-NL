@@ -118,31 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="plConfirm.Help" xml:space="preserve">
-    <value>Geef uw wachtwoord opnieuw in om dit te bevestigen.</value>
+    <value>Geef je wachtwoord opnieuw in om dit te bevestigen.</value>
   </data>
   <data name="plConfirm.Text" xml:space="preserve">
     <value>Bevestig:</value>
   </data>
   <data name="plEmail.Help" xml:space="preserve">
-    <value>Vul hier uw e-mailadres in.</value>
+    <value>Vul hier je e-mailadres in.</value>
   </data>
   <data name="plEmail.Text" xml:space="preserve">
     <value>E-mailadres:</value>
   </data>
   <data name="plFirstName.Help" xml:space="preserve">
-    <value>Vul hier uw voornaam in.</value>
+    <value>Vul hier je voornaam in.</value>
   </data>
   <data name="plFirstName.Text" xml:space="preserve">
     <value>Voornaam:</value>
   </data>
   <data name="plIM.Help" xml:space="preserve">
-    <value>Vul hier uw instant messenger id  (MSN, Yahoo!, ICQ, etc.) in.</value>
+    <value>Vul hier je instant messenger id  (MSN, Yahoo!, ICQ, etc.) in.</value>
   </data>
   <data name="plIM.Text" xml:space="preserve">
     <value>Instant Messenger ID:</value>
   </data>
   <data name="plLastName.Help" xml:space="preserve">
-    <value>Vul hier uw achternaam in.</value>
+    <value>Vul hier je achternaam in.</value>
   </data>
   <data name="plLastName.Text" xml:space="preserve">
     <value>Achternaam:</value>
@@ -154,13 +154,13 @@
     <value>Wachtwoord:</value>
   </data>
   <data name="plUserName.Help" xml:space="preserve">
-    <value>Kies een gebruikersnaam. Als de gebruikersnaam reeds bestaat, dan kunt u een andere naam kiezen.</value>
+    <value>Kies een gebruikersnaam. Als de gebruikersnaam reeds bestaat, dan kun je een andere naam kiezen.</value>
   </data>
   <data name="plUserName.Text" xml:space="preserve">
     <value>Gebruikersnaam:</value>
   </data>
   <data name="plWebsite.Help" xml:space="preserve">
-    <value>Vul hier het adres in van uw website.</value>
+    <value>Vul hier het adres in van je website.</value>
   </data>
   <data name="plWebsite.Text" xml:space="preserve">
     <value>Website:</value>

@@ -130,25 +130,25 @@
     <value>Faxnummer is een verplicht veld.</value>
   </data>
   <data name="plCell.Help" xml:space="preserve">
-    <value>Vul hier uw mobiel telefoonnummer in.</value>
+    <value>Vul hier je mobiel telefoonnummer in.</value>
   </data>
   <data name="plCell.Text" xml:space="preserve">
     <value>Mobiel:</value>
   </data>
   <data name="plCity.Help" xml:space="preserve">
-    <value>Vul hier uw woonplaats in.</value>
+    <value>Vul hier je woonplaats in.</value>
   </data>
   <data name="plCity.Text" xml:space="preserve">
     <value>Woonplaats:</value>
   </data>
   <data name="plCountry.Help" xml:space="preserve">
-    <value>Vul hier uw land in.</value>
+    <value>Vul hier je land in.</value>
   </data>
   <data name="plCountry.Text" xml:space="preserve">
     <value>Land:</value>
   </data>
   <data name="plFax.Help" xml:space="preserve">
-    <value>Vul hier uw faxnummer in.</value>
+    <value>Vul hier je faxnummer in.</value>
   </data>
   <data name="plFax.Text" xml:space="preserve">
     <value>Fax:</value>

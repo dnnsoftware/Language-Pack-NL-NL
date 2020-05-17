@@ -151,13 +151,13 @@
     <value>Geen</value>
   </data>
   <data name="NoPermission.Text" xml:space="preserve">
-    <value>U heeft geen toestemming om de bestanden op de site te zien</value>
+    <value>Je hebt geen toestemming om de bestanden op de site te zien</value>
   </data>
   <data name="NoUser.Text" xml:space="preserve">
     <value>De ingevoerde gebruikersnaam komt niet overeen met een gebruiker van deze website.</value>
   </data>
   <data name="NoWritePermission.Text" xml:space="preserve">
-    <value>U heeft geen toestemming op bestanden naar deze site te uploaden.</value>
+    <value>Je hebt geen toestemming op bestanden naar deze site te uploaden.</value>
   </data>
   <data name="Root.Text" xml:space="preserve">
     <value>Beginmap</value>
