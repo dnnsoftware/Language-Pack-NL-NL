@@ -187,6 +187,6 @@
     <value>&lt;br/&gt;Een wachtwoord moet ingevuld worden.</value>
   </data>
 	<data name="valUsername.Text" xml:space="preserve">
-    <value>&lt;br &gt;Een gebruikersnaam moet ingevuld worden.</value>
+    <value>&lt;br&gt;Een gebruikersnaam moet ingevuld worden.</value>
   </data>
 </root>
