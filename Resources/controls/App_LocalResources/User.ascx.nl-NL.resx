@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-	<!-- 
+  <!-- 
     Microsoft ResX Schema 
     
     Version 2.0
@@ -59,134 +59,134 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-		<xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-		<xsd:element name="root" msdata:IsDataSet="true">
-			<xsd:complexType>
-				<xsd:choice maxOccurs="unbounded">
-					<xsd:element name="metadata">
-						<xsd:complexType>
-							<xsd:sequence>
-								<xsd:element name="value" type="xsd:string" minOccurs="0" />
-							</xsd:sequence>
-							<xsd:attribute name="name" use="required" type="xsd:string" />
-							<xsd:attribute name="type" type="xsd:string" />
-							<xsd:attribute name="mimetype" type="xsd:string" />
-							<xsd:attribute ref="xml:space" />
-						</xsd:complexType>
-					</xsd:element>
-					<xsd:element name="assembly">
-						<xsd:complexType>
-							<xsd:attribute name="alias" type="xsd:string" />
-							<xsd:attribute name="name" type="xsd:string" />
-						</xsd:complexType>
-					</xsd:element>
-					<xsd:element name="data">
-						<xsd:complexType>
-							<xsd:sequence>
-								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-							</xsd:sequence>
-							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-							<xsd:attribute ref="xml:space" />
-						</xsd:complexType>
-					</xsd:element>
-					<xsd:element name="resheader">
-						<xsd:complexType>
-							<xsd:sequence>
-								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-							</xsd:sequence>
-							<xsd:attribute name="name" type="xsd:string" use="required" />
-						</xsd:complexType>
-					</xsd:element>
-				</xsd:choice>
-			</xsd:complexType>
-		</xsd:element>
-	</xsd:schema>
-	<resheader name="resmimetype">
-		<value>text/microsoft-resx</value>
-	</resheader>
-	<resheader name="version">
-		<value>2.0</value>
-	</resheader>
-	<resheader name="reader">
-		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-	</resheader>
-	<resheader name="writer">
-		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-	</resheader>
-	<data name="plConfirm.Help" xml:space="preserve">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="plConfirm.Help" xml:space="preserve">
     <value>Geef je wachtwoord opnieuw in om dit te bevestigen.</value>
   </data>
-	<data name="plConfirm.Text" xml:space="preserve">
+  <data name="plConfirm.Text" xml:space="preserve">
     <value>Bevestig:</value>
   </data>
-	<data name="plEmail.Help" xml:space="preserve">
+  <data name="plEmail.Help" xml:space="preserve">
     <value>Vul hier je e-mailadres in.</value>
   </data>
-	<data name="plEmail.Text" xml:space="preserve">
+  <data name="plEmail.Text" xml:space="preserve">
     <value>E-mailadres:</value>
   </data>
-	<data name="plFirstName.Help" xml:space="preserve">
+  <data name="plFirstName.Help" xml:space="preserve">
     <value>Vul hier je voornaam in.</value>
   </data>
-	<data name="plFirstName.Text" xml:space="preserve">
+  <data name="plFirstName.Text" xml:space="preserve">
     <value>Voornaam:</value>
   </data>
-	<data name="plIM.Help" xml:space="preserve">
+  <data name="plIM.Help" xml:space="preserve">
     <value>Vul hier je instant messenger id  (MSN, Yahoo!, ICQ, etc.) in.</value>
   </data>
-	<data name="plIM.Text" xml:space="preserve">
+  <data name="plIM.Text" xml:space="preserve">
     <value>Instant Messenger ID:</value>
   </data>
-	<data name="plLastName.Help" xml:space="preserve">
+  <data name="plLastName.Help" xml:space="preserve">
     <value>Vul hier je achternaam in.</value>
   </data>
-	<data name="plLastName.Text" xml:space="preserve">
+  <data name="plLastName.Text" xml:space="preserve">
     <value>Achternaam:</value>
   </data>
-	<data name="plPassword.Help" xml:space="preserve">
+  <data name="plPassword.Help" xml:space="preserve">
     <value>Kies een wachtwoord.</value>
   </data>
-	<data name="plPassword.Text" xml:space="preserve">
+  <data name="plPassword.Text" xml:space="preserve">
     <value>Wachtwoord:</value>
   </data>
-	<data name="plUserName.Help" xml:space="preserve">
+  <data name="plUserName.Help" xml:space="preserve">
     <value>Kies een gebruikersnaam. Als de gebruikersnaam reeds bestaat, dan kun je een andere naam kiezen.</value>
   </data>
-	<data name="plUserName.Text" xml:space="preserve">
+  <data name="plUserName.Text" xml:space="preserve">
     <value>Gebruikersnaam:</value>
   </data>
-	<data name="plWebsite.Help" xml:space="preserve">
+  <data name="plWebsite.Help" xml:space="preserve">
     <value>Vul hier het adres in van je website.</value>
   </data>
-	<data name="plWebsite.Text" xml:space="preserve">
+  <data name="plWebsite.Text" xml:space="preserve">
     <value>Website:</value>
   </data>
-	<data name="valConfirm1.Text" xml:space="preserve">
+  <data name="valConfirm1.Text" xml:space="preserve">
     <value>&lt;br /&gt;De wachtwoordcontrole moet ingevuld worden.</value>
   </data>
-	<data name="valConfirm2.Text" xml:space="preserve">
+  <data name="valConfirm2.Text" xml:space="preserve">
     <value>&lt;br /&gt;De wachtwoorden komen niet met elkaar overeen.</value>
   </data>
-	<data name="valEmail1.Text" xml:space="preserve">
+  <data name="valEmail1.Text" xml:space="preserve">
     <value>&lt;br /&gt;Een e-mailadres moet ingevuld worden.</value>
   </data>
-	<data name="valEmail2.Text" xml:space="preserve">
+  <data name="valEmail2.Text" xml:space="preserve">
     <value>&lt;br /&gt;Het ingevulde e-mailadres is niet correct.</value>
   </data>
-	<data name="valFirstName.Text" xml:space="preserve">
+  <data name="valFirstName.Text" xml:space="preserve">
     <value>&lt;br /&gt;Een voornaam moet ingevuld worden.</value>
   </data>
-	<data name="valLastName.Text" xml:space="preserve">
+  <data name="valLastName.Text" xml:space="preserve">
     <value>&lt;br /&gt;Een achternaam moet ingevuld worden.</value>
   </data>
-	<data name="valPassword.Text" xml:space="preserve">
+  <data name="valPassword.Text" xml:space="preserve">
     <value>&lt;br/&gt;Een wachtwoord moet ingevuld worden.</value>
   </data>
-	<data name="valUsername.Text" xml:space="preserve">
+  <data name="valUsername.Text" xml:space="preserve">
     <value>&lt;br &gt;Een gebruikersnaam moet ingevuld worden.</value>
   </data>
 </root>
