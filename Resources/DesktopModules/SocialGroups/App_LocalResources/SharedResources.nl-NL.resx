@@ -113,7 +113,7 @@
     <value xml:space="preserve">De groep [groupitem:GroupName] is in afwachting van goedkeuring.</value>
   </data>
   <data name="GroupPicture.Help">
-    <value xml:space="preserve">Selecteer een afbeelding vanaf uw computer, maximale bestandsgrootte is 2,5 MB</value>
+    <value xml:space="preserve">Selecteer een afbeelding vanaf je computer, maximale bestandsgrootte is 2,5 MB</value>
   </data>
   <data name="GroupPicture.Text">
     <value xml:space="preserve">Groepsafbeelding</value>

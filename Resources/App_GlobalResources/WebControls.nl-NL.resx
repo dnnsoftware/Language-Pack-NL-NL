@@ -79,7 +79,7 @@
     <value xml:space="preserve">Upload mislukt</value>
   </data>
   <data name="FileUpload.InvalidFileExtensions.Error" lastModified="2020-05-15 15:58:36">
-    <value xml:space="preserve">Geselecteerde bestanden met ongeldige extensies zijn niet geüpload. Je kunt alleen bestanden uploaden met de volgende extenties: {0}.</value>
+    <value xml:space="preserve">Geselecteerde bestanden met ongeldige bestandsextensie zijn niet geüpload. Je kunt alleen bestanden uploaden met de volgende extenties: {0}.</value>
   </data>
   <data name="FileUpload.KeepButton.Text">
     <value xml:space="preserve">Behouden</value>

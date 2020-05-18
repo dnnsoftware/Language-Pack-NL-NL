@@ -136,7 +136,7 @@
     <value xml:space="preserve">Toestemming redirect</value>
   </data>
   <data name="DataConsentDelay.ErrorMessage">
-    <value xml:space="preserve">Moet een integer zijn</value>
+    <value xml:space="preserve">Moet een geheel getal zijn</value>
   </data>
   <data name="DataConsentDelay.Text">
     <value xml:space="preserve">Hard verwijderen vertraging</value>
@@ -145,7 +145,7 @@
     <value xml:space="preserve">Alle goedkeuringen zijn ge-reset en alle gebruikers moeten (opnieuw)  akkoord gaan met de gebruiksvoorwaarden.</value>
   </data>
   <data name="DataConsentResetTerms.Confirm">
-    <value xml:space="preserve">Wilt u de goedkeuringen die alle gebruikers hebben gegeven resetten en opnieuw vragen om akkoord te gaan met de voorwaarden?</value>
+    <value xml:space="preserve">Wilt u de goedkeuringen die alle gebruikers hebben gegeven, resetten en opnieuw vragen om akkoord te gaan met de voorwaarden?</value>
   </data>
   <data name="DataConsentResetTerms.Text">
     <value xml:space="preserve">Reset gebruiksvoorwaarden</value>
@@ -187,10 +187,10 @@
     <value xml:space="preserve">Afbeelding</value>
   </data>
   <data name="DefaultLanguage.Text" lastModified="2016-12-01 02:02:20">
-    <value xml:space="preserve">*Opmerking: Deze taal is de systeem standaard</value>
+    <value xml:space="preserve">*Opmerking: Deze taal is de systeemstandaard</value>
   </data>
   <data name="DefaultValue.Text" lastModified="2016-12-01 02:02:20">
-    <value xml:space="preserve">Standaard waarde</value>
+    <value xml:space="preserve">Standaardwaarde</value>
   </data>
   <data name="DefaultVisibility.Header" lastModified="2016-12-01 02:02:20">
     <value xml:space="preserve">Standaard zichtbaarheid</value>
@@ -208,7 +208,7 @@
     <value xml:space="preserve">Vink dit vakje aan om de geselecteerde taal te detecteren op de browser van de gebruiker en zet de site om naar deze taal.</value>
   </data>
   <data name="detectBrowserLable.Text" lastModified="2016-12-01 03:06:28">
-    <value xml:space="preserve">Inschakelen browser taal detectie</value>
+    <value xml:space="preserve">Inschakelen browser taaldetectie</value>
   </data>
   <data name="DisableLanguageWarning.Text" lastModified="2016-12-01 03:06:28">
     <value xml:space="preserve">Weet u zeker dat u de taal wilt uitschakelen {0}?</value>
@@ -223,7 +223,7 @@
     <value xml:space="preserve">Sleep een bestand hierheen</value>
   </data>
   <data name="DuplicateAlias.Text" lastModified="2016-12-01 03:06:28">
-    <value xml:space="preserve">De site alias die u heeft ingegeven bestaat al. Kies een ander site alias.</value>
+    <value xml:space="preserve">De sitealias die u heeft ingegeven bestaat al. Kies een ander sitealias.</value>
   </data>
   <data name="DuplicateEntries.Text" lastModified="2016-12-01 03:06:28">
     <value xml:space="preserve">Bestanden met dedupliceerde entries:</value>
@@ -295,7 +295,7 @@
     <value xml:space="preserve">Goedkeuring voor de voorwaarden  is gereset</value>
   </data>
   <data name="GdprResetTerms.Confirm">
-    <value xml:space="preserve">Wilt u de goedkeuring van alle  gebruikers resetten, en alle gebruikers forceren om opnieuw akkoord te gaan met de voorwaarden?</value>
+    <value xml:space="preserve">Wilt u de goedkeuring van alle gebruikers resetten en alle gebruikers forceren om opnieuw akkoord te gaan met de voorwaarden?</value>
   </data>
   <data name="Global.Text" lastModified="2016-12-01 05:18:09">
     <value xml:space="preserve">Globaal</value>
@@ -307,16 +307,16 @@
     <value xml:space="preserve">Globale rollen</value>
   </data>
   <data name="GlobalSetting.Text" lastModified="2016-12-01 05:18:09">
-    <value xml:space="preserve">Dit is een globale instelling. Wijzigingen aan deze instelling zullen invloed hebben op al uw websites.</value>
+    <value xml:space="preserve">Dit is een globale instelling. Wijzigingen aan deze instelling zullen invloed hebben op al je sites.</value>
   </data>
   <data name="HighlightPendingTranslations.Text" lastModified="2016-12-01 06:23:41">
     <value xml:space="preserve">Markeer vertalingen die nog in afwachting zijn.</value>
   </data>
   <data name="Host.Text" lastModified="2018-07-24 14:01:23">
-    <value xml:space="preserve">Gastheer</value>
+    <value xml:space="preserve">Applicatiebeheerder</value>
   </data>
   <data name="HostSkins.Text" lastModified="2018-07-24 14:01:23">
-    <value xml:space="preserve">Gastheer thema's</value>
+    <value xml:space="preserve">Applicatiebeheerderthema's</value>
   </data>
   <data name="Hours.Text">
     <value xml:space="preserve">Uren</value>
@@ -325,7 +325,7 @@
     <value xml:space="preserve">Html editor beheer</value>
   </data>
   <data name="HtmlEditorWarning.Text" lastModified="2016-12-01 06:23:41">
-    <value xml:space="preserve">Html editor beheer staat u toe om eenvoudig uw site's HTML te wijzigen of de instellingen te configureren. </value>
+    <value xml:space="preserve">Html editor beheer stelt je in staat om eenvoudig de HTML in de site te wijzigen of de instellingen te configureren. </value>
   </data>
   <data name="IgnoreWords.Text" lastModified="2016-12-01 06:23:41">
     <value xml:space="preserve">Negeer woorden</value>
@@ -334,19 +334,19 @@
     <value xml:space="preserve">Negeer woorden zijn toegevoegd.</value>
   </data>
   <data name="IgnoreWordsDeletedWarning.Text" lastModified="2016-12-01 06:23:41">
-    <value xml:space="preserve">Weet u zeker dat u de genegeerde woorden wilt verwijderen?</value>
+    <value xml:space="preserve">Weet je zeker dat je de genegeerde woorden wilt verwijderen?</value>
   </data>
   <data name="IgnoreWordsDeleteError.Text" lastModified="2016-12-01 06:23:41">
     <value xml:space="preserve">Kon genegeerde woorden niet verwijderen. Probeer later nog eens.</value>
   </data>
   <data name="IgnoreWordsDeleteSuccess.Text" lastModified="2016-12-01 06:23:41">
-    <value xml:space="preserve">Negeer woorden zijn verwijderd.</value>
+    <value xml:space="preserve">Negeerwoorden zijn verwijderd.</value>
   </data>
   <data name="IgnoreWordsUpdateSuccess.Text" lastModified="2016-12-01 06:23:41">
-    <value xml:space="preserve">Negeer woorden is bijgewerkt</value>
+    <value xml:space="preserve">Negeerwoorden is bijgewerkt</value>
   </data>
   <data name="InvalidAlias.Text" lastModified="2016-12-01 06:23:41">
-    <value xml:space="preserve">De site alias is ongeldig. Kies een ander Site Alias.</value>
+    <value xml:space="preserve">De sitealias is ongeldig. Kies een andere sitealias.</value>
   </data>
   <data name="InvalidEntryText.Text" lastModified="2018-07-24 14:01:23">
     <value xml:space="preserve">Tekst is vereist.</value>
@@ -355,7 +355,7 @@
     <value xml:space="preserve">Waarde is vereist.</value>
   </data>
   <data name="InvalidLocale.ErrorMessage" lastModified="2016-12-01 06:23:41">
-    <value xml:space="preserve">Huidige site ondersteunt deze locale niet ({0}).</value>
+    <value xml:space="preserve">Huidige site ondersteunt deze locale (taal) niet ({0}).</value>
   </data>
   <data name="Language.Header" lastModified="2016-12-01 06:23:41">
     <value xml:space="preserve">TAAL</value>
@@ -367,7 +367,7 @@
     <value xml:space="preserve">De taal is toegevoegd.</value>
   </data>
   <data name="LanguageEditor.Header" lastModified="2016-12-01 06:23:41">
-    <value xml:space="preserve">Vertaal bron bestanden</value>
+    <value xml:space="preserve">Vertaal bronbestanden</value>
   </data>
   <data name="languageLabel.Help" lastModified="2016-12-01 06:23:41">
     <value xml:space="preserve">Selecteer de taal.</value>
@@ -376,7 +376,7 @@
     <value xml:space="preserve">Taal</value>
   </data>
   <data name="LanguagePackCreateFailure.Text" lastModified="2016-12-01 07:28:10">
-    <value xml:space="preserve">U moet bron bestanden maken voordat u een taalpakket kunt maken.</value>
+    <value xml:space="preserve">U moet bronbestanden maken voordat u een taalpakket kunt maken.</value>
   </data>
   <data name="LanguagePackCreateSuccess.Text" lastModified="2016-12-01 07:28:10">
     <value xml:space="preserve">De taalpakketten zijn gemaakt en kunnen gevonden worden in {0}/Install/Language map.</value>
@@ -424,58 +424,58 @@
     <value xml:space="preserve">Beschrijving versnelling</value>
   </data>
   <data name="lblIndexWordMaxLength.Help" lastModified="2016-12-01 10:04:53">
-    <value xml:space="preserve">Vul maximum woord maat in die gebruikt mag worden in de Index.</value>
+    <value xml:space="preserve">Vul maximum woordlengte in die gebruikt mag worden in de Index.</value>
   </data>
   <data name="lblIndexWordMaxLength.Text" lastModified="2016-12-01 08:52:31">
-    <value xml:space="preserve">Maximum woord lengte</value>
+    <value xml:space="preserve">Maximum woordlengte</value>
   </data>
   <data name="lblIndexWordMinLength.Help" lastModified="2016-12-01 10:04:53">
-    <value xml:space="preserve">Vul minimum woord maat in die gebruikt mag worden in de Index.</value>
+    <value xml:space="preserve">Vul minimum woordlengte in die gebruikt mag worden in de Index.</value>
   </data>
   <data name="lblIndexWordMinLength.Text" lastModified="2016-12-01 10:04:53">
-    <value xml:space="preserve">Minimum woord lengte</value>
+    <value xml:space="preserve">Minimum woordlengte</value>
   </data>
   <data name="lblName.Help" lastModified="2016-12-01 10:04:53">
-    <value xml:space="preserve">De naam van het gegenereerde bron pakket kan worden aangepast. Let op dat een deel van de naam vast staat.</value>
+    <value xml:space="preserve">De naam van het gegenereerde bronpakket kan worden aangepast. Let op dat een deel van de naam vast staat.</value>
   </data>
   <data name="lblName.Text" lastModified="2016-12-01 10:04:53">
-    <value xml:space="preserve">Bron Pakket Naam</value>
+    <value xml:space="preserve">Naam bronpakket</value>
   </data>
   <data name="lbLocale.Help" lastModified="2016-12-01 10:04:53">
-    <value xml:space="preserve">Selecteer de Locale waar u het taalpakket voor wilt genereren.</value>
+    <value xml:space="preserve">Selecteer de Locale (taal) waar u het taalpakket voor wilt genereren.</value>
   </data>
   <data name="lbLocale.Text" lastModified="2016-12-01 10:04:53">
-    <value xml:space="preserve">Bron taal</value>
+    <value xml:space="preserve">Brontaal</value>
   </data>
   <data name="lblSearchIndexActiveDocuments.Help" lastModified="2016-12-01 10:04:53">
-    <value xml:space="preserve">Het aantal actieve documenten in zoek index bestanden</value>
+    <value xml:space="preserve">Het aantal actieve documenten in zoekindexbestanden</value>
   </data>
   <data name="lblSearchIndexActiveDocuments.Text" lastModified="2016-12-01 10:04:53">
     <value xml:space="preserve">Actieve documenten</value>
   </data>
   <data name="lblSearchIndexDbSize.Help" lastModified="2016-12-01 12:14:06">
-    <value xml:space="preserve">De totale grootte van zoek in index database bestanden</value>
+    <value xml:space="preserve">De totale grootte van zoek in indexdatabasebestanden</value>
   </data>
   <data name="lblSearchIndexDbSize.Text" lastModified="2016-12-01 12:14:06">
-    <value xml:space="preserve">Zoek Index grootte</value>
+    <value xml:space="preserve">Zoekindexgrootte</value>
   </data>
   <data name="lblSearchIndexDeletedDocuments.Help" lastModified="2016-12-01 12:14:06">
-    <value xml:space="preserve">Het aantal verwijderde documenten in zoek index bestanden</value>
+    <value xml:space="preserve">Het aantal verwijderde documenten in zoekindexbestanden</value>
   </data>
   <data name="lblSearchIndexDeletedDocuments.Text" lastModified="2016-12-01 12:14:06">
     <value xml:space="preserve">Verwijderde documenten</value>
   </data>
   <data name="lblSearchIndexLastModifiedOn.Help" lastModified="2016-12-01 12:14:06">
-    <value xml:space="preserve">Laatst aangepaste tijd van zoek index bestanden</value>
+    <value xml:space="preserve">Laatst aangepaste tijd van zoekindexbestanden</value>
   </data>
   <data name="lblSearchIndexLastModifiedOn.Text" lastModified="2016-12-01 12:14:06">
     <value xml:space="preserve">Laatste aangepast op</value>
   </data>
   <data name="lblSearchIndexPath.Help" lastModified="2016-12-01 12:14:06">
-    <value xml:space="preserve">Locatie waar Zoek Index is opgeslagen. Deze locatie kan handmatig worden veranderd door het maken van een Host Instelling "Search_UIndexFolder" in database. Het wordt geadviseerd om de App Pool te stoppen voordat deze wijziging wordt gemaakt. Content uit de oude map moet handmatig worden gekopieerd naar de nieuwe locatie of een handmatige her-indexering moet worden aangeroepen.</value>
+    <value xml:space="preserve">Locatie waar zoekindex is opgeslagen. Deze locatie kan handmatig worden veranderd door het maken van een Applicatieinstelling "Search_UIndexFolder" in database. Het wordt geadviseerd om de App Pool te stoppen voordat deze wijziging wordt gemaakt. Content uit de oude map moet handmatig worden gekopieerd naar de nieuwe locatie of een handmatige her-indexering moet worden aangeroepen.</value>
   </data>
   <data name="lblSearchIndexPath.Text" lastModified="2016-12-01 13:22:55">
-    <value xml:space="preserve">Zoek Index pad</value>
+    <value xml:space="preserve">Zoekindexpad</value>
   </data>
   <data name="lblTagBoost.Help" lastModified="2016-12-01 13:22:55">
     <value xml:space="preserve">Tag versnellingswaarde is geassocieerd met de tag doordat het niet geïndexeerd is. Hoe hoger de waarde, hoe relevanter het veld zal zijn voor het bepalen van de volgorde van de resultaten.</value>
@@ -490,10 +490,10 @@
     <value xml:space="preserve">Titel versnelling</value>
   </data>
   <data name="lblType.Help" lastModified="2016-12-01 13:22:55">
-    <value xml:space="preserve">Selecteer het type bron pakket om te genereren.</value>
+    <value xml:space="preserve">Selecteer het type bronpakket om te genereren.</value>
   </data>
   <data name="lblType.Text" lastModified="2016-12-01 13:22:55">
-    <value xml:space="preserve">Bron Pakket Type</value>
+    <value xml:space="preserve">Bronpakkettype</value>
   </data>
   <data name="LinkButton.Text" lastModified="2018-07-24 14:01:23">
     <value xml:space="preserve">Vul URL-link in</value>
@@ -571,10 +571,10 @@
     <value xml:space="preserve">Bestanden met ontbrekende Entries:</value>
   </data>
   <data name="MissingFiles.Text" lastModified="2016-12-01 14:29:45">
-    <value xml:space="preserve">Ontbrekende Bron Bestanden:</value>
+    <value xml:space="preserve">Ontbrekende bronbestanden:</value>
   </data>
   <data name="Mode.HelpText" lastModified="2016-12-01 14:29:45">
-    <value xml:space="preserve">selecteer Systeem om basis bestand te bewerken voor een bepaalde taal; Host zal een aangepaste versie maken van het gelokaliseerde bestand voor deze installatie.</value>
+    <value xml:space="preserve">selecteer Systeem om basis bestand te bewerken voor een bepaalde taal; Applicatiebeheerder zal een aangepaste versie maken van het gelokaliseerde bestand voor deze installatie.</value>
   </data>
   <data name="Mode.Label" lastModified="2016-12-01 10:04:53">
     <value xml:space="preserve">Modus</value>
@@ -625,7 +625,7 @@
     <value xml:space="preserve">Uit</value>
   </data>
   <data name="OldFiles.Text" lastModified="2016-12-01 10:04:53">
-    <value xml:space="preserve">Bestanden ouder dan Systeem standaard:</value>
+    <value xml:space="preserve">Bestanden ouder dan systeemstandaard:</value>
   </data>
   <data name="OnlyImages.Text">
     <value xml:space="preserve">Alleen afbeeldingen</value>
@@ -634,7 +634,7 @@
     <value xml:space="preserve">Open HTML Editor Beheer</value>
   </data>
   <data name="PageOutputSettings.Text" lastModified="2016-12-01 10:04:53">
-    <value xml:space="preserve">Pagina Output Instellingen</value>
+    <value xml:space="preserve">Paginaoutputinstellingen</value>
   </data>
   <data name="Pages.Header" lastModified="2016-12-01 10:04:53">
     <value xml:space="preserve">Pagina's</value>
@@ -649,19 +649,19 @@
     <value xml:space="preserve">Pagina's te vertalen</value>
   </data>
   <data name="pl404TabId.Help" lastModified="2016-12-01 10:04:53">
-    <value xml:space="preserve">De 404 fout pagina voor uw site. Gebruikers zullen worden doorgestuurd naar deze pagina als de URL waar zij naar navigeren resulteert met een "Pagina Niet Gevonden" fout.</value>
+    <value xml:space="preserve">De 404 fout pagina voor je site. Gebruikers zullen worden doorgestuurd naar deze pagina als de URL waar zij naar navigeren resulteert met een "Pagina Niet Gevonden" fout.</value>
   </data>
   <data name="pl404TabId.Text" lastModified="2016-12-01 10:04:53">
     <value xml:space="preserve">404 fout pagina</value>
   </data>
   <data name="pl500TabId.Help" lastModified="2016-12-01 10:04:53">
-    <value xml:space="preserve">De 500 fout pagina van uw site.  Gebruikers zullen worden doorgestuurd naar deze pagina als de URL waar zij naar navigeren resulteert in een onbekende fout.</value>
+    <value xml:space="preserve">De 500 fout pagina van je site.  Gebruikers zullen worden doorgestuurd naar deze pagina als de URL waar zij naar navigeren resulteert in een onbekende fout.</value>
   </data>
   <data name="pl500TabId.Text" lastModified="2016-12-01 10:04:53">
     <value xml:space="preserve">500 fout pagina</value>
   </data>
   <data name="plAllowedExtensionsWhitelist.Help" lastModified="2020-05-10 15:58:03">
-    <value xml:space="preserve">Een lijst van extensies, gescheiden door een komma, van soorten bestanden die een gebruiker mag uploaden.</value>
+    <value xml:space="preserve">Een lijst van bestandsextensies, gescheiden door een komma, van soorten bestanden die een gebruiker mag uploaden.</value>
   </data>
   <data name="plAllowedExtensionsWhitelist.Text">
     <value xml:space="preserve">Toegestane bestandsextensies</value>
@@ -691,7 +691,7 @@
     <value xml:space="preserve">Beschrijving</value>
   </data>
   <data name="plDisablePrivateMessage.Help" lastModified="2016-12-01 16:47:58">
-    <value xml:space="preserve">Selecteer om te voorkomen dat gebruikers berichten verzenden naar specifieke gebruikers of groepen. Deze beperking gaat niet op voor Beheerders of Superusers.</value>
+    <value xml:space="preserve">Selecteer om te voorkomen dat gebruikers berichten verzenden naar specifieke gebruikers of groepen. Deze beperking gaat niet op voor sitebeheerders of applicatiebeheerders.</value>
   </data>
   <data name="plDisablePrivateMessage.Text" lastModified="2016-12-01 16:47:58">
     <value xml:space="preserve">Uitschakelen prive berichten</value>
@@ -709,7 +709,7 @@
     <value xml:space="preserve">Favicon</value>
   </data>
   <data name="plFooterText.Help" lastModified="2016-12-01 17:51:19">
-    <value xml:space="preserve">Indien ondersteund door het thema, zal deze Copyright tekst worden weergegeven op uw site.</value>
+    <value xml:space="preserve">Indien ondersteund door het thema, zal deze Copyright tekst worden weergegeven op je site.</value>
   </data>
   <data name="plFooterText.Text" lastModified="2016-12-01 17:51:19">
     <value xml:space="preserve">Copyright</value>
@@ -727,7 +727,7 @@
     <value xml:space="preserve">Site map</value>
   </data>
   <data name="plHomeTabId.Help" lastModified="2016-12-01 17:51:19">
-    <value xml:space="preserve">De homepagina van uw site.</value>
+    <value xml:space="preserve">De homepagina van je site.</value>
   </data>
   <data name="plHomeTabId.Text" lastModified="2016-12-01 17:51:19">
     <value xml:space="preserve">Homepagina</value>
@@ -751,7 +751,7 @@
     <value xml:space="preserve">Bijlagen insluiten bij uitgaande mail</value>
   </data>
   <data name="plKeyWords.Help" lastModified="2016-12-01 19:54:25">
-    <value xml:space="preserve">Vul enkele trefwoorden in voor uw site (gescheiden door komma's). Deze trefwoorden worden gebruikt door zoekmachines om te helpen de site te indexeren. </value>
+    <value xml:space="preserve">Vul enkele trefwoorden in voor je site (gescheiden door komma's). Deze trefwoorden worden gebruikt door zoekmachines om te helpen de site te indexeren. </value>
   </data>
   <data name="plKeyWords.Text" lastModified="2016-12-01 21:00:07">
     <value xml:space="preserve">Trefwoorden</value>
@@ -763,7 +763,7 @@
     <value xml:space="preserve">Kies taal</value>
   </data>
   <data name="plLoginTabId.Help" lastModified="2016-12-01 21:00:07">
-    <value xml:space="preserve">De inlog pagina voor uw site. Enkel pagina's met de Account Inlog Module worden getoond. </value>
+    <value xml:space="preserve">De inlogpagina voor je site. Enkel pagina's met de Account Inlog Module worden getoond. </value>
   </data>
   <data name="plLoginTabId.Text" lastModified="2016-12-01 21:00:07">
     <value xml:space="preserve">Inlogpagina</value>
@@ -772,7 +772,7 @@
     <value xml:space="preserve">Afhankelijk van het gekozen thema zal deze afbeelding verschijnen in de linker bovenhoek van de pagina.</value>
   </data>
   <data name="plLogo.Text" lastModified="2018-07-24 14:01:23">
-    <value xml:space="preserve">Website logo</value>
+    <value xml:space="preserve">Sitelogo</value>
   </data>
   <data name="plLogoIcon.Text" lastModified="2016-12-01 21:00:07">
     <value xml:space="preserve">LOGO EN ICONEN</value>
@@ -784,7 +784,7 @@
     <value xml:space="preserve">Bijlagen toestaan</value>
   </data>
   <data name="plMsgProfanityFilters.Help" lastModified="2016-12-01 22:04:31">
-    <value xml:space="preserve">Inschakelen om automatisch ongepaste woorden en zinnen te converteren naar iets gelijkaardigs. De lijst wordt beheerd op de Host-&amp;gt;List-&amp;gt;ProfanityFilters en de Admin-&amp;gt;List-&amp;gt;ProfanityFilters pagina's.</value>
+    <value xml:space="preserve">Inschakelen om automatisch ongepaste woorden en zinnen te converteren naar iets gelijkaardigs. De lijst wordt beheerd op de Applicatiebeheer-&amp;gt;List-&amp;gt;ProfanityFilters en de Site-&amp;gt;List-&amp;gt;ProfanityFilters pagina's.</value>
   </data>
   <data name="plMsgProfanityFilters.Text" lastModified="2016-12-01 22:04:31">
     <value xml:space="preserve">Inschakelen ongepaste woorden filters</value>
@@ -795,14 +795,14 @@
   <data name="plMsgRecipientLimit.Text" lastModified="2016-12-01 23:11:11">
     <value xml:space="preserve">Ontvangers limiet</value>
   </data>
-  <data name="plMsgSendEmail.Help" lastModified="2016-12-01 23:11:11">
+  <data name="plMsgSende-mail.Help" lastModified="2016-12-01 23:11:11">
     <value xml:space="preserve">Selecteer als e-mails moeten worden verzonden naar ontvangers voor elk bericht en notificatie.</value>
   </data>
-  <data name="plMsgSendEmail.Text" lastModified="2016-12-01 23:11:11">
+  <data name="plMsgSende-mail.Text" lastModified="2016-12-01 23:11:11">
     <value xml:space="preserve">Verzenden e-mails</value>
   </data>
   <data name="plMsgThrottlingInterval.Help" lastModified="2016-12-01 23:11:11">
-    <value xml:space="preserve">Vul het aantal minuten in waarna een gebruiker een volgend bericht kan versturen. Nul betekent geen beperkingen. Deze beperking gaat niet op voor beheerders of Superusers.</value>
+    <value xml:space="preserve">Vul het aantal minuten in waarna een gebruiker een volgend bericht kan versturen. Nul betekent geen beperkingen. Deze beperking gaat niet op voor sitebeheerders of applicatiebeheerders.</value>
   </data>
   <data name="plMsgThrottlingInterval.Text" lastModified="2016-12-01 23:11:11">
     <value xml:space="preserve">Verzend interval in minuten</value>
@@ -817,7 +817,7 @@
     <value xml:space="preserve">Vul een site titel in. Deze titel zal getoond worden in de webbrowser Title Bar en zal een tooltip zijn op het site Logo.</value>
   </data>
   <data name="plPortalName.Text" lastModified="2016-12-01 23:11:11">
-    <value xml:space="preserve">Site Titel</value>
+    <value xml:space="preserve">Sitetitel</value>
   </data>
   <data name="plPrivacyTabId.Help" lastModified="2020-05-10 15:58:03">
     <value xml:space="preserve">Dit is de pagina waarnaar een gebruiker door doorgestuurd (redirect) wanneer jij op de link voor Privacy klikt. Indien dit niet is ingevuld, wordt de tandaard privacy tekst getoond.</value>
@@ -838,25 +838,25 @@
     <value xml:space="preserve">Veld naam</value>
   </data>
   <data name="plPropertyRequired.Help" lastModified="2016-12-02 00:16:33">
-    <value xml:space="preserve">Vul de fout melding in die moet worden weergegeven voor dit veld wanneer de entiteit vereist is, maar niet aanwezig.</value>
+    <value xml:space="preserve">Vul de foutmelding in die moet worden weergegeven voor dit veld wanneer de entiteit vereist is, maar niet aanwezig.</value>
   </data>
   <data name="plPropertyRequired.Text" lastModified="2016-12-02 00:16:33">
-    <value xml:space="preserve">Vereist Fout Melding</value>
+    <value xml:space="preserve">Vereist foutmelding</value>
   </data>
   <data name="plPropertyValidation.Help" lastModified="2016-12-02 00:16:33">
-    <value xml:space="preserve">Vul de fout melding in die moet worden weergegeven voor dit veld wanneer de reguliere expressie validatie van de entiteit mislukt.</value>
+    <value xml:space="preserve">Vul de foutmelding in die moet worden weergegeven voor dit veld wanneer de reguliere expressie validatie van de entiteit mislukt.</value>
   </data>
   <data name="plPropertyValidation.Text" lastModified="2016-12-02 00:16:33">
-    <value xml:space="preserve">Validatie Fout Melding</value>
+    <value xml:space="preserve">Validatie foutmelding</value>
   </data>
   <data name="plRegisterTabId.Help" lastModified="2016-12-02 00:16:33">
-    <value xml:space="preserve">De gebruikersregistratiepagina voor uw site.</value>
+    <value xml:space="preserve">De gebruikersregistratiepagina voor je site.</value>
   </data>
   <data name="plRegisterTabId.Text" lastModified="2016-12-02 00:16:33">
     <value xml:space="preserve">Registratiepagina</value>
   </data>
   <data name="plSearchTabId.Help" lastModified="2016-12-02 00:16:33">
-    <value xml:space="preserve">De zoekresultatenpagina voor uw site.</value>
+    <value xml:space="preserve">De zoekresultatenpagina voor je site.</value>
   </data>
   <data name="plSearchTabId.Text" lastModified="2016-12-02 00:16:33">
     <value xml:space="preserve">Zoekresultatenpagina</value>
@@ -868,7 +868,7 @@
     <value xml:space="preserve">Toon cookiemelding</value>
   </data>
   <data name="plSplashTabId.Help" lastModified="2016-12-02 01:19:22">
-    <value xml:space="preserve">De splashpagina voor uw site.</value>
+    <value xml:space="preserve">De splashpagina voor je site.</value>
   </data>
   <data name="plSplashTabId.Text" lastModified="2016-12-02 01:19:22">
     <value xml:space="preserve">Splashpagina</value>
@@ -898,7 +898,7 @@
     <value xml:space="preserve">Inschakelen taal parameters in URL's</value>
   </data>
   <data name="plUserTabId.Help" lastModified="2016-12-02 01:19:22">
-    <value xml:space="preserve">Het gebruikers profiel voor uw site.</value>
+    <value xml:space="preserve">Het gebruikers profiel voor je site.</value>
   </data>
   <data name="plUserTabId.Text" lastModified="2016-12-02 01:19:22">
     <value xml:space="preserve">Gebruikersprofielpagina</value>
@@ -922,25 +922,25 @@
     <value xml:space="preserve">PRIMAIR</value>
   </data>
   <data name="PrivacyCommunicationSettings.Text">
-    <value xml:space="preserve">Communicatie instellingen</value>
+    <value xml:space="preserve">Communicatie-instellingen</value>
   </data>
   <data name="PrivacyCookieConsentSettings.Text">
-    <value xml:space="preserve">Cookiemelding instellingen</value>
+    <value xml:space="preserve">Cookiemelding-instellingen</value>
   </data>
   <data name="ProcessingPage.Text" lastModified="2016-12-02 03:41:46">
     <value xml:space="preserve">{0}: Pagina {1} van {2} - {3}</value>
   </data>
   <data name="Profile_DefaultVisibility.Help" lastModified="2016-12-02 03:41:46">
-    <value xml:space="preserve">Selecteer standaard profiel zichtbaarheid modus voor gebruikersprofiel.</value>
+    <value xml:space="preserve">Selecteer standaard profielzichtbaarheidmodus voor gebruikersprofiel.</value>
   </data>
   <data name="Profile_DefaultVisibility.Text" lastModified="2016-12-02 03:41:46">
-    <value xml:space="preserve">Standaard profiel zichtbaarheid modus</value>
+    <value xml:space="preserve">Standaard profielzichtbaarheidmodus</value>
   </data>
   <data name="Profile_DisplayVisibility.Help" lastModified="2016-12-02 03:41:46">
-    <value xml:space="preserve">Vink dit vakje aan om de zichtbaarheid van het profiel weer te geven op de gebruikers Profiel pagina.</value>
+    <value xml:space="preserve">Vink dit vakje aan om de zichtbaarheid van het profiel weer te geven op de gebruikersprofielpagina.</value>
   </data>
   <data name="Profile_DisplayVisibility.Text" lastModified="2016-12-02 03:41:46">
-    <value xml:space="preserve">Weergeven profiel zichtbaarheid</value>
+    <value xml:space="preserve">Weergeven profielzichtbaarheid</value>
   </data>
   <data name="ProfilePropertyDefinition_DataType.Help" lastModified="2016-12-02 03:41:46">
     <value xml:space="preserve">Selecteer data type voor dit veld</value>
@@ -958,7 +958,7 @@
     <value xml:space="preserve">Standaard waarde</value>
   </data>
   <data name="ProfilePropertyDefinition_DefaultVisibility.Help" lastModified="2016-12-02 03:41:46">
-    <value xml:space="preserve">U kunt de standaard zichtbaarheid van de profiel entiteit instellen. Dit is de initiele waarde van de zichtbaarheid en wordt toegepast als de gebruiker het niet aanpast bij het bewerken van het profiel.</value>
+    <value xml:space="preserve">U kunt de standaard zichtbaarheid van de profielentiteit instellen. Dit is de initiele waarde van de zichtbaarheid en wordt toegepast als de gebruiker het niet aanpast bij het bewerken van het profiel.</value>
   </data>
   <data name="ProfilePropertyDefinition_DefaultVisibility.Text" lastModified="2016-12-02 03:41:46">
     <value xml:space="preserve">Standaard zichtbaarheid</value>
@@ -991,7 +991,7 @@
     <value xml:space="preserve">Veldnaam</value>
   </data>
   <data name="ProfilePropertyDefinition_ReadOnly.Help" lastModified="2016-12-02 04:47:50">
-    <value xml:space="preserve">Alleen lezen profielvelden kunnen worden bewerkt door de beheerder, maar zijn enkel lezen voor de gebruiker.</value>
+    <value xml:space="preserve">Alleen lezen profielvelden kunnen worden bewerkt door de sitebeheerder, maar zijn enkel lezen voor de gebruiker.</value>
   </data>
   <data name="ProfilePropertyDefinition_ReadOnly.Text" lastModified="2016-12-02 04:47:50">
     <value xml:space="preserve">Alleen lezen</value>
@@ -1054,31 +1054,31 @@
     <value xml:space="preserve">Her-indexeer content</value>
   </data>
   <data name="ReindexHostContent.Text" lastModified="2016-12-02 07:57:56">
-    <value xml:space="preserve">Her-indexeer Host Content</value>
+    <value xml:space="preserve">Her-indexeer Applicatiecontent</value>
   </data>
   <data name="Required.Header" lastModified="2016-12-02 07:57:56">
     <value xml:space="preserve">Vereist</value>
   </data>
   <data name="RequiredTextBox.Text" lastModified="2016-12-02 07:57:56">
-    <value xml:space="preserve">De vereiste lengte moet een integer zijn, groter dan of gelijk aan 0. Als je een TekstBox veld gebruikt, dan moet de vereiste lengte groter zijn dan 0.</value>
+    <value xml:space="preserve">De vereiste lengte moet een geheel getal zijn, groter dan of gelijk aan 0. Als je een TekstBox veld gebruikt, dan moet de vereiste lengte groter zijn dan 0.</value>
   </data>
   <data name="Reset.Text">
     <value xml:space="preserve">Reset</value>
   </data>
   <data name="ResourceFile.Text" lastModified="2016-12-02 08:59:00">
-    <value xml:space="preserve">Bron bestand</value>
+    <value xml:space="preserve">Bronbestand</value>
   </data>
   <data name="ResourceFileVerifier.Text" lastModified="2016-12-02 08:59:00">
-    <value xml:space="preserve">Bron bestand Controleur</value>
+    <value xml:space="preserve">Bronbestand Controleur</value>
   </data>
   <data name="ResourceFolder.Text" lastModified="2016-12-02 08:59:00">
-    <value xml:space="preserve">Bron map</value>
+    <value xml:space="preserve">Bronmap</value>
   </data>
   <data name="ResourceName.Text" lastModified="2016-12-02 08:59:00">
-    <value xml:space="preserve">Bron naam</value>
+    <value xml:space="preserve">Bronnaam</value>
   </data>
   <data name="ResourceUpdated.Text" lastModified="2016-12-02 08:59:00">
-    <value xml:space="preserve">Bron bestand is bijgewerkt.</value>
+    <value xml:space="preserve">Bronbestand is bijgewerkt.</value>
   </data>
   <data name="RoleName.Header" lastModified="2016-12-02 08:59:00">
     <value xml:space="preserve">ROL</value>
@@ -1090,7 +1090,7 @@
     <value xml:space="preserve">Weet u zeker dat u de wijzigingen wilt opslaan?</value>
   </data>
   <data name="SaveOrCancelWarning.Text" lastModified="2016-12-02 10:01:27">
-    <value xml:space="preserve">U heeft onopgeslagen wijzigingen. Sla op of annuleer uw wijzigingen eerst.</value>
+    <value xml:space="preserve">U heeft onopgeslagen wijzigingen. Sla op of annuleer je wijzigingen eerst.</value>
   </data>
   <data name="SaveTranslationsToFile.Text" lastModified="2016-12-02 10:01:27">
     <value xml:space="preserve">Opslaan vertalingen naar bestand.</value>
@@ -1111,7 +1111,7 @@
     <value xml:space="preserve">SELECTEREN</value>
   </data>
   <data name="SelectModules.Text" lastModified="2016-12-02 10:01:27">
-    <value xml:space="preserve">Insluiten modules in bron pakket</value>
+    <value xml:space="preserve">Insluiten modules in bronpakket</value>
   </data>
   <data name="SelectResourcePlaceholder.Text" lastModified="2016-12-02 10:01:27">
     <value xml:space="preserve">-- Selecteer --</value>
@@ -1123,28 +1123,28 @@
     <value xml:space="preserve">Kon instellingen niet updaten. Probeer later nog eens.</value>
   </data>
   <data name="SettingsRestoreWarning.Text" lastModified="2016-12-02 11:07:36">
-    <value xml:space="preserve">Weet u zeker dat u uw wijzigingen wilt annuleren?</value>
+    <value xml:space="preserve">Weet u zeker dat u je wijzigingen wilt annuleren?</value>
   </data>
   <data name="SettingsUpdateSuccess" lastModified="2016-12-02 11:07:36">
     <value xml:space="preserve">Instellingen zijn bijgewerkt.</value>
   </data>
   <data name="SiteAlias.Text" lastModified="2018-07-24 14:01:23">
-    <value xml:space="preserve">Website alias</value>
+    <value xml:space="preserve">Sitealias</value>
   </data>
   <data name="SiteAliasCreateSuccess.Text" lastModified="2018-07-24 14:01:23">
-    <value xml:space="preserve">De website alias is toegevoegd.</value>
+    <value xml:space="preserve">De Sitealias is toegevoegd.</value>
   </data>
   <data name="SiteAliasDeletedWarning.Text" lastModified="2016-12-02 11:07:36">
-    <value xml:space="preserve">Weet u zeker dat u de site alias wilt verwijderen?</value>
+    <value xml:space="preserve">Weet u zeker dat u de Sitealias wilt verwijderen?</value>
   </data>
   <data name="SiteAliasDeleteError.Text" lastModified="2016-12-02 11:07:36">
-    <value xml:space="preserve">Kon site alias niet verwijderen. Probeer later nog eens.</value>
+    <value xml:space="preserve">Kon Sitealias niet verwijderen. Probeer later nog eens.</value>
   </data>
   <data name="SiteAliasDeleteSuccess.Text" lastModified="2016-12-02 11:07:36">
-    <value xml:space="preserve">De site alias is verwijderd.</value>
+    <value xml:space="preserve">De Sitealias is verwijderd.</value>
   </data>
   <data name="SiteAliases.Text" lastModified="2016-12-02 11:07:36">
-    <value xml:space="preserve">SITE ALIASSEN</value>
+    <value xml:space="preserve">SITEALIASSEN</value>
   </data>
   <data name="SiteAliasUpdateSuccess.Text" lastModified="2016-12-02 11:07:36">
     <value xml:space="preserve">De site alias is bijgewerkt</value>
@@ -1165,46 +1165,46 @@
     <value xml:space="preserve">Synoniemen</value>
   </data>
   <data name="SynonymsGroup.Header" lastModified="2016-12-02 11:07:36">
-    <value xml:space="preserve">Synoniem groepen</value>
+    <value xml:space="preserve">Synoniemgroepen</value>
   </data>
   <data name="SynonymsGroupCreateSuccess.Text" lastModified="2016-12-02 11:07:36">
-    <value xml:space="preserve">De synoniem groep is toegevoegd.</value>
+    <value xml:space="preserve">De synoniemgroep is toegevoegd.</value>
   </data>
   <data name="SynonymsGroupDeletedWarning.Text" lastModified="2016-12-02 11:07:36">
-    <value xml:space="preserve">Weet u zeker dat u deze synoniemen groep wilt verwijderen?</value>
+    <value xml:space="preserve">Weet u zeker dat u deze synoniemengroep wilt verwijderen?</value>
   </data>
   <data name="SynonymsGroupDeleteError.Text" lastModified="2016-12-02 11:07:36">
-    <value xml:space="preserve">Kon synoniemen groep niet verwijderen. Probeer later nog eens.</value>
+    <value xml:space="preserve">Kon synoniemengroep niet verwijderen. Probeer later nog eens.</value>
   </data>
   <data name="SynonymsGroupDeleteSuccess.Text" lastModified="2016-12-02 11:07:36">
-    <value xml:space="preserve">De synoniemen groep is verwijderd.</value>
+    <value xml:space="preserve">De synoniemengroep is verwijderd.</value>
   </data>
   <data name="SynonymsGroupUpdateSuccess.Text" lastModified="2016-12-02 11:07:36">
-    <value xml:space="preserve">De synoniemen groep is verwijderd.</value>
+    <value xml:space="preserve">De synoniemengroep is verwijderd.</value>
   </data>
   <data name="SynonymsTagDuplicated.Text" lastModified="2016-12-02 11:07:36">
-    <value xml:space="preserve">Wordt al gebruikt in een andere synoniemen groep.</value>
+    <value xml:space="preserve">Wordt al gebruikt in een andere synoniemengroep.</value>
   </data>
   <data name="systemDefaultLabel.Help" lastModified="2016-12-02 11:07:36">
-    <value xml:space="preserve">De Systeem standaard Taal is de taal die de applicatie gebruikt als er geen andere taal beschikbaar is. Het is de ultieme terugval.</value>
+    <value xml:space="preserve">De Systeem standaardtaal is de taal die de applicatie gebruikt als er geen andere taal beschikbaar is. Het is de ultieme terugval.</value>
   </data>
   <data name="systemDefaultLabel.Text" lastModified="2016-12-02 05:49:27">
-    <value xml:space="preserve">Systeem standaard</value>
+    <value xml:space="preserve">Systeemstandaard</value>
   </data>
   <data name="TabBasicSettings.Text" lastModified="2016-12-02 05:49:27">
-    <value xml:space="preserve">Basis Instellingen</value>
+    <value xml:space="preserve">Basisinstellingen</value>
   </data>
   <data name="TabCrawling.Text" lastModified="2020-05-10 15:58:03">
     <value xml:space="preserve">Doorlopen</value>
   </data>
   <data name="TabDefaultPages.Text" lastModified="2016-12-02 05:49:27">
-    <value xml:space="preserve">Standaard pagina's</value>
+    <value xml:space="preserve">Standaardpagina's</value>
   </data>
   <data name="TabFileExtensions.Text" lastModified="2016-12-02 05:49:27">
     <value xml:space="preserve">Bestandsextenties</value>
   </data>
   <data name="TabIgnoreWords.Text" lastModified="2016-12-02 05:49:27">
-    <value xml:space="preserve">Negeer woorden</value>
+    <value xml:space="preserve">Negeerwoorden</value>
   </data>
   <data name="TabLanguage.Text" lastModified="2016-12-02 05:49:27">
     <value xml:space="preserve">Taal</value>
@@ -1222,19 +1222,19 @@
     <value xml:space="preserve">Zoeken</value>
   </data>
   <data name="TabSiteAliases.Text" lastModified="2018-07-24 14:01:23">
-    <value xml:space="preserve">Site Aliassen</value>
+    <value xml:space="preserve">Sitealiassen</value>
   </data>
   <data name="TabSiteBehavior.Text" lastModified="2018-07-24 14:01:23">
-    <value xml:space="preserve">Website gedrag</value>
+    <value xml:space="preserve">Sitegedrag</value>
   </data>
   <data name="TabSiteInfo.Text" lastModified="2018-07-24 14:01:23">
-    <value xml:space="preserve">Website informatie</value>
+    <value xml:space="preserve">Site-informatie</value>
   </data>
   <data name="TabSynonyms.Text" lastModified="2016-12-01 15:45:04">
     <value xml:space="preserve">Synoniemen</value>
   </data>
   <data name="TabUserProfiles.Text" lastModified="2016-12-01 15:45:04">
-    <value xml:space="preserve">Gebr. profiel</value>
+    <value xml:space="preserve">Gebruikersprofiel</value>
   </data>
   <data name="Template.Text" lastModified="2016-12-01 15:45:04">
     <value xml:space="preserve">Sjabloon</value>
@@ -1255,22 +1255,22 @@
     <value xml:space="preserve">VERTAALD</value>
   </data>
   <data name="TranslatePageContent.Text" lastModified="2016-12-01 15:45:04">
-    <value xml:space="preserve">Vertaal pagina content</value>
+    <value xml:space="preserve">Vertaal paginacontent</value>
   </data>
   <data name="TranslationProgressBarText.Text" lastModified="2016-12-01 15:45:04">
-    <value xml:space="preserve">[number] nieuwe pagina's worden gemaakt voor elke taal. Wacht totdat uw gelokaliseerde pagina's worden gegenereerd.</value>
+    <value xml:space="preserve">[number] nieuwe pagina's worden gemaakt voor elke taal. Wacht totdat je gelokaliseerde pagina's worden gegenereerd.</value>
   </data>
   <data name="Translators.Text" lastModified="2016-12-01 15:45:04">
     <value xml:space="preserve">VERTALERS</value>
   </data>
   <data name="translatorsLabel.Help" lastModified="2016-12-01 15:45:04">
-    <value xml:space="preserve">De geselecteerde rollen zullen expliciet Bewerk Rechten worden verleend aan alle nieuwe pagina's en gelokaliseerde modules voor deze taal.</value>
+    <value xml:space="preserve">De geselecteerde rollen zullen expliciet Bewerkrechten worden verleend aan alle nieuwe pagina's en gelokaliseerde modules voor deze taal.</value>
   </data>
   <data name="UnassignPrimary.Text" lastModified="2016-12-01 15:45:04">
     <value xml:space="preserve">Primaire alias uitschakelen</value>
   </data>
   <data name="UnPublishedAllTranslatedPages.Text">
-    <value xml:space="preserve">Pagina publicatie succesvol ongedaan gemaakt.</value>
+    <value xml:space="preserve">Paginapublicatie succesvol ongedaan gemaakt.</value>
   </data>
   <data name="UnpublishTranslatedPages.Text" lastModified="2016-12-01 15:45:04">
     <value xml:space="preserve">Depubliceer alle pagina's</value>
@@ -1303,16 +1303,16 @@
     <value xml:space="preserve">GEBRUIKER PROFIEL INSTELLINGEN</value>
   </data>
   <data name="valIndexWordMaxLengthRequired.Error" lastModified="2016-12-01 15:45:04">
-    <value xml:space="preserve">Maximum lengte van geïndexeerde woorden is vereist. Integer moet groter zijn dan de minimum lengte.</value>
+    <value xml:space="preserve">Maximumlengte van geïndexeerde woorden is vereist: een geheel getal groter dan de minimum lengte.</value>
   </data>
   <data name="valIndexWordMinLengthRequired.Error" lastModified="2016-12-01 15:45:04">
-    <value xml:space="preserve">Minimum lengte van geïndexeerde woorden is vereist.Integer moet groter zijn dan 0.</value>
+    <value xml:space="preserve">Minimumlengte van geïndexeerde woorden is vereist: een geheel getal groter dan 0.</value>
   </data>
   <data name="valName.ErrorMessage" lastModified="2016-12-01 15:45:04">
-    <value xml:space="preserve">Het bron pakket is vereist.</value>
+    <value xml:space="preserve">Het bronpakket is vereist.</value>
   </data>
   <data name="valPortalName.ErrorMessage" lastModified="2016-12-01 15:45:04">
-    <value xml:space="preserve">U moet een titel geven aan uw site.</value>
+    <value xml:space="preserve">U moet een titel geven aan je site.</value>
   </data>
   <data name="valPropertyName.ErrorMessage" lastModified="2016-12-01 15:45:04">
     <value xml:space="preserve">U moet een naam invullen voor deze entiteit.</value>
@@ -1327,7 +1327,7 @@
     <value xml:space="preserve">MijnVanityURL</value>
   </data>
   <data name="VerifyLanguageResources.Text" lastModified="2016-12-01 15:45:04">
-    <value xml:space="preserve">Controleer taal bronbestanden</value>
+    <value xml:space="preserve">Controleer taalbronbestanden</value>
   </data>
   <data name="ViewOrderUpdateSuccess.Text" lastModified="2016-12-01 15:45:04">
     <value xml:space="preserve">Weergave volgorde is bijgewerkt.</value>

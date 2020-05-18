@@ -16,28 +16,28 @@
     <value xml:space="preserve">Is de gebruiker geauthoriseerd voor de site.</value>
   </data>
   <data name="Approved.Text">
-    <value xml:space="preserve">Geauthoriseerd:</value>
+    <value xml:space="preserve">Geautoriseerd:</value>
   </data>
   <data name="cmdAuthorize.Text">
     <value xml:space="preserve">Gebruiker autoriseren</value>
   </data>
   <data name="cmdPassword.Text">
-    <value xml:space="preserve">Forceer wachtwoord wijziging</value>
+    <value xml:space="preserve">Forceer wachtwoordwijziging</value>
   </data>
   <data name="cmdUnAuthorize.Text">
-    <value xml:space="preserve">Gebruiker toegang ontzeggen</value>
+    <value xml:space="preserve">Gebruiker de toegang ontzeggen</value>
   </data>
   <data name="cmdUnLock.Text">
     <value xml:space="preserve">Account heropenen</value>
   </data>
   <data name="CreatedDate.Help">
-    <value xml:space="preserve">Datum van deze gebruiker is aangemaakt</value>
+    <value xml:space="preserve">Datum dat deze gebruiker is aangemaakt</value>
   </data>
   <data name="CreatedDate.Text">
-    <value xml:space="preserve">Datum Aangemaakt:</value>
+    <value xml:space="preserve">Datum aangemaakt:</value>
   </data>
   <data name="DemoteFromSuperUser.Text">
-    <value xml:space="preserve">Maak normale gebruiker.</value>
+    <value xml:space="preserve">Wijzig naar normale gebruiker.</value>
   </data>
   <data name="IsDeleted.Help">
     <value xml:space="preserve">Is de gebruiker verwijderd</value>
@@ -52,31 +52,31 @@
     <value xml:space="preserve">Gebruiker is online:</value>
   </data>
   <data name="LastActivityDate.Help">
-    <value xml:space="preserve">Datum van de laatste activiteit van deze gebruiker</value>
+    <value xml:space="preserve">Datum van de laatste activiteit van deze gebruiker.</value>
   </data>
   <data name="LastActivityDate.Text">
     <value xml:space="preserve">Datum Laatste activiteit:</value>
   </data>
   <data name="LastLockoutDate.Help">
-    <value xml:space="preserve">Datum dat deze gebruiker voor het laatst was buitengesloten, als gevolg van herhaalde mislukte logins</value>
+    <value xml:space="preserve">Datum dat deze gebruiker voor het laatst was geblokkeerd als gevolg van herhaalde mislukte inlogpogingen</value>
   </data>
   <data name="LastLockoutDate.Text">
     <value xml:space="preserve">Laatste Lock-out Datum:</value>
   </data>
   <data name="LastLoginDate.Help">
-    <value xml:space="preserve">Datum dat gebruiker voor het laatst is ingelogd</value>
+    <value xml:space="preserve">Datum dat gebruiker voor het laatst is ingelogd.</value>
   </data>
   <data name="LastLoginDate.Text">
-    <value xml:space="preserve">Laatst ingelogd Datum:</value>
+    <value xml:space="preserve">Laatste inlogdatum:</value>
   </data>
   <data name="LastPasswordChangeDate.Help">
-    <value xml:space="preserve">De datum waarop de gebruiker last changed zijn / haar wachtwoord</value>
+    <value xml:space="preserve">De datum waarop de gebruiker voor het laatst het wachtwoord heeft gewijzigd.</value>
   </data>
   <data name="LastPasswordChangeDate.Text" lastModified="2020-05-17 17:57:09">
-    <value xml:space="preserve">Laatste wachtwoord wijziging:</value>
+    <value xml:space="preserve">Laatste wachtwoordwijziging:</value>
   </data>
   <data name="LockedOut.Help">
-    <value xml:space="preserve">Is de gebruiker geblokkeerd omdat er teveel mislukte login pogingen</value>
+    <value xml:space="preserve">De gebruiker is geblokkeerd omdat er teveel mislukte login pogingen zijn gedaan.</value>
   </data>
   <data name="LockedOut.Text">
     <value xml:space="preserve">Geblokkeerd:</value>
@@ -88,13 +88,13 @@
     <value xml:space="preserve">De functie voor het herstellen van het wachtwoord is op dit moment niet beschikbaar.</value>
   </data>
   <data name="PromoteToSuperUser.Text">
-    <value xml:space="preserve">Maak Superuser.</value>
+    <value xml:space="preserve">Wijzig naar applicatiebeheerder.</value>
   </data>
   <data name="UpdatePassword.Help">
-    <value xml:space="preserve">Dwingen deze gebruiker om hun wachtwoord bij te werken</value>
+    <value xml:space="preserve">Instrueer deze gebruiker om het  wachtwoord bij te werken</value>
   </data>
   <data name="UpdatePassword.Text">
-    <value xml:space="preserve">Wachtwoord Bijwerken:</value>
+    <value xml:space="preserve">Wachtwoord bijwerken:</value>
   </data>
   <data name="UserFolder.Help">
     <value xml:space="preserve">De map waarin de gegevens van de gebruikers worden opgeslagen.</value>

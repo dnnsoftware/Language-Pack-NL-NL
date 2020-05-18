@@ -121,10 +121,10 @@
     <value xml:space="preserve">Standaard weergave van de bestandenlijst:</value>
   </data>
   <data name="HostHasSettingLabel.Text" lastModified="2018-07-22 19:59:49">
-    <value xml:space="preserve">Bevat Host Instellingen</value>
+    <value xml:space="preserve">Bevat applicatie-instellingen</value>
   </data>
   <data name="HostNoSettingLabel.Text" lastModified="2018-07-22 19:59:49">
-    <value xml:space="preserve">Bevat geen Host Instellingen</value>
+    <value xml:space="preserve">Bevat geen applicatie-instellingen</value>
   </data>
   <data name="IconLegendLabel.Text" lastModified="2018-07-22 11:47:03">
     <value xml:space="preserve">Icoon Legenda</value>
@@ -331,7 +331,7 @@
     <value xml:space="preserve">Bevat geen paginainstellingen</value>
   </data>
   <data name="PortalOnly.Text" lastModified="2018-07-23 04:11:26">
-    <value xml:space="preserve">Alleen Deze Site</value>
+    <value xml:space="preserve">Alleen deze site</value>
   </data>
   <data name="PortalOnlyLabel.Text" lastModified="2020-05-14 05:06:47">
     <value xml:space="preserve">Laat de onstellingen alleen zien voor deze site of voor alle sites?</value>

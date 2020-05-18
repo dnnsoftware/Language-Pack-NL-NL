@@ -133,7 +133,7 @@
     <value xml:space="preserve">Gebruikersnaam:</value>
   </data>
   <data name="VanityUrl.Help" lastModified="2020-05-17 18:12:10">
-    <value xml:space="preserve">Je kunt optioneel kiezen voor een aangepaste URL voor uw profiel.</value>
+    <value xml:space="preserve">Je kunt optioneel kiezen voor een aangepaste URL voor je profiel.</value>
   </data>
   <data name="VanityUrl.Text">
     <value xml:space="preserve">Profiel URL:</value>

@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddFileExtensionNotAllowed.Text">
-    <value xml:space="preserve">De extensie '{0}' is niet toegestaan. Het bestand is niet toegevoegd.</value>
+    <value xml:space="preserve">De uitbreiding '{0}' is niet toegestaan. Het bestand is niet toegevoegd.</value>
   </data>
   <data name="AddFileInvalidContent.Text" lastModified="2018-07-20 06:37:10">
     <value xml:space="preserve">De inhoud van '{0}' is niet geldig. Het bestand is niet toegevoegd.</value>
@@ -196,7 +196,7 @@
     <value xml:space="preserve">Het bericht kan niet leeg zijn</value>
   </data>
   <data name="MsgOnlyHostOrAdminOrUserInGroupCanSendToRoleError.Text" lastModified="2020-05-15 13:37:23">
-    <value xml:space="preserve">Alleen hoofdgebuikers, website administratoren of gebruikers in de groep kunnen berichten sturen per rol.</value>
+    <value xml:space="preserve">Alleen applicatiebeheerders, sitebeheerders of gebruikers in de groep kunnen berichten sturen per rol.</value>
   </data>
   <data name="MsgRecipientLimitExceeded.Text" lastModified="2020-05-15 13:37:23">
     <value xml:space="preserve">Maximale aantal ontvangers bereikt. Geadresseerden uit lijst verwijderen.</value>
@@ -325,7 +325,7 @@
     <value xml:space="preserve">Het onderliggende systeem heeft een uitzondering gegenereerd.</value>
   </data>
   <data name="UpdateUserMembershipFailed.Text" lastModified="2015-09-16 18:29:36">
-    <value xml:space="preserve">Asp.net membership update gebruiker is mislukt. Mogelijke oorzaak(en): Vereist uniek emailadres staat geactiveers in de membership.config. Maar er zijn meerdere gebruikers die gebruikmaken van hetzelfde emailadres als de huidige gebruikers.</value>
+    <value xml:space="preserve">Asp.net membership update gebruiker is mislukt. Mogelijke oorzaak(en): Vereist uniek e-mailadres staat geactiveers in de membership.config. Maar er zijn meerdere gebruikers die gebruikmaken van hetzelfde e-mailadres als de huidige gebruikers.</value>
   </data>
   <data name="UserCannotReviewWorkflowState.Text" lastModified="2020-05-15 13:41:02">
     <value xml:space="preserve">De gebruiker kan de workflow staat niet bekijken</value>

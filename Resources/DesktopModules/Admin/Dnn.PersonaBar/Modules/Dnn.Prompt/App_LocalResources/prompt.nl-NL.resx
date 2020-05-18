@@ -86,7 +86,7 @@
     <value xml:space="preserve">Wist de geschiedenis van de opdrachten die in de huidige sessie zijn gebruikt</value>
   </data>
   <data name="Prompt_ClearLog_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Wist het gebeurtenislogboek voor de huidige portal.</value>
+    <value xml:space="preserve">Wist het gebeurtenislogboek voor de huidige site.</value>
   </data>
   <data name="Prompt_ClearLog_Error.Text" lastModified="2018-07-19 16:46:40">
     <value xml:space="preserve">Er is een fout opgetreden bij het verwijderen van het gebeurtenislogboek.</value>
@@ -217,7 +217,7 @@
       &lt;td&gt;Een taak is een DNN Scheduler Item of Scheduled Task. We gebruiken de woordtaak vanwege zijn beknoptheid.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td class="mono"&gt;portaal/portalen&lt;/td&gt;
+      &lt;td class="mono"&gt;site/sites&lt;/td&gt;
       &lt;td&gt;Een DNN-site of -portaal&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -316,7 +316,7 @@
     <value xml:space="preserve">Omschrijving</value>
   </data>
   <data name="Prompt_DesktopModuleNotFound.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Kan geen bureaubladmodule vinden met de naam '{0}' voor deze portal</value>
+    <value xml:space="preserve">Kan geen bureaubladmodule vinden met de naam '{0}' voor deze site</value>
   </data>
   <data name="Prompt_Echo_Description.Text" lastModified="2018-07-19 21:29:14">
     <value xml:space="preserve">Echo't het eerste ontvangen argument terug.</value>
@@ -494,10 +494,10 @@
         &lt;/table&gt;</value>
   </data>
   <data name="Prompt_GetPortal_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Hiermee wordt basisinformatie opgehaald over de huidige portal of opgegeven portal</value>
+    <value xml:space="preserve">Hiermee wordt basisinformatie opgehaald over de huidige site of opgegeven site</value>
   </data>
   <data name="Prompt_GetPortal_FlagId.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Portal-id om informatie te krijgen. Alleen de host kan informatie krijgen over andere portals dan de huidige.</value>
+    <value xml:space="preserve">Portal-id om informatie te krijgen. Alleen de applicatiebeheerder kan informatie krijgen over andere sites dan de huidige.</value>
   </data>
   <data name="Prompt_GetPortal_NoArgs.Text" lastModified="2018-07-19 16:46:40">
     <value xml:space="preserve">De opdracht get-portal neemt geen argumenten of markeringen.</value>
@@ -674,13 +674,13 @@
     <value xml:space="preserve">Overzicht/Basis syntaxis</value>
   </data>
   <data name="Prompt_HostCategory.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Gastheer commando's</value>
+    <value xml:space="preserve">Applicatiebeheerder commando's</value>
   </data>
   <data name="Prompt_InsufficientPermissions.Text" lastModified="2018-07-19 16:46:40">
     <value xml:space="preserve">U hebt onvoldoende machtigingen om deze bewerking uit te voeren.</value>
   </data>
   <data name="Prompt_InvalidData.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">U heeft ongeldige gegevens verzonden. Uw aanvraag kan niet worden verwerkt.</value>
+    <value xml:space="preserve">U heeft ongeldige gegevens verzonden. Je aanvraag kan niet worden verwerkt.</value>
   </data>
   <data name="Prompt_InvalidSyntax.Text" lastModified="2018-07-19 16:46:40">
     <value xml:space="preserve">Ongeldige syntaxis</value>
@@ -999,7 +999,7 @@
     &lt;/table&gt;</value>
   </data>
   <data name="Prompt_ServerError.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">De server is een probleem tegengekomen en kon uw verzoek niet verwerken. Probeer het later opnieuw.</value>
+    <value xml:space="preserve">De server is een probleem tegengekomen en kon je verzoek niet verwerken. Probeer het later opnieuw.</value>
   </data>
   <data name="Prompt_SessionTimedOut.Text" lastModified="2018-07-19 16:46:40">
     <value xml:space="preserve">Er kan een time-out opgetreden zijn voor je sessie. Zo ja, log opnieuw in.</value>

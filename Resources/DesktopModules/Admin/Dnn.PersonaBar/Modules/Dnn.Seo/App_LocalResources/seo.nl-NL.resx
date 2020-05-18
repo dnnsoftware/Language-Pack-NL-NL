@@ -142,10 +142,10 @@
     <value xml:space="preserve">Uitdrukkingen</value>
   </data>
   <data name="ExtensionUrlProviders.Text" lastModified="2018-07-24 15:04:13">
-    <value xml:space="preserve">EXTENSIE URLPROVIDERS</value>
+    <value xml:space="preserve">UITBREIDING URLPROVIDERS</value>
   </data>
   <data name="ExtensionUrlProvidersTab.Text" lastModified="2018-07-24 15:04:13">
-    <value xml:space="preserve">EXTENSIE URLPROVIDERS</value>
+    <value xml:space="preserve">UITBREIDING URLPROVIDERS</value>
   </data>
   <data name="File_Url.Text" lastModified="2016-12-01 09:38:17">
     <value xml:space="preserve">Bestand URL</value>
@@ -154,10 +154,10 @@
     <value xml:space="preserve">ALGEMENE INSTELLINGEN</value>
   </data>
   <data name="GlobalSetting.Text" lastModified="2016-12-01 10:40:01">
-    <value xml:space="preserve">Dit is een globale instelling. Aanpassingen aan deze instelling zullen al uw sites beinvloeden.</value>
+    <value xml:space="preserve">Dit is een globale instelling. Aanpassingen aan deze instelling zullen al je sites beinvloeden.</value>
   </data>
   <data name="Host_Portal_Used.Text" lastModified="2016-12-01 10:40:01">
-    <value xml:space="preserve">Host portaal gebruikt</value>
+    <value xml:space="preserve">Aplicatiesite gebruikt</value>
   </data>
   <data name="identifiedTabLabel.Help" lastModified="2016-12-01 10:40:01">
     <value xml:space="preserve">De naam van de DNN pagina die geidentificeerd is tijdens het URL Herschrijf proces.</value>
@@ -226,7 +226,7 @@
     <value xml:space="preserve">Zoekmachine</value>
   </data>
   <data name="lblVerification.Help" lastModified="2016-12-01 23:13:03">
-    <value xml:space="preserve">Bij aanmelding van Google Webmaster Tools dient u uw site eigendom te verifieren. Kies de "Upload een HTMl bestand" methode van het Google Verificatie scherm. Vul de weergegeven bestandsnaam in  (ie. google53c0cef435b2b81e.html) in in de verificatie tekst box en klik op maak. Keer terug naar Google en selecteer de Verifieer knop.</value>
+    <value xml:space="preserve">Bij aanmelding van Google Webmaster Tools dient u je site eigendom te verifieren. Kies de "Upload een HTMl bestand" methode van het Google Verificatie scherm. Vul de weergegeven bestandsnaam in  (ie. google53c0cef435b2b81e.html) in in de verificatie tekst box en klik op maak. Keer terug naar Google en selecteer de Verifieer knop.</value>
   </data>
   <data name="lblVerification.Text" lastModified="2016-12-01 11:42:22">
     <value xml:space="preserve">Verificatie</value>
@@ -256,7 +256,7 @@
     <value xml:space="preserve">Geen portaal alias</value>
   </data>
   <data name="NoExtensionUrlProviders.Text">
-    <value xml:space="preserve">Geen extensie URL providers gevonden</value>
+    <value xml:space="preserve">Geen uitbreiding URL providers gevonden</value>
   </data>
   <data name="None.Text" lastModified="2016-12-01 11:42:22">
     <value xml:space="preserve">Geen</value>
@@ -355,7 +355,7 @@
     <value xml:space="preserve">Geresulteerde URL's</value>
   </data>
   <data name="rewritingResultLabel.Help" lastModified="2016-12-02 07:33:25">
-    <value xml:space="preserve">Toont de herschreven URL, in the raw format die gezien wordt door het DNN platform en derde partijen extensies.</value>
+    <value xml:space="preserve">Toont de herschreven URL, in the raw format die gezien wordt door het DNN platform en derde partijen uitbreidingen.</value>
   </data>
   <data name="rewritingResultLabel.Text" lastModified="2016-12-02 07:33:25">
     <value xml:space="preserve">Herschrijvings resultaat</value>
@@ -397,7 +397,7 @@
     <value xml:space="preserve">Sitemap instellingen</value>
   </data>
   <data name="sitemapUrlLabel.Help" lastModified="2016-12-02 09:39:03">
-    <value xml:space="preserve">Dien de sitemap in bij google voor betere zoek optimalisatie. Klik Indienen om een Google Webmaster Tools account te krijgen en verifieer uw site eigendom ( door de verificatie optie hieronder te gebruiken). Eenmaal geverifieerd, kunt u de Toevoegen Website Sitemap optie selecteren op de Google Sitemaps tab en plakken in de Site Map URL die is weergegeven. </value>
+    <value xml:space="preserve">Dien de sitemap in bij google voor betere zoek optimalisatie. Klik Indienen om een Google Webmaster Tools account te krijgen en verifieer je site eigendom ( door de verificatie optie hieronder te gebruiken). Eenmaal geverifieerd, kunt u de Toevoegen Website Sitemap optie selecteren op de Google Sitemaps tab en plakken in de Site Map URL die is weergegeven. </value>
   </data>
   <data name="sitemapUrlLabel.Text" lastModified="2016-12-02 10:39:46">
     <value xml:space="preserve">Sitemap URL</value>
@@ -454,7 +454,7 @@
     <value xml:space="preserve">"_" e.g. bijv. pagina_naam</value>
   </data>
   <data name="Unfriendly_Url_Child_Portal.Text" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">Onvriendelijke URL Child Portal</value>
+    <value xml:space="preserve">Onvriendelijke URL Child site</value>
   </data>
   <data name="Unfriendly_Url_TabId.Text" lastModified="2016-12-02 11:43:09">
     <value xml:space="preserve">Onvriendelijke URL TabId</value>

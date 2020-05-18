@@ -79,7 +79,7 @@
     <value xml:space="preserve">Geen thema's gevonden.</value>
   </data>
   <data name="NoThemesMessage" lastModified="2018-07-24 16:28:59">
-    <value xml:space="preserve">Probeer uw zoekfilters bij te stellen of installeer een nieuw thema naar uw bibliotheek.</value>
+    <value xml:space="preserve">Probeer je zoekfilters bij te stellen of installeer een nieuw thema naar je bibliotheek.</value>
   </data>
   <data name="ParseThemePackage.Text" lastModified="2016-12-02 07:51:42">
     <value xml:space="preserve">Ontleed Thema Pakket</value>
@@ -157,7 +157,7 @@
     <value xml:space="preserve">Token</value>
   </data>
   <data name="UsePackageUninstall.Text" lastModified="2016-12-02 07:51:42">
-    <value xml:space="preserve">Dit thema is geïnstalleerd als pakket, ga naar Extensies en deïnstalleer vanuit daar.</value>
+    <value xml:space="preserve">Dit thema is geïnstalleerd als pakket, ga naar uitbreidingen en deïnstalleer vanuit daar.</value>
   </data>
   <data name="Value.Text" lastModified="2016-12-02 07:51:42">
     <value xml:space="preserve">Waarde</value>

@@ -4,25 +4,29 @@
 
 In dit taalpakket gebruiken we de **Jij** vorm.
 
+Woorden schrijven we in de Nederlandse vorm aan elkaar, bijvoorbeeld *profieleigenschappen* en niet *profiel eigenschappen*
+
+Label voor invoervelden alleen het eerste woord een hoofdletter, bijvoorbeeld *Nieuwe gebruiker toevoegen* en niet *Nieuwe Gebruiker Toevoegen*. 
+
 ## Standaard woorden bij vertaling
 
 en-US term | *Technical term* | nl-NL vertaling | Toelichting
 --- | --- | --- | ---
-admin |  | beheerder |  
-admin account |  | beheerdersaccount |  
-admin settings |  | beheerdersinstellingen |  
+admin |  | sitebeheerder |  
+admin account |  | sitebeheerdersaccount |  
+admin settings |  | sitebeheerdersinstellingen |  
 container | container | container | modulevorm op pagina
 extension |  | uitbreiding | 
-host account |  | systeemaccount | 
-host settings |  | systeeminstellingen | 
+host account |  | applicatiebeheersdersaccount | 
+host settings |  | applicatieinstellingen | 
 page | tab | pagina | pagina in de site
 pane | pane | deelvenster | onderdeel paginaindeling
 portal settings |  | siteinstellingen |
 settings |  | instellingen |  
 site | portal | site | 
 state | content state | status | in workflows
-superuser | host account | systeembeheerder | 
-template | template | sjabloon | voorbeeld indeling
+superuser | host account | applicatiebeheerder | 
+template | template | sjabloon | voorbeeldindeling
 theme | skin | thema | paginaindeling
 user | user | gebruiker | 
 website |  | website |

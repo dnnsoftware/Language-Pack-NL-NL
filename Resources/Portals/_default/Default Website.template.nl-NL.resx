@@ -200,19 +200,19 @@ Fax: 012-1234567</value>
     <value xml:space="preserve">Bestandsbeheer</value>
   </data>
   <data name="Tab.Extensions.Content.Text">
-    <value xml:space="preserve">Extensies</value>
+    <value xml:space="preserve">Uitbreidingen</value>
   </data>
   <data name="Tab.Extensions.ContentPane.Module.Title.Text">
-    <value xml:space="preserve">Extensies</value>
+    <value xml:space="preserve">Uitbreidingen</value>
   </data>
   <data name="Tab.Extensions.Description.Text" lastModified="2015-12-31 01:51:42">
-    <value xml:space="preserve">Installeren, toevoegen, bewerken en verwijderen van extenties, zoals modules, thema's en taalpakketten.</value>
+    <value xml:space="preserve">Installeren, toevoegen, bewerken en verwijderen van uitbreidingen, zoals modules, thema's en taalpakketten.</value>
   </data>
   <data name="Tab.Extensions.Name.Text">
-    <value xml:space="preserve">Extensies</value>
+    <value xml:space="preserve">Uitbreidingen</value>
   </data>
   <data name="Tab.Extensions.Title.Text">
-    <value xml:space="preserve">Extensies</value>
+    <value xml:space="preserve">Uitbreidingen</value>
   </data>
   <data name="Tab.GoogleAnalytics.Content.Text">
     <value xml:space="preserve">Google Analytics</value>
@@ -369,7 +369,7 @@ Fax: 012-1234567</value>
     <value xml:space="preserve">Shop</value>
   </data>
   <data name="Tab.Home.Main.Shop.Tooltip">
-    <value xml:space="preserve">U kunt veel nieuwe code schrijven om deze nieuwe website geweldig te maken. Of u koopt gewoon uw toegang tot succes in de DNN shop. Zo bent u er sneller.</value>
+    <value xml:space="preserve">U kunt veel nieuwe code schrijven om deze nieuwe website geweldig te maken. Of u koopt gewoon je toegang tot succes in de DNN shop. Zo bent u er sneller.</value>
   </data>
   <data name="Tab.Home.Main.Title" lastModified="2020-05-12 01:42:39">
     <value xml:space="preserve">Sluit je aan bij de DNN Community voor interactie en om te leren.</value>
@@ -396,7 +396,7 @@ Fax: 012-1234567</value>
     <value xml:space="preserve">Webinar</value>
   </data>
   <data name="Tab.Home.Main.Webinars.Tooltip">
-    <value xml:space="preserve">Betreed de wereld van de DNN webinars waar mensen met kennis deze met je delen. Dat is veel kennis, en het is is bedoeld om uw kennis te vergroten.</value>
+    <value xml:space="preserve">Betreed de wereld van de DNN webinars waar mensen met kennis deze met je delen. Dat is veel kennis, en het is is bedoeld om je kennis te vergroten.</value>
   </data>
   <data name="Tab.Home.Main.Wikis.Link">
     <value xml:space="preserve">https://dnncommunity.org/documentation</value>
@@ -408,7 +408,7 @@ Fax: 012-1234567</value>
     <value xml:space="preserve">Wiki</value>
   </data>
   <data name="Tab.Home.Main.Wikis.Tooltip">
-    <value xml:space="preserve">De DNN wiki is constant aan het groeien, net als het universum. Maar in tegenstelling tot het universum kunt u alles bezoeken binnen de wiki en uw kenmerk achterlaten doormiddel van een bijdrage.</value>
+    <value xml:space="preserve">De DNN wiki is constant aan het groeien, net als het universum. Maar in tegenstelling tot het universum kunt u alles bezoeken binnen de wiki en je kenmerk achterlaten doormiddel van een bijdrage.</value>
   </data>
   <data name="Tab.Home.PageName.Content">
     <value xml:space="preserve">Home</value>
@@ -426,7 +426,7 @@ Fax: 012-1234567</value>
     <value xml:space="preserve">Maak en beheer Inhoud</value>
   </data>
   <data name="Tab.Home.Product.Content.Text">
-    <value xml:space="preserve">Rijkere inhoud, sterkere &lt;br/&gt;beveiliging en verbeterde&lt;br/&gt;SEO direct onder &lt;br/&gt; uw vingertoppen</value>
+    <value xml:space="preserve">Rijkere inhoud, sterkere &lt;br/&gt;beveiliging en verbeterde&lt;br/&gt;SEO direct onder &lt;br/&gt; je vingertoppen</value>
   </data>
   <data name="Tab.Home.Product.Social.Link">
     <value xml:space="preserve">https://dnncommunity.org/documentation</value>
@@ -435,7 +435,7 @@ Fax: 012-1234567</value>
     <value xml:space="preserve">Bouw en vergroot communities</value>
   </data>
   <data name="Tab.Home.Product.Social.Text">
-    <value xml:space="preserve">Laat uw gebruikers groeien, verzamel content en heb interactie met uw bezoekers via online communities.</value>
+    <value xml:space="preserve">Laat je gebruikers groeien, verzamel content en heb interactie met je bezoekers via online communities.</value>
   </data>
   <data name="Tab.Home.SocialLinks.Facebook.Link">
     <value xml:space="preserve">http://www.youtube.com/user/dotnetnuke</value>
@@ -846,7 +846,7 @@ Fax: 012-1234567</value>
     <value xml:space="preserve">Admin</value>
   </data>
   <data name="Tab.PortalAdministration.Title.Text">
-    <value xml:space="preserve">Portal Administratie</value>
+    <value xml:space="preserve">Sitebeheer</value>
   </data>
   <data name="Tab.RecycleBin.Content.Text">
     <value xml:space="preserve">Prullenmand</value>
@@ -855,7 +855,7 @@ Fax: 012-1234567</value>
     <value xml:space="preserve">Prullenmand</value>
   </data>
   <data name="Tab.RecycleBin.Description.Text">
-    <value xml:space="preserve">Bekijken, herstellen of permanent hergebruik pagina's en modules die zijn verwijderd uit de portal. </value>
+    <value xml:space="preserve">Bekijken, herstellen of permanent hergebruik pagina's en modules die zijn verwijderd uit de site. </value>
   </data>
   <data name="Tab.RecycleBin.Name.Text">
     <value xml:space="preserve">Prullenmand</value>
@@ -927,7 +927,7 @@ Fax: 012-1234567</value>
     <value xml:space="preserve">Site Logboek</value>
   </data>
   <data name="Tab.SiteLog.Description.Text">
-    <value xml:space="preserve">Statistische rapporten bekijken op de website activiteit voor het portal.
+    <value xml:space="preserve">Statistische rapporten bekijken op de website activiteit voor het site.
 </value>
   </data>
   <data name="Tab.SiteLog.Name.Text">
@@ -1018,7 +1018,7 @@ Fax: 012-1234567</value>
     <value xml:space="preserve">Taxonomie beheerder</value>
   </data>
   <data name="Tab.Taxonomy.Description.Text">
-    <value xml:space="preserve">De taxonomie voor uw Site beheren.</value>
+    <value xml:space="preserve">De taxonomie voor je site beheren.</value>
   </data>
   <data name="Tab.Taxonomy.Name.Text">
     <value xml:space="preserve">Taxonomie</value>

@@ -655,7 +655,7 @@
     <value xml:space="preserve">Je bent niet gemachtigd het betreffende bestand te bekijken</value>
   </data>
   <data name="FileRestricted.Text">
-    <value xml:space="preserve">{0} is een beschermd bestandstype. Toegestane bestandstypen bestaan uit ( *.{1}). Neem contact op met uw hosting provider als u bestandstypes wilt uploaden die niet toegestaan zijn.</value>
+    <value xml:space="preserve">{0} is een beschermd bestandstype. Toegestane bestandstypen bestaan uit ( *.{1}). Neem contact op met je hosting provider als u bestandstypes wilt uploaden die niet toegestaan zijn.</value>
   </data>
   <data name="Files.Text">
     <value xml:space="preserve">Bestanden:</value>
@@ -778,7 +778,7 @@
     <value xml:space="preserve">Home</value>
   </data>
   <data name="HostRootFolder.Name">
-    <value xml:space="preserve">Host hoofdmap</value>
+    <value xml:space="preserve">Applicatiehoofdmap</value>
   </data>
   <data name="Hour.Text">
     <value xml:space="preserve">uur</value>
@@ -805,13 +805,13 @@
     <value xml:space="preserve">Je beheerdersaccount staat nog steeds ingesteld op het bekende standaard wachtwoord. Ga nu naar Beheer -&gt; Gebruikersaccounts-menu en het wachtwoord. Daarnaast moet je ervoor zorgen dat je het e-mailadres bijwerkt naar een geldige waarde.</value>
   </data>
   <data name="InsecureDefaults.Text" lastModified="2020-05-15 15:25:29">
-    <value xml:space="preserve">Beide standaard accounts, systeembeheerder en beheerder (Superuser en admin) gebruiken de bekende standaard wachtwoorden. Ga naar de desbetreffende menu-items (Superuser-&gt; Superuser accounts en Admin-&gt; Gebruikersaccounts) en het actualiseren van de wachtwoorden. Daarnaast moet je ervoor zorgen dat je het e-mailadres bijwerkt.</value>
+    <value xml:space="preserve">Beide standaard accounts, applicatiebeheerder en sitebeheerder (Superuser en admin) gebruiken de bekende standaard wachtwoorden. Ga naar de desbetreffende menu-items (applicatiebeheerder-&gt; applicatiebeheerdersaccount en site-&gt; Gebruikersaccounts) en het actualiseren van de wachtwoorden. Daarnaast moet je ervoor zorgen dat je het e-mailadres bijwerkt.</value>
   </data>
   <data name="InsecureDefaults.Title">
     <value xml:space="preserve">Onveilige gebruikersgegevens</value>
   </data>
   <data name="InsecureHost.Text" lastModified="2020-05-15 15:49:59">
-    <value xml:space="preserve">Je systeembeheer account (host, superuser) account staat nog steeds ingesteld op het bekende standaard wachtwoord. Ga naar de Host-&amp;gt; superuser accounts menu en het wachtwoord.</value>
+    <value xml:space="preserve">Je Applicatiebeheerdersaccount (host, superuser) staat nog steeds ingesteld op het bekende standaard wachtwoord. Ga naar de Applicatiebeheerder-&amp;gt; Applicatiebeheerdersmenu en het wachtwoord.</value>
   </data>
   <data name="InsertSmileyButton.Text">
     <value xml:space="preserve">Smiley invoegen</value>
@@ -823,7 +823,7 @@
     <value xml:space="preserve">Installatie succesvol</value>
   </data>
   <data name="INSTALL_Compatibility.Text" lastModified="2020-05-15 15:49:59">
-    <value xml:space="preserve">Installatie afgebroken - de module die geïnstalleerd word is niet compatibel met de huidige applicatie versie (een applicatie upgrade naar versie {0 } is hiervoor noodzakelijk )</value>
+    <value xml:space="preserve">Installatie afgebroken - de module die geïnstalleerd word is niet compatibel met de huidige applicatieversie (een applicatie upgrade naar versie {0 } is hiervoor noodzakelijk )</value>
   </data>
   <data name="INSTALL_Dependencies.Text">
     <value xml:space="preserve">Installatie geannuleerd - De module heeft meer componenten nodig dan op dit moment beschikbaar zijn.</value>
@@ -865,7 +865,7 @@
     <value xml:space="preserve">De weergegeven naam is ongeldig.</value>
   </data>
   <data name="InvalidEmail.Text">
-    <value xml:space="preserve">Het opgegeven e-mail adres is niet correct. Voer alstublieft een correct e-mail adres in.</value>
+    <value xml:space="preserve">Het opgegeven e-mailadres is niet correct. Voer alstublieft een correct e-mailadres in.</value>
   </data>
   <data name="InvalidFileName.Text">
     <value xml:space="preserve">Bestandsnaam is niet correct - deze mag geen ' bevatten</value>
@@ -916,7 +916,7 @@
     <value xml:space="preserve">Registratie taalbestand succesvol verwijderd - {0}</value>
   </data>
   <data name="LanguageNotSelected.Text">
-    <value xml:space="preserve">U heeft geen voorkeurstaal aangegeven. Uw voorkeurstaal zal dan ook worden ingesteld op de standaard instelling van de website.</value>
+    <value xml:space="preserve">U heeft geen voorkeurstaal aangegeven. Je voorkeurstaal zal dan ook worden ingesteld op de standaard instelling van de website.</value>
   </data>
   <data name="Last.Text">
     <value xml:space="preserve">Laatste</value>
@@ -970,10 +970,10 @@
     <value xml:space="preserve">Bestanden toevoegen aan hulpbronpakket: {0}</value>
   </data>
   <data name="LOG.LangPack.ERROR.CreatingFile">
-    <value xml:space="preserve">Er is een fout opgetreden bij het aanmaken van het hulpbronpakket bestand: {0}</value>
+    <value xml:space="preserve">Er is een fout opgetreden bij het aanmaken van het hulpbronpakketbestand: {0}</value>
   </data>
   <data name="LOG.LangPack.ERROR.ManifestFile">
-    <value xml:space="preserve">Er is een fout opgetreden bij het aanmaken van het pakbonbestand: {0}</value>
+    <value xml:space="preserve">Er is een fout opgetreden bij het aanmaken van het manifestbestand: {0}</value>
   </data>
   <data name="LOG.LangPack.ERROR.SavingFile">
     <value xml:space="preserve">Er is een fout opgetreden bij het bewaren van een bestand in het hulpbronpakket: {0}</value>
@@ -1108,7 +1108,7 @@
     <value xml:space="preserve">Module gebruiksvriendelijk naam ontbreekt</value>
   </data>
   <data name="MODULE_HostAdded.Text" lastModified="2015-12-30 07:27:18">
-    <value xml:space="preserve">Module toegevoegd aan host pagina {0}.</value>
+    <value xml:space="preserve">Module toegevoegd aan Applicatiebeheerpagina {0}.</value>
   </data>
   <data name="MODULE_HostPageAdded.Text" lastModified="2020-05-15 15:49:59">
     <value xml:space="preserve">Systeempagina {0} toegevoegd. </value>
@@ -1566,31 +1566,31 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">Symbool is skin object</value>
   </data>
   <data name="SMTPConfigurationProblem.Text">
-    <value xml:space="preserve">Er is een probleem met de configuratie van uw e-mailserver. E-mail is niet verzonden.</value>
+    <value xml:space="preserve">Er is een probleem met de configuratie van je e-mailserver. E-mail is niet verzonden.</value>
   </data>
   <data name="SmtpInvalidPort.Text" lastModified="2018-07-20 13:43:15">
     <value xml:space="preserve">De opgegeven poort is ongeldig. De poort moet groter zijn dan 0 en kleiner dan 65536. E-mail is niet verzonden.</value>
   </data>
   <data name="SQL_Begin.Text">
-    <value xml:space="preserve">Begin uitvoer Sql</value>
+    <value xml:space="preserve">Begin uitvoer SQL</value>
   </data>
   <data name="SQL_BeginFile.Text">
-    <value xml:space="preserve">Start uitvoer Sql: {0} bestand</value>
+    <value xml:space="preserve">Start uitvoer SQL: {0} bestand</value>
   </data>
   <data name="SQL_BeginUnInstall.Text" lastModified="2020-05-15 15:54:23">
     <value xml:space="preserve">SQL deïnstallatie gestart</value>
   </data>
   <data name="SQL_Committed.Text">
-    <value xml:space="preserve">Sql script succesvol uitgevoerd</value>
+    <value xml:space="preserve">SQL script succesvol uitgevoerd</value>
   </data>
   <data name="SQL_End.Text">
-    <value xml:space="preserve">Sql uitvoer gereed</value>
+    <value xml:space="preserve">SQL uitvoer gereed</value>
   </data>
   <data name="SQL_EndFile.Text">
-    <value xml:space="preserve">Einde Sql uitvoer: {0} gereed</value>
+    <value xml:space="preserve">Einde SQL uitvoer: {0} gereed</value>
   </data>
   <data name="SQL_EndUnInstall.Text">
-    <value xml:space="preserve">Einde sql deïnstallatie</value>
+    <value xml:space="preserve">Einde SQL deïnstallatie</value>
   </data>
   <data name="SQL_Exceptions.Text">
     <value xml:space="preserve">SQL uitvoer leverde de volgende uitzonderingen op: {0}{1}</value>
@@ -1782,7 +1782,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">{0} weken geleden</value>
   </data>
   <data name="Wizard.Success.FailureDetail">
-    <value xml:space="preserve">&lt;p&gt; Helaas was er een fout met deze Wizard. Gelieve het onderstaande bericht door te nemen en neem contact op met uw provider. &lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt; Helaas was er een fout met deze Wizard. Gelieve het onderstaande bericht door te nemen en neem contact op met je provider. &lt;/p&gt;</value>
   </data>
   <data name="Wizard.Success.FailureTitle">
     <value xml:space="preserve">Wizard mislukt:</value>

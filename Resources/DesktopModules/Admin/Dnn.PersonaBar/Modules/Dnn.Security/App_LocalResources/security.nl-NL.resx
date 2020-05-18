@@ -25,25 +25,25 @@
     <value xml:space="preserve">Toestaan</value>
   </data>
   <data name="AsyncTimeout.ErrorMessage" lastModified="2016-11-26 22:14:55">
-    <value xml:space="preserve">Tijd voor timeout moet een numerieke waarde zijn die gelijk is of groter dan 90 en kleiner dan 10000.</value>
+    <value xml:space="preserve">Tijd voor timeout moet een geheel getal zijn groter of gelijk dan 90 en kleiner dan 10000.</value>
   </data>
   <data name="AuditChecks.Text" lastModified="2016-11-26 22:14:55">
-    <value xml:space="preserve">Audit controles</value>
+    <value xml:space="preserve">Auditcontroles</value>
   </data>
   <data name="AuditExplanation.Text" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">Notititie: Het systeem voert automatische scans uit voor de bekende best practices van de beveiliging</value>
   </data>
   <data name="Authorized.Header" lastModified="2016-11-26 22:14:55">
-    <value xml:space="preserve">Geauthoriseerd</value>
+    <value xml:space="preserve">Geautoriseerd</value>
   </data>
   <data name="AutoAccountUnlockDuration.ErrorMessage" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">Automatische account ontgrendelingstijd moet een numerieke waarde zijn die gelijk of groter is dan 0 maar minder dan 1000.</value>
   </data>
   <data name="BasicLoginSettingsError" lastModified="2016-11-26 22:14:55">
-    <value xml:space="preserve">Kan login instellingen niet bijwerken, probeer het later opnieuw..</value>
+    <value xml:space="preserve">Kan de logininstellingen niet bijwerken, probeer het later opnieuw..</value>
   </data>
   <data name="BasicLoginSettingsUpdateSuccess" lastModified="2016-11-26 22:14:55">
-    <value xml:space="preserve">Login instellingen zijn bijgewerkt.</value>
+    <value xml:space="preserve">Logininstellingen zijn bijgewerkt.</value>
   </data>
   <data name="BulletinDescription.Text" lastModified="2016-11-26 22:14:55">
     <value xml:space="preserve">OMSCHRIJVING</value>
@@ -70,16 +70,16 @@
     <value xml:space="preserve">[ Check ]</value>
   </data>
   <data name="CheckAllowableFileExtensionsFailure.Text" lastModified="2016-11-26 23:17:29">
-    <value xml:space="preserve">Er zijn aspx, asp of php bestanden gevonden in de toegestane extensie instellingen. Dit geeft hackers de mogelijkheid om code te uploaden. Verwijder de extentie binnen Host &gt; Gastheer Settings&gt; Toegestane extensies.</value>
+    <value xml:space="preserve">Er zijn aspx, asp of php bestanden gevonden in de toegestane bestandsextensie instellingen. Dit geeft hackers de mogelijkheid om code te uploaden. Verwijder de extentie binnen Applicatiebeheerder &gt; Applicatieinstellingen&gt; Toegestane bestandsextensies.</value>
   </data>
   <data name="CheckAllowableFileExtensionsName.Text" lastModified="2016-11-27 00:19:19">
-    <value xml:space="preserve">Controleer of er schadelijke extensies worden toegestaan door de bestandsuploader</value>
+    <value xml:space="preserve">Controleer of er schadelijke bestandsextensies worden toegestaan door de bestandsuploader</value>
   </data>
   <data name="CheckAllowableFileExtensionsReason.Text" lastModified="2016-11-27 02:22:08">
-    <value xml:space="preserve">Er zijn aspx, asp of php bestanden gevonden in de toegestane extensie instellingen. Dit geeft hackers de mogelijkheid om code te uploaden. Verwijder de extentie binnen Host &gt; Gastheer Settings&gt; Toegestane extensies.</value>
+    <value xml:space="preserve">Er zijn aspx, asp of php bestanden gevonden in de toegestane bestandsextensie instellingen. Dit geeft hackers de mogelijkheid om code te uploaden. Verwijder de bestandsextensie binnen Applicatiebeheer &gt; Applicatieinstellingen&gt; Toegestane extensies.</value>
   </data>
   <data name="CheckAllowableFileExtensionsSuccess.Text" lastModified="2016-11-27 02:22:08">
-    <value xml:space="preserve">De toegestane extensies zijn correct ingesteld.</value>
+    <value xml:space="preserve">De toegestane bestandsextensies zijn correct ingesteld.</value>
   </data>
   <data name="CheckBiographyFailure.Text" lastModified="2016-11-27 04:42:57">
     <value xml:space="preserve">Dit veld is geavanceerd tekstveld. Spammer kunnen via dit veld binnen hun biografie links plaatsen naar hun website.</value>
@@ -88,7 +88,7 @@
     <value xml:space="preserve">Controleer of er geavanceerde tekstvelden aanwezig zijn binnen de profielvelden.</value>
   </data>
   <data name="CheckBiographyReason.Text" lastModified="2016-11-27 04:42:57">
-    <value xml:space="preserve">Het biografieveld is een bekend doelwit van spammers omdat ze hier HTML/Links in kunnen plaatsen. In DNN 7.2.0 is dit veld vervangen door een meerlijnstekstveld om dit risico te verwijderen.</value>
+    <value xml:space="preserve">Het biografieveld is een bekend doelwit van spammers omdat ze hier HTML/Links in kunnen plaatsen.</value>
   </data>
   <data name="CheckBiographySuccess.Text" lastModified="2016-11-27 04:42:57">
     <value xml:space="preserve">Het veld is een meerlijnstekstveld</value>
@@ -106,13 +106,13 @@
     <value xml:space="preserve">Niet in debug mode. Deze instelling is afhankelijk van de ingestelde waarde in de web.config.</value>
   </data>
   <data name="CheckDefaultPageFailure.Text" lastModified="2016-11-27 05:55:08">
-    <value xml:space="preserve">De standaard pagina(s) zijn aangepast. We raden aan deze pagina(s) goed te onderzoeken, deze kunnen zijn aangepast door een hacker en schadelijke code bevatten. Het beste kunnen de bestanden worden vergeleken met de bestanden uit een schone installatie van uw product. Controleer of de versie van uw DNN of Evoq website overeen komt met de versie van de applicatie waarmee u de bestanden wilt vergelijken. Verwijder eventuele schadelijke code of vervang de bestanden met de bestanden uit de schone installatie.</value>
+    <value xml:space="preserve">De standaard pagina(s) zijn aangepast. We raden aan deze pagina(s) goed te onderzoeken, deze kunnen zijn aangepast door een hacker en schadelijke code bevatten. Het beste kunnen de bestanden worden vergeleken met de bestanden uit een schone installatie van je product. Controleer of de versie van je DNN website overeen komt met de versie van de applicatie waarmee je de bestanden wilt vergelijken. Verwijder eventuele schadelijke code of vervang de bestanden met de bestanden uit de schone installatie.</value>
   </data>
   <data name="CheckDefaultPageName.Text" lastModified="2016-11-27 05:55:08">
     <value xml:space="preserve">Controleer of de default.aspx of default.aspx.cs bestanden zijn aangepast.</value>
   </data>
   <data name="CheckDefaultPageReason.Text" lastModified="2016-11-27 05:55:08">
-    <value xml:space="preserve">DNN gebruikt de default.aspx om alles te laten, dit bestand wordt bij iedere website opvraag ingeladen, als iemand dit bestand heeft aangepast kan dit een enorm risico vormen voor uw website.</value>
+    <value xml:space="preserve">DNN gebruikt de default.aspx om alles te laten, dit bestand wordt bij iedere website opvraag ingeladen, als iemand dit bestand heeft aangepast kan dit een enorm risico vormen voor je website.</value>
   </data>
   <data name="CheckDefaultPageSuccess.Text" lastModified="2016-11-27 05:55:08">
     <value xml:space="preserve">De default.aspx en default.aspx.cs bestanden zijn niet aangepast.</value>
@@ -124,7 +124,7 @@
     <value xml:space="preserve">Controleerd de toegang tot schrijven/mappen buiten de websitemap</value>
   </data>
   <data name="CheckDiskAccessReason.Text" lastModified="2016-11-27 07:10:04">
-    <value xml:space="preserve">De gebruikers die gebruikt wordt om uw website te draaien heeft toegang to bestanden buiten uw website locatie. een hacker kan deze bestanden lezen, bewerken of allebei.</value>
+    <value xml:space="preserve">De gebruikers die gebruikt wordt om je website te draaien heeft toegang to bestanden buiten je website locatie. een hacker kan deze bestanden lezen, bewerken of allebei.</value>
   </data>
   <data name="CheckDiskAccessSuccess.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">Hackers kunnen geen schrijven/mappen buiten de websiten bereiken</value>
@@ -145,7 +145,7 @@
     <value xml:space="preserve">Er zijn geen bestanden die als systeembestanden of als verborgen bestanden staan gemarkeerd binnen de website.</value>
   </data>
   <data name="CheckModuleHeaderAndFooterFailure.Text" lastModified="2016-11-27 07:10:04">
-    <value xml:space="preserve">Er zijn modules binnen uw systeem die een header of footer instellingen hebben, controleer deze instellingen of deze geen phishing code bevatten.</value>
+    <value xml:space="preserve">Er zijn modules binnen je systeem die een header of footer instellingen hebben, controleer deze instellingen of deze geen phishing code bevatten.</value>
   </data>
   <data name="CheckModuleHeaderAndFooterName.Text" lastModified="2016-11-27 07:10:04">
     <value xml:space="preserve">Controleer of modules header of footer instellingen hebben</value>
@@ -172,16 +172,16 @@
     <value xml:space="preserve">Doel van de controle</value>
   </data>
   <data name="CheckRarelyUsedSuperuserFailure.Text" lastModified="2016-11-27 09:25:37">
-    <value xml:space="preserve">We hebben één of meerdere host accounts gevonden welke voor zes maanden of langer inactief zijn. Overweeg deze account te verwijderen</value>
+    <value xml:space="preserve">We hebben één of meerdere applicatiebeheerdersaccounts gevonden welke voor zes maanden of langer inactief zijn. Overweeg deze account te verwijderen</value>
   </data>
   <data name="CheckRarelyUsedSuperuserName.Text" lastModified="2016-11-27 09:25:37">
-    <value xml:space="preserve">Controleer of host account amper worden gebruikt</value>
+    <value xml:space="preserve">Controleer of applicatiebeheerdersaccounts amper worden gebruikt</value>
   </data>
   <data name="CheckRarelyUsedSuperuserReason.Text" lastModified="2016-11-27 09:25:37">
-    <value xml:space="preserve">Host accounts zijn de accounts met de meeste rechten, We raden aan om deze tot een minimum te beperken.</value>
+    <value xml:space="preserve">Applicatiebeheerdersaccounts zijn de accounts met de meeste rechten, We raden aan om deze tot een minimum te beperken.</value>
   </data>
   <data name="CheckRarelyUsedSuperuserSuccess.Text" lastModified="2016-11-27 09:25:37">
-    <value xml:space="preserve">Alle hostgebruikers zijn actieve gebruikers van het systeem.</value>
+    <value xml:space="preserve">Alle applicatiebeheerders zijn actieve gebruikers van het systeem.</value>
   </data>
   <data name="CheckSiteRegistrationFailure.Text" lastModified="2016-11-27 09:25:37">
     <value xml:space="preserve">één of meerdere websites maken gebruik van een publieke gebruikersregistratie</value>
@@ -208,16 +208,16 @@
     <value xml:space="preserve">Het SQL Server account is correct geconfigureerd.</value>
   </data>
   <data name="CheckSuperuserOldPasswordFailure.Text" lastModified="2016-11-27 09:25:37">
-    <value xml:space="preserve">Er is tenminste één host gebruikers waarvan het wachtwoord langer als zes maanden is gewijzigd.</value>
+    <value xml:space="preserve">Er is tenminste één applicatiebeheerder waarvan het wachtwoord langer als zes maanden geleden is gewijzigd.</value>
   </data>
   <data name="CheckSuperuserOldPasswordName.Text" lastModified="2016-11-27 09:25:37">
-    <value xml:space="preserve">Controleer of hostgebruikers niet regelmatig hun wachtwoord wijzigen</value>
+    <value xml:space="preserve">Controleer of applicatiebeheerders niet regelmatig hun wachtwoord wijzigen</value>
   </data>
   <data name="CheckSuperuserOldPasswordReason.Text" lastModified="2016-11-27 09:25:37">
-    <value xml:space="preserve">Host gebruikers hebben de meeste rechten, daarom is het aan te raden om hun wachtwoord regelmatig te veranderen.</value>
+    <value xml:space="preserve">Applicatiebeheerdersaccounts hebben de meeste rechten, daarom is het aan te raden om hun wachtwoord regelmatig te veranderen.</value>
   </data>
   <data name="CheckSuperuserOldPasswordSuccess.Text" lastModified="2016-11-27 09:25:37">
-    <value xml:space="preserve">Er zijn geen hostgebruikers die een wachtwoord hebben dat ouder is als zes maanden.</value>
+    <value xml:space="preserve">Er zijn geen applicatiebeheerders die een wachtwoord hebben dat ouder is als zes maanden.</value>
   </data>
   <data name="CheckTelerikVulnerabilityFailure.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">De kwetsbaarheid van de Telerik-component is niet gepatcht, ga naar http://www.dnnsoftware.com/community-blog/cid/155449/critical-security-update--september2017 voor gedetailleerde informatie en om de patch te downloaden.</value>
@@ -247,16 +247,16 @@
     <value xml:space="preserve">Tracing is niet actief</value>
   </data>
   <data name="CheckUnexpectedExtensionsFailure.Text" lastModified="2016-11-27 10:32:19">
-    <value xml:space="preserve">Er is een asp php extensie gevonden- deze kunnen onschadelijk zijn, maar kunnen ook een indicatie geven dat uw website worden uitgebuit en dat deze bestanden tools zijn. We raden aan bestanden te controleren. </value>
+    <value xml:space="preserve">Er is een asp php bestandsextensie gevonden- deze kunnen onschadelijk zijn, maar kunnen ook een indicatie geven dat je website worden uitgebuit en dat deze bestanden tools zijn. We raden aan bestanden te controleren. </value>
   </data>
   <data name="CheckUnexpectedExtensionsName.Text" lastModified="2016-11-27 10:32:19">
     <value xml:space="preserve">Controleer of asp/php bestanden zijn gevonden</value>
   </data>
   <data name="CheckUnexpectedExtensionsReason.Text" lastModified="2016-11-27 13:54:25">
-    <value xml:space="preserve">DNN is een asp.net web applicatie. Onder normale omstandigheden worden er geen andere applicatie extensies gebruikt zoals aps en php.</value>
+    <value xml:space="preserve">DNN is een asp.net web applicatie. Onder normale omstandigheden worden er geen andere applicatie bestandsextensies gebruikt zoals aps en php.</value>
   </data>
   <data name="CheckUnexpectedExtensionsSuccess.Text" lastModified="2016-11-27 14:57:46">
-    <value xml:space="preserve">Er zijn geen onverwachte extensies gevonden</value>
+    <value xml:space="preserve">Er zijn geen onverwachte bestandsextensies gevonden</value>
   </data>
   <data name="CheckViewstatemacFailure.Text" lastModified="2016-11-27 14:57:46">
     <value xml:space="preserve">Viewstatemac validatie is niet actief</value>
@@ -286,7 +286,7 @@
     <value xml:space="preserve">Zoeken</value>
   </data>
   <data name="ContainsDuplicateAddresses.Text" lastModified="2016-11-27 17:01:45">
-    <value xml:space="preserve">De gebruiker basis van deze site bevat dubbele emailadressen. Als u het emailadres wilt gebruiken als gebruikersnaam dienen eerste de emailadressen te worden ontdubbelt.</value>
+    <value xml:space="preserve">De gebruiker basis van deze site bevat dubbele e-mailadressen. Als u het e-mailadres wilt gebruiken als gebruikersnaam dienen eerste de e-mailadressen te worden ontdubbelt.</value>
   </data>
   <data name="CreatedDate.Header" lastModified="2016-11-27 18:02:31">
     <value xml:space="preserve">Aanmaakdatum</value>
@@ -334,7 +334,7 @@
     <value xml:space="preserve">Filter bewerken</value>
   </data>
   <data name="Email.Header" lastModified="2018-07-24 11:00:42">
-    <value xml:space="preserve">E-mail</value>
+    <value xml:space="preserve"> e-mail</value>
   </data>
   <data name="Empty.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">{0} zou niet leeg moeten zijn.</value>
@@ -370,7 +370,7 @@
     <value xml:space="preserve">Hoog risico bestanden</value>
   </data>
   <data name="HostSettings.Text" lastModified="2016-11-28 02:24:49">
-    <value xml:space="preserve">Host instellingen</value>
+    <value xml:space="preserve">Applicatie-instellingen</value>
   </data>
   <data name="IpAddress.Header" lastModified="2016-11-28 02:24:49">
     <value xml:space="preserve">IP ADRES</value>
@@ -466,7 +466,7 @@
     <value xml:space="preserve">Recentelijk aangepaste bestanden</value>
   </data>
   <data name="ModifiedFilesLoadWarning.Text" lastModified="2016-11-28 19:44:31">
-    <value xml:space="preserve">Tool zal alle bestanden in uw systeem indexeren en de recent aangepaste bestanden weergeven. Dit kan enige tijd duren bij een website met veel bestanden.</value>
+    <value xml:space="preserve">Tool zal alle bestanden in je systeem indexeren en de recent aangepaste bestanden weergeven. Dit kan enige tijd duren bij een website met veel bestanden.</value>
   </data>
   <data name="ModifiedSettings.Text" lastModified="2016-11-28 20:45:45">
     <value xml:space="preserve">Recent aangepaste instellingen</value>
@@ -490,7 +490,7 @@
     <value xml:space="preserve">U heeft de vereis unieke weergavenaam optie geselecteerd maar u heeft niet het weergavenaam veld in de lijst van velden opgenomen.</value>
   </data>
   <data name="NoEmail.Text" lastModified="2016-11-28 22:48:41">
-    <value xml:space="preserve">Het "E-mail" veld, moet minimaal zijn ingesloten.</value>
+    <value xml:space="preserve">Het " e-mail" veld, moet minimaal zijn ingesloten.</value>
   </data>
   <data name="NoFileResults.Text" lastModified="2016-11-28 23:50:34">
     <value xml:space="preserve">Zoekterm is niet gevonden in een bestand</value>
@@ -598,10 +598,10 @@
     <value xml:space="preserve">Foutopsporingsmodus</value>
   </data>
   <data name="plDefaultEndUserExtensionWhitelist.Help" lastModified="2020-05-10 13:48:55">
-    <value xml:space="preserve">Dit is de lijst van extensies van bestanden die eindgebruikers mogen uploaden. Administrators deze overschrijven, maar kunnen nooit andere extensies toestaan dan die in de masterlijst is opgenomen. Let op: deze lijst wordt gefilterd door de bovenstaande lijst wanneer deze wordt opgeslagen.</value>
+    <value xml:space="preserve">Dit is de lijst van bestandsextensies van bestanden die eindgebruikers mogen uploaden. Administrators deze overschrijven, maar kunnen nooit andere bestandsextensies toestaan dan die in de masterlijst is opgenomen. Let op: deze lijst wordt gefilterd door de bovenstaande lijst wanneer deze wordt opgeslagen.</value>
   </data>
   <data name="plDefaultEndUserExtensionWhitelist.Text">
-    <value xml:space="preserve">Standaard eindgebruiker extensie whitelist</value>
+    <value xml:space="preserve">Standaard eindgebruiker bestandsextensie whitelist</value>
   </data>
   <data name="plEnableBannedList.Help" lastModified="2016-11-30 02:31:04">
     <value xml:space="preserve">Vink deze optie aan om een wachtwoord te controleren tegenover een lijst met verboden onderdelen.</value>
@@ -622,7 +622,7 @@
     <value xml:space="preserve">Activeer wachtwoord geschiedenis</value>
   </data>
   <data name="plEnableRegisterNotification.Help" lastModified="2016-11-30 06:35:34">
-    <value xml:space="preserve">Vink deze optie aan als er een email bericht moet worden verstuurd naar de hoofd administrator bij de registratie van een nieuwe gebruiker.</value>
+    <value xml:space="preserve">Vink deze optie aan als er een e-mail bericht moet worden verstuurd naar de hoofd administrator bij de registratie van een nieuwe gebruiker.</value>
   </data>
   <data name="plEnableRegisterNotification.Text" lastModified="2016-11-30 07:36:54">
     <value xml:space="preserve">Ontvang berichtgeving bij nieuwe gebruikersregistratie</value>
@@ -634,10 +634,10 @@
     <value xml:space="preserve">Activeer wachtwoord sterkte controle</value>
   </data>
   <data name="plFileExtensions.Help" lastModified="2016-11-30 09:43:42">
-    <value xml:space="preserve">Vul de bestands extensies in (gescheiden door comma's) die geupload kunnen worden binnen de website.</value>
+    <value xml:space="preserve">Vul de bestandsextensies in (gescheiden door comma's) die geupload kunnen worden binnen de website.</value>
   </data>
   <data name="plFileExtensions.Text" lastModified="2016-11-30 09:43:42">
-    <value xml:space="preserve">Toegestane bestands extensies:</value>
+    <value xml:space="preserve">Toegestane bestandsextensies:</value>
   </data>
   <data name="plFirstIP.Help" lastModified="2016-11-30 09:43:42">
     <value xml:space="preserve">Dit is of het enkele IP om te filteren , of zal worden gebruikt met de subnet mask om het bereik te berekenen van de IP adressen.</value>
@@ -727,7 +727,7 @@
     <value xml:space="preserve">SSL Offload Header waarde</value>
   </data>
   <data name="plSSLURL.Help" lastModified="2016-11-30 23:01:58">
-    <value xml:space="preserve">Specificeer optioneel welke URL er wordt gebruikt voor de beveiligde verbinding van de site. Dit is alleen nodig als je geen SSL certificaat hebt geinstalleerd voor je standaard website URL. Een voorbeeld is een gedeeld hosting account waar de host je voorzien van een gedeelde SSL URL.</value>
+    <value xml:space="preserve">Specificeer optioneel welke URL er wordt gebruikt voor de beveiligde verbinding van de site. Dit is alleen nodig als je geen SSL certificaat hebt geinstalleerd voor je standaard website URL. Een voorbeeld is een gedeeld hosting account waar de applicatiebeheerder je voorzien van een gedeelde SSL URL.</value>
   </data>
   <data name="plSSLURL.Text" lastModified="2016-12-01 00:03:08">
     <value xml:space="preserve">SSL URL</value>
@@ -745,7 +745,7 @@
     <value xml:space="preserve">Masker</value>
   </data>
   <data name="plUserRegistration.Help" lastModified="2016-12-01 04:07:53">
-    <value xml:space="preserve">Selecteer het gebruikersregistratietype, als er één is toegestaan voor de site. Prive registraties vereisten een goedkeuring door de site administrator voor er toegang wordt verleend tot de gebruikersrol. Publieke registratie geeft direct toegang en geverifieerd registratie vereist een goedgekeurd emailadres.</value>
+    <value xml:space="preserve">Selecteer het gebruikersregistratietype, als er één is toegestaan voor de site. Prive registraties vereisten een goedkeuring door de site administrator voor er toegang wordt verleend tot de gebruikersrol. Publieke registratie geeft direct toegang en geverifieerd registratie vereist een goedgekeurd e-mailadres.</value>
   </data>
   <data name="plUserRegistration.Text" lastModified="2016-12-01 03:04:39">
     <value xml:space="preserve">Gebruikersregistratie</value>
@@ -823,7 +823,7 @@
     <value xml:space="preserve">Gebruik verboden woorden filter</value>
   </data>
   <data name="registrationFieldsLabel.Help" lastModified="2016-12-01 21:28:15">
-    <value xml:space="preserve">Je kunt een comma gescheiden lijst opgeven van velden die je mee wilt geven. Als deze instelling wordt gebruikt, overschrijft dit de andere instellingen. De mogelijke velden zijn onderandere gebuikersnaam, email, wachtwoord, bevestig wachtwoord, weergavenaam en alle profiel eigenschappen.</value>
+    <value xml:space="preserve">Je kunt een comma gescheiden lijst opgeven van velden die je mee wilt geven. Als deze instelling wordt gebruikt, overschrijft dit de andere instellingen. De mogelijke velden zijn onderandere gebuikersnaam, e-mail, wachtwoord, bevestig wachtwoord, weergavenaam en alle profiel eigenschappen.</value>
   </data>
   <data name="registrationFieldsLabel.Text" lastModified="2016-12-01 20:25:58">
     <value xml:space="preserve">Registratievelden:</value>
@@ -847,7 +847,7 @@
     <value xml:space="preserve">Het huidige SQL Server account van register waardes lezen. controleer de rechten op de xp_regread, xp_regwrite, xp_regenumkeys, xp_regenumvalues, xp_regdeletekey, xp_regdeletekey, xp_regdeletevalue, xp_instance_regread, xp_instance_regwrite, xp_instance_regenumkeys, xp_instance_regenumvalues, xp_instance_regdeletekey, xp_instance_regdeletekey, xp_instance_regdeletevalue stored procedures.</value>
   </data>
   <data name="RequestFailed_Admin.Text" lastModified="2016-12-02 01:31:52">
-    <value xml:space="preserve">kan niet verbinden met {0}. Controleer of het adres geldig is en dat uw hosting provider hun proxyserver instellingen correct heeft staan.</value>
+    <value xml:space="preserve">kan niet verbinden met {0}. Controleer of het adres geldig is en dat je hosting provider hun proxyserver instellingen correct heeft staan.</value>
   </data>
   <data name="RequestFailed_User.Text" lastModified="2016-12-02 02:32:24">
     <value xml:space="preserve">De nieuwsfeed is op dit moment niet beschikbaar. foutboodschap:</value>
@@ -922,10 +922,10 @@
     <value xml:space="preserve">Weergavenaam format</value>
   </data>
   <data name="Security_EmailValidation.Help" lastModified="2016-12-02 11:48:37">
-    <value xml:space="preserve">Modificeer optioneel de email validatie expressie welke wordt gebruikt om de geldigheid van het ingegeven emailadres te controleren.</value>
+    <value xml:space="preserve">Modificeer optioneel de e-mailvalidatie-expressie welke wordt gebruikt om de geldigheid van het ingegeven e-mailadres te controleren.</value>
   </data>
   <data name="Security_EmailValidation.Text" lastModified="2016-12-02 11:48:37">
-    <value xml:space="preserve">E-mailadres validatie</value>
+    <value xml:space="preserve"> e-mailadres validatie</value>
   </data>
   <data name="Security_RequireValidProfile.Help" lastModified="2016-12-02 12:49:54">
     <value xml:space="preserve">Vink deze optie aan als gebruikers alle vereiste velden moeten invullen waaronder Gebruikersnaam, voornaam, achternaam, weergavenaam, e-mailadres en wachtwoord velden tijden de registratie.</value>
@@ -973,10 +973,10 @@
     <value xml:space="preserve">Standaard</value>
   </data>
   <data name="SuperuserActivity.Text" lastModified="2016-11-29 17:20:03">
-    <value xml:space="preserve">Superuser activiteit</value>
+    <value xml:space="preserve">Applicatiebeheerdersactiviteit</value>
   </data>
   <data name="SuperUserActivityExplaination.Text" lastModified="2016-11-29 18:21:16">
-    <value xml:space="preserve">Onder zijn de Superuser activiteiten. Zoek hier naar verdachte activiteiten. Let goed op de creatie en laatste login datums.</value>
+    <value xml:space="preserve">Onder zijn de Applicatiebeheerdersactiviteit weergegeven. Zoek hier naar verdachte activiteiten. Let goed op de creatie en laatste login datums.</value>
   </data>
   <data name="SysAdmin.Error" lastModified="2016-11-29 19:22:30">
     <value xml:space="preserve">Huidige SQL Server account is 'sysadmin'</value>
@@ -1027,7 +1027,7 @@
     <value xml:space="preserve">SSL instellingen</value>
   </data>
   <data name="TabSuperuserActivity.Text" lastModified="2016-11-29 20:24:45">
-    <value xml:space="preserve">SUPERUSER ACTIVITEITEN</value>
+    <value xml:space="preserve">APPLICATIEBEHEERDERSACTIVITEITEN</value>
   </data>
   <data name="UserId.Text" lastModified="2018-07-24 11:00:42">
     <value xml:space="preserve">Gebruikers-ID</value>

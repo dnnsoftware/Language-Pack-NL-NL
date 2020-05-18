@@ -79,7 +79,7 @@
     <value xml:space="preserve">Documentenbeheer instellingen</value>
   </data>
   <data name="DocumentsFilters.Help" lastModified="2016-01-03 00:46:08">
-    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de documentbeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van extensies. Gebruik het volgende format: *.Extensienaam</value>
+    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de documentbeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van bestandsbestandsextensies. Gebruik het volgende format: *.Extensienaam</value>
   </data>
   <data name="DocumentsFilters.Text" lastModified="2016-01-03 01:52:15">
     <value xml:space="preserve">Filters:</value>
@@ -115,7 +115,7 @@
     <value xml:space="preserve">Flash beheer instellingen</value>
   </data>
   <data name="FlashFilters.Help" lastModified="2016-01-03 02:56:13">
-    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de Flashbeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van extensies. Gebruik het volgende format: *.Extensienaam</value>
+    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de Flashbeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van bestandsextensies. Gebruik het volgende format: *.Extensienaam</value>
   </data>
   <data name="FlashFilters.Text" lastModified="2016-01-03 05:06:32">
     <value xml:space="preserve">Filters:</value>
@@ -142,7 +142,7 @@
     <value xml:space="preserve">Afbeeldingenbeheer instellingen</value>
   </data>
   <data name="ImagesFilters.Help" lastModified="2016-01-03 03:57:28">
-    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de afbeeldingenbeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van extensies. Gebruik het volgende format: *.Extensienaam</value>
+    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de afbeeldingenbeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van bestandsextensies. Gebruik het volgende format: *.Extensienaam</value>
   </data>
   <data name="ImagesFilters.Text" lastModified="2016-01-03 05:06:32">
     <value xml:space="preserve">Filters:</value>
@@ -187,10 +187,10 @@
     <value xml:space="preserve">Je hebt geen rechten om deze module te mogen gebruiken.</value>
   </data>
   <data name="lblNote.Text" lastModified="2016-01-03 05:06:32">
-    <value xml:space="preserve">Het doel van deze module is het registreren en configureren van de Rad editor provider. Het helpt host gebruikers om de HTML provider in de web.config in te stellen en te beheren.</value>
+    <value xml:space="preserve">Het doel van deze module is het registreren en configureren van de Rad editor provider. Het helpt applicatiebeheerders om de HTML provider in de web.config in te stellen en te beheren.</value>
   </data>
   <data name="lblOnlyHost.Text" lastModified="2016-01-03 05:06:32">
-    <value xml:space="preserve">Alleen host gebruikers mogen deze module gebruiken.</value>
+    <value xml:space="preserve">Alleen applicatiebeheerders mogen deze module gebruiken.</value>
   </data>
   <data name="lblPortal.Help" lastModified="2016-01-03 07:15:10">
     <value xml:space="preserve">Wanneer aangevinkt, dan zal deze website worden gekoppeld aan deze editor configuratie.</value>
@@ -268,7 +268,7 @@
     <value xml:space="preserve">Mediabeheer instellingen</value>
   </data>
   <data name="MediaFilters.Help" lastModified="2016-01-03 03:57:28">
-    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de mediabeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van extensies. Gebruik het volgende format: *.Extensienaam</value>
+    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de mediabeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van bestandsextensies. Gebruik het volgende format: *.Extensienaam</value>
   </data>
   <data name="MediaFilters.Text" lastModified="2016-01-03 08:17:11">
     <value xml:space="preserve">FIlter:</value>
@@ -333,7 +333,7 @@ Je moet een CustomLinks tool in je werkbalk configureren om deze optie te laten 
     <value xml:space="preserve">Silverlight beheer instellingen</value>
   </data>
   <data name="SilverlightFilters.Help" lastModified="2016-01-03 22:54:23">
-    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de silverlightbeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van extensies. Gebruik het volgende format: *.Extensienaam</value>
+    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de silverlightbeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van bestandsextensies. Gebruik het volgende format: *.Extensienaam</value>
   </data>
   <data name="SilverlightFilters.Text" lastModified="2016-01-03 22:54:23">
     <value xml:space="preserve">Filters:</value>
@@ -425,7 +425,7 @@ Je moet een CustomLinks tool in je werkbalk configureren om deze optie te laten 
     <value xml:space="preserve">Instellingen templatebeheer</value>
   </data>
   <data name="TemplateFilters.Help" lastModified="2016-01-03 03:57:28">
-    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de templatebeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van extensies. Gebruik het volgende format: *.Extensienaam</value>
+    <value xml:space="preserve">Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de templatebeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van bestandsextensies. Gebruik het volgende format: *.Extensienaam</value>
   </data>
   <data name="TemplateFilters.Text" lastModified="2016-01-03 09:29:54">
     <value xml:space="preserve">Filters:</value>

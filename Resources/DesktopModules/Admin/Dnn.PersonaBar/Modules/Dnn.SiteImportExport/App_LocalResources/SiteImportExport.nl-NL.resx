@@ -121,13 +121,13 @@
     <value xml:space="preserve">Exporteer omschrijving</value>
   </data>
   <data name="Extensions.Text">
-    <value xml:space="preserve">Extensies</value>
+    <value xml:space="preserve">Uitbreidingen</value>
   </data>
   <data name="FileSize.Text">
     <value xml:space="preserve">Grootte</value>
   </data>
   <data name="FinishImporting.Text">
-    <value xml:space="preserve">Om de import van uw site data te voltooien, klik op doorgaan, of klik op annuleren om de import af te breken.</value>
+    <value xml:space="preserve">Om de import van je site data te voltooien, klik op doorgaan, of klik op annuleren om de import af te breken.</value>
   </data>
   <data name="FolderName.Text">
     <value xml:space="preserve">Mapnaam</value>
@@ -154,7 +154,7 @@
     <value xml:space="preserve">Inclusief verwijderden</value>
   </data>
   <data name="IncludeExtensions.Text">
-    <value xml:space="preserve">Inclusief extensies</value>
+    <value xml:space="preserve">Inclusief uitbreidingen</value>
   </data>
   <data name="IncludeInExport.Text">
     <value xml:space="preserve">Meenemen in export</value>

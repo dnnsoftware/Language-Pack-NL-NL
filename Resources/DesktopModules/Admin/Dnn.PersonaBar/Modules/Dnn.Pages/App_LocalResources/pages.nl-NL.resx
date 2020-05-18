@@ -298,7 +298,7 @@
 		<value xml:space="preserve">Bestaande pagina</value>
 	</data>
 	<data name="ExistingPageTooltip.Text" lastModified="2016-11-29 20:52:44">
-		<value xml:space="preserve">Herleid naar een bestaande pagina op uw site.</value>
+		<value xml:space="preserve">Herleid naar een bestaande pagina op je site.</value>
 	</data>
 	<data name="ExportedMessage.Text" lastModified="2016-11-29 20:52:44">
 		<value xml:space="preserve">Het pagina sjabloon is gemaakt naar {0}</value>
@@ -730,7 +730,7 @@
 		<value xml:space="preserve">Bovenliggende pagina</value>
 	</data>
 	<data name="PathDuplicateWithAlias.Text" lastModified="2016-11-30 06:34:35">
-		<value xml:space="preserve">Er is een site domein identiek aan uw pagina pad.</value>
+		<value xml:space="preserve">Er is een site domein identiek aan je pagina pad.</value>
 	</data>
 	<data name="PathDuplicateWithPage.Text" lastModified="2018-07-21 22:18:34">
 		<value xml:space="preserve">Er is al een pagina met hetzelfde URL pad {0}.</value>
@@ -760,7 +760,7 @@
 		<value xml:space="preserve">Bekijk thema opmaak en container vooraf</value>
 	</data>
 	<data name="Prompt_DeletePage_Description.Text" lastModified="2018-07-21 22:18:34">
-		<value xml:space="preserve">Verwijdert een pagina in de portal en stuurt deze naar de Prullenbak. Voor extra veiligheid staat deze methode het niet toe om pagina's met kinderen, hostpagina's of pagina's in het //Admin-pad te verwijderen.</value>
+		<value xml:space="preserve">Verwijdert een pagina in de site en stuurt deze naar de Prullenbak. Voor extra veiligheid staat deze methode het niet toe om pagina's met kinderen, applicatiebeheerpagina's of pagina's in het //Admin-pad te verwijderen.</value>
 	</data>
 	<data name="Prompt_DeletePage_FlagId.Text" lastModified="2018-07-21 22:18:34">
 		<value xml:space="preserve">Geeft expliciet de pagina-ID aan die moet worden verwijderd. Gebruik van de vlagnaam is niet vereist. U kunt eenvoudig de ID-waarde als het eerste argument opgeven. Vereist als &lt;span class="mono"&gt;--parentid&lt;/span&gt; niet opgegeven is.</value>
@@ -815,7 +815,7 @@
 
         &lt;h4&gt;Verkrijg pagina op basis van paginanaam&lt;/h4&gt;
         &lt;p&gt;
-   OPMERKING: u kunt hostpagina's niet ophalen met deze methode omdat deze alleen pagina's binnen een portal ophaalt. Hostpagina's leven technisch buiten de portal. U kunt ze echter ophalen met de ID van de pagina (TabID in DNN-spraak).        &lt;/p&gt;
+   OPMERKING: u kunt applicatiebeheerpagina's niet ophalen met deze methode omdat deze alleen pagina's binnen een site ophaalt. Applicatiebeheerpagina's leven technisch buiten de site. U kunt ze echter ophalen met de ID van de pagina (TabID in DNN-spraak).        &lt;/p&gt;
         &lt;code class="block"&gt;get-page --name Home&lt;/code&gt;
         &lt;table class="command-result-tbl"&gt;
             &lt;tr&gt;&lt;td&gt;TabId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;345&lt;/td&gt;&lt;/tr&gt;
@@ -850,7 +850,7 @@
     &lt;/div&gt;</value>
 	</data>
 	<data name="Prompt_Goto_Description.Text" lastModified="2018-07-22 05:56:04">
-		<value xml:space="preserve">Navigeert naar de opgegeven pagina binnen de DNN-portal</value>
+		<value xml:space="preserve">Navigeert naar de opgegeven pagina binnen de DNN-site</value>
 	</data>
 	<data name="Prompt_Goto_FlagId.Text" lastModified="2018-07-22 05:56:04">
 		<value xml:space="preserve">Geef het pagina (tab) ID op van de pagina waarnaar u wilt navigeren. Expliciet gebruik van de markering &lt;span class = "mono"&gt; - id &lt;/ span&gt; is niet nodig. Geef gewoon de pagina-ID door als het eerste argument achter de opdrachtnaam</value>
@@ -905,7 +905,7 @@
 	</data>
 	<data name="Prompt_ListPages_ResultHtml.Text" lastModified="2018-07-22 16:29:15">
 		<value xml:space="preserve">&lt;div&gt;
-        &lt;h4&gt;Zet alle pagina's in de huidige portal in een lijst&lt;/h4&gt;
+        &lt;h4&gt;Zet alle pagina's in de huidige site in een lijst&lt;/h4&gt;
         &lt;code class="block"&gt;
             list-Paginas
         &lt;/code&gt;
@@ -996,11 +996,11 @@
                 &lt;/tr&gt;
                 &lt;tr&gt;
                     &lt;td&gt;50&lt;/td&gt;
-                    &lt;td&gt;Extensies&lt;/td&gt;
-                    &lt;td&gt;Extensies&lt;/td&gt;
+                    &lt;td&gt;Uitbreidingen&lt;/td&gt;
+                    &lt;td&gt;Uitbreidingen&lt;/td&gt;
                     &lt;td class="bg-info"&gt;43&lt;/td&gt;
                     &lt;td&gt;&lt;/td&gt;
-                    &lt;td&gt;//Admin//Extensies&lt;/td&gt;
+                    &lt;td&gt;//Admin//Uitbreidingen&lt;/td&gt;
                     &lt;td&gt;true&lt;/td&gt;
                     &lt;td&gt;false&lt;/td&gt;
                 &lt;/tr&gt;
@@ -1504,7 +1504,7 @@
 		<value xml:space="preserve">Sitemap Prioriteit</value>
 	</data>
 	<data name="SitemapPriority_tooltip.Text" lastModified="2016-11-30 09:40:00">
-		<value xml:space="preserve">Vul de gewenste prioriteit in (tussen 1 en 1.0). Dit helpt om te bepalen hoe de pagina is gerankt in Google ten opzichte van andere pagina's op uw site (0.5 is de standaard).</value>
+		<value xml:space="preserve">Vul de gewenste prioriteit in (tussen 1 en 1.0). Dit helpt om te bepalen hoe de pagina is gerankt in Google ten opzichte van andere pagina's op je site (0.5 is de standaard).</value>
 	</data>
 	<data name="Standard.Text" lastModified="2016-11-30 10:41:18">
 		<value xml:space="preserve">Standaard</value>

@@ -277,7 +277,7 @@
   &lt;/table&gt;</value>
   </data>
   <data name="Prompt_ListRoles_Description.Text" lastModified="2018-07-24 14:50:58">
-    <value xml:space="preserve">Hiermee wordt een lijst met DNN-beveiligingsrollen voor de portal opgehaald.</value>
+    <value xml:space="preserve">Hiermee wordt een lijst met DNN-beveiligingsrollen voor de site opgehaald.</value>
   </data>
   <data name="Prompt_ListRoles_FlagMax.Text" lastModified="2018-07-24 12:40:22">
     <value xml:space="preserve">Paginaformaat voor de pagina. Maximum is 500.</value>
@@ -287,7 +287,7 @@
   </data>
   <data name="Prompt_ListRoles_ResultHtml.Text" lastModified="2018-07-24 14:50:58">
     <value xml:space="preserve">&lt;div&gt;
-        &lt;h4&gt;Verkrijg informatie van de huidige portal&lt;/h4&gt;
+        &lt;h4&gt;Verkrijg informatie van de huidige site&lt;/h4&gt;
         &lt;code class="block"&gt;
             list-roles
         &lt;/code&gt;
@@ -371,7 +371,7 @@
     &lt;/div&gt;</value>
   </data>
   <data name="Prompt_NewRole_Description.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Maakt een nieuwe DNN-beveiligingsrol voor de portal aan.</value>
+    <value xml:space="preserve">Maakt een nieuwe DNN-beveiligingsrol voor de site aan.</value>
   </data>
   <data name="Prompt_NewRole_FlagAutoAssign.Text" lastModified="2018-07-24 12:40:22">
     <value xml:space="preserve">Als dit waar is, wordt deze rol automatisch toegewezen aan gebruikers van de site, inclusief bestaande gebruikers.</value>
@@ -639,7 +639,7 @@
     <value xml:space="preserve">Systeem rollen kunnen niet worden verwijderd.</value>
   </data>
   <data name="SendEmail.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Verzend email</value>
+    <value xml:space="preserve">Verzend e-mail</value>
   </data>
   <data name="SocialGroup.Text" lastModified="2016-12-01 09:19:43">
     <value xml:space="preserve">Sociale Groep</value>

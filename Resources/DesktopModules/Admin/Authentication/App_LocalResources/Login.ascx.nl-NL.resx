@@ -58,7 +58,7 @@
     <value xml:space="preserve">Nieuw account aanmaken</value>
   </data>
   <data name="EnterCode.Text">
-    <value xml:space="preserve">Voer uw verificatiecode in</value>
+    <value xml:space="preserve">Voer je verificatiecode in</value>
   </data>
   <data name="FailedToRemoveAccount.Text" lastModified="2020-05-16 19:45:26">
     <value xml:space="preserve">&lt;div&gt;Dit account kon niet worden verwijderd. Neem contact op met de site administrator en laat weren dat je account verwijderd moet worden.&lt;/div&gt;</value>

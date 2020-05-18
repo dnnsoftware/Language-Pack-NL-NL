@@ -19,13 +19,13 @@
     <value xml:space="preserve">Indexering toestaan</value>
   </data>
   <data name="Appearance.Text">
-    <value xml:space="preserve">Basis instellingen</value>
+    <value xml:space="preserve">Basisinstellingen</value>
   </data>
   <data name="Bind.Text">
     <value xml:space="preserve">Koppelen</value>
   </data>
   <data name="CacheDuration.Help">
-    <value xml:space="preserve">Geef de duur (in seconden) op voor de cache van deze pagina. Dit moet een heel getal zijn.</value>
+    <value xml:space="preserve">Geef de duur (in seconden) op voor de cache van deze pagina. Dit moet een geheel getal zijn.</value>
   </data>
   <data name="CacheDuration.Text">
     <value xml:space="preserve">Duur van de cache (seconden)</value>
@@ -67,7 +67,7 @@
     <value xml:space="preserve">De taal voor deze module</value>
   </data>
   <data name="cultureLabel.Text">
-    <value xml:space="preserve">Module taal:</value>
+    <value xml:space="preserve">Moduletaal:</value>
   </data>
   <data name="CustomSettings.Text">
     <value xml:space="preserve">{0} instellingen</value>
@@ -76,7 +76,7 @@
     <value xml:space="preserve">Klik op deze link om deze versie van de module in de oorspronkelijke taal te zien</value>
   </data>
   <data name="defaultCultureLabel.Text">
-    <value xml:space="preserve">Standaard cultuur:</value>
+    <value xml:space="preserve">Standaard taalinstelling:</value>
   </data>
   <data name="edit.Text">
     <value xml:space="preserve">Wijzigen</value>
@@ -115,7 +115,7 @@
     <value xml:space="preserve">Deze module is niet toegevoegd aan andere pagina's.</value>
   </data>
   <data name="LocalizedModules.Text">
-    <value xml:space="preserve">Module vertaling</value>
+    <value xml:space="preserve">Modulevertaling</value>
   </data>
   <data name="ModuleExists.Text">
     <value xml:space="preserve">Deze module bestaat al op de doelpagina (deze kan ook in de prullenmand zitten) en slechts één instantie van een module kan op een pagina bestaan.</value>
@@ -145,7 +145,7 @@
     <value xml:space="preserve">Pagina</value>
   </data>
   <data name="PageSettings.Text">
-    <value xml:space="preserve">Pagina instellingen</value>
+    <value xml:space="preserve">Pagina-instellingen</value>
   </data>
   <data name="Permissions.Text">
     <value xml:space="preserve">Machtigingen</value>
@@ -154,7 +154,7 @@
     <value xml:space="preserve">Vink deze optie aan om voor beheerders rode randen rond een module weer te geven wanneer deze op de site inloggen.</value>
   </data>
   <data name="plAdminBorder.Text">
-    <value xml:space="preserve">Verberg rand beheerder</value>
+    <value xml:space="preserve">Verberg randmarkering</value>
   </data>
   <data name="plAlign.Help" lastModified="2015-12-30 04:14:30">
     <value xml:space="preserve">Kies de uitlijning van de module content.</value>
@@ -163,7 +163,7 @@
     <value xml:space="preserve">Uitlijning:</value>
   </data>
   <data name="plAllModules.Help">
-    <value xml:space="preserve">Selecteer deze optie als je wilt dat de pagina-instellingen voor deze module worden toegepast op alle bestaande modules in de site. Deze optie is alleen beschikbaar voor site beheerders en superusers.</value>
+    <value xml:space="preserve">Selecteer deze optie als je wilt dat de pagina-instellingen voor deze module worden toegepast op alle bestaande modules in de site. Deze optie is alleen beschikbaar voor sitebeheerders en applicatiebeheerders.</value>
   </data>
   <data name="plAllModules.Text" lastModified="2015-12-30 06:19:44">
     <value xml:space="preserve">Op alle modules toepassen</value>
@@ -193,7 +193,7 @@
     <value xml:space="preserve">Kleur:</value>
   </data>
   <data name="plDefault.Help" lastModified="2015-12-30 06:19:44">
-    <value xml:space="preserve">Selecteer deze optie als je wilt dat de pagina-instellingen voor deze module worden gebruikt als de standaard instellingen bij het toevoegen van nieuwe modules. Deze optie is alleen beschikbaar voor site beheerders.</value>
+    <value xml:space="preserve">Selecteer deze optie als je wilt dat de pagina-instellingen voor deze module worden gebruikt als de standaard instellingen bij het toevoegen van nieuwe modules. Deze optie is alleen beschikbaar voor sitebeheerders.</value>
   </data>
   <data name="plDefault.Text" lastModified="2015-12-30 04:14:30">
     <value xml:space="preserve">Instellen als standaard instellingen</value>
@@ -292,7 +292,7 @@
     <value xml:space="preserve">Geef een titel op voor deze module. Deze titel zal, als dat ondersteund wordt door de container, weergegeven worden in de titelbalk van de container van deze module.</value>
   </data>
   <data name="plTitle.Text">
-    <value xml:space="preserve">Module titel:</value>
+    <value xml:space="preserve">Moduletitel:</value>
   </data>
   <data name="plVisibility.Help">
     <value xml:space="preserve">Kies de standaard zichtbaarheid voor deze module</value>

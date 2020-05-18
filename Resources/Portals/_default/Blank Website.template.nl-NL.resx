@@ -70,10 +70,10 @@
     <value xml:space="preserve">Beginnen (video overslaan)</value>
   </data>
   <data name="Tab.GettingStarted.Header.Module.Title.Text">
-    <value xml:space="preserve">&lt;strong&gt;Klaar om te starten!&lt;/strong&gt; u heeft zojuist uw installatie van DNNPlatform voltooid; &lt;strong&gt;wat wilt u als volgende doen?&lt;/strong&gt;</value>
+    <value xml:space="preserve">&lt;strong&gt;Klaar om te starten!&lt;/strong&gt; u heeft zojuist je installatie van DNNPlatform voltooid; &lt;strong&gt;wat wilt u als volgende doen?&lt;/strong&gt;</value>
   </data>
   <data name="Tab.GettingStarted.LeftPane.Module.Content.0.Text">
-    <value xml:space="preserve">De video hieronder zal&lt;strong&gt; u helpen &lt;/strong&gt; met de bouw van uw nieuwe DNN site. Met behulp van DNN  is u uw nieuwe site snel en gemakkelijk actief met echte inhoud in enkele minuten.</value>
+    <value xml:space="preserve">De video hieronder zal&lt;strong&gt; u helpen &lt;/strong&gt; met de bouw van je nieuwe DNN site. Met behulp van DNN  is u je nieuwe site snel en gemakkelijk actief met echte inhoud in enkele minuten.</value>
   </data>
   <data name="Tab.GettingStarted.LeftPane.Module.Content.1.Text">
     <value xml:space="preserve">Bekijk de introductievideo</value>
@@ -82,7 +82,7 @@
     <value xml:space="preserve">Nieuwe functionaliteit toevoegen</value>
   </data>
   <data name="Tab.GettingStarted.LeftPane.Module.Content.11.Text">
-    <value xml:space="preserve">Verbeter uw site met mogelijkheden zoals e-commerce.</value>
+    <value xml:space="preserve">Verbeter je site met mogelijkheden zoals e-commerce.</value>
   </data>
   <data name="Tab.GettingStarted.LeftPane.Module.Content.12.Text">
     <value xml:space="preserve">Bezoek de DNN webwinkel</value>
@@ -98,7 +98,7 @@
     <value xml:space="preserve">Bekijk de video</value>
   </data>
   <data name="Tab.GettingStarted.LeftPane.Module.Content.4.Text">
-    <value xml:space="preserve">Personaliseer uw DNN site</value>
+    <value xml:space="preserve">Personaliseer je DNN site</value>
   </data>
   <data name="Tab.GettingStarted.LeftPane.Module.Content.5.Text">
     <value xml:space="preserve">Bent u gereed met het omgaan met DNN?</value>
@@ -114,7 +114,7 @@
     <value xml:space="preserve">Het uiterlijk van mijn site wijzigen</value>
   </data>
   <data name="Tab.GettingStarted.LeftPane.Module.Content.9.Text">
-    <value xml:space="preserve">Vind nieuwe thema ontwerpen voor uw website in de DNN webwinkel.</value>
+    <value xml:space="preserve">Vind nieuwe thema ontwerpen voor je website in de DNN webwinkel.</value>
   </data>
   <data name="Tab.GettingStarted.LeftPane.Module.Title.0.Text">
     <value xml:space="preserve"> Wat is nieuw?</value>
@@ -129,7 +129,7 @@
     <value xml:space="preserve"> Al een expert?</value>
   </data>
   <data name="Tab.GettingStarted.RightPane.Module.Content.1.Text">
-    <value xml:space="preserve">Opstartprocedure van uw e-mail, installeer talen en andere geavanceerde configuratie instellingen.</value>
+    <value xml:space="preserve">Opstartprocedure van je e-mail, installeer talen en andere geavanceerde configuratie instellingen.</value>
   </data>
   <data name="Tab.GettingStarted.RightPane.Module.Content.2.Text">
     <value xml:space="preserve">Geavanceerde configuratie instellingen instellen</value>
@@ -148,13 +148,13 @@
     <value xml:space="preserve">Uw ideeën indienen</value>
   </data>
   <data name="Tab.GettingStarted.RightPane.Module.Content.7.Text">
-    <value xml:space="preserve">Wij waarderen altijd uw terugkoppeling</value>
+    <value xml:space="preserve">Wij waarderen altijd je terugkoppeling</value>
   </data>
   <data name="Tab.GettingStarted.RightPane.Module.Content.8.Text">
     <value xml:space="preserve">We zouden graag horen hoe we het doen</value>
   </data>
   <data name="Tab.GettingStarted.Title.Text">
-    <value xml:space="preserve">Welkom bij uw DNN installatie</value>
+    <value xml:space="preserve">Welkom bij je DNN installatie</value>
   </data>
   <data name="Tab.Home.Name.Text">
     <value xml:space="preserve">Home</value>
