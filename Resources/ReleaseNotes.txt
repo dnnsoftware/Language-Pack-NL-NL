@@ -1,0 +1,5 @@
+Release notes voor het nl-NL Taalpakket
+<br />
+nl-NL taalpakket voor DNNPlatform 09.06.01
+<br />
+<hr />

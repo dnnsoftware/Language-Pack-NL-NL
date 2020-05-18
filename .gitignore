@@ -20,10 +20,10 @@
 !*[a-zA-Z].nl-NL.resx
 
 # Don't forget  the language pack manifest and elements
-!resources\DNNCE_nl-NL.dnn
+!Resources/DNNCE_nl-NL.dnn
 
 # Don't forget the release notes
-!resources\ReleaseNotes.txt
+!Resources/ReleaseNotes.txt
 
 # Don't forget the license`
-!resources\license.txt
+!Resources/license.txt
