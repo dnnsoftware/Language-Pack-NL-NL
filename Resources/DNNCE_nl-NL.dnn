@@ -5,14 +5,13 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-			<releaseNotes>
-				<![CDATA[Releasenotes voor het nl-NL Taalpakket<br />nl-NL taalpakket voor DNNPlatform 09.06.01]]>
-			</releaseNotes>
+			<license src="License.txt"></license>			
+			<releaseNotes src="ReleaseNotes.txt"></releaseNotes>
 			<components>
 				<component type="CoreLanguage">
 					<languageFiles>
@@ -364,12 +363,12 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-			<releaseNotes></releaseNotes>
+			<license src="License.txt"></license>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -392,12 +391,12 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-			<releaseNotes></releaseNotes>
+			<license src="License.txt"></license>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -448,12 +447,12 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>	
-			<releaseNotes></releaseNotes>
+			<license src="License.txt"></license>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -492,12 +491,12 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license src="License.txt"></license>			
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -528,12 +527,12 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license src="License.txt"></license>			
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -556,12 +555,12 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-			<releaseNotes></releaseNotes>
+			<license src="License.txt"></license>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -584,12 +583,12 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license src="License.txt"></license>			
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -624,12 +623,12 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license src="License.txt"></license>			
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -664,12 +663,12 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license src="License.txt"></license>			
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -692,11 +691,13 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			<components>
+			<license src="License.txt"></license>			
+			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
 						<code>nl-NL</code>
@@ -730,12 +731,11 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -850,12 +850,11 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>DNN - http://www.dnnsoftware.com&lt;br&gt;Copyright (c) 2002-2018&lt;br&gt;by DNN Corp.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-			<releaseNotes></releaseNotes>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -874,12 +873,12 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
+			<license src="License.txt"></license>			
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -898,12 +897,11 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -922,12 +920,11 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -946,12 +943,11 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>			
-			<releaseNotes></releaseNotes>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -970,12 +966,12 @@
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile />
 			<owner>
+		        <name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license>Copyright (c) 2002-2020&lt;br&gt;by .NET Foundation.&lt;br&gt;&lt;br&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;br&gt;&lt;br&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.&lt;br&gt;&lt;br&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</license>
-			<releaseNotes></releaseNotes>
+			<license src="License.txt"></license>			
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>

@@ -19,5 +19,7 @@
 # And certainly not the translated resx files, but not the created artifacts
 !*[a-zA-Z].nl-NL.resx
 
-# Don't forget  the language pack manifest
+# Don't forget  the language pack manifest and elements
 !resources\DNNCE_nl-NL.dnn
+!resources\ReleaseNotes.txt
+!resources\license.txt
