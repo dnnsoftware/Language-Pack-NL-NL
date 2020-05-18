@@ -21,5 +21,9 @@
 
 # Don't forget  the language pack manifest and elements
 !resources\DNNCE_nl-NL.dnn
+
+# Don't forget the release notes
 !resources\ReleaseNotes.txt
+
+# Don't forget the license`
 !resources\license.txt
