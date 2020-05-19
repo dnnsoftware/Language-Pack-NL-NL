@@ -16,7 +16,7 @@
     <value>Geactiveerd</value>
   </data>
   <data name="Error.ACT1.Text" xml:space="preserve" lastModified="2016-11-30 07:18:33">
-    <value>Licensie Activatie mislukt. De ingevoerde licensie details matchen niet met een geldige licensie. &lt;br /&gt;&lt;br /&gt; Controleer uw licensie details op  &lt;a href="{0}" target="_blank"&gt; uw licensie pagina op dnnsoftware.com&lt;/a&gt; en probeer opnieuw. Als u problemen blijft houden, contacteer Technisch Support.</value>
+    <value>Licensieactivatie mislukt. De ingevoerde licensie details matchen niet met een geldige licensie. &lt;br /&gt;&lt;br /&gt; Controleer je licensie details op  &lt;a href="{0}" target="_blank"&gt; je licensie pagina op dnnsoftware.com&lt;/a&gt; en probeer opnieuw. Als u problemen blijft houden, contacteer Technisch Support.</value>
   </data>
   <data name="Error.ACT2.Text" xml:space="preserve" lastModified="2016-11-30 07:18:33">
     <value>Licensie activatie mislukt. Productie activatie voor {0} is in gebruik.</value>
@@ -28,7 +28,7 @@
     <value>Licensie activatie mislukt. Productie activatie voor {0} is in gebruik.</value>
   </data>
   <data name="Error.ACT6.Text" xml:space="preserve" lastModified="2016-11-30 08:22:28">
-    <value>Licensie activatie mislukt. Uw service periode voor deze licensie is verlopen op {0:d}. Contacteer &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
+    <value>Licensieactivatie mislukt. Je service periode voor deze licensie is verlopen op {0:d}. Contacteer &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
   </data>
   <data name="Error.ContactServer.activate" xml:space="preserve" lastModified="2016-11-30 09:24:30">
     <value>Niet in staat om licensie te activeren. Verbinding naar licensie server mislukt. Probeer later nog eens of gebruik handmatige activatie. Als u problemen blijft houden, contacteer Technisch Support.</value>
@@ -37,7 +37,7 @@
     <value>Verbinding met licensie server mislukt. U bent niet in staat om automatisch licensies te activeren en vernieuwen.  U kunt handmatige activatie gebruiken om een licensie te activeren. &lt;br /&gt;&lt;br /&gt; Voor licensie vernieuwing contacteer &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
   </data>
   <data name="Error.ContactServer.deactivate" xml:space="preserve" lastModified="2016-11-30 11:33:34">
-    <value>Uw licensie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen terug naar uw invoice als verbinding naar licensie server mislukt. Contacteer Technisch Support voor licensie activatie.</value>
+    <value>Uw licensie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen terug naar je invoice als verbinding naar licensie server mislukt. Contacteer Technisch Support voor licensie activatie.</value>
   </data>
   <data name="Error.ContactServer.renew" xml:space="preserve" lastModified="2016-11-30 11:33:34">
     <value>Niet in staat om Licensie te vernieuwen. Verbinding naar licensie server mislukt. Probeer later nog eens of contacteer &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;</value>
@@ -46,7 +46,7 @@
     <value>Verwijder licensie mislukt. De licensie is niet gevonden.</value>
   </data>
   <data name="Error.ExpiredLicense" xml:space="preserve" lastModified="2016-11-30 12:35:39">
-    <value>Licensie activatie mislukt. Uw licensie is verlopen op {0:d}. Check uw licensies op &lt;a href="{1}" target="_blank"&gt;your licenses page on dnnsoftware.com&lt;/a&gt;. Log in using the account you received when you first bought the product.</value>
+    <value>Licensieactivatie mislukt. Je licensie is verlopen op {0:d}. Check je licensies op &lt;a href="{1}" target="_blank"&gt;your licenses page on dnnsoftware.com&lt;/a&gt;. Log in using the account you received when you first bought the product.</value>
   </data>
   <data name="Error.LicenseAlreadyExists" xml:space="preserve" lastModified="2016-11-30 12:35:39">
     <value>Licensie Activation mislukt. De host server {0} heeft al {1} licensie.</value>
@@ -88,7 +88,7 @@
     <value>U heeft (nog) geen EVOQ licensies...</value>
   </data>
   <data name="NoLicense.Text" xml:space="preserve" lastModified="2016-11-30 13:40:15">
-    <value>Upgrade naar EVOQ hieronder om toegang te krijgen tot professionele features op uw sites.</value>
+    <value>Upgrade naar EVOQ hieronder om toegang te krijgen tot professionele features op je sites.</value>
   </data>
   <data name="Success.DevLicenseActivated" xml:space="preserve" lastModified="2016-11-30 14:44:31">
     <value>Ontwikkeling licensie is succesvol geactiveerd.</value>
@@ -103,7 +103,7 @@
     <value>Uw licensie is succesvol verwijderd.</value>
   </data>
   <data name="Success.LicenseDeactivatedContactServerErr" xml:space="preserve" lastModified="2016-11-30 14:44:31">
-    <value>Uw licensie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan uw invoice als verbinding naar licensie server mislukt. Als u een productie licensie moet activeren, contacteer Technisch Support.</value>
+    <value>Uw licensie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan je invoice als verbinding naar licensie server mislukt. Als u een productie licensie moet activeren, contacteer Technisch Support.</value>
   </data>
   <data name="Success.LicenseDeactivatedNoActivationIncrease" xml:space="preserve" lastModified="2016-11-30 15:51:26">
     <value>Uw licensie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan invoice. Als u een productie licensie moet activeren, contacteer Technisch Support.</value>
@@ -121,7 +121,7 @@
     <value>Uw verlengde proef licensie is succesvol geïnstalleerd.</value>
   </data>
   <data name="Success.TrialExtensionRequest" xml:space="preserve" lastModified="2016-11-30 15:51:26">
-    <value>Uw proef licensie verlenging verzoek is ingediend. U zal een email ontvangen binnen 1 werkdag met instructies voor het verlengen van uw licensie. Als u vragen heeft over de proef licensie verlengingen, bel DNN Corp. Sales Dept. op 650-288-3150.</value>
+    <value>Uw proeflicensieverlengingsverzoek is ingediend. Je ontvangt binnen 1 werkdag een e-mail met instructies voor het verlengen van je licensie. Als je vragen hebt over de proeflicensieverlengingen, bel DNN Corp. Sales Dept. op 01-650-288-3150.</value>
   </data>
   <data name="WebLicenseList.url" xml:space="preserve" lastModified="2016-11-30 16:53:48">
     <value>http://www.dnnsoftware.com/Support/Success-Network/License-Management</value>
@@ -136,7 +136,7 @@
     <value>DE COMMUNITY</value>
   </data>
   <data name="Docs">
-    <value>Ongeacht uw vragen, DNN's nieuwe" Doc Center" is de plaats om naar toe te gaan voor antwoorden, tutorials en product assistentie.</value>
+    <value>Ongeacht je vragen, DNN's nieuwe" Doc Center" is de plaats om naar toe te gaan voor antwoorden, tutorials en product assistentie.</value>
   </data>
   <data name="Docs.Header">
     <value>DOCUMENTATIE CENTER</value>
@@ -148,7 +148,7 @@
     <value>THE CODE</value>
   </data>
   <data name="Intro">
-    <value>DNN® (voorheen DotNetNuke® ) is het leidende Open Source content management platform (CMS) in het Microsoft ecosysteem. DNN wordt gebruikt om professionele website te maken, social intranets, community portals, extranets en meer.&lt;/div&gt;&lt;div&gt;DNNPlatform is meer dan 8 milhoen keer gedownload en kent een activieve commuity van meer dan 1 miljoen leden.</value>
+    <value>DNN® (voorheen DotNetNuke® ) is het leidende Open Source content management platform (CMS) in het Microsoft ecosysteem. DNN wordt gebruikt om professionele website te maken, social intranets, community sites, extranets en meer.&lt;/div&gt;&lt;div&gt;DNNPlatform is meer dan 8 milhoen keer gedownload en kent een activieve commuity van meer dan 1 miljoen leden.</value>
   </data>
   <data name="Intro.Header">
     <value>DNN Platform</value>

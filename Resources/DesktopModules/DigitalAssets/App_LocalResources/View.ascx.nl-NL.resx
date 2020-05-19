@@ -94,7 +94,7 @@
     <value xml:space="preserve">Bestanden uitklappen</value>
   </data>
   <data name="ExtensionChangeConfirmContent.Text" lastModified="2020-05-16 16:21:40">
-    <value xml:space="preserve">Als u de bestandsnaam extentie aanpast kan deze onbruikbaar worden. &lt;br&gt;Weet je zeker dat je deze wilt veranderen?</value>
+    <value xml:space="preserve">Als u de bestandsnaamextensie aanpast kan deze onbruikbaar worden. &lt;br&gt;Weet je zeker dat je deze wilt veranderen?</value>
   </data>
   <data name="ExtensionChangeConfirmTitle.Text">
     <value xml:space="preserve">De extensies zijn veranderd</value>

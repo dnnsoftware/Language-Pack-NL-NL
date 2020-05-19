@@ -13,10 +13,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Host.Text">
-    <value xml:space="preserve">SuperUser</value>
+    <value xml:space="preserve">Applicatiebeheerder</value>
   </data>
   <data name="Site.Text">
-    <value xml:space="preserve">Website</value>
+    <value xml:space="preserve">Site</value>
   </data>
   <data name="Preview.Text">
     <value xml:space="preserve">Vooruitblik</value>

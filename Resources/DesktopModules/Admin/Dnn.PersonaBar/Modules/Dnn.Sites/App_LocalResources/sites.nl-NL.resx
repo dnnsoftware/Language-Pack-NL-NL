@@ -256,7 +256,7 @@
     <value xml:space="preserve">Site installatie</value>
   </data>
   <data name="SendMail.Error">
-    <value xml:space="preserve">Er is een fout opgetreden bij het versturen van de bevesigingsemails - {0}  De site is echter wel aangemaakt. &amp;amp;lt;a href='{1}' {2}&amp;amp;gt;Klik hier om naar uw nieuwe site te gaan&amp;amp;lt;/a&amp;amp;gt;</value>
+    <value xml:space="preserve">Er is een fout opgetreden bij het versturen van de bevesigingsemails - {0}  De site is echter wel aangemaakt. &amp;amp;lt;a href='{1}' {2}&amp;amp;gt;Klik hier om naar je nieuwe site te gaan&amp;amp;lt;/a&amp;amp;gt;</value>
   </data>
   <data name="Settings.Text" lastModified="2016-12-01 12:15:19">
     <value xml:space="preserve">Geavanceerde configuratie</value>
@@ -307,7 +307,7 @@
     <value xml:space="preserve">Websitesjabloon informatie</value>
   </data>
   <data name="UnknownEmailAddress.Error">
-    <value xml:space="preserve">Er is geen e-mailadres ingesteld op site en/of host niveau.</value>
+    <value xml:space="preserve">Er is geen e-mailadres ingesteld op site en/of applicatieniveau.</value>
   </data>
   <data name="UnknownSendMail.Error">
     <value xml:space="preserve">Er is een fout opgetreden bij het versturen van de bevestigingse-mails, De website is echter wel aangemaakt. &lt;a href='{0}' {1}&gt;Klik hier om de nieuwe site te openen&lt;/a&gt;</value>

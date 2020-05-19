@@ -130,7 +130,7 @@
     <value>Bestandsnaam:&lt;br /&gt;</value>
   </data>
   <data name="FileType.Text" xml:space="preserve">
-    <value>Bestand (Een bestand in uw website)</value>
+    <value>Bestand (Een bestand in je website)</value>
   </data>
   <data name="Folder.Text" xml:space="preserve">
     <value>Bestandslocatie:&lt;br /&gt;</value>
@@ -172,7 +172,7 @@
     <value>Pagina:</value>
   </data>
   <data name="TabType.Text" xml:space="preserve">
-    <value>Pagina (een pagina uit uw website)</value>
+    <value>Pagina (een pagina uit je website)</value>
   </data>
   <data name="Track.Text" xml:space="preserve">
     <value>Aantal kliks op deze link vastleggen?&lt;br/&gt;</value>
@@ -196,6 +196,6 @@
     <value>Geef de gebruikersnaam van een bestaande gebruiker van deze site:&lt;br/&gt;</value>
   </data>
   <data name="UserType.Text" xml:space="preserve">
-    <value>Gebruiker (bestaande gebruiker van uw website)</value>
+    <value>Gebruiker (bestaande gebruiker van je website)</value>
   </data>
 </root>

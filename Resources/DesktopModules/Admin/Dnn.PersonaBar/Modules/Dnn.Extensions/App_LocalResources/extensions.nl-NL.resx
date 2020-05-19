@@ -124,13 +124,10 @@
     <value xml:space="preserve">App Geheim</value>
   </data>
   <data name="AvailableExtensions.Text" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Beschikbare extensies</value>
+    <value xml:space="preserve">Beschikbare uitbreidingen</value>
   </data>
   <data name="BackToEditExtension.Text">
-    <value xml:space="preserve">Terug naar bewerken {0} Extensies</value>
-  </data>
-  <data name="BackToExtensions.Text">
-    <value xml:space="preserve">Terug naar Extensies</value>
+    <value xml:space="preserve">Terug naar bewerken {0} uitbreidingen</value>
   </data>
   <data name="By.Text" lastModified="2016-11-29 12:23:40">
     <value xml:space="preserve">Door</value>
@@ -139,19 +136,19 @@
     <value xml:space="preserve">Annuleren</value>
   </data>
   <data name="Catalog.Text" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Extensie Feed</value>
+    <value xml:space="preserve">Uitbreiding Feed</value>
   </data>
   <data name="CatalogModule.Text" lastModified="2016-11-29 12:23:40">
     <value xml:space="preserve">Module</value>
   </data>
   <data name="CatalogSearchTitle.Text" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Zoeken naar extensies</value>
+    <value xml:space="preserve">Zoeken naar uitbreidingen</value>
   </data>
   <data name="CatalogSkin.Text" lastModified="2016-11-29 12:23:40">
     <value xml:space="preserve">Thema</value>
   </data>
   <data name="CheckLanguage.Text" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Gebruik update service om te controleren op bijgewerkte taalpakketten voor extensies</value>
+    <value xml:space="preserve">Gebruik update service om te controleren op bijgewerkte taalpakketten voor uitbreidingen</value>
   </data>
   <data name="ClearSearch.Text" lastModified="2020-05-16 18:47:28">
     <value xml:space="preserve">Zoeken leegmaken</value>
@@ -169,7 +166,7 @@
     <value xml:space="preserve">Containers</value>
   </data>
   <data name="ControlTitle_.Text" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Extensies</value>
+    <value xml:space="preserve">Uitbreidingen</value>
   </data>
   <data name="CoreLanguagePack.Type" lastModified="2016-11-29 12:23:40">
     <value xml:space="preserve">Kern Taalpakketten</value>
@@ -178,7 +175,7 @@
     <value xml:space="preserve">Maak Nieuwe Container</value>
   </data>
   <data name="CreateExtension.Action" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Maak Nieuwe Extensie</value>
+    <value xml:space="preserve">Maak nieuwe uitbreidingen</value>
   </data>
   <data name="CreateExtension_Cancel.Button" lastModified="2016-11-29 12:23:40">
     <value xml:space="preserve">Annuleren</value>
@@ -268,7 +265,7 @@
     <value xml:space="preserve">Pakket Manifest</value>
   </data>
   <data name="CreatePackage_PackageManifest.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Deze Wizard zal een manifest maken voor uw extensie. Als je al een manifest gemaakt hebt (door het gebruik van deze wizard of door het handmatig maken van een manifest) dan kan je selecteren om dit manifest te gebruiken door het "Gebruik bestaand manifest" vakje aan te vinken en te kiezen voor het manifest dat het systeem gevonden heeft voor deze extensie vanuit de uitklapbare lijst van manifesten. </value>
+    <value xml:space="preserve">Deze Wizard zal een manifest maken voor je uitbreiding. Als je al een manifest gemaakt hebt (door het gebruik van deze wizard of door het handmatig maken van een manifest) dan kan je selecteren om dit manifest te gebruiken door het "Gebruik bestaand manifest" vakje aan te vinken en te kiezen voor het manifest dat het systeem gevonden heeft voor deze uitbreiding vanuit de uitklapbare lijst van manifesten. </value>
   </data>
   <data name="CreatePackage_RefreshFileList.Button" lastModified="2016-11-29 18:13:17">
     <value xml:space="preserve">Ververs Bestandslijst</value>
@@ -289,10 +286,10 @@
     <value xml:space="preserve">Verwijderen</value>
   </data>
   <data name="Delete.Text" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Deïnstalleer deze Extensie</value>
+    <value xml:space="preserve">Deïnstalleer deze uitbreiding</value>
   </data>
   <data name="DeleteExtension.Action" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Verwijder Extensies - {0}</value>
+    <value xml:space="preserve">Verwijder uitbreidingen - {0}</value>
   </data>
   <data name="DeleteExtension.Cancel" lastModified="2016-11-29 18:13:17">
     <value xml:space="preserve">Nee</value>
@@ -304,7 +301,7 @@
     <value xml:space="preserve">Weet u zeker dat je {0} wilt verwijderen?</value>
   </data>
   <data name="DeleteFiles.HelpText" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Vink dit vakje aan om de bestanden te verwijderen die gekoppeld zijn aan deze extensie.</value>
+    <value xml:space="preserve">Vink dit vakje aan om de bestanden te verwijderen die gekoppeld zijn aan deze uitbreiding.</value>
   </data>
   <data name="DeleteFiles.Label" lastModified="2016-11-29 18:13:17">
     <value xml:space="preserve">Verwijder Bestanden?</value>
@@ -328,7 +325,7 @@
     <value xml:space="preserve">Downloaden</value>
   </data>
   <data name="Edit.Text" lastModified="2016-11-29 19:19:45">
-    <value xml:space="preserve">Bewerk deze extensie</value>
+    <value xml:space="preserve">Bewerk deze uitbreiding</value>
   </data>
   <data name="EditAuthSystem_Enabled.Label" lastModified="2016-11-29 19:19:45">
     <value xml:space="preserve">Ingeschakeld?</value>
@@ -370,13 +367,13 @@
     <value xml:space="preserve">Maak Pakket</value>
   </data>
   <data name="EditExtension_ExtensionSettings.TabHeader" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">Extensie Instellingen</value>
+    <value xml:space="preserve">Uitbreidingen instellingen</value>
   </data>
   <data name="EditExtension_License.TabHeader" lastModified="2016-11-29 20:26:20">
     <value xml:space="preserve">Licensie</value>
   </data>
   <data name="EditExtension_Notify.Success" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Extensie succesvol bijgewerkt</value>
+    <value xml:space="preserve">Uitbreiding succesvol bijgewerkt</value>
   </data>
   <data name="EditExtension_OwnerDetails.Label" lastModified="2016-11-29 20:26:20">
     <value xml:space="preserve">Eigenaar Details</value>
@@ -436,7 +433,7 @@
     <value xml:space="preserve">Het type pakket.</value>
   </data>
   <data name="EditExtension_PackageType.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Extensietype</value>
+    <value xml:space="preserve">Uitbreidingtype</value>
   </data>
   <data name="EditExtension_PackageURL.HelpText" lastModified="2016-11-29 20:26:20">
     <value xml:space="preserve">De auteur's URL.</value>
@@ -469,7 +466,7 @@
     <value xml:space="preserve">Pakket</value>
   </data>
   <data name="EditExtensions_TabHasError.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Dit tabblad heeft een fout. Pakketinformatie, extensie instellingen, licensie en releasenotes kunnen niet worden bewaard.</value>
+    <value xml:space="preserve">Dit tabblad heeft een fout. Pakketinformatie, uitbreidinginstellingen, licensie en releasenotes kunnen niet worden bewaard.</value>
   </data>
   <data name="EditJavascriptLibrary_CustomCDN.HelpText" lastModified="2016-11-29 21:35:25">
     <value xml:space="preserve">De URL naar een aangepaste CDN lokatie voor deze bibliotheek die zal worden gebruikt in plaats van de standaard CDN.</value>
@@ -613,7 +610,7 @@
     <value xml:space="preserve">Onondersteund</value>
   </data>
   <data name="EditModule_Permissions.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Je kunt een lijst maken van alle code toegang beveiliging toestemmingen die uw module nodig heeft.</value>
+    <value xml:space="preserve">Je kunt een lijst maken van alle code toegang beveiliging toestemmingen die je module nodig heeft.</value>
   </data>
   <data name="EditModule_Permissions.Label" lastModified="2016-11-30 01:15:20">
     <value xml:space="preserve">Toestemmingen</value>
@@ -661,22 +658,22 @@
     <value xml:space="preserve">Alle uitvouwen</value>
   </data>
   <data name="Extension.Header" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Extensie</value>
+    <value xml:space="preserve">Uitbreiding</value>
   </data>
   <data name="ExtensionDetail.Text" lastModified="2020-05-16 21:24:29">
     <value xml:space="preserve">Meer details</value>
   </data>
   <data name="ExtensionInstall.Action" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Installeer Extensie</value>
+    <value xml:space="preserve">Installeer uitbreiding</value>
   </data>
   <data name="ExtensionLanguagePack.Type" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Extensie Taalpakketten</value>
+    <value xml:space="preserve">Uitbreiding Taalpakketten</value>
   </data>
   <data name="Extensions.Text" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Extensies</value>
+    <value xml:space="preserve">Uitbreidingen</value>
   </data>
   <data name="ExtensionsLabel.Text" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Extensies</value>
+    <value xml:space="preserve">Uitbreidingen</value>
   </data>
   <data name="ImportModule.Action" lastModified="2016-11-30 04:35:14">
     <value xml:space="preserve">Importeer Module Definitie</value>
@@ -688,10 +685,10 @@
     <value xml:space="preserve">Er ontstond een fout tijdens het installeren. Zie log bestanden hieronder voor meer informatie.</value>
   </data>
   <data name="InstalledExtensions.Text" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Geïnstalleerde Extensies</value>
+    <value xml:space="preserve">Geïnstalleerde uitbreidingen</value>
   </data>
   <data name="InstalledOnHost.Tooltip" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Geïnstalleerd op Host</value>
+    <value xml:space="preserve">Geïnstalleerd in Applicatiebeheer</value>
   </data>
   <data name="InstalledOnPortal.Tooltip" lastModified="2016-11-30 04:35:14">
     <value xml:space="preserve">Geïnstalleerd op {0}</value>
@@ -721,7 +718,7 @@
     <value xml:space="preserve">Licentie</value>
   </data>
   <data name="InstallExtension_License.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Alvorens verder te gaan moet u de voorwaarden van de licentie voor deze extensie accepteren. Bekijk de licentie en vink het vakje 'accepteer licentie' aan.</value>
+    <value xml:space="preserve">Alvorens verder te gaan moet u de voorwaarden van de licentie voor deze uitbreiding accepteren. Bekijk de licentie en vink het vakje 'accepteer licentie' aan.</value>
   </data>
   <data name="InstallExtension_Logs.Header" lastModified="2016-11-30 05:35:50">
     <value xml:space="preserve">Pakket Installatie Rapport</value>
@@ -775,7 +772,7 @@
     <value xml:space="preserve">Een onbekende fout is opgetreden. Controleer je installatie zip-bestand en probeer het opnieuw. &lt;br /&gt; 
 Vaak voorkomende problemen met slechte installatie bestanden: 
 &lt;ul&gt;
-&lt;li&gt;Het zip-bestand is te groot. Controleer uw IIS instellingen voor maximum upload bestandsgrootte.&lt;/li&gt;
+&lt;li&gt;Het zip-bestand is te groot. Controleer je IIS instellingen voor maximum upload bestandsgrootte.&lt;/li&gt;
 &lt;li&gt;Ontbrekende bronnen in het zip-bestand.&lt;/li&gt;
 &lt;li&gt;Ongeldige bestanden in het pakket.&lt;/li&gt;
 &lt;li&gt;Bestandsextensie is niet .zip.&lt;/li&gt;
@@ -786,19 +783,19 @@ Vaak voorkomende problemen met slechte installatie bestanden:
     <value xml:space="preserve">Aan het uploaden</value>
   </data>
   <data name="InstallExtension_UploadPackage.Header" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Extensie pakket uploaden</value>
+    <value xml:space="preserve">Uitbreidingspakket uploaden</value>
   </data>
   <data name="InstallExtension_UploadPackage.HelpText" lastModified="2020-05-16 21:24:29">
     <value xml:space="preserve">Om de installatie te starten, upload het pakket door het bestand te verslepen naar het veld hieronder.</value>
   </data>
   <data name="InstallExtensions.Action" lastModified="2016-11-30 07:46:14">
-    <value xml:space="preserve">Installeer Beschikbare Extensies</value>
+    <value xml:space="preserve">Installeer beschikbare uitbreidingen</value>
   </data>
   <data name="InUse.Header" lastModified="2016-11-30 07:46:14">
     <value xml:space="preserve">In gebruik</value>
   </data>
   <data name="InvalidDNNManifest.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Dit pakket blijkt geen geldige DNN extensie te zijn aangezien er een manifest ontbreekt. Oude thema's en containers omvatten geen manifesten. Als dit pakket een geërfd thema is, of een container pakket, controleer de juiste knop hieronder en klik op volgende.</value>
+    <value xml:space="preserve">Dit pakket blijkt geen geldige DNN uitbreiding te zijn aangezien er een manifest ontbreekt. Oude thema's en containers omvatten geen manifesten. Als dit pakket een geërfd thema is, of een container pakket, controleer de juiste knop hieronder en klik op volgende.</value>
   </data>
   <data name="InvalidExt.Text" lastModified="2020-05-16 21:24:29">
     <value xml:space="preserve">Ongeldige bestandsextensie - {0}</value>
@@ -825,7 +822,7 @@ Vaak voorkomende problemen met slechte installatie bestanden:
     <value xml:space="preserve">Installeer Taalpakket</value>
   </data>
   <data name="lblUpdate.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Deze applicatie omvat een updateservice die een icon weergeeft zodra er een nieuwe versie van een extensie beschikbaar is. Het weergegeven icon omvat een visuele indicatie als de huidig geïnstalleerde extensie een potentieel beveiligingsprobleem bevat. Als dit geïdentificeerd wordt, dan wordt het sterk aanbevolen om naar de nieuwere versie van de extensie te upgraden. Door te klikken op dit icon zal je geleid worden naar een locatie waar je deze extensie kunt verkrijgen. </value>
+    <value xml:space="preserve">Deze applicatie omvat een updateservice die een icon weergeeft zodra er een nieuwe versie van een uitbreiding beschikbaar is. Het weergegeven icon omvat een visuele indicatie als de huidig geïnstalleerde uitbreiding een potentieel beveiligingsprobleem bevat. Als dit geïdentificeerd wordt, dan wordt het sterk aanbevolen om naar de nieuwere versie van de uitbreiding te upgraden. Door te klikken op dit icon zal je geleid worden naar een locatie waar je deze uitbreiding kunt verkrijgen. </value>
   </data>
   <data name="Library.Type" lastModified="2016-11-30 11:55:49">
     <value xml:space="preserve">Bibliotheken</value>
@@ -837,13 +834,13 @@ Vaak voorkomende problemen met slechte installatie bestanden:
     <value xml:space="preserve">Licensie</value>
   </data>
   <data name="ListExtensions.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Leer meer over hoe je extensies aan te bieden &lt;a href="http://store.dnnsoftware.com/make-money/become-a-seller" target="_blank" class="info"&gt;here&lt;/a&gt;</value>
+    <value xml:space="preserve">Leer meer over hoe je uitbreidingen aan te bieden &lt;a href="http://store.dnnsoftware.com/make-money/become-a-seller" target="_blank" class="info"&gt;here&lt;/a&gt;</value>
   </data>
   <data name="Loading.Text" lastModified="2018-07-23 09:57:43">
-    <value xml:space="preserve">Wacht even... We zijn je extensies aan het ophalen</value>
+    <value xml:space="preserve">Wacht even... We zijn je uitbreidingen aan het ophalen</value>
   </data>
   <data name="Loading.Tooltip" lastModified="2018-07-23 09:57:43">
-    <value xml:space="preserve">Je extensies zullen er over een klein moment zijn</value>
+    <value xml:space="preserve">Je uitbreidingen zullen er over een klein moment zijn</value>
   </data>
   <data name="LoadingLabel.Text" lastModified="2016-11-30 10:54:45">
     <value xml:space="preserve">Laden</value>
@@ -903,7 +900,7 @@ Vaak voorkomende problemen met slechte installatie bestanden:
     <value xml:space="preserve">Module gebruikt voor {0}</value>
   </data>
   <data name="MoreExtensions.Text" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Meer Extensies</value>
+    <value xml:space="preserve">Meer uitbreidingen</value>
   </data>
   <data name="MoreInformation.Text" lastModified="2016-11-30 02:24:47">
     <value xml:space="preserve">Meer Informatie</value>
@@ -918,13 +915,13 @@ Vaak voorkomende problemen met slechte installatie bestanden:
     <value xml:space="preserve">Naam: Z - A</value>
   </data>
   <data name="nav_Extensions.Text" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Extensies</value>
+    <value xml:space="preserve">Uitbreidingen</value>
   </data>
   <data name="NewModule_AddFolder.Button" lastModified="2016-11-30 02:24:47">
     <value xml:space="preserve">Toevoegen map</value>
   </data>
   <data name="NewModule_AddTestPage.HelpText" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Vink dit vakje aan om een testpagina te maken voor uw nieuwe module.</value>
+    <value xml:space="preserve">Vink dit vakje aan om een testpagina te maken voor je nieuwe module.</value>
   </data>
   <data name="NewModule_AddTestPage.Label" lastModified="2016-11-30 02:24:47">
     <value xml:space="preserve">Toevoegen Testpagina:</value>
@@ -960,7 +957,7 @@ Vaak voorkomende problemen met slechte installatie bestanden:
     <value xml:space="preserve">Taal</value>
   </data>
   <data name="NewModule_ModuleFolder.HelpText" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Dit is de map waar uw module bestanden en mappen ziich bevinden.</value>
+    <value xml:space="preserve">Dit is de map waar je module bestanden en mappen ziich bevinden.</value>
   </data>
   <data name="NewModule_ModuleFolder.Label" lastModified="2016-11-30 02:24:47">
     <value xml:space="preserve">Module Map</value>
@@ -996,7 +993,7 @@ Vaak voorkomende problemen met slechte installatie bestanden:
     <value xml:space="preserve">Geen</value>
   </data>
   <data name="NoResults.Text" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Geen extensies zijn gevonden</value>
+    <value xml:space="preserve">Geen uitbreidingen zijn gevonden</value>
   </data>
   <data name="NotSpecified.Text" lastModified="2016-11-29 14:33:21">
     <value xml:space="preserve">Niet gespecificeerd</value>
@@ -1011,13 +1008,13 @@ Vaak voorkomende problemen met slechte installatie bestanden:
     <value xml:space="preserve">Persona Bar</value>
   </data>
   <data name="plLocales.Help" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Kies een taal om een lijst weer te geven van extensies die een taalpakket beschikbaar hebben in de geselecteerde taal. Als een taalpakket bestaat, volg de link om het taalpakket te downloaden en installeren. </value>
+    <value xml:space="preserve">Kies een taal om een lijst weer te geven van uitbreidingen die een taalpakket beschikbaar hebben in de geselecteerde taal. Als een taalpakket bestaat, volg de link om het taalpakket te downloaden en installeren. </value>
   </data>
   <data name="plLocales.Text" lastModified="2020-05-16 21:24:29">
     <value xml:space="preserve">Vind beschikbare Taalpakketten:</value>
   </data>
   <data name="plPackageTypes.Help" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Selecteer een enkel type extensie om weer te geven. </value>
+    <value xml:space="preserve">Selecteer een enkel type uitbreiding om weer te geven. </value>
   </data>
   <data name="plPackageTypes.Text" lastModified="2016-11-29 14:33:21">
     <value xml:space="preserve">Filter op Type:</value>
@@ -1038,7 +1035,7 @@ Vaak voorkomende problemen met slechte installatie bestanden:
     <value xml:space="preserve">Providers</value>
   </data>
   <data name="PurchasedExtensions.Text" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Aangekochte Extensies</value>
+    <value xml:space="preserve">Aangekochte uitbreidingen</value>
   </data>
   <data name="Save.Button" lastModified="2016-11-29 13:28:23">
     <value xml:space="preserve">Opslaan</value>
@@ -1074,7 +1071,7 @@ Vaak voorkomende problemen met slechte installatie bestanden:
     <value xml:space="preserve">Lijst van {0} Extenties geïnstalleerd</value>
   </data>
   <data name="TreeHeader.Text" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Geïnstalleerde extensies</value>
+    <value xml:space="preserve">Geïnstalleerde uitbreidingen</value>
   </data>
   <data name="TryAgain.Text" lastModified="2016-11-29 13:28:23">
     <value xml:space="preserve">[Probeer opnieuw]</value>

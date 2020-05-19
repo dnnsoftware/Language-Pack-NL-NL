@@ -154,7 +154,7 @@
     <value xml:space="preserve">Naam</value>
   </data>
   <data name="ProfileProperties_Photo.Help">
-    <value xml:space="preserve">Selecteer een foto of upload een afbeelding vanaf uw lokaal systeem.</value>
+    <value xml:space="preserve">Selecteer een foto of upload een afbeelding vanaf je lokale systeem.</value>
   </data>
   <data name="ProfileProperties_Photo.Required" lastModified="2015-12-31 08:32:14">
     <value xml:space="preserve">Foto is Verplicht.</value>
@@ -175,7 +175,7 @@
     <value xml:space="preserve">Voorkeuren</value>
   </data>
   <data name="ProfileProperties_PreferredLocale.Help" lastModified="2015-12-31 08:32:14">
-    <value xml:space="preserve">Kies uw voorkeurstaal.</value>
+    <value xml:space="preserve">Kies je voorkeurstaal.</value>
   </data>
   <data name="ProfileProperties_PreferredLocale.Required" lastModified="2015-12-31 08:32:14">
     <value xml:space="preserve">Voorkeurstaal is een verplicht veld.</value>
@@ -247,7 +247,7 @@
     <value xml:space="preserve">Telefoon:</value>
   </data>
   <data name="ProfileProperties_TimeZone.Help" lastModified="2015-12-31 08:32:14">
-    <value xml:space="preserve">Kies uw tijdzone.</value>
+    <value xml:space="preserve">Kies je tijdzone.</value>
   </data>
   <data name="ProfileProperties_TimeZone.Required" lastModified="2015-12-31 08:32:14">
     <value xml:space="preserve">Tijdzone is een verplicht veld.</value>

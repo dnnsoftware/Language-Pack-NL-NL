@@ -136,7 +136,7 @@
     <value xml:space="preserve">Bestandsnaam</value>
   </data>
   <data name="HostAlertCode.Text" lastModified="2016-11-30 07:23:19">
-    <value xml:space="preserve">Host Waarschuwing</value>
+    <value xml:space="preserve">Applicatiewaarschuwing</value>
   </data>
   <data name="In.Text" lastModified="2016-11-30 07:23:19">
     <value xml:space="preserve">in</value>

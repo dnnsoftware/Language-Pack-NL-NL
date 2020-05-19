@@ -23,7 +23,7 @@
   </data>
   <data name="BestPractices.Text" lastModified="2020-05-14 07:52:07">
     <value xml:space="preserve">Je staat op het punt om je  website te upgraden naar een recentere versie van de applicatie. Het regelmatig toepassen van upgrades is de beste manier om ervoor te zorgen dat de integriteit van de investering en de veiligheid van de gebruikers gegarandeerd blijft. 
-Voordat je verder gaat met de geautomatiseerde upgrade-proces moetje ervoor zorgen dat: &lt;ul&gt; &lt;li&gt;je deze eerst probeert in een testomgeving&lt;/li&gt;&lt;li&gt;er een back-up is van de huidige installatie&lt;/li&gt;&lt;li&gt;eventueel aangeschafte extensies van derden werken in de nieuwe omgeving&lt;/li&gt;&lt;/ ul&gt;</value>
+Voordat je verder gaat met de geautomatiseerde upgrade-proces moetje ervoor zorgen dat: &lt;ul&gt; &lt;li&gt;je deze eerst probeert in een testomgeving&lt;/li&gt;&lt;li&gt;er een back-up is van de huidige installatie&lt;/li&gt;&lt;li&gt;eventueel aangeschafte uitbreidingen van derden werken in de nieuwe omgeving&lt;/li&gt;&lt;/ ul&gt;</value>
   </data>
   <data name="CurrentVersion.Text">
     <value xml:space="preserve">Huidige versie - {0}</value>
@@ -62,7 +62,7 @@ Voordat je verder gaat met de geautomatiseerde upgrade-proces moetje ervoor zorg
     <value xml:space="preserve">Geen installatie log</value>
   </data>
   <data name="Password.Help" lastModified="2020-05-14 14:01:46">
-    <value xml:space="preserve">Het wachtwoord voor het hoofdgebruikersaccount</value>
+    <value xml:space="preserve">Het wachtwoord voor het applicatiebeheerdersaccount</value>
   </data>
   <data name="Password.Text">
     <value xml:space="preserve">Wachtwoord:</value>
@@ -92,19 +92,19 @@ Voordat je verder gaat met de geautomatiseerde upgrade-proces moetje ervoor zorg
     <value xml:space="preserve">Database bijwerken</value>
   </data>
   <data name="Username.Help" lastModified="2020-05-14 12:01:01">
-    <value xml:space="preserve">De gebruikersnaam voor het hoofdgebruiker account</value>
+    <value xml:space="preserve">De gebruikersnaam voor het applicatiebeheerdersaccount</value>
   </data>
   <data name="Username.Text" lastModified="2020-05-14 14:01:46">
-    <value xml:space="preserve">Systeem (SuperUser) hoofdgebruikersnaam:</value>
+    <value xml:space="preserve">Applicatiebeheerdersnaam (SuperUser):</value>
   </data>
   <data name="Version.Text">
     <value xml:space="preserve">Upgrade - versie {0}</value>
   </data>
   <data name="VersionsMatch.Text" lastModified="2018-07-24 01:44:15">
-    <value xml:space="preserve">Database en applicatie versie zijn gelijk - geen uprade om toe te passen.</value>
+    <value xml:space="preserve">Database en applicatie versie zijn gelijk - geen upgrade om toe te passen.</value>
   </data>
   <data name="VersionsMatchButIncrementalExists.Text" lastModified="2020-05-14 12:01:01">
-    <value xml:space="preserve">Database en applicatie versie zijn gelijk - er is een incrementele ugrade versie beschikbaar.</value>
+    <value xml:space="preserve">Database en applicatieversie zijn gelijk - er is een incrementele upgrade versie beschikbaar.</value>
   </data>
   <data name="ViewWebsite.Text">
     <value xml:space="preserve">Website weergeven</value>

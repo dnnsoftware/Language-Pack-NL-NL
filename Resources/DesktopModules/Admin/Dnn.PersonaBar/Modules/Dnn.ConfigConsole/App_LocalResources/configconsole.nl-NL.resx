@@ -88,7 +88,7 @@
     <value xml:space="preserve">Weet je zeker dat je wijzingen aan dit configuratiebestand wilt opslaan?</value>
   </data>
   <data name="SaveWarning.Text" lastModified="2020-05-16 20:36:18">
-    <value xml:space="preserve">Het wijzigingen van de web.config zorgt ervoor dat uw website zal herladen en kan de prestaties van de site doen afnemen tijdens het herladen van de applicatie door de webserver. Wil je doorgaan?</value>
+    <value xml:space="preserve">Het wijzigingen van de web.config zorgt ervoor dat je site zal herladen en kan de prestaties van de site doen afnemen tijdens het herladen van de applicatie door de webserver. Wil je doorgaan?</value>
   </data>
   <data name="scriptLabel.Help" lastModified="2020-05-16 20:36:18">
     <value xml:space="preserve">Je kunt het het samenvoegingsscript bewerken voordat je het gaat uitvoeren.</value>

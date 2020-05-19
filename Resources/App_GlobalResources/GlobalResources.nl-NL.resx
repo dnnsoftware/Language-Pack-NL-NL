@@ -127,7 +127,7 @@
         &amp;lt;ol style="text-align: left; list-style-type: decimal; list-style-position: outside;"&amp;gt;
             &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Web Server Processingver Processing&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
                 &amp;lt;ul style="list-style-type: disc;"&amp;gt;
-                    &amp;lt;li&amp;gt;Zodra de webserver een request ontvangt van de client, wordt the extensie waar 
+                    &amp;lt;li&amp;gt;Zodra de webserver een request ontvangt van de client, wordt the bestandsextensie waar 
                         de URL mee eindigt vergeleken met de Application Extension Mappings zoals 
                         gedefinieer in IIS.&amp;lt;/li&amp;gt;
                     &amp;lt;li&amp;gt;Afhankelijk van de soort match wordt het request door IIS doorgestuurd naar de 
@@ -183,7 +183,7 @@
     <value xml:space="preserve">Applicatie Upgrades</value>
   </data>
   <data name="AspNetHostingPermission.Text">
-    <value xml:space="preserve">Deze extensie vereist Full Trust.</value>
+    <value xml:space="preserve">Deze bestandsextensie vereist Full Trust.</value>
   </data>
   <data name="Authentication.String">
     <value xml:space="preserve">Authenticatie</value>
@@ -299,7 +299,7 @@ Gelieve deze e-mail niet te beantwoorden.</value>
     <value xml:space="preserve">&amp;lt;h1&amp;gt;Nieuwsbrief verzendrapport&amp;lt;/h1&amp;gt;
     Verzenden gestart op: [Custom:0]&amp;lt;br /&amp;gt;
     Aantal ontvangers: [Custom:1]&amp;lt;br /&amp;gt;
-    Email berichten: [Custom:2]&amp;lt;br /&amp;gt;
+    E-mailberichten: [Custom:2]&amp;lt;br /&amp;gt;
     Verzenden compleet op: [Custom:3]&amp;lt;br /&amp;gt;
     [Custom:4|Aantal fouten: {0}&amp;lt;br /&amp;gt;]
     &amp;lt;br /&amp;gt;
@@ -567,7 +567,7 @@ Met vriendelijk groet,
 	
 	Je wachtwoord voor [Portal:PortalName] is veranderd. 
 	
-	Neem contact op met de sitebeheerder op het volgende emailadres - [Portal:Email]
+	Neem contact op met de sitebeheerder op het volgende e-mailadres - [Portal:Email]
 	
 	Met vriendelijke groet,
 [Portal:PortalName]</value>
@@ -1182,7 +1182,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value xml:space="preserve">Om je wachtwoord op te kunnen vragen moet je jouw gebruikersnaam opgeven, en een antwoord op de wachtwoord vraag.</value>
   </data>
   <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text" lastModified="2020-05-15 13:54:45">
-    <value xml:space="preserve">Verifieer je emailadreswijziging door je wachtwoord opnieuw in te voeren.</value>
+    <value xml:space="preserve">Verifieer je e-mailadreswijziging door je wachtwoord opnieuw in te voeren.</value>
   </data>
   <data name="ModuleGenericActions.Action">
     <value xml:space="preserve">Beheer</value>
@@ -1248,7 +1248,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value xml:space="preserve">Deze caching provider gebruikt the PurgeCache functionaliteit niet.</value>
   </data>
   <data name="ReflectionPermission.Text">
-    <value xml:space="preserve">Deze extensie vereist reflectie rechten.</value>
+    <value xml:space="preserve">Deze bestandsextensie vereist reflectie rechten.</value>
   </data>
   <data name="Relationship_Added.Text">
     <value xml:space="preserve">Heeft relatie toegevoegd {0}</value>

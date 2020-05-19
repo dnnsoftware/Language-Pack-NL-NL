@@ -40,7 +40,7 @@
     <value xml:space="preserve">Omschrijving:</value>
   </data>
   <data name="plLanguage.Help">
-    <value xml:space="preserve">Selecteer de voorkeur taal voor het ontwikkelen van de module</value>
+    <value xml:space="preserve">Selecteer de voorkeurstaal voor het ontwikkelen van de module</value>
   </data>
   <data name="plLanguage.Text">
     <value xml:space="preserve">Taal:</value>
@@ -58,13 +58,13 @@
     <value xml:space="preserve">Eigenaarnaam:</value>
   </data>
   <data name="plTemplate.Help" lastModified="2020-05-17 17:00:42">
-    <value xml:space="preserve">Selecteer je voorkeursmodule ontwikkelings templates. Module ontwikkelings templates worden opgeslagen in de submap van de module binnen de host hoofdmap.</value>
+    <value xml:space="preserve">Selecteer je voorkeursmodule ontwikkelingstemplates. Module ontwikkelingstemplates worden opgeslagen in de submap van de module binnen de applicatiebeheer hoofdmap.</value>
   </data>
   <data name="plTemplate.Text">
-    <value xml:space="preserve">Template:</value>
+    <value xml:space="preserve">Sjabloon:</value>
   </data>
   <data name="SuperUser.ErrorMessage" lastModified="2020-05-17 17:00:42">
-    <value xml:space="preserve">Je moet een host gebruiker zijn om een nieuwe modules te kunnen aanmaken</value>
+    <value xml:space="preserve">Je moet een applicatiebeheerder zijn om een nieuwe modules te kunnen aanmaken</value>
   </data>
   <data name="TemplateProblem.ErrorMessage">
     <value xml:space="preserve">Er is een fout opgetreden bij het lezen van de geselecteerde module template bestanden</value>

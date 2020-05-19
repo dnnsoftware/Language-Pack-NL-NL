@@ -78,7 +78,7 @@
         Module met id "359" met succes opgeschoond.</value>
   </data>
   <data name="Prompt_PurgePage_Description.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Verwijdert permanent een pagina van de portal die eerder verwijderd is en naar de prullenbak is gestuurd.</value>
+    <value xml:space="preserve">Verwijdert permanent een pagina van de site die eerder verwijderd is en naar de prullenbak is gestuurd.</value>
   </data>
   <data name="Prompt_PurgePage_FlagDeleteChildren.Text" lastModified="2018-07-24 05:28:38">
     <value xml:space="preserve">Specificeert als een pagina onderliggende pagina's heeft, of de opdracht ze allen moet verwijderen of een fout moet weergeven.</value>
@@ -104,7 +104,7 @@
     &lt;/div&gt;</value>
   </data>
   <data name="Prompt_PurgeUser_Description.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Verwijdert de opgegeven gebruiker permanent van de portal. De gebruiker &lt;strong&gt;moet&lt;/strong&gt; al verwijderd zijn. Als u een opdracht &lt;code&gt;get-user&lt;/code&gt; uitvoert en de eigenschap &lt;code&gt;IsDeleted&lt;/code&gt; niet &lt;code&gt; true &lt;/ code&gt; is, krijgt u een foutmelding bij het uitvoeren van deze opdracht. U moet eerst de opdracht &lt;code&gt;delete-user&lt;/code&gt; op de gebruiker gebruiken.</value>
+    <value xml:space="preserve">Verwijdert de opgegeven gebruiker permanent van de site. De gebruiker &lt;strong&gt;moet&lt;/strong&gt; al verwijderd zijn. Als u een opdracht &lt;code&gt;get-user&lt;/code&gt; uitvoert en de eigenschap &lt;code&gt;IsDeleted&lt;/code&gt; niet &lt;code&gt; true &lt;/ code&gt; is, krijgt u een foutmelding bij het uitvoeren van deze opdracht. U moet eerst de opdracht &lt;code&gt;delete-user&lt;/code&gt; op de gebruiker gebruiken.</value>
   </data>
   <data name="Prompt_PurgeUser_FlagId.Text" lastModified="2018-07-24 13:45:42">
     <value xml:space="preserve">Het gebruikers-ID van de gebruiker. Als de markering niet wordt gebruikt, moet het ID van de gebruiker het eerste argument zijn.</value>

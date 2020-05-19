@@ -22,7 +22,7 @@
     <value xml:space="preserve">Nieuwe gebruiker toevoegen</value>
   </data>
   <data name="AddUser.Title">
-    <value xml:space="preserve">Nieuwe Gebruiker Toevoegen</value>
+    <value xml:space="preserve">Nieuwe gebruiker toevoegen</value>
   </data>
   <data name="CannotAddUser.Text" lastModified="2020-05-17 17:52:52">
     <value xml:space="preserve">Je configuratie maakt het noodzakelijk dat gebruikers een wachtwoord herinneringsvraag en -antwoord invullen. Het is hierdoor niet mogelijk voor beheerders om gebruikersaccounts aan te maken, Deze optie is daarom gedeactiveerd.</value>
@@ -67,16 +67,16 @@
     <value xml:space="preserve">Op dit moment kun je je  niet registreren voor deze site. Neem contact op met de beheerder van de site voor meer informatie.</value>
   </data>
   <data name="ExceededUserQuota.Text" lastModified="2020-05-17 17:52:52">
-    <value xml:space="preserve">Het toevoegen van deze gebruiker zal resulteren in het overschrijden van het maximale aantal gebruikers voor deze website. Neem contact op met uw hosting provider voor meer informatie hierover</value>
+    <value xml:space="preserve">Het toevoegen van deze gebruiker zal resulteren in het overschrijden van het maximale aantal gebruikers voor deze website. Neem contact op met je hosting provider voor meer informatie hierover</value>
   </data>
   <data name="InvalidUser.Text">
     <value xml:space="preserve">Dit account is geen gebruiker binnen deze website</value>
   </data>
   <data name="ManageProfile.Action">
-    <value xml:space="preserve">Beheer profiel eigenschappen</value>
+    <value xml:space="preserve">Beheer profieleigenschappen</value>
   </data>
   <data name="MembershipDetails.Text">
-    <value xml:space="preserve">Account informatie</value>
+    <value xml:space="preserve">Accountinformatie</value>
   </data>
   <data name="MembershipTitle.Text" lastModified="2020-05-17 17:52:52">
     <value xml:space="preserve">Lidmaatschapsinformatie</value>
@@ -109,7 +109,7 @@
     <value xml:space="preserve">Voer het nieuwe wachtwoord opnieuw in om er zeker van te zijn dat je geen typefout hebt gemaakt.</value>
   </data>
   <data name="plNewConfirm.Text">
-    <value xml:space="preserve">Bevestig nieuwe wachtwoord:</value>
+    <value xml:space="preserve">Bevestig het nieuwe wachtwoord:</value>
   </data>
   <data name="plNewPassword.Help" lastModified="2015-12-31 09:29:10">
     <value xml:space="preserve">Geef het nieuwe wachtwoord.</value>
@@ -136,13 +136,13 @@
     <value xml:space="preserve">Beheer rollen voor deze gebruiker</value>
   </data>
   <data name="SuperUser.Text" lastModified="2020-05-17 17:52:52">
-    <value xml:space="preserve">Dit account is van een SuperUser. Je hebt niet de juiste machtingen om het account van een SuperUser te wijzigen.</value>
+    <value xml:space="preserve">Dit account is van een Applicatiebeheerder. Je hebt niet de juiste machtingen om het account van een Applicatiebeheerder te wijzigen.</value>
   </data>
   <data name="UserAuthorized.Text" lastModified="2015-12-31 09:29:10">
     <value xml:space="preserve">De gebruiker is nu geautoriseerd.</value>
   </data>
   <data name="UserDemotedFromSuperuser.Text">
-    <value xml:space="preserve">Gebruiker is bijgewerkt tot standaard gebruiker.</value>
+    <value xml:space="preserve">Gebruiker is bijgewerkt tot standaardgebruiker.</value>
   </data>
   <data name="UserLockedOut.Text">
     <value xml:space="preserve">Dit account is op dit moment vergrendeld als gevolg van te veel foutieve inlog pogingen.</value>
@@ -151,7 +151,7 @@
     <value xml:space="preserve">Gebruiker moet het wachtwoord bij de volgende login bijwerken.</value>
   </data>
   <data name="UserPromotedToSuperuser.Text">
-    <value xml:space="preserve">Gebruiker is bijgewerkt tot een Superuser.</value>
+    <value xml:space="preserve">Gebruiker is bijgewerkt tot een Applicatiebeheerder.</value>
   </data>
   <data name="UserSubscribed.Text" lastModified="2020-05-17 17:52:52">
     <value xml:space="preserve">Je bent nu geabonneerd op rol {0}.</value>

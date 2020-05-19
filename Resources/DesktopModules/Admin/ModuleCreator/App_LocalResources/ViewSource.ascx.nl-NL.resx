@@ -61,7 +61,7 @@
     <value xml:space="preserve">Bewerk bestand</value>
   </data>
   <data name="FolderNameInvalid.Text">
-    <value xml:space="preserve">De mapnaam die is opgegeven voor deze module bestaat niet. Controleer de instellingen for deze module onder Host - Extensies</value>
+    <value xml:space="preserve">De mapnaam die is opgegeven voor deze module bestaat niet. Controleer de instellingen for deze module onder Applicatiebeheer - Uitbreidingen</value>
   </data>
   <data name="NoFileTypeSelected.Text" lastModified="2020-05-17 17:02:44">
     <value xml:space="preserve">Je moet eerst een bestandstype selecteren om te bewerken voordat je op de Bijwerken knop klikt.</value>

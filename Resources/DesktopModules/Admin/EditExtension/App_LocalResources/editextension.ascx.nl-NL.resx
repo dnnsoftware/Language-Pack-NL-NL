@@ -13,13 +13,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AdminHeading.Text" lastModified="2018-07-20 11:50:09">
-    <value xml:space="preserve">Configureer {0} Extensie instellingen voor deze site</value>
+    <value xml:space="preserve">Configureer {0} uitbreidingsinstellingen voor deze site</value>
   </data>
   <data name="chkDelete.Text" lastModified="2018-07-20 11:50:09">
     <value xml:space="preserve">Verwijder bestanden</value>
   </data>
   <data name="cmdCreate.Text" lastModified="2018-07-20 11:50:09">
-    <value xml:space="preserve">Voeg nieuwe extensie toe</value>
+    <value xml:space="preserve">Voeg nieuwe uitbreiding toe</value>
   </data>
   <data name="cmdCreateContainer.Text" lastModified="2018-07-20 11:50:09">
     <value xml:space="preserve">Voeg nieuwe container toe</value>
@@ -34,7 +34,7 @@
     <value xml:space="preserve">Voeg nieuw thema toe</value>
   </data>
   <data name="cmdDelete.Text" lastModified="2020-05-17 16:11:27">
-    <value xml:space="preserve">Deïnstalleer extensie</value>
+    <value xml:space="preserve">Deïnstalleer uitbreiding</value>
   </data>
   <data name="cmdEditor.Text" lastModified="2018-07-20 11:50:09">
     <value xml:space="preserve">Instellingen</value>
@@ -55,7 +55,7 @@
     <value xml:space="preserve">Beveiliging</value>
   </data>
   <data name="cmdUpdate.Text" lastModified="2018-07-20 11:50:09">
-    <value xml:space="preserve">Extensie bijwerken</value>
+    <value xml:space="preserve">Uitbreidinge bijwerken</value>
   </data>
   <data name="cmdUpdateLanguage.Text" lastModified="2018-07-20 11:50:09">
     <value xml:space="preserve">Taal bijwerken</value>
@@ -76,7 +76,7 @@
     <value xml:space="preserve">Geeft de modulebesturing van de moduledefinitie weer.</value>
   </data>
   <data name="ControlTitle_edit.Text" lastModified="2018-07-20 11:50:09">
-    <value xml:space="preserve">Extensie wijzigen</value>
+    <value xml:space="preserve">Uitbreiding wijzigen</value>
   </data>
   <data name="Core.Text" lastModified="2018-07-20 11:50:09">
     <value xml:space="preserve">Kern</value>
@@ -85,7 +85,7 @@
     <value xml:space="preserve">Pakketten moeten een unieke naam hebben.</value>
   </data>
   <data name="EditHelp.Text" lastModified="2018-07-20 11:50:09">
-    <value xml:space="preserve">In dit gedeelte kunt u de pakketinformatie voor deze extensie configureren.</value>
+    <value xml:space="preserve">In dit gedeelte kunt u de pakketinformatie voor deze uitbreiding configureren.</value>
   </data>
   <data name="EditLanguageHelp.Text" lastModified="2018-07-20 11:50:09">
     <value xml:space="preserve">In dit gedeelte kunt u de pakketinformatie voor dit taalpakket configureren.</value>
@@ -97,13 +97,13 @@
     <value xml:space="preserve">In dit gedeelte kunt u de pakketinformatie voor dit thema configureren.</value>
   </data>
   <data name="EditTitle.Text" lastModified="2018-07-20 11:50:09">
-    <value xml:space="preserve">Extensiedetails</value>
+    <value xml:space="preserve">Details uitbreiding</value>
   </data>
   <data name="ExtensionSettings.Text" lastModified="2018-07-20 11:50:09">
-    <value xml:space="preserve">Extensie-instellingen</value>
+    <value xml:space="preserve">Uitbreiding-instellingen</value>
   </data>
   <data name="HostHeading.Text" lastModified="2018-07-20 11:50:09">
-    <value xml:space="preserve">Extensie-instellingen {0} configureren</value>
+    <value xml:space="preserve">Uitbreiding-instellingen {0} configureren</value>
   </data>
   <data name="LanguageMessage.Text" lastModified="2018-07-20 11:50:09">
     <value xml:space="preserve">Klik hier om het taalpakket te verkrijgen</value>
@@ -124,7 +124,7 @@
     <value xml:space="preserve">Je moet een taalpakkettype kiezen.</value>
   </data>
   <data name="PackageUpdated.Text" lastModified="2018-07-20 11:50:09">
-    <value xml:space="preserve">Extensie succesvol bijgewerkt.</value>
+    <value xml:space="preserve">Uitbreiding succesvol bijgewerkt.</value>
   </data>
   <data name="Permissions.Help" lastModified="2018-07-20 11:50:09">
     <value xml:space="preserve">Vink de vinkvakjes aan om de machtigingen voor dit pakket in te stellen.</value>

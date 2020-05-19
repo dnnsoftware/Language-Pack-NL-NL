@@ -31,28 +31,28 @@
     <value xml:space="preserve">Controleren van de IIS configuratie</value>
   </data>
   <data name="ChooseDbError.Text" lastModified="2020-05-14 11:41:07">
-    <value xml:space="preserve">Je moet een type database te selecteren</value>
+    <value xml:space="preserve">Je moet een type database selecteren</value>
   </data>
   <data name="cmdContinue.Text">
     <value xml:space="preserve">Volgende</value>
   </data>
   <data name="Confirm.Help">
-    <value xml:space="preserve">Bevestig het wachtwoord dat in het bovenste wachtwoord veld is ingevuld.</value>
+    <value xml:space="preserve">Bevestig het wachtwoord dat in het bovenste wachtwoordveld is ingevuld.</value>
   </data>
   <data name="Confirm.Required">
     <value xml:space="preserve">Bevestiging wachtwoord is benodigd.</value>
   </data>
   <data name="Confirm.Text">
-    <value xml:space="preserve">Bevestig Wachtwoord:</value>
+    <value xml:space="preserve">Bevestig wachtwoord:</value>
   </data>
   <data name="CreateSuperUser.Text">
-    <value xml:space="preserve">Hostgebruiker aanmaken</value>
+    <value xml:space="preserve">Applicatiebeheerderaccount aanmaken</value>
   </data>
   <data name="CreatingSite.Text">
     <value xml:space="preserve">Site aanmaken [{0}]</value>
   </data>
   <data name="CreatingSuperUser.Text">
-    <value xml:space="preserve">Hostgebruiker aanmaken</value>
+    <value xml:space="preserve">Applicatiebeheerderaccount aanmaken</value>
   </data>
   <data name="DatabaseAdvanced.Text">
     <value xml:space="preserve">Aangepast</value>
@@ -64,7 +64,7 @@
     <value xml:space="preserve">Connectie met database niet mogelijk.</value>
   </data>
   <data name="DatabaseFilename.Help">
-    <value xml:space="preserve">Naam van database bestand.</value>
+    <value xml:space="preserve">Naam van het databasebestand.</value>
   </data>
   <data name="DatabaseFilename.Required" lastModified="2020-05-14 11:41:07">
     <value xml:space="preserve">Databasebestandsnaam is benodigd.</value>
@@ -88,7 +88,7 @@
     <value xml:space="preserve">Databasenaam</value>
   </data>
   <data name="DatabaseObjectQualifier.Help">
-    <value xml:space="preserve">De object qualifier voor uw website.</value>
+    <value xml:space="preserve">De object qualifier voor je website.</value>
   </data>
   <data name="DatabaseObjectQualifier.Text">
     <value xml:space="preserve">Object Qualifier </value>
@@ -127,10 +127,10 @@
     <value xml:space="preserve">Servernaam</value>
   </data>
   <data name="DatabaseSetup.Help" lastModified="2020-05-14 11:41:07">
-    <value xml:space="preserve">Standaard of geavanceerde database instellingen.</value>
+    <value xml:space="preserve">Standaard- of geavanceerde database-instellingen.</value>
   </data>
   <data name="DatabaseSetup.Text" lastModified="2020-05-14 11:41:07">
-    <value xml:space="preserve">Database instellingen</value>
+    <value xml:space="preserve">Database-instellingen</value>
   </data>
   <data name="DatabaseStandard.Text">
     <value xml:space="preserve">Standaard</value>
@@ -145,10 +145,10 @@
     <value xml:space="preserve">De gebruikersnaam voor de database.</value>
   </data>
   <data name="DatabaseUsername.Required">
-    <value xml:space="preserve">Database gebruikersnaam is benodigd.</value>
+    <value xml:space="preserve">Databasegebruikersnaam is benodigd.</value>
   </data>
   <data name="DatabaseUsername.Text">
-    <value xml:space="preserve">Database gebruikersnaam</value>
+    <value xml:space="preserve">Databasegebruikersnaam</value>
   </data>
   <data name="DbSecurityIntegrated.Text">
     <value xml:space="preserve">Geïntegreerd</value>
@@ -192,32 +192,32 @@
   <data name="FileAndFolderPermissionCheckFailed.Text" lastModified="2020-05-14 13:47:45">
     <value xml:space="preserve">&amp;lt;div class="permission"&amp;gt;&amp;lt;img alt=afbeelding geeft de beveiligingsintellingen van de hoofdmap van de website weer, Dit moet zijn Lezen, Schrijven en Wijzingen voor de ASPNET of NT AUTHORITY/NETWORK SERVICE accounts." src="..\403-3.gif" align="right" hspace="10"/&amp;gt;
 &amp;lt;p&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color='red'&amp;gt;De website voldoet niet aan de beveiligingscheck&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt;&amp;lt;/p&amp;gt;
-Bij gebruik van Windows Explorer, browse naar de map van uw website ( {0} ). Rechter muis klik op de  map en selecteer delen en beveiliging uit het popup menu. selecteer de beveiligings tab. Voeg de benodigde gebruikers toe en stel de juiste rechten in.
+Bij gebruik van Windows Explorer, browse naar de map van je website ( {0} ). Rechter muis klik op de  map en selecteer delen en beveiliging uit het popup menu. selecteer de beveiligings tab. Voeg de benodigde gebruikers toe en stel de juiste rechten in.
 &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;
 &amp;lt;h3&amp;gt;Bij gebruik van Windows 2000 - IIS5&amp;lt;/h3&amp;gt;
-&amp;lt;p&amp;gt;De ASPNET User Account moet Lees, Schrijf, en wijzing rechten hebben op de hoofdfolder van uw website&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;De ASPNET User Account moet Lees, Schrijf, en wijzing rechten hebben op de hoofdfolder van je website&amp;lt;/p&amp;gt;
 &amp;lt;h3&amp;gt;Bij gebruik van Windows 2003, Windows Vista of Windows Server 2008 en  IIS6 of IIS7&amp;lt;/h3&amp;gt;
-&amp;lt;p&amp;gt;De NT AUTHORITY\NETWORK SERVICE User Account moet lees, Schrijf, en Wijzing rechten hebben op de hoofd folder van uw website.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;De NT AUTHORITY\NETWORK SERVICE User Account moet lees, Schrijf, en Wijzing rechten hebben op de hoofd folder van je website.&amp;lt;/p&amp;gt;
 &amp;lt;h3&amp;gt;Bij gebruik van Windows 7 of Windows Server 2008 R2 en  IIS7.5&amp;lt;/h3&amp;gt;
-&amp;lt;p&amp;gt;Moet de IIS AppPool\DefaultAppPool User Account Lees, Schrijf, en Wijzig rechten hebben op de hoofd folder van uw website.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a class="dnnPrimaryAction" href=""&amp;gt;Recheck&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;</value>
+&amp;lt;p&amp;gt;Moet de IIS AppPool\DefaultAppPool User Account Lees, Schrijf, en Wijzig rechten hebben op de hoofd folder van je website.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;a class="dnnPrimaryAction" href=""&amp;gt;Recheck&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;</value>
   </data>
   <data name="FileAndFolderPermissionCheckTitle.Text">
     <value xml:space="preserve">Controleren van machtiging op mappen en bestanden</value>
   </data>
   <data name="FileCreateCheck.Text">
-    <value xml:space="preserve">Controleren van aanmaken van bestand</value>
+    <value xml:space="preserve">Controleren van aanmaken van een bestand</value>
   </data>
   <data name="FileDeleteCheck.Text">
-    <value xml:space="preserve">Controleren van verwijderen van bestand</value>
+    <value xml:space="preserve">Controleren van verwijderen van een bestand</value>
   </data>
   <data name="FolderCreateCheck.Text">
-    <value xml:space="preserve">Controleren van aanmaken van map</value>
+    <value xml:space="preserve">Controleren van aanmaken van een map</value>
   </data>
   <data name="FolderDeleteCheck.Text">
-    <value xml:space="preserve">Controleren van verwijderen van map</value>
+    <value xml:space="preserve">Controleren van verwijderen van een map</value>
   </data>
   <data name="HostWarning.Text" lastModified="2020-05-14 13:47:45">
-    <value xml:space="preserve">Je hostnaam bevat illegale tekens (alleen a-Z, 0-9, - en . zijn toegestaan). Je moet de gebruikersnaam aanpassen.</value>
+    <value xml:space="preserve">Je applicatiebeheerdersnaam bevat illegale tekens (alleen a-Z, 0-9, - en . zijn toegestaan). Je moet de gebruikersnaam aanpassen.</value>
   </data>
   <data name="IISVerificationFail.Text">
     <value xml:space="preserve">AppPool in IIS moet onder Integrated Mode draaien</value>
@@ -232,7 +232,7 @@ Bij gebruik van Windows Explorer, browse naar de map van uw website ( {0} ). Rec
     <value xml:space="preserve">Productverbeteringsprogramma</value>
   </data>
   <data name="InitHostSetting.Text" lastModified="2020-05-14 13:47:45">
-    <value xml:space="preserve">Initialiseren van Host instellingen</value>
+    <value xml:space="preserve">Initialiseren van applicatieinstellingen</value>
   </data>
   <data name="InputErrorInvalidPassword.Text" lastModified="2020-05-14 13:47:45">
     <value xml:space="preserve">Het ingegeven wachtwoord voldoet niet aan de minimale wachtwoord vereisten.</value>
@@ -241,7 +241,7 @@ Bij gebruik van Windows Explorer, browse naar de map van uw website ( {0} ). Rec
     <value xml:space="preserve">Verplichte velden niet ingevuld</value>
   </data>
   <data name="Installation.Text">
-    <value xml:space="preserve">Door gaan met de Installatie</value>
+    <value xml:space="preserve">Door gaan met de installatie</value>
   </data>
   <data name="InstallationComplete.Text">
     <value xml:space="preserve">Installatie compleet!</value>
@@ -325,7 +325,7 @@ Bij gebruik van Windows Explorer, browse naar de map van uw website ( {0} ). Rec
     <value xml:space="preserve">Start installatie</value>
   </data>
   <data name="LegacyLangaugePack.Text">
-    <value xml:space="preserve">Dit taalpakket is ouder dan de huidige applicatie versie: </value>
+    <value xml:space="preserve">Dit taalpakket is ouder dan de huidige applicatieversie: </value>
   </data>
   <data name="LicenseActivation.Text" lastModified="2020-05-14 13:47:45">
     <value xml:space="preserve">Activeren van de licentie</value>
@@ -340,7 +340,7 @@ Bij gebruik van Windows Explorer, browse naar de map van uw website ( {0} ). Rec
     <value xml:space="preserve">Installatie</value>
   </data>
   <data name="Password.Help">
-    <value xml:space="preserve">Het wachtwoord voor het SuperUser account.</value>
+    <value xml:space="preserve">Het wachtwoord voor het Applicatiebeheerdersaccount.</value>
   </data>
   <data name="Password.Required">
     <value xml:space="preserve">Wachtwoord is benodigd.</value>
@@ -364,13 +364,13 @@ Bij gebruik van Windows Explorer, browse naar de map van uw website ( {0} ). Rec
     <value xml:space="preserve">Bekijk Logs</value>
   </data>
   <data name="SkipCreatingSite.Text" lastModified="2020-05-14 13:47:45">
-    <value xml:space="preserve">Site Alias [{0}] is al aanwezig. Deze stap wordt over geslagen.</value>
+    <value xml:space="preserve">Site Alias [{0}] is al aanwezig. Deze stap wordt overgeslagen.</value>
   </data>
   <data name="SqlTypeExpress.Text">
     <value xml:space="preserve">SQL server express bestand</value>
   </data>
   <data name="SqlTypeServer.Text">
-    <value xml:space="preserve">SQL server / SQL server express database</value>
+    <value xml:space="preserve">SQL server/SQL server express database</value>
   </data>
   <data name="StandardDatabaseMsg.Text">
     <value xml:space="preserve">Geen geldige standaard database connectie gedetecteerd. 
@@ -380,7 +380,7 @@ Standaard database installatie opties niet beschikbaar</value>
     <value xml:space="preserve">Stap mislukt- {0}</value>
   </data>
   <data name="SuperUserCreation.Text">
-    <value xml:space="preserve">Aanmaken van SuperUser</value>
+    <value xml:space="preserve">Aanmaken van een Applicatiebeheerdersaccount</value>
   </data>
   <data name="TemplateBlank.Text">
     <value xml:space="preserve">Lege website</value>
@@ -413,7 +413,7 @@ Standaard database installatie opties niet beschikbaar</value>
     <value xml:space="preserve">Upgraden van Applicatie naar</value>
   </data>
   <data name="UserName.Help">
-    <value xml:space="preserve">De gebruikersnaam voor het SuperUser account.</value>
+    <value xml:space="preserve">De gebruikersnaam voor het Applicatiebeheerdersaccount.</value>
   </data>
   <data name="UserName.Required">
     <value xml:space="preserve">Gebruikersnaam is verplicht.</value>
@@ -431,7 +431,7 @@ Standaard database installatie opties niet beschikbaar</value>
     <value xml:space="preserve">Website aanmaken</value>
   </data>
   <data name="WebsiteInfo.Text">
-    <value xml:space="preserve">Website informatie</value>
+    <value xml:space="preserve">Website-informatie</value>
   </data>
   <data name="WebsiteName.Help" lastModified="2020-05-14 13:47:45">
     <value xml:space="preserve">Geef de websitenaam op die je wilt gebruiken </value>

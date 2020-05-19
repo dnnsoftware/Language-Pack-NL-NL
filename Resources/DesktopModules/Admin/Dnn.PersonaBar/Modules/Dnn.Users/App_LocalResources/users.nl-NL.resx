@@ -13,10 +13,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccountData.Text">
-    <value xml:space="preserve">Account gegevens</value>
+    <value xml:space="preserve">Accountgegevens</value>
   </data>
   <data name="AccountSettings.Text" lastModified="2016-11-30 19:59:52">
-    <value xml:space="preserve">Account Instellingen</value>
+    <value xml:space="preserve">Accountinstellingen</value>
   </data>
   <data name="Add.Text" lastModified="2016-11-30 19:59:52">
     <value xml:space="preserve">Toevoegen</value>
@@ -67,10 +67,10 @@
     <value xml:space="preserve">Annuleren</value>
   </data>
   <data name="CannotAddUser.Text" lastModified="2016-11-30 19:59:52">
-    <value xml:space="preserve">Deze site is geconfigureerd om te vereisen dat gebruikers Vraag en antwoord invullen om wachtwoord herinneringen te ontvangen. Deze configuratie is onverenigbaar met beheerders die gebruikers toevoegen en is daarom uitgeschakeld voor deze site. </value>
+    <value xml:space="preserve">Deze site is geconfigureerd om te vereisen dat gebruikers Vraag en antwoord invullen om wachtwoordherinneringen te ontvangen. Deze configuratie is onverenigbaar met beheerders die gebruikers toevoegen en is daarom uitgeschakeld voor deze site. </value>
   </data>
   <data name="CannotChangePassword.Text" lastModified="2016-11-30 21:05:48">
-    <value xml:space="preserve">Uw configuratie vereist de gebruiker om een Vraag en Antwoord in te vullen voor een wachtwoord herinnering. Wanneer deze instelling is toegepast zullen beheerders niet in staat zijn om het wachtwoord van een gebruiker te veranderen, daarom is deze mogelijheid uitgeschakeld voor deze site. </value>
+    <value xml:space="preserve">Uw configuratie vereist de gebruiker om een Vraag en Antwoord in te vullen voor een wachtwoordherinnering. Wanneer deze instelling is toegepast zullen beheerders niet in staat zijn om het wachtwoord van een gebruiker te veranderen, daarom is deze mogelijheid uitgeschakeld voor deze site. </value>
   </data>
   <data name="ChangePassword.Text" lastModified="2016-11-30 21:05:48">
     <value xml:space="preserve">Wijzig wachtwoord</value>
@@ -82,13 +82,13 @@
     <value xml:space="preserve">Machtig gebruiker</value>
   </data>
   <data name="cmdPassword.Text" lastModified="2016-11-30 21:05:48">
-    <value xml:space="preserve">Forceer wachtwoord wijziging</value>
+    <value xml:space="preserve">Forceer wachtwoordwijziging</value>
   </data>
   <data name="cmdUnAuthorize.Text" lastModified="2016-11-30 21:05:48">
     <value xml:space="preserve">Machtiging gebruiker intrekken</value>
   </data>
   <data name="cmdUnLock.Text" lastModified="2016-11-30 21:05:48">
-    <value xml:space="preserve">Ontsleutel account</value>
+    <value xml:space="preserve">Blokkering account opheffen</value>
   </data>
   <data name="cmUnlockUser.Text">
     <value xml:space="preserve">Blokkering gebruiker opheffen</value>
@@ -97,13 +97,13 @@
     <value xml:space="preserve">Vul wachtwoord opnieuw in om te bevestigen</value>
   </data>
   <data name="Confirm.Required" lastModified="2016-11-30 21:05:48">
-    <value xml:space="preserve">U moet een wachtwoord bevestiging geven.</value>
+    <value xml:space="preserve">U moet een wachtwoordbevestiging geven.</value>
   </data>
   <data name="Confirm.Text" lastModified="2016-11-30 21:05:48">
     <value xml:space="preserve">Bevestig wachtwoord:</value>
   </data>
   <data name="ConfirmMismatch.ErrorMessage" lastModified="2016-11-30 21:05:48">
-    <value xml:space="preserve">Het wachtwoord en bevestig wachtwoord moeten gelijk zijn.</value>
+    <value xml:space="preserve">Het wachtwoord en bevestigwachtwoord moeten gelijk zijn.</value>
   </data>
   <data name="CouldNotRemoveAll.Text">
     <value xml:space="preserve">Kon niet alle gebruikers verwijderen</value>
@@ -133,10 +133,10 @@
     <value xml:space="preserve">Verwijder gebruiker</value>
   </data>
   <data name="DemoteFromSuperUser.Text" lastModified="2016-11-30 22:09:23">
-    <value xml:space="preserve">Maak normale gebruiker</value>
+    <value xml:space="preserve">Wijzig naar normale gebruiker</value>
   </data>
   <data name="DemoteToRegularUser.Text" lastModified="2016-11-30 22:09:23">
-    <value xml:space="preserve">Maak normale gebruiker</value>
+    <value xml:space="preserve">Wijzig naar normale gebruiker</value>
   </data>
   <data name="DisplayName.Help" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">Vul een weergavenaam in.</value>
@@ -150,19 +150,19 @@
   <data name="DisplayName.Text" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">Weergavenaam:</value>
   </data>
-  <data name="Email.Header" lastModified="2016-11-30 22:09:23">
+  <data name="e-mail.Header" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">E-mail</value>
   </data>
-  <data name="Email.Help" lastModified="2016-11-30 22:09:23">
+  <data name="e-mail.Help" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">Vul een geldig e-mailadres in.</value>
   </data>
-  <data name="Email.RegExError" lastModified="2016-11-30 22:09:23">
+  <data name="e-mail.RegExError" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">U moet een geldig e-mailadres invullen.</value>
   </data>
-  <data name="Email.Required" lastModified="2016-11-30 22:09:23">
+  <data name="e-mail.Required" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">E-mailadres is verplicht.</value>
   </data>
-  <data name="Email.Text" lastModified="2016-11-30 22:09:23">
+  <data name="e-mail.Text" lastModified="2016-11-30 22:09:23">
     <value xml:space="preserve">E-mailadres:</value>
   </data>
   <data name="Expires.Header" lastModified="2016-11-30 22:09:23">
@@ -184,7 +184,7 @@
     <value xml:space="preserve">Voornaam:</value>
   </data>
   <data name="ForceChangePassword.Text" lastModified="2016-11-30 23:14:25">
-    <value xml:space="preserve">Forceer wachtwoord wijziging</value>
+    <value xml:space="preserve">Forceer wachtwoordwijziging</value>
   </data>
   <data name="HasAgreedToTerms.Help">
     <value xml:space="preserve">De gebruiker is akkoord gegaan met de voorwaarden op deze website via het data consent mechanisme</value>
@@ -205,7 +205,7 @@
     <value xml:space="preserve">U heeft niet genoeg rechten om deze actie uit te voeren.</value>
   </data>
   <data name="InvalidPasswordAnswer.Text" lastModified="2016-11-30 23:14:25">
-    <value xml:space="preserve">Wachtwoord antwoord is ongeldig.</value>
+    <value xml:space="preserve">Wachtwoordantwoord is ongeldig.</value>
   </data>
   <data name="IsDeleted.Help" lastModified="2016-11-30 23:14:25">
     <value xml:space="preserve">Geeft aan of deze gebruiker verwijderd is.</value>
@@ -244,7 +244,7 @@
     <value xml:space="preserve">De datum wanneer deze gebruiker voor het laatst heeft ingelogd op de site,</value>
   </data>
   <data name="LastLoginDate.Text" lastModified="2016-11-30 23:14:25">
-    <value xml:space="preserve">Laatste inlog datum:</value>
+    <value xml:space="preserve">Laatste inlogdatum:</value>
   </data>
   <data name="LastName.Help" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Vul een achternaam in.</value>
@@ -265,19 +265,19 @@
     <value xml:space="preserve">Laatste wachtwoord wijziging</value>
   </data>
   <data name="LockedOut.Help" lastModified="2016-12-01 00:21:27">
-    <value xml:space="preserve">Geeft aan of de gebruiker momenteel is buitengesloten van de site door meerdere mislukte inlog pogingen.</value>
+    <value xml:space="preserve">Geeft aan of de gebruiker momenteel is buitengesloten van de site door meerdere mislukte inlogpogingen.</value>
   </data>
   <data name="LockedOut.Text" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Buitengesloten:</value>
   </data>
   <data name="ManageProfile.title" lastModified="2016-12-01 00:21:27">
-    <value xml:space="preserve">Profiel instellingen. </value>
+    <value xml:space="preserve">Profielinstellingen. </value>
   </data>
   <data name="ManageRoles.title" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Gebruikersrollen.</value>
   </data>
   <data name="ManageSettings.title" lastModified="2016-12-01 00:21:27">
-    <value xml:space="preserve">Account instellingen</value>
+    <value xml:space="preserve">Accountinstellingen</value>
   </data>
   <data name="Name.Header" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Naam</value>
@@ -289,22 +289,22 @@
     <value xml:space="preserve">Nooit</value>
   </data>
   <data name="NewConfirm.Help" lastModified="2016-12-01 00:21:27">
-    <value xml:space="preserve">Vul uw wachtwoord opnieuw in om te bevestigen.</value>
+    <value xml:space="preserve">Vul je wachtwoord opnieuw in om te bevestigen.</value>
   </data>
   <data name="NewConfirm.Required" lastModified="2016-12-01 00:21:27">
-    <value xml:space="preserve">U dient een wachtwoord bevestiging te geven.</value>
+    <value xml:space="preserve">Je dient een wachtwoordbevestiging te geven.</value>
   </data>
   <data name="NewConfirm.Text" lastModified="2016-12-01 00:21:27">
     <value xml:space="preserve">Bevestig wachtwoord:</value>
   </data>
   <data name="NewConfirmMismatch.ErrorMessage" lastModified="2016-12-01 00:21:27">
-    <value xml:space="preserve">Het nieuwe wachtwoord en bevestiging wachtwoord moeten overeen komen. </value>
+    <value xml:space="preserve">Het nieuwe wachtwoord en bevestigingswachtwoord moeten overeen komen. </value>
   </data>
   <data name="NewPassword.Help" lastModified="2016-12-01 01:28:56">
-    <value xml:space="preserve">Vul uw nieuwe wachtwoord in.</value>
+    <value xml:space="preserve">Vul je nieuwe wachtwoord in.</value>
   </data>
   <data name="NewPassword.Required" lastModified="2016-12-01 01:28:56">
-    <value xml:space="preserve">U moet een wachtwoord geven.</value>
+    <value xml:space="preserve">Je moet een wachtwoord geven.</value>
   </data>
   <data name="NewPassword.Text" lastModified="2016-12-01 01:28:56">
     <value xml:space="preserve">Nieuw wachtwoord:</value>
@@ -313,7 +313,7 @@
     <value xml:space="preserve">Geen rollen gevonden.</value>
   </data>
   <data name="Notify.Text" lastModified="2016-12-01 01:28:56">
-    <value xml:space="preserve">Verzend een email aan nieuwe gebruiker.</value>
+    <value xml:space="preserve">Verzend een e-mail aan nieuwe gebruiker.</value>
   </data>
   <data name="noUsers.Text" lastModified="2016-12-01 02:36:03">
     <value xml:space="preserve">Geen gebruikers gevonden.</value>
@@ -331,22 +331,22 @@
     <value xml:space="preserve">Wachtwoord:</value>
   </data>
   <data name="PasswordInvalid.Text" lastModified="2016-12-01 02:36:03">
-    <value xml:space="preserve">U moet een geldig wachtwoord geven. Controleer met de site beheerder als u de wachtwoord vereisten niet kent.</value>
+    <value xml:space="preserve">U moet een geldig wachtwoord geven. Controleer met de sitebeheerder als u de wachtwoord vereisten niet kent.</value>
   </data>
   <data name="PasswordManagement.Text" lastModified="2016-12-01 02:36:03">
-    <value xml:space="preserve">Wachtwoord beheer1</value>
+    <value xml:space="preserve">Wachtwoord beheer</value>
   </data>
   <data name="PasswordResetFailed.Text" lastModified="2016-12-01 02:36:03">
-    <value xml:space="preserve">Uw nieuwe wachtwoord is niet geaccepteerd voor beveiligings redenen. Vul een wachtwoord in dat u nog niet eerder heeft gebruikt en dat lang en complex genoeg is om aan de vereisten van de site's wachtwoord complexiteit te voldoen.</value>
+    <value xml:space="preserve">Uw nieuwe wachtwoord is niet geaccepteerd voor beveiligingsredenen. Vul een wachtwoord in dat u nog niet eerder heeft gebruikt en dat lang en complex genoeg is om aan de vereisten van de site's wachtwoord complexiteit te voldoen.</value>
   </data>
   <data name="PasswordResetFailed_PasswordInHistory.Text" lastModified="2016-12-01 02:36:03">
-    <value xml:space="preserve">Uw nieuwe wachtwoord is niet geaccepteerd door beveiligings redenen. Kies een wachtwoord dat nog niet eerder is gebruikt.</value>
+    <value xml:space="preserve">Uw nieuwe wachtwoord is niet geaccepteerd door beveiligingsredenen. Kies een wachtwoord dat nog niet eerder is gebruikt.</value>
   </data>
   <data name="PasswordSent.Text" lastModified="2016-12-01 02:36:03">
-    <value xml:space="preserve">Als de gebruikersnaam correct was, dan zou u een email moeten ontvangen met een link om uw wachtwoord te resetten.</value>
+    <value xml:space="preserve">Als de gebruikersnaam correct was, ontvang je een e-mail moeten met een link om je wachtwoord te resetten.</value>
   </data>
   <data name="PromoteToSuperUser.Text" lastModified="2016-12-01 03:40:37">
-    <value xml:space="preserve">Maak Superuser</value>
+    <value xml:space="preserve">Maak Applicatiebeheerder</value>
   </data>
   <data name="Prompt_AddRoles_Description.Text" lastModified="2018-07-22 04:31:46">
     <value xml:space="preserve">Voeg een of meer DNN beveiligings rollen toe aan een gebruiker.</value>
@@ -358,10 +358,10 @@
     <value xml:space="preserve">Gebruiker ID van gebruiker voor wie de rollen zullen worden toegevoegd. Als een nummer word gebruikt als eerste argument is het niet nodig om de &lt;span class="mono"&gt;--id&lt;/span&gt; vlag expliciet te gebruiken</value>
   </data>
   <data name="Prompt_AddRoles_FlagRoles.Text" lastModified="2018-07-22 04:31:46">
-    <value xml:space="preserve">Komma-gescheiden string van DNN rol namen om toe te passen op de gebruiker.</value>
+    <value xml:space="preserve">Komma-gescheiden reeks van DNN rol namen om toe te passen op de gebruiker.</value>
   </data>
   <data name="Prompt_AddRoles_FlagStart.Text" lastModified="2018-07-22 06:33:58">
-    <value xml:space="preserve">Ingangs datum van de rol.</value>
+    <value xml:space="preserve">Ingangsdatum van de rol.</value>
   </data>
   <data name="Prompt_AddRoles_NotFound.Text" lastModified="2020-05-10 16:07:00">
     <value xml:space="preserve">Kan de rol {0} '{1}' niet vinden. --De rolparameter accepteert alleen bestaande rollen.</value>
@@ -390,7 +390,7 @@
     <value xml:space="preserve">Het gebruiker User ID. Als deze vlag niet gebruikt word moet het gebruiker ID het eerste argument zijn.</value>
   </data>
   <data name="Prompt_DeleteUser_FlagNotify.Text" lastModified="2018-07-22 08:41:48">
-    <value xml:space="preserve">Wanneer correct zal de &amp;quot;Unregister User&amp;quot; notificatie email verzonden worden (normaliter naar de site Admin)</value>
+    <value xml:space="preserve">Wanneer correct zal de &amp;quot;Unregister User&amp;quot; notificatie e-mail verzonden worden (normaliter naar de site Admin)</value>
   </data>
   <data name="Prompt_DeleteUser_ResultHtml.Text" lastModified="2018-07-22 13:22:01">
     <value xml:space="preserve">&lt;h4&gt;Verwijder een Gebruiker&lt;/h4&gt;
@@ -400,20 +400,20 @@
     &lt;code class="block"&gt;delete-user --id 345&lt;/code&gt;
 
     &lt;h4&gt;Verwijder een Gebruiker en Stuur een Notificatie&lt;/h4&gt;
-    &lt;p&gt;Dit verwijdert een gebruiker met het Gebruiker ID van 345 en stuurt een email notificatie. Zoals hierboven is de gebruiker niet permanent verwijderd op dit punt. Als u de gebruiker permanent wil verwijderen moet u een tweede commando uitvoeren: &lt;code&gt;purge-user&lt;/code&gt;&lt;/p&gt;
+    &lt;p&gt;Dit verwijdert een gebruiker met het Gebruiker ID van 345 en stuurt een e-mail notificatie. Zoals hierboven is de gebruiker niet permanent verwijderd op dit punt. Als u de gebruiker permanent wil verwijderen moet u een tweede commando uitvoeren: &lt;code&gt;purge-user&lt;/code&gt;&lt;/p&gt;
     &lt;code class="block"&gt;delete-user 345 --notify true&lt;/code&gt;
     &lt;p&gt;Dit is de meer expliciete vorm van bovenstaande code.&lt;/p&gt;
     &lt;code class="block"&gt;delete-user --id 345 --notify true&lt;/code&gt;</value>
   </data>
-  <data name="Prompt_EmailSent.Text" lastModified="2018-07-22 13:22:01">
-    <value xml:space="preserve">Een email is verstuurd naar de gebruiker.</value>
+  <data name="Prompt_e-mailSent.Text" lastModified="2018-07-22 13:22:01">
+    <value xml:space="preserve">Een e-mail is verstuurd naar de gebruiker.</value>
   </data>
   <data name="Prompt_GetUser_Description.Text" lastModified="2018-07-22 13:22:01">
-    <value xml:space="preserve">Hiermee kunt u informatie van de huidige gebruiker weergeven of een gebruiker terughalen aan de hand van Gebruiker ID, Gebruikernaam of Email address.
+    <value xml:space="preserve">Hiermee kunt u informatie van de huidige gebruiker weergeven of een gebruiker terughalen aan de hand van Gebruiker ID, Gebruikernaam of e-mail address.
 Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</value>
   </data>
-  <data name="Prompt_GetUser_FlagEmail.Text" lastModified="2018-07-22 15:27:54">
-    <value xml:space="preserve">Het email adres van de terug te halen gebruiker. U kunt een asterisk (&lt;span class="mono"&gt; * &lt;/span&gt;) als wildcard gebruiken om 0 of meer karakters aan te duiden.</value>
+  <data name="Prompt_GetUser_Flage-mail.Text" lastModified="2018-07-22 15:27:54">
+    <value xml:space="preserve">Het e-mail adres van de terug te halen gebruiker. U kunt een asterisk (&lt;span class="mono"&gt; * &lt;/span&gt;) als wildcard gebruiken om 0 of meer karakters aan te duiden.</value>
   </data>
   <data name="Prompt_GetUser_FlagId.Text" lastModified="2018-07-22 15:27:54">
     <value xml:space="preserve">Specificeerd expliciet het Gebruikerid voor de terug te halen gebruiker.</value>
@@ -449,7 +449,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
         &lt;td&gt;jsmith&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Email&lt;/td&gt;
+        &lt;td&gt;e-mail&lt;/td&gt;
         &lt;td&gt;:&lt;/td&gt;
         &lt;td&gt;jsmith@sample.com&lt;/td&gt;
       &lt;/tr&gt;
@@ -480,15 +480,15 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
       &lt;/tr&gt;
     &lt;/table&gt;
 
-    &lt;h4&gt;Haal Gebruiker op aan de hand van Email&lt;/h4&gt;
+    &lt;h4&gt;Haal Gebruiker op aan de hand van e-mail&lt;/h4&gt;
 
-    &lt;h5&gt;Impliciet Gebruik van &lt;span class="mono"&gt;--email&lt;/span&gt; markering&lt;/h5&gt;
- &lt;p&gt;Wanneer een enkele waarde gespecificeerd word na de commando naam en dit bevat het symbbol (&lt;span class="mono"&gt; @ &lt;/span&gt;) dan zal de Prompt aannemen dat het een Email is&lt;/p&gt;   
+    &lt;h5&gt;Impliciet Gebruik van &lt;span class="mono"&gt;--e-mail&lt;/span&gt; markering&lt;/h5&gt;
+ &lt;p&gt;Wanneer een enkele waarde gespecificeerd word na de commando naam en dit bevat het symbbol (&lt;span class="mono"&gt; @ &lt;/span&gt;) dan zal de Prompt aannemen dat het een e-mail is&lt;/p&gt;   
     &lt;code class="block"&gt;get-user jsmith@sample.com&lt;/code&gt;
 
-    &lt;h5&gt;Expliciet Gebruik van &lt;span class="mono"&gt;--email&lt;/span&gt; markering&lt;/h5&gt;
-    &lt;p&gt;U kunt de &lt;span class="mono"&gt;--email&lt;/span&gt; markering expliciet gebruiken om verwarring te vermijden&lt;/p&gt;    
-    &lt;code class="block"&gt;get-user --email jsmith@sample.com&lt;/code&gt;
+    &lt;h5&gt;Expliciet Gebruik van &lt;span class="mono"&gt;--e-mail&lt;/span&gt; markering&lt;/h5&gt;
+    &lt;p&gt;U kunt de &lt;span class="mono"&gt;--e-mail&lt;/span&gt; markering expliciet gebruiken om verwarring te vermijden&lt;/p&gt;    
+    &lt;code class="block"&gt;get-user --e-mail jsmith@sample.com&lt;/code&gt;
 
     &lt;table class="command-result-tbl"&gt;
       &lt;tr&gt;
@@ -502,7 +502,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
         &lt;td&gt;jsmith&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Email&lt;/td&gt;
+        &lt;td&gt;e-mail&lt;/td&gt;
         &lt;td&gt;:&lt;/td&gt;
         &lt;td&gt;jsmith@sample.com&lt;/td&gt;
       &lt;/tr&gt;
@@ -533,12 +533,12 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
       &lt;/tr&gt;
     &lt;/table&gt;
 
-    &lt;h4&gt;Zoek naar Gebruikers aan de hand van Email met Wildcards&lt;/h4&gt;
-    &lt;h5&gt;Impliciet Gebruik van &lt;span class="mono"&gt;--email&lt;/span&gt; markering&lt;/h5&gt;
-    &lt;p&gt;Wanneer een enkele waarde gespecificeerd word na de commando naam en dit bevat het symbool (&lt;span class="mono"&gt; @ &lt;/span&gt;) dan zal de Prompt aannemen dat het een Email is. Alleen de eerste gematchede gebruiker zal worden teruggegeven. Probeer gebruik te maken van &lt;span class="mono"&gt;list-users&lt;/span&gt; als u alle matchende gebruikers wilt vinden.&lt;/p&gt;    
+    &lt;h4&gt;Zoek naar Gebruikers aan de hand van e-mail met Wildcards&lt;/h4&gt;
+    &lt;h5&gt;Impliciet Gebruik van &lt;span class="mono"&gt;--e-mail&lt;/span&gt; markering&lt;/h5&gt;
+    &lt;p&gt;Wanneer een enkele waarde gespecificeerd word na de commando naam en dit bevat het symbool (&lt;span class="mono"&gt; @ &lt;/span&gt;) dan zal de Prompt aannemen dat het een e-mail is. Alleen de eerste gematchede gebruiker zal worden teruggegeven. Probeer gebruik te maken van &lt;span class="mono"&gt;list-users&lt;/span&gt; als u alle matchende gebruikers wilt vinden.&lt;/p&gt;    
     &lt;code class="block"&gt;get-user jsmith*@sample.com&lt;/code&gt;
-    &lt;h5&gt;Expliciet Gebruik van &lt;span class="mono"&gt;--email&lt;/span&gt; markering&lt;/h5&gt;
-    &lt;code class="block"&gt;get-user --email jsmith*@sample.com&lt;/code&gt;
+    &lt;h5&gt;Expliciet Gebruik van &lt;span class="mono"&gt;--e-mail&lt;/span&gt; markering&lt;/h5&gt;
+    &lt;code class="block"&gt;get-user --e-mail jsmith*@sample.com&lt;/code&gt;
 
     &lt;table class="command-result-tbl"&gt;
       &lt;tr&gt;
@@ -552,7 +552,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
         &lt;td&gt;jsmith&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Email&lt;/td&gt;
+        &lt;td&gt;e-mail&lt;/td&gt;
         &lt;td&gt;:&lt;/td&gt;
         &lt;td&gt;jsmith@sample.com&lt;/td&gt;
       &lt;/tr&gt;
@@ -604,7 +604,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
         &lt;td&gt;jsmith&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Email&lt;/td&gt;
+        &lt;td&gt;e-mail&lt;/td&gt;
         &lt;td&gt;:&lt;/td&gt;
         &lt;td&gt;jsmith@sample.com&lt;/td&gt;
       &lt;/tr&gt;
@@ -654,7 +654,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
         &lt;td&gt;jsmith&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Email&lt;/td&gt;
+        &lt;td&gt;e-mail&lt;/td&gt;
         &lt;td&gt;:&lt;/td&gt;
         &lt;td&gt;jsmith@sample.com&lt;/td&gt;
       &lt;/tr&gt;
@@ -693,19 +693,19 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value xml:space="preserve">Ongeldige vlag '--{0}'. Bedoelde u --{1} ?</value>
   </data>
   <data name="Prompt_ListUsers_Description.Text" lastModified="2018-07-22 23:44:13">
-    <value xml:space="preserve">Vind gebruikers aan de hand van email of gebruikernaam. Ondersteund partial matching op Email of Gebruikernaam. U kunt alleen zoeken op 1 markering tegelijkertijd. Markeringen kunnen niet gecombineerd worden.</value>
+    <value xml:space="preserve">Vind gebruikers aan de hand van e-mail of gebruikernaam. Ondersteund partial matching op e-mail of Gebruikernaam. U kunt alleen zoeken op 1 markering tegelijkertijd. Markeringen kunnen niet gecombineerd worden.</value>
   </data>
-  <data name="Prompt_ListUsers_FlagEmail.Text" lastModified="2018-07-23 03:59:17">
-    <value xml:space="preserve">Een zoekpatroon om te zoeken op het emailadres van de gebruiker. U kunt een asterisk (&lt;span class="mono"&gt; * &lt;/span&gt;) als wildcard gebruiken om 0 of meer karakters aan te duiden.</value>
+  <data name="Prompt_ListUsers_Flage-mail.Text" lastModified="2018-07-23 03:59:17">
+    <value xml:space="preserve">Een zoekpatroon om te zoeken op het e-mailadres van de gebruiker. U kunt een asterisk (&lt;span class="mono"&gt; * &lt;/span&gt;) als wildcard gebruiken om 0 of meer karakters aan te duiden.</value>
   </data>
   <data name="Prompt_ListUsers_FlagMax.Text" lastModified="2018-07-23 03:59:17">
-    <value xml:space="preserve">Pagina Grootte voor de pagina. Max is 500.</value>
+    <value xml:space="preserve">Paginagrootte voor de pagina. Max is 500.</value>
   </data>
   <data name="Prompt_ListUsers_FlagPage.Text" lastModified="2018-07-23 03:59:17">
-    <value xml:space="preserve">Pagina nummer om records te tonen.</value>
+    <value xml:space="preserve">Paginanummer om records te tonen.</value>
   </data>
   <data name="Prompt_ListUsers_FlagRole.Text" lastModified="2018-07-23 03:59:17">
-    <value xml:space="preserve">De naam van de DNN Beveiliging Rol waarvan u de leden wilt toevoegen aan een lijst. BELANGRIJK: wildcard zoeken is NIET aangezet voor deze markering op dit moment. Rol namen zijn niet hoofdlettergevoelig maar de spacing moet correct zijn.</value>
+    <value xml:space="preserve">De naam van de DNN beveiligingsrol waarvan u de leden wilt toevoegen aan een lijst. BELANGRIJK: wildcard zoeken is NIET aangezet voor deze markering op dit moment. Rolnamen zijn niet hoofdlettergevoelig maar de spacing moet correct zijn.</value>
   </data>
   <data name="Prompt_ListUsers_FlagUsername.Text" lastModified="2018-07-23 06:05:52">
     <value xml:space="preserve">Een zoek patroon om op te zoeken in de gebruikernaam. U kunt een asterisk (&lt;span class="mono"&gt; * &lt;/span&gt;) als wildcard gebruiken om 0 of meer karakters aan te duiden.</value>
@@ -717,35 +717,35 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
             list-users
         &lt;/code&gt;
 
-        &lt;h4&gt;Zoek naar Gebruikers aan de hand van Email&lt;/h4&gt;
-        &lt;h5&gt;Impliciet gebruik van &lt;span class="mono"&gt;--email&lt;/span&gt; markering&lt;/h5&gt;
-        &lt;p&gt;Wanneer een enkele waarde word gespecificeerd na de commando naam en dit het symbool (&lt;span class="mono"&gt; @ &lt;/span&gt;) bevat zal de Prompt aannemen dat dit een Email is&lt;/p&gt;
+        &lt;h4&gt;Zoek naar Gebruikers aan de hand van e-mail&lt;/h4&gt;
+        &lt;h5&gt;Impliciet gebruik van &lt;span class="mono"&gt;--e-mail&lt;/span&gt; markering&lt;/h5&gt;
+        &lt;p&gt;Wanneer een enkele waarde word gespecificeerd na de commando naam en dit het symbool (&lt;span class="mono"&gt; @ &lt;/span&gt;) bevat zal de Prompt aannemen dat dit een e-mail is&lt;/p&gt;
         &lt;code class="block"&gt;list-users jsmith@sample.com&lt;/code&gt;
-        &lt;h5&gt;Expliciet gebruik van &lt;span class="mono"&gt;--email&lt;/span&gt; markering&lt;/h5&gt;
-        &lt;code class="block"&gt;list-users --email jsmith@sample.com&lt;/code&gt;
+        &lt;h5&gt;Expliciet gebruik van &lt;span class="mono"&gt;--e-mail&lt;/span&gt; markering&lt;/h5&gt;
+        &lt;code class="block"&gt;list-users --e-mail jsmith@sample.com&lt;/code&gt;
         &lt;table class="command-result-tbl"&gt;
             &lt;tr&gt;&lt;td&gt;GebruikerId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;345&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;GebruikerNaam&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;jsmith&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Email&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;jsmith@sample.com&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;e-mail&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;jsmith@sample.com&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;WeergaveNaam&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;John Smith&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;VoorNaam&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;John&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;AchterNaam&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Smith&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;LaatsteLogin&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;2016-12-06T09:31:38.413-07:00&lt;/td&gt;&lt;/tr&gt;
         &lt;/table&gt;
 
-        &lt;h4&gt;Zoek naar Gebruikers aan de hand van Email met Wildcards&lt;/h4&gt;
-        &lt;h5&gt;Implicite Gebruik van &lt;span class="mono"&gt;--email&lt;/span&gt; markering&lt;/h5&gt;
-        &lt;p&gt;Wanneer een enkele waarde word gespecificeerd na de commando naam en dit het symbool (&lt;span class="mono"&gt; @ &lt;/span&gt;) bevat zal de Prompt aannemen dat dit een Email is&lt;/p&gt;
+        &lt;h4&gt;Zoek naar Gebruikers aan de hand van e-mail met Wildcards&lt;/h4&gt;
+        &lt;h5&gt;Implicite Gebruik van &lt;span class="mono"&gt;--e-mail&lt;/span&gt; markering&lt;/h5&gt;
+        &lt;p&gt;Wanneer een enkele waarde word gespecificeerd na de commando naam en dit het symbool (&lt;span class="mono"&gt; @ &lt;/span&gt;) bevat zal de Prompt aannemen dat dit een e-mail is&lt;/p&gt;
         &lt;code class="block"&gt;list-users jsmith*@sample.com&lt;/code&gt;
-        &lt;h5&gt;Explicit use of &lt;span class="mono"&gt;--email&lt;/span&gt; flag&lt;/h5&gt;
-        &lt;code class="block"&gt;list-users --email jsmith*@sample.com&lt;/code&gt;
+        &lt;h5&gt;Explicit use of &lt;span class="mono"&gt;--e-mail&lt;/span&gt; flag&lt;/h5&gt;
+        &lt;code class="block"&gt;list-users --e-mail jsmith*@sample.com&lt;/code&gt;
 
         &lt;table class="command-result-tbl"&gt;
             &lt;thead&gt;
                 &lt;tr&gt;
                     &lt;th&gt;GebruikerId&lt;/th&gt;
                     &lt;th&gt;Gebruikernaam&lt;/th&gt;
-                    &lt;th&gt;Email&lt;/th&gt;
+                    &lt;th&gt;e-mail&lt;/th&gt;
                     &lt;th&gt;WeergaveNaam&lt;/th&gt;
                     &lt;th&gt;VoorNaam&lt;/th&gt;
                     &lt;th&gt;AchterNaam&lt;/th&gt;
@@ -786,7 +786,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
         &lt;table class="command-result-tbl"&gt;
             &lt;tr&gt;&lt;td&gt;GebruikerId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;345&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;Gebruikernaam&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;jsmith&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Email&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;jsmith@sample.com&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;e-mail&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;jsmith@sample.com&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;WeergaveNaam&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;John Smith&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;VoorNaam&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;John&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;AchterNaam&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Smith&lt;/td&gt;&lt;/tr&gt;
@@ -808,7 +808,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
                 &lt;tr&gt;
                     &lt;th&gt;GebruikerId&lt;/th&gt;
                     &lt;th&gt;Gebruikernaam&lt;/th&gt;
-                    &lt;th&gt;Email&lt;/th&gt;
+                    &lt;th&gt;e-mail&lt;/th&gt;
                     &lt;th&gt;LaatsteLogin&lt;/th&gt;
                     &lt;th&gt;IsVerwijderd&lt;/th&gt;
                     &lt;th&gt;IsGeauthorizeerd&lt;/th&gt;
@@ -841,7 +841,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
                 &lt;tr&gt;
                     &lt;th&gt;GebruikerId&lt;/th&gt;
                     &lt;th&gt;Gebruikernaam&lt;/th&gt;
-                    &lt;th&gt;Email&lt;/th&gt;
+                    &lt;th&gt;e-mail&lt;/th&gt;
                     &lt;th&gt;LaatsteLogin&lt;/th&gt;
                     &lt;th&gt;IsVerwijderd&lt;/th&gt;
                     &lt;th&gt;IsGeauthorizeerd&lt;/th&gt;
@@ -877,22 +877,22 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     &lt;/div&gt;</value>
   </data>
   <data name="Prompt_NewUser_Description.Text" lastModified="2018-07-23 16:47:20">
-    <value xml:space="preserve">Creeert een nieuwe Gebruiker record in het portaal.</value>
+    <value xml:space="preserve">Creëert een nieuwe gebruikersaccount in de site.</value>
   </data>
   <data name="Prompt_NewUser_FlagApproved.Text" lastModified="2018-07-23 16:47:20">
-    <value xml:space="preserve">Of het gebruiker account is geauthorizeerd. Staat standaard op true als er hier niks word gespecificeerd.</value>
+    <value xml:space="preserve">Of het gebruikersaccount is geauthoriseerd. Staat standaard op true als er hier niks word gespecificeerd.</value>
   </data>
-  <data name="Prompt_NewUser_FlagEmail.Text" lastModified="2018-07-23 18:56:23">
-    <value xml:space="preserve">Het Email adres van de gebruiker</value>
+  <data name="Prompt_NewUser_Flage-mail.Text" lastModified="2018-07-23 18:56:23">
+    <value xml:space="preserve">Het e-mail adres van de gebruiker</value>
   </data>
   <data name="Prompt_NewUser_FlagFirstname.Text" lastModified="2018-07-23 18:56:23">
-    <value xml:space="preserve">De VoorNaam van de gebruiker</value>
+    <value xml:space="preserve">De voornaam van de gebruiker</value>
   </data>
   <data name="Prompt_NewUser_FlagLastname.Text" lastModified="2018-07-23 18:56:23">
-    <value xml:space="preserve">De AchterNaam van de gebruiker</value>
+    <value xml:space="preserve">De achternaam van de gebruiker</value>
   </data>
   <data name="Prompt_NewUser_FlagNotify.Text" lastModified="2018-07-23 21:04:52">
-    <value xml:space="preserve">Wanneer True zal het syteem een email versturen naar het email adres van de gebruiker. Het type email word bepaald door het registratie type. Wanneer dit niet ingevuld is zullen de portaal standaard waardes worden gebruikt. Als de site registratie modus op None is gezet zal er geen email verstuurd worden ongeacht de waarde van &lt;code&gt;--notify&lt;/code&gt;.</value>
+    <value xml:space="preserve">Wanneer True zal het syteem een e-mail versturen naar het e-mail adres van de gebruiker. Het type e-mail word bepaald door het registratie type. Wanneer dit niet ingevuld is zullen de portaal standaard waardes worden gebruikt. Als de site registratie modus op None is gezet zal er geen e-mail verstuurd worden ongeacht de waarde van &lt;code&gt;--notify&lt;/code&gt;.</value>
   </data>
   <data name="Prompt_NewUser_FlagPassword.Text" lastModified="2018-07-23 21:04:52">
     <value xml:space="preserve">Het Wachtwoord van het gebruiker account. Als dit niet word gespecificeerd zal er een random wachtwoord worden gegenereerd. Let er op dat als de gebruiker niet word gedwongen zijn wachtwoord te resetten u moet zorgen dat &lt;em&gt;iemand&lt;/em&gt; word verwittigd van het wachtwoord.</value>
@@ -903,13 +903,13 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
   <data name="Prompt_NewUser_ResultHtml.Text" lastModified="2018-07-23 23:09:10">
     <value xml:space="preserve">&lt;h4&gt;Creeer een Nieuwe Gebruiker met Alleen de Vereiste Waardes&lt;/h4&gt;
     &lt;p&gt;Dit genereerd een random wachtwoord en kent dit toe aan de nieuw gecreeerde gebruiker. De weergave naam word gegegnereerd door de voornaam en achternaam aan elkaar te plakken. Let op dat omdat "van Doorne" een spatie bevat we deze moeten omvatten in dubbele quotes. De resulterende Weergave naam word dan "Erik van Doorne".&lt;/p&gt;
-    &lt;code class="block"&gt;new-user --username edoorne --email edoorne@myemail.com --firstname Erik --lastname "van Doorne"&lt;/code&gt;</value>
+    &lt;code class="block"&gt;new-user --username edoorne --e-mail edoorne@mye-mail.com --firstname Erik --lastname "van Doorne"&lt;/code&gt;</value>
   </data>
   <data name="Prompt_NothingToSetUser.Text" lastModified="2018-07-24 01:17:04">
     <value xml:space="preserve">Niets meer om up te daten. Voeg a.u.b. meer markeringen in met waardes om te updaten of type 'help set-user' voor meer informatie.</value>
   </data>
   <data name="Prompt_NoUserId.Text" lastModified="2018-07-24 03:18:08">
-    <value xml:space="preserve">Geen Gebruiker ID meegegeven. Niks meer te doen.</value>
+    <value xml:space="preserve">Geen Gebruiker ID meegegeven. Niets meer te doen.</value>
   </data>
   <data name="Prompt_OnlyOneFlagRequired.Text" lastModified="2018-07-24 03:18:08">
     <value xml:space="preserve">U moet 1 en slechts 1 markering specificeren: --{0}, --{1}, or --{2}.</value>
@@ -918,13 +918,13 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value xml:space="preserve">Gebruiker wachtwoord is gereset.</value>
   </data>
   <data name="Prompt_ResetPassword_Description.Text" lastModified="2018-07-24 23:44:02">
-    <value xml:space="preserve">Stelt het wachtwoord token in voor de gebruiker. &lt;em&gt;Dit reset het wachtwoord van de gebruiker niet automatisch&lt;/em&gt;. Staqndaard word dit commando verzonden om het het geresette wachtwoord naar de gebruiker te sturen vbia email. U kunt dit gedarg overschrijven door de &lt;code&gt;--notify&lt;/code&gt; markering met een waarde van &lt;code&gt;false&lt;/code&gt; te specificeren</value>
+    <value xml:space="preserve">Stelt het wachtwoord token in voor de gebruiker. &lt;em&gt;Dit reset het wachtwoord van de gebruiker niet automatisch&lt;/em&gt;. Staqndaard word dit commando verzonden om het het geresette wachtwoord naar de gebruiker te sturen vbia e-mail. U kunt dit gedarg overschrijven door de &lt;code&gt;--notify&lt;/code&gt; markering met een waarde van &lt;code&gt;false&lt;/code&gt; te specificeren</value>
   </data>
   <data name="Prompt_ResetPassword_FlagId.Text" lastModified="2018-07-24 23:44:02">
     <value xml:space="preserve">Gebruiker ID van de gebruiker om de Geresette Wachtwoord link naar toe te sturen.</value>
   </data>
   <data name="Prompt_ResetPassword_FlagNotify.Text" lastModified="2018-07-24 23:44:02">
-    <value xml:space="preserve">Wanneer true zal het systeem een email sturen naar de gebruiker zijn email adres.</value>
+    <value xml:space="preserve">Wanneer true zal het systeem een e-mail sturen naar de gebruiker zijn e-mail adres.</value>
   </data>
   <data name="Prompt_ResetPassword_ResultHtml.Text" lastModified="2018-07-24 23:44:02">
     <value xml:space="preserve">&lt;code class="block"&gt;
@@ -932,13 +932,13 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
   &lt;/code&gt;</value>
   </data>
   <data name="Prompt_RestoreNotRequired.Text" lastModified="2018-07-24 23:44:02">
-    <value xml:space="preserve">Deze gebruiker is nite verwijderd. Niks om te herstellen.</value>
+    <value xml:space="preserve">Deze gebruiker is niet verwijderd. Niets om te herstellen.</value>
   </data>
   <data name="Prompt_RolesEmpty.Text" lastModified="2018-07-24 23:44:02">
     <value xml:space="preserve">--roles kunnen niet leeg zijn.</value>
   </data>
   <data name="Prompt_SearchUserParameterRequired.Text" lastModified="2018-07-24 23:44:02">
-    <value xml:space="preserve">Om te zoeken naar een gebruiker moet u ofwel een --id (GebruikerId), --email (Gebruiker Email), of --name (Gebruikernaam) specificeren.</value>
+    <value xml:space="preserve">Om te zoeken naar een gebruiker moet u ofwel een --id (GebruikerId), --e-mail (Gebruiker e-mail), of --name (Gebruikernaam) specificeren.</value>
   </data>
   <data name="Prompt_SetUser_Description.Text" lastModified="2018-07-25 01:49:36">
     <value xml:space="preserve">Laat u verschillende waardes gerelateerd aan de gespecificeerde gebruiker instellen.</value>
@@ -949,8 +949,8 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
   <data name="Prompt_SetUser_FlagDisplayname.Text" lastModified="2018-07-25 01:49:36">
     <value xml:space="preserve">De naam om weer te geven voor de gebruiker.</value>
   </data>
-  <data name="Prompt_SetUser_FlagEmail.Text" lastModified="2018-07-25 01:49:36">
-    <value xml:space="preserve">Het email adres om in te stellen voor de gebruiker.</value>
+  <data name="Prompt_SetUser_Flage-mail.Text" lastModified="2018-07-25 01:49:36">
+    <value xml:space="preserve">Het e-mail adres om in te stellen voor de gebruiker.</value>
   </data>
   <data name="Prompt_SetUser_FlagFirstname.Text" lastModified="2018-07-25 01:49:36">
     <value xml:space="preserve">De voornaam van de gebruiker.</value>
@@ -994,7 +994,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     &lt;/div&gt;</value>
   </data>
   <data name="Prompt_StartDateGreaterThanEnd.Text" lastModified="2018-07-25 06:00:15">
-    <value xml:space="preserve">Start Datum kan niet later zijn dan Eind Datum.</value>
+    <value xml:space="preserve">Startdatum kan niet later zijn dan einddatum.</value>
   </data>
   <data name="Prompt_UserAlreadyDeleted.Text" lastModified="2018-07-25 06:00:15">
     <value xml:space="preserve">Gebruiker is al verwijderd. Wilt u deze permanent verwijderen? Gebruik dan \"purge-user\"</value>
@@ -1012,13 +1012,13 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value xml:space="preserve">Gebruiker Commandos.</value>
   </data>
   <data name="Question.Help">
-    <value xml:space="preserve">Enter a password question to be used when retrieving the password.</value>
+    <value xml:space="preserve">Geef een wachtwoordvraag op die gebruikt wordt om het het wachtwoord te herstellen.</value>
   </data>
   <data name="Question.Required">
-    <value xml:space="preserve">You must provide a password question.</value>
+    <value xml:space="preserve">Je moet een wachtwoordvraag opgeven.</value>
   </data>
   <data name="Question.Text">
-    <value xml:space="preserve">Password Question:</value>
+    <value xml:space="preserve">Wachtwoordvraag:</value>
   </data>
   <data name="Random.Help" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Vink dit vakje aan om een random wachtwoord te kiezen.</value>
@@ -1077,7 +1077,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
   <data name="SearchPlaceHolder.Text" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Zoek gebruikers</value>
   </data>
-  <data name="SendEmail.Text" lastModified="2016-12-01 03:40:37">
+  <data name="Sende-mail.Text" lastModified="2016-12-01 03:40:37">
     <value xml:space="preserve">Verzend e-mail</value>
   </data>
   <data name="ShowLabel.Text" lastModified="2016-12-01 03:40:37">
@@ -1087,7 +1087,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value xml:space="preserve">Start</value>
   </data>
   <data name="SuperUsers.Text" lastModified="2016-12-01 03:40:37">
-    <value xml:space="preserve">Superusers</value>
+    <value xml:space="preserve">Applicatiebeheerders</value>
   </data>
   <data name="SwitchOff.Text">
     <value xml:space="preserve">Uit</value>
@@ -1171,7 +1171,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value xml:space="preserve">Deblokkeren van gebruiker mislukt.</value>
   </data>
   <data name="UserUpdated.Text" lastModified="2016-12-01 04:48:57">
-    <value xml:space="preserve">Gebruiker succesvol ge-update.</value>
+    <value xml:space="preserve">Gebruiker succesvol bijgewerkt.</value>
   </data>
   <data name="ViewProfile.Text" lastModified="2016-12-01 04:48:57">
     <value xml:space="preserve">Bekijk profiel</value>
