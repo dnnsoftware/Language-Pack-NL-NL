@@ -12,29 +12,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Active.Header">
-    <value xml:space="preserve">Actief</value>
+  <data name="Active.Header" xml:space="preserve">
+    <value>Actief</value>
   </data>
-  <data name="cmdAddState.Text">
-    <value xml:space="preserve">Nieuwe Status Toevoegen</value>
+  <data name="cmdAddState.Text" xml:space="preserve">
+    <value>Nieuwe Status Toevoegen</value>
   </data>
-  <data name="cmdAddWorkflow.Text">
-    <value xml:space="preserve">Nieuwe Workflow Toevoegen</value>
+  <data name="cmdAddWorkflow.Text" xml:space="preserve">
+    <value>Nieuwe Workflow Toevoegen</value>
   </data>
-  <data name="ControlTitle_workflow.Text">
-    <value xml:space="preserve">Onderhouden Workflows</value>
+  <data name="ControlTitle_workflow.Text" xml:space="preserve">
+    <value>Onderhouden Workflows</value>
   </data>
-  <data name="dshPermissions.Text">
-    <value xml:space="preserve">Status Configuratie</value>
+  <data name="dshPermissions.Text" xml:space="preserve">
+    <value>Status Configuratie</value>
   </data>
-  <data name="dshStates.Text">
-    <value xml:space="preserve">Statussen</value>
+  <data name="dshStates.Text" xml:space="preserve">
+    <value>Statussen</value>
   </data>
-  <data name="dshVersions.Text" lastModified="2020-05-16 16:26:42">
-    <value xml:space="preserve">Versiegeschiedenis</value>
+  <data name="dshVersions.Text" xml:space="preserve">
+    <value>Versiegeschiedenis</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;p&gt;
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;p&gt;
         Met de HTML module kan zowel platte- als HTML tekst beheerd worden:
     &lt;/p&gt;
     &lt;ol&gt;
@@ -51,73 +51,73 @@
                 e-mail links, File Manager fotogalerij, bullet points, spellingscontrole en nog
                 veel meer.&lt;/li&gt;</value>
   </data>
-  <data name="plActive.Help">
-    <value xml:space="preserve">Bepaal of de status actief is</value>
+  <data name="plActive.Help" xml:space="preserve">
+    <value>Bepaal of de status actief is</value>
   </data>
-  <data name="plActive.Text">
-    <value xml:space="preserve">Actief</value>
+  <data name="plActive.Text" xml:space="preserve">
+    <value>Actief</value>
   </data>
-  <data name="plDeleted.Help">
-    <value xml:space="preserve">Bepaal of de status actief is of niet</value>
+  <data name="plDeleted.Help" xml:space="preserve">
+    <value>Bepaal of de status actief is of niet</value>
   </data>
-  <data name="plDeleted.Text">
-    <value xml:space="preserve">Verwijderd</value>
+  <data name="plDeleted.Text" xml:space="preserve">
+    <value>Verwijderd</value>
   </data>
-  <data name="plDescription.Help">
-    <value xml:space="preserve">Geef een beschrijving voor de workflow op</value>
+  <data name="plDescription.Help" xml:space="preserve">
+    <value>Geef een beschrijving voor de workflow op</value>
   </data>
-  <data name="plDescription.Text">
-    <value xml:space="preserve">Beschrijving</value>
+  <data name="plDescription.Text" xml:space="preserve">
+    <value>Beschrijving</value>
   </data>
-  <data name="plHistory.Help">
-    <value xml:space="preserve">Bepaal het maximum aantal versies om vast te houden</value>
+  <data name="plHistory.Help" xml:space="preserve">
+    <value>Bepaal het maximum aantal versies om vast te houden</value>
   </data>
-  <data name="plHistory.Text" lastModified="2020-05-16 16:26:42">
-    <value xml:space="preserve">Historie</value>
+  <data name="plHistory.Text" xml:space="preserve">
+    <value>Historie</value>
   </data>
-  <data name="plMaximumVersionHistory.Help" lastModified="2020-05-16 16:26:42">
-    <value xml:space="preserve">Geef het maximum aantal contentversies aan dat moet worden opgeslagen in de historie van de module ( geef nul in om alle versies op te slaan )</value>
+  <data name="plMaximumVersionHistory.Help" xml:space="preserve">
+    <value>Geef het maximum aantal contentversies aan dat moet worden opgeslagen in de historie van de module ( geef nul in om alle versies op te slaan )</value>
   </data>
-  <data name="plMaximumVersionHistory.Text" lastModified="2020-05-16 16:26:42">
-    <value xml:space="preserve">Historie</value>
+  <data name="plMaximumVersionHistory.Text" xml:space="preserve">
+    <value>Historie</value>
   </data>
-  <data name="plNotify.Help">
-    <value xml:space="preserve">Bepaal of de auteur en de recensenten een e-mail moeten ontvangen afhankelijk van de status</value>
+  <data name="plNotify.Help" xml:space="preserve">
+    <value>Bepaal of de auteur en de recensenten een e-mail moeten ontvangen afhankelijk van de status</value>
   </data>
-  <data name="plNotify.Text">
-    <value xml:space="preserve">Berichtgeving</value>
+  <data name="plNotify.Text" xml:space="preserve">
+    <value>Berichtgeving</value>
   </data>
-  <data name="plPermissions.Help" lastModified="2020-05-16 16:26:42">
-    <value xml:space="preserve">Bepaal wie de content mag recenseren voor deze status</value>
+  <data name="plPermissions.Help" xml:space="preserve">
+    <value>Bepaal wie de content mag recenseren voor deze status</value>
   </data>
-  <data name="plPermissions.Text">
-    <value xml:space="preserve">Recensenten</value>
+  <data name="plPermissions.Text" xml:space="preserve">
+    <value>Recensenten</value>
   </data>
-  <data name="plState.Help">
-    <value xml:space="preserve">Voer een naam in voor de status</value>
+  <data name="plState.Help" xml:space="preserve">
+    <value>Voer een naam in voor de status</value>
   </data>
-  <data name="plState.Text">
-    <value xml:space="preserve">Status</value>
+  <data name="plState.Text" xml:space="preserve">
+    <value>Status</value>
   </data>
-  <data name="plWorkflow1.Help" lastModified="2020-05-16 16:26:42">
-    <value xml:space="preserve">Selecteer een workflow om te beheren</value>
+  <data name="plWorkflow1.Help" xml:space="preserve">
+    <value>Selecteer een workflow om te beheren</value>
   </data>
-  <data name="plWorkflow1.Text">
-    <value xml:space="preserve">Workflow</value>
+  <data name="plWorkflow1.Text" xml:space="preserve">
+    <value>Workflow</value>
   </data>
-  <data name="plWorkflow2.Help">
-    <value xml:space="preserve">Geef een naam op voor de Workflow</value>
+  <data name="plWorkflow2.Help" xml:space="preserve">
+    <value>Geef een naam op voor de Workflow</value>
   </data>
-  <data name="plWorkflow2.Text">
-    <value xml:space="preserve">Workflow</value>
+  <data name="plWorkflow2.Text" xml:space="preserve">
+    <value>Workflow</value>
   </data>
-  <data name="State.Header">
-    <value xml:space="preserve">Status</value>
+  <data name="State.Header" xml:space="preserve">
+    <value>Status</value>
   </data>
-  <data name="WorkflowExists.Text">
-    <value xml:space="preserve">Er bestaat al een Workflow met de opgegeven naam voor deze site.</value>
+  <data name="WorkflowExists.Text" xml:space="preserve">
+    <value>Er bestaat al een Workflow met de opgegeven naam voor deze site.</value>
   </data>
-  <data name="WorkFlowStateHelp.Text" lastModified="2020-05-16 16:26:42">
-    <value xml:space="preserve">In deze sectie kunt je de workflow statussen beheren. Let op: wanneer een workflow in gebruik is kun je de statussen van deze workflow verwijderen. Tevens kunnen de eerste en laatste workflow statussen niet worden verwijderd.</value>
+  <data name="WorkFlowStateHelp.Text" xml:space="preserve">
+    <value>In deze sectie kunt je de workflow statussen beheren. Let op: wanneer een workflow in gebruik is kun je de statussen van deze workflow verwijderen. Tevens kunnen de eerste en laatste workflow statussen niet worden verwijderd.</value>
   </data>
 </root>

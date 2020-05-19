@@ -12,188 +12,188 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddContent.Action">
-    <value xml:space="preserve">Nieuwe gebruiker toevoegen</value>
+  <data name="AddContent.Action" xml:space="preserve">
+    <value>Nieuwe gebruiker toevoegen</value>
   </data>
-  <data name="Address.Header">
-    <value xml:space="preserve">Adres</value>
+  <data name="Address.Header" xml:space="preserve">
+    <value>Adres</value>
   </data>
-  <data name="Authorized.Header">
-    <value xml:space="preserve">Geautoriseerd</value>
+  <data name="Authorized.Header" xml:space="preserve">
+    <value>Geautoriseerd</value>
   </data>
-  <data name="Biography.Text">
-    <value xml:space="preserve">Biografie</value>
+  <data name="Biography.Text" xml:space="preserve">
+    <value>Biografie</value>
   </data>
-  <data name="Cell.Text">
-    <value xml:space="preserve">GSM</value>
+  <data name="Cell.Text" xml:space="preserve">
+    <value>GSM</value>
   </data>
-  <data name="City.Text">
-    <value xml:space="preserve">Plaats</value>
+  <data name="City.Text" xml:space="preserve">
+    <value>Plaats</value>
   </data>
-  <data name="ControlTitle_.Text">
-    <value xml:space="preserve">Gebruikersaccounts</value>
+  <data name="ControlTitle_.Text" xml:space="preserve">
+    <value>Gebruikersaccounts</value>
   </data>
-  <data name="Country.Text">
-    <value xml:space="preserve">Land</value>
+  <data name="Country.Text" xml:space="preserve">
+    <value>Land</value>
   </data>
-  <data name="CreatedDate.Header">
-    <value xml:space="preserve">Aanmaakdatum</value>
+  <data name="CreatedDate.Header" xml:space="preserve">
+    <value>Aanmaakdatum</value>
   </data>
-  <data name="Delete.Confirm">
-    <value xml:space="preserve">Weet u zeker dat u deze gebruiker wilt verwijderen?</value>
+  <data name="Delete.Confirm" xml:space="preserve">
+    <value>Weet u zeker dat u deze gebruiker wilt verwijderen?</value>
   </data>
-  <data name="Delete.Text">
-    <value xml:space="preserve">Verwijderen</value>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Verwijderen</value>
   </data>
-  <data name="DeleteUnAuthorized.Action">
-    <value xml:space="preserve">Verwijder niet geautoriseerde gebruikers</value>
+  <data name="DeleteUnAuthorized.Action" xml:space="preserve">
+    <value>Verwijder niet geautoriseerde gebruikers</value>
   </data>
-  <data name="DeleteUnauthorized.Text">
-    <value xml:space="preserve">Niet geautoriseerde gebruikers verwijderen</value>
+  <data name="DeleteUnauthorized.Text" xml:space="preserve">
+    <value>Niet geautoriseerde gebruikers verwijderen</value>
   </data>
-  <data name="DisplayDate.Text">
-    <value xml:space="preserve">Datum weergave:</value>
+  <data name="DisplayDate.Text" xml:space="preserve">
+    <value>Datum weergave:</value>
   </data>
-  <data name="DisplayName.Header">
-    <value xml:space="preserve">Naam</value>
+  <data name="DisplayName.Header" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="DisplayName.Text" lastModified="2020-05-17 18:15:18">
-    <value xml:space="preserve">Weergavenaam</value>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Weergavenaam</value>
   </data>
-  <data name="Email.Header">
-    <value xml:space="preserve">E-mail</value>
+  <data name="Email.Header" xml:space="preserve">
+    <value>E-mail</value>
   </data>
-  <data name="Email.Text">
-    <value xml:space="preserve">E-mail</value>
+  <data name="Email.Text" xml:space="preserve">
+    <value>E-mail</value>
   </data>
-  <data name="Fax.Text">
-    <value xml:space="preserve">Fax</value>
+  <data name="Fax.Text" xml:space="preserve">
+    <value>Fax</value>
   </data>
-  <data name="Filter.Text">
-    <value xml:space="preserve">A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z</value>
+  <data name="Filter.Text" xml:space="preserve">
+    <value>A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z</value>
   </data>
-  <data name="First.Text">
-    <value xml:space="preserve">Eerste</value>
+  <data name="First.Text" xml:space="preserve">
+    <value>Eerste</value>
   </data>
-  <data name="FirstName.Header">
-    <value xml:space="preserve">Voornaam</value>
+  <data name="FirstName.Header" xml:space="preserve">
+    <value>Voornaam</value>
   </data>
-  <data name="FirstName.Text">
-    <value xml:space="preserve">Voornaam</value>
+  <data name="FirstName.Text" xml:space="preserve">
+    <value>Voornaam</value>
   </data>
-  <data name="IM.Text">
-    <value xml:space="preserve">IM</value>
+  <data name="IM.Text" xml:space="preserve">
+    <value>IM</value>
   </data>
-  <data name="Last.Text">
-    <value xml:space="preserve">Laatste</value>
+  <data name="Last.Text" xml:space="preserve">
+    <value>Laatste</value>
   </data>
-  <data name="LastLogin.Header">
-    <value xml:space="preserve">Laatste keer ingelogd</value>
+  <data name="LastLogin.Header" xml:space="preserve">
+    <value>Laatste keer ingelogd</value>
   </data>
-  <data name="LastName.Header">
-    <value xml:space="preserve">Achternaam</value>
+  <data name="LastName.Header" xml:space="preserve">
+    <value>Achternaam</value>
   </data>
-  <data name="LastName.Text">
-    <value xml:space="preserve">Achternaam</value>
+  <data name="LastName.Text" xml:space="preserve">
+    <value>Achternaam</value>
   </data>
-  <data name="ManageProfile.Action">
-    <value xml:space="preserve">Profiel eigenschappen beheren</value>
+  <data name="ManageProfile.Action" xml:space="preserve">
+    <value>Profiel eigenschappen beheren</value>
   </data>
-  <data name="MiddleName.Text">
-    <value xml:space="preserve">Tweede naam</value>
+  <data name="MiddleName.Text" xml:space="preserve">
+    <value>Tweede naam</value>
   </data>
-  <data name="ModuleHelp.Text" lastModified="2020-05-17 18:15:18">
-    <value xml:space="preserve">      &lt;h1&gt;Over de gebruiker accounts module&lt;/h1&gt;
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>      &lt;h1&gt;Over de gebruiker accounts module&lt;/h1&gt;
       &lt;p&gt;Met behulp van de gebruiker accounts module kunnen bezoekers zich registreren voor de website. Geregistreerde gebruikers kunnen hun gegevens bijwerken, hun abonnementen op abonneeservices beheren, en eventueel hun registratie voor deze website ongedaan maken&lt;/p&gt;    </value>
   </data>
-  <data name="Name.Header">
-    <value xml:space="preserve">Naam</value>
+  <data name="Name.Header" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="Next.Text">
-    <value xml:space="preserve">Volgende</value>
+  <data name="Next.Text" xml:space="preserve">
+    <value>Volgende</value>
   </data>
-  <data name="Online.Text">
-    <value xml:space="preserve">Online </value>
+  <data name="Online.Text" xml:space="preserve">
+    <value>Online </value>
   </data>
-  <data name="PagerPageSize.Text">
-    <value xml:space="preserve">Onderdelen per pagina:</value>
+  <data name="PagerPageSize.Text" xml:space="preserve">
+    <value>Onderdelen per pagina:</value>
   </data>
-  <data name="PagerTextFormat.Text">
-    <value xml:space="preserve">{4} pagina {0} van {1}, gebruikers {2} tot {3} van {5}</value>
+  <data name="PagerTextFormat.Text" xml:space="preserve">
+    <value>{4} pagina {0} van {1}, gebruikers {2} tot {3} van {5}</value>
   </data>
-  <data name="PostalCode.Text">
-    <value xml:space="preserve">Postcode</value>
+  <data name="PostalCode.Text" xml:space="preserve">
+    <value>Postcode</value>
   </data>
-  <data name="PreferredLocale.Text">
-    <value xml:space="preserve">Voorkeurstaal</value>
+  <data name="PreferredLocale.Text" xml:space="preserve">
+    <value>Voorkeurstaal</value>
   </data>
-  <data name="PreferredTimeZone.Text">
-    <value xml:space="preserve">Gewenste tijdzone</value>
+  <data name="PreferredTimeZone.Text" xml:space="preserve">
+    <value>Gewenste tijdzone</value>
   </data>
-  <data name="Prefix.Text">
-    <value xml:space="preserve">Voorvoegsel</value>
+  <data name="Prefix.Text" xml:space="preserve">
+    <value>Voorvoegsel</value>
   </data>
-  <data name="Previous.Text">
-    <value xml:space="preserve">Vorige</value>
+  <data name="Previous.Text" xml:space="preserve">
+    <value>Vorige</value>
   </data>
-  <data name="RecordsPage.Text">
-    <value xml:space="preserve">Aantal regels per pagina:</value>
+  <data name="RecordsPage.Text" xml:space="preserve">
+    <value>Aantal regels per pagina:</value>
   </data>
-  <data name="Region.Text">
-    <value xml:space="preserve">Regio</value>
+  <data name="Region.Text" xml:space="preserve">
+    <value>Regio</value>
   </data>
-  <data name="Remove.Confirm" lastModified="2020-05-17 18:15:18">
-    <value xml:space="preserve">Weet je zeker dat je deze gebruiker definitief wilt verwijderen?</value>
+  <data name="Remove.Confirm" xml:space="preserve">
+    <value>Weet je zeker dat je deze gebruiker definitief wilt verwijderen?</value>
   </data>
-  <data name="Remove.Text">
-    <value xml:space="preserve">Wissen</value>
+  <data name="Remove.Text" xml:space="preserve">
+    <value>Wissen</value>
   </data>
-  <data name="RemoveDeleted.Action">
-    <value xml:space="preserve">Wissen Verwijderde Gebruikers</value>
+  <data name="RemoveDeleted.Action" xml:space="preserve">
+    <value>Wissen Verwijderde Gebruikers</value>
   </data>
-  <data name="Restore.Confirm" lastModified="2020-05-17 18:15:18">
-    <value xml:space="preserve">Weet je zeker dat je deze gebruiker wilt herstellen?</value>
+  <data name="Restore.Confirm" xml:space="preserve">
+    <value>Weet je zeker dat je deze gebruiker wilt herstellen?</value>
   </data>
-  <data name="Restore.Text">
-    <value xml:space="preserve">Herstellen</value>
+  <data name="Restore.Text" xml:space="preserve">
+    <value>Herstellen</value>
   </data>
-  <data name="Search.Text">
-    <value xml:space="preserve">Zoeken</value>
+  <data name="Search.Text" xml:space="preserve">
+    <value>Zoeken</value>
   </data>
-  <data name="Street.Text">
-    <value xml:space="preserve">Straat</value>
+  <data name="Street.Text" xml:space="preserve">
+    <value>Straat</value>
   </data>
-  <data name="Suffix.Text">
-    <value xml:space="preserve">Achtervoegsel</value>
+  <data name="Suffix.Text" xml:space="preserve">
+    <value>Achtervoegsel</value>
   </data>
-  <data name="Telephone.Header">
-    <value xml:space="preserve">Telefoon</value>
+  <data name="Telephone.Header" xml:space="preserve">
+    <value>Telefoon</value>
   </data>
-  <data name="Telephone.Text">
-    <value xml:space="preserve">Telefoon</value>
+  <data name="Telephone.Text" xml:space="preserve">
+    <value>Telefoon</value>
   </data>
-  <data name="TimeZone.Text">
-    <value xml:space="preserve">Tijdzone</value>
+  <data name="TimeZone.Text" xml:space="preserve">
+    <value>Tijdzone</value>
   </data>
-  <data name="Unit.Text">
-    <value xml:space="preserve">Eenheid</value>
+  <data name="Unit.Text" xml:space="preserve">
+    <value>Eenheid</value>
   </data>
-  <data name="UserDeleted.Text">
-    <value xml:space="preserve">Gebruiker succesvol verwijderd</value>
+  <data name="UserDeleted.Text" xml:space="preserve">
+    <value>Gebruiker succesvol verwijderd</value>
   </data>
-  <data name="Username.Header">
-    <value xml:space="preserve">Gebruikersnaam</value>
+  <data name="Username.Header" xml:space="preserve">
+    <value>Gebruikersnaam</value>
   </data>
-  <data name="Username.Text">
-    <value xml:space="preserve">Gebruikersnaam</value>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Gebruikersnaam</value>
   </data>
-  <data name="UserRoles.Text">
-    <value xml:space="preserve">Rollen beheren</value>
+  <data name="UserRoles.Text" xml:space="preserve">
+    <value>Rollen beheren</value>
   </data>
-  <data name="UserSettings.Action">
-    <value xml:space="preserve">Gebruiker Instellingen</value>
+  <data name="UserSettings.Action" xml:space="preserve">
+    <value>Gebruiker Instellingen</value>
   </data>
-  <data name="Website.Text">
-    <value xml:space="preserve">Website</value>
+  <data name="Website.Text" xml:space="preserve">
+    <value>Website</value>
   </data>
 </root>

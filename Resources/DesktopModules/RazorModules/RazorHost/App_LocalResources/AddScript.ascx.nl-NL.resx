@@ -12,31 +12,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cmdAdd.Text" lastModified="2020-05-16 16:37:07">
-    <value xml:space="preserve">Nieuw script toevoegen</value>
+  <data name="cmdAdd.Text" xml:space="preserve">
+    <value>Nieuw script toevoegen</value>
   </data>
-  <data name="createNewScript.Text" lastModified="2020-05-16 16:37:07">
-    <value xml:space="preserve">Om een nieuwe Razor scriptbestand te creëren, Selecteer het bestandstype en voer de bestandsnaam in. Het bestand zal worden aangemaakt in de scriptsmap.</value>
+  <data name="createNewScript.Text" xml:space="preserve">
+    <value>Om een nieuwe Razor scriptbestand te creëren, Selecteer het bestandstype en voer de bestandsnaam in. Het bestand zal worden aangemaakt in de scriptsmap.</value>
   </data>
-  <data name="CSHTML.Text" lastModified="2020-05-16 16:37:07">
-    <value xml:space="preserve">CSHtml bestand (C#)</value>
+  <data name="CSHTML.Text" xml:space="preserve">
+    <value>CSHtml bestand (C#)</value>
   </data>
-  <data name="fileNameLabel.Help" lastModified="2020-05-16 16:37:07">
-    <value xml:space="preserve">Voer de bestandnaam in voor het script bestand. De bestandsnaam zal een "_" als voorloper krijgen.</value>
+  <data name="fileNameLabel.Help" xml:space="preserve">
+    <value>Voer de bestandnaam in voor het script bestand. De bestandsnaam zal een "_" als voorloper krijgen.</value>
   </data>
-  <data name="fileNameLabel.Text">
-    <value xml:space="preserve">Bestandsnaam:</value>
+  <data name="fileNameLabel.Text" xml:space="preserve">
+    <value>Bestandsnaam:</value>
   </data>
-  <data name="fileTypeLabel.Help" lastModified="2020-05-16 16:37:07">
-    <value xml:space="preserve">Selecteer welk Razor script bestandstype je wilt creëren (CSHtml voor C# of VBHtml voor VB.Net)</value>
+  <data name="fileTypeLabel.Help" xml:space="preserve">
+    <value>Selecteer welk Razor script bestandstype je wilt creëren (CSHtml voor C# of VBHtml voor VB.Net)</value>
   </data>
-  <data name="fileTypeLabel.Text">
-    <value xml:space="preserve">Bestandstype:</value>
+  <data name="fileTypeLabel.Text" xml:space="preserve">
+    <value>Bestandstype:</value>
   </data>
-  <data name="NewScript.Text">
-    <value xml:space="preserve">&lt;h2&gt;Nieuw Razor Script&lt;/h2&gt;</value>
+  <data name="NewScript.Text" xml:space="preserve">
+    <value>&lt;h2&gt;Nieuw Razor Script&lt;/h2&gt;</value>
   </data>
-  <data name="VBHTML.Text">
-    <value xml:space="preserve">VBHtml Bestand (VB)</value>
+  <data name="VBHTML.Text" xml:space="preserve">
+    <value>VBHtml Bestand (VB)</value>
   </data>
 </root>

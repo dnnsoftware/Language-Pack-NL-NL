@@ -12,19 +12,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="lblAdminOnly.Text" lastModified="2020-05-16 20:13:30">
-    <value xml:space="preserve">Alleen zichtbaar voor beheerders</value>
+  <data name="lblAdminOnly.Text" xml:space="preserve">
+    <value>Alleen zichtbaar voor beheerders</value>
   </data>
-  <data name="lblEveryone.Text" lastModified="2020-05-16 20:13:30">
-    <value xml:space="preserve">De pagina is zichtbaar voor iedereen</value>
+  <data name="lblEveryone.Text" xml:space="preserve">
+    <value>De pagina is zichtbaar voor iedereen</value>
   </data>
-  <data name="lblHome.Text" lastModified="2016-12-01 13:30:35">
-    <value xml:space="preserve">Homepagina van de site</value>
+  <data name="lblHome.Text" xml:space="preserve">
+    <value>Homepagina van de site</value>
   </data>
-  <data name="lblRegistered.Text" lastModified="2016-12-01 13:30:35">
-    <value xml:space="preserve">Zichtbaar voor geregistreerde gebruikers</value>
+  <data name="lblRegistered.Text" xml:space="preserve">
+    <value>Zichtbaar voor geregistreerde gebruikers</value>
   </data>
-  <data name="lblSecure.Text" lastModified="2020-05-16 20:13:30">
-    <value xml:space="preserve">Alleen zichtbaar voor toegekende rollen</value>
+  <data name="lblSecure.Text" xml:space="preserve">
+    <value>Alleen zichtbaar voor toegekende rollen</value>
   </data>
 </root>

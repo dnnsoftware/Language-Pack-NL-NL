@@ -12,106 +12,106 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Add.Text">
-    <value xml:space="preserve">Toevoegen</value>
+  <data name="Add.Text" xml:space="preserve">
+    <value>Toevoegen</value>
   </data>
-  <data name="AddControlError.Text" lastModified="2020-05-17 17:02:44">
-    <value xml:space="preserve">Je moet een module template selecteren en een control naam invoeren.</value>
+  <data name="AddControlError.Text" xml:space="preserve">
+    <value>Je moet een module template selecteren en een control naam invoeren.</value>
   </data>
-  <data name="AddFile.Text">
-    <value xml:space="preserve">Bestand toevoegen</value>
+  <data name="AddFile.Text" xml:space="preserve">
+    <value>Bestand toevoegen</value>
   </data>
-  <data name="C#.Text">
-    <value xml:space="preserve">C#</value>
+  <data name="C#.Text" xml:space="preserve">
+    <value>C#</value>
   </data>
-  <data name="cmdConfigure.Text">
-    <value xml:space="preserve">Configureren</value>
+  <data name="cmdConfigure.Text" xml:space="preserve">
+    <value>Configureren</value>
   </data>
-  <data name="cmdCreate.Text">
-    <value xml:space="preserve">Aanmaken</value>
+  <data name="cmdCreate.Text" xml:space="preserve">
+    <value>Aanmaken</value>
   </data>
-  <data name="cmdPackage.Text">
-    <value xml:space="preserve">Pakket maken</value>
+  <data name="cmdPackage.Text" xml:space="preserve">
+    <value>Pakket maken</value>
   </data>
-  <data name="cmdSave.Text">
-    <value xml:space="preserve">Bewaren</value>
+  <data name="cmdSave.Text" xml:space="preserve">
+    <value>Bewaren</value>
   </data>
-  <data name="cmdSaveAs.Text">
-    <value xml:space="preserve">Bewaren als</value>
+  <data name="cmdSaveAs.Text" xml:space="preserve">
+    <value>Bewaren als</value>
   </data>
-  <data name="cmdUpdate.Text">
-    <value xml:space="preserve">Bijwerken</value>
+  <data name="cmdUpdate.Text" xml:space="preserve">
+    <value>Bijwerken</value>
   </data>
-  <data name="ControlCreated.Text">
-    <value xml:space="preserve">Het bestand is succesvol aangemaakt.</value>
+  <data name="ControlCreated.Text" xml:space="preserve">
+    <value>Het bestand is succesvol aangemaakt.</value>
   </data>
-  <data name="ControlTitle_viewsource.Text">
-    <value xml:space="preserve">Bron weergeven</value>
+  <data name="ControlTitle_viewsource.Text" xml:space="preserve">
+    <value>Bron weergeven</value>
   </data>
-  <data name="ControlUpdated.Text">
-    <value xml:space="preserve">Het bestand is succesvol bijgewerkt.</value>
+  <data name="ControlUpdated.Text" xml:space="preserve">
+    <value>Het bestand is succesvol bijgewerkt.</value>
   </data>
-  <data name="DeleteSnippet.Text">
-    <value xml:space="preserve">Snippet verwijderen?</value>
+  <data name="DeleteSnippet.Text" xml:space="preserve">
+    <value>Snippet verwijderen?</value>
   </data>
-  <data name="Edit.Text">
-    <value xml:space="preserve">Bewerken</value>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Bewerken</value>
   </data>
-  <data name="EditFile.Text">
-    <value xml:space="preserve">Bewerk bestand</value>
+  <data name="EditFile.Text" xml:space="preserve">
+    <value>Bewerk bestand</value>
   </data>
-  <data name="FolderNameInvalid.Text">
-    <value xml:space="preserve">De mapnaam die is opgegeven voor deze module bestaat niet. Controleer de instellingen for deze module onder Applicatiebeheer - Uitbreidingen</value>
+  <data name="FolderNameInvalid.Text" xml:space="preserve">
+    <value>De mapnaam die is opgegeven voor deze module bestaat niet. Controleer de instellingen for deze module onder Applicatiebeheer - Uitbreidingen</value>
   </data>
-  <data name="NoFileTypeSelected.Text" lastModified="2020-05-17 17:02:44">
-    <value xml:space="preserve">Je moet eerst een bestandstype selecteren om te bewerken voordat je op de Bijwerken knop klikt.</value>
+  <data name="NoFileTypeSelected.Text" xml:space="preserve">
+    <value>Je moet eerst een bestandstype selecteren om te bewerken voordat je op de Bijwerken knop klikt.</value>
   </data>
-  <data name="plControl.Help" lastModified="2020-05-17 17:02:44">
-    <value xml:space="preserve">Voer een unieke naam in voor je module control.</value>
+  <data name="plControl.Help" xml:space="preserve">
+    <value>Voer een unieke naam in voor je module control.</value>
   </data>
-  <data name="plControl.Text" lastModified="2020-05-17 17:02:44">
-    <value xml:space="preserve">Controlnaam:</value>
+  <data name="plControl.Text" xml:space="preserve">
+    <value>Controlnaam:</value>
   </data>
-  <data name="plFile.Help" lastModified="2020-05-17 17:02:44">
-    <value xml:space="preserve">Selecteer het bestand waarvan je de bron wilt bekijken.</value>
+  <data name="plFile.Help" xml:space="preserve">
+    <value>Selecteer het bestand waarvan je de bron wilt bekijken.</value>
   </data>
-  <data name="plFile.Text">
-    <value xml:space="preserve">Selecteer een bestand:</value>
+  <data name="plFile.Text" xml:space="preserve">
+    <value>Selecteer een bestand:</value>
   </data>
-  <data name="plLanguage.Help">
-    <value xml:space="preserve">Selecteer de gewenste taal voor het ontwikkelen van de module</value>
+  <data name="plLanguage.Help" xml:space="preserve">
+    <value>Selecteer de gewenste taal voor het ontwikkelen van de module</value>
   </data>
-  <data name="plLanguage.Text">
-    <value xml:space="preserve">Taal:</value>
+  <data name="plLanguage.Text" xml:space="preserve">
+    <value>Taal:</value>
   </data>
-  <data name="plSource.Help" lastModified="2020-05-17 17:02:44">
-    <value xml:space="preserve">Je kunt de inhoud van het bestand in de tekstbox beneden bekijken. Als je gebruik maakt van een locale machine dan kun je de inhoud ook bewerken.</value>
+  <data name="plSource.Help" xml:space="preserve">
+    <value>Je kunt de inhoud van het bestand in de tekstbox beneden bekijken. Als je gebruik maakt van een locale machine dan kun je de inhoud ook bewerken.</value>
   </data>
-  <data name="plSource.Text">
-    <value xml:space="preserve">locatie:</value>
+  <data name="plSource.Text" xml:space="preserve">
+    <value>locatie:</value>
   </data>
-  <data name="plTemplate.Help" lastModified="2020-05-17 17:02:44">
-    <value xml:space="preserve">Selecteer de gewenste module ontwikkelings template. Module ontwikkelings templates worden opgeslagen in de template subfolder binnen de Module Creator module map.</value>
+  <data name="plTemplate.Help" xml:space="preserve">
+    <value>Selecteer de gewenste module ontwikkelings template. Module ontwikkelings templates worden opgeslagen in de template subfolder binnen de Module Creator module map.</value>
   </data>
-  <data name="plTemplate.Text">
-    <value xml:space="preserve">Template:</value>
+  <data name="plTemplate.Text" xml:space="preserve">
+    <value>Template:</value>
   </data>
-  <data name="plType.Help">
-    <value xml:space="preserve">Selecteer het control type.</value>
+  <data name="plType.Help" xml:space="preserve">
+    <value>Selecteer het control type.</value>
   </data>
-  <data name="plType.Text">
-    <value xml:space="preserve">Control type:</value>
+  <data name="plType.Text" xml:space="preserve">
+    <value>Control type:</value>
   </data>
-  <data name="Snippet.Text">
-    <value xml:space="preserve">Code snippets</value>
+  <data name="Snippet.Text" xml:space="preserve">
+    <value>Code snippets</value>
   </data>
-  <data name="SourceFile.Text">
-    <value xml:space="preserve">Bron bestand - {0}</value>
+  <data name="SourceFile.Text" xml:space="preserve">
+    <value>Bron bestand - {0}</value>
   </data>
-  <data name="VB.Text">
-    <value xml:space="preserve">Visual Basic</value>
+  <data name="VB.Text" xml:space="preserve">
+    <value>Visual Basic</value>
   </data>
-  <data name="View.Text">
-    <value xml:space="preserve">Weergeven</value>
+  <data name="View.Text" xml:space="preserve">
+    <value>Weergeven</value>
   </data>
 </root>

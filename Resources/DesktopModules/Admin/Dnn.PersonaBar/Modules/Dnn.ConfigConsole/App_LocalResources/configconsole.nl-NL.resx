@@ -12,94 +12,94 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CancelButton.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Nee</value>
+  <data name="CancelButton.Text" xml:space="preserve">
+    <value>Nee</value>
   </data>
-  <data name="cmdExecute.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Samenvoegen</value>
+  <data name="cmdExecute.Text" xml:space="preserve">
+    <value>Samenvoegen</value>
   </data>
-  <data name="cmdLoad.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Laden</value>
+  <data name="cmdLoad.Text" xml:space="preserve">
+    <value>Laden</value>
   </data>
-  <data name="cmdSave.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Wijzigingen opslaan</value>
+  <data name="cmdSave.Text" xml:space="preserve">
+    <value>Wijzigingen opslaan</value>
   </data>
-  <data name="cmdUpload.Text" lastModified="2020-05-16 20:36:18">
-    <value xml:space="preserve">XML samenvoegscript uploaden</value>
+  <data name="cmdUpload.Text" xml:space="preserve">
+    <value>XML samenvoegscript uploaden</value>
   </data>
-  <data name="ConfigConsole.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Configuratie beheer</value>
+  <data name="ConfigConsole.Text" xml:space="preserve">
+    <value>Configuratie beheer</value>
   </data>
-  <data name="ConfigFilesTab.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Configuratie bestanden</value>
+  <data name="ConfigFilesTab.Text" xml:space="preserve">
+    <value>Configuratie bestanden</value>
   </data>
-  <data name="Configuration.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Bestanden</value>
+  <data name="Configuration.Text" xml:space="preserve">
+    <value>Bestanden</value>
   </data>
-  <data name="ControlTitle_.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Configuratie beheer</value>
+  <data name="ControlTitle_.Text" xml:space="preserve">
+    <value>Configuratie beheer</value>
   </data>
-  <data name="ERROR_ConfigurationFormat.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Uw configuratie bestand is geen geldig XML bestand. Corrigeer het formaat probleem en probeer opnieuw. {0}</value>
+  <data name="ERROR_ConfigurationFormat.Text" xml:space="preserve">
+    <value>Uw configuratie bestand is geen geldig XML bestand. Corrigeer het formaat probleem en probeer opnieuw. {0}</value>
   </data>
-  <data name="ERROR_Merge.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Het systeem heeft een fout ontdekt bij het toepassen van de speciefieke configuratie wijzigingen. Herzie de evenement log voor fout details.</value>
+  <data name="ERROR_Merge.Text" xml:space="preserve">
+    <value>Het systeem heeft een fout ontdekt bij het toepassen van de speciefieke configuratie wijzigingen. Herzie de evenement log voor fout details.</value>
   </data>
-  <data name="fileLabel.Help" lastModified="2020-05-16 20:36:18">
-    <value xml:space="preserve">Je kunt het bestand aanpassen voor het maken van wijzigingen.</value>
+  <data name="fileLabel.Help" xml:space="preserve">
+    <value>Je kunt het bestand aanpassen voor het maken van wijzigingen.</value>
   </data>
-  <data name="fileLabel.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Bestand:</value>
+  <data name="fileLabel.Text" xml:space="preserve">
+    <value>Bestand:</value>
   </data>
-  <data name="LoadConfigWarning.Text" lastModified="2020-05-16 20:36:18">
-    <value xml:space="preserve">Waarschuwing: Je zult je huidige wijzigingen verliezen als je een nieuw config. bestand laadt.</value>
+  <data name="LoadConfigWarning.Text" xml:space="preserve">
+    <value>Waarschuwing: Je zult je huidige wijzigingen verliezen als je een nieuw config. bestand laadt.</value>
   </data>
-  <data name="Merge.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Scripts samenvoegen</value>
+  <data name="Merge.Text" xml:space="preserve">
+    <value>Scripts samenvoegen</value>
   </data>
-  <data name="MergeConfirm.Text" lastModified="2020-05-16 20:36:18">
-    <value xml:space="preserve">Weet je zeker dat je deze wijzigingen wilt samenvoegen naar dit config bestand?</value>
+  <data name="MergeConfirm.Text" xml:space="preserve">
+    <value>Weet je zeker dat je deze wijzigingen wilt samenvoegen naar dit config bestand?</value>
   </data>
-  <data name="MergeScriptsTab.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Scripts samenvoegen</value>
+  <data name="MergeScriptsTab.Text" xml:space="preserve">
+    <value>Scripts samenvoegen</value>
   </data>
-  <data name="nav_ConfigConsole.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Configuratie beheer</value>
+  <data name="nav_ConfigConsole.Text" xml:space="preserve">
+    <value>Configuratie beheer</value>
   </data>
-  <data name="plConfig.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Configuratie bestand</value>
+  <data name="plConfig.Text" xml:space="preserve">
+    <value>Configuratie bestand</value>
   </data>
-  <data name="plConfigHelp.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">- Selecteer een config bestand om te bewerken -</value>
+  <data name="plConfigHelp.Text" xml:space="preserve">
+    <value>- Selecteer een config bestand om te bewerken -</value>
   </data>
-  <data name="plScript.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Script samenvoegen</value>
+  <data name="plScript.Text" xml:space="preserve">
+    <value>Script samenvoegen</value>
   </data>
-  <data name="plScriptNote.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">*Noot:</value>
+  <data name="plScriptNote.Text" xml:space="preserve">
+    <value>*Noot:</value>
   </data>
-  <data name="plScriptNoteDesc.Text" lastModified="2020-05-16 20:36:18">
-    <value xml:space="preserve">Eenmaal geüpload, kun je het script hieronder bewerken voordat je het uitvoert.</value>
+  <data name="plScriptNoteDesc.Text" xml:space="preserve">
+    <value>Eenmaal geüpload, kun je het script hieronder bewerken voordat je het uitvoert.</value>
   </data>
-  <data name="SaveButton.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Ja</value>
+  <data name="SaveButton.Text" xml:space="preserve">
+    <value>Ja</value>
   </data>
-  <data name="SaveConfirm.Text" lastModified="2020-05-16 20:36:18">
-    <value xml:space="preserve">Weet je zeker dat je wijzingen aan dit configuratiebestand wilt opslaan?</value>
+  <data name="SaveConfirm.Text" xml:space="preserve">
+    <value>Weet je zeker dat je wijzingen aan dit configuratiebestand wilt opslaan?</value>
   </data>
-  <data name="SaveWarning.Text" lastModified="2020-05-16 20:36:18">
-    <value xml:space="preserve">Het wijzigingen van de web.config zorgt ervoor dat je site zal herladen en kan de prestaties van de site doen afnemen tijdens het herladen van de applicatie door de webserver. Wil je doorgaan?</value>
+  <data name="SaveWarning.Text" xml:space="preserve">
+    <value>Het wijzigingen van de web.config zorgt ervoor dat je site zal herladen en kan de prestaties van de site doen afnemen tijdens het herladen van de applicatie door de webserver. Wil je doorgaan?</value>
   </data>
-  <data name="scriptLabel.Help" lastModified="2020-05-16 20:36:18">
-    <value xml:space="preserve">Je kunt het het samenvoegingsscript bewerken voordat je het gaat uitvoeren.</value>
+  <data name="scriptLabel.Help" xml:space="preserve">
+    <value>Je kunt het het samenvoegingsscript bewerken voordat je het gaat uitvoeren.</value>
   </data>
-  <data name="scriptLabel.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">Script:</value>
+  <data name="scriptLabel.Text" xml:space="preserve">
+    <value>Script:</value>
   </data>
-  <data name="SelectConfig.Text" lastModified="2020-05-16 20:36:18">
-    <value xml:space="preserve">Selecteer een configuratiebestand...</value>
+  <data name="SelectConfig.Text" xml:space="preserve">
+    <value>Selecteer een configuratiebestand...</value>
   </data>
-  <data name="Success.Text" lastModified="2016-11-30 09:43:08">
-    <value xml:space="preserve">De wijzigingen zijn succesvol doorgevoerd.</value>
+  <data name="Success.Text" xml:space="preserve">
+    <value>De wijzigingen zijn succesvol doorgevoerd.</value>
   </data>
 </root>

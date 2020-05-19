@@ -12,25 +12,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Profielweergave instellingen</value>
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>Profielweergave instellingen</value>
   </data>
-  <data name="IncludeButton.Help">
-    <value xml:space="preserve">Selecteer deze optie om de "Bewerk Profiel" knop weer te geven</value>
+  <data name="IncludeButton.Help" xml:space="preserve">
+    <value>Selecteer deze optie om de "Bewerk Profiel" knop weer te geven</value>
   </data>
-  <data name="IncludeButton.Text">
-    <value xml:space="preserve">Voeg "Bewerk" knop toe</value>
+  <data name="IncludeButton.Text" xml:space="preserve">
+    <value>Voeg "Bewerk" knop toe</value>
   </data>
-  <data name="LoadDefault.Confirm" lastModified="2020-05-17 18:17:59">
-    <value xml:space="preserve">Dit zal het bestaande sjabloon overschrijven. Weet u zeker dat je wilt doorgaan?</value>
+  <data name="LoadDefault.Confirm" xml:space="preserve">
+    <value>Dit zal het bestaande sjabloon overschrijven. Weet u zeker dat je wilt doorgaan?</value>
   </data>
-  <data name="LoadDefault.Text">
-    <value xml:space="preserve">Laad standaard</value>
+  <data name="LoadDefault.Text" xml:space="preserve">
+    <value>Laad standaard</value>
   </data>
-  <data name="plTemplate.Help">
-    <value xml:space="preserve">Geef sjabloon op voor de weergave van een gebruikersprofiel.</value>
+  <data name="plTemplate.Help" xml:space="preserve">
+    <value>Geef sjabloon op voor de weergave van een gebruikersprofiel.</value>
   </data>
-  <data name="plTemplate.Text">
-    <value xml:space="preserve">Profielsjabloon:</value>
+  <data name="plTemplate.Text" xml:space="preserve">
+    <value>Profielsjabloon:</value>
   </data>
 </root>

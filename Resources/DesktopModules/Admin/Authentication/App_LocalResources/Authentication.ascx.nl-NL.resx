@@ -12,13 +12,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cmdUpdate.Text">
-    <value xml:space="preserve">Instellingen bijwerken</value>
+  <data name="cmdUpdate.Text" xml:space="preserve">
+    <value>Instellingen bijwerken</value>
   </data>
-  <data name="ControlTitle_.Text">
-    <value xml:space="preserve">Authenticatie instellingen</value>
+  <data name="ControlTitle_.Text" xml:space="preserve">
+    <value>Authenticatie instellingen</value>
   </data>
-  <data name="NoProvidersEnabled.Text" lastModified="2020-05-16 19:37:38">
-    <value xml:space="preserve">Geen van de providers is geactiveerd - de standaard DNN authenticatie provider zal gebruikt worden</value>
+  <data name="NoProvidersEnabled.Text" xml:space="preserve">
+    <value>Geen van de providers is geactiveerd - de standaard DNN authenticatie provider zal gebruikt worden</value>
   </data>
 </root>

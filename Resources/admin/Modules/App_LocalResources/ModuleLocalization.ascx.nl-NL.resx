@@ -12,40 +12,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Language.Header">
-    <value xml:space="preserve">Cultuur</value>
+  <data name="BindConfirm.Text" xml:space="preserve">
+    <value>Koppelen aan de standaard cultuur versie zal de inhoud uit de subcultuur versies verwijderen. Deze actie is onomkeerbaar. Weet je zeker dat je verder wil gaan?</value>
   </data>
-  <data name="UnBound.Header">
-    <value xml:space="preserve">Is losgekoppeld?</value>
+  <data name="bindModule.Text" xml:space="preserve">
+    <value>Referentie standaard cultuur</value>
   </data>
-  <data name="markModuleTranslated.Text">
-    <value xml:space="preserve">Markeer als vertaald</value>
+  <data name="Edit.Header" xml:space="preserve">
+    <value>Wijzigen</value>
   </data>
-  <data name="markModuleUnTranslated.Text">
-    <value xml:space="preserve">Markeer als niet vertaald</value>
+  <data name="Language.Header" xml:space="preserve">
+    <value>Cultuur</value>
   </data>
-  <data name="ModuleTitle.Header">
-    <value xml:space="preserve">Module titel</value>
+  <data name="markModuleTranslated.Text" xml:space="preserve">
+    <value>Markeer als vertaald</value>
   </data>
-  <data name="Translated.Header">
-    <value xml:space="preserve">Vertaald?</value>
+  <data name="markModuleUnTranslated.Text" xml:space="preserve">
+    <value>Markeer als niet vertaald</value>
   </data>
-  <data name="NA.Text">
-    <value xml:space="preserve">NVT</value>
+  <data name="ModuleTitle.Header" xml:space="preserve">
+    <value>Module titel</value>
   </data>
-  <data name="Edit.Header">
-    <value xml:space="preserve">Wijzigen</value>
+  <data name="ModuleType.Header" xml:space="preserve">
+    <value>Module</value>
   </data>
-  <data name="ModuleType.Header">
-    <value xml:space="preserve">Module</value>
+  <data name="NA.Text" xml:space="preserve">
+    <value>NVT</value>
   </data>
-  <data name="bindModule.Text">
-    <value xml:space="preserve">Referentie standaard cultuur</value>
+  <data name="Translated.Header" xml:space="preserve">
+    <value>Vertaald?</value>
   </data>
-  <data name="unbindModule.Text">
-    <value xml:space="preserve">Loskoppelen van standaard taal</value>
+  <data name="unbindModule.Text" xml:space="preserve">
+    <value>Loskoppelen van standaard taal</value>
   </data>
-  <data name="BindConfirm.Text">
-    <value xml:space="preserve">Koppelen aan de standaard cultuur versie zal de inhoud uit de subcultuur versies verwijderen. Deze actie is onomkeerbaar. Weet je zeker dat je verder wil gaan?</value>
+  <data name="UnBound.Header" xml:space="preserve">
+    <value>Is losgekoppeld?</value>
   </data>
 </root>

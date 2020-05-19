@@ -12,28 +12,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Add.Text">
-    <value xml:space="preserve">Labels Toevoegen</value>
+  <data name="Add.Text" xml:space="preserve">
+    <value>Labels Toevoegen</value>
   </data>
-  <data name="Add.ToolTip" lastModified="2015-12-30 09:24:11">
-    <value xml:space="preserve">Klik op deze link om een label toe te voegen.</value>
+  <data name="Add.ToolTip" xml:space="preserve">
+    <value>Klik op deze link om een label toe te voegen.</value>
   </data>
-  <data name="Cancel.Text">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="Cancel.ToolTip" lastModified="2015-12-30 09:24:11">
-    <value xml:space="preserve">Klik op annuleren om te stoppen zonder op te slaan.</value>
+  <data name="Cancel.ToolTip" xml:space="preserve">
+    <value>Klik op annuleren om te stoppen zonder op te slaan.</value>
   </data>
-  <data name="Category.ToolTip">
-    <value xml:space="preserve">Categorieën</value>
+  <data name="Category.ToolTip" xml:space="preserve">
+    <value>Categorieën</value>
   </data>
-  <data name="Save.Text">
-    <value xml:space="preserve">Opslaan</value>
+  <data name="Save.Text" xml:space="preserve">
+    <value>Opslaan</value>
   </data>
-  <data name="Save.ToolTip" lastModified="2015-12-30 09:24:11">
-    <value xml:space="preserve">Klik om de labels op te slaan.</value>
+  <data name="Save.ToolTip" xml:space="preserve">
+    <value>Klik om de labels op te slaan.</value>
   </data>
-  <data name="Tag.ToolTip">
-    <value xml:space="preserve">Labels</value>
+  <data name="Tag.ToolTip" xml:space="preserve">
+    <value>Labels</value>
   </data>
 </root>

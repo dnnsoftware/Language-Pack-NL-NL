@@ -12,73 +12,64 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccountInfo.Text">
-    <value xml:space="preserve">Account informatie</value>
+  <data name="AccountInfo.Text" xml:space="preserve">
+    <value>Account informatie</value>
   </data>
-  <data name="AccountSettings.Text">
-    <value xml:space="preserve">Account instellingen</value>
+  <data name="AccountSettings.Text" xml:space="preserve">
+    <value>Account instellingen</value>
   </data>
-  <data name="cmdCommunications.Text">
-    <value xml:space="preserve">Communicatie</value>
+  <data name="cmdCommunications.Text" xml:space="preserve">
+    <value>Communicatie</value>
   </data>
-  <data name="cmdDelete.Text">
-    <value xml:space="preserve">Uitschrijven</value>
+  <data name="cmdDelete.Text" xml:space="preserve">
+    <value>Uitschrijven</value>
   </data>
-  <data name="cmdHMACGenerate.Text" lastModified="2015-12-31 09:28:00">
-    <value xml:space="preserve">Genereer HMCA id's</value>
+  <data name="cmdProfile.Text" xml:space="preserve">
+    <value>Profiel beheren</value>
   </data>
-  <data name="cmdProfile.Text">
-    <value xml:space="preserve">Profiel beheren</value>
+  <data name="cmdServices.Text" xml:space="preserve">
+    <value>Services beheren</value>
   </data>
-  <data name="cmdServices.Text">
-    <value xml:space="preserve">Services beheren</value>
+  <data name="cmdUpdate.Text" xml:space="preserve">
+    <value>Bijwerken</value>
   </data>
-  <data name="cmdUpdate.Text">
-    <value xml:space="preserve">Bijwerken</value>
+  <data name="cmdUser.Text" xml:space="preserve">
+    <value>Account beheren</value>
   </data>
-  <data name="cmdUser.Text">
-    <value xml:space="preserve">Account beheren</value>
+  <data name="ControlTitle_profile.Text" xml:space="preserve">
+    <value>Profiel</value>
   </data>
-  <data name="ControlTitle_profile.Text">
-    <value xml:space="preserve">Profiel</value>
+  <data name="DisplayNameNotUnique.Text" xml:space="preserve">
+    <value>De weergavenaam die je hebt ingegeven is al reeds in gebruik. Kies een andere naam.</value>
   </data>
-  <data name="DisplayNameNotUnique.Text" lastModified="2020-05-17 17:48:18">
-    <value xml:space="preserve">De weergavenaam die je hebt ingegeven is al reeds in gebruik. Kies een andere naam.</value>
+  <data name="ErrorDialogTitle.Text" xml:space="preserve">
+    <value>Overwachte fout.</value>
   </data>
-  <data name="ErrorDialogTitle.Text" lastModified="2020-05-17 17:48:18">
-    <value xml:space="preserve">Overwachte fout.</value>
+  <data name="PasswordSettings.Text" xml:space="preserve">
+    <value>Wachtwoord beheren</value>
   </data>
-  <data name="HMACAppIdLabel.Text" lastModified="2015-12-31 09:28:00">
-    <value xml:space="preserve">HMAC APP Id</value>
+  <data name="SuccessMessage.Text" xml:space="preserve">
+    <value>Profiel URL is succesvol bijgewerkt</value>
   </data>
-  <data name="HMACAppSecretLabel.Text" lastModified="2015-12-31 09:28:00">
-    <value xml:space="preserve">HMAC APP geheim</value>
+  <data name="UserSubscribed.Text" xml:space="preserve">
+    <value>Je inschrijving op de rol {0} is succesvol .</value>
   </data>
-  <data name="PasswordSettings.Text">
-    <value xml:space="preserve">Wachtwoord beheren</value>
+  <data name="UserUnSubscribed.Text" xml:space="preserve">
+    <value>Je uitschrijving op de rol {0} is succesvol.</value>
   </data>
-  <data name="SuccessMessage.Text">
-    <value xml:space="preserve">Profiel URL is succesvol bijgewerkt</value>
+  <data name="UserUpdated.Text" xml:space="preserve">
+    <value>Het account is succesvol bijgewerkt.</value>
   </data>
-  <data name="UserSubscribed.Text" lastModified="2020-05-17 17:48:18">
-    <value xml:space="preserve">Je inschrijving op de rol {0} is succesvol .</value>
+  <data name="UserUpdatedError.Text" xml:space="preserve">
+    <value>Er is een overwachte fout opgetreden tijdens het bijwerken van je account.</value>
   </data>
-  <data name="UserUnSubscribed.Text" lastModified="2020-05-17 17:48:18">
-    <value xml:space="preserve">Je uitschrijving op de rol {0} is succesvol.</value>
+  <data name="VanityUrlHeader.Text" xml:space="preserve">
+    <value>Opmerking: Je kunt je publieke profiel URL maar één keer aanpassen.</value>
   </data>
-  <data name="UserUpdated.Text" lastModified="2020-05-17 17:48:18">
-    <value xml:space="preserve">Het account is succesvol bijgewerkt.</value>
+  <data name="VanityUrlLabel.Help" xml:space="preserve">
+    <value>Je kunt een eigen URL opgeven voor het identificeren van je profiel welke je vervolgens weer kan delen met andere community gebruikers. </value>
   </data>
-  <data name="UserUpdatedError.Text" lastModified="2020-05-17 17:48:18">
-    <value xml:space="preserve">Er is een overwachte fout opgetreden tijdens het bijwerken van je account.</value>
-  </data>
-  <data name="VanityUrlHeader.Text" lastModified="2020-05-17 17:48:18">
-    <value xml:space="preserve">Opmerking: Je kunt je publieke profiel URL maar één keer aanpassen.</value>
-  </data>
-  <data name="VanityUrlLabel.Help" lastModified="2020-05-17 17:48:18">
-    <value xml:space="preserve">Je kunt een eigen URL opgeven voor het identificeren van je profiel welke je vervolgens weer kan delen met andere community gebruikers. </value>
-  </data>
-  <data name="VanityUrlLabel.Text">
-    <value xml:space="preserve">ProfielURL:</value>
+  <data name="VanityUrlLabel.Text" xml:space="preserve">
+    <value>ProfielURL:</value>
   </data>
 </root>

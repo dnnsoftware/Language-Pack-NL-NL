@@ -12,10 +12,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_viewprofile.Text">
-    <value xml:space="preserve">Bekijk profiel</value>
+  <data name="ControlTitle_viewprofile.Text" xml:space="preserve">
+    <value>Bekijk profiel</value>
   </data>
-  <data name="NoProperties.Text" lastModified="2015-12-30 09:26:18">
-    <value xml:space="preserve">Deze gebruiker heeft ervoor gekozen zijn profiel te verbergen.</value>
+  <data name="NoProperties.Text" xml:space="preserve">
+    <value>Deze gebruiker heeft ervoor gekozen zijn profiel te verbergen.</value>
   </data>
 </root>

@@ -12,40 +12,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cmdExport.Text">
-    <value xml:space="preserve">Exporteren</value>
+  <data name="cmdExport.Text" xml:space="preserve">
+    <value>Exporteren</value>
   </data>
-  <data name="ControlTitle_exportmodule.Text">
-    <value xml:space="preserve">Module exporteren</value>
+  <data name="ControlTitle_exportmodule.Text" xml:space="preserve">
+    <value>Module exporteren</value>
   </data>
-  <data name="Error.Text">
-    <value xml:space="preserve">Er is een fout opgetreden tijdens het exporteren</value>
+  <data name="Error.Text" xml:space="preserve">
+    <value>Er is een fout opgetreden tijdens het exporteren</value>
   </data>
-  <data name="ExportNotSupported.Text">
-    <value xml:space="preserve">De geselecteerde module biedt geen ondersteuning voor het exporteren van inhoud</value>
+  <data name="ExportNotSupported.Text" xml:space="preserve">
+    <value>De geselecteerde module biedt geen ondersteuning voor het exporteren van inhoud</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">Beheerders kunnen de inhoud van deze module exporteren.</value>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>Beheerders kunnen de inhoud van deze module exporteren.</value>
   </data>
-  <data name="NoContent.Text">
-    <value xml:space="preserve">De geselecteerde module heeft geen inhoud.</value>
+  <data name="NoContent.Text" xml:space="preserve">
+    <value>De geselecteerde module heeft geen inhoud.</value>
   </data>
-  <data name="plFile.Help" lastModified="2015-12-30 08:47:21">
-    <value xml:space="preserve">Vul een export bestandsnaam in.</value>
+  <data name="plFile.Help" xml:space="preserve">
+    <value>Vul een export bestandsnaam in.</value>
   </data>
-  <data name="plFile.Text">
-    <value xml:space="preserve">Bestand</value>
+  <data name="plFile.Text" xml:space="preserve">
+    <value>Bestand</value>
   </data>
-  <data name="plFolder.Help" lastModified="2015-12-30 08:47:21">
-    <value xml:space="preserve">Selecteer de export map.</value>
+  <data name="plFolder.Help" xml:space="preserve">
+    <value>Selecteer de export map.</value>
   </data>
-  <data name="plFolder.Text">
-    <value xml:space="preserve">Map</value>
+  <data name="plFolder.Text" xml:space="preserve">
+    <value>Map</value>
   </data>
-  <data name="Root.Text">
-    <value xml:space="preserve">Beginmap</value>
+  <data name="Root.Text" xml:space="preserve">
+    <value>Beginmap</value>
   </data>
-  <data name="Validation.Text">
-    <value xml:space="preserve">Je moet een map en een bestandsnaam specificeren om te kunnen exporteren</value>
+  <data name="Validation.Text" xml:space="preserve">
+    <value>Je moet een map en een bestandsnaam specificeren om te kunnen exporteren</value>
   </data>
 </root>

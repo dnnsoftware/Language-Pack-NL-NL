@@ -12,79 +12,79 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Add.Button" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Toevoegen</value>
+  <data name="Add.Button" xml:space="preserve">
+    <value>Toevoegen</value>
   </data>
-  <data name="AuthenticationDomain.Help" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Meestal niet nodig</value>
+  <data name="AuthenticationDomain.Help" xml:space="preserve">
+    <value>Meestal niet nodig</value>
   </data>
-  <data name="AuthenticationDomain.Label" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Domein voor authenticatie</value>
+  <data name="AuthenticationDomain.Label" xml:space="preserve">
+    <value>Domein voor authenticatie</value>
   </data>
-  <data name="Cancel.Button" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="Cancel.Button" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="ChooseASite.Label" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Kies een site</value>
+  <data name="ChooseASite.Label" xml:space="preserve">
+    <value>Kies een site</value>
   </data>
-  <data name="Delete.Button" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Verwijderen</value>
+  <data name="Delete.Button" xml:space="preserve">
+    <value>Verwijderen</value>
   </data>
-  <data name="DeleteGroup.Confirm" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Wwet u zeker dat u deze sitegroep wilt verwijderen?</value>
+  <data name="DeleteGroup.Confirm" xml:space="preserve">
+    <value>Wwet u zeker dat u deze sitegroep wilt verwijderen?</value>
   </data>
-  <data name="Description.Help" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Omschrijf de site</value>
+  <data name="Description.Help" xml:space="preserve">
+    <value>Omschrijf de site</value>
   </data>
-  <data name="Description.Label" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Omschrijving</value>
+  <data name="Description.Label" xml:space="preserve">
+    <value>Omschrijving</value>
   </data>
-  <data name="Edit.Button" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">WIjzigen</value>
+  <data name="Edit.Button" xml:space="preserve">
+    <value>WIjzigen</value>
   </data>
-  <data name="EditModule_Assigned.Label" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Toegekend</value>
+  <data name="EditModule_Assigned.Label" xml:space="preserve">
+    <value>Toegekend</value>
   </data>
-  <data name="EditModule_Unassigned.Label" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Niet toegekend</value>
+  <data name="EditModule_Unassigned.Label" xml:space="preserve">
+    <value>Niet toegekend</value>
   </data>
-  <data name="GroupName.Header" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Groepnaam</value>
+  <data name="GroupName.Header" xml:space="preserve">
+    <value>Groepnaam</value>
   </data>
-  <data name="GroupName.Help" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Deze naam help om de groep te identificeren</value>
+  <data name="GroupName.Help" xml:space="preserve">
+    <value>Deze naam help om de groep te identificeren</value>
   </data>
-  <data name="GroupName.Label" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Geoepnaam:</value>
+  <data name="GroupName.Label" xml:space="preserve">
+    <value>Geoepnaam:</value>
   </data>
-  <data name="GroupName.Required" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Een naam van de groep is vereist</value>
+  <data name="GroupName.Required" xml:space="preserve">
+    <value>Een naam van de groep is vereist</value>
   </data>
-  <data name="MasterSite.Header" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Hoofdsite</value>
+  <data name="MasterSite.Header" xml:space="preserve">
+    <value>Hoofdsite</value>
   </data>
-  <data name="MasterSite.Help" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Hoofdsite</value>
+  <data name="MasterSite.Help" xml:space="preserve">
+    <value>Hoofdsite</value>
   </data>
-  <data name="MasterSite.Label" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Hoofdsite:</value>
+  <data name="MasterSite.Label" xml:space="preserve">
+    <value>Hoofdsite:</value>
   </data>
-  <data name="nav_SiteGroups.Text" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Sitegroep</value>
+  <data name="nav_SiteGroups.Text" xml:space="preserve">
+    <value>Sitegroep</value>
   </data>
-  <data name="NewSiteGroup.Button" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Nieuwe sitegroep</value>
+  <data name="NewSiteGroup.Button" xml:space="preserve">
+    <value>Nieuwe sitegroep</value>
   </data>
-  <data name="NoData.Text" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Er zijn nog geen sitegroepen gedefinieerd</value>
+  <data name="NoData.Text" xml:space="preserve">
+    <value>Er zijn nog geen sitegroepen gedefinieerd</value>
   </data>
-  <data name="Save.Button" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Opslaan</value>
+  <data name="Save.Button" xml:space="preserve">
+    <value>Opslaan</value>
   </data>
-  <data name="SiteGroup.Label" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Sitegroep:</value>
+  <data name="SiteGroup.Label" xml:space="preserve">
+    <value>Sitegroep:</value>
   </data>
-  <data name="Sites.Label" lastModified="2020-05-08 16:36:35">
-    <value xml:space="preserve">Sites:</value>
+  <data name="Sites.Label" xml:space="preserve">
+    <value>Sites:</value>
   </data>
 </root>

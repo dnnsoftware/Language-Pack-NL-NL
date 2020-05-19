@@ -12,31 +12,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CancelButton.Text" lastModified="2016-11-30 09:46:39">
-    <value xml:space="preserve">Nee</value>
+  <data name="CancelButton.Text" xml:space="preserve">
+    <value>Nee</value>
   </data>
-  <data name="ConfirmRestore.Text" lastModified="2020-05-16 20:37:36">
-    <value xml:space="preserve">Weet je zeker dat je de standaard stylesheet wilt herstellen? Alle wijzigingen aan de huidige stylesheet zullen verloren gaan.</value>
+  <data name="ConfirmRestore.Text" xml:space="preserve">
+    <value>Weet je zeker dat je de standaard stylesheet wilt herstellen? Alle wijzigingen aan de huidige stylesheet zullen verloren gaan.</value>
   </data>
-  <data name="nav_CssEditor.Text" lastModified="2016-11-30 09:46:39">
-    <value xml:space="preserve">Aangepaste CSS</value>
+  <data name="nav_CssEditor.Text" xml:space="preserve">
+    <value>Aangepaste CSS</value>
   </data>
-  <data name="RestoreButton.Text" lastModified="2016-11-30 09:46:39">
-    <value xml:space="preserve">Ja</value>
+  <data name="RestoreButton.Text" xml:space="preserve">
+    <value>Ja</value>
   </data>
-  <data name="RestoreDefault.Text" lastModified="2016-11-30 09:46:39">
-    <value xml:space="preserve">Standaard herstellen</value>
+  <data name="RestoreDefault.Text" xml:space="preserve">
+    <value>Standaard herstellen</value>
   </data>
-  <data name="SaveStyleSheet.Text" lastModified="2016-11-30 09:46:39">
-    <value xml:space="preserve">Opslaan stylesheet</value>
+  <data name="SaveStyleSheet.Text" xml:space="preserve">
+    <value>Opslaan stylesheet</value>
   </data>
-  <data name="StylesheetEditor.Text" lastModified="2016-11-30 09:46:39">
-    <value xml:space="preserve">Aangepaste CSS</value>
+  <data name="StylesheetEditor.Text" xml:space="preserve">
+    <value>Aangepaste CSS</value>
   </data>
-  <data name="StyleSheetRestored.Text" lastModified="2016-11-30 09:46:39">
-    <value xml:space="preserve">Stylesheet succesvol hersteld.</value>
+  <data name="StyleSheetRestored.Text" xml:space="preserve">
+    <value>Stylesheet succesvol hersteld.</value>
   </data>
-  <data name="StyleSheetSaved.Text" lastModified="2016-11-30 09:46:39">
-    <value xml:space="preserve">Stylesheet succesvol opgeslagen.</value>
+  <data name="StyleSheetSaved.Text" xml:space="preserve">
+    <value>Stylesheet succesvol opgeslagen.</value>
   </data>
 </root>

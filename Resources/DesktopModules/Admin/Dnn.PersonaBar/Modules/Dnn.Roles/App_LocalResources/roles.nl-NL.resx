@@ -12,186 +12,186 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ActionCancelled.Message" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Geannuleerd</value>
+  <data name="ActionCancelled.Message" xml:space="preserve">
+    <value>Geannuleerd</value>
   </data>
-  <data name="Add.Text" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Toevoegen</value>
+  <data name="Add.Text" xml:space="preserve">
+    <value>Toevoegen</value>
   </data>
-  <data name="AddUserPlaceHolder.Text" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Begin te typen om een gebruiker toe te voegen aan deze rol</value>
+  <data name="AddUserPlaceHolder.Text" xml:space="preserve">
+    <value>Begin te typen om een gebruiker toe te voegen aan deze rol</value>
   </data>
-  <data name="AllGroups.Text" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">[Alle groepen]</value>
+  <data name="AllGroups.Text" xml:space="preserve">
+    <value>[Alle groepen]</value>
   </data>
-  <data name="Approved.Text" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Goedgekeurd</value>
+  <data name="Approved.Text" xml:space="preserve">
+    <value>Goedgekeurd</value>
   </data>
-  <data name="AssignToExistUsers.Help" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Wijs deze rol toe aan alle bestaande gebruikers.</value>
+  <data name="AssignToExistUsers.Help" xml:space="preserve">
+    <value>Wijs deze rol toe aan alle bestaande gebruikers.</value>
   </data>
-  <data name="AssignToExistUsers.Text" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Toewijzen aan bestaande gebruikers</value>
+  <data name="AssignToExistUsers.Text" xml:space="preserve">
+    <value>Toewijzen aan bestaande gebruikers</value>
   </data>
-  <data name="Auto.Header" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Auto</value>
+  <data name="Auto.Header" xml:space="preserve">
+    <value>Auto</value>
   </data>
-  <data name="AutoAssignment.Help" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Vink dit vakje aan als gebruikers automatisch aan deze rol moeten worden toegewezen.</value>
+  <data name="AutoAssignment.Help" xml:space="preserve">
+    <value>Vink dit vakje aan als gebruikers automatisch aan deze rol moeten worden toegewezen.</value>
   </data>
-  <data name="AutoAssignment.Text" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Automatische toewijzing</value>
+  <data name="AutoAssignment.Text" xml:space="preserve">
+    <value>Automatische toewijzing</value>
   </data>
-  <data name="Both.Text" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Beiden</value>
+  <data name="Both.Text" xml:space="preserve">
+    <value>Beiden</value>
   </data>
-  <data name="Cancel.Text" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="CannotAssginUserToUnApprovedRole.Text" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Kan niet gebruiker toewijzen aan niet goedgekeurde rol.</value>
+  <data name="CannotAssginUserToUnApprovedRole.Text" xml:space="preserve">
+    <value>Kan niet gebruiker toewijzen aan niet goedgekeurde rol.</value>
   </data>
-  <data name="Create.Text" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Maak nieuwe rol</value>
+  <data name="Create.Text" xml:space="preserve">
+    <value>Maak nieuwe rol</value>
   </data>
-  <data name="Delete.Text" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Verwijderen</value>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Verwijderen</value>
   </data>
-  <data name="DeleteInconsistency.Error" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Tegenstrijdigheid ontstaan. Ververs de pagina en probeer opnieuw.</value>
+  <data name="DeleteInconsistency.Error" xml:space="preserve">
+    <value>Tegenstrijdigheid ontstaan. Ververs de pagina en probeer opnieuw.</value>
   </data>
-  <data name="DeleteRole.Confirm" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Weet u zeker dat u deze rol wilt verwijderen?</value>
+  <data name="DeleteRole.Confirm" xml:space="preserve">
+    <value>Weet u zeker dat u deze rol wilt verwijderen?</value>
   </data>
-  <data name="DeleteRole.Error" lastModified="2016-12-01 05:28:45">
-    <value xml:space="preserve">Mislukt om de rol te verwijderen. Probeer later nog eens.</value>
+  <data name="DeleteRole.Error" xml:space="preserve">
+    <value>Mislukt om de rol te verwijderen. Probeer later nog eens.</value>
   </data>
-  <data name="DeleteRole.Message" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Rol succesvol verwijderd.</value>
+  <data name="DeleteRole.Message" xml:space="preserve">
+    <value>Rol succesvol verwijderd.</value>
   </data>
-  <data name="DeleteRoleGroup.Confirm" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Weet u zeker dat u deze rol groep wilt verwijderen?</value>
+  <data name="DeleteRoleGroup.Confirm" xml:space="preserve">
+    <value>Weet u zeker dat u deze rol groep wilt verwijderen?</value>
   </data>
-  <data name="DeleteRoleGroup.Error" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Mislukt om rol groep te verwijderen. Probeer later nog eens.</value>
+  <data name="DeleteRoleGroup.Error" xml:space="preserve">
+    <value>Mislukt om rol groep te verwijderen. Probeer later nog eens.</value>
   </data>
-  <data name="DeleteRoleGroup.Message" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Rol groep succesvol verwijderd.</value>
+  <data name="DeleteRoleGroup.Message" xml:space="preserve">
+    <value>Rol groep succesvol verwijderd.</value>
   </data>
-  <data name="DeleteUser.Confirm" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Weet u zeker dat u deze gebruiker uit de rol wilt verwijderen?</value>
+  <data name="DeleteUser.Confirm" xml:space="preserve">
+    <value>Weet u zeker dat u deze gebruiker uit de rol wilt verwijderen?</value>
   </data>
-  <data name="Description.Help" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Vul een beschrijving in voor de rol.</value>
+  <data name="Description.Help" xml:space="preserve">
+    <value>Vul een beschrijving in voor de rol.</value>
   </data>
-  <data name="Description.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Beschrijving</value>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Beschrijving</value>
   </data>
-  <data name="Disabled.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Uitgeschakeld</value>
+  <data name="Disabled.Text" xml:space="preserve">
+    <value>Uitgeschakeld</value>
   </data>
-  <data name="DuplicateRole.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">De rolnaam bestaat al.</value>
+  <data name="DuplicateRole.Text" xml:space="preserve">
+    <value>De rolnaam bestaat al.</value>
   </data>
-  <data name="DuplicateRoleGroup.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">De groepsnaam bestaat al.</value>
+  <data name="DuplicateRoleGroup.Text" xml:space="preserve">
+    <value>De groepsnaam bestaat al.</value>
   </data>
-  <data name="EditRole.Text">
-    <value xml:space="preserve">Rol bewerken</value>
+  <data name="EditRole.Text" xml:space="preserve">
+    <value>Rol bewerken</value>
   </data>
-  <data name="Expires.Header" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Vervalt</value>
+  <data name="Expires.Header" xml:space="preserve">
+    <value>Vervalt</value>
   </data>
-  <data name="GlobalRolesGroup.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">[Globale Rolen]</value>
+  <data name="GlobalRolesGroup.Text" xml:space="preserve">
+    <value>[Globale Rolen]</value>
   </data>
-  <data name="GroupDescription.Help" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Vul een beschrijving in voor de rol groep.</value>
+  <data name="GroupDescription.Help" xml:space="preserve">
+    <value>Vul een beschrijving in voor de rol groep.</value>
   </data>
-  <data name="GroupDescription.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Beschrijving</value>
+  <data name="GroupDescription.Text" xml:space="preserve">
+    <value>Beschrijving</value>
   </data>
-  <data name="GroupName.Header" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Groep</value>
+  <data name="GroupName.Header" xml:space="preserve">
+    <value>Groep</value>
   </data>
-  <data name="GroupName.Help" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Vul een naam in voor de rol groep</value>
+  <data name="GroupName.Help" xml:space="preserve">
+    <value>Vul een naam in voor de rol groep</value>
   </data>
-  <data name="GroupName.Required" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Dit is een vereist veld.</value>
+  <data name="GroupName.Required" xml:space="preserve">
+    <value>Dit is een vereist veld.</value>
   </data>
-  <data name="GroupName.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Groepsnaam</value>
+  <data name="GroupName.Text" xml:space="preserve">
+    <value>Groepsnaam</value>
   </data>
-  <data name="InSufficientPermissions.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">U heeft niet genoeg toestemmingen om deze actie uit te voeren.</value>
+  <data name="InSufficientPermissions.Text" xml:space="preserve">
+    <value>U heeft niet genoeg toestemmingen om deze actie uit te voeren.</value>
   </data>
-  <data name="InvalidRequest.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Ongeldig verzoek</value>
+  <data name="InvalidRequest.Text" xml:space="preserve">
+    <value>Ongeldig verzoek</value>
   </data>
-  <data name="isOwner.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Is eigenaar</value>
+  <data name="isOwner.Text" xml:space="preserve">
+    <value>Is eigenaar</value>
   </data>
-  <data name="lblNewGroup.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">[Nieuwe groep]</value>
+  <data name="lblNewGroup.Text" xml:space="preserve">
+    <value>[Nieuwe groep]</value>
   </data>
-  <data name="LoadMore.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Laad meer</value>
+  <data name="LoadMore.Text" xml:space="preserve">
+    <value>Laad meer</value>
   </data>
-  <data name="Members.Header" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Leden</value>
+  <data name="Members.Header" xml:space="preserve">
+    <value>Leden</value>
   </data>
-  <data name="nav_Roles.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Rollen</value>
+  <data name="nav_Roles.Text" xml:space="preserve">
+    <value>Rollen</value>
   </data>
-  <data name="NewGroup.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Nieuwe Groep</value>
+  <data name="NewGroup.Text" xml:space="preserve">
+    <value>Nieuwe Groep</value>
   </data>
-  <data name="NoData.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Er zijn geen rollen binnen deze rol groep</value>
+  <data name="NoData.Text" xml:space="preserve">
+    <value>Er zijn geen rollen binnen deze rol groep</value>
   </data>
-  <data name="NoUsers.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Er zijn geen gebruikers binnen deze rol.</value>
+  <data name="NoUsers.Text" xml:space="preserve">
+    <value>Er zijn geen gebruikers binnen deze rol.</value>
   </data>
-  <data name="PageInfo.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Pagina {0} van {1}</value>
+  <data name="PageInfo.Text" xml:space="preserve">
+    <value>Pagina {0} van {1}</value>
   </data>
-  <data name="PageSummary.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Tonend {0}-{1} van {2}</value>
+  <data name="PageSummary.Text" xml:space="preserve">
+    <value>Tonend {0}-{1} van {2}</value>
   </data>
-  <data name="Pending.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">In afwachting van</value>
+  <data name="Pending.Text" xml:space="preserve">
+    <value>In afwachting van</value>
   </data>
-  <data name="PermissionsByRole.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Toestemmingen per rol</value>
+  <data name="PermissionsByRole.Text" xml:space="preserve">
+    <value>Toestemmingen per rol</value>
   </data>
-  <data name="plRoleGroups.Help" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Selecteer de rolgroep waar deze rol toe behoort.</value>
+  <data name="plRoleGroups.Help" xml:space="preserve">
+    <value>Selecteer de rolgroep waar deze rol toe behoort.</value>
   </data>
-  <data name="plRoleGroups.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Rolgroep</value>
+  <data name="plRoleGroups.Text" xml:space="preserve">
+    <value>Rolgroep</value>
   </data>
-  <data name="plRSVPCode.Help" lastModified="2018-07-24 09:47:52">
-    <value xml:space="preserve">Voer een RSVP-code in voor de rol. Gebruikers kunnen zich eenvoudig abonneren op deze rol door deze code in te voeren op de pagina Services beheren van hun gebruikersaccount.</value>
+  <data name="plRSVPCode.Help" xml:space="preserve">
+    <value>Voer een RSVP-code in voor de rol. Gebruikers kunnen zich eenvoudig abonneren op deze rol door deze code in te voeren op de pagina Services beheren van hun gebruikersaccount.</value>
   </data>
-  <data name="plRSVPCode.Text" lastModified="2018-07-24 09:47:52">
-    <value xml:space="preserve">RSVP-code</value>
+  <data name="plRSVPCode.Text" xml:space="preserve">
+    <value>RSVP-code</value>
   </data>
-  <data name="plRSVPLink.Help" lastModified="2018-07-24 09:47:52">
-    <value xml:space="preserve">Een link waarmee gebruikers zich kunnen abonneren op deze rol wordt weergegeven wanneer een RSVP-code voor deze rol wordt opgeslagen.</value>
+  <data name="plRSVPLink.Help" xml:space="preserve">
+    <value>Een link waarmee gebruikers zich kunnen abonneren op deze rol wordt weergegeven wanneer een RSVP-code voor deze rol wordt opgeslagen.</value>
   </data>
-  <data name="plRSVPLink.Text" lastModified="2018-07-24 09:47:52">
-    <value xml:space="preserve">RSVP-link</value>
+  <data name="plRSVPLink.Text" xml:space="preserve">
+    <value>RSVP-link</value>
   </data>
-  <data name="Prompt_DeleteRole_Description.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Verwijdert de gegeven DNN-beveiligingsrol permanent. U kunt de ingebouwde DNN-beveiligingsrollen van Administrator, RegisteredUser, 
+  <data name="Prompt_DeleteRole_Description.Text" xml:space="preserve">
+    <value>Verwijdert de gegeven DNN-beveiligingsrol permanent. U kunt de ingebouwde DNN-beveiligingsrollen van Administrator, RegisteredUser, 
      Subscriber of UnverifiedUser niet verwijderen. &lt;small&gt; &lt;strong class="text-danger"&gt; WAARSCHUWING: dit is een permanente actie die niet ongedaan gemaakt kan worden &lt;/strong&gt;&lt;/small&gt;</value>
   </data>
-  <data name="Prompt_DeleteRole_FlagId.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Het ID van de beveiligingsrol die moet worden verwijderd. Deze waarde is vereist. Als u het ID echter doorgeeft als het eerste argument na de opdracht, hoeft u niet expliciet de markering &lt;span class="mono"&gt;-id&lt;/span&gt; te gebruiken.</value>
+  <data name="Prompt_DeleteRole_FlagId.Text" xml:space="preserve">
+    <value>Het ID van de beveiligingsrol die moet worden verwijderd. Deze waarde is vereist. Als u het ID echter doorgeeft als het eerste argument na de opdracht, hoeft u niet expliciet de markering &lt;span class="mono"&gt;-id&lt;/span&gt; te gebruiken.</value>
   </data>
-  <data name="Prompt_DeleteRole_ResultHtml.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">&lt;h4&gt;Verwijder een DNN Beveiligingsrol permanent&lt;/h4&gt;
+  <data name="Prompt_DeleteRole_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Verwijder een DNN Beveiligingsrol permanent&lt;/h4&gt;
   &lt;code class="block"&gt;
     delete-role 11
   &lt;/code&gt;
@@ -203,17 +203,17 @@
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_FlagEmpty.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">--{0} mag niet leeg zijn.</value>
+  <data name="Prompt_FlagEmpty.Text" xml:space="preserve">
+    <value>--{0} mag niet leeg zijn.</value>
   </data>
-  <data name="Prompt_GetRole_Description.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Haalt de details van de een gegeven DNN Beveiligingsrol op.</value>
+  <data name="Prompt_GetRole_Description.Text" xml:space="preserve">
+    <value>Haalt de details van de een gegeven DNN Beveiligingsrol op.</value>
   </data>
-  <data name="Prompt_GetRole_FlagId.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Het ID van de beveiligingsrol. Deze waarde is vereist. Als u het ID echter doorgeeft als het eerste argument na de opdracht, hoeft u niet expliciet de markering &lt;span class ="mono"&gt; - id &lt;/ span&gt; te gebruiken.</value>
+  <data name="Prompt_GetRole_FlagId.Text" xml:space="preserve">
+    <value>Het ID van de beveiligingsrol. Deze waarde is vereist. Als u het ID echter doorgeeft als het eerste argument na de opdracht, hoeft u niet expliciet de markering &lt;span class ="mono"&gt; - id &lt;/ span&gt; te gebruiken.</value>
   </data>
-  <data name="Prompt_GetRole_ResultHtml.Text" lastModified="2018-07-24 14:50:58">
-    <value xml:space="preserve">&lt;h4&gt;Verkrijg een DNN Beveiligingsrol&lt;/h4&gt;
+  <data name="Prompt_GetRole_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Verkrijg een DNN Beveiligingsrol&lt;/h4&gt;
   &lt;code class="block"&gt;
     get-role 11
   &lt;/code&gt;
@@ -276,17 +276,20 @@
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_ListRoles_Description.Text" lastModified="2018-07-24 14:50:58">
-    <value xml:space="preserve">Hiermee wordt een lijst met DNN-beveiligingsrollen voor de site opgehaald.</value>
+  <data name="Prompt_InvalidRoleStatus.Text" xml:space="preserve">
+    <value>Invalid value passed for --{0}. Expecting 'pending', 'approved', or 'disabled'</value>
   </data>
-  <data name="Prompt_ListRoles_FlagMax.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Paginaformaat voor de pagina. Maximum is 500.</value>
+  <data name="Prompt_ListRoles_Description.Text" xml:space="preserve">
+    <value>Hiermee wordt een lijst met DNN-beveiligingsrollen voor de site opgehaald.</value>
   </data>
-  <data name="Prompt_ListRoles_FlagPage.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Paginanummer om records te tonen.</value>
+  <data name="Prompt_ListRoles_FlagMax.Text" xml:space="preserve">
+    <value>Paginaformaat voor de pagina. Maximum is 500.</value>
   </data>
-  <data name="Prompt_ListRoles_ResultHtml.Text" lastModified="2018-07-24 14:50:58">
-    <value xml:space="preserve">&lt;div&gt;
+  <data name="Prompt_ListRoles_FlagPage.Text" xml:space="preserve">
+    <value>Paginanummer om records te tonen.</value>
+  </data>
+  <data name="Prompt_ListRoles_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;div&gt;
         &lt;h4&gt;Verkrijg informatie van de huidige site&lt;/h4&gt;
         &lt;code class="block"&gt;
             list-roles
@@ -370,26 +373,29 @@
         &lt;/table&gt;
     &lt;/div&gt;</value>
   </data>
-  <data name="Prompt_NewRole_Description.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Maakt een nieuwe DNN-beveiligingsrol voor de site aan.</value>
+  <data name="Prompt_ListRolesFailed.Text" xml:space="preserve">
+    <value>Tonen van alle rollen niet gelukt</value>
   </data>
-  <data name="Prompt_NewRole_FlagAutoAssign.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Als dit waar is, wordt deze rol automatisch toegewezen aan gebruikers van de site, inclusief bestaande gebruikers.</value>
+  <data name="Prompt_NewRole_Description.Text" xml:space="preserve">
+    <value>Maakt een nieuwe DNN-beveiligingsrol voor de site aan.</value>
   </data>
-  <data name="Prompt_NewRole_FlagDescription.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Een beschrijving van de rol.</value>
+  <data name="Prompt_NewRole_FlagAutoAssign.Text" xml:space="preserve">
+    <value>Als dit waar is, wordt deze rol automatisch toegewezen aan gebruikers van de site, inclusief bestaande gebruikers.</value>
   </data>
-  <data name="Prompt_NewRole_FlagIsPublic.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Wanneer dit waar is, kunnen gebruikers de rol zien en zichzelf toewijzen aan de rol.</value>
+  <data name="Prompt_NewRole_FlagDescription.Text" xml:space="preserve">
+    <value>Een beschrijving van de rol.</value>
   </data>
-  <data name="Prompt_NewRole_FlagRoleName.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">De naam van de beveiligingsrol. Deze waarde is vereist. Als u de naam echter doorgeeft als het eerste argument na de opdracht, hoeft u niet expliciet de markering &lt;span class="mono"&gt;-name&lt;/span&gt; te gebruiken.</value>
+  <data name="Prompt_NewRole_FlagIsPublic.Text" xml:space="preserve">
+    <value>Wanneer dit waar is, kunnen gebruikers de rol zien en zichzelf toewijzen aan de rol.</value>
   </data>
-  <data name="Prompt_NewRole_FlagStatus.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Status van de rol. Mogelijke waarden zijn "goedgekeurd", "in behandeling" en "uitgeschakeld".</value>
+  <data name="Prompt_NewRole_FlagRoleName.Text" xml:space="preserve">
+    <value>De naam van de beveiligingsrol. Deze waarde is vereist. Als u de naam echter doorgeeft als het eerste argument na de opdracht, hoeft u niet expliciet de markering &lt;span class="mono"&gt;-name&lt;/span&gt; te gebruiken.</value>
   </data>
-  <data name="Prompt_NewRole_ResultHtml.Text" lastModified="2018-07-24 14:50:58">
-    <value xml:space="preserve">&lt;h4&gt;Maak een nieuwe DNN Beveiligingsrol aan (Minimum syntax)&lt;/h4&gt;
+  <data name="Prompt_NewRole_FlagStatus.Text" xml:space="preserve">
+    <value>Status van de rol. Mogelijke waarden zijn "goedgekeurd", "in behandeling" en "uitgeschakeld".</value>
+  </data>
+  <data name="Prompt_NewRole_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Maak een nieuwe DNN Beveiligingsrol aan (Minimum syntax)&lt;/h4&gt;
   &lt;code class="block"&gt;
     new-role Rol1
   &lt;/code&gt;
@@ -484,53 +490,56 @@
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_NoRoles.Text" lastModified="2018-07-24 14:50:58">
-    <value xml:space="preserve">Geen rollen gevonden.</value>
+  <data name="Prompt_NoRoles.Text" xml:space="preserve">
+    <value>Geen rollen gevonden.</value>
   </data>
-  <data name="Prompt_NoRoleWithId.Text" lastModified="2018-07-24 14:50:58">
-    <value xml:space="preserve">Geen rol gevonden met ID {0}</value>
+  <data name="Prompt_NoRoleWithId.Text" xml:space="preserve">
+    <value>Geen rol gevonden met ID {0}</value>
   </data>
-  <data name="Prompt_NothingToUpdate.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Niets om te updaten!</value>
+  <data name="Prompt_NothingToUpdate.Text" xml:space="preserve">
+    <value>Niets om te updaten!</value>
   </data>
-  <data name="Prompt_RoleIdIsRequired.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">U moet een geldig rol-ID opgeven als het eerste argument of met de markering --id.</value>
+  <data name="Prompt_RoleFound.Text" xml:space="preserve">
+    <value>Role '{0}' has been found.</value>
   </data>
-  <data name="Prompt_RoleIdNegative.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">De Rol-Id-waarde moet groter zijn dan of gelijk zijn aan nul (0)</value>
+  <data name="Prompt_RoleIdIsRequired.Text" xml:space="preserve">
+    <value>U moet een geldig rol-ID opgeven als het eerste argument of met de markering --id.</value>
   </data>
-  <data name="Prompt_RoleIdNotInt.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Het Rol-Id moet een integer zijn.</value>
+  <data name="Prompt_RoleIdNegative.Text" xml:space="preserve">
+    <value>De Rol-Id-waarde moet groter zijn dan of gelijk zijn aan nul (0)</value>
   </data>
-  <data name="Prompt_RoleNameRequired.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">U moet een naam opgeven voor de rol als het eerste argument of met de markering - {0}. Namen met spaties en speciale tekens moeten tussen dubbele aanhalingstekens staan.</value>
+  <data name="Prompt_RoleIdNotInt.Text" xml:space="preserve">
+    <value>Het Rol-Id moet een integer zijn.</value>
   </data>
-  <data name="Prompt_RolesCategory.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Rolopdrachten</value>
+  <data name="Prompt_RoleNameRequired.Text" xml:space="preserve">
+    <value>U moet een naam opgeven voor de rol als het eerste argument of met de markering - {0}. Namen met spaties en speciale tekens moeten tussen dubbele aanhalingstekens staan.</value>
   </data>
-  <data name="Prompt_SetRole_Description.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Stelt eigenschappen van een DNN-beveiligingsrol in of werkt deze bij. Alleen eigenschappen die u opgeeft, worden bijgewerkt voor de rol.</value>
+  <data name="Prompt_RolesCategory.Text" xml:space="preserve">
+    <value>Rolopdrachten</value>
   </data>
-  <data name="Prompt_SetRole_FlagAutoAssign.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Als dit waar is, wordt deze rol automatisch toegewezen aan gebruikers van de site, inclusief bestaande gebruikers.</value>
+  <data name="Prompt_SetRole_Description.Text" xml:space="preserve">
+    <value>Stelt eigenschappen van een DNN-beveiligingsrol in of werkt deze bij. Alleen eigenschappen die u opgeeft, worden bijgewerkt voor de rol.</value>
   </data>
-  <data name="Prompt_SetRole_FlagDescription.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Een beschrijving van de rol.</value>
+  <data name="Prompt_SetRole_FlagAutoAssign.Text" xml:space="preserve">
+    <value>Als dit waar is, wordt deze rol automatisch toegewezen aan gebruikers van de site, inclusief bestaande gebruikers.</value>
   </data>
-  <data name="Prompt_SetRole_FlagId.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Het ID van de beveiligingsrol. Deze waarde is vereist. Als u het ID echter doorgeeft als het eerste argument na de opdracht, hoeft u niet expliciet de markering &lt;span class ="mono"&gt;--id&lt;/ span&gt; te gebruiken.</value>
+  <data name="Prompt_SetRole_FlagDescription.Text" xml:space="preserve">
+    <value>Een beschrijving van de rol.</value>
   </data>
-  <data name="Prompt_SetRole_FlagIsPublic.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Wanneer dit waar is, kunnen gebruikers de rol zien en zichzelf toewijzen aan de rol.</value>
+  <data name="Prompt_SetRole_FlagId.Text" xml:space="preserve">
+    <value>Het ID van de beveiligingsrol. Deze waarde is vereist. Als u het ID echter doorgeeft als het eerste argument na de opdracht, hoeft u niet expliciet de markering &lt;span class ="mono"&gt;--id&lt;/ span&gt; te gebruiken.</value>
   </data>
-  <data name="Prompt_SetRole_FlagRoleName.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">De naam van de beveiligingsrol.</value>
+  <data name="Prompt_SetRole_FlagIsPublic.Text" xml:space="preserve">
+    <value>Wanneer dit waar is, kunnen gebruikers de rol zien en zichzelf toewijzen aan de rol.</value>
   </data>
-  <data name="Prompt_SetRole_FlagStatus.Text" lastModified="2018-07-24 12:40:22">
-    <value xml:space="preserve">Status van de rol. Mogelijke waarden zijn "goedgekeurd", "in behandeling" en "uitgeschakeld".</value>
+  <data name="Prompt_SetRole_FlagRoleName.Text" xml:space="preserve">
+    <value>De naam van de beveiligingsrol.</value>
   </data>
-  <data name="Prompt_SetRole_ResultHtml.Text" lastModified="2018-07-24 14:50:58">
-    <value xml:space="preserve">&lt;h4&gt;Update een DNN Beveiligingsrol&lt;/h4&gt;
+  <data name="Prompt_SetRole_FlagStatus.Text" xml:space="preserve">
+    <value>Status van de rol. Mogelijke waarden zijn "goedgekeurd", "in behandeling" en "uitgeschakeld".</value>
+  </data>
+  <data name="Prompt_SetRole_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Update een DNN Beveiligingsrol&lt;/h4&gt;
   &lt;code class="block"&gt;
     set-role 10 --name Public
   &lt;/code&gt;
@@ -578,110 +587,97 @@
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
-  <data name="Public.Text" lastModified="2016-12-01 07:13:42">
-    <value xml:space="preserve">Publiek</value>
-  </data>
-  <data name="PublicRole.Help" lastModified="2016-12-01 08:15:25">
-    <value xml:space="preserve">Vink dit vakje aan als gebruikers zich kunnen inschrijven voor deze rol via de Beheer Services pagina van hun gebruikersaccount.</value>
-  </data>
-  <data name="RoleAdded.Error" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Mislukt om de rol te maken. Probeer later nog eens </value>
-  </data>
-  <data name="RoleAdded.Message" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Rol succesvol gemaakt.</value>
-  </data>
-  <data name="RoleGroupUpdated.Error" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Mislukt om rol groep te updaten. Probeer later nog eens.</value>
-  </data>
-  <data name="RoleGroupUpdated.Message" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Rol groep succesvol ge-update.</value>
-  </data>
-  <data name="RoleName.Header" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Rolnaam</value>
-  </data>
-  <data name="RoleName.Help" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Vul de naam in van de rol.</value>
-  </data>
-  <data name="RoleName.Required" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Dit is een vereist veld.</value>
-  </data>
-  <data name="RoleName.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Rolnaam</value>
-  </data>
-  <data name="RoleUpdated.Error" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Mislukt om rol te updaten. Probeer later nog eens.</value>
-  </data>
-  <data name="RoleUpdated.Message" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Rol succesvol ge-update</value>
-  </data>
-  <data name="RoleUpdated.SystemRoleError" lastModified="2018-07-24 09:47:52">
-    <value xml:space="preserve">Kan systeemrollen niet bewerken.</value>
-  </data>
-  <data name="Save.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Opslaan</value>
-  </data>
-  <data name="Search.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Zoeken</value>
-  </data>
-  <data name="SearchPlaceHolder.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Zoek rollen op trefwoord</value>
-  </data>
-  <data name="securityModeListLabel.Help" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Kies de beveiligingsmodus voor deze rol/groep.</value>
-  </data>
-  <data name="securityModeListLabel.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Beveiligingsmodus</value>
-  </data>
-  <data name="SecurityRole.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Beveiligingsrol</value>
-  </data>
-  <data name="SecurityRoleDeleteNotAllowed.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Systeem rollen kunnen niet worden verwijderd.</value>
-  </data>
-  <data name="SendEmail.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Verzend e-mail</value>
-  </data>
-  <data name="SocialGroup.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Sociale Groep</value>
-  </data>
-  <data name="Start.Header" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Start</value>
-  </data>
-  <data name="statusListLabel.Help" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Selecteer de status voor deze rol/groep.</value>
-  </data>
-  <data name="statusListLabel.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Status</value>
-  </data>
-  <data name="UpdateGroup.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Bijwerken groep</value>
-  </data>
-  <data name="UserNotFound.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Gebruiker niet gevonden.</value>
-  </data>
-  <data name="Users.Header" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Gebruikers</value>
-  </data>
-  <data name="Users.Text" lastModified="2016-12-01 09:19:43">
-    <value xml:space="preserve">Gebruikers.</value>
-  </data>
-  <data name="UsersInRole.Text">
-    <value xml:space="preserve">Gebruikers in rol</value>
-  </data>
-  <data name="Actions.Header">
-    <value>
-    </value>
-  </data>
-  <data name="Prompt_InvalidRoleStatus.Text">
-    <value>Invalid value passed for --{0}. Expecting 'pending', 'approved', or 'disabled'</value>
-  </data>
-  <data name="Prompt_ListRolesFailed.Text">
-    <value>Tonen van alle rollen niet gelukt</value>
-  </data>
-  <data name="Prompt_RoleFound.Text">
-    <value>Role '{0}' has been found.</value>
-  </data>
-  <data name="Prompt_UnableToParseBool.Text">
+  <data name="Prompt_UnableToParseBool.Text" xml:space="preserve">
     <value>Unable to parse the --{0} flag value '{1}'. Value should be True or False</value>
+  </data>
+  <data name="Public.Text" xml:space="preserve">
+    <value>Publiek</value>
+  </data>
+  <data name="PublicRole.Help" xml:space="preserve">
+    <value>Vink dit vakje aan als gebruikers zich kunnen inschrijven voor deze rol via de Beheer Services pagina van hun gebruikersaccount.</value>
+  </data>
+  <data name="RoleAdded.Error" xml:space="preserve">
+    <value>Mislukt om de rol te maken. Probeer later nog eens </value>
+  </data>
+  <data name="RoleAdded.Message" xml:space="preserve">
+    <value>Rol succesvol gemaakt.</value>
+  </data>
+  <data name="RoleGroupUpdated.Error" xml:space="preserve">
+    <value>Mislukt om rol groep te updaten. Probeer later nog eens.</value>
+  </data>
+  <data name="RoleGroupUpdated.Message" xml:space="preserve">
+    <value>Rol groep succesvol ge-update.</value>
+  </data>
+  <data name="RoleName.Header" xml:space="preserve">
+    <value>Rolnaam</value>
+  </data>
+  <data name="RoleName.Help" xml:space="preserve">
+    <value>Vul de naam in van de rol.</value>
+  </data>
+  <data name="RoleName.Required" xml:space="preserve">
+    <value>Dit is een vereist veld.</value>
+  </data>
+  <data name="RoleName.Text" xml:space="preserve">
+    <value>Rolnaam</value>
+  </data>
+  <data name="RoleUpdated.Error" xml:space="preserve">
+    <value>Mislukt om rol te updaten. Probeer later nog eens.</value>
+  </data>
+  <data name="RoleUpdated.Message" xml:space="preserve">
+    <value>Rol succesvol ge-update</value>
+  </data>
+  <data name="RoleUpdated.SystemRoleError" xml:space="preserve">
+    <value>Kan systeemrollen niet bewerken.</value>
+  </data>
+  <data name="Save.Text" xml:space="preserve">
+    <value>Opslaan</value>
+  </data>
+  <data name="Search.Text" xml:space="preserve">
+    <value>Zoeken</value>
+  </data>
+  <data name="SearchPlaceHolder.Text" xml:space="preserve">
+    <value>Zoek rollen op trefwoord</value>
+  </data>
+  <data name="securityModeListLabel.Help" xml:space="preserve">
+    <value>Kies de beveiligingsmodus voor deze rol/groep.</value>
+  </data>
+  <data name="securityModeListLabel.Text" xml:space="preserve">
+    <value>Beveiligingsmodus</value>
+  </data>
+  <data name="SecurityRole.Text" xml:space="preserve">
+    <value>Beveiligingsrol</value>
+  </data>
+  <data name="SecurityRoleDeleteNotAllowed.Text" xml:space="preserve">
+    <value>Systeem rollen kunnen niet worden verwijderd.</value>
+  </data>
+  <data name="SendEmail.Text" xml:space="preserve">
+    <value>Verzend e-mail</value>
+  </data>
+  <data name="SocialGroup.Text" xml:space="preserve">
+    <value>Sociale Groep</value>
+  </data>
+  <data name="Start.Header" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="statusListLabel.Help" xml:space="preserve">
+    <value>Selecteer de status voor deze rol/groep.</value>
+  </data>
+  <data name="statusListLabel.Text" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="UpdateGroup.Text" xml:space="preserve">
+    <value>Bijwerken groep</value>
+  </data>
+  <data name="UserNotFound.Text" xml:space="preserve">
+    <value>Gebruiker niet gevonden.</value>
+  </data>
+  <data name="Users.Header" xml:space="preserve">
+    <value>Gebruikers</value>
+  </data>
+  <data name="Users.Text" xml:space="preserve">
+    <value>Gebruikers.</value>
+  </data>
+  <data name="UsersInRole.Text" xml:space="preserve">
+    <value>Gebruikers in rol</value>
   </data>
 </root>

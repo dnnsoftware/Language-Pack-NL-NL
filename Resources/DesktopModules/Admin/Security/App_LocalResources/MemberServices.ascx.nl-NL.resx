@@ -12,83 +12,83 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cmdRSVP.Text">
-    <value xml:space="preserve">Abonneren</value>
+  <data name="cmdRSVP.Text" xml:space="preserve">
+    <value>Abonneren</value>
   </data>
-  <data name="Description.Header">
-    <value xml:space="preserve">Omschrijving</value>
+  <data name="Description.Header" xml:space="preserve">
+    <value>Omschrijving</value>
   </data>
-  <data name="Every.Header">
-    <value xml:space="preserve">Elke</value>
+  <data name="Every.Header" xml:space="preserve">
+    <value>Elke</value>
   </data>
-  <data name="Expired.Text">
-    <value xml:space="preserve">Verlopen</value>
+  <data name="Expired.Text" xml:space="preserve">
+    <value>Verlopen</value>
   </data>
-  <data name="ExpiryDate.Header">
-    <value xml:space="preserve">Verloopdatum</value>
+  <data name="ExpiryDate.Header" xml:space="preserve">
+    <value>Verloopdatum</value>
   </data>
-  <data name="Fee.Header">
-    <value xml:space="preserve">Kosten</value>
+  <data name="Fee.Header" xml:space="preserve">
+    <value>Kosten</value>
   </data>
-  <data name="Fee.Text">
-    <value xml:space="preserve">{0} Elke {1} {2}</value>
+  <data name="Fee.Text" xml:space="preserve">
+    <value>{0} Elke {1} {2}</value>
   </data>
-  <data name="Frequency_D.Text">
-    <value xml:space="preserve">Dag(en)</value>
+  <data name="Frequency_D.Text" xml:space="preserve">
+    <value>Dag(en)</value>
   </data>
-  <data name="Frequency_M.Text">
-    <value xml:space="preserve">Maand(en)</value>
+  <data name="Frequency_M.Text" xml:space="preserve">
+    <value>Maand(en)</value>
   </data>
-  <data name="Frequency_W.Text">
-    <value xml:space="preserve">We(e)k(en)</value>
+  <data name="Frequency_W.Text" xml:space="preserve">
+    <value>We(e)k(en)</value>
   </data>
-  <data name="Frequency_Y.Text">
-    <value xml:space="preserve">Jaar</value>
+  <data name="Frequency_Y.Text" xml:space="preserve">
+    <value>Jaar</value>
   </data>
-  <data name="Name.Header">
-    <value xml:space="preserve">Naam</value>
+  <data name="Name.Header" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="NoFee.Text">
-    <value xml:space="preserve">Gratis</value>
+  <data name="NoFee.Text" xml:space="preserve">
+    <value>Gratis</value>
   </data>
-  <data name="Period.Header">
-    <value xml:space="preserve">Periode</value>
+  <data name="Period.Header" xml:space="preserve">
+    <value>Periode</value>
   </data>
-  <data name="plRSVPCode.Help" lastModified="2020-05-17 17:55:41">
-    <value xml:space="preserve">Je kunt je op sommige rollen abonneren door een RSVP (répondez, s'il vous plaît) code. Als je een code gekregen hebt, voer die dan hier in en klik op "Abonneren"</value>
+  <data name="plRSVPCode.Help" xml:space="preserve">
+    <value>Je kunt je op sommige rollen abonneren door een RSVP (répondez, s'il vous plaît) code. Als je een code gekregen hebt, voer die dan hier in en klik op "Abonneren"</value>
   </data>
-  <data name="plRSVPCode.Text">
-    <value xml:space="preserve">Geef RSVP code:</value>
+  <data name="plRSVPCode.Text" xml:space="preserve">
+    <value>Geef RSVP code:</value>
   </data>
-  <data name="Renew.Text">
-    <value xml:space="preserve">Hernieuwen</value>
+  <data name="Renew.Text" xml:space="preserve">
+    <value>Hernieuwen</value>
   </data>
-  <data name="RSVPFailure.Text">
-    <value xml:space="preserve">De ingevoerde RSVP (répondez, s'il vous plaît) code is niet bekend</value>
+  <data name="RSVPFailure.Text" xml:space="preserve">
+    <value>De ingevoerde RSVP (répondez, s'il vous plaît) code is niet bekend</value>
   </data>
-  <data name="RSVPHelp.Text" lastModified="2020-05-17 17:55:41">
-    <value xml:space="preserve">Deze sectie stelt je in de gelegenheid om je abonnementen op deze site te onderhouden. je kunt je voor diensten aanmelden m.b.v. een speciale RSVP code. Indien je een speciale RSVP code hebt ontvangen kunt je je aanmelden door de code in te voeren in het RSVP Code veld en door vervolgens op de "Aanmelden"-knop naast het veld te klikken.</value>
+  <data name="RSVPHelp.Text" xml:space="preserve">
+    <value>Deze sectie stelt je in de gelegenheid om je abonnementen op deze site te onderhouden. je kunt je voor diensten aanmelden m.b.v. een speciale RSVP code. Indien je een speciale RSVP code hebt ontvangen kunt je je aanmelden door de code in te voeren in het RSVP Code veld en door vervolgens op de "Aanmelden"-knop naast het veld te klikken.</value>
   </data>
-  <data name="RSVPSuccess.Text" lastModified="2020-05-17 17:55:41">
-    <value xml:space="preserve">Je bent succesvol toegevoegd aan de rol die behoort bij de ingevoerde RSVP code.</value>
+  <data name="RSVPSuccess.Text" xml:space="preserve">
+    <value>Je bent succesvol toegevoegd aan de rol die behoort bij de ingevoerde RSVP code.</value>
   </data>
-  <data name="ServicesHelp.Text" lastModified="2020-05-17 17:55:41">
-    <value xml:space="preserve">In deze sectie kun je je abonnementen op diensten van deze website beheren. Op sommige diensten kun je je abonneren door middel van een zogenaamde RSVP code. Als je zo'n RSVP code hebt gekregen, dan kun je deze op deze pagina invullen, en klikken op de "Abonneer" knop naast het veld.
+  <data name="ServicesHelp.Text" xml:space="preserve">
+    <value>In deze sectie kun je je abonnementen op diensten van deze website beheren. Op sommige diensten kun je je abonneren door middel van een zogenaamde RSVP code. Als je zo'n RSVP code hebt gekregen, dan kun je deze op deze pagina invullen, en klikken op de "Abonneer" knop naast het veld.
 Om andere abonnementen te beheren, kun je onderstaande tabel gebruiken. Sommige abonnementen kunnen betaald zijn. Als dit het geval is, dan wordt je automatisch doorverwezen naar een betalingssite. Als je terugkomt op deze site, dan kunt je op deze pagina je abonnement controleren.</value>
   </data>
-  <data name="Subscribe.Text">
-    <value xml:space="preserve">Abonneren</value>
+  <data name="Subscribe.Text" xml:space="preserve">
+    <value>Abonneren</value>
   </data>
-  <data name="Trial.Header">
-    <value xml:space="preserve">Proberen</value>
+  <data name="Trial.Header" xml:space="preserve">
+    <value>Proberen</value>
   </data>
-  <data name="TrialFee.Text">
-    <value xml:space="preserve">{0} voor {1} {2}</value>
+  <data name="TrialFee.Text" xml:space="preserve">
+    <value>{0} voor {1} {2}</value>
   </data>
-  <data name="Unsubscribe.Text">
-    <value xml:space="preserve">Abonnement opzeggen</value>
+  <data name="Unsubscribe.Text" xml:space="preserve">
+    <value>Abonnement opzeggen</value>
   </data>
-  <data name="UseTrial.Text">
-    <value xml:space="preserve">Maak gebruik van demo periode</value>
+  <data name="UseTrial.Text" xml:space="preserve">
+    <value>Maak gebruik van demo periode</value>
   </data>
 </root>

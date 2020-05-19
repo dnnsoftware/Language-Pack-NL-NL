@@ -12,19 +12,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CancelButton.Text">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="CancelButton.Text" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="GeneralTab.Text">
-    <value xml:space="preserve">Algemeen</value>
+  <data name="GeneralTab.Text" xml:space="preserve">
+    <value>Algemeen</value>
   </data>
-  <data name="PreviewPanelTitle.Text">
-    <value xml:space="preserve">Voorbeeld</value>
+  <data name="PreviewPanelTitle.Text" xml:space="preserve">
+    <value>Voorbeeld</value>
   </data>
-  <data name="SaveButton.Text">
-    <value xml:space="preserve">Opslaan</value>
+  <data name="SaveButton.Text" xml:space="preserve">
+    <value>Opslaan</value>
   </data>
-  <data name="UserCannotReadFileError.Text">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om dit bestand te mogen lezen</value>
+  <data name="UserCannotReadFileError.Text" xml:space="preserve">
+    <value>De gebruiker heeft geen rechten om dit bestand te mogen lezen</value>
   </data>
 </root>

@@ -12,25 +12,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_.Text">
-    <value xml:space="preserve">Basis functionaliteiten</value>
+  <data name="ControlTitle_.Text" xml:space="preserve">
+    <value>Basis functionaliteiten</value>
   </data>
-  <data name="Hide.Text" lastModified="2020-05-16 13:53:16">
-    <value xml:space="preserve">Eenvoudige weergave</value>
+  <data name="Hide.Text" xml:space="preserve">
+    <value>Eenvoudige weergave</value>
   </data>
-  <data name="IconFile.Text">
-    <value xml:space="preserve">Kleine iconen</value>
+  <data name="IconFile.Text" xml:space="preserve">
+    <value>Kleine iconen</value>
   </data>
-  <data name="IconFileLarge.Text">
-    <value xml:space="preserve">Grote iconen</value>
+  <data name="IconFileLarge.Text" xml:space="preserve">
+    <value>Grote iconen</value>
   </data>
-  <data name="IconNone.Text" lastModified="2020-05-16 11:52:15">
-    <value xml:space="preserve">Geen iconen</value>
+  <data name="IconNone.Text" xml:space="preserve">
+    <value>Geen iconen</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;p&gt;Klik op een item om naar de betreffende pagina te gaan&lt;/p&gt;</value>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;p&gt;Klik op een item om naar de betreffende pagina te gaan&lt;/p&gt;</value>
   </data>
-  <data name="Show.Text">
-    <value xml:space="preserve">Gedetailleerde weergave</value>
+  <data name="Show.Text" xml:space="preserve">
+    <value>Gedetailleerde weergave</value>
   </data>
 </root>

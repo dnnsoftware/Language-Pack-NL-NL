@@ -12,319 +12,319 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="$this.DefaultModifiers" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Privé</value>
+  <data name="$this.DefaultModifiers" xml:space="preserve">
+    <value>Privé</value>
   </data>
-  <data name="$this.TrayAutoArrange" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Waar</value>
+  <data name="$this.TrayAutoArrange" xml:space="preserve">
+    <value>Waar</value>
   </data>
-  <data name="$this.TrayLargeIcon" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Onwaar</value>
+  <data name="$this.TrayLargeIcon" xml:space="preserve">
+    <value>Onwaar</value>
   </data>
-  <data name="absLnk.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Absolute URL - &lt;em&gt;'http://www.MyWebsite.com/Images/MyImage.jpg'&lt;/em&gt;</value>
+  <data name="absLnk.Text" xml:space="preserve">
+    <value>Absolute URL - &lt;em&gt;'http://www.MyWebsite.com/Images/MyImage.jpg'&lt;/em&gt;</value>
   </data>
-  <data name="AddFiles.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Bestanden toevoegen...</value>
+  <data name="AddFiles.Text" xml:space="preserve">
+    <value>Bestanden toevoegen...</value>
   </data>
-  <data name="AreYouSure.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Weet je zeker dat je dit bestand wilt verwijderen?</value>
+  <data name="AreYouSure.Text" xml:space="preserve">
+    <value>Weet je zeker dat je dit bestand wilt verwijderen?</value>
   </data>
-  <data name="BrowserModus.Image.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Afbeelding</value>
+  <data name="BrowserModus.Image.Text" xml:space="preserve">
+    <value>Afbeelding</value>
   </data>
-  <data name="BrowserModus.Link.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Link</value>
+  <data name="BrowserModus.Link.Text" xml:space="preserve">
+    <value>Link</value>
   </data>
-  <data name="chkAspect.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Behoud verhouding</value>
+  <data name="chkAspect.Text" xml:space="preserve">
+    <value>Behoud verhouding</value>
   </data>
-  <data name="chkHumanFriendy.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Gebruikersvriendelijke URL</value>
+  <data name="chkHumanFriendy.Text" xml:space="preserve">
+    <value>Gebruikersvriendelijke URL</value>
   </data>
-  <data name="cmdCancel.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Sluit venster</value>
+  <data name="cmdCancel.Text" xml:space="preserve">
+    <value>Sluit venster</value>
   </data>
-  <data name="cmdClose.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Ok</value>
+  <data name="cmdClose.Text" xml:space="preserve">
+    <value>Ok</value>
   </data>
-  <data name="cmdCreate.Help" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Nieuwe submap aanmaken</value>
+  <data name="cmdCreate.Help" xml:space="preserve">
+    <value>Nieuwe submap aanmaken</value>
   </data>
-  <data name="cmdCreate.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Nieuwe map aanmaken</value>
+  <data name="cmdCreate.Text" xml:space="preserve">
+    <value>Nieuwe map aanmaken</value>
   </data>
-  <data name="cmdCreateCancel.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="cmdCreateCancel.Text" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="cmdCreateFolder.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Nu aanmaken</value>
+  <data name="cmdCreateFolder.Text" xml:space="preserve">
+    <value>Nu aanmaken</value>
   </data>
-  <data name="cmdCrop.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Verkleinen</value>
+  <data name="cmdCrop.Text" xml:space="preserve">
+    <value>Verkleinen</value>
   </data>
-  <data name="cmdCropCancel.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Bewerken annuleren</value>
+  <data name="cmdCropCancel.Text" xml:space="preserve">
+    <value>Bewerken annuleren</value>
   </data>
-  <data name="cmdCropNow.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Nieuwe afbeelding aanmaken</value>
+  <data name="cmdCropNow.Text" xml:space="preserve">
+    <value>Nieuwe afbeelding aanmaken</value>
   </data>
-  <data name="cmdDelete.Help" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Verwijder het geselecteerd bestand.</value>
+  <data name="cmdDelete.Help" xml:space="preserve">
+    <value>Verwijder het geselecteerd bestand.</value>
   </data>
-  <data name="cmdDelete.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Verwijder bestand</value>
+  <data name="cmdDelete.Text" xml:space="preserve">
+    <value>Verwijder bestand</value>
   </data>
-  <data name="cmdDownload.Help" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Download het geselecteerde bestand</value>
+  <data name="cmdDownload.Help" xml:space="preserve">
+    <value>Download het geselecteerde bestand</value>
   </data>
-  <data name="cmdDownload.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Download bestand</value>
+  <data name="cmdDownload.Text" xml:space="preserve">
+    <value>Download bestand</value>
   </data>
-  <data name="cmdResize2.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Formaat aanpassen</value>
+  <data name="cmdResize2.Text" xml:space="preserve">
+    <value>Formaat aanpassen</value>
   </data>
-  <data name="cmdResizeCancel.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Formaat aanpassen annuleren</value>
+  <data name="cmdResizeCancel.Text" xml:space="preserve">
+    <value>Formaat aanpassen annuleren</value>
   </data>
-  <data name="cmdResizeNow.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Formaat nu aanpassen</value>
+  <data name="cmdResizeNow.Text" xml:space="preserve">
+    <value>Formaat nu aanpassen</value>
   </data>
-  <data name="cmdResizer.Help" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">De geselecteerde afbeelding bewerken.</value>
+  <data name="cmdResizer.Help" xml:space="preserve">
+    <value>De geselecteerde afbeelding bewerken.</value>
   </data>
-  <data name="cmdResizer.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Afbeelding editor</value>
+  <data name="cmdResizer.Text" xml:space="preserve">
+    <value>Afbeelding editor</value>
   </data>
-  <data name="cmdRotate.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Draaien</value>
+  <data name="cmdRotate.Text" xml:space="preserve">
+    <value>Draaien</value>
   </data>
-  <data name="cmdUpload.Help" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Nieuw bestand uploaden.</value>
+  <data name="cmdUpload.Help" xml:space="preserve">
+    <value>Nieuw bestand uploaden.</value>
   </data>
-  <data name="cmdUpload.Text" lastModified="2015-12-29 09:59:43">
-    <value xml:space="preserve">Bestand uploaden</value>
+  <data name="cmdUpload.Text" xml:space="preserve">
+    <value>Bestand uploaden</value>
   </data>
-  <data name="cmdUploadCancel.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Uploaden annuleren</value>
+  <data name="cmdUploadCancel.Text" xml:space="preserve">
+    <value>Uploaden annuleren</value>
   </data>
-  <data name="cmdUploadNow.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Nieuwe upload</value>
+  <data name="cmdUploadNow.Text" xml:space="preserve">
+    <value>Nieuwe upload</value>
   </data>
-  <data name="cmdZoom.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Zoem</value>
+  <data name="cmdZoom.Text" xml:space="preserve">
+    <value>Zoem</value>
   </data>
-  <data name="Created.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Aangemaakt</value>
+  <data name="Created.Text" xml:space="preserve">
+    <value>Aangemaakt</value>
   </data>
-  <data name="DetailView.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Detail weergave</value>
+  <data name="DetailView.Text" xml:space="preserve">
+    <value>Detail weergave</value>
   </data>
-  <data name="DetailViewTitle.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Geeft ieder bestand weer met een groot afbeeldings voorbeeld, bestandsnaam en bestandsinformatie.</value>
+  <data name="DetailViewTitle.Text" xml:space="preserve">
+    <value>Geeft ieder bestand weer met een groot afbeeldings voorbeeld, bestandsnaam en bestandsinformatie.</value>
   </data>
-  <data name="DropHere.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Plaats bestand(en) hier</value>
+  <data name="DropHere.Text" xml:space="preserve">
+    <value>Plaats bestand(en) hier</value>
   </data>
-  <data name="Error1.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om deze taak uit te voeren.</value>
+  <data name="Error1.Text" xml:space="preserve">
+    <value>De gebruiker heeft geen rechten om deze taak uit te voeren.</value>
   </data>
-  <data name="Error2.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Deze bestandsextensie is niet toegestaan.</value>
+  <data name="Error2.Text" xml:space="preserve">
+    <value>Deze bestandsextensie is niet toegestaan.</value>
   </data>
-  <data name="Error3.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Deze bestandsextensie is niet toegestaan.</value>
+  <data name="Error3.Text" xml:space="preserve">
+    <value>Deze bestandsextensie is niet toegestaan.</value>
   </data>
-  <data name="Error4.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om deze map te mogen bekijken.</value>
+  <data name="Error4.Text" xml:space="preserve">
+    <value>De gebruiker heeft geen rechten om deze map te mogen bekijken.</value>
   </data>
-  <data name="Error5.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Geen bestand geselecteerd.</value>
+  <data name="Error5.Text" xml:space="preserve">
+    <value>Geen bestand geselecteerd.</value>
   </data>
-  <data name="ExtraTabOptions.Text" lastModified="2020-05-14 06:47:07">
-    <value xml:space="preserve">Tabopties:</value>
+  <data name="ExtraTabOptions.Text" xml:space="preserve">
+    <value>Tabopties:</value>
   </data>
-  <data name="FileLink.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Bestandslink</value>
+  <data name="FileLink.Text" xml:space="preserve">
+    <value>Bestandslink</value>
   </data>
-  <data name="FileSizeRestriction.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Het upload limiet voor bestanden is {0} MB. &lt;br/&gt; De toegestane bestandstypes zijn: "{1}"</value>
+  <data name="FileSizeRestriction.Text" xml:space="preserve">
+    <value>Het upload limiet voor bestanden is {0} MB. &lt;br/&gt; De toegestane bestandstypes zijn: "{1}"</value>
   </data>
-  <data name="FileToBig.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Bestand te groot om te uploaden.</value>
+  <data name="FileToBig.Text" xml:space="preserve">
+    <value>Bestand te groot om te uploaden.</value>
   </data>
-  <data name="FileToBigMessage.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Het te uploaden bestand is groter dan de toegestane bestandsgrootte.</value>
+  <data name="FileToBigMessage.Text" xml:space="preserve">
+    <value>Het te uploaden bestand is groter dan de toegestane bestandsgrootte.</value>
   </data>
-  <data name="FirstPage.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Eerste pagina</value>
+  <data name="FirstPage.Text" xml:space="preserve">
+    <value>Eerste pagina</value>
   </data>
-  <data name="GoTo.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Ga naar</value>
+  <data name="GoTo.Text" xml:space="preserve">
+    <value>Ga naar</value>
   </data>
-  <data name="IconsView.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Icoon weergave</value>
+  <data name="IconsView.Text" xml:space="preserve">
+    <value>Icoon weergave</value>
   </data>
-  <data name="IconsViewTitle.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Geeft alle bestanden weer met afbeelding weergave als titels.</value>
+  <data name="IconsViewTitle.Text" xml:space="preserve">
+    <value>Geeft alle bestanden weer met afbeelding weergave als titels.</value>
   </data>
-  <data name="imgOriginal.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Originele afbeelding (geschaald om op het scherm te passen)</value>
+  <data name="imgOriginal.Text" xml:space="preserve">
+    <value>Originele afbeelding (geschaald om op het scherm te passen)</value>
   </data>
-  <data name="imgResized.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Voorbeeld van de geschaalde afbeelding (geschaald om op het scherm te passen)</value>
+  <data name="imgResized.Text" xml:space="preserve">
+    <value>Voorbeeld van de geschaalde afbeelding (geschaald om op het scherm te passen)</value>
   </data>
-  <data name="LabelAnchor.Text" lastModified="2020-05-14 06:47:07">
-    <value xml:space="preserve">Selecteer een pagina-anker:</value>
+  <data name="LabelAnchor.Text" xml:space="preserve">
+    <value>Selecteer een pagina-anker:</value>
   </data>
-  <data name="LabelTabLanguage.Text" lastModified="2020-05-14 06:47:07">
-    <value xml:space="preserve">Aanvullende taalparameter:</value>
+  <data name="LabelTabLanguage.Text" xml:space="preserve">
+    <value>Aanvullende taalparameter:</value>
   </data>
-  <data name="LastPage.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Laatste pagina</value>
+  <data name="LastPage.Text" xml:space="preserve">
+    <value>Laatste pagina</value>
   </data>
-  <data name="lblBrowserModus.Text" lastModified="2020-05-14 06:47:07">
-    <value xml:space="preserve">Browser-mode: {0}</value>
+  <data name="lblBrowserModus.Text" xml:space="preserve">
+    <value>Browser-mode: {0}</value>
   </data>
-  <data name="lblChoosetab.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Kies een pagina: </value>
+  <data name="lblChoosetab.Text" xml:space="preserve">
+    <value>Kies een pagina: </value>
   </data>
-  <data name="lblClearPreview.Text" lastModified="2020-05-14 06:47:07">
-    <value xml:space="preserve">Weergave leegmaken</value>
+  <data name="lblClearPreview.Text" xml:space="preserve">
+    <value>Weergave leegmaken</value>
   </data>
-  <data name="lblConFiles.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Vastgehouden bestanden:</value>
+  <data name="lblConFiles.Text" xml:space="preserve">
+    <value>Vastgehouden bestanden:</value>
   </data>
-  <data name="lblCropInfo.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Hier zie je de nieuwe bewerkte afbeelding</value>
+  <data name="lblCropInfo.Text" xml:space="preserve">
+    <value>Hier zie je de nieuwe bewerkte afbeelding</value>
   </data>
-  <data name="lblCurrent.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Huidige directory:</value>
+  <data name="lblCurrent.Text" xml:space="preserve">
+    <value>Huidige directory:</value>
   </data>
-  <data name="lblHeight.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Nieuwe hoogte:</value>
+  <data name="lblHeight.Text" xml:space="preserve">
+    <value>Nieuwe hoogte:</value>
   </data>
-  <data name="lblImgQuality.Text" lastModified="2020-05-14 06:47:07">
-    <value xml:space="preserve">Afbeeldingskwaliteit (Compressie):</value>
+  <data name="lblImgQuality.Text" xml:space="preserve">
+    <value>Afbeeldingskwaliteit (Compressie):</value>
   </data>
-  <data name="lblNewFoldName.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Nieuw mapnaam:</value>
+  <data name="lblNewFoldName.Text" xml:space="preserve">
+    <value>Nieuw mapnaam:</value>
   </data>
-  <data name="lblOriginal.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Origineel:</value>
+  <data name="lblOriginal.Text" xml:space="preserve">
+    <value>Origineel:</value>
   </data>
-  <data name="lblOtherTools.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Andere gereedschappen:</value>
+  <data name="lblOtherTools.Text" xml:space="preserve">
+    <value>Andere gereedschappen:</value>
   </data>
-  <data name="lblPreview.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Voorbeeld:</value>
+  <data name="lblPreview.Text" xml:space="preserve">
+    <value>Voorbeeld:</value>
   </data>
-  <data name="lblResizeHeader.Text" lastModified="2020-05-14 06:47:07">
-    <value xml:space="preserve">Afbeeldingseditor: herschalen</value>
+  <data name="lblResizeHeader.Text" xml:space="preserve">
+    <value>Afbeeldingseditor: herschalen</value>
   </data>
-  <data name="lblResizeHeader2.Text" lastModified="2020-05-14 06:47:07">
-    <value xml:space="preserve">Afbeeldingseditor: comprimeren, zoomen &amp; draaien</value>
+  <data name="lblResizeHeader2.Text" xml:space="preserve">
+    <value>Afbeeldingseditor: comprimeren, zoomen &amp; draaien</value>
   </data>
-  <data name="lblShowPreview.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Voorbeeld weergeven</value>
+  <data name="lblShowPreview.Text" xml:space="preserve">
+    <value>Voorbeeld weergeven</value>
   </data>
-  <data name="lblSubDirs.Text" lastModified="2020-05-10 13:49:11">
-    <value xml:space="preserve">Mappen:</value>
+  <data name="lblSubDirs.Text" xml:space="preserve">
+    <value>Mappen:</value>
   </data>
-  <data name="lblThumbName.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Nieuwe bestandsnaam:</value>
+  <data name="lblThumbName.Text" xml:space="preserve">
+    <value>Nieuwe bestandsnaam:</value>
   </data>
-  <data name="lblUrlType.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Kies URL type:</value>
+  <data name="lblUrlType.Text" xml:space="preserve">
+    <value>Kies URL type:</value>
   </data>
-  <data name="lblWidth.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Nieuwe breedte:</value>
+  <data name="lblWidth.Text" xml:space="preserve">
+    <value>Nieuwe breedte:</value>
   </data>
-  <data name="ListView.Text" lastModified="2020-05-14 06:47:07">
-    <value xml:space="preserve">Lijstweergave</value>
+  <data name="ListView.Text" xml:space="preserve">
+    <value>Lijstweergave</value>
   </data>
-  <data name="ListViewTitle.Text" lastModified="2020-05-14 06:47:07">
-    <value xml:space="preserve">Geeft kleine voorbeeldafbeeldingen weer, Bestandsnaam en bestandsinformatie.</value>
+  <data name="ListViewTitle.Text" xml:space="preserve">
+    <value>Geeft kleine voorbeeldafbeeldingen weer, Bestandsnaam en bestandsinformatie.</value>
   </data>
-  <data name="lnkAbsClick.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Absolute beveiligde URL - &lt;em&gt;'http://www.MyWebsite.com/LinkClick.aspx?fileticket=xyz'&lt;/em&gt;</value>
+  <data name="lnkAbsClick.Text" xml:space="preserve">
+    <value>Absolute beveiligde URL - &lt;em&gt;'http://www.MyWebsite.com/LinkClick.aspx?fileticket=xyz'&lt;/em&gt;</value>
   </data>
-  <data name="lnkClick.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Relatieve beveiligde URL - &lt;em&gt;'/LinkClick.aspx?fileticket=xyz'&lt;/em&gt;</value>
+  <data name="lnkClick.Text" xml:space="preserve">
+    <value>Relatieve beveiligde URL - &lt;em&gt;'/LinkClick.aspx?fileticket=xyz'&lt;/em&gt;</value>
   </data>
-  <data name="NextPage.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Volgende pagina</value>
+  <data name="NextPage.Text" xml:space="preserve">
+    <value>Volgende pagina</value>
   </data>
-  <data name="None.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Geen</value>
+  <data name="None.Text" xml:space="preserve">
+    <value>Geen</value>
   </data>
-  <data name="OverrideFile.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Overschrijf bestand als deze al bestaat, anders wordt er een nieuw bestand aangemaakt met Liggendstreepje_1 ?</value>
+  <data name="OverrideFile.Text" xml:space="preserve">
+    <value>Overschrijf bestand als deze al bestaat, anders wordt er een nieuw bestand aangemaakt met Liggendstreepje_1 ?</value>
   </data>
-  <data name="PageLink.Text" lastModified="2020-05-14 06:47:07">
-    <value xml:space="preserve">Paginalink</value>
+  <data name="PageLink.Text" xml:space="preserve">
+    <value>Paginalink</value>
   </data>
-  <data name="PreviousPage.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Vorige pagina</value>
+  <data name="PreviousPage.Text" xml:space="preserve">
+    <value>Vorige pagina</value>
   </data>
-  <data name="relLnk.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Relative URL - &lt;em&gt;'/Images/MyImage.jpg'&lt;/em&gt;</value>
+  <data name="relLnk.Text" xml:space="preserve">
+    <value>Relative URL - &lt;em&gt;'/Images/MyImage.jpg'&lt;/em&gt;</value>
   </data>
-  <data name="RootFolder.Text" lastModified="2016-03-08 11:26:39">
-    <value xml:space="preserve">Hoofdmap</value>
+  <data name="RootFolder.Text" xml:space="preserve">
+    <value>Hoofdmap</value>
   </data>
-  <data name="Size.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Grootte</value>
+  <data name="Size.Text" xml:space="preserve">
+    <value>Grootte</value>
   </data>
-  <data name="SortAscending.Help" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Sorteer bestandslijst op bestandsnaam in oplopende volgorde.</value>
+  <data name="SortAscending.Help" xml:space="preserve">
+    <value>Sorteer bestandslijst op bestandsnaam in oplopende volgorde.</value>
   </data>
-  <data name="SortAscending.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Sorteer in oplopende volgorde</value>
+  <data name="SortAscending.Text" xml:space="preserve">
+    <value>Sorteer in oplopende volgorde</value>
   </data>
-  <data name="SortByDate.Text" lastModified="2020-05-10 13:49:11">
-    <value xml:space="preserve">Datum</value>
+  <data name="SortByDate.Text" xml:space="preserve">
+    <value>Datum</value>
   </data>
-  <data name="SortByDateAscending.Help" lastModified="2020-05-10 13:49:11">
-    <value xml:space="preserve">Sorteer de lijst in oplopende datumvolgorde</value>
+  <data name="SortByDateAscending.Help" xml:space="preserve">
+    <value>Sorteer de lijst in oplopende datumvolgorde</value>
   </data>
-  <data name="SortByDateAscending.Text" lastModified="2020-05-10 13:49:11">
-    <value xml:space="preserve">Sorteer oplopend op datum</value>
+  <data name="SortByDateAscending.Text" xml:space="preserve">
+    <value>Sorteer oplopend op datum</value>
   </data>
-  <data name="SortByDateDescending.Help" lastModified="2020-05-10 13:49:11">
-    <value xml:space="preserve">Sorteerd de lijst in aflopende aanmaakdatum</value>
+  <data name="SortByDateDescending.Help" xml:space="preserve">
+    <value>Sorteerd de lijst in aflopende aanmaakdatum</value>
   </data>
-  <data name="SortByDateDescending.Text" lastModified="2020-05-10 13:49:11">
-    <value xml:space="preserve">Sorteer op aflopende datum</value>
+  <data name="SortByDateDescending.Text" xml:space="preserve">
+    <value>Sorteer op aflopende datum</value>
   </data>
-  <data name="SortDescending.Help" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Sorteer bestandslijst op bestandsnaam in aflopende volgorde.</value>
+  <data name="SortDescending.Help" xml:space="preserve">
+    <value>Sorteer bestandslijst op bestandsnaam in aflopende volgorde.</value>
   </data>
-  <data name="SortDescending.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Sorteer in aflopende volgorde</value>
+  <data name="SortDescending.Text" xml:space="preserve">
+    <value>Sorteer in aflopende volgorde</value>
   </data>
-  <data name="SpaceUsed.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Gebruikte ruimte: {0} van {1}</value>
+  <data name="SpaceUsed.Text" xml:space="preserve">
+    <value>Gebruikte ruimte: {0} van {1}</value>
   </data>
-  <data name="StartUploads.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Start upload(s)</value>
+  <data name="StartUploads.Text" xml:space="preserve">
+    <value>Start upload(s)</value>
   </data>
-  <data name="Syncronize.Help" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Synchroniseer map met database</value>
+  <data name="Syncronize.Help" xml:space="preserve">
+    <value>Synchroniseer map met database</value>
   </data>
-  <data name="Syncronize.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Synchroniseer map</value>
+  <data name="Syncronize.Text" xml:space="preserve">
+    <value>Synchroniseer map</value>
   </data>
-  <data name="TrackClicks.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">Volg aantal keer dat er op deze link is geklikt:</value>
+  <data name="TrackClicks.Text" xml:space="preserve">
+    <value>Volg aantal keer dat er op deze link is geklikt:</value>
   </data>
-  <data name="UnlimitedSpace.Text" lastModified="2015-12-29 12:02:31">
-    <value xml:space="preserve">[Ongelimiteerd]</value>
+  <data name="UnlimitedSpace.Text" xml:space="preserve">
+    <value>[Ongelimiteerd]</value>
   </data>
-  <data name="Wait.Text" lastModified="2020-05-14 08:48:11">
-    <value xml:space="preserve">Even wachten a.u.b.</value>
+  <data name="Wait.Text" xml:space="preserve">
+    <value>Even wachten a.u.b.</value>
   </data>
-  <data name="WaitMessage.Text" lastModified="2020-05-14 08:48:11">
-    <value xml:space="preserve">Pagina en ankers worden geladen.</value>
+  <data name="WaitMessage.Text" xml:space="preserve">
+    <value>Pagina en ankers worden geladen.</value>
   </data>
 </root>

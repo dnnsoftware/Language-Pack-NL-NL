@@ -12,14 +12,14 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddTag.Text">
-    <value xml:space="preserve">Tag toevoegen</value>
+  <data name="AddTag.Text" xml:space="preserve">
+    <value>Tag toevoegen</value>
   </data>
-  <data name="Advanced.Text">
-    <value xml:space="preserve">Geavanceerd</value>
+  <data name="Advanced.Text" xml:space="preserve">
+    <value>Geavanceerd</value>
   </data>
-  <data name="AdvancedSearchHint.Text">
-    <value xml:space="preserve">&lt;table class="dnnSearchResult-hint-tbl dnnTableDisplay"&gt;
+  <data name="AdvancedSearchHint.Text" xml:space="preserve">
+    <value>&lt;table class="dnnSearchResult-hint-tbl dnnTableDisplay"&gt;
 
                 
 				&lt;tr&gt;
@@ -87,101 +87,101 @@
                 &lt;/tr&gt;
             &lt;/table&gt;</value>
   </data>
-  <data name="AllFeaturesSelected.Text">
-    <value xml:space="preserve">Alle geselecteerde functies</value>
+  <data name="AllFeaturesSelected.Text" xml:space="preserve">
+    <value>Alle geselecteerde functies</value>
   </data>
-  <data name="Author.Text">
-    <value xml:space="preserve">Auteur:</value>
+  <data name="Author.Text" xml:space="preserve">
+    <value>Auteur:</value>
   </data>
-  <data name="btnClear.Text">
-    <value xml:space="preserve">Geavanceerd leegmaken</value>
+  <data name="btnClear.Text" xml:space="preserve">
+    <value>Geavanceerd leegmaken</value>
   </data>
-  <data name="btnSearch.Text">
-    <value xml:space="preserve">Zoeken</value>
+  <data name="btnSearch.Text" xml:space="preserve">
+    <value>Zoeken</value>
   </data>
-  <data name="Comments.Text">
-    <value xml:space="preserve">Opmerkingen:</value>
+  <data name="Comments.Text" xml:space="preserve">
+    <value>Opmerkingen:</value>
   </data>
-  <data name="CurrentPageIndex.Text">
-    <value xml:space="preserve">Pagina:</value>
+  <data name="CurrentPageIndex.Text" xml:space="preserve">
+    <value>Pagina:</value>
   </data>
-  <data name="Date.Text">
-    <value xml:space="preserve">Datum</value>
+  <data name="Date.Text" xml:space="preserve">
+    <value>Datum</value>
   </data>
-  <data name="DefaultText.Text">
-    <value xml:space="preserve">Zoekterm invoeren</value>
+  <data name="DefaultText.Text" xml:space="preserve">
+    <value>Zoekterm invoeren</value>
   </data>
-  <data name="LastModified.Text">
-    <value xml:space="preserve">Bijgewerkt:</value>
+  <data name="LastModified.Text" xml:space="preserve">
+    <value>Bijgewerkt:</value>
   </data>
-  <data name="lblAdvancedDates.Help">
-    <value xml:space="preserve">Beperk de zoekresultaten die zijn bewerkt binnen een specifieke tijd
+  <data name="lblAdvancedDates.Help" xml:space="preserve">
+    <value>Beperk de zoekresultaten die zijn bewerkt binnen een specifieke tijd
 </value>
   </data>
-  <data name="lblAdvancedDates.Text">
-    <value xml:space="preserve">laatst aangepast:</value>
+  <data name="lblAdvancedDates.Text" xml:space="preserve">
+    <value>laatst aangepast:</value>
   </data>
-  <data name="lblAdvancedExactSearch.Help">
-    <value xml:space="preserve">Zoekresultaten moeten de exacte zoekwoorden bevatten</value>
+  <data name="lblAdvancedExactSearch.Help" xml:space="preserve">
+    <value>Zoekresultaten moeten de exacte zoekwoorden bevatten</value>
   </data>
-  <data name="lblAdvancedExactSearch.Text">
-    <value xml:space="preserve">Exact zoeken:</value>
+  <data name="lblAdvancedExactSearch.Text" xml:space="preserve">
+    <value>Exact zoeken:</value>
   </data>
-  <data name="lblAdvancedScope.Help">
-    <value xml:space="preserve">Begrens de zoekresultaten van een specifieke bron</value>
+  <data name="lblAdvancedScope.Help" xml:space="preserve">
+    <value>Begrens de zoekresultaten van een specifieke bron</value>
   </data>
-  <data name="lblAdvancedScope.Text">
-    <value xml:space="preserve">Filter:</value>
+  <data name="lblAdvancedScope.Text" xml:space="preserve">
+    <value>Filter:</value>
   </data>
-  <data name="lblAdvancedTags.Help">
-    <value xml:space="preserve">Begrens de zoekresultaten door middel van een specifieke tag</value>
+  <data name="lblAdvancedTags.Help" xml:space="preserve">
+    <value>Begrens de zoekresultaten door middel van een specifieke tag</value>
   </data>
-  <data name="lblAdvancedTags.Text">
-    <value xml:space="preserve">Filter op tags:</value>
+  <data name="lblAdvancedTags.Text" xml:space="preserve">
+    <value>Filter op tags:</value>
   </data>
-  <data name="Likes.Text">
-    <value xml:space="preserve">Vind ik leuk:</value>
+  <data name="Likes.Text" xml:space="preserve">
+    <value>Vind ik leuk:</value>
   </data>
-  <data name="linkAdvancedTip.Text">
-    <value xml:space="preserve">Geavanceerd</value>
+  <data name="linkAdvancedTip.Text" xml:space="preserve">
+    <value>Geavanceerd</value>
   </data>
-  <data name="NoResults.Text">
-    <value xml:space="preserve">Er zijn geen resultaten gevonden</value>
+  <data name="NoResults.Text" xml:space="preserve">
+    <value>Er zijn geen resultaten gevonden</value>
   </data>
-  <data name="optionAll.Text">
-    <value xml:space="preserve">Alle</value>
+  <data name="optionAll.Text" xml:space="preserve">
+    <value>Alle</value>
   </data>
-  <data name="optionDay.Text">
-    <value xml:space="preserve">1 dag</value>
+  <data name="optionDay.Text" xml:space="preserve">
+    <value>1 dag</value>
   </data>
-  <data name="optionMonth.Text">
-    <value xml:space="preserve">30 dagen</value>
+  <data name="optionMonth.Text" xml:space="preserve">
+    <value>30 dagen</value>
   </data>
-  <data name="optionQuarter.Text">
-    <value xml:space="preserve">90 dagen</value>
+  <data name="optionQuarter.Text" xml:space="preserve">
+    <value>90 dagen</value>
   </data>
-  <data name="optionWeek.Text">
-    <value xml:space="preserve">7 dagen</value>
+  <data name="optionWeek.Text" xml:space="preserve">
+    <value>7 dagen</value>
   </data>
-  <data name="optionYear.Text">
-    <value xml:space="preserve">1 jaar</value>
+  <data name="optionYear.Text" xml:space="preserve">
+    <value>1 jaar</value>
   </data>
-  <data name="Relevance.Text">
-    <value xml:space="preserve">Relevantie: </value>
+  <data name="Relevance.Text" xml:space="preserve">
+    <value>Relevantie: </value>
   </data>
-  <data name="ResultPerPage.Text">
-    <value xml:space="preserve">Resultaten per pagina:</value>
+  <data name="ResultPerPage.Text" xml:space="preserve">
+    <value>Resultaten per pagina:</value>
   </data>
-  <data name="ResultsCount.Text" lastModified="2020-05-17 17:38:46">
-    <value xml:space="preserve">Ongeveer {0} resultaten</value>
+  <data name="ResultsCount.Text" xml:space="preserve">
+    <value>Ongeveer {0} resultaten</value>
   </data>
-  <data name="Source.Text">
-    <value xml:space="preserve">Bron:</value>
+  <data name="Source.Text" xml:space="preserve">
+    <value>Bron:</value>
   </data>
-  <data name="Tags.Text">
-    <value xml:space="preserve">Tags:</value>
+  <data name="Tags.Text" xml:space="preserve">
+    <value>Tags:</value>
   </data>
-  <data name="Views.Text" lastModified="2020-05-17 17:38:46">
-    <value xml:space="preserve">Weergaven:</value>
+  <data name="Views.Text" xml:space="preserve">
+    <value>Weergaven:</value>
   </data>
 </root>
