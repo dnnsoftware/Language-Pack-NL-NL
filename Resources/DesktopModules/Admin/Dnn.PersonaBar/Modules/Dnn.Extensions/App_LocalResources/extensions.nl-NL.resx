@@ -298,7 +298,7 @@
     <value>Ja</value>
   </data>
   <data name="DeleteExtension.Warning" xml:space="preserve">
-    <value>Weet u zeker dat je {0} wilt verwijderen?</value>
+    <value>Weet je zeker dat je {0} wilt verwijderen?</value>
   </data>
   <data name="DeleteFiles.HelpText" xml:space="preserve">
     <value>Vink dit vakje aan om de bestanden te verwijderen die gekoppeld zijn aan deze uitbreiding.</value>
@@ -715,7 +715,7 @@
     <value>Licentie</value>
   </data>
   <data name="InstallExtension_License.HelpText" xml:space="preserve">
-    <value>Alvorens verder te gaan moet u de voorwaarden van de licentie voor deze uitbreiding accepteren. Bekijk de licentie en vink het vakje 'accepteer licentie' aan.</value>
+    <value>Alvorens verder te gaan moet je de voorwaarden van de licentie voor deze uitbreiding accepteren. Bekijk de licentie en vink het vakje 'accepteer licentie' aan.</value>
   </data>
   <data name="InstallExtension_Logs.Header" xml:space="preserve">
     <value>Pakket Installatie Rapport</value>
@@ -773,7 +773,7 @@ Vaak voorkomende problemen met slechte installatie bestanden:
 &lt;li&gt;Ontbrekende bronnen in het zip-bestand.&lt;/li&gt;
 &lt;li&gt;Ongeldige bestanden in het pakket.&lt;/li&gt;
 &lt;li&gt;Bestandsextensie is niet .zip.&lt;/li&gt;
-&lt;li&gt;Contoleer of u bent ingelogd.&lt;/li&gt;
+&lt;li&gt;Contoleer of je bent ingelogd.&lt;/li&gt;
 &lt;/ul&gt;</value>
   </data>
   <data name="InstallExtension_Uploading.Text" xml:space="preserve">
@@ -1089,7 +1089,7 @@ Vaak voorkomende problemen met slechte installatie bestanden:
     <value>Ja</value>
   </data>
   <data name="UnsavedChanges.HelpText" xml:space="preserve">
-    <value>Je hebt niet opgeslagen wijzigingen. Weet je zeker dat u door wilt gaan?</value>
+    <value>Je hebt niet opgeslagen wijzigingen. Weet je zeker dat je door wilt gaan?</value>
   </data>
   <data name="Upgrade.Header" xml:space="preserve">
     <value>Upgraden?</value>

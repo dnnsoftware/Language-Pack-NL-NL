@@ -34,7 +34,7 @@
     <value>Configuratie bijwerken</value>
   </data>
   <data name="CannotManageHTMLEditorProviders.Text" xml:space="preserve">
-    <value>U kunt geen HTML Editor providers beheren</value>
+    <value>Je kunt geen HTML Editor providers beheren</value>
   </data>
   <data name="Client Script Settings.Title" xml:space="preserve">
     <value>Client script instellingen</value>

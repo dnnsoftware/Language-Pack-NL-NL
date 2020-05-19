@@ -40,10 +40,10 @@
     <value>Import annuleren</value>
   </data>
   <data name="CancelImportMessage.Text" xml:space="preserve">
-    <value>Bij annuleren wordt het import proces gestopt. Weet u zeker dat u de import wilt annuleren?</value>
+    <value>Bij annuleren wordt het import proces gestopt. Weet je zeker dat je de import wilt annuleren?</value>
   </data>
   <data name="CancelJobMessage.Text" xml:space="preserve">
-    <value>Bij annuleren wordt het proces gestopt. Weet u zeker dat u de wilt annuleren?</value>
+    <value>Bij annuleren wordt het proces gestopt. Weet je zeker dat je de wilt annuleren?</value>
   </data>
   <data name="ClicktoDeselect.Text" xml:space="preserve">
     <value>Klik om pakketten te deselecteren</value>
@@ -76,7 +76,7 @@
     <value>Verwijderd</value>
   </data>
   <data name="DeleteJobMessage.Text" xml:space="preserve">
-    <value>Weet u zeker dat u deze taak wilt verwijderen?</value>
+    <value>Weet je zeker dat je deze taak wilt verwijderen?</value>
   </data>
   <data name="DeletionsInExport.Text" xml:space="preserve">
     <value>Inclusief verwijderde items</value>

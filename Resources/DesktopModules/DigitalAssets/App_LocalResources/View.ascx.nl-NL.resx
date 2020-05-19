@@ -94,7 +94,7 @@
     <value>Bestanden uitklappen</value>
   </data>
   <data name="ExtensionChangeConfirmContent.Text" xml:space="preserve">
-    <value>Als u de bestandsnaamextensie aanpast kan deze onbruikbaar worden. &lt;br&gt;Weet je zeker dat je deze wilt veranderen?</value>
+    <value>Als je de bestandsnaamextensie aanpast kan deze onbruikbaar worden. &lt;br&gt;Weet je zeker dat je deze wilt veranderen?</value>
   </data>
   <data name="ExtensionChangeConfirmTitle.Text" xml:space="preserve">
     <value>De extensies zijn veranderd</value>

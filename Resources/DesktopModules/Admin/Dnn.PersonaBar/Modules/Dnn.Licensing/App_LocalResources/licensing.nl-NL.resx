@@ -28,13 +28,13 @@
     <value>DOCUMENTATIE CENTER</value>
   </data>
   <data name="Error.ACT1.Text" xml:space="preserve">
-    <value>Licensieactivatie mislukt. De ingevoerde licensie details matchen niet met een geldige licensie. &lt;br /&gt;&lt;br /&gt; Controleer je licensie details op  &lt;a href="{0}" target="_blank"&gt; je licensie pagina op dnnsoftware.com&lt;/a&gt; en probeer opnieuw. Als u problemen blijft houden, contacteer Technisch Support.</value>
+    <value>Licensieactivatie mislukt. De ingevoerde licensie details matchen niet met een geldige licensie. &lt;br /&gt;&lt;br /&gt; Controleer je licensie details op  &lt;a href="{0}" target="_blank"&gt; je licensie pagina op dnnsoftware.com&lt;/a&gt; en probeer opnieuw. Als je problemen blijft houden, contacteer Technisch Support.</value>
   </data>
   <data name="Error.ACT2.Text" xml:space="preserve">
     <value>Licensie activatie mislukt. Productie activatie voor {0} is in gebruik.</value>
   </data>
   <data name="Error.ACT3.Text" xml:space="preserve">
-    <value>U heeft het limiet van activeringen overschreden voor dit klant adres.</value>
+    <value>Je hebt het limiet van activeringen overschreden voor dit klant adres.</value>
   </data>
   <data name="Error.ACT4.Text" xml:space="preserve">
     <value>Licensie activatie mislukt. Productie activatie voor {0} is in gebruik.</value>
@@ -43,10 +43,10 @@
     <value>Licensieactivatie mislukt. Je service periode voor deze licensie is verlopen op {0:d}. Contacteer &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
   </data>
   <data name="Error.ContactServer.activate" xml:space="preserve">
-    <value>Niet in staat om licensie te activeren. Verbinding naar licensie server mislukt. Probeer later nog eens of gebruik handmatige activatie. Als u problemen blijft houden, contacteer Technisch Support.</value>
+    <value>Niet in staat om licensie te activeren. Verbinding naar licensie server mislukt. Probeer later nog eens of gebruik handmatige activatie. Als je problemen blijft houden, contacteer Technisch Support.</value>
   </data>
   <data name="Error.ContactServer.canrenew" xml:space="preserve">
-    <value>Verbinding met licensie server mislukt. U bent niet in staat om automatisch licensies te activeren en vernieuwen.  U kunt handmatige activatie gebruiken om een licensie te activeren. &lt;br /&gt;&lt;br /&gt; Voor licensie vernieuwing contacteer &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
+    <value>Verbinding met licensie server mislukt. Je bent niet in staat om automatisch licensies te activeren en vernieuwen. Je kunt handmatige activatie gebruiken om een licensie te activeren. &lt;br /&gt;&lt;br /&gt; Voor licensie vernieuwing contacteer &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
   </data>
   <data name="Error.ContactServer.deactivate" xml:space="preserve">
     <value>Uw licensie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen terug naar je invoice als verbinding naar licensie server mislukt. Contacteer Technisch Support voor licensie activatie.</value>
@@ -109,7 +109,7 @@
     <value>Over</value>
   </data>
   <data name="NoLicense.Header" xml:space="preserve">
-    <value>U heeft (nog) geen EVOQ licensies...</value>
+    <value>Je hebt (nog) geen EVOQ licensies...</value>
   </data>
   <data name="NoLicense.Text" xml:space="preserve">
     <value>Upgrade naar EVOQ hieronder om toegang te krijgen tot professionele features op je sites.</value>
@@ -127,10 +127,10 @@
     <value>Uw licensie is succesvol verwijderd.</value>
   </data>
   <data name="Success.LicenseDeactivatedContactServerErr" xml:space="preserve">
-    <value>Uw licensie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan je invoice als verbinding naar licensie server mislukt. Als u een productie licensie moet activeren, contacteer Technisch Support.</value>
+    <value>Uw licensie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan je invoice als verbinding naar licensie server mislukt. Als je een productie licensie moet activeren, contacteer Technisch Support.</value>
   </data>
   <data name="Success.LicenseDeactivatedNoActivationIncrease" xml:space="preserve">
-    <value>Uw licensie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan invoice. Als u een productie licensie moet activeren, contacteer Technisch Support.</value>
+    <value>Uw licensie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan invoice. Als je een productielicensie moet activeren, contacteer Technisch Support.</value>
   </data>
   <data name="Success.LicenseRenewed" xml:space="preserve">
     <value>Uw licensie is succesvol vernieuwd.</value>

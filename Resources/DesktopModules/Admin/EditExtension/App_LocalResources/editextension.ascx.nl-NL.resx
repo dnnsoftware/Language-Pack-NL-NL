@@ -85,16 +85,16 @@
     <value>Pakketten moeten een unieke naam hebben.</value>
   </data>
   <data name="EditHelp.Text" xml:space="preserve">
-    <value>In dit gedeelte kunt u de pakketinformatie voor deze uitbreiding configureren.</value>
+    <value>In dit gedeelte kun je de pakketinformatie voor deze uitbreiding configureren.</value>
   </data>
   <data name="EditLanguageHelp.Text" xml:space="preserve">
-    <value>In dit gedeelte kunt u de pakketinformatie voor dit taalpakket configureren.</value>
+    <value>In dit gedeelte kun je de pakketinformatie voor dit taalpakket configureren.</value>
   </data>
   <data name="EditModuleHelp.Text" xml:space="preserve">
-    <value>In dit gedeelte kunt u de pakketinformatie voor deze module configureren.</value>
+    <value>In dit gedeelte kun je de pakketinformatie voor deze module configureren.</value>
   </data>
   <data name="EditSkinHelp.Text" xml:space="preserve">
-    <value>In dit gedeelte kunt u de pakketinformatie voor dit thema configureren.</value>
+    <value>In dit gedeelte kun je de pakketinformatie voor dit thema configureren.</value>
   </data>
   <data name="EditTitle.Text" xml:space="preserve">
     <value>Details uitbreiding</value>

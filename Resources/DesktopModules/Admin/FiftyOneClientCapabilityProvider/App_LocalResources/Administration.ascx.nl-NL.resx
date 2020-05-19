@@ -41,7 +41,7 @@
     <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Het licentiebestand '{1}' kon niet worden geschreven naar deze websites bin map '{2}'. Maak een tekstbestand met de bestandsextensie .lic en plak de licentiesleutel in het bestand. Sla het tekstbestand in de bin-map.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="ActivationFailureGenericHtml.Text" lastModified="2020-05-17 16:50:47">
-    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Oeps. Er was een probleem om de licentiesleutel te activeren. We zijn niet zeker waarom de licentiesleutel niet kon worden geactiveerd. Neem dan &lt;a href="http://51degrees.mobi/AboutUs/ContactUs.aspx"&gt;contact met ons&lt;/a&gt; op en verstrek details van je website-implementatie en wij zullen proberen u te  helpen.&lt;/p&gt;&lt;/div&gt;</value>
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Oeps. Er was een probleem om de licentiesleutel te activeren. We zijn niet zeker waarom de licentiesleutel niet kon worden geactiveerd. Neem dan &lt;a href="http://51degrees.mobi/AboutUs/ContactUs.aspx"&gt;contact met ons&lt;/a&gt; op en verstrek details van je website-implementatie en wij zullen proberen je te helpen.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="ActivationFailureHttpHtml.Text" lastModified="2020-05-17 16:50:47">
     <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;We konden de 51Degrees.mobi licentie niet bereiken tijdens validatie van de website op de host '{1}'. Dit zou kunnen komen door een van de volgende redenen.&lt;/p&gt;

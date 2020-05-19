@@ -16,7 +16,7 @@
     <value>Toepassen</value>
   </data>
   <data name="ApplyConfirm.Text" xml:space="preserve">
-    <value>Weet u zeker dat u dit thema wilt toepassen?</value>
+    <value>Weet je zeker dat je dit thema wilt toepassen?</value>
   </data>
   <data name="ApplyTheme.Text" xml:space="preserve">
     <value>Toepassen</value>
@@ -37,7 +37,7 @@
     <value>Containers</value>
   </data>
   <data name="DeleteConfirm.Text" xml:space="preserve">
-    <value>Weet u zeker dat u dit thema wilt verwijderen?</value>
+    <value>Weet je zeker dat je dit thema wilt verwijderen?</value>
   </data>
   <data name="DeleteTheme.Text" xml:space="preserve">
     <value>Verwijderen</value>
@@ -70,7 +70,7 @@
     <value>-- Selecteren --</value>
   </data>
   <data name="NoPermission.Text" xml:space="preserve">
-    <value>U heeft geen toestemming om deze actie uit te voeren.</value>
+    <value>Je hebt geen toestemming om deze actie uit te voeren.</value>
   </data>
   <data name="NoThemeFile.Text" xml:space="preserve">
     <value>Geen thema bestanden bestaan binnen dit thema.</value>
@@ -94,7 +94,7 @@
     <value>[ Herstel standaard thema ]</value>
   </data>
   <data name="RestoreThemeConfirm.Text" xml:space="preserve">
-    <value>Weet u zeker dat u  het standaard thema wilt herstelllen?</value>
+    <value>Weet je zeker dat je  het standaard thema wilt herstelllen?</value>
   </data>
   <data name="SearchPlaceHolder.Text" xml:space="preserve">
     <value>Zoeken</value>

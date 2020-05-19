@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessDenied.Text" xml:space="preserve">
-    <value>U bent momenteel niet ingelogd, of u heeft geen toestemming om de inhoud te kunnen bekijken.</value>
+    <value>Je bent momenteel niet ingelogd, of je hebt geen toestemming om de inhoud te kunnen bekijken.</value>
   </data>
   <data name="ControlTitle_access denied.Text" xml:space="preserve">
     <value>Toegang is geweigerd</value>

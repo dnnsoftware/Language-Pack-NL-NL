@@ -31,7 +31,7 @@
     <value>Verwijderen</value>
   </data>
   <data name="DeleteGroup.Confirm" xml:space="preserve">
-    <value>Wwet u zeker dat u deze sitegroep wilt verwijderen?</value>
+    <value>Wwet je zeker dat je deze sitegroep wilt verwijderen?</value>
   </data>
   <data name="Description.Help" xml:space="preserve">
     <value>Omschrijf de site</value>

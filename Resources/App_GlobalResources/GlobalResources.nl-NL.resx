@@ -631,7 +631,7 @@ De toegang van je gebruikersaccount voor de [Portal:PortalName] site is recentel
 
 Rol: [Custom:0]
 Beschrijving: [Custom:1]
-Dank u voor het in ons gestelde vertrouwen,
+Dank je voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 
 Dank voor het in ons gestelde vertrouwen,
@@ -1308,7 +1308,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Markeer als niet vertaald</value>
   </data>
   <data name="UrlPathNotUnique.Error" xml:space="preserve">
-    <value>De toegevoegde URL is niet beschikbaar. Als u het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
+    <value>De toegevoegde URL is niet beschikbaar. Als je het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
   </data>
   <data name="UserRelationship_Added.Text" xml:space="preserve">
     <value>Toegevoegd UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>

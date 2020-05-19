@@ -19,16 +19,16 @@
     <value>Toon modulecontrol bron</value>
   </data>
   <data name="NoFileTypeSelected.Text" xml:space="preserve">
-    <value>U moet een bestandstype selecteren voordat u op de knop bijwerken drukt.</value>
+    <value>Je moet een bestandstype selecteren voordat je op de knop bijwerken drukt.</value>
   </data>
   <data name="plFile.Help" xml:space="preserve">
-    <value>Selecteer het bestand waarvan u de bron wilt weergegeven.</value>
+    <value>Selecteer het bestand waarvan je de bron wilt weergegeven.</value>
   </data>
   <data name="plFile.Text" xml:space="preserve">
     <value>Selecteer bestand:</value>
   </data>
   <data name="plSource.Help" xml:space="preserve">
-    <value>U kunt de broncode van de module besturingselement in het tekstvak hieronder bekijken. Als u werkt op een lokale computer dan kun je ook bewerken en de bron te wijzigen.</value>
+    <value>Je kunt de broncode van de module besturingselement in het tekstvak hieronder bekijken. Als je werkt op een lokale computer dan kun je ook bewerken en de bron te wijzigen.</value>
   </data>
   <data name="plSource.Text" xml:space="preserve">
     <value>Module besturingselement:</value>
