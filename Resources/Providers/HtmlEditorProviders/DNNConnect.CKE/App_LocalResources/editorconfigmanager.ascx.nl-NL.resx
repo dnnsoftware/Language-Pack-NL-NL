@@ -12,22 +12,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="$this.DefaultModifiers" lastModified="2015-12-30 05:08:46">
-    <value xml:space="preserve">Privé</value>
+  <data name="$this.DefaultModifiers" xml:space="preserve">
+    <value>Privé</value>
   </data>
-  <data name="$this.TrayAutoArrange" lastModified="2015-12-30 05:08:46">
-    <value xml:space="preserve">Waar</value>
+  <data name="$this.TrayAutoArrange" xml:space="preserve">
+    <value>Waar</value>
   </data>
-  <data name="$this.TrayLargeIcon" lastModified="2015-12-30 05:08:46">
-    <value xml:space="preserve">Onwaar</value>
+  <data name="$this.TrayLargeIcon" xml:space="preserve">
+    <value>Onwaar</value>
   </data>
-  <data name="EditorMangerName.Text" lastModified="2020-05-14 08:48:50">
-    <value xml:space="preserve">CKEditor provider configuratiebeheerder</value>
+  <data name="EditorMangerName.Text" xml:space="preserve">
+    <value>CKEditor provider configuratiebeheerder</value>
   </data>
-  <data name="EditorMangerPageDescription.Text" lastModified="2020-05-14 08:48:50">
-    <value xml:space="preserve">De configuratieopties voor de HTML editor provider.</value>
+  <data name="EditorMangerPageDescription.Text" xml:space="preserve">
+    <value>De configuratieopties voor de HTML editor provider.</value>
   </data>
-  <data name="EditorMangerPageName.Text" lastModified="2015-12-30 05:08:46">
-    <value xml:space="preserve">HTML Editor Beheerder</value>
+  <data name="EditorMangerPageName.Text" xml:space="preserve">
+    <value>HTML Editor Beheerder</value>
   </data>
 </root>

@@ -12,82 +12,82 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CanNotDeleteModule.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">U hebt geen rechten om de module met id "{0}" te verwijderen.</value>
+  <data name="CanNotDeleteModule.Text" xml:space="preserve">
+    <value>U hebt geen rechten om de module met id "{0}" te verwijderen.</value>
   </data>
-  <data name="CanNotDeleteTab.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">U hebt geen rechten om de pagina met id "{0}" te verwijderen.</value>
+  <data name="CanNotDeleteTab.Text" xml:space="preserve">
+    <value>U hebt geen rechten om de pagina met id "{0}" te verwijderen.</value>
   </data>
-  <data name="ModuleNotFound.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Module met id "{0}" is niet gevonden op pagina "{1}".</value>
+  <data name="ModuleNotFound.Text" xml:space="preserve">
+    <value>Module met id "{0}" is niet gevonden op pagina "{1}".</value>
   </data>
-  <data name="ModuleNotSoftDeleted.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Moduele met id "{0}" is niet soft-verwijderd.</value>
+  <data name="ModuleNotSoftDeleted.Text" xml:space="preserve">
+    <value>Moduele met id "{0}" is niet soft-verwijderd.</value>
   </data>
-  <data name="nav_Recyclebin.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Prullenbak</value>
+  <data name="nav_Recyclebin.Text" xml:space="preserve">
+    <value>Prullenbak</value>
   </data>
-  <data name="PageNotFound.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Pagina met id "{0}" is niet gevonden. &lt;br/&gt;</value>
+  <data name="PageNotFound.Text" xml:space="preserve">
+    <value>Pagina met id "{0}" is niet gevonden. &lt;br/&gt;</value>
   </data>
-  <data name="PageNotFoundWithName.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Pagina met naam "{0}" is niet gevonden.&lt;br/&gt;</value>
+  <data name="PageNotFoundWithName.Text" xml:space="preserve">
+    <value>Pagina met naam "{0}" is niet gevonden.&lt;br/&gt;</value>
   </data>
-  <data name="Prompt_CannotPurgeUser.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Kan niet verwijderde gebruiker niet opschonen. Probeer delete-user.</value>
+  <data name="Prompt_CannotPurgeUser.Text" xml:space="preserve">
+    <value>Kan niet verwijderde gebruiker niet opschonen. Probeer delete-user.</value>
   </data>
-  <data name="Prompt_FlagNotInt.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">--{0} moet een integer zijn\n</value>
+  <data name="Prompt_FlagNotInt.Text" xml:space="preserve">
+    <value>--{0} moet een integer zijn\n</value>
   </data>
-  <data name="Prompt_FlagNotPositiveInt.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">--{0} moet groter dan 0 zijn\n</value>
+  <data name="Prompt_FlagNotPositiveInt.Text" xml:space="preserve">
+    <value>--{0} moet groter dan 0 zijn\n</value>
   </data>
-  <data name="Prompt_FlagRequired.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">--{0} is vereist\n</value>
+  <data name="Prompt_FlagRequired.Text" xml:space="preserve">
+    <value>--{0} is vereist\n</value>
   </data>
-  <data name="Prompt_MainParamRequired.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">De {0} is vereist. Gelieve de --{1} markering te gebruiken of geeft het mee als het eerste argument na de opdrachtnaam\n</value>
+  <data name="Prompt_MainParamRequired.Text" xml:space="preserve">
+    <value>De {0} is vereist. Gelieve de --{1} markering te gebruiken of geeft het mee als het eerste argument na de opdrachtnaam\n</value>
   </data>
-  <data name="Prompt_ModulePurgedSuccessfully.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Module met id "{0}" met succes opgeschoond.</value>
+  <data name="Prompt_ModulePurgedSuccessfully.Text" xml:space="preserve">
+    <value>Module met id "{0}" met succes opgeschoond.</value>
   </data>
-  <data name="Prompt_ModuleRestoredSuccessfully.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Module met id "{0}" met succes hersteld.</value>
+  <data name="Prompt_ModuleRestoredSuccessfully.Text" xml:space="preserve">
+    <value>Module met id "{0}" met succes hersteld.</value>
   </data>
-  <data name="Prompt_PagePurgedSuccessfully.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Pagina met id "{0}" met succes opgeschoond.</value>
+  <data name="Prompt_PagePurgedSuccessfully.Text" xml:space="preserve">
+    <value>Pagina met id "{0}" met succes opgeschoond.</value>
   </data>
-  <data name="Prompt_PageRestoredSuccessfully.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Pagina met id "{0}" en naam "{1}" met succes hersteld.</value>
+  <data name="Prompt_PageRestoredSuccessfully.Text" xml:space="preserve">
+    <value>Pagina met id "{0}" en naam "{1}" met succes hersteld.</value>
   </data>
-  <data name="Prompt_PurgeModule_Description.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Verwijdert een module permanent. De module zou eerst soft-verwijderd moeten worden.</value>
+  <data name="Prompt_PurgeModule_Description.Text" xml:space="preserve">
+    <value>Verwijdert een module permanent. De module zou eerst soft-verwijderd moeten worden.</value>
   </data>
-  <data name="Prompt_PurgeModule_FlagId.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Geeft expliciet het module ID van de module die permanent verwijderd moet worden. Gebruik van de markering is niet nodig. U kunt eenvoudig de ID-waarde opgeven als het eerste argument.</value>
+  <data name="Prompt_PurgeModule_FlagId.Text" xml:space="preserve">
+    <value>Geeft expliciet het module ID van de module die permanent verwijderd moet worden. Gebruik van de markering is niet nodig. U kunt eenvoudig de ID-waarde opgeven als het eerste argument.</value>
   </data>
-  <data name="Prompt_PurgeModule_FlagPageId.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Geeft expliciet het pagina ID op welke de module origineel was toegevoegd.</value>
+  <data name="Prompt_PurgeModule_FlagPageId.Text" xml:space="preserve">
+    <value>Geeft expliciet het pagina ID op welke de module origineel was toegevoegd.</value>
   </data>
-  <data name="Prompt_PurgeModule_ResultHtml.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">&lt;h4&gt;Schoon een specifieke module op&lt;/h4&gt;
+  <data name="Prompt_PurgeModule_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Schoon een specifieke module op&lt;/h4&gt;
         &lt;p&gt;De code hieronder schoont de module met module ID 359 op&lt;/p&gt;
         &lt;code class="block"&gt;purge-module 359 --pageid 20&lt;/code&gt;
 
         &lt;h4&gt;Resultaten&lt;/h4&gt;
         Module met id "359" met succes opgeschoond.</value>
   </data>
-  <data name="Prompt_PurgePage_Description.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Verwijdert permanent een pagina van de site die eerder verwijderd is en naar de prullenbak is gestuurd.</value>
+  <data name="Prompt_PurgePage_Description.Text" xml:space="preserve">
+    <value>Verwijdert permanent een pagina van de site die eerder verwijderd is en naar de prullenbak is gestuurd.</value>
   </data>
-  <data name="Prompt_PurgePage_FlagDeleteChildren.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Specificeert als een pagina onderliggende pagina's heeft, of de opdracht ze allen moet verwijderen of een fout moet weergeven.</value>
+  <data name="Prompt_PurgePage_FlagDeleteChildren.Text" xml:space="preserve">
+    <value>Specificeert als een pagina onderliggende pagina's heeft, of de opdracht ze allen moet verwijderen of een fout moet weergeven.</value>
   </data>
-  <data name="Prompt_PurgePage_FlagId.Text" lastModified="2018-07-23 21:14:13">
-    <value xml:space="preserve">Geeft expliciet het te verwijderen pagina-ID op. Gebruik van de markeringnaam is niet vereist. U kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
+  <data name="Prompt_PurgePage_FlagId.Text" xml:space="preserve">
+    <value>Geeft expliciet het te verwijderen pagina-ID op. Gebruik van de markeringnaam is niet vereist. U kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
   </data>
-  <data name="Prompt_PurgePage_ResultHtml.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">&lt;div&gt;
+  <data name="Prompt_PurgePage_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;div&gt;
         &lt;h4&gt;Schoon een verwijderde pagina op basis van ID op&lt;/h4&gt;
         &lt;code class="block"&gt;
             purge-page 999
@@ -103,55 +103,55 @@
         &lt;/code&gt;
     &lt;/div&gt;</value>
   </data>
-  <data name="Prompt_PurgeUser_Description.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Verwijdert de opgegeven gebruiker permanent van de site. De gebruiker &lt;strong&gt;moet&lt;/strong&gt; al verwijderd zijn. Als u een opdracht &lt;code&gt;get-user&lt;/code&gt; uitvoert en de eigenschap &lt;code&gt;IsDeleted&lt;/code&gt; niet &lt;code&gt; true &lt;/ code&gt; is, krijgt u een foutmelding bij het uitvoeren van deze opdracht. U moet eerst de opdracht &lt;code&gt;delete-user&lt;/code&gt; op de gebruiker gebruiken.</value>
+  <data name="Prompt_PurgeUser_Description.Text" xml:space="preserve">
+    <value>Verwijdert de opgegeven gebruiker permanent van de site. De gebruiker &lt;strong&gt;moet&lt;/strong&gt; al verwijderd zijn. Als u een opdracht &lt;code&gt;get-user&lt;/code&gt; uitvoert en de eigenschap &lt;code&gt;IsDeleted&lt;/code&gt; niet &lt;code&gt; true &lt;/ code&gt; is, krijgt u een foutmelding bij het uitvoeren van deze opdracht. U moet eerst de opdracht &lt;code&gt;delete-user&lt;/code&gt; op de gebruiker gebruiken.</value>
   </data>
-  <data name="Prompt_PurgeUser_FlagId.Text" lastModified="2018-07-24 13:45:42">
-    <value xml:space="preserve">Het gebruikers-ID van de gebruiker. Als de markering niet wordt gebruikt, moet het ID van de gebruiker het eerste argument zijn.</value>
+  <data name="Prompt_PurgeUser_FlagId.Text" xml:space="preserve">
+    <value>Het gebruikers-ID van de gebruiker. Als de markering niet wordt gebruikt, moet het ID van de gebruiker het eerste argument zijn.</value>
   </data>
-  <data name="Prompt_PurgeUser_ResultHtml.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">&lt;h4&gt;Verwijdert een gebruiker permanent&lt;/h4&gt;
+  <data name="Prompt_PurgeUser_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Verwijdert een gebruiker permanent&lt;/h4&gt;
     &lt;p&gt;Verwijdert de gebruiker met GebruikersID van 345 permanent.  Als u het commando ode&gt;get-user 345&lt;/code&gt; uitvoert krijgt u een 'gebruiker niet gevonden' bericht.. &lt;/p&gt;
     &lt;code class="block"&gt;purge-user 345&lt;/code&gt;
     &lt;p&gt;Dit is de nauwkeurigerer vorm van de bovenstaande code.&lt;/p&gt;
     &lt;code class="block"&gt;purge-user --id 345&lt;/code&gt;</value>
   </data>
-  <data name="Prompt_RecylcleBinCategory.Text" lastModified="2018-07-24 09:43:04">
-    <value xml:space="preserve">Prullenbak Opdrachten</value>
+  <data name="Prompt_RecylcleBinCategory.Text" xml:space="preserve">
+    <value>Prullenbak Opdrachten</value>
   </data>
-  <data name="Prompt_RestoreModule_Description.Text" lastModified="2018-07-24 09:43:04">
-    <value xml:space="preserve">Herstelt een module uit de DNN Prullenbak.</value>
+  <data name="Prompt_RestoreModule_Description.Text" xml:space="preserve">
+    <value>Herstelt een module uit de DNN Prullenbak.</value>
   </data>
-  <data name="Prompt_RestoreModule_FlagId.Text" lastModified="2018-07-24 09:43:04">
-    <value xml:space="preserve">Geeft expliciet het module Id van de module die opgehaald moet worden. Gebruik van de markering is niet nodig. U kunt eenvoudig de waarde van het ID als eerste argument opgeven.</value>
+  <data name="Prompt_RestoreModule_FlagId.Text" xml:space="preserve">
+    <value>Geeft expliciet het module Id van de module die opgehaald moet worden. Gebruik van de markering is niet nodig. U kunt eenvoudig de waarde van het ID als eerste argument opgeven.</value>
   </data>
-  <data name="Prompt_RestoreModule_FlagPageId.Text" lastModified="2018-07-24 09:43:04">
-    <value xml:space="preserve">Het pagina-ID van de pagina waarop de module die u wilt terugzetten zich bevond vóór verwijdering.</value>
+  <data name="Prompt_RestoreModule_FlagPageId.Text" xml:space="preserve">
+    <value>Het pagina-ID van de pagina waarop de module die u wilt terugzetten zich bevond vóór verwijdering.</value>
   </data>
-  <data name="Prompt_RestoreModule_ResultHtml.Text" lastModified="2018-07-24 09:43:04">
-    <value xml:space="preserve">&lt;h4&gt;Herstel een module uit de Prullenbak&lt;/h4&gt;
+  <data name="Prompt_RestoreModule_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Herstel een module uit de Prullenbak&lt;/h4&gt;
         &lt;code class="block"&gt;restore-module 359 --pageid 71&lt;/code&gt;
 
         &lt;h4&gt;Resultaten&lt;/h4&gt;
         Module met "359" met succes hersteld.</value>
   </data>
-  <data name="Prompt_RestoreNotRequired.Text" lastModified="2018-07-24 09:43:04">
-    <value xml:space="preserve">Gebruiker niet verwijderd. Herstellen niet nodig.</value>
+  <data name="Prompt_RestoreNotRequired.Text" xml:space="preserve">
+    <value>Gebruiker niet verwijderd. Herstellen niet nodig.</value>
   </data>
-  <data name="Prompt_RestorePage_Description.Text" lastModified="2018-07-24 09:43:04">
-    <value xml:space="preserve">Herstelt een pagina uit de DNN Prullenbak.</value>
+  <data name="Prompt_RestorePage_Description.Text" xml:space="preserve">
+    <value>Herstelt een pagina uit de DNN Prullenbak.</value>
   </data>
-  <data name="Prompt_RestorePage_FlagId.Text" lastModified="2018-07-24 09:43:04">
-    <value xml:space="preserve">Geeft expliciet het pagina-ID aan die moet worden verwijderd. Gebruik van de markeringnaam is niet vereist. U kunt eenvoudig de ID-waarde als het eerste argument opgeven. Vereist als &lt;span class="mono"&gt;-parentid&lt;/span&gt; en &lt;span class="mono"&gt;-name&lt;/span&gt; niet zijn opgegeven.</value>
+  <data name="Prompt_RestorePage_FlagId.Text" xml:space="preserve">
+    <value>Geeft expliciet het pagina-ID aan die moet worden verwijderd. Gebruik van de markeringnaam is niet vereist. U kunt eenvoudig de ID-waarde als het eerste argument opgeven. Vereist als &lt;span class="mono"&gt;-parentid&lt;/span&gt; en &lt;span class="mono"&gt;-name&lt;/span&gt; niet zijn opgegeven.</value>
   </data>
-  <data name="Prompt_RestorePage_FlagName.Text" lastModified="2018-07-24 09:43:04">
-    <value xml:space="preserve">Specificeert de naam (niet de titel) van de pagina die moet worden hersteld. Dit kan worden gecombineerd met &lt;span class="mono"&gt;-parentid&lt;/span&gt; om een paginanaam te targeten met een specifieke bovenliggende pagina. Vereist als &lt;span class = "mono"&gt; - parentid &lt;/ span&gt; en &lt;span class = "mono"&gt; - name &lt;/ span&gt; niet zijn opgegeven.</value>
+  <data name="Prompt_RestorePage_FlagName.Text" xml:space="preserve">
+    <value>Specificeert de naam (niet de titel) van de pagina die moet worden hersteld. Dit kan worden gecombineerd met &lt;span class="mono"&gt;-parentid&lt;/span&gt; om een paginanaam te targeten met een specifieke bovenliggende pagina. Vereist als &lt;span class = "mono"&gt; - parentid &lt;/ span&gt; en &lt;span class = "mono"&gt; - name &lt;/ span&gt; niet zijn opgegeven.</value>
   </data>
-  <data name="Prompt_RestorePage_FlagParentId.Text" lastModified="2018-07-24 09:43:04">
-    <value xml:space="preserve">Vereist als u een pagina op naam wilt verwijderen en de pagina is een onderliggende pagina van een andere pagina. Geef in dat geval het ID van de bovenliggende pagina op.</value>
+  <data name="Prompt_RestorePage_FlagParentId.Text" xml:space="preserve">
+    <value>Vereist als u een pagina op naam wilt verwijderen en de pagina is een onderliggende pagina van een andere pagina. Geef in dat geval het ID van de bovenliggende pagina op.</value>
   </data>
-  <data name="Prompt_RestorePage_ResultHtml.Text" lastModified="2018-07-24 09:43:04">
-    <value xml:space="preserve">&lt;div&gt;
+  <data name="Prompt_RestorePage_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;div&gt;
         &lt;h4&gt;Herstel een verwijderde pagina op basis van Pagina-ID&lt;/h4&gt;
         &lt;code class="block"&gt;
             restore-page 999
@@ -172,173 +172,173 @@
         &lt;/code&gt;
     &lt;/div&gt;</value>
   </data>
-  <data name="Prompt_RestorePageNoParams.Text" lastModified="2018-07-24 09:43:04">
-    <value xml:space="preserve">U moet een pagina-ID of paginanaam opgeven.</value>
+  <data name="Prompt_RestorePageNoParams.Text" xml:space="preserve">
+    <value>U moet een pagina-ID of paginanaam opgeven.</value>
   </data>
-  <data name="Prompt_RestoreUser_Description.Text" lastModified="2018-07-24 11:45:01">
-    <value xml:space="preserve">Herstelt een gebruiker die is verwijderd maar niet is opgeschoond.</value>
+  <data name="Prompt_RestoreUser_Description.Text" xml:space="preserve">
+    <value>Herstelt een gebruiker die is verwijderd maar niet is opgeschoond.</value>
   </data>
-  <data name="Prompt_RestoreUser_FlagId.Text" lastModified="2018-07-24 11:45:01">
-    <value xml:space="preserve">Het gebruikers-ID van de gebruiker. Als de markering niet wordt gebruikt, moet hetID van de gebruiker het eerste argument zijn.</value>
+  <data name="Prompt_RestoreUser_FlagId.Text" xml:space="preserve">
+    <value>Het gebruikers-ID van de gebruiker. Als de markering niet wordt gebruikt, moet hetID van de gebruiker het eerste argument zijn.</value>
   </data>
-  <data name="Prompt_RestoreUser_ResultHtml.Text" lastModified="2018-07-24 11:45:01">
-    <value xml:space="preserve">&lt;h4&gt;Herstel een verwijderde gebruiker&lt;/h4&gt;
+  <data name="Prompt_RestoreUser_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Herstel een verwijderde gebruiker&lt;/h4&gt;
          &lt;p&gt;RHerstelt de gebruiker met een gebruikers-ID van 345. Als de gebruiker niet is verwijderd, ontvangt u een bericht dat aangeeft dat er niets te herstellen is. Als de gebruiker al is opgeschoond (of 'verwijderd' via de gebruikersinterface van DNN, ontvangt u een bericht 'gebruiker niet gevonden'. &lt;/p&gt;
         &lt;code class="block"&gt;restore-user 345&lt;/code&gt;
         &lt;p&gt;Dit is de meer expliciete vorm van de bovenstaande code.&lt;/p&gt;
         &lt;code class="block"&gt;restore-user --id 345&lt;/code&gt;</value>
   </data>
-  <data name="Prompt_UserPurged.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">De Gebruiker is permanent verwijderd van de site.</value>
+  <data name="Prompt_UserPurged.Text" xml:space="preserve">
+    <value>De Gebruiker is permanent verwijderd van de site.</value>
   </data>
-  <data name="recyclebin_Actions.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Acties</value>
+  <data name="recyclebin_Actions.Text" xml:space="preserve">
+    <value>Acties</value>
   </data>
-  <data name="recyclebin_CancelConfirm.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Nee</value>
+  <data name="recyclebin_CancelConfirm.Text" xml:space="preserve">
+    <value>Nee</value>
   </data>
-  <data name="recyclebin_Delete.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Verwijderen</value>
+  <data name="recyclebin_Delete.Text" xml:space="preserve">
+    <value>Verwijderen</value>
   </data>
-  <data name="recyclebin_DeleteConfirm.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Ja</value>
+  <data name="recyclebin_DeleteConfirm.Text" xml:space="preserve">
+    <value>Ja</value>
   </data>
-  <data name="recyclebin_DeletedDate.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Datum</value>
+  <data name="recyclebin_DeletedDate.Text" xml:space="preserve">
+    <value>Datum</value>
   </data>
-  <data name="recyclebin_EmptyRecycleBin.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Legen prullenbak</value>
+  <data name="recyclebin_EmptyRecycleBin.Text" xml:space="preserve">
+    <value>Legen prullenbak</value>
   </data>
-  <data name="recyclebin_EmptyRecycleBinConfirm.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Wilt u alle bestanden in de prullenbak legen?</value>
+  <data name="recyclebin_EmptyRecycleBinConfirm.Text" xml:space="preserve">
+    <value>Wilt u alle bestanden in de prullenbak legen?</value>
   </data>
-  <data name="recyclebin_Modules.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Modules</value>
+  <data name="recyclebin_Modules.Text" xml:space="preserve">
+    <value>Modules</value>
   </data>
-  <data name="recyclebin_ModuleTitle.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Module Titel</value>
+  <data name="recyclebin_ModuleTitle.Text" xml:space="preserve">
+    <value>Module Titel</value>
   </data>
-  <data name="recyclebin_NoConfirm.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Nee</value>
+  <data name="recyclebin_NoConfirm.Text" xml:space="preserve">
+    <value>Nee</value>
   </data>
-  <data name="recyclebin_NoItems.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">De prullenbak is momenteel leeg</value>
+  <data name="recyclebin_NoItems.Text" xml:space="preserve">
+    <value>De prullenbak is momenteel leeg</value>
   </data>
-  <data name="recyclebin_NoModules.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Geen modules in de Prullenbak</value>
+  <data name="recyclebin_NoModules.Text" xml:space="preserve">
+    <value>Geen modules in de Prullenbak</value>
   </data>
-  <data name="recyclebin_NoPages.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Geen pagina's in de Prullenbak</value>
+  <data name="recyclebin_NoPages.Text" xml:space="preserve">
+    <value>Geen pagina's in de Prullenbak</value>
   </data>
-  <data name="recyclebin_NoUsers.Text">
-    <value xml:space="preserve">Geen gebruikers in de Prullenbak</value>
+  <data name="recyclebin_NoUsers.Text" xml:space="preserve">
+    <value>Geen gebruikers in de Prullenbak</value>
   </data>
-  <data name="recyclebin_Page.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Pagina</value>
+  <data name="recyclebin_Page.Text" xml:space="preserve">
+    <value>Pagina</value>
   </data>
-  <data name="recyclebin_Pages.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Pagina's</value>
+  <data name="recyclebin_Pages.Text" xml:space="preserve">
+    <value>Pagina's</value>
   </data>
-  <data name="recyclebin_RemoveModuleConfirm.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">&lt;p&gt;Bevestig dat u deze module wenst de verwijderen.&lt;/p&gt;</value>
+  <data name="recyclebin_RemoveModuleConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Bevestig dat u deze module wenst de verwijderen.&lt;/p&gt;</value>
   </data>
-  <data name="recyclebin_RemoveModulesConfirm.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">&lt;p&gt;Bevestig dat u deze modules wenst te verwijderen.&lt;/p&gt;</value>
+  <data name="recyclebin_RemoveModulesConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Bevestig dat u deze modules wenst te verwijderen.&lt;/p&gt;</value>
   </data>
-  <data name="recyclebin_RemovePageConfirm.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">&lt;p&gt;Bevestig dat u deze pagina wilt verwijderen.&lt;/p&gt;</value>
+  <data name="recyclebin_RemovePageConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Bevestig dat u deze pagina wilt verwijderen.&lt;/p&gt;</value>
   </data>
-  <data name="recyclebin_RemovePagesConfirm.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">&lt;p&gt;Bevestig dat u de geselecteerde pagina's wilt verwijderen.&lt;/p&gt;</value>
+  <data name="recyclebin_RemovePagesConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Bevestig dat u de geselecteerde pagina's wilt verwijderen.&lt;/p&gt;</value>
   </data>
-  <data name="recyclebin_RemoveUserConfirm.Text">
-    <value xml:space="preserve">&lt;p&gt;Bevestig dat u deze gebruiker wilt verwijderen.&lt;/p&gt;</value>
+  <data name="recyclebin_RemoveUserConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Bevestig dat u deze gebruiker wilt verwijderen.&lt;/p&gt;</value>
   </data>
-  <data name="recyclebin_RemoveUsersConfirm.Text">
-    <value xml:space="preserve">&lt;p&gt;Bevestig dat u de geselecteerd gebruiker wilt verwijderen.&lt;/p&gt;</value>
+  <data name="recyclebin_RemoveUsersConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Bevestig dat u de geselecteerd gebruiker wilt verwijderen.&lt;/p&gt;</value>
   </data>
-  <data name="recyclebin_Restore.Text" lastModified="2016-12-01 04:10:27">
-    <value xml:space="preserve">Herstellen</value>
+  <data name="recyclebin_Restore.Text" xml:space="preserve">
+    <value>Herstellen</value>
   </data>
-  <data name="recyclebin_RestoreModuleConfirm.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">&lt;p&gt;Bevestig dat u deze module wilt herstellen.&lt;/p&gt;</value>
+  <data name="recyclebin_RestoreModuleConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Bevestig dat u deze module wilt herstellen.&lt;/p&gt;</value>
   </data>
-  <data name="recyclebin_RestoreModulesConfirm.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">&lt;p&gt;Bevestig dat u de geselecteerde modules wilt herstellen.&lt;/p&gt;</value>
+  <data name="recyclebin_RestoreModulesConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Bevestig dat u de geselecteerde modules wilt herstellen.&lt;/p&gt;</value>
   </data>
-  <data name="recyclebin_RestorePageConfirm.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">&lt;p&gt;Bevestig dat u deze pagina wilt herstellen.&lt;/p&gt;</value>
+  <data name="recyclebin_RestorePageConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Bevestig dat u deze pagina wilt herstellen.&lt;/p&gt;</value>
   </data>
-  <data name="recyclebin_RestorePageInvalid.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">U moet eerst de ouder pagina herstellen</value>
+  <data name="recyclebin_RestorePageInvalid.Text" xml:space="preserve">
+    <value>U moet eerst de ouder pagina herstellen</value>
   </data>
-  <data name="recyclebin_RestorePagesConfirm.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">&lt;p&gt;Bevestig dat u de geselecteerde pagina's wilt herstellen.&lt;/p&gt;</value>
+  <data name="recyclebin_RestorePagesConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Bevestig dat u de geselecteerde pagina's wilt herstellen.&lt;/p&gt;</value>
   </data>
-  <data name="recyclebin_RestorePagesInvalid.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">De pagina's die u probeerde te herstellen zou gelijk de ouder moeten selecteren.</value>
+  <data name="recyclebin_RestorePagesInvalid.Text" xml:space="preserve">
+    <value>De pagina's die u probeerde te herstellen zou gelijk de ouder moeten selecteren.</value>
   </data>
-  <data name="recyclebin_RestoreUserConfirm.Text">
-    <value xml:space="preserve">&lt;p&gt;Bevestig dat u deze gebruiker wilt herstellen.&lt;/p&gt;</value>
+  <data name="recyclebin_RestoreUserConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Bevestig dat u deze gebruiker wilt herstellen.&lt;/p&gt;</value>
   </data>
-  <data name="recyclebin_RestoreUsersConfirm.Text">
-    <value xml:space="preserve">&lt;p&gt;Bevestig dat u de geselecteerde gebruikers wilt herstellen.&lt;/p&gt;</value>
+  <data name="recyclebin_RestoreUsersConfirm.Text" xml:space="preserve">
+    <value>&lt;p&gt;Bevestig dat u de geselecteerde gebruikers wilt herstellen.&lt;/p&gt;</value>
   </data>
-  <data name="recyclebin_Title.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">Prullenbak</value>
+  <data name="recyclebin_Title.Text" xml:space="preserve">
+    <value>Prullenbak</value>
   </data>
-  <data name="recyclebin_UnableToSelectAllModules.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">Kan niet permanent een module verwijderen of herstellen waar de pagina van in de prullenbak zit.</value>
+  <data name="recyclebin_UnableToSelectAllModules.Text" xml:space="preserve">
+    <value>Kan niet permanent een module verwijderen of herstellen waar de pagina van in de prullenbak zit.</value>
   </data>
-  <data name="recyclebin_UserDisplayName.Text">
-    <value xml:space="preserve">Weergave naam</value>
+  <data name="recyclebin_UserDisplayName.Text" xml:space="preserve">
+    <value>Weergave naam</value>
   </data>
-  <data name="recyclebin_Username.Text">
-    <value xml:space="preserve">Gebruikersnaam</value>
+  <data name="recyclebin_Username.Text" xml:space="preserve">
+    <value>Gebruikersnaam</value>
   </data>
-  <data name="recyclebin_Users.Text">
-    <value xml:space="preserve">Gebruikers</value>
+  <data name="recyclebin_Users.Text" xml:space="preserve">
+    <value>Gebruikers</value>
   </data>
-  <data name="recyclebin_YesConfirm.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">Ja</value>
+  <data name="recyclebin_YesConfirm.Text" xml:space="preserve">
+    <value>Ja</value>
   </data>
-  <data name="Service_EmptyRecycleBinError.Text">
-    <value xml:space="preserve">Een aantal onderdelen zijn niet verwijderd.</value>
+  <data name="Service_EmptyRecycleBinError.Text" xml:space="preserve">
+    <value>Een aantal onderdelen zijn niet verwijderd.</value>
   </data>
-  <data name="Service_RemoveTabError.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">Pagina {0} kan niet worden verwijderd voordat de subpagina's eerst zijn verwijderd.&lt;br /&gt;</value>
+  <data name="Service_RemoveTabError.Text" xml:space="preserve">
+    <value>Pagina {0} kan niet worden verwijderd voordat de subpagina's eerst zijn verwijderd.&lt;br /&gt;</value>
   </data>
-  <data name="Service_RemoveTabModuleError.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">Fout onstaan bij het verwijderen van de pagina:&lt;br/&gt;{0}</value>
+  <data name="Service_RemoveTabModuleError.Text" xml:space="preserve">
+    <value>Fout onstaan bij het verwijderen van de pagina:&lt;br/&gt;{0}</value>
   </data>
-  <data name="Service_RemoveTabParentTabError" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Pagina {0} kan niet worden verwijderd totdat eerst de onderliggende pagina's zijn verwijderd.</value>
+  <data name="Service_RemoveTabParentTabError" xml:space="preserve">
+    <value>Pagina {0} kan niet worden verwijderd totdat eerst de onderliggende pagina's zijn verwijderd.</value>
   </data>
-  <data name="Service_RemoveTabWithChildError.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Pagina {0} kan niet worden verwijderd totdat eerst de onderliggende pagina's zijn verwijderd.</value>
+  <data name="Service_RemoveTabWithChildError.Text" xml:space="preserve">
+    <value>Pagina {0} kan niet worden verwijderd totdat eerst de onderliggende pagina's zijn verwijderd.</value>
   </data>
-  <data name="Service_RemoveUserError.Text">
-    <value xml:space="preserve">Er is een fout ontstaan bij het verwijderen van de gebruiker:&lt;br/&gt;{0}</value>
+  <data name="Service_RemoveUserError.Text" xml:space="preserve">
+    <value>Er is een fout ontstaan bij het verwijderen van de gebruiker:&lt;br/&gt;{0}</value>
   </data>
-  <data name="Service_RestoreModuleError.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">Fout herstellen module {0} op pagina {1}. Pagina is verwijderd.</value>
+  <data name="Service_RestoreModuleError.Text" xml:space="preserve">
+    <value>Fout herstellen module {0} op pagina {1}. Pagina is verwijderd.</value>
   </data>
-  <data name="Service_RestoreTabError.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">Pagina {0} kan niet worden hersteld voordat de ouder eerst is hersteld.&lt;br/&gt;</value>
+  <data name="Service_RestoreTabError.Text" xml:space="preserve">
+    <value>Pagina {0} kan niet worden hersteld voordat de ouder eerst is hersteld.&lt;br/&gt;</value>
   </data>
-  <data name="Service_RestoreTabModuleError.Text" lastModified="2016-12-01 05:21:22">
-    <value xml:space="preserve">Fout ontstaan bij het herstellen van een pagina:&lt;br/&gt;{0}</value>
+  <data name="Service_RestoreTabModuleError.Text" xml:space="preserve">
+    <value>Fout ontstaan bij het herstellen van een pagina:&lt;br/&gt;{0}</value>
   </data>
-  <data name="Service_RestoreUserError.Text">
-    <value xml:space="preserve">Fout bij herstellen van gebruiker.</value>
+  <data name="Service_RestoreUserError.Text" xml:space="preserve">
+    <value>Fout bij herstellen van gebruiker.</value>
   </data>
-  <data name="TabNotSoftDeleted.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Pagina met id "{0}"is niet soft-verwijderd.</value>
+  <data name="TabNotSoftDeleted.Text" xml:space="preserve">
+    <value>Pagina met id "{0}"is niet soft-verwijderd.</value>
   </data>
-  <data name="UserNotFound.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Gebruiker met id "{0}" niet gevonden</value>
+  <data name="UserNotFound.Text" xml:space="preserve">
+    <value>Gebruiker met id "{0}" niet gevonden</value>
   </data>
-  <data name="UserRestored.Text" lastModified="2018-07-24 05:28:38">
-    <value xml:space="preserve">Gebruiker met succes hersteld.</value>
+  <data name="UserRestored.Text" xml:space="preserve">
+    <value>Gebruiker met succes hersteld.</value>
   </data>
 </root>

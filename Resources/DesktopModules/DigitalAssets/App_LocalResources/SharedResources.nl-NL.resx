@@ -12,214 +12,214 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CopyToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Kopieer</value>
+  <data name="CopyToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Kopieer</value>
   </data>
-  <data name="CopyToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Kopieer</value>
+  <data name="CopyToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Kopieer</value>
   </data>
-  <data name="CreateFolderToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Nieuwe map</value>
+  <data name="CreateFolderToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Nieuwe map</value>
   </data>
-  <data name="CreateFolderToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Nieuwe map</value>
+  <data name="CreateFolderToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Nieuwe map</value>
   </data>
-  <data name="DeleteToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Verwijderen</value>
+  <data name="DeleteToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Verwijderen</value>
   </data>
-  <data name="DeleteToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Verwijderen</value>
+  <data name="DeleteToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Verwijderen</value>
   </data>
-  <data name="DestinationFolderCannotMatchSourceFolder.Error" lastModified="2020-05-16 16:17:16">
-    <value xml:space="preserve">Bestemmingsmap mag niet hetzelfde zijn als de bronmap</value>
+  <data name="DestinationFolderCannotMatchSourceFolder.Error" xml:space="preserve">
+    <value>Bestemmingsmap mag niet hetzelfde zijn als de bronmap</value>
   </data>
-  <data name="DownloadToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Download</value>
+  <data name="DownloadToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Download</value>
   </data>
-  <data name="DownloadToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Download</value>
+  <data name="DownloadToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Download</value>
   </data>
-  <data name="FieldCreated.DisplayName">
-    <value xml:space="preserve">Aangemaakt</value>
+  <data name="FieldCreated.DisplayName" xml:space="preserve">
+    <value>Aangemaakt</value>
   </data>
-  <data name="FieldCreatedBy.DisplayName">
-    <value xml:space="preserve">Aangemaakt door</value>
+  <data name="FieldCreatedBy.DisplayName" xml:space="preserve">
+    <value>Aangemaakt door</value>
   </data>
-  <data name="FieldModified.DisplayName">
-    <value xml:space="preserve">Aangepast</value>
+  <data name="FieldModified.DisplayName" xml:space="preserve">
+    <value>Aangepast</value>
   </data>
-  <data name="FieldModifiedBy.DisplayName">
-    <value xml:space="preserve">Aangepast door</value>
+  <data name="FieldModifiedBy.DisplayName" xml:space="preserve">
+    <value>Aangepast door</value>
   </data>
-  <data name="FieldSize.DisplayName">
-    <value xml:space="preserve">Grootte</value>
+  <data name="FieldSize.DisplayName" xml:space="preserve">
+    <value>Grootte</value>
   </data>
-  <data name="FieldTotalFiles.DisplayName">
-    <value xml:space="preserve">Totaal aantal bestanden</value>
+  <data name="FieldTotalFiles.DisplayName" xml:space="preserve">
+    <value>Totaal aantal bestanden</value>
   </data>
-  <data name="FieldType.DisplayName">
-    <value xml:space="preserve">Type</value>
+  <data name="FieldType.DisplayName" xml:space="preserve">
+    <value>Type</value>
   </data>
-  <data name="FileAlreadyExists.Error">
-    <value xml:space="preserve">Het bestand bestaat al in de bestemmingsmap</value>
+  <data name="FileAlreadyExists.Error" xml:space="preserve">
+    <value>Het bestand bestaat al in de bestemmingsmap</value>
   </data>
-  <data name="FileDoesNotExists.Error">
-    <value xml:space="preserve">Bestand bestaat niet</value>
+  <data name="FileDoesNotExists.Error" xml:space="preserve">
+    <value>Bestand bestaat niet</value>
   </data>
-  <data name="FolderAlreadyExists.Error">
-    <value xml:space="preserve">Map kan niet worden aangemaakt ({0}), de map bestaat al binnen deze locatie.</value>
+  <data name="FolderAlreadyExists.Error" xml:space="preserve">
+    <value>Map kan niet worden aangemaakt ({0}), de map bestaat al binnen deze locatie.</value>
   </data>
-  <data name="FolderDoesNotExists.Error">
-    <value xml:space="preserve">Deze map bestaat niet</value>
+  <data name="FolderDoesNotExists.Error" xml:space="preserve">
+    <value>Deze map bestaat niet</value>
   </data>
-  <data name="FolderFileNameHasInvalidcharacters.Error">
-    <value xml:space="preserve">De naam bevat ongeldige karakters. Specificeer een naam zonder {0}</value>
+  <data name="FolderFileNameHasInvalidcharacters.Error" xml:space="preserve">
+    <value>De naam bevat ongeldige karakters. Specificeer een naam zonder {0}</value>
   </data>
-  <data name="FolderNameRequired.ErrorMessage">
-    <value xml:space="preserve">Mapnaam is vereist</value>
+  <data name="FolderNameRequired.ErrorMessage" xml:space="preserve">
+    <value>Mapnaam is vereist</value>
   </data>
-  <data name="GetUrlToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Haal URL op</value>
+  <data name="GetUrlToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Haal URL op</value>
   </data>
-  <data name="GetUrlToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Haal URL op</value>
+  <data name="GetUrlToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Haal URL op</value>
   </data>
-  <data name="GridViewToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Lijstweergave</value>
+  <data name="GridViewToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Lijstweergave</value>
   </data>
-  <data name="GridViewToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Lijst</value>
+  <data name="GridViewToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Lijst</value>
   </data>
-  <data name="ListViewToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Iconenweergave</value>
+  <data name="ListViewToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Iconenweergave</value>
   </data>
-  <data name="ListViewToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Iconen</value>
+  <data name="ListViewToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Iconen</value>
   </data>
-  <data name="ManageFolderTypesToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Beheerde bestandstypes</value>
+  <data name="ManageFolderTypesToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Beheerde bestandstypes</value>
   </data>
-  <data name="ManageFolderTypesToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Beheerde bestandstypes</value>
+  <data name="ManageFolderTypesToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Beheerde bestandstypes</value>
   </data>
-  <data name="MappedPathRegExValidator.ErrorMessage">
-    <value xml:space="preserve">Koppelingspad kan geen absoluut pad zijn</value>
+  <data name="MappedPathRegExValidator.ErrorMessage" xml:space="preserve">
+    <value>Koppelingspad kan geen absoluut pad zijn</value>
   </data>
-  <data name="MoveNotAllowedBetweenFolderTypes.Error">
-    <value xml:space="preserve">Map verplaatsoperatie tussen deze twee maptypes is niet toegestaan</value>
+  <data name="MoveNotAllowedBetweenFolderTypes.Error" xml:space="preserve">
+    <value>Map verplaatsoperatie tussen deze twee maptypes is niet toegestaan</value>
   </data>
-  <data name="MoveToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Verplaats</value>
+  <data name="MoveToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Verplaats</value>
   </data>
-  <data name="MoveToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Verplaats</value>
+  <data name="MoveToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Verplaats</value>
   </data>
-  <data name="MyFolder.Text">
-    <value xml:space="preserve">Mijn map</value>
+  <data name="MyFolder.Text" xml:space="preserve">
+    <value>Mijn map</value>
   </data>
-  <data name="PreviewPanelTitle.Text">
-    <value xml:space="preserve">Voorbeeld</value>
+  <data name="PreviewPanelTitle.Text" xml:space="preserve">
+    <value>Voorbeeld</value>
   </data>
-  <data name="Published.Text">
-    <value xml:space="preserve">Publiceren</value>
+  <data name="Published.Text" xml:space="preserve">
+    <value>Publiceren</value>
   </data>
-  <data name="RefreshFolderToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Verversen</value>
+  <data name="RefreshFolderToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Verversen</value>
   </data>
-  <data name="RefreshFolderToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Map verversen</value>
+  <data name="RefreshFolderToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Map verversen</value>
   </data>
-  <data name="RefreshMenuItemExtensionPoint.Text">
-    <value xml:space="preserve">Verversen</value>
+  <data name="RefreshMenuItemExtensionPoint.Text" xml:space="preserve">
+    <value>Verversen</value>
   </data>
-  <data name="RenameToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Hernoemen</value>
+  <data name="RenameToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Hernoemen</value>
   </data>
-  <data name="RenameToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Hernoemen</value>
+  <data name="RenameToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Hernoemen</value>
   </data>
-  <data name="RootFolder.Text">
-    <value xml:space="preserve">Hoofd</value>
+  <data name="RootFolder.Text" xml:space="preserve">
+    <value>Hoofd</value>
   </data>
-  <data name="SyncMenuItemExtensionPoint.Text">
-    <value xml:space="preserve">Synchroniseer deze map</value>
+  <data name="SyncMenuItemExtensionPoint.Text" xml:space="preserve">
+    <value>Synchroniseer deze map</value>
   </data>
-  <data name="SyncRecursivelyMenuItemExtensionPoint.Text">
-    <value xml:space="preserve">Synchroniseer deze map en submappen</value>
+  <data name="SyncRecursivelyMenuItemExtensionPoint.Text" xml:space="preserve">
+    <value>Synchroniseer deze map en submappen</value>
   </data>
-  <data name="SyncToolBarMenuButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Synchroniseer</value>
+  <data name="SyncToolBarMenuButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Synchroniseer</value>
   </data>
-  <data name="SyncToolBarMenuButtonExtensionPoint.Text">
-    <value xml:space="preserve">Synchroniseer</value>
+  <data name="SyncToolBarMenuButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Synchroniseer</value>
   </data>
-  <data name="ToggleLeftPaneToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Klikken</value>
+  <data name="ToggleLeftPaneToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Klikken</value>
   </data>
-  <data name="ToggleLeftPaneToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Klikken</value>
+  <data name="ToggleLeftPaneToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Klikken</value>
   </data>
-  <data name="UnlinkToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Ontkoppel</value>
+  <data name="UnlinkToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Ontkoppel</value>
   </data>
-  <data name="UnlinkToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Ontkoppel</value>
+  <data name="UnlinkToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Ontkoppel</value>
   </data>
-  <data name="Unpublished.Text">
-    <value xml:space="preserve">Publicatie ongedaanmaken</value>
+  <data name="Unpublished.Text" xml:space="preserve">
+    <value>Publicatie ongedaanmaken</value>
   </data>
-  <data name="UnzipFileToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Bestanden uitpakken</value>
+  <data name="UnzipFileToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Bestanden uitpakken</value>
   </data>
-  <data name="UnzipFileToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Bestanden uitpakken</value>
+  <data name="UnzipFileToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Bestanden uitpakken</value>
   </data>
-  <data name="UploadFilesToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Bestanden uploaden</value>
+  <data name="UploadFilesToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Bestanden uploaden</value>
   </data>
-  <data name="UploadFilesToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Bestanden uploaden</value>
+  <data name="UploadFilesToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Bestanden uploaden</value>
   </data>
-  <data name="UserHasNoPermissionToBrowseFolder.Error">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om in deze map te kijken</value>
+  <data name="UserHasNoPermissionToBrowseFolder.Error" xml:space="preserve">
+    <value>De gebruiker heeft geen rechten om in deze map te kijken</value>
   </data>
-  <data name="UserHasNoPermissionToCopyFolder.Error">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om vanuit deze map te kopiëren</value>
+  <data name="UserHasNoPermissionToCopyFolder.Error" xml:space="preserve">
+    <value>De gebruiker heeft geen rechten om vanuit deze map te kopiëren</value>
   </data>
-  <data name="UserHasNoPermissionToDeleteFiles.Error">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om bestanden te verwijderen uit deze map</value>
+  <data name="UserHasNoPermissionToDeleteFiles.Error" xml:space="preserve">
+    <value>De gebruiker heeft geen rechten om bestanden te verwijderen uit deze map</value>
   </data>
-  <data name="UserHasNoPermissionToDeleteFolder.Error">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om deze map te verwijderen</value>
+  <data name="UserHasNoPermissionToDeleteFolder.Error" xml:space="preserve">
+    <value>De gebruiker heeft geen rechten om deze map te verwijderen</value>
   </data>
-  <data name="UserHasNoPermissionToDownload.Error">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om dit bestand te downloaden</value>
+  <data name="UserHasNoPermissionToDownload.Error" xml:space="preserve">
+    <value>De gebruiker heeft geen rechten om dit bestand te downloaden</value>
   </data>
-  <data name="UserHasNoPermissionToMoveFolder.Error">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om deze map te verplaatsen</value>
+  <data name="UserHasNoPermissionToMoveFolder.Error" xml:space="preserve">
+    <value>De gebruiker heeft geen rechten om deze map te verplaatsen</value>
   </data>
-  <data name="UserHasNoPermissionToReadFile.Error">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om dit bestand te lezen</value>
+  <data name="UserHasNoPermissionToReadFile.Error" xml:space="preserve">
+    <value>De gebruiker heeft geen rechten om dit bestand te lezen</value>
   </data>
-  <data name="UserHasNoPermissionToReadFolder.Error">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om deze map te lezen</value>
+  <data name="UserHasNoPermissionToReadFolder.Error" xml:space="preserve">
+    <value>De gebruiker heeft geen rechten om deze map te lezen</value>
   </data>
-  <data name="UserHasNoPermissionToUnlinkFolder.Error">
-    <value xml:space="preserve">De gebruiker heeft geen rechten om deze map te ontkoppelen</value>
+  <data name="UserHasNoPermissionToUnlinkFolder.Error" xml:space="preserve">
+    <value>De gebruiker heeft geen rechten om deze map te ontkoppelen</value>
   </data>
-  <data name="ViewPropertiesSelectionToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Eigenschappen weergeven</value>
+  <data name="ViewPropertiesSelectionToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Eigenschappen weergeven</value>
   </data>
-  <data name="ViewPropertiesSelectionToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Eigenschappen weergeven</value>
+  <data name="ViewPropertiesSelectionToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Eigenschappen weergeven</value>
   </data>
-  <data name="ViewPropertiesToolBarButtonExtensionPoint.AltText">
-    <value xml:space="preserve">Mapeigenschappen weergeven</value>
+  <data name="ViewPropertiesToolBarButtonExtensionPoint.AltText" xml:space="preserve">
+    <value>Mapeigenschappen weergeven</value>
   </data>
-  <data name="ViewPropertiesToolBarButtonExtensionPoint.Text">
-    <value xml:space="preserve">Mapeigenschappen weergeven</value>
+  <data name="ViewPropertiesToolBarButtonExtensionPoint.Text" xml:space="preserve">
+    <value>Mapeigenschappen weergeven</value>
   </data>
-  <data name="ZoomImage.AltText">
-    <value xml:space="preserve">Open het bestand in een nieuw tabblad</value>
+  <data name="ZoomImage.AltText" xml:space="preserve">
+    <value>Open het bestand in een nieuw tabblad</value>
   </data>
 </root>

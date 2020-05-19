@@ -12,361 +12,361 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AllSites.Text">
-    <value xml:space="preserve">--ALLE SITES--</value>
+  <data name="AllSites.Text" xml:space="preserve">
+    <value>--ALLE SITES--</value>
   </data>
-  <data name="AnalyzedPackage.Text">
-    <value xml:space="preserve">Bestanden geverifieerd</value>
+  <data name="AnalyzedPackage.Text" xml:space="preserve">
+    <value>Bestanden geverifieerd</value>
   </data>
-  <data name="AnalyzingPackage.Text">
-    <value xml:space="preserve">Analyseren van pakket voor site import ...</value>
+  <data name="AnalyzingPackage.Text" xml:space="preserve">
+    <value>Analyseren van pakket voor site import ...</value>
   </data>
-  <data name="Assets.Text">
-    <value xml:space="preserve">Bestanden</value>
+  <data name="Assets.Text" xml:space="preserve">
+    <value>Bestanden</value>
   </data>
-  <data name="BackToImportExport.Text">
-    <value xml:space="preserve">Terug naar Import / Export</value>
+  <data name="BackToImportExport.Text" xml:space="preserve">
+    <value>Terug naar Import / Export</value>
   </data>
-  <data name="BeginExport.Text">
-    <value xml:space="preserve">Begin export</value>
+  <data name="BeginExport.Text" xml:space="preserve">
+    <value>Begin export</value>
   </data>
-  <data name="Cancel.Text">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="CancelExport.Text">
-    <value xml:space="preserve">Export annuleren</value>
+  <data name="CancelExport.Text" xml:space="preserve">
+    <value>Export annuleren</value>
   </data>
-  <data name="CancelImport.Text">
-    <value xml:space="preserve">Import annuleren</value>
+  <data name="CancelImport.Text" xml:space="preserve">
+    <value>Import annuleren</value>
   </data>
-  <data name="CancelImportMessage.Text">
-    <value xml:space="preserve">Bij annuleren wordt het import proces gestopt. Weet u zeker dat u de import wilt annuleren?</value>
+  <data name="CancelImportMessage.Text" xml:space="preserve">
+    <value>Bij annuleren wordt het import proces gestopt. Weet u zeker dat u de import wilt annuleren?</value>
   </data>
-  <data name="CancelJobMessage.Text">
-    <value xml:space="preserve">Bij annuleren wordt het proces gestopt. Weet u zeker dat u de wilt annuleren?</value>
+  <data name="CancelJobMessage.Text" xml:space="preserve">
+    <value>Bij annuleren wordt het proces gestopt. Weet u zeker dat u de wilt annuleren?</value>
   </data>
-  <data name="ClicktoDeselect.Text">
-    <value xml:space="preserve">Klik om pakketten te deselecteren</value>
+  <data name="ClicktoDeselect.Text" xml:space="preserve">
+    <value>Klik om pakketten te deselecteren</value>
   </data>
-  <data name="ClicktoSelect.Text">
-    <value xml:space="preserve">Klik om pakket te selecteren</value>
+  <data name="ClicktoSelect.Text" xml:space="preserve">
+    <value>Klik om pakket te selecteren</value>
   </data>
-  <data name="CompletedOn.Text">
-    <value xml:space="preserve">Voltooid op</value>
+  <data name="CompletedOn.Text" xml:space="preserve">
+    <value>Voltooid op</value>
   </data>
-  <data name="ConfirmCancel.Text">
-    <value xml:space="preserve">Ja, Annuleren</value>
+  <data name="ConfirmCancel.Text" xml:space="preserve">
+    <value>Ja, Annuleren</value>
   </data>
-  <data name="ConfirmDelete.Text">
-    <value xml:space="preserve">Ja, Verwijderen</value>
+  <data name="ConfirmDelete.Text" xml:space="preserve">
+    <value>Ja, Verwijderen</value>
   </data>
-  <data name="Content.Text">
-    <value xml:space="preserve">Inhoud</value>
+  <data name="Content.Text" xml:space="preserve">
+    <value>Inhoud</value>
   </data>
-  <data name="Continue.Text">
-    <value xml:space="preserve">Doorgaan</value>
+  <data name="Continue.Text" xml:space="preserve">
+    <value>Doorgaan</value>
   </data>
-  <data name="CreatedOn.Text">
-    <value xml:space="preserve">Aangemaakt op</value>
+  <data name="CreatedOn.Text" xml:space="preserve">
+    <value>Aangemaakt op</value>
   </data>
-  <data name="Delete.Text">
-    <value xml:space="preserve">Verwijderen</value>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Verwijderen</value>
   </data>
-  <data name="DeletedPortal.Text">
-    <value xml:space="preserve">Verwijderd</value>
+  <data name="DeletedPortal.Text" xml:space="preserve">
+    <value>Verwijderd</value>
   </data>
-  <data name="DeleteJobMessage.Text">
-    <value xml:space="preserve">Weet u zeker dat u deze taak wilt verwijderen?</value>
+  <data name="DeleteJobMessage.Text" xml:space="preserve">
+    <value>Weet u zeker dat u deze taak wilt verwijderen?</value>
   </data>
-  <data name="DeletionsInExport.Text">
-    <value xml:space="preserve">Inclusief verwijderde items</value>
+  <data name="DeletionsInExport.Text" xml:space="preserve">
+    <value>Inclusief verwijderde items</value>
   </data>
-  <data name="Description.Text">
-    <value xml:space="preserve">Omschrijving</value>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Omschrijving</value>
   </data>
-  <data name="EmptyDateTime.Text">
-    <value xml:space="preserve">-- --</value>
+  <data name="EmptyDateTime.Text" xml:space="preserve">
+    <value>-- --</value>
   </data>
-  <data name="Export.Text">
-    <value xml:space="preserve">Exporteer data</value>
+  <data name="Export.Text" xml:space="preserve">
+    <value>Exporteer data</value>
   </data>
-  <data name="ExportButton.Text">
-    <value xml:space="preserve">Exporteer data</value>
+  <data name="ExportButton.Text" xml:space="preserve">
+    <value>Exporteer data</value>
   </data>
-  <data name="ExportFile.Text">
-    <value xml:space="preserve">Exporteer bestand</value>
+  <data name="ExportFile.Text" xml:space="preserve">
+    <value>Exporteer bestand</value>
   </data>
-  <data name="ExportMode.Text">
-    <value xml:space="preserve">Export methode</value>
+  <data name="ExportMode.Text" xml:space="preserve">
+    <value>Export methode</value>
   </data>
-  <data name="ExportModeComplete.Text">
-    <value xml:space="preserve">Volledig</value>
+  <data name="ExportModeComplete.Text" xml:space="preserve">
+    <value>Volledig</value>
   </data>
-  <data name="ExportModeDifferential.Text">
-    <value xml:space="preserve">Verschillen</value>
+  <data name="ExportModeDifferential.Text" xml:space="preserve">
+    <value>Verschillen</value>
   </data>
-  <data name="ExportName.ErrorMessage">
-    <value xml:space="preserve">Naam is vereist.</value>
+  <data name="ExportName.ErrorMessage" xml:space="preserve">
+    <value>Naam is vereist.</value>
   </data>
-  <data name="ExportRequestSubmit.ErrorMessage">
-    <value xml:space="preserve">Er is een fout opgetreden bij het versturen van het site exporteer verzoek. Probeer het opnieuw.</value>
+  <data name="ExportRequestSubmit.ErrorMessage" xml:space="preserve">
+    <value>Er is een fout opgetreden bij het versturen van het site exporteer verzoek. Probeer het opnieuw.</value>
   </data>
-  <data name="ExportRequestSubmitted">
-    <value xml:space="preserve">Uw data export staat klaar in de wachtrij, en zal spoedig starten.</value>
+  <data name="ExportRequestSubmitted" xml:space="preserve">
+    <value>Uw data export staat klaar in de wachtrij, en zal spoedig starten.</value>
   </data>
-  <data name="ExportSettings.Text">
-    <value xml:space="preserve">Exporteer Instellingen</value>
+  <data name="ExportSettings.Text" xml:space="preserve">
+    <value>Exporteer Instellingen</value>
   </data>
-  <data name="ExportSummary.Text">
-    <value xml:space="preserve">Exporteer omschrijving</value>
+  <data name="ExportSummary.Text" xml:space="preserve">
+    <value>Exporteer omschrijving</value>
   </data>
-  <data name="Extensions.Text">
-    <value xml:space="preserve">Uitbreidingen</value>
+  <data name="Extensions.Text" xml:space="preserve">
+    <value>Uitbreidingen</value>
   </data>
-  <data name="FileSize.Text">
-    <value xml:space="preserve">Grootte</value>
+  <data name="FileSize.Text" xml:space="preserve">
+    <value>Grootte</value>
   </data>
-  <data name="FinishImporting.Text">
-    <value xml:space="preserve">Om de import van je site data te voltooien, klik op doorgaan, of klik op annuleren om de import af te breken.</value>
+  <data name="FinishImporting.Text" xml:space="preserve">
+    <value>Om de import van je site data te voltooien, klik op doorgaan, of klik op annuleren om de import af te breken.</value>
   </data>
-  <data name="FolderName.Text">
-    <value xml:space="preserve">Mapnaam</value>
+  <data name="FolderName.Text" xml:space="preserve">
+    <value>Mapnaam</value>
   </data>
-  <data name="Import.Text">
-    <value xml:space="preserve">Importeer data</value>
+  <data name="Import.Text" xml:space="preserve">
+    <value>Importeer data</value>
   </data>
-  <data name="ImportButton.Text">
-    <value xml:space="preserve">Importeer data</value>
+  <data name="ImportButton.Text" xml:space="preserve">
+    <value>Importeer data</value>
   </data>
-  <data name="ImportRequestSubmit.ErrorMessage">
-    <value xml:space="preserve">Er is een fout opgetreden bij het versturen van het site importeer verzoek. Probeer het opnieuw.</value>
+  <data name="ImportRequestSubmit.ErrorMessage" xml:space="preserve">
+    <value>Er is een fout opgetreden bij het versturen van het site importeer verzoek. Probeer het opnieuw.</value>
   </data>
-  <data name="ImportRequestSubmitted">
-    <value xml:space="preserve">Uw data import staat klaar in de wachtrij, en zal spoedig starten.</value>
+  <data name="ImportRequestSubmitted" xml:space="preserve">
+    <value>Uw data import staat klaar in de wachtrij, en zal spoedig starten.</value>
   </data>
-  <data name="ImportSummary.Text">
-    <value xml:space="preserve">Import overzicht</value>
+  <data name="ImportSummary.Text" xml:space="preserve">
+    <value>Import overzicht</value>
   </data>
-  <data name="IncludeContent.Text">
-    <value xml:space="preserve">Inclusief inhoud</value>
+  <data name="IncludeContent.Text" xml:space="preserve">
+    <value>Inclusief inhoud</value>
   </data>
-  <data name="IncludeDeletions.Text">
-    <value xml:space="preserve">Inclusief verwijderden</value>
+  <data name="IncludeDeletions.Text" xml:space="preserve">
+    <value>Inclusief verwijderden</value>
   </data>
-  <data name="IncludeExtensions.Text">
-    <value xml:space="preserve">Inclusief uitbreidingen</value>
+  <data name="IncludeExtensions.Text" xml:space="preserve">
+    <value>Inclusief uitbreidingen</value>
   </data>
-  <data name="IncludeInExport.Text">
-    <value xml:space="preserve">Meenemen in export</value>
+  <data name="IncludeInExport.Text" xml:space="preserve">
+    <value>Meenemen in export</value>
   </data>
-  <data name="IncludePermissions.Text">
-    <value xml:space="preserve">Inclusief rechten</value>
+  <data name="IncludePermissions.Text" xml:space="preserve">
+    <value>Inclusief rechten</value>
   </data>
-  <data name="IncludeProfileProperties.Text">
-    <value xml:space="preserve">Inclusief profieleigenschappen</value>
+  <data name="IncludeProfileProperties.Text" xml:space="preserve">
+    <value>Inclusief profieleigenschappen</value>
   </data>
-  <data name="JobCancel.ErrorMessage">
-    <value xml:space="preserve">Stoppen van taak mislukt, probeer het opnieuw.</value>
+  <data name="JobCancel.ErrorMessage" xml:space="preserve">
+    <value>Stoppen van taak mislukt, probeer het opnieuw.</value>
   </data>
-  <data name="JobCancelled.Text">
-    <value xml:space="preserve">Taak is geannuleerd.</value>
+  <data name="JobCancelled.Text" xml:space="preserve">
+    <value>Taak is geannuleerd.</value>
   </data>
-  <data name="JobDate.Header">
-    <value xml:space="preserve">Datum</value>
+  <data name="JobDate.Header" xml:space="preserve">
+    <value>Datum</value>
   </data>
-  <data name="JobDelete.ErrorMessage">
-    <value xml:space="preserve">Verwijderen van taak mislukt, Probeer het opnieuw.</value>
+  <data name="JobDelete.ErrorMessage" xml:space="preserve">
+    <value>Verwijderen van taak mislukt, Probeer het opnieuw.</value>
   </data>
-  <data name="JobDeleted.Text">
-    <value xml:space="preserve">De taak is verwijderd.</value>
+  <data name="JobDeleted.Text" xml:space="preserve">
+    <value>De taak is verwijderd.</value>
   </data>
-  <data name="JobPortal.Header">
-    <value xml:space="preserve">Website</value>
+  <data name="JobPortal.Header" xml:space="preserve">
+    <value>Website</value>
   </data>
-  <data name="JobStatus.Header">
-    <value xml:space="preserve">Status</value>
+  <data name="JobStatus.Header" xml:space="preserve">
+    <value>Status</value>
   </data>
-  <data name="JobStatus0.Text">
-    <value xml:space="preserve">Verstuurd</value>
+  <data name="JobStatus0.Text" xml:space="preserve">
+    <value>Verstuurd</value>
   </data>
-  <data name="JobStatus1.Text">
-    <value xml:space="preserve">In uitvoering</value>
+  <data name="JobStatus1.Text" xml:space="preserve">
+    <value>In uitvoering</value>
   </data>
-  <data name="JobStatus2.Text">
-    <value xml:space="preserve">Voltooid</value>
+  <data name="JobStatus2.Text" xml:space="preserve">
+    <value>Voltooid</value>
   </data>
-  <data name="JobStatus3.Text">
-    <value xml:space="preserve">Mislukt</value>
+  <data name="JobStatus3.Text" xml:space="preserve">
+    <value>Mislukt</value>
   </data>
-  <data name="JobStatus4.Text">
-    <value xml:space="preserve">Geannuleerd</value>
+  <data name="JobStatus4.Text" xml:space="preserve">
+    <value>Geannuleerd</value>
   </data>
-  <data name="JobType.Header">
-    <value xml:space="preserve">Type</value>
+  <data name="JobType.Header" xml:space="preserve">
+    <value>Type</value>
   </data>
-  <data name="JobTypeAll.Text">
-    <value xml:space="preserve">Alle imports and exports</value>
+  <data name="JobTypeAll.Text" xml:space="preserve">
+    <value>Alle imports and exports</value>
   </data>
-  <data name="JobTypeExport.Text">
-    <value xml:space="preserve">Alle exports</value>
+  <data name="JobTypeExport.Text" xml:space="preserve">
+    <value>Alle exports</value>
   </data>
-  <data name="JobTypeImport.Text">
-    <value xml:space="preserve">Alle imports</value>
+  <data name="JobTypeImport.Text" xml:space="preserve">
+    <value>Alle imports</value>
   </data>
-  <data name="JobUser.Header">
-    <value xml:space="preserve">Gebruikersnaam</value>
+  <data name="JobUser.Header" xml:space="preserve">
+    <value>Gebruikersnaam</value>
   </data>
-  <data name="KeepImport.Text">
-    <value xml:space="preserve">Nee</value>
+  <data name="KeepImport.Text" xml:space="preserve">
+    <value>Nee</value>
   </data>
-  <data name="LastExport.Text">
-    <value xml:space="preserve">Laatste export</value>
+  <data name="LastExport.Text" xml:space="preserve">
+    <value>Laatste export</value>
   </data>
-  <data name="LastImport.Text">
-    <value xml:space="preserve">Laatste import</value>
+  <data name="LastImport.Text" xml:space="preserve">
+    <value>Laatste import</value>
   </data>
-  <data name="LastUpdate.Text">
-    <value xml:space="preserve">Laatste update</value>
+  <data name="LastUpdate.Text" xml:space="preserve">
+    <value>Laatste update</value>
   </data>
-  <data name="lblLanguages.Help">
-    <value xml:space="preserve">Selecteer iedere extra taal die moet worden meegenomen in het meertalige sjabloon, of selecteer de taal voor een ééntalige site.</value>
+  <data name="lblLanguages.Help" xml:space="preserve">
+    <value>Selecteer iedere extra taal die moet worden meegenomen in het meertalige sjabloon, of selecteer de taal voor een ééntalige site.</value>
   </data>
-  <data name="lblLanguages.Text">
-    <value xml:space="preserve">Exporteer talen</value>
+  <data name="lblLanguages.Text" xml:space="preserve">
+    <value>Exporteer talen</value>
   </data>
-  <data name="lblNote.Text">
-    <value xml:space="preserve">De standaard taal ({0}) wordt altijd geexporteerd.</value>
+  <data name="lblNote.Text" xml:space="preserve">
+    <value>De standaard taal ({0}) wordt altijd geexporteerd.</value>
   </data>
-  <data name="lblSelectLanguages.Text">
-    <value xml:space="preserve">-- Selecteer taal--</value>
+  <data name="lblSelectLanguages.Text" xml:space="preserve">
+    <value>-- Selecteer taal--</value>
   </data>
-  <data name="LegendExport.Text">
-    <value xml:space="preserve">Site export</value>
+  <data name="LegendExport.Text" xml:space="preserve">
+    <value>Site export</value>
   </data>
-  <data name="LegendImport.Text">
-    <value xml:space="preserve">Site import</value>
+  <data name="LegendImport.Text" xml:space="preserve">
+    <value>Site import</value>
   </data>
-  <data name="LogSection.Text">
-    <value xml:space="preserve">Import / Export Log</value>
+  <data name="LogSection.Text" xml:space="preserve">
+    <value>Import / Export Log</value>
   </data>
-  <data name="Mode.Text" lastModified="2018-07-24 15:07:07">
-    <value xml:space="preserve">Modus</value>
+  <data name="Mode.Text" xml:space="preserve">
+    <value>Modus</value>
   </data>
-  <data name="Name.Text">
-    <value xml:space="preserve">Naam</value>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="nav_SiteImportExport.Text">
-    <value xml:space="preserve">Import / Export</value>
+  <data name="nav_SiteImportExport.Text" xml:space="preserve">
+    <value>Import / Export</value>
   </data>
-  <data name="No.Text">
-    <value xml:space="preserve">Nee</value>
+  <data name="No.Text" xml:space="preserve">
+    <value>Nee</value>
   </data>
-  <data name="NoExportItem.ErrorMessage">
-    <value xml:space="preserve">Er is een fout opgetreden bij het versturen van het site export verzoek. Selecteer export item(s) en probeer het opnieuw.</value>
+  <data name="NoExportItem.ErrorMessage" xml:space="preserve">
+    <value>Er is een fout opgetreden bij het versturen van het site export verzoek. Selecteer export item(s) en probeer het opnieuw.</value>
   </data>
-  <data name="NoJobs.Text">
-    <value xml:space="preserve">Geen taken gevonden</value>
+  <data name="NoJobs.Text" xml:space="preserve">
+    <value>Geen taken gevonden</value>
   </data>
-  <data name="NoPackages.Text">
-    <value xml:space="preserve">Geen import pakketten gevonden</value>
+  <data name="NoPackages.Text" xml:space="preserve">
+    <value>Geen import pakketten gevonden</value>
   </data>
-  <data name="OverwriteCollisions.Text">
-    <value xml:space="preserve">Overschrijf conflicten</value>
+  <data name="OverwriteCollisions.Text" xml:space="preserve">
+    <value>Overschrijf conflicten</value>
   </data>
-  <data name="PackageDescription.Text">
-    <value xml:space="preserve">Pakket omschrijving</value>
+  <data name="PackageDescription.Text" xml:space="preserve">
+    <value>Pakket omschrijving</value>
   </data>
-  <data name="Pages.Text">
-    <value xml:space="preserve">Pagina's</value>
+  <data name="Pages.Text" xml:space="preserve">
+    <value>Pagina's</value>
   </data>
-  <data name="PagesInExport.Text">
-    <value xml:space="preserve">Pagina's in export</value>
+  <data name="PagesInExport.Text" xml:space="preserve">
+    <value>Pagina's in export</value>
   </data>
-  <data name="PageTemplates.Text">
-    <value xml:space="preserve">Pagina sjablonen</value>
+  <data name="PageTemplates.Text" xml:space="preserve">
+    <value>Pagina sjablonen</value>
   </data>
-  <data name="Permissions.Text">
-    <value xml:space="preserve">Rechten</value>
+  <data name="Permissions.Text" xml:space="preserve">
+    <value>Rechten</value>
   </data>
-  <data name="ProfileProperties.Text">
-    <value xml:space="preserve">Profiel eigenschappen</value>
+  <data name="ProfileProperties.Text" xml:space="preserve">
+    <value>Profiel eigenschappen</value>
   </data>
-  <data name="Roles.Text">
-    <value xml:space="preserve">Rollen en groepen</value>
+  <data name="Roles.Text" xml:space="preserve">
+    <value>Rollen en groepen</value>
   </data>
-  <data name="RunNow.Text">
-    <value xml:space="preserve">Direct uitvoeren</value>
+  <data name="RunNow.Text" xml:space="preserve">
+    <value>Direct uitvoeren</value>
   </data>
-  <data name="SearchPlaceHolder.Text">
-    <value xml:space="preserve">Zoeken op sleutelwoord</value>
+  <data name="SearchPlaceHolder.Text" xml:space="preserve">
+    <value>Zoeken op sleutelwoord</value>
   </data>
-  <data name="SelectException.Text">
-    <value xml:space="preserve">Selecteer een import pakket en probeer het opnieuw.</value>
+  <data name="SelectException.Text" xml:space="preserve">
+    <value>Selecteer een import pakket en probeer het opnieuw.</value>
   </data>
-  <data name="SelectImportPackage.Text">
-    <value xml:space="preserve">Selecteer pakket om te importeren</value>
+  <data name="SelectImportPackage.Text" xml:space="preserve">
+    <value>Selecteer pakket om te importeren</value>
   </data>
-  <data name="ShowFilterLabel.Text">
-    <value xml:space="preserve">Filter: </value>
+  <data name="ShowFilterLabel.Text" xml:space="preserve">
+    <value>Filter: </value>
   </data>
-  <data name="ShowSiteLabel.Text">
-    <value xml:space="preserve">Site: </value>
+  <data name="ShowSiteLabel.Text" xml:space="preserve">
+    <value>Site: </value>
   </data>
-  <data name="ShowSortLabel.Text">
-    <value xml:space="preserve">Sorteer op:</value>
+  <data name="ShowSortLabel.Text" xml:space="preserve">
+    <value>Sorteer op:</value>
   </data>
-  <data name="Site.Text">
-    <value xml:space="preserve">Site</value>
+  <data name="Site.Text" xml:space="preserve">
+    <value>Site</value>
   </data>
-  <data name="SiteImportExport.Header">
-    <value xml:space="preserve">Import / Export</value>
+  <data name="SiteImportExport.Header" xml:space="preserve">
+    <value>Import / Export</value>
   </data>
-  <data name="SortByDateNewest.Text">
-    <value xml:space="preserve">Datum (Nieuwste)</value>
+  <data name="SortByDateNewest.Text" xml:space="preserve">
+    <value>Datum (Nieuwste)</value>
   </data>
-  <data name="SortByDateOldest.Text">
-    <value xml:space="preserve">Datum (Oudste)</value>
+  <data name="SortByDateOldest.Text" xml:space="preserve">
+    <value>Datum (Oudste)</value>
   </data>
-  <data name="SortByName.Text">
-    <value xml:space="preserve">Naam (Alfabetisch)</value>
+  <data name="SortByName.Text" xml:space="preserve">
+    <value>Naam (Alfabetisch)</value>
   </data>
-  <data name="SummaryNoteDescription.Text">
-    <value xml:space="preserve">Je website export bestanden staan veilig opgeslagen binnen je website App_Data/ExportImport map.</value>
+  <data name="SummaryNoteDescription.Text" xml:space="preserve">
+    <value>Je website export bestanden staan veilig opgeslagen binnen je website App_Data/ExportImport map.</value>
   </data>
-  <data name="SummaryNoteTitle.Text">
-    <value xml:space="preserve">*Notitie:</value>
+  <data name="SummaryNoteTitle.Text" xml:space="preserve">
+    <value>*Notitie:</value>
   </data>
-  <data name="SwitchOff.Text" lastModified="2018-07-24 15:07:07">
-    <value xml:space="preserve">Uit</value>
+  <data name="SwitchOff.Text" xml:space="preserve">
+    <value>Uit</value>
   </data>
-  <data name="SwitchOn.Text" lastModified="2018-07-24 15:07:07">
-    <value xml:space="preserve">Aan</value>
+  <data name="SwitchOn.Text" xml:space="preserve">
+    <value>Aan</value>
   </data>
-  <data name="Timestamp.Text">
-    <value xml:space="preserve">Tijdstempel</value>
+  <data name="Timestamp.Text" xml:space="preserve">
+    <value>Tijdstempel</value>
   </data>
-  <data name="TotalExportSize.Text">
-    <value xml:space="preserve">Totale export grootte</value>
+  <data name="TotalExportSize.Text" xml:space="preserve">
+    <value>Totale export grootte</value>
   </data>
-  <data name="Users.Text">
-    <value xml:space="preserve">Gebruikers</value>
+  <data name="Users.Text" xml:space="preserve">
+    <value>Gebruikers</value>
   </data>
-  <data name="UsersStep1.Text">
-    <value xml:space="preserve">Gebruikers (Stap 1 / 2)</value>
+  <data name="UsersStep1.Text" xml:space="preserve">
+    <value>Gebruikers (Stap 1 / 2)</value>
   </data>
-  <data name="UsersStep2.Text">
-    <value xml:space="preserve">Gebruikers (Stap 2 / 2)</value>
+  <data name="UsersStep2.Text" xml:space="preserve">
+    <value>Gebruikers (Stap 2 / 2)</value>
   </data>
-  <data name="VerifyPackage.Text">
-    <value xml:space="preserve">Een ogenblik geduld, we controleren het pakket...</value>
+  <data name="VerifyPackage.Text" xml:space="preserve">
+    <value>Een ogenblik geduld, we controleren het pakket...</value>
   </data>
-  <data name="Vocabularies.Text">
-    <value xml:space="preserve">Woordenboeken</value>
+  <data name="Vocabularies.Text" xml:space="preserve">
+    <value>Woordenboeken</value>
   </data>
-  <data name="Website.Text">
-    <value xml:space="preserve">Website</value>
+  <data name="Website.Text" xml:space="preserve">
+    <value>Website</value>
   </data>
-  <data name="Yes.Text">
-    <value xml:space="preserve">Ja</value>
+  <data name="Yes.Text" xml:space="preserve">
+    <value>Ja</value>
   </data>
 </root>

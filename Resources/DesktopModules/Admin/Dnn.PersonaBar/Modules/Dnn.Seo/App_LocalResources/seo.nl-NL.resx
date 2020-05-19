@@ -12,502 +12,502 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="1Day.Text" lastModified="2016-12-01 04:21:43">
-    <value xml:space="preserve">1 Dag</value>
+  <data name="1Day.Text" xml:space="preserve">
+    <value>1 Dag</value>
   </data>
-  <data name="2Days.Text" lastModified="2016-12-01 04:21:43">
-    <value xml:space="preserve">2 dagen</value>
+  <data name="2Days.Text" xml:space="preserve">
+    <value>2 dagen</value>
   </data>
-  <data name="3Days.Text" lastModified="2016-12-01 04:21:43">
-    <value xml:space="preserve">3 dagen</value>
+  <data name="3Days.Text" xml:space="preserve">
+    <value>3 dagen</value>
   </data>
-  <data name="4Days.Text" lastModified="2016-12-01 04:21:43">
-    <value xml:space="preserve">4 dagen</value>
+  <data name="4Days.Text" xml:space="preserve">
+    <value>4 dagen</value>
   </data>
-  <data name="5Days.Text" lastModified="2016-12-01 04:21:43">
-    <value xml:space="preserve">5 dagen</value>
+  <data name="5Days.Text" xml:space="preserve">
+    <value>5 dagen</value>
   </data>
-  <data name="6Days.Text" lastModified="2016-12-01 04:21:43">
-    <value xml:space="preserve">6 dagen</value>
+  <data name="6Days.Text" xml:space="preserve">
+    <value>6 dagen</value>
   </data>
-  <data name="7Days.Text" lastModified="2016-12-01 04:21:43">
-    <value xml:space="preserve">7 dagen</value>
+  <data name="7Days.Text" xml:space="preserve">
+    <value>7 dagen</value>
   </data>
-  <data name="Alias_In_Url.Text" lastModified="2016-12-01 04:21:43">
-    <value xml:space="preserve">Alias in URL</value>
+  <data name="Alias_In_Url.Text" xml:space="preserve">
+    <value>Alias in URL</value>
   </data>
-  <data name="autoAsciiConvertLabel.Help" lastModified="2016-12-01 04:21:43">
-    <value xml:space="preserve">Indien aangevinkt zullen karakters met een accent (diakritische tekens) zoals å en è worden geconverteerd naar hun plain-ascii equivalent.  Voorbeeld : å -&gt; a en è -&gt; e.</value>
+  <data name="autoAsciiConvertLabel.Help" xml:space="preserve">
+    <value>Indien aangevinkt zullen karakters met een accent (diakritische tekens) zoals å en è worden geconverteerd naar hun plain-ascii equivalent.  Voorbeeld : å -&gt; a en è -&gt; e.</value>
   </data>
-  <data name="autoAsciiConvertLabel.Text" lastModified="2016-12-01 05:25:48">
-    <value xml:space="preserve">Converteer karakters met accenten</value>
+  <data name="autoAsciiConvertLabel.Text" xml:space="preserve">
+    <value>Converteer karakters met accenten</value>
   </data>
-  <data name="Built_In_Url.Text" lastModified="2016-12-01 05:25:48">
-    <value xml:space="preserve">Ingebouwde URL</value>
+  <data name="Built_In_Url.Text" xml:space="preserve">
+    <value>Ingebouwde URL</value>
   </data>
-  <data name="Create.Text" lastModified="2016-12-01 05:25:48">
-    <value xml:space="preserve">Maken</value>
+  <data name="Create.Text" xml:space="preserve">
+    <value>Maken</value>
   </data>
-  <data name="Custom_Tab_Alias.Text" lastModified="2016-12-01 05:25:48">
-    <value xml:space="preserve">Aangepaste Tab Alias</value>
+  <data name="Custom_Tab_Alias.Text" xml:space="preserve">
+    <value>Aangepaste Tab Alias</value>
   </data>
-  <data name="Deleted_Page.Text" lastModified="2016-12-01 05:25:48">
-    <value xml:space="preserve">Verwijderde pagina</value>
+  <data name="Deleted_Page.Text" xml:space="preserve">
+    <value>Verwijderde pagina</value>
   </data>
-  <data name="Diacritic_Characters.Text" lastModified="2016-12-01 05:25:48">
-    <value xml:space="preserve">Diakritische tekens</value>
+  <data name="Diacritic_Characters.Text" xml:space="preserve">
+    <value>Diakritische tekens</value>
   </data>
-  <data name="DisableCaching.Text" lastModified="2016-12-01 05:25:48">
-    <value xml:space="preserve">Uitschakelen caching</value>
+  <data name="DisableCaching.Text" xml:space="preserve">
+    <value>Uitschakelen caching</value>
   </data>
-  <data name="Disabled_Page.Text" lastModified="2016-12-01 05:25:48">
-    <value xml:space="preserve">Uitgeschakelde pagina</value>
+  <data name="Disabled_Page.Text" xml:space="preserve">
+    <value>Uitgeschakelde pagina</value>
   </data>
-  <data name="Do301RedirectToPortalHome.Text" lastModified="2018-07-24 15:04:13">
-    <value xml:space="preserve">Site Homepagina</value>
+  <data name="Do301RedirectToPortalHome.Text" xml:space="preserve">
+    <value>Site Homepagina</value>
   </data>
-  <data name="Do404Error.Text" lastModified="2016-12-01 05:25:48">
-    <value xml:space="preserve">404 fout</value>
+  <data name="Do404Error.Text" xml:space="preserve">
+    <value>404 fout</value>
   </data>
-  <data name="doNotRedirectHttpsUrlRegExInvalidPattern.Text" lastModified="2016-12-01 05:25:48">
-    <value xml:space="preserve">Herleid Https URL niet Reguliere Uitdrukking is ongeldig.</value>
+  <data name="doNotRedirectHttpsUrlRegExInvalidPattern.Text" xml:space="preserve">
+    <value>Herleid Https URL niet Reguliere Uitdrukking is ongeldig.</value>
   </data>
-  <data name="doNotRedirectHttpsUrlRegExLabel.Help" lastModified="2016-12-01 05:25:48">
-    <value xml:space="preserve">De Herleid https URL niet reguliere uitdrukking wordt gebruikt om ongevraagde herleidingen te stoppen tussen http en https URL's. Het voorkomt het herleiden van matchende URL's en werkt zowel voor http-&amp;gt;https en https-&amp;gt;http herleidingen.</value>
+  <data name="doNotRedirectHttpsUrlRegExLabel.Help" xml:space="preserve">
+    <value>De Herleid https URL niet reguliere uitdrukking wordt gebruikt om ongevraagde herleidingen te stoppen tussen http en https URL's. Het voorkomt het herleiden van matchende URL's en werkt zowel voor http-&amp;gt;https en https-&amp;gt;http herleidingen.</value>
   </data>
-  <data name="doNotRedirectHttpsUrlRegExLabel.Text" lastModified="2016-12-01 06:31:13">
-    <value xml:space="preserve">Herleid niet Https URL reguliere uitdrukking</value>
+  <data name="doNotRedirectHttpsUrlRegExLabel.Text" xml:space="preserve">
+    <value>Herleid niet Https URL reguliere uitdrukking</value>
   </data>
-  <data name="doNotRedirectUrlRegExInvalidPattern.Text" lastModified="2016-12-01 06:31:13">
-    <value xml:space="preserve">Herleid niet Https URL reguliere uitdrukking is ongeldig</value>
+  <data name="doNotRedirectUrlRegExInvalidPattern.Text" xml:space="preserve">
+    <value>Herleid niet Https URL reguliere uitdrukking is ongeldig</value>
   </data>
-  <data name="doNotRedirectUrlRegExLabel.Help" lastModified="2016-12-01 06:31:13">
-    <value xml:space="preserve">Het Herleid niet Https URL reguliere uitdrukking patroon voorkomt matchende URL's van herleiding in alle gevallen. Gebruik dit patroon wanneer een URL incorrect wordt herleid.</value>
+  <data name="doNotRedirectUrlRegExLabel.Help" xml:space="preserve">
+    <value>Het Herleid niet Https URL reguliere uitdrukking patroon voorkomt matchende URL's van herleiding in alle gevallen. Gebruik dit patroon wanneer een URL incorrect wordt herleid.</value>
   </data>
-  <data name="doNotRedirectUrlRegExLabel.Text" lastModified="2016-12-01 06:31:13">
-    <value xml:space="preserve">Herleid niet Https URL reguliere uitdrukking</value>
+  <data name="doNotRedirectUrlRegExLabel.Text" xml:space="preserve">
+    <value>Herleid niet Https URL reguliere uitdrukking</value>
   </data>
-  <data name="doNotRewriteRegExInvalidPattern.Text" lastModified="2016-12-01 06:31:13">
-    <value xml:space="preserve">Herschrijf niet URL Reguliere Uitdrukking is ongeldig</value>
+  <data name="doNotRewriteRegExInvalidPattern.Text" xml:space="preserve">
+    <value>Herschrijf niet URL Reguliere Uitdrukking is ongeldig</value>
   </data>
-  <data name="doNotRewriteRegExLabel.Help" lastModified="2016-12-01 06:31:13">
-    <value xml:space="preserve">De Herschrijf niet URL Reguliere Uitdrukking  stopt URL herschrijven van voorkomen op alle matchende URL's. Gebruik deze waarde wanneer een URL geinterpreteerd wordt als een DotNetNuke pagina, maar niet zou moeten zijn.</value>
+  <data name="doNotRewriteRegExLabel.Help" xml:space="preserve">
+    <value>De Herschrijf niet URL Reguliere Uitdrukking  stopt URL herschrijven van voorkomen op alle matchende URL's. Gebruik deze waarde wanneer een URL geinterpreteerd wordt als een DotNetNuke pagina, maar niet zou moeten zijn.</value>
   </data>
-  <data name="doNotRewriteRegExLabel.Text" lastModified="2016-12-01 07:31:24">
-    <value xml:space="preserve">Niet herschrijven van URL Reguliere Uitdrukking </value>
+  <data name="doNotRewriteRegExLabel.Text" xml:space="preserve">
+    <value>Niet herschrijven van URL Reguliere Uitdrukking </value>
   </data>
-  <data name="doNotUseFriendlyUrlsRegExInvalidPattern.Text" lastModified="2016-12-01 08:34:12">
-    <value xml:space="preserve">Gebruik geen vriendelijke URL's Reguliere Uitdrukking is ongeldig</value>
+  <data name="doNotUseFriendlyUrlsRegExInvalidPattern.Text" xml:space="preserve">
+    <value>Gebruik geen vriendelijke URL's Reguliere Uitdrukking is ongeldig</value>
   </data>
-  <data name="doNotUseFriendlyUrlsRegExLabel.Help" lastModified="2016-12-01 08:34:12">
-    <value xml:space="preserve">Het gebruik geen vriendelijke URL's reguliere uitdrukking patroon wordt gebruikt om bepaalde DotNetNuke pagina's te forceren om een langere URL te laten gebruiken voor de pagina. Dit wordt normaal gebruikt om gedrag te genereren voor omgekeerde compabiliteit.</value>
+  <data name="doNotUseFriendlyUrlsRegExLabel.Help" xml:space="preserve">
+    <value>Het gebruik geen vriendelijke URL's reguliere uitdrukking patroon wordt gebruikt om bepaalde DotNetNuke pagina's te forceren om een langere URL te laten gebruiken voor de pagina. Dit wordt normaal gebruikt om gedrag te genereren voor omgekeerde compabiliteit.</value>
   </data>
-  <data name="doNotUseFriendlyUrlsRegExLabel.Text" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Gebruik geen Vriendelijke URL's Reguliere Expressie</value>
+  <data name="doNotUseFriendlyUrlsRegExLabel.Text" xml:space="preserve">
+    <value>Gebruik geen Vriendelijke URL's Reguliere Expressie</value>
   </data>
-  <data name="enable301RedirectsLabel.Help" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Vink dit vakje aan als je oude "niet-vriendelijke" URL's wilt laten herleiden naar de nieuwe URL's.</value>
+  <data name="enable301RedirectsLabel.Help" xml:space="preserve">
+    <value>Vink dit vakje aan als je oude "niet-vriendelijke" URL's wilt laten herleiden naar de nieuwe URL's.</value>
   </data>
-  <data name="enable301RedirectsLabel.Text" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Doorsturen naar Vriendelijke URL's</value>
+  <data name="enable301RedirectsLabel.Text" xml:space="preserve">
+    <value>Doorsturen naar Vriendelijke URL's</value>
   </data>
-  <data name="Enabled.Header" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Ingeschakeld</value>
+  <data name="Enabled.Header" xml:space="preserve">
+    <value>Ingeschakeld</value>
   </data>
-  <data name="enableLowerCaseLabel.Help" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Vink dit vakje aan om URL's te forceren om gevonverteerd te worden naar lowercase.</value>
+  <data name="enableLowerCaseLabel.Help" xml:space="preserve">
+    <value>Vink dit vakje aan om URL's te forceren om gevonverteerd te worden naar lowercase.</value>
   </data>
-  <data name="enableLowerCaseLabel.Text" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Converteer URL's naar lowercase</value>
+  <data name="enableLowerCaseLabel.Text" xml:space="preserve">
+    <value>Converteer URL's naar lowercase</value>
   </data>
-  <data name="enableSitemapProvider.Help" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Sitemap Provider inschakelen</value>
+  <data name="enableSitemapProvider.Help" xml:space="preserve">
+    <value>Sitemap Provider inschakelen</value>
   </data>
-  <data name="enableSitemapProvider.Text" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Sitemap Provider inschakelen</value>
+  <data name="enableSitemapProvider.Text" xml:space="preserve">
+    <value>Sitemap Provider inschakelen</value>
   </data>
-  <data name="enableSystemGeneratedUrlsLabel.Help" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">U kunt hier configureren hoe het systeem URL's zal genereren.</value>
+  <data name="enableSystemGeneratedUrlsLabel.Help" xml:space="preserve">
+    <value>U kunt hier configureren hoe het systeem URL's zal genereren.</value>
   </data>
-  <data name="enableSystemGeneratedUrlsLabel.Text" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Aaneenschakelen Pagina URL's</value>
+  <data name="enableSystemGeneratedUrlsLabel.Text" xml:space="preserve">
+    <value>Aaneenschakelen Pagina URL's</value>
   </data>
-  <data name="Error_Event.Text" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Fout Evenement</value>
+  <data name="Error_Event.Text" xml:space="preserve">
+    <value>Fout Evenement</value>
   </data>
-  <data name="Exception.Text" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Uitzondering</value>
+  <data name="Exception.Text" xml:space="preserve">
+    <value>Uitzondering</value>
   </data>
-  <data name="ExpressionsTab.Text" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Uitdrukkingen</value>
+  <data name="ExpressionsTab.Text" xml:space="preserve">
+    <value>Uitdrukkingen</value>
   </data>
-  <data name="ExtensionUrlProviders.Text" lastModified="2018-07-24 15:04:13">
-    <value xml:space="preserve">UITBREIDING URLPROVIDERS</value>
+  <data name="ExtensionUrlProviders.Text" xml:space="preserve">
+    <value>UITBREIDING URLPROVIDERS</value>
   </data>
-  <data name="ExtensionUrlProvidersTab.Text" lastModified="2018-07-24 15:04:13">
-    <value xml:space="preserve">UITBREIDING URLPROVIDERS</value>
+  <data name="ExtensionUrlProvidersTab.Text" xml:space="preserve">
+    <value>UITBREIDING URLPROVIDERS</value>
   </data>
-  <data name="File_Url.Text" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">Bestand URL</value>
+  <data name="File_Url.Text" xml:space="preserve">
+    <value>Bestand URL</value>
   </data>
-  <data name="GeneralSettingsTab.Text" lastModified="2016-12-01 09:38:17">
-    <value xml:space="preserve">ALGEMENE INSTELLINGEN</value>
+  <data name="GeneralSettingsTab.Text" xml:space="preserve">
+    <value>ALGEMENE INSTELLINGEN</value>
   </data>
-  <data name="GlobalSetting.Text" lastModified="2016-12-01 10:40:01">
-    <value xml:space="preserve">Dit is een globale instelling. Aanpassingen aan deze instelling zullen al je sites beinvloeden.</value>
+  <data name="GlobalSetting.Text" xml:space="preserve">
+    <value>Dit is een globale instelling. Aanpassingen aan deze instelling zullen al je sites beinvloeden.</value>
   </data>
-  <data name="Host_Portal_Used.Text" lastModified="2016-12-01 10:40:01">
-    <value xml:space="preserve">Aplicatiesite gebruikt</value>
+  <data name="Host_Portal_Used.Text" xml:space="preserve">
+    <value>Aplicatiesite gebruikt</value>
   </data>
-  <data name="identifiedTabLabel.Help" lastModified="2016-12-01 10:40:01">
-    <value xml:space="preserve">De naam van de DNN pagina die geidentificeerd is tijdens het URL Herschrijf proces.</value>
+  <data name="identifiedTabLabel.Help" xml:space="preserve">
+    <value>De naam van de DNN pagina die geidentificeerd is tijdens het URL Herschrijf proces.</value>
   </data>
-  <data name="identifiedTabLabel.Text" lastModified="2016-12-01 10:40:01">
-    <value xml:space="preserve">Geidentificeerde pagina</value>
+  <data name="identifiedTabLabel.Text" xml:space="preserve">
+    <value>Geidentificeerde pagina</value>
   </data>
-  <data name="ignoreRegExInvalidPattern.Text" lastModified="2016-12-01 10:40:01">
-    <value xml:space="preserve">Negeer URL Reguiliere Uitdrukking is ongeldig</value>
+  <data name="ignoreRegExInvalidPattern.Text" xml:space="preserve">
+    <value>Negeer URL Reguiliere Uitdrukking is ongeldig</value>
   </data>
-  <data name="ignoreRegExLabel.Help" lastModified="2016-12-01 12:46:00">
-    <value xml:space="preserve">Het negeer URL Regex patroon wordt gebruikt om het verwerken van URL's te stoppen door de URL herschrijf module. Dit zou gebruikt moeten worden wanneer de URL in kwestie niet overschreven hoeft te worden, herleid of anders verwerkt door de URL herschrijver. Voorbeelden zijn inclusief afbeeldingen, css bestanden, pdf bestanden, service verzoeken en verzoeken om bronnen niet geassocieerd met DotNetNuke.</value>
+  <data name="ignoreRegExLabel.Help" xml:space="preserve">
+    <value>Het negeer URL Regex patroon wordt gebruikt om het verwerken van URL's te stoppen door de URL herschrijf module. Dit zou gebruikt moeten worden wanneer de URL in kwestie niet overschreven hoeft te worden, herleid of anders verwerkt door de URL herschrijver. Voorbeelden zijn inclusief afbeeldingen, css bestanden, pdf bestanden, service verzoeken en verzoeken om bronnen niet geassocieerd met DotNetNuke.</value>
   </data>
-  <data name="ignoreRegExLabel.Text" lastModified="2016-12-01 12:46:00">
-    <value xml:space="preserve">Negeer URL Reguliere Uitdrukking</value>
+  <data name="ignoreRegExLabel.Text" xml:space="preserve">
+    <value>Negeer URL Reguliere Uitdrukking</value>
   </data>
-  <data name="keepInQueryStringRegExInvalidPattern.Text" lastModified="2016-12-01 12:46:00">
-    <value xml:space="preserve">Houd in Querystring Reguliere Uitdrukking is ongeldig.</value>
+  <data name="keepInQueryStringRegExInvalidPattern.Text" xml:space="preserve">
+    <value>Houd in Querystring Reguliere Uitdrukking is ongeldig.</value>
   </data>
-  <data name="keepInQueryStringRegExLabel.Help" lastModified="2016-12-01 13:55:21">
-    <value xml:space="preserve">De Houd in Querystring Reguliere Uitdrukking  staat u toe om gedeelte van het vriendelijke URL Pad te matchen en verzekeren dat het in de querystring blijft staan. Wanneer een DotNetNuke URL van /pagename/key/value is gegenereerd, een 'Houd in Querystring Reguliere Uitdrukking' patroon van  /key/value zal matchen met dat gedeelte van het pad en het laten als het deel van de querystring voor de gegenereerde URL; e.g. /pagename?key=value.</value>
+  <data name="keepInQueryStringRegExLabel.Help" xml:space="preserve">
+    <value>De Houd in Querystring Reguliere Uitdrukking  staat u toe om gedeelte van het vriendelijke URL Pad te matchen en verzekeren dat het in de querystring blijft staan. Wanneer een DotNetNuke URL van /pagename/key/value is gegenereerd, een 'Houd in Querystring Reguliere Uitdrukking' patroon van  /key/value zal matchen met dat gedeelte van het pad en het laten als het deel van de querystring voor de gegenereerde URL; e.g. /pagename?key=value.</value>
   </data>
-  <data name="keepInQueryStringRegExLabel.Text" lastModified="2016-12-01 14:56:21">
-    <value xml:space="preserve">Houd in Querystring Reguliere Uitdrukking</value>
+  <data name="keepInQueryStringRegExLabel.Text" xml:space="preserve">
+    <value>Houd in Querystring Reguliere Uitdrukking</value>
   </data>
-  <data name="languageLabel.Help" lastModified="2016-12-01 14:56:21">
-    <value xml:space="preserve">Toont de cultuur code als geidentificeerd tijdens het URL herschrijf proces.</value>
+  <data name="languageLabel.Help" xml:space="preserve">
+    <value>Toont de cultuur code als geidentificeerd tijdens het URL herschrijf proces.</value>
   </data>
-  <data name="languageLabel.Text" lastModified="2016-12-01 14:56:21">
-    <value xml:space="preserve">Geidentificeerde taal / cultuur</value>
+  <data name="languageLabel.Text" xml:space="preserve">
+    <value>Geidentificeerde taal / cultuur</value>
   </data>
-  <data name="lblCache.Help" lastModified="2016-12-01 16:00:16">
-    <value xml:space="preserve">Schakel deze optie in als u de sitemap wilt cachen zodat het niet steeds gegenereerd wordt elke keer op verzoek. dit is noodzakelijk voor grote sites. Als u site meer dan 50.000 URL's heeft dan zal de sitemap worden gecacht met een standaard waarde van 2 dag. Stel deze waarde in op 0 om caching uit te schakelen.</value>
+  <data name="lblCache.Help" xml:space="preserve">
+    <value>Schakel deze optie in als u de sitemap wilt cachen zodat het niet steeds gegenereerd wordt elke keer op verzoek. dit is noodzakelijk voor grote sites. Als u site meer dan 50.000 URL's heeft dan zal de sitemap worden gecacht met een standaard waarde van 2 dag. Stel deze waarde in op 0 om caching uit te schakelen.</value>
   </data>
-  <data name="lblCache.Text" lastModified="2016-12-01 16:00:16">
-    <value xml:space="preserve">Dagen om sitemap te cachen</value>
+  <data name="lblCache.Text" xml:space="preserve">
+    <value>Dagen om sitemap te cachen</value>
   </data>
-  <data name="lblExcludePriority.Help" lastModified="2016-12-01 16:00:16">
-    <value xml:space="preserve">Deze optie kan worden gebruikt om bepaalde pagina's te verwijderen uit de Sitemap. Bijvoorbeeld kan je een prioriteit instellen van -1 voor een pagina en -1 invullen om ervoor te zorgen dat de pagina niet zal wordenmeegenomen in de gegenereerde Sitemap.</value>
+  <data name="lblExcludePriority.Help" xml:space="preserve">
+    <value>Deze optie kan worden gebruikt om bepaalde pagina's te verwijderen uit de Sitemap. Bijvoorbeeld kan je een prioriteit instellen van -1 voor een pagina en -1 invullen om ervoor te zorgen dat de pagina niet zal wordenmeegenomen in de gegenereerde Sitemap.</value>
   </data>
-  <data name="lblExcludePriority.Text" lastModified="2016-12-01 17:00:36">
-    <value xml:space="preserve">Uitsluiten URL's met prioriteit lager dan</value>
+  <data name="lblExcludePriority.Text" xml:space="preserve">
+    <value>Uitsluiten URL's met prioriteit lager dan</value>
   </data>
-  <data name="lblIncludeHidden.Help" lastModified="2016-12-01 18:02:07">
-    <value xml:space="preserve">Wanneer verborgen pagina's zijn aangevinkt (niet zichtbaar in het menu) zullen ze ook worden opgenomen in de sitemap. De standaard is om verborgen pagina's niet op te nemen.</value>
+  <data name="lblIncludeHidden.Help" xml:space="preserve">
+    <value>Wanneer verborgen pagina's zijn aangevinkt (niet zichtbaar in het menu) zullen ze ook worden opgenomen in de sitemap. De standaard is om verborgen pagina's niet op te nemen.</value>
   </data>
-  <data name="lblIncludeHidden.Text" lastModified="2016-12-01 18:02:07">
-    <value xml:space="preserve">Insluiten verborgen pagina's</value>
+  <data name="lblIncludeHidden.Text" xml:space="preserve">
+    <value>Insluiten verborgen pagina's</value>
   </data>
-  <data name="lblLevelPriority.Help" lastModified="2016-12-01 19:04:58">
-    <value xml:space="preserve">Indien aangevinkt,zal  de prioriteit voor elke pagina worden berekend vanuit de hierarchie van de pagina. Topniveau pagina's hebben een waarde van 1, Tweede niveau 0.9, Derde niveau 0.8,... Deze instelling zal de waarde niet wijzigen die is opgeslagen in de actuele pagina, maar het zal de berekende waarde gebruiken indien vereist.</value>
+  <data name="lblLevelPriority.Help" xml:space="preserve">
+    <value>Indien aangevinkt,zal  de prioriteit voor elke pagina worden berekend vanuit de hierarchie van de pagina. Topniveau pagina's hebben een waarde van 1, Tweede niveau 0.9, Derde niveau 0.8,... Deze instelling zal de waarde niet wijzigen die is opgeslagen in de actuele pagina, maar het zal de berekende waarde gebruiken indien vereist.</value>
   </data>
-  <data name="lblLevelPriority.Text" lastModified="2016-12-01 20:05:16">
-    <value xml:space="preserve">Gebruik Pagina Niveau Gebaseerde Prioriteiten</value>
+  <data name="lblLevelPriority.Text" xml:space="preserve">
+    <value>Gebruik Pagina Niveau Gebaseerde Prioriteiten</value>
   </data>
-  <data name="lblMinPagePriority.Help" lastModified="2016-12-01 21:08:27">
-    <value xml:space="preserve">Wanneer "pagina niveau gebaseerde prioriteiten"gebruikt wordt, de minimum priopriteit voor pagina's kan gebruikt worden om de laagste prioriteit in te stellen die gebruikt wordt op lage niveau pagina's.</value>
+  <data name="lblMinPagePriority.Help" xml:space="preserve">
+    <value>Wanneer "pagina niveau gebaseerde prioriteiten"gebruikt wordt, de minimum priopriteit voor pagina's kan gebruikt worden om de laagste prioriteit in te stellen die gebruikt wordt op lage niveau pagina's.</value>
   </data>
-  <data name="lblMinPagePriority.Text" lastModified="2016-12-01 22:09:40">
-    <value xml:space="preserve">Minimum Prioriteit voor pagina's</value>
+  <data name="lblMinPagePriority.Text" xml:space="preserve">
+    <value>Minimum Prioriteit voor pagina's</value>
   </data>
-  <data name="lblSearchEngine.Help" lastModified="2016-12-01 22:09:40">
-    <value xml:space="preserve">Indienen site aan de geselecteerde zoekmachine ter indexering.</value>
+  <data name="lblSearchEngine.Help" xml:space="preserve">
+    <value>Indienen site aan de geselecteerde zoekmachine ter indexering.</value>
   </data>
-  <data name="lblSearchEngine.Text" lastModified="2016-12-01 23:13:03">
-    <value xml:space="preserve">Zoekmachine</value>
+  <data name="lblSearchEngine.Text" xml:space="preserve">
+    <value>Zoekmachine</value>
   </data>
-  <data name="lblVerification.Help" lastModified="2016-12-01 23:13:03">
-    <value xml:space="preserve">Bij aanmelding van Google Webmaster Tools dient u je site eigendom te verifieren. Kies de "Upload een HTMl bestand" methode van het Google Verificatie scherm. Vul de weergegeven bestandsnaam in  (ie. google53c0cef435b2b81e.html) in in de verificatie tekst box en klik op maak. Keer terug naar Google en selecteer de Verifieer knop.</value>
+  <data name="lblVerification.Help" xml:space="preserve">
+    <value>Bij aanmelding van Google Webmaster Tools dient u je site eigendom te verifieren. Kies de "Upload een HTMl bestand" methode van het Google Verificatie scherm. Vul de weergegeven bestandsnaam in  (ie. google53c0cef435b2b81e.html) in in de verificatie tekst box en klik op maak. Keer terug naar Google en selecteer de Verifieer knop.</value>
   </data>
-  <data name="lblVerification.Text" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">Verificatie</value>
+  <data name="lblVerification.Text" xml:space="preserve">
+    <value>Verificatie</value>
   </data>
-  <data name="lnkResetCache.Text" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">Leegmaken cache</value>
+  <data name="lnkResetCache.Text" xml:space="preserve">
+    <value>Leegmaken cache</value>
   </data>
-  <data name="minusCharacter.Text" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">"-" e.g. pagina-naam</value>
+  <data name="minusCharacter.Text" xml:space="preserve">
+    <value>"-" e.g. pagina-naam</value>
   </data>
-  <data name="Module_Provider_Redirect.Text" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">Module provider herleidt</value>
+  <data name="Module_Provider_Redirect.Text" xml:space="preserve">
+    <value>Module provider herleidt</value>
   </data>
-  <data name="Module_Provider_Rewrite_Redirect.Text" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">Module Provider herschrijf herleiding</value>
+  <data name="Module_Provider_Rewrite_Redirect.Text" xml:space="preserve">
+    <value>Module Provider herschrijf herleiding</value>
   </data>
-  <data name="Name.Header" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">NAAM</value>
+  <data name="Name.Header" xml:space="preserve">
+    <value>NAAM</value>
   </data>
-  <data name="nav_Seo.Text" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">S E O</value>
+  <data name="nav_Seo.Text" xml:space="preserve">
+    <value>S E O</value>
   </data>
-  <data name="No.Text" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">Nee</value>
+  <data name="No.Text" xml:space="preserve">
+    <value>Nee</value>
   </data>
-  <data name="No_Portal_Alias.Text" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">Geen portaal alias</value>
+  <data name="No_Portal_Alias.Text" xml:space="preserve">
+    <value>Geen portaal alias</value>
   </data>
-  <data name="NoExtensionUrlProviders.Text">
-    <value xml:space="preserve">Geen uitbreiding URL providers gevonden</value>
+  <data name="NoExtensionUrlProviders.Text" xml:space="preserve">
+    <value>Geen uitbreiding URL providers gevonden</value>
   </data>
-  <data name="None.Text" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">Geen</value>
+  <data name="None.Text" xml:space="preserve">
+    <value>Geen</value>
   </data>
-  <data name="NoneSpecified.Text" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">Niet gespecificeerd</value>
+  <data name="NoneSpecified.Text" xml:space="preserve">
+    <value>Niet gespecificeerd</value>
   </data>
-  <data name="Not_Redirected.Text" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">Niet herleid</value>
+  <data name="Not_Redirected.Text" xml:space="preserve">
+    <value>Niet herleid</value>
   </data>
-  <data name="operationMessagesLabel.Help" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">Elke debug bericht gemaakt tijdens het test URL herschrijf proces.</value>
+  <data name="operationMessagesLabel.Help" xml:space="preserve">
+    <value>Elke debug bericht gemaakt tijdens het test URL herschrijf proces.</value>
   </data>
-  <data name="operationMessagesLabel.Text" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">Operatie berichten</value>
+  <data name="operationMessagesLabel.Text" xml:space="preserve">
+    <value>Operatie berichten</value>
   </data>
-  <data name="overridePriority.Help" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">Overschrijf prioriteit</value>
+  <data name="overridePriority.Help" xml:space="preserve">
+    <value>Overschrijf prioriteit</value>
   </data>
-  <data name="overridePriority.Text" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">Overschrijf prioriteit</value>
+  <data name="overridePriority.Text" xml:space="preserve">
+    <value>Overschrijf prioriteit</value>
   </data>
-  <data name="Page_404.Text" lastModified="2016-12-01 11:42:22">
-    <value xml:space="preserve">Pagina 404</value>
+  <data name="Page_404.Text" xml:space="preserve">
+    <value>Pagina 404</value>
   </data>
-  <data name="pageNameLabel.Help" lastModified="2016-12-02 02:18:58">
-    <value xml:space="preserve">Sommige modules genereren een vriendelijke URL door het defineren van het laatste gedeelte van de URL. In dit geval, vul de waarde in voor de paginanaam die gebruikt wordt bij het genereren van een URL. Als u geen expliciete waarde heeft of het niet weet wanneer deze waarde te gebruiken, laar het veld dan leeg.</value>
+  <data name="pageNameLabel.Help" xml:space="preserve">
+    <value>Sommige modules genereren een vriendelijke URL door het defineren van het laatste gedeelte van de URL. In dit geval, vul de waarde in voor de paginanaam die gebruikt wordt bij het genereren van een URL. Als u geen expliciete waarde heeft of het niet weet wanneer deze waarde te gebruiken, laar het veld dan leeg.</value>
   </data>
-  <data name="pageNameLabel.Text" lastModified="2016-12-02 03:20:09">
-    <value xml:space="preserve">Aangepaste paginanaam / URL Einde String (optioneel)</value>
+  <data name="pageNameLabel.Text" xml:space="preserve">
+    <value>Aangepaste paginanaam / URL Einde String (optioneel)</value>
   </data>
-  <data name="plDeletedPages.Help" lastModified="2016-12-02 03:20:09">
-    <value xml:space="preserve">Selecteer het gedrag wat moet gebeuren wanneer een gebruiker naar een verwijderde, verlopen of uitgeschakelde pagina surft.</value>
+  <data name="plDeletedPages.Help" xml:space="preserve">
+    <value>Selecteer het gedrag wat moet gebeuren wanneer een gebruiker naar een verwijderde, verlopen of uitgeschakelde pagina surft.</value>
   </data>
-  <data name="plDeletedPages.Text" lastModified="2016-12-02 04:24:17">
-    <value xml:space="preserve">Herleiding verwijderde, verlopen, uitgeschakelde pagina's naar</value>
+  <data name="plDeletedPages.Text" xml:space="preserve">
+    <value>Herleiding verwijderde, verlopen, uitgeschakelde pagina's naar</value>
   </data>
-  <data name="preventLowerCaseUrlRegExInvalidPattern.Text" lastModified="2016-12-02 04:24:17">
-    <value xml:space="preserve">Voorkom Lowercase URL Reguliere Uitdrukking is ongeldig</value>
+  <data name="preventLowerCaseUrlRegExInvalidPattern.Text" xml:space="preserve">
+    <value>Voorkom Lowercase URL Reguliere Uitdrukking is ongeldig</value>
   </data>
-  <data name="preventLowerCaseUrlRegExLabel.Help" lastModified="2016-12-02 04:24:17">
-    <value xml:space="preserve">De Voorkom Lowercase URL Reguliere Uitdrukking stopt de automatische conversie naar lowercase voor elke matchende URL. Gebruik dit patroon om lowercase conversie te voorkomen van alle URL's die in gemixte/uppercase moeten blijven staan. Dit wordt vaak gebruikt om de conversie te stoppen van URL's waar de content van de URL gecodeerde karakters bevat of casus-sensitieve waarde bevat.</value>
+  <data name="preventLowerCaseUrlRegExLabel.Help" xml:space="preserve">
+    <value>De Voorkom Lowercase URL Reguliere Uitdrukking stopt de automatische conversie naar lowercase voor elke matchende URL. Gebruik dit patroon om lowercase conversie te voorkomen van alle URL's die in gemixte/uppercase moeten blijven staan. Dit wordt vaak gebruikt om de conversie te stoppen van URL's waar de content van de URL gecodeerde karakters bevat of casus-sensitieve waarde bevat.</value>
   </data>
-  <data name="preventLowerCaseUrlRegExLabel.Text" lastModified="2016-12-02 05:29:35">
-    <value xml:space="preserve">Voorkom Lowercase URL Reguliere Uitdrukking </value>
+  <data name="preventLowerCaseUrlRegExLabel.Text" xml:space="preserve">
+    <value>Voorkom Lowercase URL Reguliere Uitdrukking </value>
   </data>
-  <data name="Priority.Header" lastModified="2016-12-02 05:29:35">
-    <value xml:space="preserve">Prioriteit</value>
+  <data name="Priority.Header" xml:space="preserve">
+    <value>Prioriteit</value>
   </data>
-  <data name="queryStringLabel.Help" lastModified="2016-12-02 05:29:35">
-    <value xml:space="preserve">Om een URL te genereren die extra informatie insluit in een pad, voeg toe op de pad informatie in het formulier van een querystring. Bijvoorbeeld, het invulen van  &amp;amp;key=value zal de gegenereerde URL wijzigingen in include/key/value in het URL pad. Gebruik deze mogelijkheid om de voorbeeld URL's te testen die gegenereerd zijn door derde partij URL's.</value>
+  <data name="queryStringLabel.Help" xml:space="preserve">
+    <value>Om een URL te genereren die extra informatie insluit in een pad, voeg toe op de pad informatie in het formulier van een querystring. Bijvoorbeeld, het invulen van  &amp;amp;key=value zal de gegenereerde URL wijzigingen in include/key/value in het URL pad. Gebruik deze mogelijkheid om de voorbeeld URL's te testen die gegenereerd zijn door derde partij URL's.</value>
   </data>
-  <data name="queryStringLabel.Text" lastModified="2016-12-02 05:29:35">
-    <value xml:space="preserve">Toevoegen Querystring (optioneel)</value>
+  <data name="queryStringLabel.Text" xml:space="preserve">
+    <value>Toevoegen Querystring (optioneel)</value>
   </data>
-  <data name="redirectionReasonLabel.Help" lastModified="2016-12-02 05:29:35">
-    <value xml:space="preserve">Reden dat deze URL herleid is</value>
+  <data name="redirectionReasonLabel.Help" xml:space="preserve">
+    <value>Reden dat deze URL herleid is</value>
   </data>
-  <data name="redirectionReasonLabel.Text" lastModified="2016-12-02 05:29:35">
-    <value xml:space="preserve">Reden herleiding</value>
+  <data name="redirectionReasonLabel.Text" xml:space="preserve">
+    <value>Reden herleiding</value>
   </data>
-  <data name="redirectionResultLabel.Help" lastModified="2016-12-02 05:29:35">
-    <value xml:space="preserve">Als de geteste URL wordt herleid, dan toont het de herleidings locatie van de URL</value>
+  <data name="redirectionResultLabel.Help" xml:space="preserve">
+    <value>Als de geteste URL wordt herleid, dan toont het de herleidings locatie van de URL</value>
   </data>
-  <data name="redirectionResultLabel.Text" lastModified="2016-12-02 06:31:37">
-    <value xml:space="preserve">Herleidings resultaat</value>
+  <data name="redirectionResultLabel.Text" xml:space="preserve">
+    <value>Herleidings resultaat</value>
   </data>
-  <data name="redirectOnWrongCaseLabel.Help" lastModified="2016-12-02 06:31:37">
-    <value xml:space="preserve">Wanneer aangevinkt, elke URL die niet in lowercase staat zal worden herleid naarde lowercase versie van  de URL.</value>
+  <data name="redirectOnWrongCaseLabel.Help" xml:space="preserve">
+    <value>Wanneer aangevinkt, elke URL die niet in lowercase staat zal worden herleid naarde lowercase versie van  de URL.</value>
   </data>
-  <data name="redirectOnWrongCaseLabel.Text" lastModified="2016-12-02 06:31:37">
-    <value xml:space="preserve">Herleid Mixed Case URL's</value>
+  <data name="redirectOnWrongCaseLabel.Text" xml:space="preserve">
+    <value>Herleid Mixed Case URL's</value>
   </data>
-  <data name="RegularExpressions.Text" lastModified="2016-12-02 06:31:37">
-    <value xml:space="preserve">Reguliere uitdrukkingen</value>
+  <data name="RegularExpressions.Text" xml:space="preserve">
+    <value>Reguliere uitdrukkingen</value>
   </data>
-  <data name="ReplacementCharacter.Help" lastModified="2016-12-02 06:31:37">
-    <value xml:space="preserve">Standaard Vervangings Karakter</value>
+  <data name="ReplacementCharacter.Help" xml:space="preserve">
+    <value>Standaard Vervangings Karakter</value>
   </data>
-  <data name="ReplacementCharacter.Text" lastModified="2016-12-02 06:31:37">
-    <value xml:space="preserve">Standaard Vervangings Karakter</value>
+  <data name="ReplacementCharacter.Text" xml:space="preserve">
+    <value>Standaard Vervangings Karakter</value>
   </data>
-  <data name="Requested_404.Text" lastModified="2016-12-02 06:31:37">
-    <value xml:space="preserve">Verzoek 404</value>
+  <data name="Requested_404.Text" xml:space="preserve">
+    <value>Verzoek 404</value>
   </data>
-  <data name="Requested_404_In_Url.Text" lastModified="2016-12-02 06:31:37">
-    <value xml:space="preserve">Verzoek 404 in URL</value>
+  <data name="Requested_404_In_Url.Text" xml:space="preserve">
+    <value>Verzoek 404 in URL</value>
   </data>
-  <data name="Requested_SplashPage.Text" lastModified="2016-12-02 06:31:37">
-    <value xml:space="preserve">Verzoek Splashpagina</value>
+  <data name="Requested_SplashPage.Text" xml:space="preserve">
+    <value>Verzoek Splashpagina</value>
   </data>
-  <data name="resultingUrlsLabel.Help" lastModified="2016-12-02 07:33:25">
-    <value xml:space="preserve">Toont de lijst met URL's die gegenereerd kan worden vanuit de geselcteerde pagina, afhankelijk van alias en/of taal.</value>
+  <data name="resultingUrlsLabel.Help" xml:space="preserve">
+    <value>Toont de lijst met URL's die gegenereerd kan worden vanuit de geselcteerde pagina, afhankelijk van alias en/of taal.</value>
   </data>
-  <data name="resultingUrlsLabel.Text" lastModified="2016-12-02 07:33:25">
-    <value xml:space="preserve">Geresulteerde URL's</value>
+  <data name="resultingUrlsLabel.Text" xml:space="preserve">
+    <value>Geresulteerde URL's</value>
   </data>
-  <data name="rewritingResultLabel.Help" lastModified="2016-12-02 07:33:25">
-    <value xml:space="preserve">Toont de herschreven URL, in the raw format die gezien wordt door het DNN platform en derde partijen uitbreidingen.</value>
+  <data name="rewritingResultLabel.Help" xml:space="preserve">
+    <value>Toont de herschreven URL, in the raw format die gezien wordt door het DNN platform en derde partijen uitbreidingen.</value>
   </data>
-  <data name="rewritingResultLabel.Text" lastModified="2016-12-02 07:33:25">
-    <value xml:space="preserve">Herschrijvings resultaat</value>
+  <data name="rewritingResultLabel.Text" xml:space="preserve">
+    <value>Herschrijvings resultaat</value>
   </data>
-  <data name="Secure_Page_Requested.Text" lastModified="2016-12-02 07:33:25">
-    <value xml:space="preserve">Beveiligde pagina aangevraagd</value>
+  <data name="Secure_Page_Requested.Text" xml:space="preserve">
+    <value>Beveiligde pagina aangevraagd</value>
   </data>
-  <data name="selectPageToTestLabel.Help" lastModified="2016-12-02 08:36:45">
-    <value xml:space="preserve">Selecteer een pagina voor deze site om de URL generering te testen. Je kunt de 'Zoeken' box gebruiken om de lijst van pagina's te filteren.</value>
+  <data name="selectPageToTestLabel.Help" xml:space="preserve">
+    <value>Selecteer een pagina voor deze site om de URL generering te testen. Je kunt de 'Zoeken' box gebruiken om de lijst van pagina's te filteren.</value>
   </data>
-  <data name="selectPageToTestLabel.Text" lastModified="2016-12-02 08:36:45">
-    <value xml:space="preserve">Pagina om te testen.</value>
+  <data name="selectPageToTestLabel.Text" xml:space="preserve">
+    <value>Pagina om te testen.</value>
   </data>
-  <data name="setDefaultSiteLanguageLabel.Help" lastModified="2016-12-02 08:36:45">
-    <value xml:space="preserve">Wanneer aangevinkt, zal de standaard taal voor deze site altijd zijn ingesteld op de herschreven URL indien geen andere taal gevonden wordt.</value>
+  <data name="setDefaultSiteLanguageLabel.Help" xml:space="preserve">
+    <value>Wanneer aangevinkt, zal de standaard taal voor deze site altijd zijn ingesteld op de herschreven URL indien geen andere taal gevonden wordt.</value>
   </data>
-  <data name="setDefaultSiteLanguageLabel.Text" lastModified="2016-12-02 08:36:45">
-    <value xml:space="preserve">Instellen Standaard Site Taal</value>
+  <data name="setDefaultSiteLanguageLabel.Text" xml:space="preserve">
+    <value>Instellen Standaard Site Taal</value>
   </data>
-  <data name="SettingsError.Text" lastModified="2016-12-02 08:36:45">
-    <value xml:space="preserve">Kon de instellingen niet updaten. Probeer later nog eens.</value>
+  <data name="SettingsError.Text" xml:space="preserve">
+    <value>Kon de instellingen niet updaten. Probeer later nog eens.</value>
   </data>
-  <data name="SettingsRestoreWarning.Text" lastModified="2016-12-02 08:36:45">
-    <value xml:space="preserve">Weet u zeker dat u de wijzigingen wilt annuleren?</value>
+  <data name="SettingsRestoreWarning.Text" xml:space="preserve">
+    <value>Weet u zeker dat u de wijzigingen wilt annuleren?</value>
   </data>
-  <data name="SettingsUpdateSuccess.Text" lastModified="2016-12-02 08:36:45">
-    <value xml:space="preserve">De instellingen zijn ge-update.</value>
+  <data name="SettingsUpdateSuccess.Text" xml:space="preserve">
+    <value>De instellingen zijn ge-update.</value>
   </data>
-  <data name="Site_Root_Home.Text" lastModified="2016-12-02 08:36:45">
-    <value xml:space="preserve">Site Root Home</value>
+  <data name="Site_Root_Home.Text" xml:space="preserve">
+    <value>Site Root Home</value>
   </data>
-  <data name="SitemapProviders.Text" lastModified="2018-07-24 15:04:13">
-    <value xml:space="preserve">SITEMAPPROVIDERS</value>
+  <data name="SitemapProviders.Text" xml:space="preserve">
+    <value>SITEMAPPROVIDERS</value>
   </data>
-  <data name="SitemapSettings.Text" lastModified="2016-12-02 08:36:45">
-    <value xml:space="preserve">ALGEMENE SITEMAP INSTELLINGEN</value>
+  <data name="SitemapSettings.Text" xml:space="preserve">
+    <value>ALGEMENE SITEMAP INSTELLINGEN</value>
   </data>
-  <data name="SitemapSettingsTab.Text" lastModified="2016-12-02 08:36:45">
-    <value xml:space="preserve">Sitemap instellingen</value>
+  <data name="SitemapSettingsTab.Text" xml:space="preserve">
+    <value>Sitemap instellingen</value>
   </data>
-  <data name="sitemapUrlLabel.Help" lastModified="2016-12-02 09:39:03">
-    <value xml:space="preserve">Dien de sitemap in bij google voor betere zoek optimalisatie. Klik Indienen om een Google Webmaster Tools account te krijgen en verifieer je site eigendom ( door de verificatie optie hieronder te gebruiken). Eenmaal geverifieerd, kunt u de Toevoegen Website Sitemap optie selecteren op de Google Sitemaps tab en plakken in de Site Map URL die is weergegeven. </value>
+  <data name="sitemapUrlLabel.Help" xml:space="preserve">
+    <value>Dien de sitemap in bij google voor betere zoek optimalisatie. Klik Indienen om een Google Webmaster Tools account te krijgen en verifieer je site eigendom ( door de verificatie optie hieronder te gebruiken). Eenmaal geverifieerd, kunt u de Toevoegen Website Sitemap optie selecteren op de Google Sitemaps tab en plakken in de Site Map URL die is weergegeven. </value>
   </data>
-  <data name="sitemapUrlLabel.Text" lastModified="2016-12-02 10:39:46">
-    <value xml:space="preserve">Sitemap URL</value>
+  <data name="sitemapUrlLabel.Text" xml:space="preserve">
+    <value>Sitemap URL</value>
   </data>
-  <data name="SiteSubmission.Text" lastModified="2016-12-02 10:39:46">
-    <value xml:space="preserve">Site Indienen</value>
+  <data name="SiteSubmission.Text" xml:space="preserve">
+    <value>Site Indienen</value>
   </data>
-  <data name="SiteUrls_Config_Rule.Text" lastModified="2016-12-02 10:39:46">
-    <value xml:space="preserve">SiteUrls Configuratie regel</value>
+  <data name="SiteUrls_Config_Rule.Text" xml:space="preserve">
+    <value>SiteUrls Configuratie regel</value>
   </data>
-  <data name="siteUrlsOnlyRegExInvalidPattern.Text" lastModified="2016-12-02 10:39:46">
-    <value xml:space="preserve">Site URLs Only Reguliere Uitdrukking is ongeldig</value>
+  <data name="siteUrlsOnlyRegExInvalidPattern.Text" xml:space="preserve">
+    <value>Site URLs Only Reguliere Uitdrukking is ongeldig</value>
   </data>
-  <data name="siteUrlsOnlyRegExLabel.Help" lastModified="2016-12-02 12:46:41">
-    <value xml:space="preserve">Het Site URLs Only Reguliere Uitdrukking patroon wijzigt de verwerkings volgorde voor matchende URL's. Wanneer overeengekomen, zullen de URL's geevalueerd worden tegen een van de reguliere uitdrukkingen in de  siteURLs.config file, zonder eerst gecontroleerd te worden tegen de lijst van vriendelijke URL's voor deze site. Gebruik dit patroon om verwerking te forceren door het siteURLs.config bestand voor een expliciete URL Herschrijving en Herleiding gelokaliseerd binnen dat bestand.</value>
+  <data name="siteUrlsOnlyRegExLabel.Help" xml:space="preserve">
+    <value>Het Site URLs Only Reguliere Uitdrukking patroon wijzigt de verwerkings volgorde voor matchende URL's. Wanneer overeengekomen, zullen de URL's geevalueerd worden tegen een van de reguliere uitdrukkingen in de  siteURLs.config file, zonder eerst gecontroleerd te worden tegen de lijst van vriendelijke URL's voor deze site. Gebruik dit patroon om verwerking te forceren door het siteURLs.config bestand voor een expliciete URL Herschrijving en Herleiding gelokaliseerd binnen dat bestand.</value>
   </data>
-  <data name="siteUrlsOnlyRegExLabel.Text" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">Site URLs Only Reguliere Uitdrukking</value>
+  <data name="siteUrlsOnlyRegExLabel.Text" xml:space="preserve">
+    <value>Site URLs Only Reguliere Uitdrukking</value>
   </data>
-  <data name="Spaces_Replaced.Text" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">Ruimtes verplaatst</value>
+  <data name="Spaces_Replaced.Text" xml:space="preserve">
+    <value>Ruimtes verplaatst</value>
   </data>
-  <data name="Submit.Text" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">Indienen</value>
+  <data name="Submit.Text" xml:space="preserve">
+    <value>Indienen</value>
   </data>
-  <data name="Tab_External_Url.Text" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">Tab externe URL</value>
+  <data name="Tab_External_Url.Text" xml:space="preserve">
+    <value>Tab externe URL</value>
   </data>
-  <data name="Tab_Permanent_Redirect.Text" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">Tab permanente herleiding</value>
+  <data name="Tab_Permanent_Redirect.Text" xml:space="preserve">
+    <value>Tab permanente herleiding</value>
   </data>
-  <data name="TestPageUrl.Text" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">Test een pagina URL</value>
+  <data name="TestPageUrl.Text" xml:space="preserve">
+    <value>Test een pagina URL</value>
   </data>
-  <data name="TestUrlButtonCaption.Text" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">Testen URL</value>
+  <data name="TestUrlButtonCaption.Text" xml:space="preserve">
+    <value>Testen URL</value>
   </data>
-  <data name="TestUrlRewriting.Text" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">TESTEN URL HERSCHRIJVING</value>
+  <data name="TestUrlRewriting.Text" xml:space="preserve">
+    <value>TESTEN URL HERSCHRIJVING</value>
   </data>
-  <data name="testUrlRewritingButton.Text" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">Testen URL Herschrijving</value>
+  <data name="testUrlRewritingButton.Text" xml:space="preserve">
+    <value>Testen URL Herschrijving</value>
   </data>
-  <data name="testUrlRewritingLabel.Help" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">Vul een volwaardige URL in ( inclusief  http:// or https://) in dit veld om de URL Herschrijven / Herleiden te testen</value>
+  <data name="testUrlRewritingLabel.Help" xml:space="preserve">
+    <value>Vul een volwaardige URL in ( inclusief  http:// or https://) in dit veld om de URL Herschrijven / Herleiden te testen</value>
   </data>
-  <data name="testUrlRewritingLabel.Text" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">URL om te testen</value>
+  <data name="testUrlRewritingLabel.Text" xml:space="preserve">
+    <value>URL om te testen</value>
   </data>
-  <data name="TestURLTab.Text" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">TESTEN URL</value>
+  <data name="TestURLTab.Text" xml:space="preserve">
+    <value>TESTEN URL</value>
   </data>
-  <data name="underscoreCharacter.Text" lastModified="2018-07-24 15:04:13">
-    <value xml:space="preserve">"_" e.g. bijv. pagina_naam</value>
+  <data name="underscoreCharacter.Text" xml:space="preserve">
+    <value>"_" e.g. bijv. pagina_naam</value>
   </data>
-  <data name="Unfriendly_Url_Child_Portal.Text" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">Onvriendelijke URL Child site</value>
+  <data name="Unfriendly_Url_Child_Portal.Text" xml:space="preserve">
+    <value>Onvriendelijke URL Child site</value>
   </data>
-  <data name="Unfriendly_Url_TabId.Text" lastModified="2016-12-02 11:43:09">
-    <value xml:space="preserve">Onvriendelijke URL TabId</value>
+  <data name="Unfriendly_Url_TabId.Text" xml:space="preserve">
+    <value>Onvriendelijke URL TabId</value>
   </data>
-  <data name="URLManagementTab.Text" lastModified="2016-12-02 01:16:38">
-    <value xml:space="preserve">URL Beheer</value>
+  <data name="URLManagementTab.Text" xml:space="preserve">
+    <value>URL Beheer</value>
   </data>
-  <data name="UrlRedirects.Text" lastModified="2016-12-02 01:16:38">
-    <value xml:space="preserve">URL HERLEIDING</value>
+  <data name="UrlRedirects.Text" xml:space="preserve">
+    <value>URL HERLEIDING</value>
   </data>
-  <data name="UrlRewriter.Text" lastModified="2016-12-02 01:16:38">
-    <value xml:space="preserve">URL HERSCHRIJVER</value>
+  <data name="UrlRewriter.Text" xml:space="preserve">
+    <value>URL HERSCHRIJVER</value>
   </data>
-  <data name="urlsWithNoExtensionRegExInvalidPattern.Text" lastModified="2016-12-02 13:49:31">
-    <value xml:space="preserve">URL's Zonder Reguliere Uitdrukking is ongeldig.</value>
+  <data name="urlsWithNoExtensionRegExInvalidPattern.Text" xml:space="preserve">
+    <value>URL's Zonder Reguliere Uitdrukking is ongeldig.</value>
   </data>
-  <data name="urlsWithNoExtensionRegExLabel.Help" lastModified="2016-12-02 13:49:31">
-    <value xml:space="preserve">Het URL's Zonder Reguliere Uitdrukking patroon wordt gebruikt om URL's te valideren die niet verwijzen naar bron op de server, die geen DNN pagina's zijn, maar kunnen worden opgevraagd zonder URL extentie. URL's die deze reguliere uitdrukking matchen zullen niet behandeld worden als een 404 als een matchende DotNetNuke pagina niet kan worden gevonden voor de URL.</value>
+  <data name="urlsWithNoExtensionRegExLabel.Help" xml:space="preserve">
+    <value>Het URL's Zonder Reguliere Uitdrukking patroon wordt gebruikt om URL's te valideren die niet verwijzen naar bron op de server, die geen DNN pagina's zijn, maar kunnen worden opgevraagd zonder URL extentie. URL's die deze reguliere uitdrukking matchen zullen niet behandeld worden als een 404 als een matchende DotNetNuke pagina niet kan worden gevonden voor de URL.</value>
   </data>
-  <data name="urlsWithNoExtensionRegExLabel.Text" lastModified="2016-12-02 14:51:23">
-    <value xml:space="preserve">URL's Zonder Reguliere Uitdrukking</value>
+  <data name="urlsWithNoExtensionRegExLabel.Text" xml:space="preserve">
+    <value>URL's Zonder Reguliere Uitdrukking</value>
   </data>
-  <data name="User_Profile_Url.Text" lastModified="2016-12-02 14:51:23">
-    <value xml:space="preserve">Gebruikersprofiel URL</value>
+  <data name="User_Profile_Url.Text" xml:space="preserve">
+    <value>Gebruikersprofiel URL</value>
   </data>
-  <data name="validFriendlyUrlRegExInvalidPattern.Text" lastModified="2016-12-02 14:51:23">
-    <value xml:space="preserve">Geldig Vriendelijke URL Reguliere Uitdrukking is ongeldig</value>
+  <data name="validFriendlyUrlRegExInvalidPattern.Text" xml:space="preserve">
+    <value>Geldig Vriendelijke URL Reguliere Uitdrukking is ongeldig</value>
   </data>
-  <data name="validFriendlyUrlRegExLabel.Help" lastModified="2016-12-02 14:51:23">
-    <value xml:space="preserve">Dit patroon wordt gebruikt om te bepalen of de karakters die een paginanaam bepalen of URL segment geldig zijn voor het vormen van een vriendelijk URL pas. Karakters die niet overeenkomen met het patroon zullen worden verwijderd uit de paginanamen.</value>
+  <data name="validFriendlyUrlRegExLabel.Help" xml:space="preserve">
+    <value>Dit patroon wordt gebruikt om te bepalen of de karakters die een paginanaam bepalen of URL segment geldig zijn voor het vormen van een vriendelijk URL pas. Karakters die niet overeenkomen met het patroon zullen worden verwijderd uit de paginanamen.</value>
   </data>
-  <data name="validFriendlyUrlRegExLabel.Text" lastModified="2016-12-02 15:52:19">
-    <value xml:space="preserve">Geldig Vriendelijke URL Reguliere Uitdrukking</value>
+  <data name="validFriendlyUrlRegExLabel.Text" xml:space="preserve">
+    <value>Geldig Vriendelijke URL Reguliere Uitdrukking</value>
   </data>
-  <data name="VerificationValidity.ErrorMessage" lastModified="2016-12-02 15:52:19">
-    <value xml:space="preserve">Geldige Bestandsnaam moet een .html extentie hebben (ie. google53c0cef435b2b81e.html)</value>
+  <data name="VerificationValidity.ErrorMessage" xml:space="preserve">
+    <value>Geldige Bestandsnaam moet een .html extentie hebben (ie. google53c0cef435b2b81e.html)</value>
   </data>
-  <data name="Wrong_Portal_Alias.Text" lastModified="2016-12-02 00:16:08">
-    <value xml:space="preserve">Fout Portaal Alias</value>
+  <data name="Wrong_Portal_Alias.Text" xml:space="preserve">
+    <value>Fout Portaal Alias</value>
   </data>
-  <data name="Wrong_Portal_Alias_For_Browser_Type.Text" lastModified="2016-12-02 00:16:08">
-    <value xml:space="preserve">Fout Portaal Alias voor browser type</value>
+  <data name="Wrong_Portal_Alias_For_Browser_Type.Text" xml:space="preserve">
+    <value>Fout Portaal Alias voor browser type</value>
   </data>
-  <data name="Wrong_Portal_Alias_For_Culture.Text" lastModified="2016-12-02 00:16:08">
-    <value xml:space="preserve">Fout Portaal Alias voor cultuur</value>
+  <data name="Wrong_Portal_Alias_For_Culture.Text" xml:space="preserve">
+    <value>Fout Portaal Alias voor cultuur</value>
   </data>
-  <data name="Wrong_Portal_Alias_For_Culture_And_Browser.Text" lastModified="2016-12-02 00:16:08">
-    <value xml:space="preserve">Fout Portaal Alias voor cultuur en browser</value>
+  <data name="Wrong_Portal_Alias_For_Culture_And_Browser.Text" xml:space="preserve">
+    <value>Fout Portaal Alias voor cultuur en browser</value>
   </data>
-  <data name="Wrong_Sub_Domain.Text" lastModified="2016-12-02 00:16:08">
-    <value xml:space="preserve">Fout Subdomein</value>
+  <data name="Wrong_Sub_Domain.Text" xml:space="preserve">
+    <value>Fout Subdomein</value>
   </data>
-  <data name="Yes.Text" lastModified="2016-12-02 00:16:08">
-    <value xml:space="preserve">Ja</value>
+  <data name="Yes.Text" xml:space="preserve">
+    <value>Ja</value>
   </data>
 </root>

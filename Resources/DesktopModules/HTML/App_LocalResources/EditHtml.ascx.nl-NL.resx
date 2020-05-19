@@ -12,89 +12,89 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddContent.Text">
-    <value xml:space="preserve">Tekst toevoegen ...</value>
+  <data name="AddContent.Text" xml:space="preserve">
+    <value>Tekst toevoegen ...</value>
   </data>
-  <data name="chkPublish.Text">
-    <value xml:space="preserve">Veranderingen publiceren?</value>
+  <data name="chkPublish.Text" xml:space="preserve">
+    <value>Veranderingen publiceren?</value>
   </data>
-  <data name="cmdCancel.Text">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="cmdCancel.Text" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="cmdCancelSubmit.Text" lastModified="2020-05-10 17:53:26">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="cmdCancelSubmit.Text" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="cmdHideMasterContent.Text" lastModified="2020-05-10 17:53:26">
-    <value xml:space="preserve">Verberg de standaard taal</value>
+  <data name="cmdHideMasterContent.Text" xml:space="preserve">
+    <value>Verberg de standaard taal</value>
   </data>
-  <data name="cmdHistory.Text" lastModified="2020-05-10 17:53:26">
-    <value xml:space="preserve">Versiehistorie</value>
+  <data name="cmdHistory.Text" xml:space="preserve">
+    <value>Versiehistorie</value>
   </data>
-  <data name="cmdPreview.Text">
-    <value xml:space="preserve">Voorbeeld</value>
+  <data name="cmdPreview.Text" xml:space="preserve">
+    <value>Voorbeeld</value>
   </data>
-  <data name="cmdSave.Text">
-    <value xml:space="preserve">Opslaan</value>
+  <data name="cmdSave.Text" xml:space="preserve">
+    <value>Opslaan</value>
   </data>
-  <data name="cmdShowMasterContent.Text" lastModified="2020-05-10 17:53:26">
-    <value xml:space="preserve">Toon standaardtaal</value>
+  <data name="cmdShowMasterContent.Text" xml:space="preserve">
+    <value>Toon standaardtaal</value>
   </data>
-  <data name="Content Staging.Text" lastModified="2020-05-10 17:53:26">
-    <value xml:space="preserve">Content staging</value>
+  <data name="Content Staging.Text" xml:space="preserve">
+    <value>Content staging</value>
   </data>
-  <data name="ControlTitle_edit.Text">
-    <value xml:space="preserve">Bewerk tekst/html</value>
+  <data name="ControlTitle_edit.Text" xml:space="preserve">
+    <value>Bewerk tekst/html</value>
   </data>
-  <data name="Date.Header">
-    <value xml:space="preserve">Datum</value>
+  <data name="Date.Header" xml:space="preserve">
+    <value>Datum</value>
   </data>
-  <data name="Delete.Text">
-    <value xml:space="preserve">Verwijder deze versie</value>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Verwijder deze versie</value>
   </data>
-  <data name="DeleteVersion.Confirm">
-    <value xml:space="preserve">Weet u zeker dat u versie [VERSION] ([STATE]), welke door [USERNAME] is gemaakt op [DATECREATED], permanent wilt verwijderen?</value>
+  <data name="DeleteVersion.Confirm" xml:space="preserve">
+    <value>Weet u zeker dat u versie [VERSION] ([STATE]), welke door [USERNAME] is gemaakt op [DATECREATED], permanent wilt verwijderen?</value>
   </data>
-  <data name="Direct Publish.Text">
-    <value xml:space="preserve">Direct publiceren</value>
+  <data name="Direct Publish.Text" xml:space="preserve">
+    <value>Direct publiceren</value>
   </data>
-  <data name="Draft.Text">
-    <value xml:space="preserve">Concept</value>
+  <data name="Draft.Text" xml:space="preserve">
+    <value>Concept</value>
   </data>
-  <data name="dshCurrentContent.Text">
-    <value xml:space="preserve">Huidige Content</value>
+  <data name="dshCurrentContent.Text" xml:space="preserve">
+    <value>Huidige Content</value>
   </data>
-  <data name="dshHistory.Text">
-    <value xml:space="preserve">Details over workflow</value>
+  <data name="dshHistory.Text" xml:space="preserve">
+    <value>Details over workflow</value>
   </data>
-  <data name="dshMaster.Text">
-    <value xml:space="preserve">Hoofd Taal Versie</value>
+  <data name="dshMaster.Text" xml:space="preserve">
+    <value>Hoofd Taal Versie</value>
   </data>
-  <data name="Edit.Text">
-    <value xml:space="preserve">Terugplaatsen Content</value>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Terugplaatsen Content</value>
   </data>
-  <data name="EditPreviewState.Text">
-    <value xml:space="preserve">Voorbeeld wijzigen</value>
+  <data name="EditPreviewState.Text" xml:space="preserve">
+    <value>Voorbeeld wijzigen</value>
   </data>
-  <data name="False.Text">
-    <value xml:space="preserve">Onwaar</value>
+  <data name="False.Text" xml:space="preserve">
+    <value>Onwaar</value>
   </data>
-  <data name="Item.Text">
-    <value xml:space="preserve">Tekst voorbeeld</value>
+  <data name="Item.Text" xml:space="preserve">
+    <value>Tekst voorbeeld</value>
   </data>
-  <data name="lblNoRecords.Text" lastModified="2020-05-10 17:53:26">
-    <value xml:space="preserve">Er is geen historie voor deze content</value>
+  <data name="lblNoRecords.Text" xml:space="preserve">
+    <value>Er is geen historie voor deze content</value>
   </data>
-  <data name="lblPreviewWorkflowState.Text">
-    <value xml:space="preserve">Status</value>
+  <data name="lblPreviewWorkflowState.Text" xml:space="preserve">
+    <value>Status</value>
   </data>
-  <data name="liBasicText.Text" lastModified="2020-05-10 17:53:26">
-    <value xml:space="preserve">Basis tekstvak</value>
+  <data name="liBasicText.Text" xml:space="preserve">
+    <value>Basis tekstvak</value>
   </data>
-  <data name="liRichText.Text" lastModified="2020-05-10 17:53:26">
-    <value xml:space="preserve">Uitgebreid tekstvak</value>
+  <data name="liRichText.Text" xml:space="preserve">
+    <value>Uitgebreid tekstvak</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;p&gt;
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;p&gt;
         Met de HTML module kan zowel platte- als HTML tekst beheerd worden:
     &lt;/p&gt;
     &lt;ol&gt;
@@ -111,88 +111,88 @@
                 e-mail links, File Manager fotogalerij, bullet points, spellingscontrole en nog
                 veel meer.&lt;/li&gt;</value>
   </data>
-  <data name="NoVersions.Text">
-    <value xml:space="preserve">Er is geen versienummer voor deze tekst.</value>
+  <data name="NoVersions.Text" xml:space="preserve">
+    <value>Er is geen versienummer voor deze tekst.</value>
   </data>
-  <data name="plActionOnSave.Help">
-    <value xml:space="preserve">Aanvullende actie die uitgevoerd moet worden (naast opslaan) als er op de "Opslaan" knop gedrukt wordt</value>
+  <data name="plActionOnSave.Help" xml:space="preserve">
+    <value>Aanvullende actie die uitgevoerd moet worden (naast opslaan) als er op de "Opslaan" knop gedrukt wordt</value>
   </data>
-  <data name="plActionOnSave.Text">
-    <value xml:space="preserve">Tijdens opslaan</value>
+  <data name="plActionOnSave.Text" xml:space="preserve">
+    <value>Tijdens opslaan</value>
   </data>
-  <data name="plCurrentWorkflowInUse.Help">
-    <value xml:space="preserve">De huidige workflow die door deze module gebruikt wordt</value>
+  <data name="plCurrentWorkflowInUse.Help" xml:space="preserve">
+    <value>De huidige workflow die door deze module gebruikt wordt</value>
   </data>
-  <data name="plCurrentWorkflowInUse.Text">
-    <value xml:space="preserve">Gebruikte workflow</value>
+  <data name="plCurrentWorkflowInUse.Text" xml:space="preserve">
+    <value>Gebruikte workflow</value>
   </data>
-  <data name="plCurrentWorkflowState.Help">
-    <value xml:space="preserve">Status van de workflow die op dit moment gebruikt wordt</value>
+  <data name="plCurrentWorkflowState.Help" xml:space="preserve">
+    <value>Status van de workflow die op dit moment gebruikt wordt</value>
   </data>
-  <data name="plCurrentWorkflowState.Text">
-    <value xml:space="preserve">Workflow status</value>
+  <data name="plCurrentWorkflowState.Text" xml:space="preserve">
+    <value>Workflow status</value>
   </data>
-  <data name="plCurrentWorkVersion.Help">
-    <value xml:space="preserve">Geeft het versienummer van de tekst weer</value>
+  <data name="plCurrentWorkVersion.Help" xml:space="preserve">
+    <value>Geeft het versienummer van de tekst weer</value>
   </data>
-  <data name="plCurrentWorkVersion.Text">
-    <value xml:space="preserve">Versie</value>
+  <data name="plCurrentWorkVersion.Text" xml:space="preserve">
+    <value>Versie</value>
   </data>
-  <data name="plMaxVersions.Help">
-    <value xml:space="preserve">Het maximale aantal tekst versies dat bijgehouden wordt in deze module</value>
+  <data name="plMaxVersions.Help" xml:space="preserve">
+    <value>Het maximale aantal tekst versies dat bijgehouden wordt in deze module</value>
   </data>
-  <data name="plMaxVersions.Text">
-    <value xml:space="preserve">Maximum aantal versies</value>
+  <data name="plMaxVersions.Text" xml:space="preserve">
+    <value>Maximum aantal versies</value>
   </data>
-  <data name="plPreviewVersion.Help">
-    <value xml:space="preserve">Toon het versienummer van de tekst</value>
+  <data name="plPreviewVersion.Help" xml:space="preserve">
+    <value>Toon het versienummer van de tekst</value>
   </data>
-  <data name="plPreviewVersion.Text">
-    <value xml:space="preserve">Versie</value>
+  <data name="plPreviewVersion.Text" xml:space="preserve">
+    <value>Versie</value>
   </data>
-  <data name="plPreviewWorkflowInUse.Help">
-    <value xml:space="preserve">De naam van de workflow configuratie die door deze module momenteel gebruikt wordt.</value>
+  <data name="plPreviewWorkflowInUse.Help" xml:space="preserve">
+    <value>De naam van de workflow configuratie die door deze module momenteel gebruikt wordt.</value>
   </data>
-  <data name="plPreviewWorkflowInUse.Text">
-    <value xml:space="preserve">Gebruikte workflow </value>
+  <data name="plPreviewWorkflowInUse.Text" xml:space="preserve">
+    <value>Gebruikte workflow </value>
   </data>
-  <data name="plPreviewWorkflowState.Help">
-    <value xml:space="preserve">De status van de workflow van de weergegeven tekst.</value>
+  <data name="plPreviewWorkflowState.Help" xml:space="preserve">
+    <value>De status van de workflow van de weergegeven tekst.</value>
   </data>
-  <data name="plPreviewWorkflowState.Text">
-    <value xml:space="preserve">Workflowstatus</value>
+  <data name="plPreviewWorkflowState.Text" xml:space="preserve">
+    <value>Workflowstatus</value>
   </data>
-  <data name="plPublish.Help">
-    <value xml:space="preserve">Geef aan of de tekst gereed is voor publicatie</value>
+  <data name="plPublish.Help" xml:space="preserve">
+    <value>Geef aan of de tekst gereed is voor publicatie</value>
   </data>
-  <data name="plPublish.Text">
-    <value xml:space="preserve">Publiceer</value>
+  <data name="plPublish.Text" xml:space="preserve">
+    <value>Publiceer</value>
   </data>
-  <data name="plWorkflowState.Help">
-    <value xml:space="preserve">Geeft de huidige status van de tekst weer</value>
+  <data name="plWorkflowState.Help" xml:space="preserve">
+    <value>Geeft de huidige status van de tekst weer</value>
   </data>
-  <data name="Published.Text">
-    <value xml:space="preserve">Gepubliceerd</value>
+  <data name="Published.Text" xml:space="preserve">
+    <value>Gepubliceerd</value>
   </data>
-  <data name="State.Header">
-    <value xml:space="preserve">Status</value>
+  <data name="State.Header" xml:space="preserve">
+    <value>Status</value>
   </data>
-  <data name="True.Text">
-    <value xml:space="preserve">Waar</value>
+  <data name="True.Text" xml:space="preserve">
+    <value>Waar</value>
   </data>
-  <data name="User.Header">
-    <value xml:space="preserve">Gebruiker</value>
+  <data name="User.Header" xml:space="preserve">
+    <value>Gebruiker</value>
   </data>
-  <data name="Version.Header">
-    <value xml:space="preserve">Versie</value>
+  <data name="Version.Header" xml:space="preserve">
+    <value>Versie</value>
   </data>
-  <data name="VersionsPreview.Text">
-    <value xml:space="preserve">Voorbeeld</value>
+  <data name="VersionsPreview.Text" xml:space="preserve">
+    <value>Voorbeeld</value>
   </data>
-  <data name="VersionsRemove.Text">
-    <value xml:space="preserve">Verwijder</value>
+  <data name="VersionsRemove.Text" xml:space="preserve">
+    <value>Verwijder</value>
   </data>
-  <data name="VersionsRollback.Text">
-    <value xml:space="preserve">Vorige versie terugzetten</value>
+  <data name="VersionsRollback.Text" xml:space="preserve">
+    <value>Vorige versie terugzetten</value>
   </data>
 </root>
