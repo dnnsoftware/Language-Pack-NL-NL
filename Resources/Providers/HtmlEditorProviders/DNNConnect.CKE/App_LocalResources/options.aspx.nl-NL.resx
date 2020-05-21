@@ -382,7 +382,7 @@
     <value>Knppenbalkgroepen</value>
   </data>
   <data name="ToolbarNameMissing.Text" xml:space="preserve">
-    <value>U moet een knoppenbalknaam invoeren.</value>
+    <value>Je moet een knoppenbalknaam invoeren.</value>
   </data>
   <data name="ToolbarSetCreated.Text" xml:space="preserve">
     <value>Nieuwe knoppenbalkreeks "{0}" gecreëerd.</value>

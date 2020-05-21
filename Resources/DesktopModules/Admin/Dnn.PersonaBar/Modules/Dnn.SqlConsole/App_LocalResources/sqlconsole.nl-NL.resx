@@ -25,7 +25,7 @@
     <value>Verwijderen</value>
   </data>
   <data name="DeleteConfirm.Text" xml:space="preserve">
-    <value>Bevestig dat u deze query wilt verwijderen.</value>
+    <value>Bevestig dat je deze query wilt verwijderen.</value>
   </data>
   <data name="EmptyName.Text" xml:space="preserve">
     <value>Kan de query niet opslaan met lege naam.</value>

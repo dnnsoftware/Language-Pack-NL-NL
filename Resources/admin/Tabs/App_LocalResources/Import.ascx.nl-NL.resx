@@ -79,7 +79,7 @@
     <value>Import modus:</value>
   </data>
   <data name="plParentTab.Help" xml:space="preserve">
-    <value>Selecteer de pagina waar u deze pagina als sub-pagina aan wilt toevoegen.</value>
+    <value>Selecteer de pagina waar je deze pagina als sub-pagina aan wilt toevoegen.</value>
   </data>
   <data name="plParentTab.Text" xml:space="preserve">
     <value>Bovenliggende pagina</value>
@@ -115,7 +115,7 @@
     <value>De paginanaam die je hebt gekozen is al in gebruik op het zelfde niveau in de pagina hiërarchie.</value>
   </data>
   <data name="TabRecycled.Text" xml:space="preserve">
-    <value>Een pagina met dezelfde naam bestaat al in de prullenmand. Om deze pagina te herstellen moet u de prullenbak gebruiker.</value>
+    <value>Een pagina met dezelfde naam bestaat al in de prullenmand. Om deze pagina te herstellen moet je de prullenbak gebruiker.</value>
   </data>
   <data name="valTemplate.ErrorMessage" xml:space="preserve">
     <value>Selecteer een sjabloon</value>

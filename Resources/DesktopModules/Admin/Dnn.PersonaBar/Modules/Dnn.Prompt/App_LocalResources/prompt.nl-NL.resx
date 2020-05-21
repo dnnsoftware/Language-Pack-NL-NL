@@ -19,7 +19,7 @@
     <value>{0} of {1}</value>
   </data>
   <data name="DidYouMean.Text" xml:space="preserve">
-    <value>Bedoelde u '{0}'?</value>
+    <value>Bedoelde je '{0}'?</value>
   </data>
   <data name="Help_Default.Text" xml:space="preserve">
     <value>Standaard</value>
@@ -114,11 +114,11 @@
 
   &lt;h3&gt;Prompt-opdrachten begrijpen &lt;/h3&gt;
   &lt;p&gt;
- Zoals met de meeste opdrachtregelinterfaces, des te meer opdrachten u onthoudt, des te efficiënter u kunt zijn. Het begrijpen van de redenering achter &lt;em&gt;hoe&lt;/em&gt; promptopdrachten benoemd en gestructureerd zijn, maakt het veel gemakkelijker om ze te leren en ze eigen te maken.
+ Zoals met de meeste opdrachtregelinterfaces, des te meer opdrachten je onthoudt, des te efficiënter je kunt zijn. Het begrijpen van de redenering achter &lt;em&gt;hoe&lt;/em&gt; promptopdrachten benoemd en gestructureerd zijn, maakt het veel gemakkelijker om ze te leren en ze eigen te maken.
   &lt;/p&gt;
   &lt;ol&gt;
     &lt;li&gt;
-      &lt;strong&gt;Prompt is hoofdlettergevoelig&lt;/strong&gt;. Dat betekent dat u letters, hoofdletters of een mengsel van deze twee als commandonamen en optiemarkeringnamen kunt gebruiken. Dit is typerend voor de meeste opdrachtregels en we merken dat het het gebruik ervan op dagelijkse basis vereenvoudigt.
+      &lt;strong&gt;Prompt is hoofdlettergevoelig&lt;/strong&gt;. Dat betekent dat je letters, hoofdletters of een mengsel van deze twee als commandonamen en optiemarkeringnamen kunt gebruiken. Dit is typerend voor de meeste opdrachtregels en we merken dat het het gebruik ervan op dagelijkse basis vereenvoudigt.
     &lt;/li&gt;
     &lt;li&gt;
       &lt;strong&gt;Commando's zijn 1 of 2 woorden geschieden door een enkel koppelteken (-) en geen spaties&lt;/strong&gt;.
@@ -157,7 +157,7 @@
     &lt;tr&gt;
       &lt;td class="mono"&gt;new&lt;/td&gt;
       &lt;td&gt;
-        Creëert een nieuw object. We hebben het woord &lt;code&gt; nieuw &lt;/code&gt; gekozen omdat u dan minder hoeft te typen dan 'maken' en het is nauwkeuriger dan 'toevoegen', wat inhoudt dat iets aan iets anders wordt toegevoegd.
+        Creëert een nieuw object. We hebben het woord &lt;code&gt; nieuw &lt;/code&gt; gekozen omdat je dan minder hoeft te typen dan 'maken' en het is nauwkeuriger dan 'toevoegen', wat inhoudt dat iets aan iets anders wordt toegevoegd.
       &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -168,7 +168,7 @@
     &lt;tr&gt;
       &lt;td class="mono"&gt;set&lt;/td&gt;
       &lt;td&gt;
-  Wijzigt een object. Dit kan 'update' betekenen of (voor de eerste keer) een waarde instellen. We kozen het woord 'set' niet alleen omdat het kort en gemakkelijk te typen is, maar ook omdat het nauwkeuriger is in meerdere gevallen. 'Bijwerken' houdt in dat u een reeds ingestelde waarde wijzigt, maar minder nauwkeurig als u voor de eerste keer een waarde instelt. En hebben we al gezegd dat 'set' de helft is van de 'update'? &lt;/td&gt;
+  Wijzigt een object. Dit kan 'update' betekenen of (voor de eerste keer) een waarde instellen. We kozen het woord 'set' niet alleen omdat het kort en gemakkelijk te typen is, maar ook omdat het nauwkeuriger is in meerdere gevallen. 'Bijwerken' houdt in dat je een reeds ingestelde waarde wijzigt, maar minder nauwkeurig als je voor de eerste keer een waarde instelt. En hebben we al gezegd dat 'set' de helft is van de 'update'? &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class="mono"&gt;delete&lt;/td&gt;
@@ -274,19 +274,19 @@
     <value>Kopieert een module naar de opgegeven pagina.</value>
   </data>
   <data name="Prompt_CopyModule_FlagId.Text" xml:space="preserve">
-    <value>Geeft expliciet het module-ID op van de module die moet worden gekopieerd. Gebruik van de vlag is niet verplicht. U kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
+    <value>Geeft expliciet het module-ID op van de module die moet worden gekopieerd. Gebruik van de vlag is niet verplicht. Je kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
   </data>
   <data name="Prompt_CopyModule_FlagIncludesettings.Text" xml:space="preserve">
     <value>Als dit het geval is, kopieert Prompt de instellingen van de bronmodule naar de gekopieerde module.</value>
   </data>
   <data name="Prompt_CopyModule_FlagPageId.Text" xml:space="preserve">
-    <value>Het pagina-ID van de pagina die de module bevat die u wilt kopiëren.</value>
+    <value>Het pagina-ID van de pagina die de module bevat die je wilt kopiëren.</value>
   </data>
   <data name="Prompt_CopyModule_FlagPane.Text" xml:space="preserve">
     <value>Geef het deelvenster (pane) op waarin de module moet worden gekopieerd. Als dit niet het geval is, wordt de module gekopieerd naar ContentPane.</value>
   </data>
   <data name="Prompt_CopyModule_FlagToPageId.Text" xml:space="preserve">
-    <value>Het pagina-ID van de doelpagina. De pagina waarnaar u de module wilt kopiëren.</value>
+    <value>Het pagina-ID van de doelpagina. De pagina waarnaar je de module wilt kopiëren.</value>
   </data>
   <data name="Prompt_CopyModule_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Kopiëer een module van de ene pagina naar de andere&lt;/h4&gt;
@@ -345,7 +345,7 @@
     <value>Soft-score een module op een traditionele pagina. De module wordt naar de DNN-prullenbak verzonden. Geen modules worden verwijderd van worden module-versies voordoen.</value>
   </data>
   <data name="Prompt_DeleteModule_FlagPageId.Text" xml:space="preserve">
-    <value>Hiermee geeft u de pagina-ID op van de pagina waarop de te verwijderen module zich bevindt.</value>
+    <value>Hiermee geef je de pagina-ID op van de pagina waarop de te verwijderen module zich bevindt.</value>
   </data>
   <data name="Prompt_DeleteModule_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Verwijder en stuur module-instantie naar de prullenbak&lt;/h4&gt;
@@ -479,13 +479,13 @@
   &lt;/table&gt;</value>
   </data>
   <data name="Prompt_GetHost_Unauthorized.Text" xml:space="preserve">
-    <value>U ben niet gemachtigd voor toegang tot deze functionaliteit.</value>
+    <value>Je bent niet gemachtigd voor toegang tot deze functionaliteit.</value>
   </data>
   <data name="Prompt_GetModule_Description.Text" xml:space="preserve">
     <value>Haalt details op van een enkele module op een specifieke pagina </value>
   </data>
   <data name="Prompt_GetModule_FlagId.Text" xml:space="preserve">
-    <value>Geeft expliciet het module-ID op van de module die moet worden opgehaald. Gebruik van de markering is niet verplicht. U kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
+    <value>Geeft expliciet het module-ID op van de module die moet worden opgehaald. Gebruik van de markering is niet verplicht. je kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
   </data>
   <data name="Prompt_GetModule_FlagPageId.Text" xml:space="preserve">
     <value>Het pagina-ID van de pagina die de module bevat.</value>
@@ -726,10 +726,10 @@
     <value>Applicatiebeheerder commando's</value>
   </data>
   <data name="Prompt_InsufficientPermissions.Text" xml:space="preserve">
-    <value>U hebt onvoldoende machtigingen om deze bewerking uit te voeren.</value>
+    <value>Je hebt onvoldoende machtigingen om deze bewerking uit te voeren.</value>
   </data>
   <data name="Prompt_InvalidData.Text" xml:space="preserve">
-    <value>U heeft ongeldige gegevens verzonden. Je aanvraag kan niet worden verwerkt.</value>
+    <value>Je hebt ongeldige gegevens verzonden. Je aanvraag kan niet worden verwerkt.</value>
   </data>
   <data name="Prompt_InvalidSyntax.Text" xml:space="preserve">
     <value>Ongeldige syntaxis</value>
@@ -768,16 +768,16 @@
     <value>Paginaformaat voor de pagina. Max is 500.</value>
   </data>
   <data name="Prompt_ListModules_FlagModuleName.Text" xml:space="preserve">
-    <value>De naam van de module waarnaar moet worden gezocht. Hiermee accepteert u het jokerteken (*) om gedeeltelijke zoekopdrachten uit te voeren. De modulenaam is niet hetzelfde als de beschrijvende naam van de module of de titel van de module. De modulenaam, &lt;code&gt; lijstmodules &lt;/ code&gt; vinden op een pagina die de module bevat. Zoekopdrachten zijn niet hoofdlettergevoelig</value>
+    <value>De naam van de module waarnaar moet worden gezocht. Hiermee accepteer je het jokerteken (*) om gedeeltelijke zoekopdrachten uit te voeren. De modulenaam is niet hetzelfde als de beschrijvende naam van de module of de titel van de module. De modulenaam, &lt;code&gt; lijstmodules &lt;/ code&gt; vinden op een pagina die de module bevat. Zoekopdrachten zijn niet hoofdlettergevoelig</value>
   </data>
   <data name="Prompt_ListModules_FlagModuleTitle.Text" xml:space="preserve">
-    <value>De titel van de module waarnaar moet worden gezocht. Hiermee accepteert u jokertekens (*) die 0 of meer tekens vertegenwoordigen. Zoekopdrachten zijn niet hoofdlettergevoelig.</value>
+    <value>De titel van de module waarnaar moet worden gezocht. Hiermee accepteer je jokertekens (*) die 0 of meer tekens vertegenwoordigen. Zoekopdrachten zijn niet hoofdlettergevoelig.</value>
   </data>
   <data name="Prompt_ListModules_FlagPage.Text" xml:space="preserve">
     <value>Paginanummer om records te tonen.</value>
   </data>
   <data name="Prompt_ListModules_FlagPageId.Text" xml:space="preserve">
-    <value>Indien opgegeven, toont de opdracht alleen modules van een specifieke pagina. Markeren is niet verplicht. U kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
+    <value>Indien opgegeven, toont de opdracht alleen modules van een specifieke pagina. Markeren is niet verplicht. Je kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
   </data>
   <data name="Prompt_ListModules_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Maak een lijst van modules in de huidige portal&lt;/h4&gt;
@@ -949,16 +949,16 @@
     <value>Verplaatst een module naar de opgegeven pagina</value>
   </data>
   <data name="Prompt_MoveModule_FlagId.Text" xml:space="preserve">
-    <value>Geeft expliciet de module-ID op van de module die moet worden gekopieerd. Gebruik van de markering is niet verplicht. U kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
+    <value>Geeft expliciet de module-ID op van de module die moet worden gekopieerd. Gebruik van de markering is niet verplicht. Je kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
   </data>
   <data name="Prompt_MoveModule_FlagPageId.Text" xml:space="preserve">
-    <value>Het pagina-ID van de pagina die de module bevat die u wilt kopiëren.</value>
+    <value>Het pagina-ID van de pagina die de module bevat die je wilt kopiëren.</value>
   </data>
   <data name="Prompt_MoveModule_FlagPane.Text" xml:space="preserve">
     <value>Geef het deelvenster op waar de module naar moet worden verplaatst. Als dit niet het geval is, wordt de module verplaatst naar de ContentPane.</value>
   </data>
   <data name="Prompt_MoveModule_FlagToPageId.Text" xml:space="preserve">
-    <value>Het pagina-ID van de doelpagina. De pagina waarnaar u de module wilt kopiëren.</value>
+    <value>Het pagina-ID van de doelpagina. De pagina waarnaar je de module wilt kopiëren.</value>
   </data>
   <data name="Prompt_MoveModule_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Verplaats een module van de ene pagina naar de andere&lt;/h4&gt;
@@ -1017,7 +1017,7 @@
     <value>Er zijn geen modules toegevoegd</value>
   </data>
   <data name="Prompt_NotAuthorized.Text" xml:space="preserve">
-    <value>U bent niet gemachtigd om toegang tot deze bron te krijgen. Er kan een time-out opgetreden zijn voor je sessie. Zo ja, log opnieuw in.</value>
+    <value>Je bent niet gemachtigd om toegang tot deze bron te krijgen. Er kan een time-out opgetreden zijn voor je sessie. Zo ja, log opnieuw in.</value>
   </data>
   <data name="Prompt_NotImplemented.Text" xml:space="preserve">
     <value>Deze functionaliteit is nog niet geïmplementeerd.</value>
@@ -1063,7 +1063,7 @@
     <value>Stelt de DNN-weergavemodus in. Dit heeft hetzelfde effect als het klikken op de juiste opties in de DNN-bedieningsbalk.</value>
   </data>
   <data name="Prompt_SetMode_FlagMode.Text" xml:space="preserve">
-    <value>Één van de drie weergavemodi: &lt;code&gt;edit&lt;/code&gt;, &lt;code&gt;layout&lt;/code&gt;, or &lt;code&gt;view&lt;/code&gt;. U hoeft de markering &lt;span class="mono"&gt;--mode&lt;/span&gt; niet expliciet op te geven. Typ eenvoudig een van de waarden voor de weergavemodus na de opdracht.</value>
+    <value>Één van de drie weergavemodi: &lt;code&gt;edit&lt;/code&gt;, &lt;code&gt;layout&lt;/code&gt;, or &lt;code&gt;view&lt;/code&gt;. Je hoeft de markering &lt;span class="mono"&gt;--mode&lt;/span&gt; niet expliciet op te geven. Typ eenvoudig een van de waarden voor de weergavemodus na de opdracht.</value>
   </data>
   <data name="Prompt_SetMode_ResultHtml.Text" xml:space="preserve">
     <value>&lt;div&gt;

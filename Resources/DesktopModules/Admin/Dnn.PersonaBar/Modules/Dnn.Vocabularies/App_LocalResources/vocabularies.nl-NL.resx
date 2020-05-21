@@ -31,13 +31,13 @@
     <value>Sluiten</value>
   </data>
   <data name="Confirm.Text" xml:space="preserve">
-    <value>Weet u zeker dat u een woordenboek wilt toevoegen?</value>
+    <value>Weet je zeker dat je een woordenboek wilt toevoegen?</value>
   </data>
   <data name="ConfirmDeletion_Term.Text" xml:space="preserve">
-    <value>Weet u zeker dat u de term {0} wilt verwijderen?</value>
+    <value>Weet je zeker dat je de term {0} wilt verwijderen?</value>
   </data>
   <data name="ConfirmDeletion_Vocabulary.Text" xml:space="preserve">
-    <value>Weet u zeker dat u "{0}" wilt verwijderen?</value>
+    <value>Weet je zeker dat je "{0}" wilt verwijderen?</value>
   </data>
   <data name="ControlTitle_.Text" xml:space="preserve">
     <value>Woordenboeken</value>

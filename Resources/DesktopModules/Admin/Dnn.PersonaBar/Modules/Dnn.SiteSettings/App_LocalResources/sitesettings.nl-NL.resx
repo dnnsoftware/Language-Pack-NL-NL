@@ -100,7 +100,7 @@
     <value>Verklein index</value>
   </data>
   <data name="CompactIndexConfirmationMessage.Text" xml:space="preserve">
-    <value>Het verkleinen van de Index kan CPU intensief zijn en kan mogelijkerwijs twee keer zoveel ruimte innemen als de huidige Index Store bij het verwerken. Het verkleinen wordt gedaan door zoek bots en hangt af van de plannings frequentie. Weet u zeker dat u door wilt gaan?</value>
+    <value>Het verkleinen van de Index kan CPU intensief zijn en kan mogelijkerwijs twee keer zoveel ruimte innemen als de huidige Index Store bij het verwerken. Het verkleinen wordt gedaan door zoek bots en hangt af van de plannings frequentie. Weet je zeker dat je door wilt gaan?</value>
   </data>
   <data name="ControlTitle_verify.Text" xml:space="preserve">
     <value>Bron bestand controleur</value>
@@ -115,7 +115,7 @@
     <value>CULTUUR</value>
   </data>
   <data name="CurrentSiteDefault.Help" xml:space="preserve">
-    <value>Eenmaal dat gelokaliseerde content is ingeschakeld, zal de standaard site cultuur permanent worden ingesteld en kan niet meer worden gewijzigd. Klik Annuleren als u de huidige site standaard wilt wijzigen. </value>
+    <value>Eenmaal dat gelokaliseerde content is ingeschakeld, zal de standaard site cultuur permanent worden ingesteld en kan niet meer worden gewijzigd. Klik Annuleren als je de huidige site standaard wilt wijzigen. </value>
   </data>
   <data name="CurrentSiteDefault.Text" xml:space="preserve">
     <value>Huidige site standaard:</value>
@@ -145,7 +145,7 @@
     <value>Alle goedkeuringen zijn ge-reset en alle gebruikers moeten (opnieuw)  akkoord gaan met de gebruiksvoorwaarden.</value>
   </data>
   <data name="DataConsentResetTerms.Confirm" xml:space="preserve">
-    <value>Wilt u de goedkeuringen die alle gebruikers hebben gegeven, resetten en opnieuw vragen om akkoord te gaan met de voorwaarden?</value>
+    <value>Wil je de goedkeuringen die alle gebruikers hebben gegeven, resetten en opnieuw vragen om akkoord te gaan met de voorwaarden?</value>
   </data>
   <data name="DataConsentResetTerms.Text" xml:space="preserve">
     <value>Reset gebruiksvoorwaarden</value>
@@ -178,7 +178,7 @@
     <value>Dagen</value>
   </data>
   <data name="DeactivateLanguageWarning.Text" xml:space="preserve">
-    <value>Weet u zeker dat u {0} wilt de-activeren?</value>
+    <value>Weet je zeker dat je {0} wilt de-activeren?</value>
   </data>
   <data name="Default.Text" xml:space="preserve">
     <value>Standaard</value>
@@ -211,7 +211,7 @@
     <value>Inschakelen browser taaldetectie</value>
   </data>
   <data name="DisableLanguageWarning.Text" xml:space="preserve">
-    <value>Weet u zeker dat u de taal wilt uitschakelen {0}?</value>
+    <value>Weet je zeker dat je de taal wilt uitschakelen {0}?</value>
   </data>
   <data name="DisableLocalizedContent.Text" xml:space="preserve">
     <value>Uitschakelen gelokaliseerde content</value>
@@ -223,7 +223,7 @@
     <value>Sleep een bestand hierheen</value>
   </data>
   <data name="DuplicateAlias.Text" xml:space="preserve">
-    <value>De sitealias die u heeft ingegeven bestaat al. Kies een ander sitealias.</value>
+    <value>De sitealias die je heeft ingegeven bestaat al. Kies een ander sitealias.</value>
   </data>
   <data name="DuplicateEntries.Text" xml:space="preserve">
     <value>Bestanden met dedupliceerde entries:</value>
@@ -247,10 +247,10 @@
     <value>Inschakelen gelokaliseerde content</value>
   </data>
   <data name="EnableLocalizedContentClickCancel.Text" xml:space="preserve">
-    <value>Klik annuleren als u de standaard van de huidige site wilt wijzigen.</value>
+    <value>Klik annuleren als je de standaard van de huidige site wilt wijzigen.</value>
   </data>
   <data name="EnableLocalizedContentHelpText.Text" xml:space="preserve">
-    <value>Inschakelen gelokaliseerde content staat u toe om vertaalde module content te geven als toevoeging op het weergeven van statische tekst. Eenmaal dat gelokaliseerde content is ingeschakeld dan zal de standaard site cultuur permanent zijn ingesteld en &lt;strong&gt;kan niet worden gewijzigd &lt;/strong&gt;.</value>
+    <value>Inschakelen gelokaliseerde content staat je toe om vertaalde module content te geven als toevoeging op het weergeven van statische tekst. Eenmaal dat gelokaliseerde content is ingeschakeld dan zal de standaard site cultuur permanent zijn ingesteld en &lt;strong&gt;kan niet worden gewijzigd &lt;/strong&gt;.</value>
   </data>
   <data name="EnableSortOrder.Help" xml:space="preserve">
     <value>Vink dit selectievakje aan om aangepaste sortering van inzendingen in deze lijst aan te zetten</value>
@@ -265,7 +265,7 @@
     <value>Wis alle gelokaliseerde pagina's</value>
   </data>
   <data name="EraseTranslatedPagesWarning.Text" xml:space="preserve">
-    <value>U staat op het punt om alle vertalingen permanent te verwijderen voor de '{0}' taal. Weet u zeker dat u door wilt gaan?</value>
+    <value>Je staat op het punt om alle vertalingen permanent te verwijderen voor de '{0}' taal. Weet je zeker dat je door wilt gaan?</value>
   </data>
   <data name="ErrorFiles.Text" xml:space="preserve">
     <value>Slechtgevormde bron bestanden:</value>
@@ -295,7 +295,7 @@
     <value>Goedkeuring voor de voorwaarden  is gereset</value>
   </data>
   <data name="GdprResetTerms.Confirm" xml:space="preserve">
-    <value>Wilt u de goedkeuring van alle gebruikers resetten en alle gebruikers forceren om opnieuw akkoord te gaan met de voorwaarden?</value>
+    <value>Wil je de goedkeuring van alle gebruikers resetten en alle gebruikers forceren om opnieuw akkoord te gaan met de voorwaarden?</value>
   </data>
   <data name="Global.Text" xml:space="preserve">
     <value>Globaal</value>
@@ -376,7 +376,7 @@
     <value>Taal</value>
   </data>
   <data name="LanguagePackCreateFailure.Text" xml:space="preserve">
-    <value>U moet bronbestanden maken voordat u een taalpakket kunt maken.</value>
+    <value>Je moet bronbestanden maken voordat je een taalpakket kunt maken.</value>
   </data>
   <data name="LanguagePackCreateSuccess.Text" xml:space="preserve">
     <value>De taalpakketten zijn gemaakt en kunnen gevonden worden in {0}/Install/Language map.</value>
@@ -412,7 +412,7 @@
     <value>Content versnelling</value>
   </data>
   <data name="lblCustomAnalyzer.Help" xml:space="preserve">
-    <value>Als dit veld leeg is, dan zal het systeem de standaard analyzer gebruiken om de content te indexeren. Als u de aangepaste analyzer wilt gebruiken, typ dan de volledig naam van de analyzer class in dit veld. Opmerking als u bestaande content met de nieuwe analyzer wilt indexeren, ga dan naar: Beheerder &gt; Zoek beheerder pagina op elke site die u wilt her-indexeren en klik op de "her-indexeer content" knop.</value>
+    <value>Als dit veld leeg is, dan zal het systeem de standaard analyzer gebruiken om de content te indexeren. Als je de aangepaste analyzer wilt gebruiken, typ dan de volledig naam van de analyzer class in dit veld. Opmerking als je bestaande content met de nieuwe analyzer wilt indexeren, ga dan naar: Beheerder &gt; Zoek beheerder pagina op elke site die je wilt her-indexeren en klik op de "her-indexeer content" knop.</value>
   </data>
   <data name="lblCustomAnalyzer.Text" xml:space="preserve">
     <value>Aangepast zoekanalyse type</value>
@@ -442,7 +442,7 @@
     <value>Naam bronpakket</value>
   </data>
   <data name="lbLocale.Help" xml:space="preserve">
-    <value>Selecteer de Locale (taal) waar u het taalpakket voor wilt genereren.</value>
+    <value>Selecteer de Locale (taal) waar je het taalpakket voor wilt genereren.</value>
   </data>
   <data name="lbLocale.Text" xml:space="preserve">
     <value>Brontaal</value>
@@ -517,7 +517,7 @@
     <value>De lijstitem is aangemaakt.</value>
   </data>
   <data name="ListEntryDeletedWarning.Text" xml:space="preserve">
-    <value>Weet u zeker dat u het lijstitem wilt verwijderen?</value>
+    <value>Weet je zeker dat je het lijstitem wilt verwijderen?</value>
   </data>
   <data name="ListEntryDeleteError.Text" xml:space="preserve">
     <value>Kon de lijstlemma niet verwijderen. Probeer het later.</value>
@@ -535,7 +535,7 @@
     <value>Waarde</value>
   </data>
   <data name="Localization.Help" xml:space="preserve">
-    <value>LOKALISATIE: De volgende stap is om de lokalisatie van deze entiteit de beheren. Selecteer de taal die u wilt updaten, voeg nieuwe tekst toe of pas de bestaande tekst aan en klik dan op updaten.</value>
+    <value>LOKALISATIE: De volgende stap is om de lokalisatie van deze entiteit de beheren. Selecteer de taal die je wilt updaten, voeg nieuwe tekst toe of pas de bestaande tekst aan en klik dan op updaten.</value>
   </data>
   <data name="LocalizedValue.Text" xml:space="preserve">
     <value>Gelokaliseerde waarde</value>
@@ -544,7 +544,7 @@
     <value>Lokale bronnen</value>
   </data>
   <data name="MakeNeutralWarning.Text" xml:space="preserve">
-    <value>Dit zal de vertaalde versie van deze pagina verwijderen. Enkel de standaard cultuur versie van de pagina zal overblijven. Weet u zeker dat u wilt overblijven?</value>
+    <value>Dit zal de vertaalde versie van deze pagina verwijderen. Enkel de standaard cultuur versie van de pagina zal overblijven. Weet je zeker dat je wilt overblijven?</value>
   </data>
   <data name="MarkAllPagesAsTranslated.Text" xml:space="preserve">
     <value>Markeer alle pagina's als vertaald</value>
@@ -565,7 +565,7 @@
     <value>MicroServices</value>
   </data>
   <data name="MicroServicesDescription.Text" xml:space="preserve">
-    <value>Waarschuwing: Eenmaal dat u een microservice heeft ingeschakeld, heeft u contact support nodig om het uit te kunnen schakelen.</value>
+    <value>Waarschuwing: Eenmaal dat je een microservice hebt ingeschakeld, heb je contact support nodig om het uit te kunnen schakelen.</value>
   </data>
   <data name="MissingEntries.Text" xml:space="preserve">
     <value>Bestanden met ontbrekende Entries:</value>
@@ -679,7 +679,7 @@
     <value>Categorie naam</value>
   </data>
   <data name="plCookieMoreLink.Help" xml:space="preserve">
-    <value>In de cookiemelding popup wordt een link getoond naar een pagina met meer uitleg over cookies. Indien u zelf een link wil opgeven dan kan dat hier. (de standaard link gaat naar cookiesandme.com).</value>
+    <value>In de cookiemelding popup wordt een link getoond naar een pagina met meer uitleg over cookies. Indien je zelf een link wil opgeven dan kan dat hier. (de standaard link gaat naar cookiesandme.com).</value>
   </data>
   <data name="plCookieMoreLink.Text" xml:space="preserve">
     <value>Cookiemelding Url</value>
@@ -868,7 +868,7 @@
     <value>Splashpagina</value>
   </data>
   <data name="plTermsTabId.Help" xml:space="preserve">
-    <value>De pagina waar u de gebruiksvoorwaarden voor deze website toont. Indien u niks selecteert wordt een standaardtekst getoond bij het klikken op de gebruiksvoorwaarden link</value>
+    <value>De pagina waar je de gebruiksvoorwaarden voor deze website toont. Indien je niks selecteert wordt een standaardtekst getoond bij het klikken op de gebruiksvoorwaarden link</value>
   </data>
   <data name="plTermsTabId.Text" xml:space="preserve">
     <value>Gebruiksvoorwaardenpagina</value>
@@ -952,7 +952,7 @@
     <value>Standaard waarde</value>
   </data>
   <data name="ProfilePropertyDefinition_DefaultVisibility.Help" xml:space="preserve">
-    <value>U kunt de standaard zichtbaarheid van de profielentiteit instellen. Dit is de initiele waarde van de zichtbaarheid en wordt toegepast als de gebruiker het niet aanpast bij het bewerken van het profiel.</value>
+    <value>Je kunt de standaard zichtbaarheid van de profielentiteit instellen. Dit is de initiele waarde van de zichtbaarheid en wordt toegepast als de gebruiker het niet aanpast bij het bewerken van het profiel.</value>
   </data>
   <data name="ProfilePropertyDefinition_DefaultVisibility.Text" xml:space="preserve">
     <value>Standaard zichtbaarheid</value>
@@ -997,7 +997,7 @@
     <value>Vereist</value>
   </data>
   <data name="ProfilePropertyDefinition_ValidationExpression.Help" xml:space="preserve">
-    <value>U kunt een reguliere uitdrukking geven om de data te valideren die is ingevuld voor dit veld.</value>
+    <value>Je kunt een reguliere uitdrukking geven om de data te valideren die is ingevuld voor dit veld.</value>
   </data>
   <data name="ProfilePropertyDefinition_ValidationExpression.Text" xml:space="preserve">
     <value>Validatie uitdrukking</value>
@@ -1015,10 +1015,10 @@
     <value>Zichtbaar</value>
   </data>
   <data name="Progress.Text" xml:space="preserve">
-    <value>Voortgang  [number]%</value>
+    <value>Voortgang [number]%</value>
   </data>
   <data name="PropertyDefinitionDeletedWarning.Text" xml:space="preserve">
-    <value>Weet u zeker dat u het profiel veld wilt verwijderen</value>
+    <value>Weet je zeker dat je het profiel veld wilt verwijderen</value>
   </data>
   <data name="PropertyDefinitionUpdateSuccess.Text" xml:space="preserve">
     <value>Profielvelden zijn bijgewerkt</value>
@@ -1042,13 +1042,13 @@
     <value>Oude profiel URL's doorsturen</value>
   </data>
   <data name="ReIndexConfirmationMessage.Text" xml:space="preserve">
-    <value>Her-indexeren zal ervoor zorgen dat bestaande content in de Index Store zal worden verwijderd. Her-indexering wordt gedaan door zoek bots en hangt af van hun planning frequentie. Weet u zeker dat u wilt doorgaan?</value>
+    <value>Herindexeren zal ervoor zorgen dat bestaande content in de Index Store zal worden verwijderd. Her-indexering wordt gedaan door zoek bots en hangt af van hun planning frequentie. Weet je zeker dat je wilt doorgaan?</value>
   </data>
   <data name="ReindexContent.Text" xml:space="preserve">
     <value>Her-indexeer content</value>
   </data>
   <data name="ReindexHostContent.Text" xml:space="preserve">
-    <value>Her-indexeer Applicatiecontent</value>
+    <value>Herindexeer Applicatiecontent</value>
   </data>
   <data name="Required.Header" xml:space="preserve">
     <value>Vereist</value>
@@ -1081,10 +1081,10 @@
     <value>Opslaan</value>
   </data>
   <data name="SaveConfirm.Text" xml:space="preserve">
-    <value>Weet u zeker dat u de wijzigingen wilt opslaan?</value>
+    <value>Weet je zeker dat je de wijzigingen wilt opslaan?</value>
   </data>
   <data name="SaveOrCancelWarning.Text" xml:space="preserve">
-    <value>U heeft onopgeslagen wijzigingen. Sla op of annuleer je wijzigingen eerst.</value>
+    <value>Je hebt onopgeslagen wijzigingen. Sla op of annuleer je wijzigingen eerst.</value>
   </data>
   <data name="SaveTranslationsToFile.Text" xml:space="preserve">
     <value>Opslaan vertalingen naar bestand.</value>
@@ -1117,7 +1117,7 @@
     <value>Kon instellingen niet updaten. Probeer later nog eens.</value>
   </data>
   <data name="SettingsRestoreWarning.Text" xml:space="preserve">
-    <value>Weet u zeker dat u je wijzigingen wilt annuleren?</value>
+    <value>Weet je zeker dat je je wijzigingen wilt annuleren?</value>
   </data>
   <data name="SettingsUpdateSuccess" xml:space="preserve">
     <value>Instellingen zijn bijgewerkt.</value>
@@ -1129,7 +1129,7 @@
     <value>De Sitealias is toegevoegd.</value>
   </data>
   <data name="SiteAliasDeletedWarning.Text" xml:space="preserve">
-    <value>Weet u zeker dat u de Sitealias wilt verwijderen?</value>
+    <value>Weet je zeker dat je de Sitealias wilt verwijderen?</value>
   </data>
   <data name="SiteAliasDeleteError.Text" xml:space="preserve">
     <value>Kon Sitealias niet verwijderen. Probeer later nog eens.</value>
@@ -1165,7 +1165,7 @@
     <value>De synoniemgroep is toegevoegd.</value>
   </data>
   <data name="SynonymsGroupDeletedWarning.Text" xml:space="preserve">
-    <value>Weet u zeker dat u deze synoniemengroep wilt verwijderen?</value>
+    <value>Weet je zeker dat je deze synoniemengroep wilt verwijderen?</value>
   </data>
   <data name="SynonymsGroupDeleteError.Text" xml:space="preserve">
     <value>Kon synoniemengroep niet verwijderen. Probeer later nog eens.</value>
@@ -1306,10 +1306,10 @@
     <value>Het bronpakket is vereist.</value>
   </data>
   <data name="valPortalName.ErrorMessage" xml:space="preserve">
-    <value>U moet een titel geven aan je site.</value>
+    <value>Je moet een titel geven aan je site.</value>
   </data>
   <data name="valPropertyName.ErrorMessage" xml:space="preserve">
-    <value>U moet een naam invullen voor deze entiteit.</value>
+    <value>Je moet een naam invullen voor deze entiteit.</value>
   </data>
   <data name="vanilyUrlPrefixLabel.Help" xml:space="preserve">
     <value>Vul een tekst in om te gebruiken als voorvoegsel voor vanity URL's.</value>

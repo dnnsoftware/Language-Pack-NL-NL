@@ -61,7 +61,7 @@
     <value>Tegenstrijdigheid ontstaan. Ververs de pagina en probeer opnieuw.</value>
   </data>
   <data name="DeleteRole.Confirm" xml:space="preserve">
-    <value>Weet u zeker dat u deze rol wilt verwijderen?</value>
+    <value>Weet je zeker dat je deze rol wilt verwijderen?</value>
   </data>
   <data name="DeleteRole.Error" xml:space="preserve">
     <value>Mislukt om de rol te verwijderen. Probeer later nog eens.</value>
@@ -70,7 +70,7 @@
     <value>Rol succesvol verwijderd.</value>
   </data>
   <data name="DeleteRoleGroup.Confirm" xml:space="preserve">
-    <value>Weet u zeker dat u deze rol groep wilt verwijderen?</value>
+    <value>Weet je zeker dat je deze rol groep wilt verwijderen?</value>
   </data>
   <data name="DeleteRoleGroup.Error" xml:space="preserve">
     <value>Mislukt om rol groep te verwijderen. Probeer later nog eens.</value>
@@ -79,7 +79,7 @@
     <value>Rol groep succesvol verwijderd.</value>
   </data>
   <data name="DeleteUser.Confirm" xml:space="preserve">
-    <value>Weet u zeker dat u deze gebruiker uit de rol wilt verwijderen?</value>
+    <value>Weet je zeker dat je deze gebruiker uit de rol wilt verwijderen?</value>
   </data>
   <data name="Description.Help" xml:space="preserve">
     <value>Vul een beschrijving in voor de rol.</value>
@@ -124,7 +124,7 @@
     <value>Groepsnaam</value>
   </data>
   <data name="InSufficientPermissions.Text" xml:space="preserve">
-    <value>U heeft niet genoeg toestemmingen om deze actie uit te voeren.</value>
+    <value>Je hebt niet genoeg toestemmingen om deze actie uit te voeren.</value>
   </data>
   <data name="InvalidRequest.Text" xml:space="preserve">
     <value>Ongeldig verzoek</value>
@@ -184,11 +184,11 @@
     <value>RSVP-link</value>
   </data>
   <data name="Prompt_DeleteRole_Description.Text" xml:space="preserve">
-    <value>Verwijdert de gegeven DNN-beveiligingsrol permanent. U kunt de ingebouwde DNN-beveiligingsrollen van Administrator, RegisteredUser, 
+    <value>Verwijdert de gegeven DNN-beveiligingsrol permanent. Je kunt de ingebouwde DNN-beveiligingsrollen van Administrator, RegisteredUser, 
      Subscriber of UnverifiedUser niet verwijderen. &lt;small&gt; &lt;strong class="text-danger"&gt; WAARSCHUWING: dit is een permanente actie die niet ongedaan gemaakt kan worden &lt;/strong&gt;&lt;/small&gt;</value>
   </data>
   <data name="Prompt_DeleteRole_FlagId.Text" xml:space="preserve">
-    <value>Het ID van de beveiligingsrol die moet worden verwijderd. Deze waarde is vereist. Als u het ID echter doorgeeft als het eerste argument na de opdracht, hoeft u niet expliciet de markering &lt;span class="mono"&gt;-id&lt;/span&gt; te gebruiken.</value>
+    <value>Het ID van de beveiligingsrol die moet worden verwijderd. Deze waarde is vereist. Als je het ID echter doorgeeft als het eerste argument na de opdracht, hoef je niet expliciet de markering &lt;span class="mono"&gt;-id&lt;/span&gt; te gebruiken.</value>
   </data>
   <data name="Prompt_DeleteRole_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Verwijder een DNN Beveiligingsrol permanent&lt;/h4&gt;
@@ -210,7 +210,7 @@
     <value>Haalt de details van de een gegeven DNN Beveiligingsrol op.</value>
   </data>
   <data name="Prompt_GetRole_FlagId.Text" xml:space="preserve">
-    <value>Het ID van de beveiligingsrol. Deze waarde is vereist. Als u het ID echter doorgeeft als het eerste argument na de opdracht, hoeft u niet expliciet de markering &lt;span class ="mono"&gt; - id &lt;/ span&gt; te gebruiken.</value>
+    <value>Het ID van de beveiligingsrol. Deze waarde is vereist. Als je het ID echter doorgeeft als het eerste argument na de opdracht, hoef je niet expliciet de markering &lt;span class ="mono"&gt; - id &lt;/ span&gt; te gebruiken.</value>
   </data>
   <data name="Prompt_GetRole_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Verkrijg een DNN Beveiligingsrol&lt;/h4&gt;
@@ -389,7 +389,7 @@
     <value>Wanneer dit waar is, kunnen gebruikers de rol zien en zichzelf toewijzen aan de rol.</value>
   </data>
   <data name="Prompt_NewRole_FlagRoleName.Text" xml:space="preserve">
-    <value>De naam van de beveiligingsrol. Deze waarde is vereist. Als u de naam echter doorgeeft als het eerste argument na de opdracht, hoeft u niet expliciet de markering &lt;span class="mono"&gt;-name&lt;/span&gt; te gebruiken.</value>
+    <value>De naam van de beveiligingsrol. Deze waarde is vereist. Als je de naam echter doorgeeft als het eerste argument na de opdracht, hoef je niet expliciet de markering &lt;span class="mono"&gt;-name&lt;/span&gt; te gebruiken.</value>
   </data>
   <data name="Prompt_NewRole_FlagStatus.Text" xml:space="preserve">
     <value>Status van de rol. Mogelijke waarden zijn "goedgekeurd", "in behandeling" en "uitgeschakeld".</value>
@@ -503,7 +503,7 @@
     <value>Role '{0}' has been found.</value>
   </data>
   <data name="Prompt_RoleIdIsRequired.Text" xml:space="preserve">
-    <value>U moet een geldig rol-ID opgeven als het eerste argument of met de markering --id.</value>
+    <value>Je moet een geldig rol-ID opgeven als het eerste argument of met de markering --id.</value>
   </data>
   <data name="Prompt_RoleIdNegative.Text" xml:space="preserve">
     <value>De Rol-Id-waarde moet groter zijn dan of gelijk zijn aan nul (0)</value>
@@ -512,13 +512,13 @@
     <value>Het Rol-Id moet een integer zijn.</value>
   </data>
   <data name="Prompt_RoleNameRequired.Text" xml:space="preserve">
-    <value>U moet een naam opgeven voor de rol als het eerste argument of met de markering - {0}. Namen met spaties en speciale tekens moeten tussen dubbele aanhalingstekens staan.</value>
+    <value>Je moet een naam opgeven voor de rol als het eerste argument of met de markering - {0}. Namen met spaties en speciale tekens moeten tussen dubbele aanhalingstekens staan.</value>
   </data>
   <data name="Prompt_RolesCategory.Text" xml:space="preserve">
     <value>Rolopdrachten</value>
   </data>
   <data name="Prompt_SetRole_Description.Text" xml:space="preserve">
-    <value>Stelt eigenschappen van een DNN-beveiligingsrol in of werkt deze bij. Alleen eigenschappen die u opgeeft, worden bijgewerkt voor de rol.</value>
+    <value>Stelt eigenschappen van een DNN-beveiligingsrol in of werkt deze bij. Alleen eigenschappen die je opgeeft, worden bijgewerkt voor de rol.</value>
   </data>
   <data name="Prompt_SetRole_FlagAutoAssign.Text" xml:space="preserve">
     <value>Als dit waar is, wordt deze rol automatisch toegewezen aan gebruikers van de site, inclusief bestaande gebruikers.</value>
@@ -527,7 +527,7 @@
     <value>Een beschrijving van de rol.</value>
   </data>
   <data name="Prompt_SetRole_FlagId.Text" xml:space="preserve">
-    <value>Het ID van de beveiligingsrol. Deze waarde is vereist. Als u het ID echter doorgeeft als het eerste argument na de opdracht, hoeft u niet expliciet de markering &lt;span class ="mono"&gt;--id&lt;/ span&gt; te gebruiken.</value>
+    <value>Het ID van de beveiligingsrol. Deze waarde is vereist. Als je het ID echter doorgeeft als het eerste argument na de opdracht, hoef je niet expliciet de markering &lt;span class ="mono"&gt;--id&lt;/ span&gt; te gebruiken.</value>
   </data>
   <data name="Prompt_SetRole_FlagIsPublic.Text" xml:space="preserve">
     <value>Wanneer dit waar is, kunnen gebruikers de rol zien en zichzelf toewijzen aan de rol.</value>

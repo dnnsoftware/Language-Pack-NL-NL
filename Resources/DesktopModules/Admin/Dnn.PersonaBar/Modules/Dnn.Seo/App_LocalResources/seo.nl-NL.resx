@@ -127,7 +127,7 @@
     <value>Sitemap Provider inschakelen</value>
   </data>
   <data name="enableSystemGeneratedUrlsLabel.Help" xml:space="preserve">
-    <value>U kunt hier configureren hoe het systeem URL's zal genereren.</value>
+    <value>Je kunt hier configureren hoe het systeem URL's zal genereren.</value>
   </data>
   <data name="enableSystemGeneratedUrlsLabel.Text" xml:space="preserve">
     <value>Aaneenschakelen Pagina URL's</value>
@@ -178,7 +178,7 @@
     <value>Houd in Querystring Reguliere Uitdrukking is ongeldig.</value>
   </data>
   <data name="keepInQueryStringRegExLabel.Help" xml:space="preserve">
-    <value>De Houd in Querystring Reguliere Uitdrukking  staat u toe om gedeelte van het vriendelijke URL Pad te matchen en verzekeren dat het in de querystring blijft staan. Wanneer een DotNetNuke URL van /pagename/key/value is gegenereerd, een 'Houd in Querystring Reguliere Uitdrukking' patroon van  /key/value zal matchen met dat gedeelte van het pad en het laten als het deel van de querystring voor de gegenereerde URL; e.g. /pagename?key=value.</value>
+    <value>De Houd in Querystring Reguliere Uitdrukking staat je toe om gedeelte van het vriendelijke URL Pad te matchen en verzekeren dat het in de querystring blijft staan. Wanneer een DotNetNuke URL van /pagename/key/value is gegenereerd, een 'Houd in Querystring Reguliere Uitdrukking' patroon van  /key/value zal matchen met dat gedeelte van het pad en het laten als het deel van de querystring voor de gegenereerde URL; e.g. /pagename?key=value.</value>
   </data>
   <data name="keepInQueryStringRegExLabel.Text" xml:space="preserve">
     <value>Houd in Querystring Reguliere Uitdrukking</value>
@@ -190,7 +190,7 @@
     <value>Geidentificeerde taal / cultuur</value>
   </data>
   <data name="lblCache.Help" xml:space="preserve">
-    <value>Schakel deze optie in als u de sitemap wilt cachen zodat het niet steeds gegenereerd wordt elke keer op verzoek. dit is noodzakelijk voor grote sites. Als u site meer dan 50.000 URL's heeft dan zal de sitemap worden gecacht met een standaard waarde van 2 dag. Stel deze waarde in op 0 om caching uit te schakelen.</value>
+    <value>Schakel deze optie in als je de sitemap wilt cachen zodat het niet steeds gegenereerd wordt elke keer op verzoek. dit is noodzakelijk voor grote sites. Als je site meer dan 50.000 URL's heeft dan zal de sitemap worden gecacht met een standaard waarde van 2 dag. Stel deze waarde in op 0 om caching uit te schakelen.</value>
   </data>
   <data name="lblCache.Text" xml:space="preserve">
     <value>Dagen om sitemap te cachen</value>
@@ -226,7 +226,7 @@
     <value>Zoekmachine</value>
   </data>
   <data name="lblVerification.Help" xml:space="preserve">
-    <value>Bij aanmelding van Google Webmaster Tools dient u je site eigendom te verifieren. Kies de "Upload een HTMl bestand" methode van het Google Verificatie scherm. Vul de weergegeven bestandsnaam in  (ie. google53c0cef435b2b81e.html) in in de verificatie tekst box en klik op maak. Keer terug naar Google en selecteer de Verifieer knop.</value>
+    <value>Bij aanmelding van Google Webmaster Tools dien je je site eigendom te verifieren. Kies de "Upload een HTMl bestand" methode van het Google Verificatie scherm. Vul de weergegeven bestandsnaam in  (ie. google53c0cef435b2b81e.html) in in de verificatie tekst box en klik op maak. Keer terug naar Google en selecteer de Verifieer knop.</value>
   </data>
   <data name="lblVerification.Text" xml:space="preserve">
     <value>Verificatie</value>
@@ -283,7 +283,7 @@
     <value>Pagina 404</value>
   </data>
   <data name="pageNameLabel.Help" xml:space="preserve">
-    <value>Sommige modules genereren een vriendelijke URL door het defineren van het laatste gedeelte van de URL. In dit geval, vul de waarde in voor de paginanaam die gebruikt wordt bij het genereren van een URL. Als u geen expliciete waarde heeft of het niet weet wanneer deze waarde te gebruiken, laar het veld dan leeg.</value>
+    <value>Sommige modules genereren een vriendelijke URL door het defineren van het laatste gedeelte van de URL. In dit geval, vul de waarde in voor de paginanaam die gebruikt wordt bij het genereren van een URL. Als je geen expliciete waarde heeft of het niet weet wanneer deze waarde te gebruiken, laar het veld dan leeg.</value>
   </data>
   <data name="pageNameLabel.Text" xml:space="preserve">
     <value>Aangepaste paginanaam / URL Einde String (optioneel)</value>
@@ -379,7 +379,7 @@
     <value>Kon de instellingen niet updaten. Probeer later nog eens.</value>
   </data>
   <data name="SettingsRestoreWarning.Text" xml:space="preserve">
-    <value>Weet u zeker dat u de wijzigingen wilt annuleren?</value>
+    <value>Weet je zeker dat je de wijzigingen wilt annuleren?</value>
   </data>
   <data name="SettingsUpdateSuccess.Text" xml:space="preserve">
     <value>De instellingen zijn ge-update.</value>
@@ -397,7 +397,7 @@
     <value>Sitemap instellingen</value>
   </data>
   <data name="sitemapUrlLabel.Help" xml:space="preserve">
-    <value>Dien de sitemap in bij google voor betere zoek optimalisatie. Klik Indienen om een Google Webmaster Tools account te krijgen en verifieer je site eigendom ( door de verificatie optie hieronder te gebruiken). Eenmaal geverifieerd, kunt u de Toevoegen Website Sitemap optie selecteren op de Google Sitemaps tab en plakken in de Site Map URL die is weergegeven. </value>
+    <value>Dien de sitemap in bij google voor betere zoek optimalisatie. Klik Indienen om een Google Webmaster Tools account te krijgen en verifieer je site eigendom ( door de verificatie optie hieronder te gebruiken). Eenmaal geverifieerd, kun je de Toevoegen Website Sitemap optie selecteren op de Google Sitemaps tab en plakken in de Site Map URL die is weergegeven. </value>
   </data>
   <data name="sitemapUrlLabel.Text" xml:space="preserve">
     <value>Sitemap URL</value>

@@ -31,7 +31,7 @@
     <value>Nee</value>
   </data>
   <data name="ChildExists.Text" xml:space="preserve">
-    <value>De subsite naam die u heeft ingegeven bestaat al. Geef een andere naam op.</value>
+    <value>De subsite naam die je hebt ingegeven bestaat al. Geef een andere naam op.</value>
   </data>
   <data name="cmdCancel.Text" xml:space="preserve">
     <value>Annuleren</value>
@@ -76,7 +76,7 @@
     <value>{0} is de standaard taal van de geselecteerde site</value>
   </data>
   <data name="deletePortal.Text" xml:space="preserve">
-    <value>Weet u zeker dat u {0} wilt verwijderen?</value>
+    <value>Weet je zeker dat je {0} wilt verwijderen?</value>
   </data>
   <data name="DeleteSite.Text" xml:space="preserve">
     <value>Verwijder site</value>
@@ -94,19 +94,19 @@
     <value>Domein</value>
   </data>
   <data name="DuplicatePortalAlias.Text" xml:space="preserve">
-    <value>De sitealias naam die u heeft ingegeven bestaat al. Geef een andere naam op.</value>
+    <value>De sitealias naam die je hebt ingegeven bestaat al. Geef een andere naam op.</value>
   </data>
   <data name="DuplicateWithTab.Text" xml:space="preserve">
-    <value>Er is al een pagina met dezelfde naam als de alias die u heeft ingevoerd. Kies een andere alias.</value>
+    <value>Er is al een pagina met dezelfde naam als de alias die je hebt ingevoerd. Kies een andere alias.</value>
   </data>
   <data name="EmailRequired.Error" xml:space="preserve">
     <value>E-mail is verplicht.</value>
   </data>
   <data name="ErrorAncestorPages.Text" xml:space="preserve">
-    <value>U moet alle bovenliggende pagina's selecteren om een subpagina mee te nemen</value>
+    <value>Je moet alle bovenliggende pagina's selecteren om een subpagina mee te nemen</value>
   </data>
   <data name="ErrorPages.Text" xml:space="preserve">
-    <value>U moet minstens een pagina selecteren om te exporteren. </value>
+    <value>Je moet minstens een pagina selecteren om te exporteren. </value>
   </data>
   <data name="ExportedMessage.Text" xml:space="preserve">
     <value>Het nieuwe site sjabloon is opgeslagen in de map:&lt;br/&gt;&lt;b&gt;{0}&lt;/b&gt;</value>
@@ -121,7 +121,7 @@
     <value>Site map</value>
   </data>
   <data name="InvalidHomeFolder.Text" xml:space="preserve">
-    <value>De site map die u heeft geselecteerd is niet geldig.</value>
+    <value>De sitemap die je hebt geselecteerd is niet geldig.</value>
   </data>
   <data name="InvalidName.Text" xml:space="preserve">
     <value>De sitealias mag geen punten of spaties bevatten.</value>
@@ -178,7 +178,7 @@
     <value>Noot: de standaard taal is &lt;b&gt;{0}&lt;/b&gt;</value>
   </data>
   <data name="lblPages.Help" xml:space="preserve">
-    <value>Selecteer de pagina's om te exporteren. &lt;br /&gt;Als u van plan bent om het geëxporteerde sjabloon te gebruiken om een nieuwe site te maken, verzeker dan om allen te selecteren of geselecteerde Admin pagina's. Als er geen Admin pagina's beschikbaar zijn in het sjabloon dan zal de nieuwe site geen Admin Menu hebben. </value>
+    <value>Selecteer de pagina's om te exporteren. &lt;br /&gt;Als je van plan bent om het geëxporteerde sjabloon te gebruiken om een nieuwe site te maken, verzeker dan om allen te selecteren of geselecteerde Admin pagina's. Als er geen Admin pagina's beschikbaar zijn in het sjabloon dan zal de nieuwe site geen Admin Menu hebben. </value>
   </data>
   <data name="lblPages.Text" xml:space="preserve">
     <value>Pagina's om te exporteren</value>
@@ -211,7 +211,7 @@
     <value>Laad meer</value>
   </data>
   <data name="ModuleHelp.Text" xml:space="preserve">
-    <value>&lt;h1&gt;Over sjablonen&lt;/h1&gt;&lt;p&gt;Staat u toe om een site sjabloon te exporteren voor het gebruik van het bouwen van nieuwe sites.&lt;/p&gt;</value>
+    <value>&lt;h1&gt;Over sjablonen&lt;/h1&gt;&lt;p&gt;Staat je toe om een site sjabloon te exporteren voor het gebruik van het bouwen van nieuwe sites.&lt;/p&gt;</value>
   </data>
   <data name="nav_Sites.Text" xml:space="preserve">
     <value>Websites</value>

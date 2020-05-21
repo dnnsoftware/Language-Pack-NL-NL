@@ -22,7 +22,7 @@
     <value>Voeg "Bewerk" knop toe</value>
   </data>
   <data name="LoadDefault.Confirm" xml:space="preserve">
-    <value>Dit zal het bestaande sjabloon overschrijven. Weet u zeker dat je wilt doorgaan?</value>
+    <value>Dit zal het bestaande sjabloon overschrijven. Weet je zeker dat je wilt doorgaan?</value>
   </data>
   <data name="LoadDefault.Text" xml:space="preserve">
     <value>Laad standaard</value>

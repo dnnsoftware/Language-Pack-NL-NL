@@ -154,7 +154,7 @@
     <value>Verwijderen van oudere bestanden voor</value>
   </data>
   <data name="DotNetVersion472Required.Text" xml:space="preserve">
-    <value>.Net Framework 4.7.2 is vereist. COntroleer de Windows updates voordat u verder gaat.</value>
+    <value>.Net Framework 4.7.2 is vereist. Controleer de Windows updates voordat je verder gaat.</value>
   </data>
   <data name="Email.Help" xml:space="preserve">
     <value>Vul een e-mailadres in voor deze gebruiker</value>

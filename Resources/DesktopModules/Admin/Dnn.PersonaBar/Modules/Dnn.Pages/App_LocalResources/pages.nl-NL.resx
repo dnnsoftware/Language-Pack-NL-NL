@@ -118,10 +118,10 @@
     <value>Annuleren</value>
   </data>
   <data name="CancelWithoutSaving.Text" xml:space="preserve">
-    <value>Weet u zeker dat u wilt sluiten? Wijzigingen zullen verloren gaan. </value>
+    <value>Weet je zeker dat je wilt sluiten? Wijzigingen zullen verloren gaan. </value>
   </data>
   <data name="CannotCopyPermissionsToDescendantPages.Text" xml:space="preserve">
-    <value>U heeft geen toestemming om toestemmingen te kopiëren naar onderliggende pagina's</value>
+    <value>Je hebt geen toestemming om toestemmingen te kopiëren naar onderliggende pagina's</value>
   </data>
   <data name="CannotDeleteSpecialPage.Text" xml:space="preserve">
     <value>Een speciale pagina kan niet verwijderd worden.</value>
@@ -199,16 +199,16 @@
     <value>Verwijderen</value>
   </data>
   <data name="DeleteModuleConfirm.Text" xml:space="preserve">
-    <value>Weet u zeker dat u de module "[MODULETITLE]" wilt verwijderen van de pagina?</value>
+    <value>Weet je zeker dat je de module "[MODULETITLE]" wilt verwijderen van de pagina?</value>
   </data>
   <data name="DeletePageConfirm.Text" xml:space="preserve">
-    <value>&lt;p&gt;Bevestig dat u deze pagina wilt verwijderen.&lt;/p&gt;</value>
+    <value>&lt;p&gt;Bevestig dat je deze pagina wilt verwijderen.&lt;/p&gt;</value>
   </data>
   <data name="DeletePageModuleSuccess.Text" xml:space="preserve">
     <value>Module "[MODULETITLE]" is succesvol verwijderd</value>
   </data>
   <data name="DeleteTranslationConfirm.Text" xml:space="preserve">
-    <value>U staat op het punt om de '&lt;b&gt;{0}&lt;/b&gt;' vertaling van deze pagina permanent te &lt;b&gt;verwijderen&lt;/b&gt;. Weet u zeker dat u door wil gaan?</value>
+    <value>Je staat op het punt om de '&lt;b&gt;{0}&lt;/b&gt;' vertaling van deze pagina permanent te &lt;b&gt;verwijderen&lt;/b&gt;. Weet je zeker dat je door wil gaan?</value>
   </data>
   <data name="Description.Label" xml:space="preserve">
     <value>Beschrijving</value>
@@ -232,7 +232,7 @@
     <value>Weergeven in menu</value>
   </data>
   <data name="DisplayInMenuTooltip.Text" xml:space="preserve">
-    <value>U heeft de keuze om wel of niet de pagina in het hoofd navigatie menu in te sluiten. Als een pagina niet is ingesloten in het menu, dan kunt u er nog steeds naar verwijzen via de betreffende pagina URL.</value>
+    <value>Je hebt de keuze om wel of niet de pagina in het hoofd navigatie menu in te sluiten. Als een pagina niet is ingesloten in het menu, dan kun je er nog steeds naar verwijzen via de betreffende pagina URL.</value>
   </data>
   <data name="DragDefault.Text" xml:space="preserve">
     <value>Sleep een bestand of selecteer een optie</value>
@@ -280,7 +280,7 @@
     <value>Einddatum</value>
   </data>
   <data name="ErrorPages.Text" xml:space="preserve">
-    <value>U moet minstens een pagina selecteren om te exporteren.</value>
+    <value>Je moet minstens een pagina selecteren om te exporteren.</value>
   </data>
   <data name="Exclude.Text" xml:space="preserve">
     <value>Uitsluiten</value>
@@ -469,7 +469,7 @@
     <value>Pagina kan niet worden geconverteerd naar een neutrale cultuur, omdat er subpagina's zijn.</value>
   </data>
   <data name="MakeNeutralWarning.Text" xml:space="preserve">
-    <value>Dit zal de vertaalde versie van de pagina verwijderen. enkel de standaard cultuur versie van de pagina zal overblijven. Weet u zeker dat u dit wilt doen?</value>
+    <value>Dit zal de vertaalde versie van de pagina verwijderen. enkel de standaard cultuur versie van de pagina zal overblijven. Weet je zeker dat je dit wilt doen?</value>
   </data>
   <data name="MakePageNeutral.Text" xml:space="preserve">
     <value>Maak pagina neutraal</value>
@@ -499,7 +499,7 @@
     <value>Module: {0}&amp;lt;br/&amp;gt;ModuleTitel: {1}&amp;lt;br/&amp;gt;Vak: {2}</value>
   </data>
   <data name="ModuleInfoForNonAdmins.Text" xml:space="preserve">
-    <value>U heeft niet genoeg toestemmingen om de titel van deze module te wijzigen.</value>
+    <value>Je hebt niet genoeg toestemmingen om de titel van deze module te wijzigen.</value>
   </data>
   <data name="Modules.Text" xml:space="preserve">
     <value>Modules</value>
@@ -517,7 +517,7 @@
     <value>Naam</value>
   </data>
   <data name="NameTooltip.Text" xml:space="preserve">
-    <value>Dit is de naam van de pagina. De tekst die u invult zal worden getoond in het menu systeem.</value>
+    <value>Dit is de naam van de pagina. De tekst die je invult zal worden getoond in het menu systeem.</value>
   </data>
   <data name="nav_Pages.Text" xml:space="preserve">
     <value>Pagina's</value>
@@ -658,7 +658,7 @@
     <value>Ouder pagina</value>
   </data>
   <data name="Pages_Seo_DeleteWarningMessage.Text" xml:space="preserve">
-    <value>Weet u zeker dat u deze URL wilt verwijderen?</value>
+    <value>Weet je zeker dat je deze URL wilt verwijderen?</value>
   </data>
   <data name="Pages_Seo_GeneratedByAutomatic.Text" xml:space="preserve">
     <value>Automatisch</value>
@@ -742,7 +742,7 @@
     <value>Permanent doorsturen</value>
   </data>
   <data name="PermanentRedirectTooltip.Text" xml:space="preserve">
-    <value>Vink dit vakje aan als u de klant wilt inlichten dat deze pagina moet worden beschouwd als permanent verplaatst. dit stelt zoekmachines in staat om hun URLs aan te passen om direct naar de bron te kunnen verwijzen. Dit is genegeerd als het LinkType Geen is.</value>
+    <value>Vink dit vakje aan als je de klant wilt inlichten dat deze pagina moet worden beschouwd als permanent verplaatst. dit stelt zoekmachines in staat om hun URLs aan te passen om direct naar de bron te kunnen verwijzen. Dit is genegeerd als het LinkType Geen is.</value>
   </data>
   <data name="Permissions.Text" xml:space="preserve">
     <value>Machtigingen</value>
@@ -754,7 +754,7 @@
     <value>Rechten op basis van gebruiker</value>
   </data>
   <data name="PleaseSelectLayoutContainer.Text" xml:space="preserve">
-    <value>U moet een opmaak en een veld selecteren om de operatie uit te voeren.</value>
+    <value>Je moet een opmaak en een veld selecteren om de operatie uit te voeren.</value>
   </data>
   <data name="PreviewThemeLayoutAndContainer.Text" xml:space="preserve">
     <value>Bekijk thema opmaak en container vooraf</value>
@@ -763,7 +763,7 @@
     <value>Verwijdert een pagina in de site en stuurt deze naar de Prullenbak. Voor extra veiligheid staat deze methode het niet toe om pagina's met kinderen, applicatiebeheerpagina's of pagina's in het //Admin-pad te verwijderen.</value>
   </data>
   <data name="Prompt_DeletePage_FlagId.Text" xml:space="preserve">
-    <value>Geeft expliciet de pagina-ID aan die moet worden verwijderd. Gebruik van de vlagnaam is niet vereist. U kunt eenvoudig de ID-waarde als het eerste argument opgeven. Vereist als &lt;span class="mono"&gt;--parentid&lt;/span&gt; niet opgegeven is.</value>
+    <value>Geeft expliciet de pagina-ID aan die moet worden verwijderd. Gebruik van de vlagnaam is niet vereist. Je kunt eenvoudig de ID-waarde als het eerste argument opgeven. Vereist als &lt;span class="mono"&gt;--parentid&lt;/span&gt; niet opgegeven is.</value>
   </data>
   <data name="Prompt_DeletePage_FlagName.Text" xml:space="preserve">
     <value>De naam (niet de titel) van de pagina die moet worden verwijderd.</value>
@@ -779,14 +779,14 @@
     &lt;/code&gt;
 
     &lt;h4&gt;Verwijder pagian op naam onder een andere ouder&lt;/h4&gt;
-    &lt;p&gt;OPMERKING: op dit moment staat Prompt niet toe dat u pagina's met subpagina's verwijdert&lt;/p&gt;
+    &lt;p&gt;OPMERKING: op dit moment staat Prompt niet toe dat je pagina's met subpagina's verwijdert&lt;/p&gt;
     &lt;code class="block"&gt;
       delete-page --name "test" --parentid 999
     &lt;/code&gt;
   &lt;/div&gt;</value>
   </data>
   <data name="Prompt_FlagMatch.Text" xml:space="preserve">
-    <value>De markeringswaarde - {0} kan niet hetzelfde zijn als de pagina die u probeert bij te werken</value>
+    <value>De markeringswaarde - {0} kan niet hetzelfde zijn als de pagina die je probeert bij te werken</value>
   </data>
   <data name="Prompt_FlagRequired.Text" xml:space="preserve">
     <value>--{0} is vereist.</value>
@@ -798,7 +798,7 @@
     &lt;/blockquote&gt;</value>
   </data>
   <data name="Prompt_GetPage_FlagId.Text" xml:space="preserve">
-    <value>Geeft expliciet de pagina-ID op die moet worden opgehaald. Gebruik van de markering is niet verplicht. U kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
+    <value>Geeft expliciet de pagina-ID op die moet worden opgehaald. Gebruik van de markering is niet verplicht. Je kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
   </data>
   <data name="Prompt_GetPage_FlagName.Text" xml:space="preserve">
     <value>De naam (niet titel) van de pagina.</value>
@@ -815,7 +815,7 @@
 
         &lt;h4&gt;Verkrijg pagina op basis van paginanaam&lt;/h4&gt;
         &lt;p&gt;
-   OPMERKING: u kunt applicatiebeheerpagina's niet ophalen met deze methode omdat deze alleen pagina's binnen een site ophaalt. Applicatiebeheerpagina's leven technisch buiten de site. U kunt ze echter ophalen met de ID van de pagina (TabID in DNN-spraak).        &lt;/p&gt;
+   OPMERKING: Je kunt applicatiebeheerpagina's niet ophalen met deze methode omdat deze alleen pagina's binnen een site ophaalt. Applicatiebeheerpagina's leven technisch buiten de site. Je kunt ze echter ophalen met de ID van de pagina (TabID in DNN-spraak).        &lt;/p&gt;
         &lt;code class="block"&gt;get-page --name Home&lt;/code&gt;
         &lt;table class="command-result-tbl"&gt;
             &lt;tr&gt;&lt;td&gt;TabId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;345&lt;/td&gt;&lt;/tr&gt;
@@ -853,7 +853,7 @@
     <value>Navigeert naar de opgegeven pagina binnen de DNN-site</value>
   </data>
   <data name="Prompt_Goto_FlagId.Text" xml:space="preserve">
-    <value>Geef het pagina (tab) ID op van de pagina waarnaar u wilt navigeren. Expliciet gebruik van de markering &lt;span class = "mono"&gt; - id &lt;/ span&gt; is niet nodig. Geef gewoon de pagina-ID door als het eerste argument achter de opdrachtnaam</value>
+    <value>Geef het pagina (tab) ID op van de pagina waarnaar je wilt navigeren. Expliciet gebruik van de markering &lt;span class = "mono"&gt; - id &lt;/ span&gt; is niet nodig. Geef gewoon de pagina-ID door als het eerste argument achter de opdrachtnaam</value>
   </data>
   <data name="Prompt_Goto_FlagName.Text" xml:space="preserve">
     <value>De naam (niet titel) van de pagina.</value>
@@ -871,10 +871,10 @@
   &lt;/div&gt;</value>
   </data>
   <data name="Prompt_IfSpecifiedMustHaveValue.Text" xml:space="preserve">
-    <value>Als u de markering - {0} opgeeft, moet deze worden ingesteld op Waar of Onwaar.</value>
+    <value>Als je de markering - {0} opgeeft, moet deze worden ingesteld op Waar of Onwaar.</value>
   </data>
   <data name="Prompt_InvalidPageId.Text" xml:space="preserve">
-    <value>U moet een geldig nummer opgeven voor Pagina ID</value>
+    <value>Je moet een geldig nummer opgeven voor Pagina ID</value>
   </data>
   <data name="Prompt_InvalidParentId.Text" xml:space="preserve">
     <value>De --{0}-waarde van de markering moet een geldig Pagina (Tab) ID zijn;.</value>
@@ -892,7 +892,7 @@
     <value>Alleen pagina's ophalen waarvan de naam overeenkomt met de expressie. Kan het jokerteken asterisk (&lt;span class = "mono"&gt; * &lt;/ span&gt;) gebruiken om overeen te komen met 0 of meer tekens.</value>
   </data>
   <data name="Prompt_ListPages_FlagParentId.Text" xml:space="preserve">
-    <value>Hetpagina-ID (tab-ID) van de bovenliggende pagina waarvan u de onderliggende pagina's wilt ophalen. Als het eerste argument een geldige pagina-ID is, hoeft u niet expliciet de markering --parentid te gebruiken</value>
+    <value>Hetpagina-ID (tab-ID) van de bovenliggende pagina waarvan je de onderliggende pagina's wilt ophalen. Als het eerste argument een geldige pagina-ID is, hoef je niet expliciet de markering --parentid te gebruiken</value>
   </data>
   <data name="Prompt_ListPages_FlagPath.Text" xml:space="preserve">
     <value>Alleen pagina's ophalen waarvan het pad overeenkomt met de expressie. Kan het jokerteken asterisk (&lt;span class = "mono"&gt; * &lt;/ span&gt;) gebruiken om overeen te komen met 0 of meer tekens.</value>
@@ -1139,7 +1139,7 @@
     <value>De naam die voor de pagina moet worden gebruikt. De markering&lt;code&gt; - name &lt;/ code&gt; hoeft niet expliciet te worden gedeclareerd als het eerste argument een string is en geen markering.</value>
   </data>
   <data name="Prompt_NewPage_FlagParentId.Text" xml:space="preserve">
-    <value>Als u wilt dat dit het kind van een pagina is, geeft u de ID van die pagina op als &lt;span class="mono"&gt; - parentid &lt;/span&gt;</value>
+    <value>Als je wilt dat dit het kind van een pagina is, geef je de ID van die pagina op als &lt;span class="mono"&gt; - parentid &lt;/span&gt;</value>
   </data>
   <data name="Prompt_NewPage_FlagTitle.Text" xml:space="preserve">
     <value>De weergavetitel die voor de pagina moet worden gebruikt</value>
@@ -1269,7 +1269,7 @@
     <value>Het pagina-id of paginanaam met markering - naam moet worden opgegeven.</value>
   </data>
   <data name="Prompt_ParentIdNotNumeric.Text" xml:space="preserve">
-    <value>Wanneer u - {0} opgeeft , moet u een geldig numeriek pagina-ID (tab ID) opgeven</value>
+    <value>Wanneer je - {0} opgeeft, moet je een geldig numeriek pagina-ID (tab ID) opgeven</value>
   </data>
   <data name="Prompt_SetPage_Description.Text" xml:space="preserve">
     <value>Instellen of updaten van de eigenschappen van de opgegeven pagina</value>
@@ -1278,7 +1278,7 @@
     <value>De omschrijving die voor de pagina moet worden gebruikt</value>
   </data>
   <data name="Prompt_SetPage_FlagId.Text" xml:space="preserve">
-    <value>Het ID van de pagina die u wilt updaten.</value>
+    <value>Het ID van de pagina die je wilt updaten.</value>
   </data>
   <data name="Prompt_SetPage_FlagKeywords.Text" xml:space="preserve">
     <value>Steekwoorden die voor de pagina moeten worden gebruikt</value>
@@ -1287,7 +1287,7 @@
     <value>De naam die voor de pagina moet worden gebruikt</value>
   </data>
   <data name="Prompt_SetPage_FlagParentId.Text" xml:space="preserve">
-    <value>Als u wilt dat dit het kind van een pagina is, geeft u de ID van die pagina op als de &lt;span class="mono"&gt;--parentid&lt;/span&gt;</value>
+    <value>Als je wilt dat dit het kind van een pagina is, geef je de ID van die pagina op als de &lt;span class="mono"&gt;--parentid&lt;/span&gt;</value>
   </data>
   <data name="Prompt_SetPage_FlagTitle.Text" xml:space="preserve">
     <value>De weergavetitel die voor de pagina moet worden gebruikt</value>
@@ -1429,7 +1429,7 @@
     &lt;/div&gt;</value>
   </data>
   <data name="Prompt_TrueFalseRequired.Text" xml:space="preserve">
-    <value>U moet een True of False voor de&amp;nbsp; --{0} vlag gebruiken.</value>
+    <value>Je moet een True of False voor de&amp;nbsp; --{0} vlag gebruiken.</value>
   </data>
   <data name="Prompt_UnableToFindSpecified.Text" xml:space="preserve">
     <value>Pagina gespeciceerd  voor --{0} '{1}' niet gevonden.</value>
@@ -1528,7 +1528,7 @@
     <value>Systeem</value>
   </data>
   <data name="TabExists.Text" xml:space="preserve">
-    <value>De paginanaam die u heeft gekozen wordt al gebruikt door een andere pagina op hetzelfde niveau in de pagina hiërarchy. </value>
+    <value>De paginanaam die je hebt gekozen wordt al gebruikt door een andere pagina op hetzelfde niveau in de pagina hiërarchy. </value>
   </data>
   <data name="TabRecycled.Text" xml:space="preserve">
     <value>Een pagina met deze naam bestaat in de prullenbak. Om deze pagina te herstellen gebruik de prullenbak. </value>
@@ -1615,7 +1615,7 @@
     <value>URL</value>
   </data>
   <data name="UrlPathNotUnique.Error" xml:space="preserve">
-    <value>De ingediende URL is niet beschikbaar. Als u het voorgestelde alternatief wilt accepteren, klik op Opslaan.</value>
+    <value>De ingediende URL is niet beschikbaar. Als je het voorgestelde alternatief wilt accepteren, klik op Opslaan.</value>
   </data>
   <data name="UrlsForThisPage.Text" xml:space="preserve">
     <value>URLs voor deze pagina</value>

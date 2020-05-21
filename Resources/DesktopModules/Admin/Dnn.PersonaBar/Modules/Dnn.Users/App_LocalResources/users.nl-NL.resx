@@ -31,7 +31,7 @@
     <value>Geef een antwoord op de wachtwoordvraag</value>
   </data>
   <data name="Answer.Required" xml:space="preserve">
-    <value>U moet een antwoord geven op de wachtwoordvraag</value>
+    <value>Je moet een antwoord geven op de wachtwoordvraag</value>
   </data>
   <data name="Answer.Text" xml:space="preserve">
     <value>Wachtwoord antwoord:</value>
@@ -97,7 +97,7 @@
     <value>Vul wachtwoord opnieuw in om te bevestigen</value>
   </data>
   <data name="Confirm.Required" xml:space="preserve">
-    <value>U moet een wachtwoordbevestiging geven.</value>
+    <value>Je moet een wachtwoordbevestiging geven.</value>
   </data>
   <data name="Confirm.Text" xml:space="preserve">
     <value>Bevestig wachtwoord:</value>
@@ -124,10 +124,10 @@
     <value>Verwijderd</value>
   </data>
   <data name="DeleteRole.Confirm" xml:space="preserve">
-    <value>Weet u zeker dat u de '{0} 'rol wilt verwijderen uit '{1}'?</value>
+    <value>Weet je zeker dat je de '{0} 'rol wilt verwijderen uit '{1}'?</value>
   </data>
   <data name="DeleteUser.Confirm" xml:space="preserve">
-    <value>Weet u zeker dat u deze gebruiker wilt verwijderen?</value>
+    <value>Weet je zeker dat je deze gebruiker wilt verwijderen?</value>
   </data>
   <data name="DeleteUser.Text" xml:space="preserve">
     <value>Verwijder gebruiker</value>
@@ -187,7 +187,7 @@
     <value>Gebruiker is niet akkoord gegaan met de voorwaarden</value>
   </data>
   <data name="InSufficientPermissions.Text" xml:space="preserve">
-    <value>U heeft niet genoeg rechten om deze actie uit te voeren.</value>
+    <value>Je hebt niet genoeg rechten om deze actie uit te voeren.</value>
   </data>
   <data name="InvalidPasswordAnswer.Text" xml:space="preserve">
     <value>Wachtwoordantwoord is ongeldig.</value>
@@ -310,13 +310,13 @@
     <value>Vul een wachtwoord in voor deze gebruiker.</value>
   </data>
   <data name="Password.Required" xml:space="preserve">
-    <value>U moet een wachtwoord geven.</value>
+    <value>Je moet een wachtwoord geven.</value>
   </data>
   <data name="Password.Text" xml:space="preserve">
     <value>Wachtwoord:</value>
   </data>
   <data name="PasswordInvalid.Text" xml:space="preserve">
-    <value>U moet een geldig wachtwoord geven. Controleer met de sitebeheerder als u de wachtwoord vereisten niet kent.</value>
+    <value>Je moet een geldig wachtwoord geven. Controleer met de sitebeheerder als u de wachtwoord vereisten niet kent.</value>
   </data>
   <data name="PasswordManagement.Text" xml:space="preserve">
     <value>Wachtwoord beheer</value>
@@ -885,7 +885,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value>Geen Gebruiker ID meegegeven. Niets meer te doen.</value>
   </data>
   <data name="Prompt_OnlyOneFlagRequired.Text" xml:space="preserve">
-    <value>U moet 1 en slechts 1 markering specificeren: --{0}, --{1}, or --{2}.</value>
+    <value>Je moet 1 en slechts 1 markering specificeren: --{0}, --{1}, or --{2}.</value>
   </data>
   <data name="Prompt_PasswordReset.Text" xml:space="preserve">
     <value>Gebruiker wachtwoord is gereset.</value>
@@ -973,7 +973,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value>De gebruiker was gevonden maar het syteem kan deze niet verwijderen.</value>
   </data>
   <data name="Prompt_UserIdIsRequired.Text" xml:space="preserve">
-    <value>U moet een geldig Gebruiker ID specificeren als eerste argument of u moet de --id markering gebruiken.</value>
+    <value>Je moet een geldig Gebruiker ID specificeren als eerste argument of u moet de --id markering gebruiken.</value>
   </data>
   <data name="Prompt_UserPurged.Text" xml:space="preserve">
     <value>De gebruiker is permanent verwijderd van de site.</value>

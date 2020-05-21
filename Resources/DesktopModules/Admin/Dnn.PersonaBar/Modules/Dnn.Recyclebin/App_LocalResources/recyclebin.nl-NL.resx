@@ -13,10 +13,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CanNotDeleteModule.Text" xml:space="preserve">
-    <value>U hebt geen rechten om de module met id "{0}" te verwijderen.</value>
+    <value>Je hebt geen rechten om de module met id "{0}" te verwijderen.</value>
   </data>
   <data name="CanNotDeleteTab.Text" xml:space="preserve">
-    <value>U hebt geen rechten om de pagina met id "{0}" te verwijderen.</value>
+    <value>Je hebt geen rechten om de pagina met id "{0}" te verwijderen.</value>
   </data>
   <data name="ModuleNotFound.Text" xml:space="preserve">
     <value>Module met id "{0}" is niet gevonden op pagina "{1}".</value>
@@ -64,7 +64,7 @@
     <value>Verwijdert een module permanent. De module zou eerst soft-verwijderd moeten worden.</value>
   </data>
   <data name="Prompt_PurgeModule_FlagId.Text" xml:space="preserve">
-    <value>Geeft expliciet het module ID van de module die permanent verwijderd moet worden. Gebruik van de markering is niet nodig. U kunt eenvoudig de ID-waarde opgeven als het eerste argument.</value>
+    <value>Geeft expliciet het module ID van de module die permanent verwijderd moet worden. Gebruik van de markering is niet nodig. je kunt eenvoudig de ID-waarde opgeven als het eerste argument.</value>
   </data>
   <data name="Prompt_PurgeModule_FlagPageId.Text" xml:space="preserve">
     <value>Geeft expliciet het pagina ID op welke de module origineel was toegevoegd.</value>
@@ -84,7 +84,7 @@
     <value>Specificeert als een pagina onderliggende pagina's heeft, of de opdracht ze allen moet verwijderen of een fout moet weergeven.</value>
   </data>
   <data name="Prompt_PurgePage_FlagId.Text" xml:space="preserve">
-    <value>Geeft expliciet het te verwijderen pagina-ID op. Gebruik van de markeringnaam is niet vereist. U kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
+    <value>Geeft expliciet het te verwijderen pagina-ID op. Gebruik van de markeringnaam is niet vereist. je kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
   </data>
   <data name="Prompt_PurgePage_ResultHtml.Text" xml:space="preserve">
     <value>&lt;div&gt;
@@ -104,14 +104,14 @@
     &lt;/div&gt;</value>
   </data>
   <data name="Prompt_PurgeUser_Description.Text" xml:space="preserve">
-    <value>Verwijdert de opgegeven gebruiker permanent van de site. De gebruiker &lt;strong&gt;moet&lt;/strong&gt; al verwijderd zijn. Als u een opdracht &lt;code&gt;get-user&lt;/code&gt; uitvoert en de eigenschap &lt;code&gt;IsDeleted&lt;/code&gt; niet &lt;code&gt; true &lt;/ code&gt; is, krijgt u een foutmelding bij het uitvoeren van deze opdracht. U moet eerst de opdracht &lt;code&gt;delete-user&lt;/code&gt; op de gebruiker gebruiken.</value>
+    <value>Verwijdert de opgegeven gebruiker permanent van de site. De gebruiker &lt;strong&gt;moet&lt;/strong&gt; al verwijderd zijn. Als je een opdracht &lt;code&gt;get-user&lt;/code&gt; uitvoert en de eigenschap &lt;code&gt;IsDeleted&lt;/code&gt; niet &lt;code&gt; true &lt;/ code&gt; is, krijg je een foutmelding bij het uitvoeren van deze opdracht. Je moet eerst de opdracht &lt;code&gt;delete-user&lt;/code&gt; op de gebruiker gebruiken.</value>
   </data>
   <data name="Prompt_PurgeUser_FlagId.Text" xml:space="preserve">
     <value>Het gebruikers-ID van de gebruiker. Als de markering niet wordt gebruikt, moet het ID van de gebruiker het eerste argument zijn.</value>
   </data>
   <data name="Prompt_PurgeUser_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Verwijdert een gebruiker permanent&lt;/h4&gt;
-    &lt;p&gt;Verwijdert de gebruiker met GebruikersID van 345 permanent.  Als u het commando ode&gt;get-user 345&lt;/code&gt; uitvoert krijgt u een 'gebruiker niet gevonden' bericht.. &lt;/p&gt;
+    &lt;p&gt;Verwijdert de gebruiker met GebruikersID van 345 permanent.  Als je het commando ode&gt;get-user 345&lt;/code&gt; uitvoert krijgt u een 'gebruiker niet gevonden' bericht.. &lt;/p&gt;
     &lt;code class="block"&gt;purge-user 345&lt;/code&gt;
     &lt;p&gt;Dit is de nauwkeurigerer vorm van de bovenstaande code.&lt;/p&gt;
     &lt;code class="block"&gt;purge-user --id 345&lt;/code&gt;</value>
@@ -173,7 +173,7 @@
     &lt;/div&gt;</value>
   </data>
   <data name="Prompt_RestorePageNoParams.Text" xml:space="preserve">
-    <value>U moet een pagina-ID of paginanaam opgeven.</value>
+    <value>Je moet een pagina-ID of paginanaam opgeven.</value>
   </data>
   <data name="Prompt_RestoreUser_Description.Text" xml:space="preserve">
     <value>Herstelt een gebruiker die is verwijderd maar niet is opgeschoond.</value>
@@ -270,7 +270,7 @@
     <value>&lt;p&gt;Bevestig dat u deze pagina wilt herstellen.&lt;/p&gt;</value>
   </data>
   <data name="recyclebin_RestorePageInvalid.Text" xml:space="preserve">
-    <value>U moet eerst de ouder pagina herstellen</value>
+    <value>Je moet eerst de ouder pagina herstellen</value>
   </data>
   <data name="recyclebin_RestorePagesConfirm.Text" xml:space="preserve">
     <value>&lt;p&gt;Bevestig dat u de geselecteerde pagina's wilt herstellen.&lt;/p&gt;</value>

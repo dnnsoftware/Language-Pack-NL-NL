@@ -46,7 +46,7 @@
     <value>Verzenden</value>
   </data>
   <data name="ClearLog.Text" xml:space="preserve">
-    <value>Weet u zeker dat u alle logregels wilt opruimen?</value>
+    <value>Weet je zeker dat je alle logregels wilt opruimen?</value>
   </data>
   <data name="ClickRow.Text" xml:space="preserve">
     <value>Klik op een rij voor details.</value>
@@ -76,7 +76,7 @@
     <value>De log instelling is verwijderd.</value>
   </data>
   <data name="ConfigDeletedWarning.Text" xml:space="preserve">
-    <value>Weet u zeker dat u de geselecteerde log instelling wilt verwijderen?</value>
+    <value>Weet je zeker dat je de geselecteerde log instelling wilt verwijderen?</value>
   </data>
   <data name="ConfigDeleteInconsistency.Text" xml:space="preserve">
     <value>Er is een tegenstrijdigheid onstaan. Herlaad de pagina en probeer opnieuw.</value>
@@ -160,7 +160,7 @@
     <value>De log is opgeruimd.</value>
   </data>
   <data name="LogDeleteWarning.Text" xml:space="preserve">
-    <value>Weet u zeker dat u de geselecteerde logitems wilt verwijderen?</value>
+    <value>Weet je zeker dat je de geselecteerde logitems wilt verwijderen?</value>
   </data>
   <data name="LogEntries.Text" xml:space="preserve">
     <value>Logitems</value>

@@ -172,7 +172,7 @@
     <value>minuut</value>
   </data>
   <data name="ModuleHelp.Text" xml:space="preserve">
-    <value>&lt;h1&gt;Over Planning&lt;/h1&gt;&lt;p&gt;Staat u toe om te plannen om taken uit te voeren met specifieke intervallen.&lt;/p&gt;</value>
+    <value>&lt;h1&gt;Over Planning&lt;/h1&gt;&lt;p&gt;Staat je toe om te plannen om taken uit te voeren met specifieke intervallen.&lt;/p&gt;</value>
   </data>
   <data name="Months.Text" xml:space="preserve">
     <value>Maanden</value>
@@ -205,7 +205,7 @@
     <value>Er staan geen taken in de wachtrij en er zijn geen taken die verwerkt worden.</value>
   </data>
   <data name="NoTasksMessage.Text" xml:space="preserve">
-    <value>Wanneer u taken in de wachtrij of verwerking hebt staan, verschijnen ze hier.</value>
+    <value>Wanneer je taken in de wachtrij of verwerking hebt staan, verschijnen ze hier.</value>
   </data>
   <data name="Notes.Header" xml:space="preserve">
     <value>Notities</value>
@@ -271,7 +271,7 @@
     <value>Planning vertraging:</value>
   </data>
   <data name="plSchedulerMode.Help" xml:space="preserve">
-    <value>De Timer Methode onderhoudt een aparte thread om geplande taken uit te voeren terwijl dat het werkproces actief is.  Alternatief, de Aanvraag Methode voert taken uit wanneer HTTP Verzoeken worden gemaakt. U kunt ook de planner uitschakelen door Uitschakelen te selecteren.</value>
+    <value>De Timer Methode onderhoudt een aparte thread om geplande taken uit te voeren terwijl dat het werkproces actief is.  Alternatief, de Aanvraag Methode voert taken uit wanneer HTTP Verzoeken worden gemaakt. Je kunt ook de planner uitschakelen door Uitschakelen te selecteren.</value>
   </data>
   <data name="plSchedulerMode.Text" xml:space="preserve">
     <value>Planner methode:</value>
@@ -322,7 +322,7 @@
     <value>Haalt details op voor de opgegeven Scheduler-taak. DNN verwijst naar deze als planningen of scheduler-items. Prompt verwijst naar hen als taken.</value>
   </data>
   <data name="Prompt_GetTask_FlagId.Text" xml:space="preserve">
-    <value>Het Schedule-id voor het item dat u wilt ophalen. Als u het ID doorgeeft als de eerste waarde achter de opdrachtnaam, hoeft u niet expliciet de vlag naam &lt;span class ="mono" --id&lt;/span&gt; te gebruiken.</value>
+    <value>Het Schedule-id voor het item dat je wil ophalen. Als je het ID doorgeeft als de eerste waarde achter de opdrachtnaam, hoef je niet expliciet de vlag naam &lt;span class ="mono" --id&lt;/span&gt; te gebruiken.</value>
   </data>
   <data name="Prompt_GetTask_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Verkrijg een taak&lt;/h4&gt;
@@ -616,7 +616,7 @@
     <value>Als deze waar is, wordt de opgegeven taak ingeschakeld. Wanneer deze onwaar is, wordt de opgegeven taak uitgeschakeld.</value>
   </data>
   <data name="Prompt_SetTask_FlagId.Text" xml:space="preserve">
-    <value>De Schedule-id van de taak die u wilt bijwerken. U kunt voorkomen dat u de &lt;span class="mono"&gt;--id&lt;/span&gt; -markering expliciet invoegt door de Schedule-ID als het eerste argument door te geven.</value>
+    <value>De Schedule-id van de taak die je wilt bijwerken. Je kunt voorkomen dat je de &lt;span class="mono"&gt;--id&lt;/span&gt; -markering expliciet invoegt door de Schedule-ID als het eerste argument door te geven.</value>
   </data>
   <data name="Prompt_SetTask_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Schakel de &amp;quot;Purge Schedule History&amp;quot; taak uit&lt;/h4&gt;
@@ -741,7 +741,7 @@
     <value>Planning item succesvol gemaakt.</value>
   </data>
   <data name="ScheduleItemDeletedWarning.Text" xml:space="preserve">
-    <value>Weet u zeker dat u het geplande item wilt verwijderen?</value>
+    <value>Weet je zeker dat je het geplande item wilt verwijderen?</value>
   </data>
   <data name="ScheduleItemUpdateError.Text" xml:space="preserve">
     <value>Kan gepland item niet updaten. Probeer later nog eens.</value>
@@ -786,7 +786,7 @@
     <value>Instellingen</value>
   </data>
   <data name="SettingsRestoreWarning.Text" xml:space="preserve">
-    <value>Weet u zeker dat je je wijzigingen wilt annuleren?</value>
+    <value>Weet je zeker dat je je wijzigingen wilt annuleren?</value>
   </data>
   <data name="SHUTTING_DOWN.Text" xml:space="preserve">
     <value>AFSLUITEN</value>
@@ -843,7 +843,7 @@
     <value>Elke:</value>
   </data>
   <data name="TimeLapseRequired.ErrorMessage" xml:space="preserve">
-    <value>U moet de frequentie waarde instellen tussen 1 en 999999.</value>
+    <value>Je moet de frequentie waarde instellen tussen 1 en 999999.</value>
   </data>
   <data name="TimeLapseValidator.ErrorMessage" xml:space="preserve">
     <value>Frequentie bereik is tussen 1 en 999999.</value>

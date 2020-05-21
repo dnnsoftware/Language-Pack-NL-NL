@@ -40,7 +40,7 @@
     <value>Aanmaakdatum</value>
   </data>
   <data name="Delete.Confirm" xml:space="preserve">
-    <value>Weet u zeker dat u deze gebruiker wilt verwijderen?</value>
+    <value>Weet je zeker dat je deze gebruiker wilt verwijderen?</value>
   </data>
   <data name="Delete.Text" xml:space="preserve">
     <value>Verwijderen</value>

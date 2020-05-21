@@ -379,10 +379,10 @@
     <value>Weet je zeker dat je deze module wilt verwijderen?</value>
   </data>
   <data name="DeleteSharedModule.Confirm" xml:space="preserve">
-    <value>Deze module wordt gedeeld door andere sites in de sitegroep. Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.  Controleer instellingen om te zien welke sites de module delen, Module instellingen &gt; toegevoegd aan pagina.  Weet u zeker dat u wilt doorgaan en deze module en alle gedeelde exemplaren verwijderen?</value>
+    <value>Deze module wordt gedeeld door andere sites in de sitegroep. Dit exemplaar verwijderen verwijdert alle gedeelde exemplaren in andere sites.  Controleer instellingen om te zien welke sites de module delen, Module instellingen &gt; toegevoegd aan pagina.  Weet je zeker dat je wilt doorgaan en deze module en alle gedeelde exemplaren verwijderen?</value>
   </data>
   <data name="DeletetUser.Text" xml:space="preserve">
-    <value>Weet je zeker dat u deze gebruiker wilt verwijderen?</value>
+    <value>Weet je zeker dat je deze gebruiker wilt verwijderen?</value>
   </data>
   <data name="DeleteUploadFolder.Error" xml:space="preserve">
     <value>Fout bij verwijderen van vorige upload map</value>
@@ -637,7 +637,7 @@
     <value>Backup van vorige versie teruggezet - {0}</value>
   </data>
   <data name="FileAccess.Error" xml:space="preserve">
-    <value>U bent niet bevoegd om het bestand te openen.</value>
+    <value>Je bent niet bevoegd om het bestand te openen.</value>
   </data>
   <data name="FileError.Text" xml:space="preserve">
     <value>Fout bij verwerken bestand</value>
@@ -655,7 +655,7 @@
     <value>Je bent niet gemachtigd het betreffende bestand te bekijken</value>
   </data>
   <data name="FileRestricted.Text" xml:space="preserve">
-    <value>{0} is een beschermd bestandstype. Toegestane bestandstypen bestaan uit ( *.{1}). Neem contact op met je hosting provider als u bestandstypes wilt uploaden die niet toegestaan zijn.</value>
+    <value>{0} is een beschermd bestandstype. Toegestane bestandstypen bestaan uit ( *.{1}). Neem contact op met je hosting provider als je bestandstypes wilt uploaden die niet toegestaan zijn.</value>
   </data>
   <data name="Files.Text" xml:space="preserve">
     <value>Bestanden:</value>
@@ -835,7 +835,7 @@
     <value>Een noodzakelijk component is niet geïnstalleerd</value>
   </data>
   <data name="INSTALL_OlderVersion.Text" xml:space="preserve">
-    <value>Installatie afgebroken - de module die u probeert te installeren is ouder dan de reeds geïnstalleerde versie</value>
+    <value>Installatie afgebroken - de module die je probeert te installeren is ouder dan de reeds geïnstalleerde versie</value>
   </data>
   <data name="INSTALL_Package.Text" xml:space="preserve">
     <value>Een noodzakelijk pakket is niet geïnstalleerd</value>
@@ -916,7 +916,7 @@
     <value>Registratie taalbestand succesvol verwijderd - {0}</value>
   </data>
   <data name="LanguageNotSelected.Text" xml:space="preserve">
-    <value>U heeft geen voorkeurstaal aangegeven. Je voorkeurstaal zal dan ook worden ingesteld op de standaard instelling van de website.</value>
+    <value>Je hebt geen voorkeurstaal aangegeven. Je voorkeurstaal zal dan ook worden ingesteld op de standaard instelling van de website.</value>
   </data>
   <data name="Last.Text" xml:space="preserve">
     <value>Laatste</value>
@@ -1156,7 +1156,7 @@
     <value>Fout bij laden module</value>
   </data>
   <data name="ModuleLoadWarning.Text" xml:space="preserve">
-    <value>Eén of meer van de modules op deze pagina kon niet geladen worden. Dit probleem kan van tijdelijke aard zijn. Probeer de pagina te verversen (in de meeste browsers kunt u dat doen door de toets F5 kort in te drukken). Als het probleem blijft bestaan, neem dan contact op met de &amp;lt;a href="mailto:{0}"&amp;gt;beheerder van deze site&amp;lt;/a&amp;gt;.</value>
+    <value>Eén of meer van de modules op deze pagina kon niet geladen worden. Dit probleem kan van tijdelijke aard zijn. Probeer de pagina te verversen (in de meeste browsers kun je dat doen door de toets F5 kort in te drukken). Als het probleem blijft bestaan, neem dan contact op met de &amp;lt;a href="mailto:{0}"&amp;gt;beheerder van deze site&amp;lt;/a&amp;gt;.</value>
   </data>
   <data name="ModuleNotIntended.Text" xml:space="preserve">
     <value>Deze module is alleen bedoeld voor gebruik op een pagina die is gedefinieerd als de profielpagina van de site.</value>
@@ -1210,7 +1210,7 @@
     <value>Niet gespecificeerd</value>
   </data>
   <data name="OAuthConfigBase_APIKey.Help" xml:space="preserve">
-    <value>Voer de waarde van de APP ID/API sleutel/consument sleutel u geconfigureerd voor deze verificatie.</value>
+    <value>Voer de waarde van de APP ID/API sleutel/consument sleutel je geconfigureerd voor deze verificatie.</value>
   </data>
   <data name="OAuthConfigBase_APIKey.Text" xml:space="preserve">
     <value>APP ID</value>
@@ -1665,7 +1665,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value>Onbekende Property</value>
   </data>
   <data name="TranslateModule.Confirm" xml:space="preserve">
-    <value>Weet u zeker dat u deze module als vertaald wilt markeren?</value>
+    <value>Weet je zeker dat je deze module als vertaald wilt markeren?</value>
   </data>
   <data name="True.Text" xml:space="preserve">
     <value>Waar</value>
