@@ -17,18 +17,19 @@ admin account |  | sitebeheerdersaccount |
 admin settings |  | sitebeheerdersinstellingen |  
 container | container | container | modulevorm op pagina
 extension |  | uitbreiding | 
+host |  | applicatiebeheerder | superuser
 host account |  | applicatiebeheersdersaccount | 
 host settings |  | applicatieinstellingen | 
 page | tab | pagina | pagina in de site
-pane | pane | deelvenster | onderdeel paginaindeling
+pane | | deelvenster | onderdeel paginaindeling
 portal settings |  | siteinstellingen |
 settings |  | instellingen |  
 site | portal | site | 
 state | content state | status | in workflows
 superuser | host account | applicatiebeheerder | 
-template | template | sjabloon | voorbeeldindeling
+template | | sjabloon | voorbeeldindeling
 theme | skin | thema | paginaindeling
 user | user | gebruiker | 
 website |  | website |
-you | | jij | aanspreekvorm
+you | | jij, je | aanspreekvorm
 your | | jouw | 
