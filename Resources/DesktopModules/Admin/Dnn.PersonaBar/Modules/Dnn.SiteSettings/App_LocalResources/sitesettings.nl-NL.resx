@@ -25,7 +25,7 @@
     <value>Toevoegen alle niet gelokaliseerde pagina's</value>
   </data>
   <data name="AdminOnly.Text" xml:space="preserve">
-    <value>Enkel voor de beheerder</value>
+    <value>Enkel voor de sitebeheerder</value>
   </data>
   <data name="Alias.Header" xml:space="preserve">
     <value>ALIAS</value>
@@ -412,7 +412,7 @@
     <value>Content versnelling</value>
   </data>
   <data name="lblCustomAnalyzer.Help" xml:space="preserve">
-    <value>Als dit veld leeg is, dan zal het systeem de standaard analyzer gebruiken om de content te indexeren. Als je de aangepaste analyzer wilt gebruiken, typ dan de volledig naam van de analyzer class in dit veld. Opmerking als je bestaande content met de nieuwe analyzer wilt indexeren, ga dan naar: Beheerder &gt; Zoek beheerder pagina op elke site die je wilt her-indexeren en klik op de "her-indexeer content" knop.</value>
+    <value>Als dit veld leeg is, dan zal het systeem de standaard analyzer gebruiken om de content te indexeren. Als je de aangepaste analyzer wilt gebruiken, typ dan de volledig naam van de analyzer class in dit veld. Opmerking als je bestaande content met de nieuwe analyzer wilt indexeren, ga dan naar: Beheerder &gt; Zoek sitebeheerder pagina op elke site die je wilt her-indexeren en klik op de "her-indexeer content" knop.</value>
   </data>
   <data name="lblCustomAnalyzer.Text" xml:space="preserve">
     <value>Aangepast zoekanalyse type</value>
@@ -697,7 +697,7 @@
     <value>Uitschakelen prive berichten</value>
   </data>
   <data name="plEnableContentLocalization.Help" xml:space="preserve">
-    <value>Vink dit vakje aan om beheerders toe te staan om content lokalisatie in te schakelen voor hun site. </value>
+    <value>Vink dit vakje aan om sitebeheerders toe te staan om content lokalisatie in te schakelen voor hun site. </value>
   </data>
   <data name="plEnableContentLocalization.Text" xml:space="preserve">
     <value>Toestaan content lokalisatie</value>
@@ -1009,7 +1009,7 @@
     <value>Weergave volgorde</value>
   </data>
   <data name="ProfilePropertyDefinition_Visible.Help" xml:space="preserve">
-    <value>Vink dit vakje aan als dit veld kan worden bekeken en bewerkt door de gebruiker of laat het leeg als het enkel zichtbaar moet zijn voor beheerders.</value>
+    <value>Vink dit vakje aan als dit veld kan worden bekeken en bewerkt door de gebruiker of laat het leeg als het enkel zichtbaar moet zijn voor sitebeheerders.</value>
   </data>
   <data name="ProfilePropertyDefinition_Visible.Text" xml:space="preserve">
     <value>Zichtbaar</value>

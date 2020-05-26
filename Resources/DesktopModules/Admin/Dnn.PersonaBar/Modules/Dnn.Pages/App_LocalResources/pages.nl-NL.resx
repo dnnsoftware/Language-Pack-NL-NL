@@ -289,7 +289,7 @@
     <value>Sluit Params uit in Cache Validatie</value>
   </data>
   <data name="ExcludeParamsInCacheValidation_tooltip.Text" xml:space="preserve">
-    <value>Een lijst van querystring parameter namen (gescheiden door komma's ) om uit te sluiten van variaties van gecachte pagina's. Deze instelling is enkel geldig wanneer de standaard hierboven is ingesteld op INSLUITEN querystring parameters van gecachte pagina variaties.</value>
+    <value>Een lijst van querystring parameternamen (gescheiden door komma's ) om uit te sluiten van variaties van gecachte pagina's. Deze instelling is alleen geldig wanneer de standaard hierboven is ingesteld op INSLUITEN querystring parameters van gecachte paginavariaties.</value>
   </data>
   <data name="Existing.Text" xml:space="preserve">
     <value>Bestaande</value>

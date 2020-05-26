@@ -19,7 +19,7 @@
     <value>Nieuwe site toevoegen</value>
   </data>
   <data name="AssignCurrentUserAsAdmin.Label" xml:space="preserve">
-    <value>Gebruik huidige gebruiker als beheerder</value>
+    <value>Gebruik huidige gebruiker als sitebeheerder</value>
   </data>
   <data name="BackToSites.Text" xml:space="preserve">
     <value>Terug naar sites</value>
@@ -133,7 +133,7 @@
     <value>Achternaam is verplicht.</value>
   </data>
   <data name="lblAdminOnly.Text" xml:space="preserve">
-    <value>Enkel zichtbaar voor beheerders.</value>
+    <value>Enkel zichtbaar voor sitebeheerders.</value>
   </data>
   <data name="lblDisabled.Text" xml:space="preserve">
     <value>Pagina is uitgeschakeld</value>
