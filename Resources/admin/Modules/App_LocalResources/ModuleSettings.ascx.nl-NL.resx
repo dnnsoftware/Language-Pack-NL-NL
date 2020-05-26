@@ -151,7 +151,7 @@
     <value>Machtigingen</value>
   </data>
   <data name="plAdminBorder.Help" xml:space="preserve">
-    <value>Vink deze optie aan om voor beheerders rode randen rond een module weer te geven wanneer deze op de site inloggen.</value>
+    <value>Vink deze optie aan om aan te geven dat een module alleen beschikbaar is voor sitebeheerders wanneer deze op de site inloggen.</value>
   </data>
   <data name="plAdminBorder.Text" xml:space="preserve">
     <value>Verberg randmarkering</value>

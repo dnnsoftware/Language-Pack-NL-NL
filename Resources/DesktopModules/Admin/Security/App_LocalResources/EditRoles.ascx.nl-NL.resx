@@ -61,7 +61,7 @@
     <value>Je moet een facturering frequentie selecteren als je een vergoeding voor deze rol wil invoeren.</value>
   </data>
   <data name="ModuleHelp.Text" xml:space="preserve">
-    <value>&lt;h1&gt;Over toegangsrollen&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunnen beheerders de toegangsrollen van hun website beheren. Er kunnen nieuwe rollen worden aangemaakt, bestaande rollen kunnen worden gewijzigd, rollen kunnen worden verwijderd, en de toewijzing van rollen aan gebruikers kan worden beheerd.&lt;/p&gt;</value>
+    <value>&lt;h1&gt;Over toegangsrollen&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunnen sitebeheerders de toegangsrollen van hun website beheren. Er kunnen nieuwe rollen worden aangemaakt, bestaande rollen kunnen worden gewijzigd, rollen kunnen worden verwijderd, en de toewijzing van rollen aan gebruikers kan worden beheerd.&lt;/p&gt;</value>
   </data>
   <data name="plIcon.Help" xml:space="preserve">
     <value>Select een afbeelding voor deze rol.</value>

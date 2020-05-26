@@ -25,7 +25,7 @@
     <value>Nieuwe gebruiker toevoegen</value>
   </data>
   <data name="CannotAddUser.Text" xml:space="preserve">
-    <value>Je configuratie maakt het noodzakelijk dat gebruikers een wachtwoord herinneringsvraag en -antwoord invullen. Het is hierdoor niet mogelijk voor beheerders om gebruikersaccounts aan te maken, Deze optie is daarom gedeactiveerd.</value>
+    <value>Je configuratie maakt het noodzakelijk dat gebruikers een wachtwoord herinneringsvraag en -antwoord invullen. Het is hierdoor niet mogelijk voor sitebeheerders om gebruikersaccounts aan te maken, Deze optie is daarom gedeactiveerd.</value>
   </data>
   <data name="cmdLogin.Text" xml:space="preserve">
     <value>Doorgaan met inloggen</value>
@@ -82,7 +82,7 @@
     <value>Lidmaatschapsinformatie</value>
   </data>
   <data name="ModuleHelp.Text" xml:space="preserve">
-    <value>&lt;h1&gt;Over nieuwsbrieven&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunnen beheerders e-mail in bulk versturen naar alle gebruikers behoren tot een bepaalde rol.&lt;/p&gt;</value>
+    <value>&lt;h1&gt;Over nieuwsbrieven&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunnen sitebeheerders e-mail in bulk versturen naar alle gebruikers behoren tot een bepaalde rol.&lt;/p&gt;</value>
   </data>
   <data name="NewPassword.Text" xml:space="preserve">
     <value>Je moet een wachtwoord opgeven.</value>

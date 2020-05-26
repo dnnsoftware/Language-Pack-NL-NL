@@ -204,7 +204,7 @@
     <value>Geeft verplichte velden aan</value>
   </data>
   <data name="Sample_RoleDescription.Text" xml:space="preserve">
-    <value>Dit is de omschrijving voor de steekproef groep.  Deze groep bestaat niet echt.  Je ziet dit omdat je de module voor de eerste keer instelt of je beheerder bent en navigeren naar deze pagina zonder een groeps-id.</value>
+    <value>Dit is de omschrijving voor de steekproef groep.  Deze groep bestaat niet echt.  Je ziet dit omdat je de module voor de eerste keer instelt of je sitebeheerder bent en navigeren naar deze pagina zonder een groeps-id.</value>
   </data>
   <data name="Sample_RoleName.Text" xml:space="preserve">
     <value>Voorbeeld sociale groep</value>

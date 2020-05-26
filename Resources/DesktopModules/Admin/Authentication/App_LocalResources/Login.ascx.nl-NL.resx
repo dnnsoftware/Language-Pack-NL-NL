@@ -124,7 +124,7 @@
     <value>Dit account is gedeactiveerd vanwege te veel inlogpogingen. Wacht {0} minuten voordat je het nogmaals probeert. Als je je wachtwoord bent vergeten, gebruik dan de "wachtwoord vergeten" optie voordat je contact op neemt met de beheerder van deze website.</value>
   </data>
   <data name="UserLockedOut_ContactAdmin.Text" xml:space="preserve">
-    <value>Dit account is vergrendeld na teveel mislukte login pogingen. Neem contact op met de beheerder.</value>
+    <value>Dit account is vergrendeld na teveel mislukte login pogingen. Neem contact op met de sitebeheerder.</value>
   </data>
   <data name="UsernameError.Text" xml:space="preserve">
     <value>Deze gebruikersnaam bestaat niet</value>

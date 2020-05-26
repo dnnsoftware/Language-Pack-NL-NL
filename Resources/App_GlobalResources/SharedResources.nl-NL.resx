@@ -22,7 +22,7 @@
     <value>Toevoegen</value>
   </data>
   <data name="AdminOnly.Text" xml:space="preserve">
-    <value>Alleen beheerders</value>
+    <value>Alleen sitebeheerders</value>
   </data>
   <data name="AdminTemplate.Error" xml:space="preserve">
     <value>Fout bij verwerken Beheersjabloon</value>
@@ -253,7 +253,7 @@
     <value>Rechten zullen worden vervangen voor alle dochterpagina's vam deze pagina.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Weet je zeker dat je door wilt gaan?</value>
   </data>
   <data name="CreateAdminUser.Error" xml:space="preserve">
-    <value>Fout bij aanmaken Beheerdersaccount</value>
+    <value>Fout bij aanmaken Sitebeheerdersaccount</value>
   </data>
   <data name="CreateDir.Text" xml:space="preserve">
     <value>Map aanmaken</value>
@@ -802,7 +802,7 @@
     <value>Vriendenverzoek negeren</value>
   </data>
   <data name="InsecureAdmin.Text" xml:space="preserve">
-    <value>Je beheerdersaccount staat nog steeds ingesteld op het bekende standaard wachtwoord. Ga nu naar Beheer -&gt; Gebruikersaccounts-menu en het wachtwoord. Daarnaast moet je ervoor zorgen dat je het e-mailadres bijwerkt naar een geldige waarde.</value>
+    <value>Je sitebeheerdersaccount staat nog steeds ingesteld op het bekende standaard wachtwoord. Ga nu naar Beheer -&gt; Gebruikersaccounts-menu en het wachtwoord. Daarnaast moet je ervoor zorgen dat je het e-mailadres bijwerkt naar een geldige waarde.</value>
   </data>
   <data name="InsecureDefaults.Text" xml:space="preserve">
     <value>Beide standaard accounts, applicatiebeheerder en sitebeheerder (Superuser en admin) gebruiken de bekende standaard wachtwoorden. Ga naar de desbetreffende menu-items (applicatiebeheerder-&gt; applicatiebeheerdersaccount en site-&gt; Gebruikersaccounts) en het actualiseren van de wachtwoorden. Daarnaast moet je ervoor zorgen dat je het e-mailadres bijwerkt.</value>
@@ -1090,10 +1090,10 @@
     <value>Beheerpagina {0} toegevoegd aan site {1}.</value>
   </data>
   <data name="MODULE_AdminPagemoduleAdded.Text" xml:space="preserve">
-    <value>Module toegevoegd op beheerderspagina {0} op site {1}.</value>
+    <value>Module toegevoegd op sitebeheerderspagina {0} op site {1}.</value>
   </data>
   <data name="MODULE_AdminPagemoduleRemoved.Text" xml:space="preserve">
-    <value>Module verwijderd van beheerderspagina {0} op site {1}.</value>
+    <value>Module verwijderd van sitebeheerderspagina {0} op site {1}.</value>
   </data>
   <data name="MODULE_AdminPageRemoved.Text" xml:space="preserve">
     <value>Beheerderspagina {0} verwijderd van site {1}.</value>
@@ -1168,7 +1168,7 @@
     <value>Fout: {0} is op dit moment niet beschikbaar.</value>
   </data>
   <data name="ModuleVisibleAdministrator.Text" xml:space="preserve">
-    <value>Alleen zichtbaar voor beheerders</value>
+    <value>Alleen zichtbaar voor sitebeheerders</value>
   </data>
   <data name="Month.Text" xml:space="preserve">
     <value>Maand</value>
@@ -1363,7 +1363,7 @@
     <value>Vorige</value>
   </data>
   <data name="PrivateConfirmationMessage.Text" xml:space="preserve">
-    <value>&lt;strong&gt; Een e-mail met je gegevens is verstuurd naar de beheerder van portal voor verificatie. Zodra je aanmelding is goedgekeurd zal er een e-mail worden verzonden naar je e-mail adres. in de tussentijd kun je verder browsen op de website door de popup te sluiten.&lt;/strong&gt;</value>
+    <value>&lt;strong&gt; Een e-mail met je gegevens is verstuurd naar de beheerder van site voor verificatie. Zodra je aanmelding is goedgekeurd zal er een e-mail worden verzonden naar je e-mail adres. in de tussentijd kun je verder browsen op de website door de popup te sluiten.&lt;/strong&gt;</value>
   </data>
   <data name="PrivateMembership.Text" xml:space="preserve">
     <value>&lt;strong&gt;* Opmerking: &lt;/strong&gt; Lidmaatschap van deze website is privé. Als je account informatie is ingediend, zal de website beheerder in kennis gesteld en je aanvraag zal worden onderworpen aan een screening procedure. Als je aanvraag wordt goedgekeurd, ontvang je een melding van je toegang tot de website.</value>
