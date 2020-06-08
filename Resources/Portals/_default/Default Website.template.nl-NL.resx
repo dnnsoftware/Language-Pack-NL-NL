@@ -239,22 +239,22 @@ Fax: 012-1234567</value>
     <value>DNN (voorheen DotNetNuke) is een open source schaalbaar, uitbreidbaar en veilig content management systeem (CMS).</value>
   </data>
   <data name="Tab.Home.SocialLinks.Facebook.Link" xml:space="preserve">
-    <value>http://www.youtube.com/user/dotnetnuke</value>
+    <value>https://www.facebook.com/groups/dnnconnect/</value>
   </data>
   <data name="Tab.Home.SocialLinks.Facebook.Text" xml:space="preserve">
-    <value>Facebook</value>
+    <value>Facebook DNNConnect</value>
   </data>
   <data name="Tab.Home.SocialLinks.Title" xml:space="preserve">
     <value>De sociale media van de DNN Community</value>
   </data>
   <data name="Tab.Home.SocialLinks.Twitter.Link" xml:space="preserve">
-    <value>http://www.youtube.com/user/dotnetnuke</value>
+    <value>https://twitter.com/DNNAwareness</value>
   </data>
   <data name="Tab.Home.SocialLinks.Twitter.Text" xml:space="preserve">
     <value>Twitter</value>
   </data>
   <data name="Tab.Home.SocialLinks.Youtube.Link" xml:space="preserve">
-    <value>http://www.youtube.com/user/dotnetnuke</value>
+    <value>https://www.youtube.com/results?search_query=dnn+community</value>
   </data>
   <data name="Tab.Home.SocialLinks.Youtube.Text" xml:space="preserve">
     <value>Youtube</value>
