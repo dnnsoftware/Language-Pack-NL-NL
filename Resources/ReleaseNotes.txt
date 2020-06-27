@@ -9,6 +9,9 @@ Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:
 </p> 
 <ul>
 <li>
+Toevoegen van nieuwe DNN 09.06.02 tekstelementen
+</li>
+<li>
 Het wjzigen van U/Uw naar Je/Jouw in alle teksten
 </li>
 <li>
