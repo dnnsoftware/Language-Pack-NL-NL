@@ -13,16 +13,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddFileExtensionNotAllowed.Text" xml:space="preserve">
-    <value>De uitbreiding '{0}' is niet toegestaan. Het bestand is niet toegevoegd.</value>
+    <value>De extensie '{0}' is niet toegestaan. Het bestand is niet toegevoegd.</value>
   </data>
-  <data name="AddFileInvalidContent.Text" xml:space="preserve">
+  <data name="AddFileInvalidContent.Text" xml:space="preserve" lastModified="2018-07-20 06:37:10">
     <value>De inhoud van '{0}' is niet geldig. Het bestand is niet toegevoegd.</value>
   </data>
   <data name="AddFilenameNotAllowed.Text" xml:space="preserve">
     <value>De bestandsnaam '{0}' is niet toegestaan. Het bestand is niet toegevoegd.</value>
   </data>
   <data name="AddFileNoSpaceAvailable.Text" xml:space="preserve">
-    <value>De site heeft geen ruimte ter beschikking om het opgegeven bestand op te slaan. Het bestand is niet toegevoegd.</value>
+    <value>Het portaal heeft geen ruimte ter beschikking om het opgegeven bestand op te slaan. Het bestand is niet toegevoegd.</value>
   </data>
   <data name="AddFilePermissionsNotMet.Text" xml:space="preserve">
     <value>De juiste machtigingen ontbreken. Het bestand is niet toegevoegd.</value>
@@ -42,7 +42,7 @@
   <data name="AddFolderUnderlyingSystemError.Text" xml:space="preserve">
     <value>Het onderliggende systeem heeft een uitzondering gegenereerd. De map is niet toegevoegd.</value>
   </data>
-  <data name="AlreadyFollowingUser.Text" xml:space="preserve">
+  <data name="AlreadyFollowingUser.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
     <value>Je volgt deze gebruiker al.</value>
   </data>
   <data name="AmbiguousController.Text" xml:space="preserve">
@@ -57,17 +57,17 @@
   <data name="CannotMoveFolderBetweenFolderType.Text" xml:space="preserve">
     <value>De map met de naam '{0}' kan niet worden verplaatst. Het verplaatsen van mappen tussen twee verschillende map types is niet toegestaan.</value>
   </data>
-  <data name="ContentTypeDoesNotExist.Text" xml:space="preserve">
+  <data name="ContentTypeDoesNotExist.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
     <value>De gespecificeerde inhoud in niet geldig.</value>
   </data>
-  <data name="ContentTypeFieldDefinitionDoesNotExist.Text" xml:space="preserve">
-    <value>Het content type waartoe de velddefinitie behoort, is niet geldig.</value>
+  <data name="ContentTypeFieldDefinitionDoesNotExist.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
+    <value>Het content type waartoe de veld definitie behoort is niet geldig.</value>
   </data>
   <data name="ControllerNotFound.Text" xml:space="preserve">
     <value>Controller niet gevonden voor {0}.  gezocht in namespaces: {1}.</value>
   </data>
   <data name="CopyFileNoSpaceAvailable.Text" xml:space="preserve">
-    <value>De site heeft geen ruimte beschikbaar voor het opslaan van het opgegeven bestand. Het bestand is niet gekopieerd.</value>
+    <value>Het portaal heeft geen ruimte beschikbaar voor het opslaan van het opgegeven bestand. Het bestand is niet gekopieerd.</value>
   </data>
   <data name="CopyFilePermissionsNotMet.Text" xml:space="preserve">
     <value>De vereiste rechten ontbreken. Het bestand is niet gekopieerd.</value>
@@ -75,7 +75,7 @@
   <data name="CopyFileUnderlyingSystemError.Text" xml:space="preserve">
     <value>Het onderliggende systeem genereert een uitzondering. Het bestand is niet gekopieerd.</value>
   </data>
-  <data name="CreateValidatorException.Text" xml:space="preserve">
+  <data name="CreateValidatorException.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
     <value>De validatie kan niet getart worden  - {0}</value>
   </data>
   <data name="DeleteFileUnderlyingSystemError.Text" xml:space="preserve">
@@ -84,23 +84,23 @@
   <data name="DeleteFolderUnderlyingSystemError.Text" xml:space="preserve">
     <value>Het onderliggende systeem heeft een uitzondering gegenereerd. De map is niet verwijderd.</value>
   </data>
-  <data name="DynamicContentEntityInUse.Text" xml:space="preserve">
+  <data name="DynamicContentEntityInUse.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
     <value>De {0} met Id {1} is in gebruik, hierdoor kan deze niet worden verwijderd.</value>
   </data>
-  <data name="EntityIsNotValid.Text" xml:space="preserve">
+  <data name="EntityIsNotValid.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
     <value>De entiteit van type '{0}' is niet geldig.</value>
   </data>
   <data name="ErrorCreatingBusinessControllerClass.Text" xml:space="preserve">
     <value>Fout bij het creeëren van de BusinessControllerClass '{0}' van module ({1}) id=({2}) in tab ({3}) en portaal ({4})</value>
   </data>
-  <data name="ErrorMessageCannotBeNullOrEmpty.Text" xml:space="preserve">
+  <data name="ErrorMessageCannotBeNullOrEmpty.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
     <value>Zowel de foutcode als de Foutmelding kunnen niet NULL of leeg zijn.</value>
   </data>
-  <data name="FieldDefinitionInvalidDeadLoop.Text" xml:space="preserve">
-    <value>Het is niet mogelijk om een veld aan te maken met naam {0}, omdat dit een oneindige omleidingslus creeërt.</value>
+  <data name="FieldDefinitionInvalidDeadLoop.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
+    <value>Het is niet mogelijk om een veld aan te maken met naam {0} omdat dit een oneindige omleidingslus creeërt.</value>
   </data>
   <data name="FileLockedOutOfPublishPeriodError.Text" xml:space="preserve">
-    <value>Bestand geblokkeerd.  Het bestand kan niet worden bijgewerkt omdat het zich niet binnen een geldige start- en einddatum bevindt voor publicatie.</value>
+    <value>Bestand geblokkeerd.  Het bestand kan niet worden bijgewerkt omdat het zich niet binnen een geldige start en einddatum bevindt voor publicatie.</value>
   </data>
   <data name="FileLockedRunningWorkflowError.Text" xml:space="preserve">
     <value>Bestand geblokkeerd. Het bestand kan niet worden bijgewerkt omdat het onderdeel is van een workflow.</value>
@@ -124,7 +124,7 @@
     <value>Pakket {0} installatie mislukt vanwege '{1}'.</value>
   </data>
   <data name="InvalidAnalyzerClass.Text" xml:space="preserve">
-    <value>Deze class '{0}' kan niet worden aangemaakt omdat het ongeldig is of omdat het geen analyzer is, de standaard analyzer zal worden gebruikt.</value>
+    <value>Deze classe '{0}' kan niet worden aangemaakt omdat het ongeldig is of omdat het geen analyzer is, de standaar analyzer zal worden gebruikt.</value>
   </data>
   <data name="InvalidMappedPath.Text" xml:space="preserve">
     <value>Het opgeslagen pad is niet geldig</value>
@@ -132,22 +132,22 @@
   <data name="InvalidPublishPeriod.Text" xml:space="preserve">
     <value>De einddatum moet na de startdatum liggen</value>
   </data>
-  <data name="InvalidValidatorException.Text" xml:space="preserve">
+  <data name="InvalidValidatorException.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
     <value>Kan validatortype - -{0} niet aanmaken.</value>
   </data>
   <data name="InvalidZipFile.Text" xml:space="preserve">
     <value>Het opgegeven bestand is geen zip-bestand.</value>
   </data>
-  <data name="IPAddressIncorrect.Text" xml:space="preserve">
+  <data name="IPAddressIncorrect.Text" xml:space="preserve" lastModified="2018-07-20 08:39:45">
     <value>Het IP-adres is niet in het correcte formaat</value>
   </data>
-  <data name="JsonContentTypeInvalid.Text" xml:space="preserve">
+  <data name="JsonContentTypeInvalid.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
     <value>Het contenttypeid dat gespecificeerd staat in het json document - {0} -  bestaat niet.</value>
   </data>
-  <data name="JsonInvalidField.Text" xml:space="preserve">
-    <value>Het contenttype specificeert het veld niet - {0}.</value>
+  <data name="JsonInvalidField.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
+    <value>Het content type specificeerd niet het veld - {0}.</value>
   </data>
-  <data name="JsonMissingContent.Text" xml:space="preserve">
+  <data name="JsonMissingContent.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
     <value>Er is geen content node in het json document.</value>
   </data>
   <data name="LuceneControllerIsDisposed.Text" xml:space="preserve">
@@ -163,7 +163,7 @@
     <value>ModuleDefId is alleen nodig als het SearchTypeId voor een module is</value>
   </data>
   <data name="ModuleDoesNotBelongToPage.Text" xml:space="preserve">
-    <value>Deze module hoort niet bij deze pagina. Verplaats de module naar de hoofdpagina of wijzig de module.</value>
+    <value>Deze module hoort niet bij deze pagina. Verplaats de module naar de hoofdpagina of wissel de module.</value>
   </data>
   <data name="ModuleIdMustBeGreaterThanZero.Text" xml:space="preserve">
     <value>ModuleId moet groter zijn dan 0 als het SearchTypeId voor een module is</value>
@@ -178,13 +178,13 @@
     <value>De bewerking kan niet worden voltooid.</value>
   </data>
   <data name="MoveFolderUnderlyingSystemError.Text" xml:space="preserve">
-    <value>Het onderliggende systeem gaf een uitzondering. De verplaatsing kan niet worden voltooid. Een handmatige mapsynchronisatie kan nodig zijn.</value>
+    <value>Het onderliggende systeem gooide een uitzondering. De move-bewerking kan niet worden voltooid. Een handmatige mapsynchronisatie kan nodig zijn.</value>
   </data>
   <data name="MsgAttachmentsNotAllowed.Text" xml:space="preserve">
     <value>Bijlagen zijn niet toegestaan.</value>
   </data>
   <data name="MsgBodyRequiredError.Text" xml:space="preserve">
-    <value>De inhoud kan niet null of leeg zijn.</value>
+    <value>Lichaam kan niet null of leeg.</value>
   </data>
   <data name="MsgEmptyToListFoundError.Text" xml:space="preserve">
     <value>Lege lijst gevonden bij het analyseren van gebruiker en rollen lijst.</value>
@@ -196,40 +196,40 @@
     <value>Het bericht kan niet leeg zijn</value>
   </data>
   <data name="MsgOnlyHostOrAdminOrUserInGroupCanSendToRoleError.Text" xml:space="preserve">
-    <value>Alleen applicatiebeheerders, sitebeheerders of gebruikers in de groep kunnen berichten sturen per rol.</value>
+    <value>Alleen Host gebuikers, website administratoren of gebruikers in de groep kunnen berichten sturen per rol.</value>
   </data>
   <data name="MsgRecipientLimitExceeded.Text" xml:space="preserve">
-    <value>Maximale aantal ontvangers bereikt. Geadresseerden uit lijst verwijderen.</value>
+    <value>Maximale ontvanger limiet bereikt. Geadresseerden uit lijst verwijderen.</value>
   </data>
   <data name="MsgRolesOrUsersRequiredError.Text" xml:space="preserve">
     <value>Zowel gebruikers als rollen kunnen niet null of leeg-lijsten.</value>
   </data>
   <data name="MsgSenderRequiredError.Text" xml:space="preserve">
-    <value>Afzender is null of Sender.UserID is negatief.</value>
+    <value>Afzender is null of Sender.UserID negatief is.</value>
   </data>
   <data name="MsgSubjectOrBodyRequiredError.Text" xml:space="preserve">
-    <value>Zowel onderwerp en de inhoud kunnen niet null of leeg zijn.</value>
+    <value>Zowel onderwerp en het lichaam kan niet null of leeg.</value>
   </data>
   <data name="MsgSubjectTooBigError.Text" xml:space="preserve">
-    <value>Het onderwerp is te lang. Maximale lengte {0}, huidige lengte {1}.</value>
+    <value>Onderwerp geleverd is te groot. Maximale {0}, werkelijke {1}.</value>
   </data>
   <data name="MsgThrottlingIntervalNotMet.Text" xml:space="preserve">
-    <value>Berichten kunnen niet worden verzonden omdat er geen minimum Interval tijd is tussen twee berichten van dezelfde gebruiker.</value>
+    <value>Berichten kunnen niet worden verzonden als Minimum Interval tussen twee berichten door dezelfde gebruiker niet is.</value>
   </data>
   <data name="MsgToListTooBigError.Text" xml:space="preserve">
-    <value>De lijst is te lang. Maximaal {0}, huidige {1}.</value>
+    <value>Om te kopen lijst is te groot. Maximale {0}, werkelijke {1}.</value>
   </data>
   <data name="NoNetworkAvailableError.Text" xml:space="preserve">
-    <value>Een netwerkverbinding is nodig, maar er is geen netwerk beschikbaar.</value>
+    <value>Netwerkverbinding nodig is, maar er is geen netwerk beschikbaar.</value>
   </data>
   <data name="PrivateMessageDisabledError.Text" xml:space="preserve">
     <value>Binnen de huidige instellingen is het voor gebruikers niet toegestaan om berichten te versturen naar andere gebruikers en/of groepen.</value>
   </data>
-  <data name="ProfileService_UpdateVanityUrl.Error" xml:space="preserve">
-    <value>Er is een fout ontstaan tijdens het updaten van de profiel URL. Als je deze melding blijft zien neem dan contact op met je sitebeheerder.</value>
+  <data name="ProfileService_UpdateVanityUrl.Error" xml:space="preserve" lastModified="2020-06-27 14:41:54">
+    <value>Er is een error fout tijdens het updaten van de profiel URL. Als u deze melding blijft zien, neem dan contact op met u site beheerder.</value>
   </data>
-  <data name="PropertyCannotBeEmpty.Text" xml:space="preserve">
-    <value>De eigenschap'{1}' van object '{0}' kan niet leeg zijn (Count=0).</value>
+  <data name="PropertyCannotBeEmpty.Text" xml:space="preserve" lastModified="2020-06-27 14:41:54">
+    <value>De eigenschap'{1}' van object '{0}' kan niet leeg zijn (aantal = 0).</value>
   </data>
   <data name="PropertyCannotBeNegative.Text" xml:space="preserve">
     <value>De eigenschap'{1}' van object '{0}' kan niet negatief zijn.</value>
@@ -237,8 +237,8 @@
   <data name="PropertyCannotBeNull.Text" xml:space="preserve">
     <value>De eigenschap'{1}' van object '{0}' kan niet null zijn.</value>
   </data>
-  <data name="PropertyCannotBeNullOrEmpty.Text" xml:space="preserve">
-    <value>De eigenschap'{1}' van '{0}' kan niet null of leeg.</value>
+  <data name="PropertyCannotBeNullOrEmpty.Text" xml:space="preserve" lastModified="2020-06-27 14:41:54">
+    <value>De eigenschap'{1}' van '{0}' kan niet null of leeg zijn.</value>
   </data>
   <data name="PublishPagePermissionsNotMet" xml:space="preserve">
     <value>Rechten zijn niet toereikend, de pagina is niet gepubliceerd.</value>
@@ -256,15 +256,15 @@
     <value>Het onderliggende systeem heeft een uitzondering gegenereerd. De map is niet hernoemd.</value>
   </data>
   <data name="SearchAnalyzerMinWordLength.Text" xml:space="preserve">
-    <value>Zoek analyse: Minimale woordlengte ({0}) is groter dan maximale woordlengte ({1})</value>
+    <value>Zoek analyse: Minimale woord lengte ({0}) is groter dan maximale woordlengte ({1})</value>
   </data>
   <data name="SearchIndexingDirectoryNoValid.Text" xml:space="preserve">
     <value>Zoekindex locatie is leeg of bestaat niet</value>
   </data>
-  <data name="SitemapProviderError.Text" xml:space="preserve">
+  <data name="SitemapProviderError.Text" xml:space="preserve" lastModified="2015-09-16 20:31:07">
     <value>URL sitemap provider '{0}' is mislukt met de fout: {1}</value>
   </data>
-  <data name="SitemapUrlGenerationError.Text" xml:space="preserve">
+  <data name="SitemapUrlGenerationError.Text" xml:space="preserve" lastModified="2015-09-16 20:31:07">
     <value>URL sitemap generatie voor pagina '{0} - {1}' heeft een fout veroorzaakt: {2} </value>
   </data>
   <data name="StartDateMustNotBeInThePast.Text" xml:space="preserve">
@@ -273,14 +273,14 @@
   <data name="StartDateRequired.Text" xml:space="preserve">
     <value>De startdatum is vereist</value>
   </data>
-  <data name="SubnetMaskIncorrect.Text" xml:space="preserve">
+  <data name="SubnetMaskIncorrect.Text" xml:space="preserve" lastModified="2018-07-20 08:39:45">
     <value>Subnet masker staat niet in het correct formaat</value>
   </data>
-  <data name="SystemContentTypesSecurityException.Text" xml:space="preserve">
-    <value>Systeem content types kunnen alleen worden aangemaakt, gemodificeerd of verwijderd worden door hoofdgebruikers.</value>
+  <data name="SystemContentTypesSecurityException.Text" xml:space="preserve" lastModified="2015-12-30 03:47:35">
+    <value>Systeem content types kunnen alleen worden aangemaakt, gemodificeerd of verwijderd worden door superusers.</value>
   </data>
-  <data name="SystemDataTypesSecurityException.Text" xml:space="preserve">
-    <value>Systeem data types kunnen alleen worden aangemaakt, gemodificeerd of verwijderd worden door hoofdgebruikers.</value>
+  <data name="SystemDataTypesSecurityException.Text" xml:space="preserve" lastModified="2015-12-30 03:47:35">
+    <value>Systeem data types kunnen alleen worden aangemaakt, gemodificeerd of verwijderd worden door superusers.</value>
   </data>
   <data name="SystemWorkflowDeletionException.Text" xml:space="preserve">
     <value>Systeem workflow kan niet worden verwijderd</value>
@@ -295,58 +295,58 @@
     <value>De gespecificeerde pagina is niet bekend in deze website.</value>
   </data>
   <data name="TabVersionAlreadyPublished.Text" xml:space="preserve">
-    <value>Voor pagina {0}, versie {1} is al gepubliceerd</value>
+    <value>Voor tab {0}, versie {1} is al gepubliceerd</value>
   </data>
   <data name="TabVersionCannotBeCreated_UnpublishedVersionAlreadyExists.Text" xml:space="preserve">
-    <value>Voor pagina {0}, de nieuwe ongepubliceerd versie kan niet worden aangemaakt omdat er al een ander ongepubliceerde versie bestaat.</value>
+    <value>Voor tab {0}, de nieuwe ongepubliceerd versie kan niet worden aangemaakt omdat er al een ander ongepubliceerde versie bestaat.</value>
   </data>
   <data name="TabVersionCannotBeCreated_UnpublishedVersionAlreadyExistsConcurrencyProblem.Text" xml:space="preserve">
-    <value>Voor pagina {0} kan de nieuwe ongepubliceerd versie kan niet worden aangemaakt, omdat er al een ander ongepubliceerde versie bestaat. Het kan zijn dat een andere gebruiker aanpassingen heeft aangebracht op de website waardoor de staat is gewijzigd. Ververs de pagina om de actuele staat te kunnen zien.</value>
+    <value>Voor tab {0}, de nieuwe ongepubliceerd versie kan niet worden aangemaakt omdat er al een ander ongepubliceerde versie bestaat. Het kan zijn dat een andere gebruiker aanpassingen heeft aangebracht op de website waardoor de staat is gewijzigd. Refresh de pagina om de actuele staat te kunnen zien.</value>
   </data>
   <data name="TabVersionCannotBeDeleted_UnpublishedVersion.Text" xml:space="preserve">
-    <value>Voor pagina {0}, versioe {1} kan niet worden verwijderd omdat het een ongepubliceerde versie is.</value>
+    <value>Voor tab {0}, version {1} kan niet worden verwijderd omdat het een ongepubliceerde versie is.</value>
   </data>
   <data name="TabVersionCannotBeDiscarded_OnlyOneVersion.Text" xml:space="preserve">
-    <value>Voor pagina {0} is er maar 1 versie gecreeërd. Deze kan niet worden verwijderd.</value>
+    <value>Voor tab {0} is er maar 1 versie gecreeërd. Deze kan niet worden verwijderd.</value>
   </data>
   <data name="TabVersionCannotBeRolledBack_LastVersion.Text" xml:space="preserve">
-    <value>Voor pagina {0}, kan versie {1} niet worden teruggedraaid, omdat dit de laatste versie is.</value>
+    <value>Voor pagina {0}, kan versie {1} niet worden teruggerold omdat dit de laatste versie is.</value>
   </data>
   <data name="TabVersionCannotBeRolledBack_UnpublishedVersionExists.Text" xml:space="preserve">
-    <value>Voor pagina {0}, versie {1} kan niet worden terugedraaid omdat er een opgepubliceerde versie bestaat.</value>
+    <value>Voor tab {0}, versie {1} kan niet worden terugedraaid omdat er een opgepubliceerde versie bestaat.</value>
   </data>
   <data name="TabVersioningNotEnabled.Text" xml:space="preserve">
-    <value>Paginaversiebeheer is niet geactiveerd</value>
+    <value>Tab versiebeheer is niet geactiveerd</value>
   </data>
   <data name="UnableToCreateLuceneWriter.Text" xml:space="preserve">
-    <value>Het is niet mogelijk om een lucenewriterr aan te maken (Sleutel bestand in gebruik). Recycle de applicatie pool in de IIS om de blokkering vrij te geven.</value>
+    <value>Het is niet mogelijk om een lucene schrijver aan te maken (Sleutel bestand in gebruik). Recycle de applicatie pool in de IIS om de blokkering vrij te geven.</value>
   </data>
   <data name="UnderlyingSystemError.Text" xml:space="preserve">
     <value>Het onderliggende systeem heeft een uitzondering gegenereerd.</value>
   </data>
-  <data name="UpdateUserMembershipFailed.Text" xml:space="preserve">
-    <value>Asp.net membership update gebruiker is mislukt. Mogelijke oorzaak(en): Vereist uniek e-mailadres staat geactiveers in de membership.config. Maar er zijn meerdere gebruikers die gebruikmaken van hetzelfde e-mailadres als de huidige gebruikers.</value>
+  <data name="UpdateUserMembershipFailed.Text" xml:space="preserve" lastModified="2015-09-16 18:29:36">
+    <value>Asp.net membership update gebruiker is mislukt. Mogelijke oorzaak(en): Vereist uniek emailadres staat geactiveers in de membership.config. Maar er zijn meerdere gebruikers die gebruikmaken van hetzelfde emailadres als de huidige gebruikers.</value>
   </data>
   <data name="UserCannotReviewWorkflowState.Text" xml:space="preserve">
-    <value>De gebruiker kan de workflow staat niet bekijken</value>
+    <value>De gebruiker dan de workflow staat niet bekijken</value>
   </data>
-  <data name="UserDoesNotExist.Text" xml:space="preserve">
+  <data name="UserDoesNotExist.Text" xml:space="preserve" lastModified="2015-12-30 03:47:35">
     <value>De gebruiker die je probeert te volgen bestaat niet meer.</value>
   </data>
-  <data name="UserHasNoPermissionToAdd.Text" xml:space="preserve">
+  <data name="UserHasNoPermissionToAdd.Text" xml:space="preserve" lastModified="2015-12-30 04:53:48">
     <value>De gebruiker heeft niet de juiste rechten om een map toe te voegen op deze locatie.</value>
   </data>
-  <data name="UserHasNoPermissionToBrowseFolder.Text" xml:space="preserve">
+  <data name="UserHasNoPermissionToBrowseFolder.Text" xml:space="preserve" lastModified="2015-12-30 04:53:48">
     <value>De gebruiker heeft niet de juiste rechten om deze map te bekijken</value>
   </data>
-  <data name="UserHasNoPermissionToEditFile.Text" xml:space="preserve">
+  <data name="UserHasNoPermissionToEditFile.Text" xml:space="preserve" lastModified="2015-12-30 04:53:48">
     <value>De gebruiker heeft niet de juiste rechten om dit bestand te mogen bewerken</value>
   </data>
-  <data name="UserHasNoPermissionToEditFolder.Text" xml:space="preserve">
+  <data name="UserHasNoPermissionToEditFolder.Text" xml:space="preserve" lastModified="2015-12-30 04:53:48">
     <value>De gebruiker heeft niet de juiste rechten om deze map te mogen bewerken.</value>
   </data>
   <data name="UserRelationshipBlockedError.Text" xml:space="preserve">
-    <value>Doelgroep gebruiker '{0}' heeft een geblokkeerde koppeling ' {1} 'van de doelgebruiker ' {2}'.</value>
+    <value>Doelgroep gebruiker '{0}' heeft een Blcoked relatie ' {1} 'van de doelgebruiker ' {2}'.</value>
   </data>
   <data name="UserRelationshipDoesNotExistError.Text" xml:space="preserve">
     <value>UserRelationshipID '{0}' bestaat niet.</value>
@@ -369,40 +369,40 @@
   <data name="WorkflowAlreadyStarted.Text" xml:space="preserve">
     <value>Workflow kan niet worden gestart voor dit content onderdeel. Deze heeft al een workflow.</value>
   </data>
-  <data name="WorkflowAuthorNotFound.Text" xml:space="preserve">
+  <data name="WorkflowAuthorNotFound.Text" xml:space="preserve" lastModified="2020-05-12 12:27:23">
     <value>De auteur kan niet worden gevonden. De notificatie wordt niet verzonden.</value>
   </data>
-  <data name="WorkflowCannotDiscard.Text" xml:space="preserve">
+  <data name="WorkflowCannotDiscard.Text" xml:space="preserve" lastModified="2020-05-12 08:22:19">
     <value>De laatste workflowstatus kan niet genegeerd worden.</value>
   </data>
   <data name="WorkflowConcurrencyException.Text" xml:space="preserve">
-    <value>De huidige status van de workflow is niet hetzelfde als de huidige status gespecificeerd in de input parameter. </value>
+    <value>De huidige staat van de workflow is niet hetzelfde als de huidige staat gespecificeerd in de input parameter. </value>
   </data>
-  <data name="WorkflowDoesNotExistException.Text" xml:space="preserve">
+  <data name="WorkflowDoesNotExistException.Text" xml:space="preserve" lastModified="2020-05-12 10:23:38">
     <value>Deze workflow bestaat niet</value>
   </data>
-  <data name="WorkflowInUsageException.Text" xml:space="preserve">
+  <data name="WorkflowInUsageException.Text" xml:space="preserve" lastModified="2020-05-12 10:23:38">
     <value>Een in gebruik zijnde workflow kan niet worden verwijded</value>
   </data>
   <data name="WorkflowNameAlreadyExistsException.Text" xml:space="preserve">
     <value>Er bestaat al een workflow met deze naam</value>
   </data>
-  <data name="WorkflowNewStateCannotBeAddedToSystemWorkflows.Text" xml:space="preserve">
+  <data name="WorkflowNewStateCannotBeAddedToSystemWorkflows.Text" xml:space="preserve" lastModified="2020-05-12 10:23:38">
     <value>Aan de systeen workflows kan geen nieuwe status worden toegevoegd.</value>
   </data>
-  <data name="WorkflowStateCannotBeMoved.Text" xml:space="preserve">
+  <data name="WorkflowStateCannotBeMoved.Text" xml:space="preserve" lastModified="2020-05-12 12:27:23">
     <value>Workflow status kan niet worden verplaatst</value>
   </data>
-  <data name="WorkflowStateInUsageException.Text" xml:space="preserve">
-    <value>Je kunt een workflow status die in gebruik is, niet verwijderen</value>
+  <data name="WorkflowStateInUsageException.Text" xml:space="preserve" lastModified="2020-05-12 12:27:23">
+    <value>U kunt een workflow status die in gebruik is, niet verwijderen</value>
   </data>
   <data name="WorkflowStateNameAlreadyExistsException.Text" xml:space="preserve">
     <value>Er bestaat al een workflow met deze naam</value>
   </data>
-  <data name="WorkflowSystemWorkflowStateCannotBeDeleted.Text" xml:space="preserve">
+  <data name="WorkflowSystemWorkflowStateCannotBeDeleted.Text" xml:space="preserve" lastModified="2020-05-12 12:27:23">
     <value>Systeem workflow status kan niet worden verwijderd</value>
   </data>
-  <data name="WorkflowSystemWorkflowStateCannotComplete.Text" xml:space="preserve">
+  <data name="WorkflowSystemWorkflowStateCannotComplete.Text" xml:space="preserve" lastModified="2020-05-12 12:27:23">
     <value>Systeem workflow status kan niet worden voltooid.</value>
   </data>
   <data name="WriteFileToResponsePermissionsNotMet.Text" xml:space="preserve">

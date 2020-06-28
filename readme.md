@@ -2,8 +2,9 @@
 
 
 Versions available:
-* DNN 09.02.00
+* DNN 09.06.02
 * DNN 09.06.01
+* DNN 09.02.00
 
 ## Hoe kun je aan de Nederlandse vertaling bijdragen?
 
