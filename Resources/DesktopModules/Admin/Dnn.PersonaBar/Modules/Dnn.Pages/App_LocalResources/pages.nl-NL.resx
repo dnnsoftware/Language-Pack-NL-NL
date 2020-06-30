@@ -457,7 +457,7 @@
     <value>Druk op {opslaan|[ENTER]} om te bewaren, of {annuleren|[ESC]}om te annuleren</value>
   </data>
   <data name="LinkInputPlaceholder.Text" xml:space="preserve">
-    <value>http://voorbeeld.nl/afbeeldingsnaam.jpg</value>
+    <value>https://voorbeeld.nl/afbeeldingsnaam.jpg</value>
   </data>
   <data name="LinkInputTitle.Text" xml:space="preserve">
     <value>URL Link</value>
@@ -691,7 +691,7 @@
     <value>Site alias</value>
   </data>
   <data name="Pages_Seo_UrlPath.Help" xml:space="preserve">
-    <value>Specificeer het pad voor de URL. Vul geen http:// in of de site alias.</value>
+    <value>Specificeer het pad voor de URL. Vul geen https:// in of de site alias.</value>
   </data>
   <data name="Pages_Seo_UrlPath.Text" xml:space="preserve">
     <value>URL pad</value>

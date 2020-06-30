@@ -220,7 +220,7 @@
     <value>Er zijn geen applicatiebeheerders die een wachtwoord hebben dat ouder is als zes maanden.</value>
   </data>
   <data name="CheckTelerikVulnerabilityFailure.Text" xml:space="preserve">
-    <value>De kwetsbaarheid van de Telerik-component is niet gepatcht, ga naar http://www.dnnsoftware.com/community-blog/cid/155449/critical-security-update--september2017 voor gedetailleerde informatie en om de patch te downloaden.</value>
+    <value>De kwetsbaarheid van de Telerik-component is niet gepatcht, ga naar https://www.dnnsoftware.com/community-blog/cid/155449/critical-security-update--september2017 voor gedetailleerde informatie en om de patch te downloaden.</value>
   </data>
   <data name="CheckTelerikVulnerabilityName.Text" xml:space="preserve">
     <value>Controleer of de Telerik-component een kwetsbaarheid heeft.</value>

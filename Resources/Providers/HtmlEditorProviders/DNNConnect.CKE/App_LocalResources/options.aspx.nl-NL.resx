@@ -100,7 +100,7 @@
     <value>Klik om deze groepsnaam te wijzigen</value>
   </data>
   <data name="EditorConfigWarning.Text" xml:space="preserve">
-    <value>&lt;strong&gt;Informatie:&lt;/strong&gt; De onderstaande instellingen zijn alleen voor experts; pas deze alleen aan als je weet wat je doet. Voor meer informatie over Settings ga je naar: &lt;a href="http://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html"&gt;&lt;strong&gt;CKEditor JavaScript API Documentatie Pagina&lt;/strong&gt;&lt;/a&gt;. Je kunt de instellingen leeg laten om de standaard instellingen in te laden wanneer de Editor is geladen.</value>
+    <value>&lt;strong&gt;Informatie:&lt;/strong&gt; De onderstaande instellingen zijn alleen voor experts; pas deze alleen aan als je weet wat je doet. Voor meer informatie over Settings ga je naar: &lt;a href="https://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html"&gt;&lt;strong&gt;CKEditor JavaScript API Documentatie Pagina&lt;/strong&gt;&lt;/a&gt;. Je kunt de instellingen leeg laten om de standaard instellingen in te laden wanneer de Editor is geladen.</value>
   </data>
   <data name="EditToolbar.Text" xml:space="preserve">
     <value>Pas de geselcteerde knopenbalkreeks aan</value>

@@ -41,12 +41,12 @@
     <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Het licentiebestand '{1}' kon niet worden geschreven naar deze websites bin map '{2}'. Maak een tekstbestand met de bestandsextensie .lic en plak de licentiesleutel in het bestand. Sla het tekstbestand in de bin-map.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="ActivationFailureGenericHtml.Text" lastModified="2020-05-17 16:50:47">
-    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Oeps. Er was een probleem om de licentiesleutel te activeren. We zijn niet zeker waarom de licentiesleutel niet kon worden geactiveerd. Neem dan &lt;a href="http://51degrees.mobi/AboutUs/ContactUs.aspx"&gt;contact met ons&lt;/a&gt; op en verstrek details van je website-implementatie en wij zullen proberen je te helpen.&lt;/p&gt;&lt;/div&gt;</value>
+    <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;Oeps. Er was een probleem om de licentiesleutel te activeren. We zijn niet zeker waarom de licentiesleutel niet kon worden geactiveerd. Neem dan &lt;a href="https://51degrees.mobi/AboutUs/ContactUs.aspx"&gt;contact met ons&lt;/a&gt; op en verstrek details van je website-implementatie en wij zullen proberen je te helpen.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="ActivationFailureHttpHtml.Text" lastModified="2020-05-17 16:50:47">
     <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;We konden de 51Degrees.mobi licentie niet bereiken tijdens validatie van de website op de host '{1}'. Dit zou kunnen komen door een van de volgende redenen.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Deze website wordt uitgevoerd in de modus 'Medium Trust' en het kenmerk &lt;a href="http://msdn.microsoft.com/en-us/library/system.web.configuration.trustsection.originurl(v=VS.80).aspx"&gt;originUrl&lt;/a&gt; 
+&lt;li&gt;Deze website wordt uitgevoerd in de modus 'Medium Trust' en het kenmerk &lt;a href="https://msdn.microsoft.com/en-us/library/system.web.configuration.trustsection.originurl(v=VS.80).aspx"&gt;originUrl&lt;/a&gt; 
 attribuut in web.config staat geen toegang toe voor de host '{1}'. Wijzig de originUrl om '{1}'. in te sluiten Meerdere hostnamen kunnen worden gescheiden door | tekenen.&lt;/li&gt;
 &lt;li&gt;De web servers firewall of een andere firewall blokkeert toegang tot de host of de SSL-poort 443. Controleer de firewall-configuratie.&lt;/li&gt;
 &lt;/ul&gt;
@@ -125,7 +125,7 @@ attribuut in web.config staat geen toegang toe voor de host '{1}'. Wijzig de ori
 &lt;h4&gt;Voor ontwikkelaars&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Zet pagina inhoud aan en uit op basis van server gebaseerde regels. Bijvoorbeeld; &lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;Request.Browser["IsTablet"]&lt;/span&gt; Om te begrijpen dat het verzoekende apparaat eem tablet is.&lt;/li&gt;
-&lt;li&gt;Krijg toegang tot apparaat mogelijkheen van Javascript met &lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;http://HOSTNAME/51Degrees.features.js&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Krijg toegang tot apparaat mogelijkheen van Javascript met &lt;span style="font-family: 'Courier New', Courier, monospace; font-weight: bold;"&gt;https://HOSTNAME/51Degrees.features.js&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;</value>
   </data>
   <data name="GetStartedIntro.Html" lastModified="2020-05-17 16:50:47">

@@ -148,7 +148,7 @@
     <value>Uw proeflicensieverlengingsverzoek is ingediend. Je ontvangt binnen 1 werkdag een e-mail met instructies voor het verlengen van je licensie. Als je vragen hebt over de proeflicensieverlengingen, bel DNN Corp. Sales Dept. op 01-650-288-3150.</value>
   </data>
   <data name="WebLicenseList.url" xml:space="preserve">
-    <value>http://www.dnnsoftware.com/Support/Success-Network/License-Management</value>
+    <value>https://www.dnnsoftware.com/Support/Success-Network/License-Management</value>
   </data>
   <data name="WebServer.Header" xml:space="preserve">
     <value>WEB SERVER</value>

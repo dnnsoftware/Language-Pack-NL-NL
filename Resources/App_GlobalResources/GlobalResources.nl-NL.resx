@@ -143,11 +143,11 @@
                     &amp;lt;li&amp;gt;Uit de relevante delen wordt een domeinnaam opgesteld&amp;lt;br /&amp;gt;
                         &amp;lt;br /&amp;gt;Voorbeelden:
                         &amp;lt;br /&amp;gt;
-                        &amp;lt;br /&amp;gt;URL: http://www.domain.com/default.aspx = 
-                        Domeinnaam: www.domain.com&amp;lt;br /&amp;gt;URL: http://209.75.24.131/default.aspx = 
+                        &amp;lt;br /&amp;gt;URL: https://www.domain.com/default.aspx = 
+                        Domeinnaam: www.domain.com&amp;lt;br /&amp;gt;URL: https://209.75.24.131/default.aspx = 
                         Domeinnaam: 209.75.24.131&amp;lt;br /&amp;gt;URL: http://localhost/DotNetNuke/default.aspx = 
-                        Domeinnaam: localhost/DotNetNuke&amp;lt;br /&amp;gt;URL: http://www.domain.com/virtualdirectory/default.aspx = 
-                        DomeinnaaURL: http://www.domain.com/directory/default.aspx = 
+                        Domeinnaam: localhost/DotNetNuke&amp;lt;br /&amp;gt;URL: https://www.domain.com/virtualdirectory/default.aspx = 
+                        DomeinnaaURL: https://www.domain.com/directory/default.aspx = 
                         Domeinnaam: www.domain.com/directory&amp;lt;br /&amp;gt;
                         &amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;
                     &amp;lt;li&amp;gt;Met behulp van de domeinnaam wordt het bijpassende record uit de PortalAlias 
@@ -331,8 +331,8 @@ Verzenden compleet op:      [Custom:3]
     <value>Bulkmail '{0}' ingediend</value>
   </data>
   <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text" xml:space="preserve">
-    <value>&amp;lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&amp;gt;
-&amp;lt;html xmlns="http://www.w3.org/1999/xhtml"&amp;gt;
+    <value>&amp;lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&amp;gt;
+&amp;lt;html xmlns="https://www.w3.org/1999/xhtml"&amp;gt;
 &amp;lt;head&amp;gt;
     &amp;lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&amp;gt;
     &amp;lt;style type="text/css"&amp;gt;
@@ -473,8 +473,8 @@ Verzenden compleet op:      [Custom:3]
                                         &amp;lt;tr&amp;gt;
                                             &amp;lt;td align="center"&amp;gt;
                                                 &amp;lt;a href="[UNSUBSCRIBEURL]" &amp;gt; Manage your Subscriptions&amp;lt;/a&amp;gt; &amp;amp;nbsp; |  &amp;amp;nbsp;
-                                                &amp;lt;a href="http://www.twitter.com/" &amp;gt; Follow us on Twitter&amp;lt;/a&amp;gt; &amp;amp;nbsp; |  &amp;amp;nbsp;
-                                                &amp;lt;a href="http://www.facebook.com/" &amp;gt; Become a fan on Facebook&amp;lt;/a&amp;gt;
+                                                &amp;lt;a href="https://www.twitter.com/" &amp;gt; Follow us on Twitter&amp;lt;/a&amp;gt; &amp;amp;nbsp; |  &amp;amp;nbsp;
+                                                &amp;lt;a href="https://www.facebook.com/" &amp;gt; Become a fan on Facebook&amp;lt;/a&amp;gt;
 
                                             &amp;lt;/td&amp;gt;
                                         &amp;lt;/tr&amp;gt;
@@ -750,7 +750,7 @@ Verificatiecode: [User:VerificationCode]
 
 Je kunt de volgende link gebruiken om de registratie af te ronden: 
 
-http://[Portal:URL]/default.aspx?ctl=Login&amp;amp;username=[Membership:UserName]&amp;amp;verificationcode=[User:VerificationCode]
+https://[Portal:URL]/default.aspx?ctl=Login&amp;amp;username=[Membership:UserName]&amp;amp;verificationcode=[User:VerificationCode]
 
 Je bent van harte welkom!
 

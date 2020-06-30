@@ -55,7 +55,7 @@
     <value>Content gebied mode</value>
   </data>
   <data name="ContentFilters.Help" xml:space="preserve">
-    <value>Filters binnen Radeditor voor ASP.net zijn kleine stukjes code, welke in volgorde worden uitgevoerd om de inhoud te verwerken. Wanneer er tussen de opties (html/design/preview) wordt gewisseld of als de pagina wordt opgeslagen. Elk filter staat hier beschreven: &lt;a href="http://www.telerik.com/help/aspnet-ajax/contentfilters.html" target="_blank"&gt;Telerik Onlinehelp&lt;/a&gt;</value>
+    <value>Filters binnen Radeditor voor ASP.net zijn kleine stukjes code, welke in volgorde worden uitgevoerd om de inhoud te verwerken. Wanneer er tussen de opties (html/design/preview) wordt gewisseld of als de pagina wordt opgeslagen. Elk filter staat hier beschreven: &lt;a href="https://www.telerik.com/help/aspnet-ajax/contentfilters.html" target="_blank"&gt;Telerik Onlinehelp&lt;/a&gt;</value>
   </data>
   <data name="ContentFilters.Text" xml:space="preserve">
     <value>Content filters:</value>
