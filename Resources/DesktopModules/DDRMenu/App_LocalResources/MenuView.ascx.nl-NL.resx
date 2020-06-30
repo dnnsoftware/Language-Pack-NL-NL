@@ -16,6 +16,6 @@
     <value>Content Toevoegen</value>
   </data>
   <data name="ModuleHelp.Text" xml:space="preserve">
-    <value>De DDRMenu documentatie is beschikbaar op de &lt;a href="http://www.dotnetnuke.com/Resources/Wiki/Page/DDRMenu.aspx"&gt;DNN wiki&lt;/a&gt;.</value>
+    <value>De DDRMenu documentatie is beschikbaar op de &lt;a href="https://dnndocs.com/content/tutorials/themes/theme-objects/ddrmenu/index.html#ddrmenu-overview"&gt;DNN docs&lt;/a&gt;.</value>
   </data>
 </root>

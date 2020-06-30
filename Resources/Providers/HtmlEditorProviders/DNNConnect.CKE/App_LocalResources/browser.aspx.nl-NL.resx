@@ -22,7 +22,7 @@
     <value>Onwaar</value>
   </data>
   <data name="absLnk.Text" xml:space="preserve">
-    <value>Absolute URL - &lt;em&gt;'http://www.MyWebsite.com/Images/MyImage.jpg'&lt;/em&gt;</value>
+    <value>Absolute URL - &lt;em&gt;'https://www.MyWebsite.com/Images/MyImage.jpg'&lt;/em&gt;</value>
   </data>
   <data name="AddFiles.Text" xml:space="preserve">
     <value>Bestanden toevoegen...</value>
@@ -247,7 +247,7 @@
     <value>Geeft kleine voorbeeldafbeeldingen weer, Bestandsnaam en bestandsinformatie.</value>
   </data>
   <data name="lnkAbsClick.Text" xml:space="preserve">
-    <value>Absolute beveiligde URL - &lt;em&gt;'http://www.MyWebsite.com/LinkClick.aspx?fileticket=xyz'&lt;/em&gt;</value>
+    <value>Absolute beveiligde URL - &lt;em&gt;'https://www.MyWebsite.com/LinkClick.aspx?fileticket=xyz'&lt;/em&gt;</value>
   </data>
   <data name="lnkClick.Text" xml:space="preserve">
     <value>Relatieve beveiligde URL - &lt;em&gt;'/LinkClick.aspx?fileticket=xyz'&lt;/em&gt;</value>

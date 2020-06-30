@@ -831,7 +831,7 @@ Vaak voorkomende problemen met slechte installatie bestanden:
     <value>Licensie</value>
   </data>
   <data name="ListExtensions.Text" xml:space="preserve">
-    <value>Leer meer over hoe je uitbreidingen aan te bieden &lt;a href="http://store.dnnsoftware.com/make-money/become-a-seller" target="_blank" class="info"&gt;here&lt;/a&gt;</value>
+    <value>Leer meer over hoe je uitbreidingen aan te bieden &lt;a href="https://store.dnnsoftware.com/make-money/become-a-seller" target="_blank" class="info"&gt;here&lt;/a&gt;</value>
   </data>
   <data name="Loading.Text" xml:space="preserve">
     <value>Wacht even... We zijn je uitbreidingen aan het ophalen</value>
