@@ -1,5 +1,110 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -7,19 +112,19 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="comment.Text">
-    <value xml:space="preserve">Reactie</value>
+  <data name="comment.Text" xml:space="preserve">
+    <value>Reactie</value>
   </data>
-  <data name="Comments.Text">
-    <value xml:space="preserve">Opmerkingen</value>
+  <data name="Comments.Text" xml:space="preserve">
+    <value>Reacties</value>
   </data>
-  <data name="journal_status.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;&lt;/div&gt;
+  <data name="journal_status.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
 		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;[JournalItem:Summary]&lt;/p&gt;
@@ -28,42 +133,42 @@
 		[JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;
 </value>
   </data>
-  <data name="{resx:like}.Text">
-    <value xml:space="preserve">Vind ik leuk</value>
+  <data name="{resx:like}.Text" xml:space="preserve">
+    <value>Vind ik leuk</value>
   </data>
-  <data name="{resx:unlike}.Text">
-    <value xml:space="preserve">Vind ik niet meer leuk</value>
+  <data name="{resx:unlike}.Text" xml:space="preserve">
+    <value>Vind ik niet meer leuk</value>
   </data>
-  <data name="{resx:and}.Text">
-    <value xml:space="preserve">en</value>
+  <data name="{resx:and}.Text" xml:space="preserve">
+    <value>en</value>
   </data>
-  <data name="{resx:likesthis}.Text">
-    <value xml:space="preserve">Vindt dit leuk</value>
+  <data name="{resx:likesthis}.Text" xml:space="preserve">
+    <value>vindt dit leuk</value>
   </data>
-  <data name="{resx:likethis}.Text">
-    <value xml:space="preserve">Vind dit leuk</value>
+  <data name="{resx:likethis}.Text" xml:space="preserve">
+    <value>vind dit leuk</value>
   </data>
-  <data name="{resx:other}.Text">
-    <value xml:space="preserve">andere</value>
+  <data name="{resx:other}.Text" xml:space="preserve">
+    <value>andere</value>
   </data>
-  <data name="{resx:others}.Text">
-    <value xml:space="preserve">anderen</value>
+  <data name="{resx:others}.Text" xml:space="preserve">
+    <value>anderen</value>
   </data>
-  <data name="{resx:you}.Text">
-    <value xml:space="preserve">U</value>
+  <data name="{resx:you}.Text" xml:space="preserve">
+    <value>Jij</value>
   </data>
-  <data name="{resx:youlikethis}.Text">
-    <value xml:space="preserve">U vindt dit leuk</value>
+  <data name="{resx:youlikethis}.Text" xml:space="preserve">
+    <value>Jij vindt dit leuk</value>
   </data>
-  <data name="{resx:comment}.Text">
-    <value xml:space="preserve">Reactie</value>
+  <data name="{resx:comment}.Text" xml:space="preserve">
+    <value>Reactie</value>
   </data>
-  <data name="{resx:leavecomment}.Text">
-    <value xml:space="preserve">Reageer</value>
+  <data name="{resx:leavecomment}.Text" xml:space="preserve">
+    <value>Reageer</value>
   </data>
-  <data name="journal_link.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;
-	&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;
+  <data name="journal_link.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;
+	&lt;img src="[JournalProfile:relativeurl|32]" /&gt;
 &lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -78,9 +183,9 @@
 		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]
 	[JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;</value>
   </data>
-  <data name="journal_photo.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;
-	&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;
+  <data name="journal_photo.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;
+	&lt;img src="[JournalProfile:relativeurl|32]" /&gt;
 &lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -93,12 +198,12 @@
 		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]
 	[JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;</value>
   </data>
-  <data name="UserFolderTitle.Text">
-    <value xml:space="preserve">Mijn bestanden</value>
+  <data name="UserFolderTitle.Text" xml:space="preserve">
+    <value>Mijn bestanden</value>
   </data>
-  <data name="journal_file.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;
-	&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;
+  <data name="journal_file.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;
+	&lt;img src="[JournalProfile:relativeurl|32]" /&gt;
 &lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -113,68 +218,68 @@
 		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]
 	[JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;</value>
   </data>
-  <data name="file.Text">
-    <value xml:space="preserve">Bestanden</value>
+  <data name="file.Text" xml:space="preserve">
+    <value>Bestanden</value>
   </data>
-  <data name="link.Text">
-    <value xml:space="preserve">Koppelingen</value>
+  <data name="link.Text" xml:space="preserve">
+    <value>Koppelingen</value>
   </data>
-  <data name="photo.Text">
-    <value xml:space="preserve">Foto 's</value>
+  <data name="photo.Text" xml:space="preserve">
+    <value>Foto's</value>
   </data>
-  <data name="status.Text">
-    <value xml:space="preserve">Berichten</value>
+  <data name="status.Text" xml:space="preserve">
+    <value>Berichten</value>
   </data>
-  <data name="forum_reply.Text">
-    <value xml:space="preserve">Forum antwoorden</value>
+  <data name="forum_reply.Text" xml:space="preserve">
+    <value>Forumantwoorden</value>
   </data>
-  <data name="forum_topic.Text">
-    <value xml:space="preserve">Forumonderwerpen</value>
+  <data name="forum_topic.Text" xml:space="preserve">
+    <value>Forumonderwerpen</value>
   </data>
-  <data name="journal_forum_reply.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;&lt;/div&gt;
+  <data name="journal_forum_reply.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
 		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;heeft een antwoord gegeven op: &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees meer&lt;/a&gt;{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]&lt;/div&gt;</value>
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees verder&lt;/a&gt;{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]&lt;/div&gt;</value>
   </data>
-  <data name="journal_forum_topic.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;&lt;/div&gt;
+  <data name="journal_forum_topic.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;het onderwerp gemaakt: &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;heef het onderwerp gemaakt: &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees meer&lt;/a&gt;{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]&lt;/div&gt;</value>
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees verder&lt;/a&gt;{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]&lt;/div&gt;</value>
   </data>
-  <data name="blog.Text">
-    <value xml:space="preserve">Blogs</value>
+  <data name="blog.Text" xml:space="preserve">
+    <value>Blogs</value>
   </data>
-  <data name="journal_blog.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32"&gt;&lt;/div&gt;
+  <data name="journal_blog.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
 		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;&lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees meer&lt;/a&gt;{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]&lt;/div&gt;</value>
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees verder&lt;/a&gt;{/CanComment}&lt;/p&gt;[JOURNALCONTROL:LIKELIST]&lt;/div&gt;</value>
   </data>
-  <data name="groupcreate.Text">
-    <value xml:space="preserve">Groepen aangemaakt</value>
+  <data name="groupcreate.Text" xml:space="preserve">
+    <value>Groepen aangemaakt</value>
   </data>
-  <data name="groupjoin.Text">
-    <value xml:space="preserve">Bij groepen aangesloten</value>
+  <data name="groupjoin.Text" xml:space="preserve">
+    <value>Bij groepen aangesloten</value>
   </data>
-  <data name="journal_groupcreate.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32" /&gt;&lt;/div&gt;
+  <data name="journal_groupcreate.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
-		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;created the group &lt;a href="[journaldata:Url]"&gt;[JournalItem:Title]&lt;/a&gt;&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;heeft de groep aangemaakt &lt;a href="[journaldata:Url]"&gt;[JournalItem:Title]&lt;/a&gt;&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
 		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
 	&lt;/p&gt;
@@ -182,256 +287,265 @@
 		[JOURNALCONTROL:COMMENTAREA]
 	&lt;/div&gt;</value>
   </data>
-  <data name="journal_groupjoin.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt; &lt;img src="[BaseUrl]/ProfilePic.ashx?UserId=[JournalAuthor:Id]&amp;w=32&amp;h=32" /&gt;&lt;/div&gt; &lt;div class="journalitem"&gt; &lt;p&gt;&lt;span class="authorname"&gt; [JournalControl:AUTHORNAMELINK]&lt;/span&gt; toegetreden tot de groep &lt;a href="[journaldata:Url]"&gt; [JournalItem:Title]&lt;/a&gt; &lt;div class="dnnClear"&gt; &lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;&lt;/p&gt; &lt;p class="journalfooter"&gt; &lt;abbr title="[journalItem:DateCreated]"&gt; [journalitem:TimeFrame]&lt;/abbr&gt; {CanComment} &lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK] {/CanComment}&lt;/p&gt; [JOURNALCONTROL:LIKELIST] [JOURNALCONTROL:COMMENTAREA]&lt;/div&gt;</value>
+  <data name="journal_groupjoin.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
+&lt;div class="journalitem"&gt;
+	&lt;p&gt;
+		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt;werd lid van de groep &lt;a href="[journaldata:Url]"&gt;[JournalItem:Title]&lt;/a&gt;&lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;&lt;/p&gt;
+		&lt;p class="journalfooter"&gt;
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
+	&lt;/p&gt;
+		[JOURNALCONTROL:LIKELIST]
+		[JOURNALCONTROL:COMMENTAREA]
+	&lt;/div&gt;</value>
   </data>
-  <data name="achievement.Action">
-    <value xml:space="preserve">Heeft de prestatie bereikt</value>
+  <data name="achievement.Action" xml:space="preserve">
+    <value>heeft de prestatie bereikt</value>
   </data>
-  <data name="achievement.Text">
-    <value xml:space="preserve">Behaalde prestaties</value>
+  <data name="achievement.Text" xml:space="preserve">
+    <value>Behaalde prestaties</value>
   </data>
-  <data name="answer.Action">
-    <value xml:space="preserve">heeft de vraag beantwoord</value>
+  <data name="answer.Action" xml:space="preserve">
+    <value>heeft de vraag beantwoord</value>
   </data>
-  <data name="answer.Text">
-    <value xml:space="preserve">Antwoorden</value>
+  <data name="answer.Text" xml:space="preserve">
+    <value>Antwoorden</value>
   </data>
-  <data name="articleadd.Action">
-    <value xml:space="preserve">Heeft een artikel toegevoegd</value>
+  <data name="articleadd.Action" xml:space="preserve">
+    <value>heeft een artikel toegevoegd</value>
   </data>
-  <data name="articleadd.Text">
-    <value xml:space="preserve">Artikelen</value>
+  <data name="articleadd.Text" xml:space="preserve">
+    <value>Artikelen</value>
   </data>
-  <data name="comment.Action">
-    <value xml:space="preserve">Heeft gereageerd op</value>
+  <data name="comment.Action" xml:space="preserve">
+    <value>heeft gereageerd op</value>
   </data>
-  <data name="documentadd.Action">
-    <value xml:space="preserve">Heeft het document toegevoegd</value>
+  <data name="documentadd.Action" xml:space="preserve">
+    <value>heeft het document toegevoegd</value>
   </data>
-  <data name="documentadd.Text">
-    <value xml:space="preserve">Documenten</value>
+  <data name="documentadd.Text" xml:space="preserve">
+    <value>Documenten</value>
   </data>
-  <data name="documentupdate.Action">
-    <value xml:space="preserve">Heeft het document bijgewerkt</value>
+  <data name="documentupdate.Action" xml:space="preserve">
+    <value>heeft het document bijgewerkt</value>
   </data>
-  <data name="documentupdate.Text">
-    <value xml:space="preserve">Document bijgewerkt</value>
+  <data name="documentupdate.Text" xml:space="preserve">
+    <value>Document bijgewerkt</value>
   </data>
-  <data name="eventattend.Action">
-    <value xml:space="preserve">bezoekt evenement</value>
+  <data name="eventattend.Action" xml:space="preserve">
+    <value>bezoekt evenement</value>
   </data>
-  <data name="eventattend.Text">
-    <value xml:space="preserve">Bezoekt evenementen</value>
+  <data name="eventattend.Text" xml:space="preserve">
+    <value>Bezoekt evenementen</value>
   </data>
-  <data name="eventcreate.Action">
-    <value xml:space="preserve">evenement aangemaakt</value>
+  <data name="eventcreate.Action" xml:space="preserve">
+    <value>evenement aangemaakt</value>
   </data>
-  <data name="eventcreate.Text">
-    <value xml:space="preserve">Evenementen</value>
+  <data name="eventcreate.Text" xml:space="preserve">
+    <value>Evenementen</value>
   </data>
-  <data name="friend.Text">
-    <value xml:space="preserve">Vrienden</value>
+  <data name="friend.Text" xml:space="preserve">
+    <value>Vrienden</value>
   </data>
-  <data name="ideaadd.Action">
-    <value xml:space="preserve">Heeft het idee toegevoegd</value>
+  <data name="ideaadd.Action" xml:space="preserve">
+    <value>heeft het idee toegevoegd</value>
   </data>
-  <data name="ideaadd.Text">
-    <value xml:space="preserve">Ideeën</value>
+  <data name="ideaadd.Text" xml:space="preserve">
+    <value>Ideeën</value>
   </data>
-  <data name="ideaupdate.Action">
-    <value xml:space="preserve">Heeft het idee bijgewerkt</value>
+  <data name="ideaupdate.Action" xml:space="preserve">
+    <value>heeft het idee bijgewerkt</value>
   </data>
-  <data name="ideaupdate.Text">
-    <value xml:space="preserve">Ideeën bijgewerkt</value>
+  <data name="ideaupdate.Text" xml:space="preserve">
+    <value>Ideeën bijgewerkt</value>
   </data>
-  <data name="journal_generic.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
+  <data name="journal_generic.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
 		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees verder&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
   </data>
-  <data name="privilege.Action">
-    <value xml:space="preserve">heeft het privilege verdiend</value>
+  <data name="privilege.Action" xml:space="preserve">
+    <value>heeft het privilege verdiend</value>
   </data>
-  <data name="privilege.Text">
-    <value xml:space="preserve">Privileges verdiend</value>
+  <data name="privilege.Text" xml:space="preserve">
+    <value>Privileges verdiend</value>
   </data>
-  <data name="projectcreated.Action">
-    <value xml:space="preserve">nieuw project aangemaakt</value>
+  <data name="projectcreated.Action" xml:space="preserve">
+    <value>nieuw project aangemaakt</value>
   </data>
-  <data name="projectcreated.Text">
-    <value xml:space="preserve">Project aangemaakt</value>
+  <data name="projectcreated.Text" xml:space="preserve">
+    <value>Project aangemaakt</value>
   </data>
-  <data name="projectupdate.Action">
-    <value xml:space="preserve">project bijgewerkt</value>
+  <data name="projectupdate.Action" xml:space="preserve">
+    <value>heeft project bijgewerkt</value>
   </data>
-  <data name="projectupdated.Text">
-    <value xml:space="preserve">Project bijtwerkt</value>
+  <data name="projectupdated.Text" xml:space="preserve">
+    <value>Project bijgewerkt</value>
   </data>
-  <data name="question.Action">
-    <value xml:space="preserve">de vraag gesteld</value>
+  <data name="question.Action" xml:space="preserve">
+    <value>heeft de vraag gesteld</value>
   </data>
-  <data name="question.Text">
-    <value xml:space="preserve">Vragen</value>
+  <data name="question.Text" xml:space="preserve">
+    <value>Vragen</value>
   </data>
-  <data name="reviewadd.Action">
-    <value xml:space="preserve">recensie toegevoegd voor</value>
+  <data name="reviewadd.Action" xml:space="preserve">
+    <value>heeft recensie toegevoegd voor</value>
   </data>
-  <data name="reviewadd.Text">
-    <value xml:space="preserve">Recensies</value>
+  <data name="reviewadd.Text" xml:space="preserve">
+    <value>Recensies</value>
   </data>
-  <data name="reviewupdate.Action">
-    <value xml:space="preserve">recensie bijgewerkt voor</value>
+  <data name="reviewupdate.Action" xml:space="preserve">
+    <value>recensie bijgewerkt voor</value>
   </data>
-  <data name="reviewupdate.Text">
-    <value xml:space="preserve">Recensies bijgewerkt</value>
+  <data name="reviewupdate.Text" xml:space="preserve">
+    <value>Recensies bijgewerkt</value>
   </data>
-  <data name="survey.Action">
-    <value xml:space="preserve">enquête ingevuld</value>
+  <data name="survey.Action" xml:space="preserve">
+    <value>heeft enquête ingevuld</value>
   </data>
-  <data name="survey.Text">
-    <value xml:space="preserve">Enquête ingevuld</value>
+  <data name="survey.Text" xml:space="preserve">
+    <value>Enquête ingevuld</value>
   </data>
-  <data name="taskadd.Action">
-    <value xml:space="preserve">een nieuwe taak aangemaakt</value>
+  <data name="taskadd.Action" xml:space="preserve">
+    <value>heeft een nieuwe taak aangemaakt</value>
   </data>
-  <data name="taskadd.Text">
-    <value xml:space="preserve">Taken</value>
+  <data name="taskadd.Text" xml:space="preserve">
+    <value>Taken</value>
   </data>
-  <data name="taskupdate.Action">
-    <value xml:space="preserve">de taak bijgewerkt</value>
+  <data name="taskupdate.Action" xml:space="preserve">
+    <value>heeft de taak bijgewerkt</value>
   </data>
-  <data name="taskupdate.Text">
-    <value xml:space="preserve">Taken bijgewerkt</value>
+  <data name="taskupdate.Text" xml:space="preserve">
+    <value>Taken bijgewerkt</value>
   </data>
-  <data name="videoadd.Action">
-    <value xml:space="preserve">de video toegevoegd</value>
+  <data name="videoadd.Action" xml:space="preserve">
+    <value>heeft de video toegevoegd</value>
   </data>
-  <data name="videoadd.Text">
-    <value xml:space="preserve">Video's</value>
+  <data name="videoadd.Text" xml:space="preserve">
+    <value>Video's</value>
   </data>
-  <data name="vote.Action">
-    <value xml:space="preserve">gestemd voor</value>
+  <data name="vote.Action" xml:space="preserve">
+    <value>heeft gestemd voor</value>
   </data>
-  <data name="vote.Text">
-    <value xml:space="preserve">Stemmen</value>
+  <data name="vote.Text" xml:space="preserve">
+    <value>Stemmen</value>
   </data>
-  <data name="wikiadd.Action">
-    <value xml:space="preserve">Heeft het wiki Item toegevoegd</value>
+  <data name="wikiadd.Action" xml:space="preserve">
+    <value>heeft het wiki onderwerp toegevoegd</value>
   </data>
-  <data name="wikiadd.Text">
-    <value xml:space="preserve">Wiki</value>
+  <data name="wikiadd.Text" xml:space="preserve">
+    <value>Wiki</value>
   </data>
-  <data name="wikiupdate.Action">
-    <value xml:space="preserve">Heeft het wiki item bijgewerkt</value>
+  <data name="wikiupdate.Action" xml:space="preserve">
+    <value>heeft het wiki onderwerp bijgewerkt</value>
   </data>
-  <data name="wikiupdate.Text">
-    <value xml:space="preserve">Wiki bijgewerkt</value>
+  <data name="wikiupdate.Text" xml:space="preserve">
+    <value>Wiki bijgewerkt</value>
   </data>
-  <data name="badge.Action">
-    <value xml:space="preserve">Ontving de Badge</value>
+  <data name="badge.Action" xml:space="preserve">
+    <value>ontving de Badge</value>
   </data>
-  <data name="badge.Text">
-    <value xml:space="preserve">Badge</value>
+  <data name="badge.Text" xml:space="preserve">
+    <value>Badge</value>
   </data>
-  <data name="journal_badge.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
+  <data name="journal_badge.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
 		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees verder&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
   </data>
-  <data name="journal_comment.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
+  <data name="journal_comment.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
 		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees verder&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
   </data>
-  <data name="journal_ideaadd.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
+  <data name="journal_ideaadd.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
 		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees verder&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
   </data>
-  <data name="journal_ideaupdate.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
+  <data name="journal_ideaupdate.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
 		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees verder&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
   </data>
-  <data name="journal_vote.Text">
-    <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[BaseUrl]/profilepic.ashx?userId=[JournalAuthor:Id]&amp;h=32&amp;w=32" /&gt;&lt;/div&gt;
+  <data name="journal_vote.Text" xml:space="preserve">
+    <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
 		&lt;span class="authorname"&gt;[JournalControl:AUTHORNAMELINK]&lt;/span&gt; [journalitem:action] &lt;a href="[journaldata:Url]"&gt;[journalitem:Title]&lt;/a&gt;
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Read More&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Lees verder&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
   </data>
-  <data name="Notification_Mention.Body">
-    <value xml:space="preserve">{0}</value>
+  <data name="Notification_Mention.Body" xml:space="preserve">
+    <value>{0}</value>
   </data>
-  <data name="Notification_Mention.Subject">
-    <value xml:space="preserve">{0} noemde je in een {1}</value>
+  <data name="Notification_Mention.Subject" xml:space="preserve">
+    <value>{0} noemde je in een {1}</value>
   </data>
-  <data name="Notification_MentionType_Comment.Text">
-    <value xml:space="preserve">Reactie</value>
+  <data name="Notification_MentionType_Comment.Text" xml:space="preserve">
+    <value>Reactie</value>
   </data>
-  <data name="Notification_MentionType_Post.Text">
-    <value xml:space="preserve">Post</value>
+  <data name="Notification_MentionType_Post.Text" xml:space="preserve">
+    <value>Bericht</value>
   </data>
-  <data name="product.Text">
-    <value xml:space="preserve">Producten</value>
+  <data name="product.Text" xml:space="preserve">
+    <value>Producten</value>
   </data>
-  <data name="challengeadded.Action">
-    <value xml:space="preserve">Heeft de uitdaging uitgegeven</value>
+  <data name="challengeadded.Action" xml:space="preserve">
+    <value>heeft de uitdaging uitgegeven</value>
   </data>
-  <data name="challengeadded.Text">
-    <value xml:space="preserve">Toegevoegde uitdagingen</value>
+  <data name="challengeadded.Text" xml:space="preserve">
+    <value>Toegevoegde uitdagingen</value>
   </data>
-  <data name="challengecompleted.Action">
-    <value xml:space="preserve">Heeft de uitdaging voltooid</value>
+  <data name="challengecompleted.Action" xml:space="preserve">
+    <value>heeft de uitdaging voltooid</value>
   </data>
-  <data name="challengecompleted.Text">
-    <value xml:space="preserve">Voltooide uitdagingen</value>
+  <data name="challengecompleted.Text" xml:space="preserve">
+    <value>Voltooide uitdagingen</value>
   </data>
 </root>
