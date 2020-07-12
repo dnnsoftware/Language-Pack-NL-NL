@@ -7,13 +7,13 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ControlTitle_settings.Text" xml:space="preserve">
-    <value>Groepsmodule instellingen</value>
+    <value>Groepenmodule instellingen</value>
   </data>
   <data name="DefaultRoleGroup.Help" xml:space="preserve">
     <value>Selecteer de rolgroep die de rollen bevat die je wilt weergeven</value>
@@ -22,7 +22,7 @@
     <value>Standaard rolgroep</value>
   </data>
   <data name="GroupCreatePage.Help" xml:space="preserve">
-    <value>Selecteer de pagina waar gebruikers naar toe gaan om nieuwe groepen aan te maken</value>
+    <value>Selecteer de pagina waar gebruikers naar toe gaan om nieuwe groepen aan te maken.</value>
   </data>
   <data name="GroupListEnableSearch.Help" xml:space="preserve">
     <value>Selecteer deze optie om de gebruikers de mogelijkheid te geven om op de weergegeven groepen te filteren.</value>
@@ -31,10 +31,10 @@
     <value>Zoeken op groep toestaan</value>
   </data>
   <data name="GroupListPageSize.Help" xml:space="preserve">
-    <value>Specificeer het aantal groepen dat word teruggegeven per pagina.</value>
+    <value>Specificeer het aantal groepen dat wordt weergegeven per pagina.</value>
   </data>
   <data name="GroupListPageSize.Text" xml:space="preserve">
-    <value>Paginagrootte van groepslijst</value>
+    <value>Paginagrootte van groepenlijst</value>
   </data>
   <data name="GroupListSortDirField.Help" xml:space="preserve">
     <value>Kies de sorteerrichting voor de lijst van groepen.</value>
@@ -49,23 +49,23 @@
     <value>Sorteer lijst op basis van</value>
   </data>
   <data name="GroupListTemplateText.Help" xml:space="preserve">
-    <value>Je kan het standaardsjabloon wijzigen om de weergave van de groepslijst aan te passen.  Gemeenschappelijke tokens zijn:&lt;br/&gt;
+    <value>Je kan het standaardsjabloon wijzigen om de weergave van de groepenlijst aan te passen.  Gemeenschappelijke tokens zijn:&lt;br/&gt;
 [groupitem:GroupName]&lt;br&gt;
 [groupitem:GroupDescription]&lt;br/&gt;
 [groupitem:PhotoURL]&lt;br/&gt;
 [groupviewurl]&lt;br/&gt;</value>
   </data>
   <data name="GroupListTemplateText.Text" xml:space="preserve">
-    <value>Groepslijstsjabloon</value>
+    <value>Groepenlijstsjabloon</value>
   </data>
   <data name="GroupListUserGroups.Help" xml:space="preserve">
-    <value>Selecteer deze optie om alleen de groepen weer te geven waar de huidige gebruiker bij hoort.</value>
+    <value>Selecteer deze optie om alleen die groepen te tonen, waar de huidige gebruiker lid van is.</value>
   </data>
   <data name="GroupListUserGroups.Text" xml:space="preserve">
-    <value>Toon een alleen de gebruiker zijn groepen</value>
+    <value>Toon enkel de groepen waar de gebruiker lid van is</value>
   </data>
   <data name="GroupModeration.Help" xml:space="preserve">
-    <value>Vink deze optie aan als nieuwe groepen moeten worden goedgekeurd</value>
+    <value>Vink deze optie aan als nieuwe groepen moeten worden goedgekeurd.</value>
   </data>
   <data name="GroupModeration.Text" xml:space="preserve">
     <value>Nieuwe groepen moeten worden goedgekeurd</value>
@@ -74,7 +74,7 @@
     <value>Selecteer de pagina waar gebruikers naar toe gaan om een bepaalde groep te bekijken</value>
   </data>
   <data name="GroupViewTemplateText.Help" xml:space="preserve">
-    <value>Je kan het standaardsjabloon wijzigen om de weergave van de groepslijst aan te passen.  Gemeenschappelijke tokens zijn:&lt;br/&gt;
+    <value>Je kan het standaardsjabloon wijzigen om de weergave van de groepenlijst aan te passen.  Gemeenschappelijke tokens zijn:&lt;br/&gt;
 [groupitem:GroupName]&lt;br&gt;
 [groupitem:GroupDescription]&lt;br/&gt;
 [groupitem:PhotoURL]&lt;br/&gt;
