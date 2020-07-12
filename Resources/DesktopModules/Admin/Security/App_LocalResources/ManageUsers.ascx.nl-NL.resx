@@ -12,157 +12,157 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccountSettings.Text">
-    <value xml:space="preserve">Account instellingen</value>
+  <data name="AccountSettings.Text" xml:space="preserve">
+    <value>Account instellingen</value>
   </data>
-  <data name="AddContent.Action">
-    <value xml:space="preserve">Nieuwe gebruiker toevoegen</value>
+  <data name="AddContent.Action" xml:space="preserve">
+    <value>Nieuwe gebruiker toevoegen</value>
   </data>
-  <data name="AddUser.Text">
-    <value xml:space="preserve">Nieuwe gebruiker toevoegen</value>
+  <data name="AddUser.Text" xml:space="preserve">
+    <value>Nieuwe gebruiker toevoegen</value>
   </data>
-  <data name="AddUser.Title">
-    <value xml:space="preserve">Nieuwe Gebruiker Toevoegen</value>
+  <data name="AddUser.Title" xml:space="preserve">
+    <value>Nieuwe gebruiker toevoegen</value>
   </data>
-  <data name="CannotAddUser.Text">
-    <value xml:space="preserve">Uw configuratie maakt het noodzakelijk dat gebruikers een wachtwoord herinnerings Vraag en Antwoord invullen. Het is hierdoor niet mogelijk voor beheerders om gebruikersaccounts aan te maken, deze optie is daarom gedeactiveerd.</value>
+  <data name="CannotAddUser.Text" xml:space="preserve">
+    <value>Je configuratie maakt het noodzakelijk dat gebruikers een wachtwoord herinneringsvraag en -antwoord invullen. Het is hierdoor niet mogelijk voor sitebeheerders om gebruikersaccounts aan te maken, Deze optie is daarom gedeactiveerd.</value>
   </data>
-  <data name="cmdLogin.Text">
-    <value xml:space="preserve">Doorgaan met inloggen</value>
+  <data name="cmdLogin.Text" xml:space="preserve">
+    <value>Doorgaan met inloggen</value>
   </data>
-  <data name="cmdPassword.Text">
-    <value xml:space="preserve">Wachtwoord beheren</value>
+  <data name="cmdPassword.Text" xml:space="preserve">
+    <value>Wachtwoord beheren</value>
   </data>
-  <data name="cmdProfile.Text">
-    <value xml:space="preserve">Profiel beheren</value>
+  <data name="cmdProfile.Text" xml:space="preserve">
+    <value>Profiel beheren</value>
   </data>
-  <data name="cmdRegister.Text">
-    <value xml:space="preserve">Registreren</value>
+  <data name="cmdRegister.Text" xml:space="preserve">
+    <value>Registreren</value>
   </data>
-  <data name="cmdRoles.Text">
-    <value xml:space="preserve">Beheer rollen voor deze gebruiker</value>
+  <data name="cmdRoles.Text" xml:space="preserve">
+    <value>Beheer rollen voor deze gebruiker</value>
   </data>
-  <data name="cmdServices.Text">
-    <value xml:space="preserve">Beheer diensten</value>
+  <data name="cmdServices.Text" xml:space="preserve">
+    <value>Beheer diensten</value>
   </data>
-  <data name="cmdUpdatePassword.Text">
-    <value xml:space="preserve">Wachtwoord veranderen</value>
+  <data name="cmdUpdatePassword.Text" xml:space="preserve">
+    <value>Wachtwoord veranderen</value>
   </data>
-  <data name="cmdUser.Text">
-    <value xml:space="preserve">Beheer account</value>
+  <data name="cmdUser.Text" xml:space="preserve">
+    <value>Beheer account</value>
   </data>
-  <data name="ControlTitle_edit.Text">
-    <value xml:space="preserve">Bewerk Gebruiker Accounts</value>
+  <data name="ControlTitle_edit.Text" xml:space="preserve">
+    <value>Bewerk gebruikersaccounts</value>
   </data>
-  <data name="ControlTitle_profile.Text">
-    <value xml:space="preserve">Beheer profiel</value>
+  <data name="ControlTitle_profile.Text" xml:space="preserve">
+    <value>Beheer profiel</value>
   </data>
-  <data name="ControlTitle_register.Text">
-    <value xml:space="preserve">Registreren</value>
+  <data name="ControlTitle_register.Text" xml:space="preserve">
+    <value>Registreren</value>
   </data>
-  <data name="EmailError.Text">
-    <value xml:space="preserve">Deze website vereist dat dat e-mail adressen uniek zijn. Het e-mail adres dat u wilt gebruiken is reeds in gebruik.</value>
+  <data name="EmailError.Text" xml:space="preserve">
+    <value>Deze website vereist dat dat e-mail adressen uniek zijn. Het e-mail adres dat je wilt gebruiken is reeds in gebruik.</value>
   </data>
-  <data name="ExceededRegisterQuota.Text">
-    <value xml:space="preserve">Op dit moment kunt u zich niet registreren voor deze site. Neem contact op met de beheerder van de site voor meer informatie.</value>
+  <data name="ExceededRegisterQuota.Text" xml:space="preserve">
+    <value>Op dit moment kun je je  niet registreren voor deze site. Neem contact op met de beheerder van de site voor meer informatie.</value>
   </data>
-  <data name="ExceededUserQuota.Text">
-    <value xml:space="preserve">Het toevoegen van deze gebruiker zal resulteren in het overschrijden van het maximale aantal gebruikers voor dit portal. Neem contact op met uw hosting provider voor meer informatie hierover</value>
+  <data name="ExceededUserQuota.Text" xml:space="preserve">
+    <value>Het toevoegen van deze gebruiker zal resulteren in het overschrijden van het maximale aantal gebruikers voor deze website. Neem contact op met je hosting provider voor meer informatie hierover</value>
   </data>
-  <data name="InvalidUser.Text">
-    <value xml:space="preserve">Dit account is geen gebruiker binnen deze website</value>
+  <data name="InvalidUser.Text" xml:space="preserve">
+    <value>Dit account is geen gebruiker binnen deze website</value>
   </data>
-  <data name="ManageProfile.Action">
-    <value xml:space="preserve">Beheer profiel eigenschappen</value>
+  <data name="ManageProfile.Action" xml:space="preserve">
+    <value>Beheer profieleigenschappen</value>
   </data>
-  <data name="MembershipDetails.Text">
-    <value xml:space="preserve">Account informatie</value>
+  <data name="MembershipDetails.Text" xml:space="preserve">
+    <value>Accountinformatie</value>
   </data>
-  <data name="MembershipTitle.Text">
-    <value xml:space="preserve">Lidmaatschap Informatie</value>
+  <data name="MembershipTitle.Text" xml:space="preserve">
+    <value>Lidmaatschapsinformatie</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;Over nieuwsbrieven&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunnen beheerders e-mail in bulk versturen naar alle gebruikers behoren tot een bepaalde rol.&lt;/p&gt;</value>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;Over nieuwsbrieven&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunnen sitebeheerders e-mail in bulk versturen naar alle gebruikers behoren tot een bepaalde rol.&lt;/p&gt;</value>
   </data>
-  <data name="NewPassword.Text">
-    <value xml:space="preserve">U moet een wachtwoord opgeven.</value>
+  <data name="NewPassword.Text" xml:space="preserve">
+    <value>Je moet een wachtwoord opgeven.</value>
   </data>
-  <data name="NotAuthorized.Text" lastModified="2015-12-31 10:29:10">
-    <value xml:space="preserve">U bent niet geautoriseerd om deze gebruiker te bewerken.</value>
+  <data name="NotAuthorized.Text" xml:space="preserve">
+    <value>Je bent niet geautoriseerd om deze gebruiker te bewerken.</value>
   </data>
-  <data name="NoUser.Text" lastModified="2015-12-31 10:29:10">
-    <value xml:space="preserve">Dit account bestaat niet.</value>
+  <data name="NoUser.Text" xml:space="preserve">
+    <value>Dit account bestaat niet.</value>
   </data>
-  <data name="Password.Action">
-    <value xml:space="preserve">Beheer Gebruikers Wachtwoord</value>
+  <data name="Password.Action" xml:space="preserve">
+    <value>Beheer gebruikerswachtwoord</value>
   </data>
-  <data name="PasswordQAChanged.Text" lastModified="2015-12-31 10:29:10">
-    <value xml:space="preserve">Wachtwoord vraag en antwoord succesvol bijgewerkt.</value>
+  <data name="PasswordQAChanged.Text" xml:space="preserve">
+    <value>Wachtwoordvraag en -antwoord succesvol bijgewerkt.</value>
   </data>
-  <data name="plCaptcha.Help" lastModified="2015-12-31 10:29:10">
-    <value xml:space="preserve">Voer de beveiligingscode in.</value>
+  <data name="plCaptcha.Help" xml:space="preserve">
+    <value>Voer de beveiligingscode in.</value>
   </data>
-  <data name="plCaptcha.Text">
-    <value xml:space="preserve">Beveiligingscode:</value>
+  <data name="plCaptcha.Text" xml:space="preserve">
+    <value>Beveiligingscode:</value>
   </data>
-  <data name="plNewConfirm.Help" lastModified="2015-12-31 10:29:10">
-    <value xml:space="preserve">Voer het nieuwe wachtwoord opnieuw in om er zeker van te zijn dat u geen typefout heeft gemaakt.</value>
+  <data name="plNewConfirm.Help" xml:space="preserve">
+    <value>Voer het nieuwe wachtwoord opnieuw in om er zeker van te zijn dat je geen typefout hebt gemaakt.</value>
   </data>
-  <data name="plNewConfirm.Text">
-    <value xml:space="preserve">Bevestig nieuwe wachtwoord:</value>
+  <data name="plNewConfirm.Text" xml:space="preserve">
+    <value>Bevestig het nieuwe wachtwoord:</value>
   </data>
-  <data name="plNewPassword.Help" lastModified="2015-12-31 10:29:10">
-    <value xml:space="preserve">Geef het nieuwe wachtwoord.</value>
+  <data name="plNewPassword.Help" xml:space="preserve">
+    <value>Geef het nieuwe wachtwoord.</value>
   </data>
-  <data name="plNewPassword.Text">
-    <value xml:space="preserve">Nieuw wachtwoord:</value>
+  <data name="plNewPassword.Text" xml:space="preserve">
+    <value>Nieuw wachtwoord:</value>
   </data>
-  <data name="Profile.Action">
-    <value xml:space="preserve">Gebruikersprofiel beheren</value>
+  <data name="Profile.Action" xml:space="preserve">
+    <value>Gebruikersprofiel beheren</value>
   </data>
-  <data name="Register.Text">
-    <value xml:space="preserve">Gebruiker Registratie</value>
+  <data name="Register.Text" xml:space="preserve">
+    <value>Gebruikersregistratie</value>
   </data>
-  <data name="Register.Title">
-    <value xml:space="preserve">Gebruiker Registratie</value>
+  <data name="Register.Title" xml:space="preserve">
+    <value>Gebruikersregistratie</value>
   </data>
-  <data name="RegisterWarning.Text">
-    <value xml:space="preserve"> - &lt;em&gt;(&lt;strong&gt;Let Op:&lt;/strong&gt; - Registreren kan enkele seconden in beslag nemen. Wanneer u op de registreren knop klikt moet u wachten tot het systeem reageert.)&lt;/em&gt;</value>
+  <data name="RegisterWarning.Text" xml:space="preserve">
+    <value> - &lt;em&gt;(&lt;strong&gt;Let op:&lt;/strong&gt; - Registreren kan enkele seconden in beslag nemen. Wanneer je op de registreren knop klikt moet je wachten tot het systeem reageert.)&lt;/em&gt;</value>
   </data>
-  <data name="ResetPassword.Text">
-    <value xml:space="preserve">Wachtwoord wijzigen</value>
+  <data name="ResetPassword.Text" xml:space="preserve">
+    <value>Wachtwoord wijzigen</value>
   </data>
-  <data name="Roles.Action">
-    <value xml:space="preserve">Beheer rollen voor deze gebruiker</value>
+  <data name="Roles.Action" xml:space="preserve">
+    <value>Beheer rollen voor deze gebruiker</value>
   </data>
-  <data name="SuperUser.Text">
-    <value xml:space="preserve">Dit account is van een SuperUser. U heeft niet de juiste machtingen om het account van een SuperUser te wijzigen.</value>
+  <data name="SuperUser.Text" xml:space="preserve">
+    <value>Dit account is van een Applicatiebeheerder. Je hebt niet de juiste machtingen om het account van een Applicatiebeheerder te wijzigen.</value>
   </data>
-  <data name="UserAuthorized.Text" lastModified="2015-12-31 10:29:10">
-    <value xml:space="preserve">De gebruiker is nu geautoriseerd.</value>
+  <data name="UserAuthorized.Text" xml:space="preserve">
+    <value>De gebruiker is nu geautoriseerd.</value>
   </data>
-  <data name="UserDemotedFromSuperuser.Text">
-    <value xml:space="preserve">Gebruiker is bijgewerkt tot standaard gebruiker.</value>
+  <data name="UserDemotedFromSuperuser.Text" xml:space="preserve">
+    <value>Gebruiker is bijgewerkt tot standaardgebruiker.</value>
   </data>
-  <data name="UserLockedOut.Text">
-    <value xml:space="preserve">Dit account is op dit moment vergrendeld als gevolg van te veel foutieve inlog pogingen.</value>
+  <data name="UserLockedOut.Text" xml:space="preserve">
+    <value>Dit account is op dit moment vergrendeld als gevolg van te veel foutieve inlog pogingen.</value>
   </data>
-  <data name="UserPasswordUpdateChanged.Text" lastModified="2015-12-31 10:29:10">
-    <value xml:space="preserve">Gebruiker moet het wachtwoord bij de volgende login bijwerken.</value>
+  <data name="UserPasswordUpdateChanged.Text" xml:space="preserve">
+    <value>Gebruiker moet het wachtwoord bij de volgende login bijwerken.</value>
   </data>
-  <data name="UserPromotedToSuperuser.Text">
-    <value xml:space="preserve">Gebruiker is bijgewerkt tot een Superuser.</value>
+  <data name="UserPromotedToSuperuser.Text" xml:space="preserve">
+    <value>Gebruiker is bijgewerkt tot een Applicatiebeheerder.</value>
   </data>
-  <data name="UserSubscribed.Text" lastModified="2015-12-31 10:29:10">
-    <value xml:space="preserve">U ben nu geabonneerd op rol {0}.</value>
+  <data name="UserSubscribed.Text" xml:space="preserve">
+    <value>Je bent nu geabonneerd op rol {0}.</value>
   </data>
-  <data name="UserTitle.Text">
-    <value xml:space="preserve">Bewerk Gebruiker- {0} (Id: {1})</value>
+  <data name="UserTitle.Text" xml:space="preserve">
+    <value>Bewerk Gebruiker- {0} (Id: {1})</value>
   </data>
-  <data name="UserUnAuthorized.Text" lastModified="2015-12-31 10:29:10">
-    <value xml:space="preserve">De gebruiker is nu niet meer geautoriseerd.</value>
+  <data name="UserUnAuthorized.Text" xml:space="preserve">
+    <value>De gebruiker is nu niet meer geautoriseerd.</value>
   </data>
-  <data name="UserUnSubscribed.Text">
-    <value xml:space="preserve">U bent nu niet meer lid van de rol {0}.</value>
+  <data name="UserUnSubscribed.Text" xml:space="preserve">
+    <value>Je bent nu niet meer lid van de rol {0}.</value>
   </data>
 </root>

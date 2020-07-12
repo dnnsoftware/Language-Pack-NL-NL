@@ -12,46 +12,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cmdImport.Text">
-    <value xml:space="preserve">Importeren</value>
+  <data name="cmdImport.Text" xml:space="preserve">
+    <value>Importeren</value>
   </data>
-  <data name="ControlTitle_importmodule.Text">
-    <value xml:space="preserve">Importeer Module</value>
+  <data name="ControlTitle_importmodule.Text" xml:space="preserve">
+    <value>Importeer module</value>
   </data>
-  <data name="Error.Text" lastModified="2015-12-30 09:06:55">
-    <value xml:space="preserve">Er is een fout opgetreden tijdens het importeren.</value>
+  <data name="Error.Text" xml:space="preserve">
+    <value>Er is een fout opgetreden tijdens het importeren.</value>
   </data>
-  <data name="ImportFile.Text">
-    <value xml:space="preserve">Bestand importeren</value>
+  <data name="ImportFile.Text" xml:space="preserve">
+    <value>Bestand importeren</value>
   </data>
-  <data name="ImportNotSupported.Text">
-    <value xml:space="preserve">De geselecteerde module biedt geen ondersteuning voor importeren van inhoud</value>
+  <data name="ImportNotSupported.Text" xml:space="preserve">
+    <value>De geselecteerde module biedt geen ondersteuning voor importeren van inhoud</value>
   </data>
-  <data name="ModuleContent.Text">
-    <value xml:space="preserve">Module inhoud</value>
+  <data name="ModuleContent.Text" xml:space="preserve">
+    <value>Module inhoud</value>
   </data>
-  <data name="ModuleHelp.Text" lastModified="2015-12-30 08:06:28">
-    <value xml:space="preserve">&lt;h1&gt;Import Module&lt;/h1&gt;&lt;p&gt;Importeer reeds geexporteerde content in de gespecificeerde module.&lt;/p&gt;</value>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;Import Module&lt;/h1&gt;&lt;p&gt;Importeer reeds geexporteerde content in de gespecificeerde module.&lt;/p&gt;</value>
   </data>
-  <data name="NotCorrectType.Text" lastModified="2015-12-30 09:06:55">
-    <value xml:space="preserve">De module-inhoud is niet het juiste type voor deze module.</value>
+  <data name="NotCorrectType.Text" xml:space="preserve">
+    <value>De module-inhoud is niet het juiste type voor deze module.</value>
   </data>
-  <data name="NotValidXml.Text" lastModified="2015-12-30 09:06:55">
-    <value xml:space="preserve">De module-inhoud beschikt niet over een geldig XML-structuur.</value>
+  <data name="NotValidXml.Text" xml:space="preserve">
+    <value>De module-inhoud beschikt niet over een geldig XML-structuur.</value>
   </data>
-  <data name="plFile.Help">
-    <value xml:space="preserve">Selecteer het import bestand</value>
+  <data name="plFile.Help" xml:space="preserve">
+    <value>Selecteer het import bestand</value>
   </data>
-  <data name="plFile.Text">
-    <value xml:space="preserve">Bestand</value>
+  <data name="plFile.Text" xml:space="preserve">
+    <value>Bestand</value>
   </data>
-  <data name="plFolder.Help">
-    <value xml:space="preserve">Selecteer de import map</value>
+  <data name="plFolder.Help" xml:space="preserve">
+    <value>Selecteer de import map</value>
   </data>
-  <data name="plFolder.Text">
-    <value xml:space="preserve">Map</value>
+  <data name="plFolder.Text" xml:space="preserve">
+    <value>Map</value>
   </data>
-  <data name="Root.Text">
-    <value xml:space="preserve">Beginmap</value>
+  <data name="Root.Text" xml:space="preserve">
+    <value>Beginmap</value>
   </data>
 </root>

@@ -12,7 +12,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Copyright.Text">
-    <value xml:space="preserve">Copyright (c) {0} {1}</value>
+  <data name="Copyright.Text" xml:space="preserve">
+    <value>Copyright (c) {0} {1}</value>
   </data>
 </root>

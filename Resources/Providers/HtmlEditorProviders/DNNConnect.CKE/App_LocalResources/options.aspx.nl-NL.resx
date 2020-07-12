@@ -12,397 +12,397 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="$this.DefaultModifiers" lastModified="2018-07-24 13:38:57">
-    <value xml:space="preserve">Private</value>
+  <data name="$this.DefaultModifiers" xml:space="preserve">
+    <value>Private</value>
   </data>
-  <data name="$this.TrayAutoArrange" lastModified="2018-07-24 11:38:52">
-    <value xml:space="preserve">True</value>
+  <data name="$this.TrayAutoArrange" xml:space="preserve">
+    <value>True</value>
   </data>
-  <data name="$this.TrayLargeIcon" lastModified="2018-07-24 11:38:52">
-    <value xml:space="preserve">False</value>
+  <data name="$this.TrayLargeIcon" xml:space="preserve">
+    <value>False</value>
   </data>
-  <data name="AddRowBreakLabel.Text" lastModified="2018-07-22 14:48:42">
-    <value xml:space="preserve">Voeg Afbreking Regel in</value>
+  <data name="AddRowBreakLabel.Text" xml:space="preserve">
+    <value>Voeg een regeleinde in</value>
   </data>
-  <data name="AddRowBreakTitle.Text" lastModified="2018-07-22 14:48:42">
-    <value xml:space="preserve">Voeg Afbreking Regel toe aan de Toolbar Set</value>
+  <data name="AddRowBreakTitle.Text" xml:space="preserve">
+    <value>Voeg Nieuw regeleinde toe aan de knoppenbalk</value>
   </data>
-  <data name="AddToolbar.Text" lastModified="2018-07-22 14:48:42">
-    <value xml:space="preserve">Voeg een nieuwe Toolbar Set toe</value>
+  <data name="AddToolbar.Text" xml:space="preserve">
+    <value>Voeg een nieuwe knoppenbalkreeks toe</value>
   </data>
-  <data name="AllPortals.Text" lastModified="2018-07-22 14:48:42">
-    <value xml:space="preserve">Alle Portalen</value>
+  <data name="AllPortals.Text" xml:space="preserve">
+    <value>Alle sites</value>
   </data>
-  <data name="BadImportXml.Text" lastModified="2018-07-22 14:48:42">
-    <value xml:space="preserve">Incorrecte of foutive XML file.</value>
+  <data name="BadImportXml.Text" xml:space="preserve">
+    <value>Incorrecte of foutieve XML file.</value>
   </data>
-  <data name="BlanktextTT.Text" lastModified="2018-07-22 16:51:27">
-    <value xml:space="preserve">Dit is de standaard weergegeven tekst wanneer de module inhoud leeg is.</value>
+  <data name="BlanktextTT.Text" xml:space="preserve">
+    <value>Dit is de standaard weergegeven tekst wanneer de module inhoud leeg is.</value>
   </data>
-  <data name="BrowserRootFolder.Text" lastModified="2018-07-22 21:32:56">
-    <value xml:space="preserve">Browser Hoofdmap:</value>
+  <data name="BrowserRootFolder.Text" xml:space="preserve">
+    <value>Browser Hoofdmap:</value>
   </data>
-  <data name="btnCancel.Text" lastModified="2018-07-22 16:51:27">
-    <value xml:space="preserve">Sluiten</value>
+  <data name="btnCancel.Text" xml:space="preserve">
+    <value>Sluiten</value>
   </data>
-  <data name="btnOK.Text" lastModified="2018-07-22 16:51:27">
-    <value xml:space="preserve">Opslaan</value>
+  <data name="btnOK.Text" xml:space="preserve">
+    <value>Opslaan</value>
   </data>
-  <data name="CancelToolbar.Text" lastModified="2018-07-22 16:51:27">
-    <value xml:space="preserve">Annuleer aanpassen</value>
+  <data name="CancelToolbar.Text" xml:space="preserve">
+    <value>Annuleer wijzigen</value>
   </data>
-  <data name="CodeMirrorLabel.Text" lastModified="2018-07-22 19:01:16">
-    <value xml:space="preserve">CodeMirror Thema (voor Source Syntax Highlighting):</value>
+  <data name="CodeMirrorLabel.Text" xml:space="preserve">
+    <value>CodeMirror Thema (voor broncodesyntaxmarkrering):</value>
   </data>
-  <data name="CopyPageChild.Help" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Kopieer huidige pagina instellingen naar alle onderliggende pagina's.</value>
+  <data name="CopyPageChild.Help" xml:space="preserve">
+    <value>Kopieer huidige pagina instellingen naar alle onderliggende pagina's.</value>
   </data>
-  <data name="CopyPageChild.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Kopieer Instellingen naar onderliggende pagina's </value>
+  <data name="CopyPageChild.Text" xml:space="preserve">
+    <value>Kopieer Instellingen naar onderliggende pagina's </value>
   </data>
-  <data name="CreateGroupLabel.Text" lastModified="2018-07-22 21:32:56">
-    <value xml:space="preserve">Creëer nieuwe groep</value>
+  <data name="CreateGroupLabel.Text" xml:space="preserve">
+    <value>Creëer een nieuwe groep</value>
   </data>
-  <data name="CreateGroupTitle.Text" lastModified="2018-07-22 21:32:56">
-    <value xml:space="preserve">Voeg nieuwe groep toe aan Toolbar Set?</value>
+  <data name="CreateGroupTitle.Text" xml:space="preserve">
+    <value>Voeg nieuwe groep toe aan knopenbalkreeks?</value>
   </data>
-  <data name="CustomJsFileLabel.Text" lastModified="2018-07-22 21:32:56">
-    <value xml:space="preserve">Aangepast JS Bestand:</value>
+  <data name="CustomJsFileLabel.Text" xml:space="preserve">
+    <value>Aangepast JS Bestand:</value>
   </data>
-  <data name="DefaultLinkMode0.Text" lastModified="2018-07-22 21:32:56">
-    <value xml:space="preserve">Relatieve URL</value>
+  <data name="DefaultLinkMode0.Text" xml:space="preserve">
+    <value>Relatieve URL</value>
   </data>
-  <data name="DefaultLinkMode1.Text" lastModified="2018-07-22 21:32:56">
-    <value xml:space="preserve">Absolute URL</value>
+  <data name="DefaultLinkMode1.Text" xml:space="preserve">
+    <value>Absolute URL</value>
   </data>
-  <data name="DefaultLinkMode2.Text" lastModified="2018-07-22 21:32:56">
-    <value xml:space="preserve">Relatieve beveiligde URL</value>
+  <data name="DefaultLinkMode2.Text" xml:space="preserve">
+    <value>Relatieve beveiligde URL</value>
   </data>
-  <data name="DefaultLinkMode3.Text" lastModified="2018-07-22 21:32:56">
-    <value xml:space="preserve">Absolute Beveiligde URL</value>
+  <data name="DefaultLinkMode3.Text" xml:space="preserve">
+    <value>Absolute Beveiligde URL</value>
   </data>
-  <data name="DefaultLinkModeLabel.Text" lastModified="2018-07-22 23:35:39">
-    <value xml:space="preserve">Standaard Link Modus:</value>
+  <data name="DefaultLinkModeLabel.Text" xml:space="preserve">
+    <value>Standaard Link Modus:</value>
   </data>
-  <data name="DeleteGroup.Text" lastModified="2018-07-22 23:35:39">
-    <value xml:space="preserve">Verwijder deze Toolbar Groep?</value>
+  <data name="DeleteGroup.Text" xml:space="preserve">
+    <value>Verwijder deze knoppenbalkgroep?</value>
   </data>
-  <data name="DeleteToolbar.Text" lastModified="2018-07-22 23:35:39">
-    <value xml:space="preserve">Verwijder de geselecteerde Toolbar Set</value>
+  <data name="DeleteToolbar.Text" xml:space="preserve">
+    <value>Verwijder de geselecteerde knoppenbalkreeks</value>
   </data>
-  <data name="DeleteToolbarButton.Text" lastModified="2018-07-22 23:35:39">
-    <value xml:space="preserve">Verwijder deze Toolbar Knop?</value>
+  <data name="DeleteToolbarButton.Text" xml:space="preserve">
+    <value>Verwijder deze knoppenbalkknop?</value>
   </data>
-  <data name="DetailView.Text" lastModified="2018-07-22 23:35:39">
-    <value xml:space="preserve">Detail Scherm</value>
+  <data name="DetailView.Text" xml:space="preserve">
+    <value>Detailweergave</value>
   </data>
-  <data name="EditGroupName.Text" lastModified="2018-07-22 23:35:39">
-    <value xml:space="preserve">Klik om deze Groep Naam aan te passen</value>
+  <data name="EditGroupName.Text" xml:space="preserve">
+    <value>Klik om deze groepsnaam te wijzigen</value>
   </data>
-  <data name="EditorConfigWarning.Text" lastModified="2018-07-23 01:38:43">
-    <value xml:space="preserve">&lt;strong&gt;Informatie:&lt;/strong&gt; De onderstaande Settings zijn alleen voor Experts; pas deze alleen aan als u weet wat u doet. Voor meer informatie over Settings gaat u naar: &lt;a href="http://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html"&gt;&lt;strong&gt;CKEditor JavaScript API Documentatie Pagina&lt;/strong&gt;&lt;/a&gt;. U kunt de Settings leeg laten om de standaard Settings in te laden wanneer de Editor is geladen.</value>
+  <data name="EditorConfigWarning.Text" xml:space="preserve">
+    <value>&lt;strong&gt;Informatie:&lt;/strong&gt; De onderstaande instellingen zijn alleen voor experts; pas deze alleen aan als je weet wat je doet. Voor meer informatie over Settings ga je naar: &lt;a href="https://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html"&gt;&lt;strong&gt;CKEditor JavaScript API Documentatie Pagina&lt;/strong&gt;&lt;/a&gt;. Je kunt de instellingen leeg laten om de standaard instellingen in te laden wanneer de Editor is geladen.</value>
   </data>
-  <data name="EditToolbar.Text" lastModified="2018-07-23 03:39:57">
-    <value xml:space="preserve">Pas de geselcteerde Toolbar Set aan</value>
+  <data name="EditToolbar.Text" xml:space="preserve">
+    <value>Pas de geselcteerde knopenbalkreeks aan</value>
   </data>
-  <data name="Error1.Text" lastModified="2018-07-23 03:39:57">
-    <value xml:space="preserve">De gebruiker heeft geen toestemming om deze pagina te bekijken.</value>
+  <data name="Error1.Text" xml:space="preserve">
+    <value>De gebruiker heeft geen toestemming om deze pagina te bekijken.</value>
   </data>
-  <data name="Export.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Huidige Editor Instellingen zijn geexporteerd</value>
+  <data name="Export.Text" xml:space="preserve">
+    <value>Huidige Editor Instellingen zijn geëxporteerd</value>
   </data>
-  <data name="ExportNow.Text" lastModified="2018-07-23 03:39:57">
-    <value xml:space="preserve">Exporteer Nu</value>
+  <data name="ExportNow.Text" xml:space="preserve">
+    <value>Exporteer</value>
   </data>
-  <data name="FileListPageSizeLabel.Text" lastModified="2018-07-23 05:47:03">
-    <value xml:space="preserve">Bestand Lijst Pagina Grootte (0=Niet Gepagineerd)</value>
+  <data name="FileListPageSizeLabel.Text" xml:space="preserve">
+    <value>Paginagrootte van de bestandenlijst  (0=Niet gepagineerd)</value>
   </data>
-  <data name="FileListViewModeLabel.Text" lastModified="2018-07-23 05:47:03">
-    <value xml:space="preserve">Standaard Bestand Lijst Scherm Modus:</value>
+  <data name="FileListViewModeLabel.Text" xml:space="preserve">
+    <value>Standaard weergave van de bestandenlijst:</value>
   </data>
-  <data name="HostHasSettingLabel.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Bevat Host Instellingen</value>
+  <data name="HostHasSettingLabel.Text" xml:space="preserve">
+    <value>Bevat applicatie-instellingen</value>
   </data>
-  <data name="HostNoSettingLabel.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Bevat geen Host Instellingen</value>
+  <data name="HostNoSettingLabel.Text" xml:space="preserve">
+    <value>Bevat geen applicatie-instellingen</value>
   </data>
-  <data name="IconLegendLabel.Text" lastModified="2018-07-23 05:47:03">
-    <value xml:space="preserve">Icoon Legenda</value>
+  <data name="IconLegendLabel.Text" xml:space="preserve">
+    <value>Icoon Legenda</value>
   </data>
-  <data name="IconsView.Text" lastModified="2018-07-23 05:47:03">
-    <value xml:space="preserve">Icoon Scherm</value>
+  <data name="IconsView.Text" xml:space="preserve">
+    <value>Icoonweergave</value>
   </data>
-  <data name="Imported.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Editor Instellingen Geimporteerd voor</value>
+  <data name="Imported.Text" xml:space="preserve">
+    <value>Editor Instellingen geïmporteerd voor</value>
   </data>
-  <data name="ImportNow.Text" lastModified="2018-07-23 05:47:03">
-    <value xml:space="preserve">Importeer Nu</value>
+  <data name="ImportNow.Text" xml:space="preserve">
+    <value>Importeer</value>
   </data>
-  <data name="lblAutoCreateFileThumbNails.Text" lastModified="2018-07-23 05:47:03">
-    <value xml:space="preserve">Automatisch Thumbnail Afbeelding Creeeren voor Voorbeeld:</value>
+  <data name="lblAutoCreateFileThumbNails.Text" xml:space="preserve">
+    <value>Automatisch miniatuurafbeelding maken voor het voorbeeld:</value>
   </data>
-  <data name="lblBlanktext.Text" lastModified="2018-07-23 05:47:03">
-    <value xml:space="preserve">Blanco Tekst:</value>
+  <data name="lblBlanktext.Text" xml:space="preserve">
+    <value>Blanco Tekst:</value>
   </data>
-  <data name="lblBrowAllow.Text" lastModified="2018-07-23 05:47:03">
-    <value xml:space="preserve">Toegestane Rollen:</value>
+  <data name="lblBrowAllow.Text" xml:space="preserve">
+    <value>Toegestane Rollen:</value>
   </data>
-  <data name="lblBrowser.Text" lastModified="2018-07-23 05:47:03">
-    <value xml:space="preserve">Bestand Browser:</value>
+  <data name="lblBrowser.Text" xml:space="preserve">
+    <value>Bestandbrowser:</value>
   </data>
-  <data name="lblBrowserDirs.Text" lastModified="2018-07-23 05:47:03">
-    <value xml:space="preserve">Gebruik Subfolders voor niet-Admins (..\Portals\0\userfiles\username):</value>
+  <data name="lblBrowserDirs.Text" xml:space="preserve">
+    <value>Gebruik submappen voor niet-Admins (..\Portals\0\userfiles\username):</value>
   </data>
-  <data name="lblBrowsSec.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Bestand Browser Instellingen</value>
+  <data name="lblBrowsSec.Text" xml:space="preserve">
+    <value>Bestandsbrowser Instellingen</value>
   </data>
-  <data name="lblCSSURL.Text" lastModified="2018-07-23 07:47:30">
-    <value xml:space="preserve">Editor Gedeelte CSS:</value>
+  <data name="lblCSSURL.Text" xml:space="preserve">
+    <value>Editordeel CSS:</value>
   </data>
-  <data name="lblCustomConfig.Text" lastModified="2018-07-23 18:03:41">
-    <value xml:space="preserve">Aangepastte Configuratie Folder:</value>
+  <data name="lblCustomConfig.Text" xml:space="preserve">
+    <value>Aangepast configuratiebestand:</value>
   </data>
-  <data name="lblCustomToolbars.Text" lastModified="2018-07-23 09:48:24">
-    <value xml:space="preserve">Aangepastte Toolbars</value>
+  <data name="lblCustomToolbars.Text" xml:space="preserve">
+    <value>Aangepaste knoppenbalk</value>
   </data>
-  <data name="lblEditorConfig.Text" lastModified="2018-07-23 09:48:24">
-    <value xml:space="preserve">Editor Instellingen</value>
+  <data name="lblEditorConfig.Text" xml:space="preserve">
+    <value>Editorinstellingen</value>
   </data>
-  <data name="lblHeader.Text" lastModified="2018-07-23 11:48:48">
-    <value xml:space="preserve">Informaties</value>
+  <data name="lblHeader.Text" xml:space="preserve">
+    <value>Informatie</value>
   </data>
-  <data name="lblHeight.Text" lastModified="2018-07-23 11:48:48">
-    <value xml:space="preserve">Editor Hoogte (px' or '%') :</value>
+  <data name="lblHeight.Text" xml:space="preserve">
+    <value>Editor Hoogte (px' or '%') :</value>
   </data>
-  <data name="lblImExport.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Importeer/Exporteer Huidige Instellingen...</value>
+  <data name="lblImExport.Text" xml:space="preserve">
+    <value>Importeer/Exporteer Huidige Instellingen...</value>
   </data>
-  <data name="lblInfo.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Instellingen opgeslagen. Ververs de Editor of de pagina om de veranderingen te zien.</value>
+  <data name="lblInfo.Text" xml:space="preserve">
+    <value>Instellingen opgeslagen. Ververs de Editor of de pagina om de veranderingen te zien.</value>
   </data>
-  <data name="lblInfoCopyAll.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Instellingen gekopieerd naar alle onderliggende pagina's.</value>
+  <data name="lblInfoCopyAll.Text" xml:space="preserve">
+    <value>Instellingen gekopieerd naar alle onderliggende pagina's.</value>
   </data>
-  <data name="lblInfoDel.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Instellingen verwijderd</value>
+  <data name="lblInfoDel.Text" xml:space="preserve">
+    <value>Instellingen verwijderd</value>
   </data>
-  <data name="lblInjectSyntaxJs.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Injecteer Link naar SyntaxHighlighter JS:</value>
+  <data name="lblInjectSyntaxJs.Text" xml:space="preserve">
+    <value>Injecteer link naar SyntaxHighlighter JS:</value>
   </data>
-  <data name="lblMainSet.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Hoofd Instellingen</value>
+  <data name="lblMainSet.Text" xml:space="preserve">
+    <value>Hoofdinstellingen</value>
   </data>
-  <data name="lblModInst.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Module Instantie:</value>
+  <data name="lblModInst.Text" xml:space="preserve">
+    <value>Moduleinstantie:</value>
   </data>
-  <data name="lblModName.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Module Naam:</value>
+  <data name="lblModName.Text" xml:space="preserve">
+    <value>Modulenaam:</value>
   </data>
-  <data name="lblModType.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Module Type:</value>
+  <data name="lblModType.Text" xml:space="preserve">
+    <value>Moduletype:</value>
   </data>
-  <data name="lblPage.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Pagina:</value>
+  <data name="lblPage.Text" xml:space="preserve">
+    <value>Pagina:</value>
   </data>
-  <data name="lblPortal.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Site Naam:</value>
+  <data name="lblPortal.Text" xml:space="preserve">
+    <value>Sitenaam:</value>
   </data>
-  <data name="lblResizeHeight.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Standaard Afbeelding Hoogte Aanpassen:</value>
+  <data name="lblResizeHeight.Text" xml:space="preserve">
+    <value>Standaard afbeeldingshoogte aanpassen:</value>
   </data>
-  <data name="lblResizeWidth.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Standaard Afbeelding Breedte Aanpassen:</value>
+  <data name="lblResizeWidth.Text" xml:space="preserve">
+    <value>Standaard afbeeldingsbreedte aanpassen:</value>
   </data>
-  <data name="lblRole.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Rol</value>
+  <data name="lblRole.Text" xml:space="preserve">
+    <value>Rol</value>
   </data>
-  <data name="lblSelToolb.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Selecteer een Toolbar</value>
+  <data name="lblSelToolb.Text" xml:space="preserve">
+    <value>Selecteer een knoppenbalk</value>
   </data>
-  <data name="lblSetFor.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Pas instellingen aan voor ...</value>
+  <data name="lblSetFor.Text" xml:space="preserve">
+    <value>Pas instellingen aan voor ...</value>
   </data>
-  <data name="lblSettings.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Instellingen</value>
+  <data name="lblSettings.Text" xml:space="preserve">
+    <value>Instellingen</value>
   </data>
-  <data name="lblShowPageLinksTabFirst.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Laat Pagina Links zien Tab Eerst:</value>
+  <data name="lblShowPageLinksTabFirst.Text" xml:space="preserve">
+    <value>Laat paginakoppeling zien in de eerste tab:</value>
   </data>
-  <data name="lblSkin.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Skin:</value>
+  <data name="lblSkin.Text" xml:space="preserve">
+    <value>Paginaindeling:</value>
   </data>
-  <data name="lblStyles.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Editor Stijlen</value>
+  <data name="lblStyles.Text" xml:space="preserve">
+    <value>Editorstijlen</value>
   </data>
-  <data name="lblTemplates.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Editor Sjablonen</value>
+  <data name="lblTemplates.Text" xml:space="preserve">
+    <value>Editorsjablonen</value>
   </data>
-  <data name="lblTemplFiles.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Editor Sjablonen Bestand:</value>
+  <data name="lblTemplFiles.Text" xml:space="preserve">
+    <value>Editorsjablonenbestand:</value>
   </data>
-  <data name="lblToolbarList.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Aangepastte Toolbars Lijst:</value>
+  <data name="lblToolbarList.Text" xml:space="preserve">
+    <value>Aangepaste knoppenbalklijst:</value>
   </data>
-  <data name="lblToolbarPriority.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Toolbar Set Prioriteit:</value>
+  <data name="lblToolbarPriority.Text" xml:space="preserve">
+    <value>Prioriteit knoppenbalkreeks:</value>
   </data>
-  <data name="lblToolbars.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Toolbars:</value>
+  <data name="lblToolbars.Text" xml:space="preserve">
+    <value>Knoppenbalken:</value>
   </data>
-  <data name="lblToolbName.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Toolbar Naam:</value>
+  <data name="lblToolbName.Text" xml:space="preserve">
+    <value>Knoopenbalknaam:</value>
   </data>
-  <data name="lblToolbSet.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Beschikbare Toolbar Knoppen</value>
+  <data name="lblToolbSet.Text" xml:space="preserve">
+    <value>Beschikbare knoppenbalk knoppen</value>
   </data>
-  <data name="lblUName.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Gebruiker Naam:</value>
+  <data name="lblUName.Text" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
   </data>
-  <data name="lblUseAnchorSelector.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Gebruik Anchor Kiezer (Vind Automatisch Alle Anchors op de Geselecteerde Pagina):</value>
+  <data name="lblUseAnchorSelector.Text" xml:space="preserve">
+    <value>Gebruik Anchorkiezer (Vind automatisch alle Anchors op de geselecteerde pagina):</value>
   </data>
-  <data name="lblUseJquery.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Gebruik de jQuery Adapter?</value>
+  <data name="lblUseJquery.Text" xml:space="preserve">
+    <value>Gebruik de jQuery Adapter?</value>
   </data>
-  <data name="lblWidth.Text" lastModified="2018-07-23 13:59:49">
-    <value xml:space="preserve">Editor Breedte ('px' or '%') :</value>
+  <data name="lblWidth.Text" xml:space="preserve">
+    <value>Editor Breedte ('px' or '%') :</value>
   </data>
-  <data name="ListView.Text" lastModified="2018-07-23 16:02:23">
-    <value xml:space="preserve">Lijst Scherm</value>
+  <data name="ListView.Text" xml:space="preserve">
+    <value>Lijstweergave</value>
   </data>
-  <data name="lnkExport.Text" lastModified="2018-07-23 16:02:23">
-    <value xml:space="preserve">Exporteer</value>
+  <data name="lnkExport.Text" xml:space="preserve">
+    <value>Exporteer</value>
   </data>
-  <data name="lnkImport.Text" lastModified="2018-07-23 16:02:23">
-    <value xml:space="preserve">Importeer</value>
+  <data name="lnkImport.Text" xml:space="preserve">
+    <value>Importeer</value>
   </data>
-  <data name="lnkRemove.Text" lastModified="2018-07-23 16:02:23">
-    <value xml:space="preserve">Verwijder Instellingen</value>
+  <data name="lnkRemove.Text" xml:space="preserve">
+    <value>Verwijder Instellingen</value>
   </data>
-  <data name="ModuleError.Text" lastModified="2018-07-23 16:02:23">
-    <value xml:space="preserve">De Editor Instellingen voor een Module Instantie kunnen alleen bekeken en geladen worden vanuit de Module Instantie.</value>
+  <data name="ModuleError.Text" xml:space="preserve">
+    <value>De Editorinstellingen voor een moduleInstantie kunnen alleen bekeken en geladen worden vanuit de moduleinstantie.</value>
   </data>
-  <data name="ModuleHasSettingLabel.Text" lastModified="2018-07-23 16:02:23">
-    <value xml:space="preserve">Bevat Module Instellingen</value>
+  <data name="ModuleHasSettingLabel.Text" xml:space="preserve">
+    <value>Bevat moduleinstellingen</value>
   </data>
-  <data name="ModuleHeader.Text" lastModified="2018-07-23 18:03:41">
-    <value xml:space="preserve">CKEditor Provider Configuratie Manager</value>
+  <data name="ModuleHeader.Text" xml:space="preserve">
+    <value>CKEditor Provider Configuratie Manager</value>
   </data>
-  <data name="ModuleInstance.Text" lastModified="2018-07-23 18:03:41">
-    <value xml:space="preserve">Module</value>
+  <data name="ModuleInstance.Text" xml:space="preserve">
+    <value>Module</value>
   </data>
-  <data name="ModuleNoSettingLabel.Text" lastModified="2018-07-23 18:03:41">
-    <value xml:space="preserve">Bevat Geen Module Instellingen</value>
+  <data name="ModuleNoSettingLabel.Text" xml:space="preserve">
+    <value>Bevat geen modulemnstellingen</value>
   </data>
-  <data name="NewGroupName.Text" lastModified="2018-07-23 20:09:13">
-    <value xml:space="preserve">Nieuwe Groep</value>
+  <data name="NewGroupName.Text" xml:space="preserve">
+    <value>Nieuwe Groep</value>
   </data>
-  <data name="NewsArcticlesArticlesList.Text" lastModified="2018-07-23 20:09:13">
-    <value xml:space="preserve">Selecteer een Artikel:</value>
+  <data name="NewsArcticlesArticlesList.Text" xml:space="preserve">
+    <value>Selecteer een Artikel:</value>
   </data>
-  <data name="NewsArcticlesModuleList.Text" lastModified="2018-07-23 20:09:13">
-    <value xml:space="preserve">Selecteer de Pagina en de Nieuws Artikelen Module Instantie:</value>
+  <data name="NewsArcticlesModuleList.Text" xml:space="preserve">
+    <value>Selecteer de pagina en de nieuwsartikelenmodule:</value>
   </data>
-  <data name="NoJava.Text" lastModified="2018-07-23 20:09:13">
-    <value xml:space="preserve">&lt;strong&gt;CKEditor heeft JavaScript nodig om te werken&lt;/strong&gt;. In een browser zonder JavaScript ondersteuning, zoals de uwe, zou u nog steeds de inhoud (HTML data) moeten zien en kunt u deze aanpassen zaols normaal; echter zonder een rich editor interface.</value>
+  <data name="NoJava.Text" xml:space="preserve">
+    <value>&lt;strong&gt;CKEditor heeft JavaScript nodig om te werken&lt;/strong&gt;. In een browser zonder JavaScript ondersteuning, zoals die van jouw, zou je nog steeds de inhoud (HTML data) moeten zien en kun je deze aanpassen zoals normaal; echter zonder een rich editor interface.</value>
   </data>
-  <data name="Options.Text" lastModified="2018-07-23 20:09:13">
-    <value xml:space="preserve">Aangepastte Editor Opties</value>
+  <data name="Options.Text" xml:space="preserve">
+    <value>Aangepaste Editoropties</value>
   </data>
-  <data name="OverrideFileOnUploadLabel.Text" lastModified="2018-07-23 20:09:13">
-    <value xml:space="preserve">Overschrijf Bestand Als het Bestaat bij Upload, Anders word een Nieuw Bestand met Underscore_1 Gecreeerd:</value>
+  <data name="OverrideFileOnUploadLabel.Text" xml:space="preserve">
+    <value>Overschrijf bij upload het bestand als het al bestaat, anders wordt een nieuw bestand met Underscore_1 gecreëerd:</value>
   </data>
-  <data name="Page.Text" lastModified="2018-07-23 22:11:26">
-    <value xml:space="preserve">Pagina</value>
+  <data name="Page.Text" xml:space="preserve">
+    <value>Pagina</value>
   </data>
-  <data name="PageHasSettingLabel.Text" lastModified="2018-07-23 22:11:26">
-    <value xml:space="preserve">Bevat Pagina Instellingen</value>
+  <data name="PageHasSettingLabel.Text" xml:space="preserve">
+    <value>Bevat paginainstellingen</value>
   </data>
-  <data name="PageNoSettingLabel.Text" lastModified="2018-07-23 22:11:26">
-    <value xml:space="preserve">Bevat Geen Pagina Instellingen</value>
+  <data name="PageNoSettingLabel.Text" xml:space="preserve">
+    <value>Bevat geen paginainstellingen</value>
   </data>
-  <data name="Portal.Text" lastModified="2018-07-23 22:11:26">
-    <value xml:space="preserve">Site</value>
+  <data name="Portal.Text" xml:space="preserve">
+    <value>Site</value>
   </data>
-  <data name="PortalHasSettingLabel.Text" lastModified="2018-07-23 22:11:26">
-    <value xml:space="preserve">Bevat Pagina Instellingen</value>
+  <data name="PortalHasSettingLabel.Text" xml:space="preserve">
+    <value>Bevat paginainstellingen</value>
   </data>
-  <data name="PortalNoSettingLabel.Text" lastModified="2018-07-23 22:11:26">
-    <value xml:space="preserve">Bevat Geen Pagina Instellingen</value>
+  <data name="PortalNoSettingLabel.Text" xml:space="preserve">
+    <value>Bevat geen paginainstellingen</value>
   </data>
-  <data name="PortalOnly.Text" lastModified="2018-07-23 22:11:26">
-    <value xml:space="preserve">Alleen Deze Site</value>
+  <data name="PortalOnly.Text" xml:space="preserve">
+    <value>Alleen deze site</value>
   </data>
-  <data name="PortalOnlyLabel.Text" lastModified="2018-07-23 22:11:26">
-    <value xml:space="preserve">Laat Instellingen Alleen Zien voor Deze Site of voor Alle Sites?</value>
+  <data name="PortalOnlyLabel.Text" xml:space="preserve">
+    <value>Laat de onstellingen alleen zien voor deze site of voor alle sites?</value>
   </data>
-  <data name="Remove.Help" lastModified="2018-07-24 00:11:30">
-    <value xml:space="preserve">Verwijdert de Instellingen voor allen de Huidige {0}. </value>
+  <data name="Remove.Help" xml:space="preserve">
+    <value>Verwijderd alleen de Instellingen voor de huidige {0}. </value>
   </data>
-  <data name="Remove.Text" lastModified="2018-07-24 02:14:57">
-    <value xml:space="preserve">Verwijder {0} Instellingen</value>
+  <data name="Remove.Text" xml:space="preserve">
+    <value>Verwijder {0} Instellingen</value>
   </data>
-  <data name="RemoveAll.Help" lastModified="2018-07-24 02:14:57">
-    <value xml:space="preserve">Verwijdert de {0} instellingen voor de hele site.</value>
+  <data name="RemoveAll.Help" xml:space="preserve">
+    <value>Verwijderd de {0} instellingen voor alle sites.</value>
   </data>
-  <data name="RemoveAll.Text" lastModified="2018-07-24 02:14:57">
-    <value xml:space="preserve">Verwijder Alle {0} Instellingen</value>
+  <data name="RemoveAll.Text" xml:space="preserve">
+    <value>Verwijderd alle {0} instellingen</value>
   </data>
-  <data name="RemoveModuleChild.Help" lastModified="2018-07-24 02:14:57">
-    <value xml:space="preserve">Verwijder Instellingen van alle Modules op de Huidige Pagina</value>
+  <data name="RemoveModuleChild.Help" xml:space="preserve">
+    <value>Verwijder Instellingen van alle Modules op de Huidige Pagina</value>
   </data>
-  <data name="RemoveModuleChild.Text" lastModified="2018-07-24 02:14:57">
-    <value xml:space="preserve">Verwijder alle Modules op de Pagina</value>
+  <data name="RemoveModuleChild.Text" xml:space="preserve">
+    <value>Verwijder alle Modules op de Pagina</value>
   </data>
-  <data name="RemovePageChild.Help" lastModified="2018-07-24 02:14:57">
-    <value xml:space="preserve">Verwijder alle onderliggende pagina instellingen voor de huidige pagina.</value>
+  <data name="RemovePageChild.Help" xml:space="preserve">
+    <value>Verwijder alle paginainstellingen voor de onderliggende pagina's van deze pagina.</value>
   </data>
-  <data name="RemovePageChild.Text" lastModified="2018-07-24 02:14:57">
-    <value xml:space="preserve">Verwijder Alle Onderliggende Pagina Instellingen</value>
+  <data name="RemovePageChild.Text" xml:space="preserve">
+    <value>Verwijder instellingen van alle onderliggende pagina's</value>
   </data>
-  <data name="RowBreak.Text" lastModified="2018-07-24 02:14:57">
-    <value xml:space="preserve">Afbreking Regel</value>
+  <data name="RowBreak.Text" xml:space="preserve">
+    <value>Rijeinde</value>
   </data>
-  <data name="SaveGroupName.Text" lastModified="2018-07-24 02:14:57">
-    <value xml:space="preserve">Sla Groep Naam op</value>
+  <data name="SaveGroupName.Text" xml:space="preserve">
+    <value>Sla de groepsnaam op</value>
   </data>
-  <data name="SaveToolbar.Text" lastModified="2018-07-24 04:18:07">
-    <value xml:space="preserve">Sla de Toolbar Set op</value>
+  <data name="SaveToolbar.Text" xml:space="preserve">
+    <value>Sla de knoppenbalkreeks op</value>
   </data>
-  <data name="SettingsExportTitle.Text" lastModified="2018-07-24 04:18:07">
-    <value xml:space="preserve">Instellingen Verkenner</value>
+  <data name="SettingsExportTitle.Text" xml:space="preserve">
+    <value>Instellingen Verkenner</value>
   </data>
-  <data name="SettingsImportTitle.Text" lastModified="2018-07-24 04:18:07">
-    <value xml:space="preserve">Instellingen Importeerder</value>
+  <data name="SettingsImportTitle.Text" xml:space="preserve">
+    <value>Instellingen Importeren</value>
   </data>
-  <data name="SizeLimitLabel.Text" lastModified="2018-07-24 04:18:07">
-    <value xml:space="preserve">Upload Bestands Grootte Limiet</value>
+  <data name="SizeLimitLabel.Text" xml:space="preserve">
+    <value>Limiet upload bestandsgrootte</value>
   </data>
-  <data name="ToolbarGroupsLabel.Text" lastModified="2018-07-24 04:18:07">
-    <value xml:space="preserve">Toolbar Groepen</value>
+  <data name="ToolbarGroupsLabel.Text" xml:space="preserve">
+    <value>Knppenbalkgroepen</value>
   </data>
-  <data name="ToolbarNameMissing.Text" lastModified="2018-07-24 04:18:07">
-    <value xml:space="preserve">U moet een toobar naam invoeren.</value>
+  <data name="ToolbarNameMissing.Text" xml:space="preserve">
+    <value>Je moet een knoppenbalknaam invoeren.</value>
   </data>
-  <data name="ToolbarSetCreated.Text" lastModified="2018-07-24 04:18:07">
-    <value xml:space="preserve">Nieuwe toolbar set "{0}" gecreeerd.</value>
+  <data name="ToolbarSetCreated.Text" xml:space="preserve">
+    <value>Nieuwe knoppenbalkreeks "{0}" gecreëerd.</value>
   </data>
-  <data name="ToolbarSetDeleted.Text" lastModified="2018-07-24 04:18:07">
-    <value xml:space="preserve">Geselecteerde toolbar set verwijdert.</value>
+  <data name="ToolbarSetDeleted.Text" xml:space="preserve">
+    <value>Geselecteerde knoppenbalkreeks verwijderd.</value>
   </data>
-  <data name="ToolbarSetSaved.Text" lastModified="2018-07-24 04:18:07">
-    <value xml:space="preserve">Toolbar set opgeslagen.</value>
+  <data name="ToolbarSetSaved.Text" xml:space="preserve">
+    <value>Knoppenbalkreeks opgeslagen.</value>
   </data>
-  <data name="UploadFileLimitLabel.Text" lastModified="2018-07-24 04:18:07">
-    <value xml:space="preserve">Upload Bestand Limieten</value>
+  <data name="UploadFileLimitLabel.Text" xml:space="preserve">
+    <value>Upload bestandslimiet</value>
   </data>
-  <data name="UploadFolderLabel.Text" lastModified="2018-07-24 04:18:07">
-    <value xml:space="preserve">Standaard Upload Folder:</value>
+  <data name="UploadFolderLabel.Text" xml:space="preserve">
+    <value>Standaard uploadmap:</value>
   </data>
-  <data name="Wait.Text" lastModified="2018-07-24 04:18:07">
-    <value xml:space="preserve">Een ogenblik geduld aub...</value>
+  <data name="Wait.Text" xml:space="preserve">
+    <value>Even ogenblik geduld aub...</value>
   </data>
-  <data name="WaitMessage.Text" lastModified="2018-07-24 04:18:07">
-    <value xml:space="preserve">Opties Pagina wordt Geladen.</value>
+  <data name="WaitMessage.Text" xml:space="preserve">
+    <value>Optiespagina wordt geladen.</value>
   </data>
 </root>

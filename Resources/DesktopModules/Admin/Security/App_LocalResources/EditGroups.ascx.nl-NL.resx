@@ -12,31 +12,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="plRoleGroupName.Text">
-    <value xml:space="preserve">Naam Groep:</value>
+  <data name="ControlTitle_editgroup.Text" xml:space="preserve">
+    <value>Rolgroep bewerken</value>
   </data>
-  <data name="plRoleGroupName.Help">
-    <value xml:space="preserve">Geef de naam van de rolgroep.</value>
+  <data name="DuplicateRoleGroup.Text" xml:space="preserve">
+    <value>Er bestaat al een rolgroep met dezelfde naam. De nieuwe groep is niet toegevoegd.</value>
   </data>
-  <data name="plDescription.Text">
-    <value xml:space="preserve">Omschrijving:</value>
-  </data>
-  <data name="plDescription.Help">
-    <value xml:space="preserve">Geef een omschrijving:van de rolgroep.</value>
-  </data>
-  <data name="valRoleGroupName.Text">
-    <value xml:space="preserve">U moet een geldige naam opgeven</value>
-  </data>
-  <data name="ControlTitle_editgroup.Text">
-    <value xml:space="preserve">Rolgroep bewerken</value>
-  </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">
-      <h1>Over het bewerken van rolgroepen</h1>
-      <p>Via deze module kunnen toegangsrollen in groepen worden onderverdeeld. Het gebruik van rolgroepen wordt aangeraden indien er veel toegangrollen zijn.</p>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>
+      Over het bewerken van rolgroepen
+      Via deze module kunnen toegangsrollen in groepen worden onderverdeeld. Het gebruik van rolgroepen wordt aangeraden indien er veel toegangrollen zijn.
     </value>
   </data>
-  <data name="DuplicateRoleGroup.Text">
-    <value xml:space="preserve">Er bestaat al een rolgroep met dezelfde naam. De nieuwe groep is niet toegevoegd.</value>
+  <data name="plDescription.Help" xml:space="preserve">
+    <value>Geef een omschrijving:van de rolgroep.</value>
+  </data>
+  <data name="plDescription.Text" xml:space="preserve">
+    <value>Omschrijving:</value>
+  </data>
+  <data name="plRoleGroupName.Help" xml:space="preserve">
+    <value>Geef de naam van de rolgroep.</value>
+  </data>
+  <data name="plRoleGroupName.Text" xml:space="preserve">
+    <value>Groepsnaam:</value>
+  </data>
+  <data name="valRoleGroupName.Text" xml:space="preserve">
+    <value>Je moet een geldige naam opgeven</value>
   </data>
 </root>

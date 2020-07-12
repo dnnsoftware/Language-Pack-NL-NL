@@ -12,283 +12,283 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Address.Text">
-    <value xml:space="preserve">Adres details</value>
+  <data name="Address.Text" xml:space="preserve">
+    <value>Adres details</value>
   </data>
-  <data name="Contact Info.Text">
-    <value xml:space="preserve">Contact informatie</value>
+  <data name="Contact Info.Text" xml:space="preserve">
+    <value>Contactinformatie</value>
   </data>
-  <data name="DisplayNameNotUnique.Text" lastModified="2016-03-08 14:23:10">
-    <value xml:space="preserve">De weergave naam die je hebt ingegeven is al in gebruik, Kies een andere naam.</value>
+  <data name="DisplayNameNotUnique.Text" xml:space="preserve">
+    <value>De weergave naam die je hebt ingegeven is al in gebruik, Kies een andere naam.</value>
   </data>
-  <data name="Name.Text">
-    <value xml:space="preserve">Naam</value>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="Preferences.Text">
-    <value xml:space="preserve">Voorkeuren</value>
+  <data name="Preferences.Text" xml:space="preserve">
+    <value>Voorkeuren</value>
   </data>
-  <data name="ProfileProperties_Address.Header">
-    <value xml:space="preserve">Adresgegevens</value>
+  <data name="ProfileProperties_Address.Header" xml:space="preserve">
+    <value>Adresgegevens</value>
   </data>
-  <data name="ProfileProperties_Biography.Help">
-    <value xml:space="preserve">Gebruik de editor om een korte biografie in te voeren</value>
+  <data name="ProfileProperties_Biography.Help" xml:space="preserve">
+    <value>Gebruik de editor om een korte biografie in te voeren</value>
   </data>
-  <data name="ProfileProperties_Biography.Required">
-    <value xml:space="preserve">Biografie is een verplicht veld</value>
+  <data name="ProfileProperties_Biography.Required" xml:space="preserve">
+    <value>Biografie is een verplicht veld</value>
   </data>
-  <data name="ProfileProperties_Biography.Text">
-    <value xml:space="preserve">Biografie:</value>
+  <data name="ProfileProperties_Biography.Text" xml:space="preserve">
+    <value>Biografie:</value>
   </data>
-  <data name="ProfileProperties_Cell.Help">
-    <value xml:space="preserve">Geef een gsm/mobiel telefoonnummer</value>
+  <data name="ProfileProperties_Cell.Help" xml:space="preserve">
+    <value>Geef een gsm/mobiel telefoonnummer</value>
   </data>
-  <data name="ProfileProperties_Cell.Required">
-    <value xml:space="preserve">GSM nummer is een verplicht veld</value>
+  <data name="ProfileProperties_Cell.Required" xml:space="preserve">
+    <value>GSM nummer is een verplicht veld</value>
   </data>
-  <data name="ProfileProperties_Cell.Text">
-    <value xml:space="preserve">GSM:</value>
+  <data name="ProfileProperties_Cell.Text" xml:space="preserve">
+    <value>GSM:</value>
   </data>
-  <data name="ProfileProperties_City.Help">
-    <value xml:space="preserve">Geef de plaatsnaam</value>
+  <data name="ProfileProperties_City.Help" xml:space="preserve">
+    <value>Geef de plaatsnaam</value>
   </data>
-  <data name="ProfileProperties_City.Required">
-    <value xml:space="preserve">Plaatsnaam is een verplicht veld</value>
+  <data name="ProfileProperties_City.Required" xml:space="preserve">
+    <value>Plaatsnaam is een verplicht veld</value>
   </data>
-  <data name="ProfileProperties_City.Text">
-    <value xml:space="preserve">Plaatsnaam:</value>
+  <data name="ProfileProperties_City.Text" xml:space="preserve">
+    <value>Plaatsnaam:</value>
   </data>
-  <data name="ProfileProperties_Contact Info.Header">
-    <value xml:space="preserve">Contact Informatie</value>
+  <data name="ProfileProperties_Contact Info.Header" xml:space="preserve">
+    <value>Contactinformatie</value>
   </data>
-  <data name="ProfileProperties_Country.Help">
-    <value xml:space="preserve">Kies een land</value>
+  <data name="ProfileProperties_Country.Help" xml:space="preserve">
+    <value>Kies een land</value>
   </data>
-  <data name="ProfileProperties_Country.Not Specified">
-    <value xml:space="preserve">Niet gespecificeerd</value>
+  <data name="ProfileProperties_Country.Not Specified" xml:space="preserve">
+    <value>Niet gespecificeerd</value>
   </data>
-  <data name="ProfileProperties_Country.Required">
-    <value xml:space="preserve">Land is een verplicht veld</value>
+  <data name="ProfileProperties_Country.Required" xml:space="preserve">
+    <value>Land is een verplicht veld</value>
   </data>
-  <data name="ProfileProperties_Country.Text">
-    <value xml:space="preserve">Land:</value>
+  <data name="ProfileProperties_Country.Text" xml:space="preserve">
+    <value>Land:</value>
   </data>
-  <data name="ProfileProperties_DisplayName.Text">
-    <value xml:space="preserve">Weergavenaam:</value>
+  <data name="ProfileProperties_DisplayName.Text" xml:space="preserve">
+    <value>Weergavenaam:</value>
   </data>
-  <data name="ProfileProperties_Email.Text">
-    <value xml:space="preserve">E-mail adres:</value>
+  <data name="ProfileProperties_Email.Text" xml:space="preserve">
+    <value>E-mail adres:</value>
   </data>
-  <data name="ProfileProperties_Facebook.Help">
-    <value xml:space="preserve">Een link naar jou Facebook profiel met een format beginnend met facebook.com/</value>
+  <data name="ProfileProperties_Facebook.Help" xml:space="preserve">
+    <value>Een link naar jou Facebook profiel met een format beginnend met facebook.com/</value>
   </data>
-  <data name="ProfileProperties_Facebook.Required">
-    <value xml:space="preserve">Facebook is vereist</value>
+  <data name="ProfileProperties_Facebook.Required" xml:space="preserve">
+    <value>Facebook is vereist</value>
   </data>
-  <data name="ProfileProperties_Facebook.Text">
-    <value xml:space="preserve">Facebook</value>
+  <data name="ProfileProperties_Facebook.Text" xml:space="preserve">
+    <value>Facebook</value>
   </data>
-  <data name="ProfileProperties_Fax.Help">
-    <value xml:space="preserve">Geef een fax nummer</value>
+  <data name="ProfileProperties_Fax.Help" xml:space="preserve">
+    <value>Geef een faxnummer</value>
   </data>
-  <data name="ProfileProperties_Fax.Required">
-    <value xml:space="preserve">Fax nummer is een verplicht veld</value>
+  <data name="ProfileProperties_Fax.Required" xml:space="preserve">
+    <value>Faxnummer is een verplicht veld</value>
   </data>
-  <data name="ProfileProperties_Fax.Text">
-    <value xml:space="preserve">Fax:</value>
+  <data name="ProfileProperties_Fax.Text" xml:space="preserve">
+    <value>Fax:</value>
   </data>
-  <data name="ProfileProperties_FirstName.Help">
-    <value xml:space="preserve">Geef een voornaam</value>
+  <data name="ProfileProperties_FirstName.Help" xml:space="preserve">
+    <value>Geef een voornaam</value>
   </data>
-  <data name="ProfileProperties_FirstName.Required">
-    <value xml:space="preserve">Voornaam is een verplicht veld</value>
+  <data name="ProfileProperties_FirstName.Required" xml:space="preserve">
+    <value>Voornaam is een verplicht veld</value>
   </data>
-  <data name="ProfileProperties_FirstName.Text">
-    <value xml:space="preserve">Voornaam</value>
+  <data name="ProfileProperties_FirstName.Text" xml:space="preserve">
+    <value>Voornaam</value>
   </data>
-  <data name="ProfileProperties_GooglePlus.Help">
-    <value xml:space="preserve">Een link naar jou Google+ profiel met een format beginnend met plus.google.com/</value>
+  <data name="ProfileProperties_GooglePlus.Help" xml:space="preserve">
+    <value>Een link naar jou Google+ profiel met een format beginnend met plus.google.com/</value>
   </data>
-  <data name="ProfileProperties_GooglePlus.Required">
-    <value xml:space="preserve">Google+ is vereist</value>
+  <data name="ProfileProperties_GooglePlus.Required" xml:space="preserve">
+    <value>Google+ is vereist</value>
   </data>
-  <data name="ProfileProperties_GooglePlus.Text">
-    <value xml:space="preserve">Google+</value>
+  <data name="ProfileProperties_GooglePlus.Text" xml:space="preserve">
+    <value>Google+</value>
   </data>
-  <data name="ProfileProperties_IM.Help" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Geef een instant messenger ID Skype, Yahoo, Google etc</value>
+  <data name="ProfileProperties_IM.Help" xml:space="preserve">
+    <value>Geef een instant messenger ID Skype, Yahoo, Google etc</value>
   </data>
-  <data name="ProfileProperties_IM.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">IM  is een verplicht veld.</value>
+  <data name="ProfileProperties_IM.Required" xml:space="preserve">
+    <value>IM  is een verplicht veld.</value>
   </data>
-  <data name="ProfileProperties_IM.Text">
-    <value xml:space="preserve">IM:</value>
+  <data name="ProfileProperties_IM.Text" xml:space="preserve">
+    <value>IM:</value>
   </data>
-  <data name="ProfileProperties_LastName.Help" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Geef een achternaam.</value>
+  <data name="ProfileProperties_LastName.Help" xml:space="preserve">
+    <value>Geef een achternaam.</value>
   </data>
-  <data name="ProfileProperties_LastName.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Achternaam is een verplicht veld.</value>
+  <data name="ProfileProperties_LastName.Required" xml:space="preserve">
+    <value>Achternaam is een verplicht veld.</value>
   </data>
-  <data name="ProfileProperties_LastName.Text">
-    <value xml:space="preserve">Achternaam:</value>
+  <data name="ProfileProperties_LastName.Text" xml:space="preserve">
+    <value>Achternaam:</value>
   </data>
-  <data name="ProfileProperties_LinkedIn.Help">
-    <value xml:space="preserve">Een link naar jou LinkedIn profiel met een format beginnend met www.linkedin.com/ or [land].linkedin.com</value>
+  <data name="ProfileProperties_LinkedIn.Help" xml:space="preserve">
+    <value>Een link naar jou LinkedIn profiel met een format beginnend met www.linkedin.com/ or [land].linkedin.com</value>
   </data>
-  <data name="ProfileProperties_LinkedIn.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">LinkedIn is vereist.</value>
+  <data name="ProfileProperties_LinkedIn.Required" xml:space="preserve">
+    <value>LinkedIn is vereist.</value>
   </data>
-  <data name="ProfileProperties_LinkedIn.Text">
-    <value xml:space="preserve">LinkedIn</value>
+  <data name="ProfileProperties_LinkedIn.Text" xml:space="preserve">
+    <value>LinkedIn</value>
   </data>
-  <data name="ProfileProperties_MiddleName.Help" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Tweede naam.</value>
+  <data name="ProfileProperties_MiddleName.Help" xml:space="preserve">
+    <value>Tweede naam.</value>
   </data>
-  <data name="ProfileProperties_MiddleName.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Tweede naam is een verplicht veld.</value>
+  <data name="ProfileProperties_MiddleName.Required" xml:space="preserve">
+    <value>Tweede naam is een verplicht veld.</value>
   </data>
-  <data name="ProfileProperties_MiddleName.Text">
-    <value xml:space="preserve">Tweede naam:</value>
+  <data name="ProfileProperties_MiddleName.Text" xml:space="preserve">
+    <value>Tweede naam:</value>
   </data>
-  <data name="ProfileProperties_Name.Header">
-    <value xml:space="preserve">Naam</value>
+  <data name="ProfileProperties_Name.Header" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="ProfileProperties_Photo.Help">
-    <value xml:space="preserve">Selecteer een foto of upload een afbeelding vanaf uw lokaal systeem.</value>
+  <data name="ProfileProperties_Photo.Help" xml:space="preserve">
+    <value>Selecteer een foto of upload een afbeelding vanaf je lokale systeem.</value>
   </data>
-  <data name="ProfileProperties_Photo.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Foto is Verplicht.</value>
+  <data name="ProfileProperties_Photo.Required" xml:space="preserve">
+    <value>Foto is Verplicht.</value>
   </data>
-  <data name="ProfileProperties_Photo.Text">
-    <value xml:space="preserve">Foto:</value>
+  <data name="ProfileProperties_Photo.Text" xml:space="preserve">
+    <value>Foto:</value>
   </data>
-  <data name="ProfileProperties_PostalCode.Help" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Geef de postcode.</value>
+  <data name="ProfileProperties_PostalCode.Help" xml:space="preserve">
+    <value>Geef de postcode.</value>
   </data>
-  <data name="ProfileProperties_PostalCode.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Postcode is een verplicht veld.</value>
+  <data name="ProfileProperties_PostalCode.Required" xml:space="preserve">
+    <value>Postcode is een verplicht veld.</value>
   </data>
-  <data name="ProfileProperties_PostalCode.Text" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Postcode:</value>
+  <data name="ProfileProperties_PostalCode.Text" xml:space="preserve">
+    <value>Postcode:</value>
   </data>
-  <data name="ProfileProperties_Preferences.Header">
-    <value xml:space="preserve">Voorkeuren</value>
+  <data name="ProfileProperties_Preferences.Header" xml:space="preserve">
+    <value>Voorkeuren</value>
   </data>
-  <data name="ProfileProperties_PreferredLocale.Help" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Kies uw voorkeurstaal.</value>
+  <data name="ProfileProperties_PreferredLocale.Help" xml:space="preserve">
+    <value>Kies je voorkeurstaal.</value>
   </data>
-  <data name="ProfileProperties_PreferredLocale.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Voorkeurstaal is een verplicht veld.</value>
+  <data name="ProfileProperties_PreferredLocale.Required" xml:space="preserve">
+    <value>Voorkeurstaal is een verplicht veld.</value>
   </data>
-  <data name="ProfileProperties_PreferredLocale.Text" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Voorkeurstaal:</value>
+  <data name="ProfileProperties_PreferredLocale.Text" xml:space="preserve">
+    <value>Voorkeurstaal:</value>
   </data>
-  <data name="ProfileProperties_PreferredTimeZone.Help" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Kies de gewenste tijdzone.</value>
+  <data name="ProfileProperties_PreferredTimeZone.Help" xml:space="preserve">
+    <value>Kies de gewenste tijdzone.</value>
   </data>
-  <data name="ProfileProperties_PreferredTimeZone.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Aanbevolen Tijdzone is vereist.</value>
+  <data name="ProfileProperties_PreferredTimeZone.Required" xml:space="preserve">
+    <value>Aanbevolen Tijdzone is vereist.</value>
   </data>
-  <data name="ProfileProperties_PreferredTimeZone.Text">
-    <value xml:space="preserve">Aanbevolen Tijdzone:</value>
+  <data name="ProfileProperties_PreferredTimeZone.Text" xml:space="preserve">
+    <value>Aanbevolen Tijdzone:</value>
   </data>
-  <data name="ProfileProperties_Prefix.Help" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Geef een voorvoegsel eg. Dhr., Mw., Drs. etc.</value>
+  <data name="ProfileProperties_Prefix.Help" xml:space="preserve">
+    <value>Geef een voorvoegsel eg. Dhr., Mw., Drs. etc.</value>
   </data>
-  <data name="ProfileProperties_Prefix.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Voorvoegsel is een verplicht veld.</value>
+  <data name="ProfileProperties_Prefix.Required" xml:space="preserve">
+    <value>Voorvoegsel is een verplicht veld.</value>
   </data>
-  <data name="ProfileProperties_Prefix.Text">
-    <value xml:space="preserve">Voorvoegsel:</value>
+  <data name="ProfileProperties_Prefix.Text" xml:space="preserve">
+    <value>Voorvoegsel:</value>
   </data>
-  <data name="ProfileProperties_Region.Help" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Geef de regio (staat, provincie).</value>
+  <data name="ProfileProperties_Region.Help" xml:space="preserve">
+    <value>Geef de regio (staat, provincie).</value>
   </data>
-  <data name="ProfileProperties_Region.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Regio is een verplicht veld.</value>
+  <data name="ProfileProperties_Region.Required" xml:space="preserve">
+    <value>Regio is een verplicht veld.</value>
   </data>
-  <data name="ProfileProperties_Region.Text">
-    <value xml:space="preserve">Regio:</value>
+  <data name="ProfileProperties_Region.Text" xml:space="preserve">
+    <value>Regio:</value>
   </data>
-  <data name="ProfileProperties_Skype.Help" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Een link om je op Skype te bellen via je gebruikersnaam.</value>
+  <data name="ProfileProperties_Skype.Help" xml:space="preserve">
+    <value>Een link om je op Skype te bellen via je gebruikersnaam.</value>
   </data>
-  <data name="ProfileProperties_Skype.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Skype ID is verplicht.</value>
+  <data name="ProfileProperties_Skype.Required" xml:space="preserve">
+    <value>Skype ID is verplicht.</value>
   </data>
-  <data name="ProfileProperties_Skype.Text">
-    <value xml:space="preserve">Skype ID</value>
+  <data name="ProfileProperties_Skype.Text" xml:space="preserve">
+    <value>Skype ID</value>
   </data>
-  <data name="ProfileProperties_Street.Help">
-    <value xml:space="preserve">Geef de straatnaam + huisnummer</value>
+  <data name="ProfileProperties_Street.Help" xml:space="preserve">
+    <value>Geef de straatnaam + huisnummer</value>
   </data>
-  <data name="ProfileProperties_Street.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Straatnaam is een verplicht veld.</value>
+  <data name="ProfileProperties_Street.Required" xml:space="preserve">
+    <value>Straatnaam is een verplicht veld.</value>
   </data>
-  <data name="ProfileProperties_Street.Text">
-    <value xml:space="preserve">Straatnaam:</value>
+  <data name="ProfileProperties_Street.Text" xml:space="preserve">
+    <value>Straatnaam:</value>
   </data>
-  <data name="ProfileProperties_Suffix.Help" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Enter een achtervoegsel bijv. BSc, Ing, RA.</value>
+  <data name="ProfileProperties_Suffix.Help" xml:space="preserve">
+    <value>Enter een achtervoegsel bijv. BSc, Ing, RA.</value>
   </data>
-  <data name="ProfileProperties_Suffix.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Achtervoegsel is een verplicht veld.</value>
+  <data name="ProfileProperties_Suffix.Required" xml:space="preserve">
+    <value>Achtervoegsel is een verplicht veld.</value>
   </data>
-  <data name="ProfileProperties_Suffix.Text">
-    <value xml:space="preserve">Achtervoegsel:</value>
+  <data name="ProfileProperties_Suffix.Text" xml:space="preserve">
+    <value>Achtervoegsel:</value>
   </data>
-  <data name="ProfileProperties_Telephone.Help" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Geef een telefoonnummer.</value>
+  <data name="ProfileProperties_Telephone.Help" xml:space="preserve">
+    <value>Geef een telefoonnummer.</value>
   </data>
-  <data name="ProfileProperties_Telephone.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Telefoon is een verplicht veld.</value>
+  <data name="ProfileProperties_Telephone.Required" xml:space="preserve">
+    <value>Telefoon is een verplicht veld.</value>
   </data>
-  <data name="ProfileProperties_Telephone.Text">
-    <value xml:space="preserve">Telefoon:</value>
+  <data name="ProfileProperties_Telephone.Text" xml:space="preserve">
+    <value>Telefoon:</value>
   </data>
-  <data name="ProfileProperties_TimeZone.Help" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Kies uw tijdzone.</value>
+  <data name="ProfileProperties_TimeZone.Help" xml:space="preserve">
+    <value>Kies je tijdzone.</value>
   </data>
-  <data name="ProfileProperties_TimeZone.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Tijdzone is een verplicht veld.</value>
+  <data name="ProfileProperties_TimeZone.Required" xml:space="preserve">
+    <value>Tijdzone is een verplicht veld.</value>
   </data>
-  <data name="ProfileProperties_TimeZone.Text">
-    <value xml:space="preserve">Tijdzone:</value>
+  <data name="ProfileProperties_TimeZone.Text" xml:space="preserve">
+    <value>Tijdzone:</value>
   </data>
-  <data name="ProfileProperties_Twitter.Help">
-    <value xml:space="preserve">Een link naar jou Twitter profiel beginnende met een format beginnend met twitter.com/</value>
+  <data name="ProfileProperties_Twitter.Help" xml:space="preserve">
+    <value>Een link naar jou Twitter profiel beginnende met een format beginnend met twitter.com/</value>
   </data>
-  <data name="ProfileProperties_Twitter.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Twitter is vereist.</value>
+  <data name="ProfileProperties_Twitter.Required" xml:space="preserve">
+    <value>Twitter is vereist.</value>
   </data>
-  <data name="ProfileProperties_Twitter.Text">
-    <value xml:space="preserve">Twitter</value>
+  <data name="ProfileProperties_Twitter.Text" xml:space="preserve">
+    <value>Twitter</value>
   </data>
-  <data name="ProfileProperties_Unit.Help" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Geef een kamernummer voor een appartement of een studio.</value>
+  <data name="ProfileProperties_Unit.Help" xml:space="preserve">
+    <value>Geef een kamernummer voor een appartement of een studio.</value>
   </data>
-  <data name="ProfileProperties_Unit.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Kamernummer is een verplicht veld.</value>
+  <data name="ProfileProperties_Unit.Required" xml:space="preserve">
+    <value>Kamernummer is een verplicht veld.</value>
   </data>
-  <data name="ProfileProperties_Unit.Text">
-    <value xml:space="preserve">Kamernummer:</value>
+  <data name="ProfileProperties_Unit.Text" xml:space="preserve">
+    <value>Kamernummer:</value>
   </data>
-  <data name="ProfileProperties_Username.Text">
-    <value xml:space="preserve">Gebruikersnaam:</value>
+  <data name="ProfileProperties_Username.Text" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
   </data>
-  <data name="ProfileProperties_Website.Help" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Vul een website URL in.</value>
+  <data name="ProfileProperties_Website.Help" xml:space="preserve">
+    <value>Vul een website URL in.</value>
   </data>
-  <data name="ProfileProperties_Website.Required" lastModified="2015-12-31 09:32:14">
-    <value xml:space="preserve">Website is een verplicht veld.</value>
+  <data name="ProfileProperties_Website.Required" xml:space="preserve">
+    <value>Website is een verplicht veld.</value>
   </data>
-  <data name="ProfileProperties_Website.Text">
-    <value xml:space="preserve">Website:</value>
+  <data name="ProfileProperties_Website.Text" xml:space="preserve">
+    <value>Website:</value>
   </data>
-  <data name="ProfileTitle.Text">
-    <value xml:space="preserve">Profiel bewerken - {0} (Id:{1})</value>
+  <data name="ProfileTitle.Text" xml:space="preserve">
+    <value>Profiel bewerken - {0} (Id:{1})</value>
   </data>
-  <data name="RequireProfile.Text">
-    <value xml:space="preserve">Uw profiel</value>
+  <data name="RequireProfile.Text" xml:space="preserve">
+    <value>Jouw profiel</value>
   </data>
 </root>

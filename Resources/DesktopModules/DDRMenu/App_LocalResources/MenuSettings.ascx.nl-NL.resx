@@ -12,13 +12,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddContent.Action">
-    <value xml:space="preserve">Content Toevoegen</value>
+  <data name="AddContent.Action" xml:space="preserve">
+    <value>Content Toevoegen</value>
   </data>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Menu instellingen</value>
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>Menu-instellingen</value>
   </data>
-  <data name="ModuleHelp.Text" lastModified="2015-12-31 10:40:33">
-    <value xml:space="preserve">De DDRMenu documentatie is beschikbaar op de &lt;a href="http://www.dotnetnuke.com/Resources/Wiki/Page/DDRMenu.aspx"&gt;DNN wiki&lt;/a&gt;.</value>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>De DDRMenu documentatie is beschikbaar op de &lt;a href="https://dnncommunity.org/documentation"&gt;DNN Docs&lt;/a&gt;.</value>
   </data>
 </root>

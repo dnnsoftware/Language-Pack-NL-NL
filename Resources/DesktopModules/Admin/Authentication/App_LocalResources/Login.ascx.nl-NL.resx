@@ -1,110 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
-    Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
-    associated with the data types.
-    
-    Example:
-    
-    ... ado.net/XML headers & schema ...
-    <resheader name="resmimetype">text/microsoft-resx</resheader>
-    <resheader name="version">2.0</resheader>
-    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-        <value>[base64 mime encoded serialized .NET Framework object]</value>
-    </data>
-    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-        <comment>This is a comment</comment>
-    </data>
-                
-    There are any number of "resheader" rows that contain simple 
-    name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
-    mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
-    extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
-    read any of the formats listed below.
-    
-    mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-            : and then encoded with base64 encoding.
-    
-    mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-            : and then encoded with base64 encoding.
-
-    mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
-            : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.
-    -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -112,25 +7,28 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AssociateHelp.Text" xml:space="preserve">
-    <value>U kunt uw inlog informatie koppelen met een bestaand gebruikers account door uw gebruikersnaam en wachtwoord in te vullen.</value>
+    <value>Je kunt je inlog informatie koppelen met een bestaand gebruikersaccount door je gebruikersnaam en wachtwoord in te vullen.</value>
   </data>
   <data name="AssociateTitle.Text" xml:space="preserve">
     <value>Koppel met een bestaand account</value>
   </data>
+  <data name="AssociationFailed.Text" xml:space="preserve">
+    <value>Fout tijdens het koppelem de identiteit van de gebruiker. Onthoud dat de gebruikersnamen en wachtwoorden hoofdlettergevoelig zijn.</value>
+  </data>
   <data name="AuthenticatedHelp.Text" xml:space="preserve">
-    <value>U bent succesvol geauthenticeerd. Uw identiteit is echter geen bekende gebruiker van deze website. U kun óf uw identiteit koppelen met een bestaand account, of registreren met een nieuw account.</value>
+    <value>Je bent succesvol geauthenticeerd. Je identiteit is echter geen bekende gebruiker van deze website. Je kunt óf je identiteit koppelen met een bestaand account, of registreren met een nieuw account.</value>
   </data>
   <data name="AuthenticatedTitle.Text" xml:space="preserve">
     <value>Geauthenticeerd</value>
   </data>
   <data name="cmdAssociate.Text" xml:space="preserve">
-    <value>Koppel met gebruikers account</value>
+    <value>Koppel met gebruikersaccount</value>
   </data>
   <data name="cmdCreate.Text" xml:space="preserve">
     <value>Nieuw account aanmaken</value>
@@ -160,40 +58,46 @@
     <value>Nieuw account aanmaken</value>
   </data>
   <data name="EnterCode.Text" xml:space="preserve">
-    <value>Voer uw verificatiecode in</value>
+    <value>Voer je verificatiecode in</value>
+  </data>
+  <data name="FailedToRemoveAccount.Text" xml:space="preserve">
+    <value>&lt;div&gt;Dit account kon niet worden verwijderd. Neem contact op met de site administrator en laat weren dat je account verwijderd moet worden.&lt;/div&gt;</value>
   </data>
   <data name="InvalidCode.Text" xml:space="preserve">
     <value>Ongeldige verificatiecode</value>
   </data>
   <data name="IPAddressBanned.Text" xml:space="preserve">
-    <value>U kunt niet inloggen op de website vanaf dit IPadres.</value>
+    <value>Je kunt niet inloggen op de website vanaf dit IPadres.</value>
   </data>
   <data name="LoginFailed.Text" xml:space="preserve">
-    <value>Inloggen mislukt, let op: wachtwoorden zijn hoofdletter gevoelig</value>
+    <value>Het Inloggen is mislukt, Let op: wachtwoorden zijn hoofdlettergevoelig</value>
+  </data>
+  <data name="MustConsent.Text" xml:space="preserve">
+    <value>&lt;div&gt;Je moet met de gebruikersovereenkomst instemmen om verder te kunnen.&lt;/div&gt;</value>
   </data>
   <data name="PasswordExpired.Text" xml:space="preserve">
-    <value>Uw wachtwoord is verlopen op {0}. Pas uw wachtwoord aan alvorens door te gaan.</value>
+    <value>Je wachtwoord is verlopen op {0}. Wijzig je wachtwoord alvorens door te gaan.</value>
   </data>
   <data name="PasswordExpiring.Text" xml:space="preserve">
-    <value>Uw wachtwoord verloopt op {0}. Pas uw wachtwoord aan alvorens door te gaan.</value>
+    <value>Je wachtwoord verloopt op {0}. Wijzig je wachtwoord alvorens door te gaan.</value>
   </data>
   <data name="PasswordInvalid.Text" xml:space="preserve">
-    <value>U moet een geldig wachtwoord opgeven. Neem contact op met de beheerder van de website als u niet bekend met met de eisen die aan wachtwoorden gesteld worden.</value>
+    <value>Je moet een geldig wachtwoord opgeven. Neem contact op met de beheerder van de website als je niet bekend bent met de eisen die aan wachtwoorden gesteld worden.</value>
   </data>
   <data name="PasswordMismatch.Text" xml:space="preserve">
     <value>De ingevulde wachtwoorden komen niet met elkaar overeen.</value>
   </data>
   <data name="PasswordMissing.Text" xml:space="preserve">
-    <value>U moet uw huidige wachtwoord opgeven alvorens het te kunnen veranderen.</value>
+    <value>Je moet je huidige wachtwoord opgeven alvorens het te kunnen veranderen.</value>
   </data>
   <data name="PasswordNotDifferent.Text" xml:space="preserve">
     <value>Het nieuwe wachtwoord is hetzelfde als het oude wachtwoord. Kies een ander wachtwoord.</value>
   </data>
   <data name="PasswordSent.Text" xml:space="preserve">
-    <value>Wachtwoord is verzonden naar uw e-mailadres.</value>
+    <value>Het wachtwoord is verzonden naar je e-mailadres.</value>
   </data>
   <data name="PasswordUpdate.Text" xml:space="preserve">
-    <value>Pas uw wachtwoord aan alvorens door te gaan.</value>
+    <value>Pas je wachtwoord aan alvorens door te gaan.</value>
   </data>
   <data name="plToken.Help" xml:space="preserve">
     <value>Een unieke code die gebruikt wordt om een gebruiker te identificeren.</value>
@@ -202,13 +106,13 @@
     <value>Gebruikerscode:</value>
   </data>
   <data name="plType.Help" xml:space="preserve">
-    <value>Authenticatie type</value>
+    <value>Authenticatietype</value>
   </data>
   <data name="plType.Text" xml:space="preserve">
     <value>Type:</value>
   </data>
   <data name="ProfileUpdate.Text" xml:space="preserve">
-    <value>Werk uw profiel bij alvorens door te gaan.</value>
+    <value>Werk je profiel bij alvorens door te gaan.</value>
   </data>
   <data name="RegisterTitle.Text" xml:space="preserve">
     <value>Registreer een nieuw account</value>
@@ -217,24 +121,15 @@
     <value>Blijf ingelogd</value>
   </data>
   <data name="UserLockedOut.Text" xml:space="preserve">
-    <value>Dit account is gedeactiveerd vanwege te veel inlog pogingen. Wacht {0} minuten voordat u het nogmaals probeert. Als u uw wachtwoord bent vergeten, gebruik dan de "vergeten wachtwoord" optie alvorens contact op te nemen met de beheerder van deze website.</value>
-  </data>
-  <data name="UsernameError.Text" xml:space="preserve">
-    <value>Gebruikersnaam bestaat niet</value>
-  </data>
-  <data name="UserNotAuthorized.Text" xml:space="preserve">
-    <value>U bent niet geautoriseerd om op deze website in te loggen.</value>
-  </data>
-  <data name="AssociationFailed.Text" xml:space="preserve">
-    <value>Fout tijdens associatie identiteit van gebruiker. Onthoud dat de gebruikersnamen en wachtwoorden hoofdletter gevoelig zijn.</value>
+    <value>Dit account is gedeactiveerd vanwege te veel inlogpogingen. Wacht {0} minuten voordat je het nogmaals probeert. Als je je wachtwoord bent vergeten, gebruik dan de "wachtwoord vergeten" optie voordat je contact op neemt met de beheerder van deze website.</value>
   </data>
   <data name="UserLockedOut_ContactAdmin.Text" xml:space="preserve">
-    <value>Dit account is vergrendeld na te veel mislukte login pogingen. Neem contact op met uw beheerder.</value>
+    <value>Dit account is vergrendeld na teveel mislukte login pogingen. Neem contact op met de sitebeheerder.</value>
   </data>
-  <data name="FailedToRemoveAccount.Text">
-    <value>&lt;div&gt;De account kon niet worden verwijderd. Neem contact op met de site administrator en laat weren dat je account verwijderd moet worden.&lt;/div&gt;</value>
+  <data name="UsernameError.Text" xml:space="preserve">
+    <value>Deze gebruikersnaam bestaat niet</value>
   </data>
-  <data name="MustConsent.Text">
-    <value>&lt;div&gt;Je moet met de gebruikersovereenkomst instemmen om verder te kunnen.&lt;/div&gt;</value>
+  <data name="UserNotAuthorized.Text" xml:space="preserve">
+    <value>Je bent niet gemachtigd om op deze website in te loggen.</value>
   </data>
 </root>

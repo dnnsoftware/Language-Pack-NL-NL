@@ -12,55 +12,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CancelButton.Text">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="CancelButton.Text" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="cmdCopyPerm.Text">
-    <value xml:space="preserve">Kopieer rechten</value>
+  <data name="cmdCopyPerm.Text" xml:space="preserve">
+    <value>Kopieer rechten</value>
   </data>
-  <data name="DialogTitle.Text">
-    <value xml:space="preserve">{0} Map informatie</value>
+  <data name="DialogTitle.Text" xml:space="preserve">
+    <value>{0} Mapinformatie</value>
   </data>
-  <data name="FolderNameLabel.Help">
-    <value xml:space="preserve">Bewerk de huidige mapnaam</value>
+  <data name="FolderNameLabel.Help" xml:space="preserve">
+    <value>Bewerk de huidige mapnaam</value>
   </data>
-  <data name="FolderNameLabel.Text">
-    <value xml:space="preserve">Mapnaam</value>
+  <data name="FolderNameLabel.Text" xml:space="preserve">
+    <value>Mapnaam</value>
   </data>
-  <data name="FolderTypeLabel.Help">
-    <value xml:space="preserve">Deze waarde geeft een indicatie van het map type van de huidige map</value>
+  <data name="FolderTypeLabel.Help" xml:space="preserve">
+    <value>Deze waarde geeft een indicatie van het maptype van de huidige map</value>
   </data>
-  <data name="FolderTypeLabel.Text">
-    <value xml:space="preserve">Map type</value>
+  <data name="FolderTypeLabel.Text" xml:space="preserve">
+    <value>Maptype</value>
   </data>
-  <data name="GeneralTab.Text">
-    <value xml:space="preserve">Algemeen</value>
+  <data name="GeneralTab.Text" xml:space="preserve">
+    <value>Algemeen</value>
   </data>
-  <data name="lblCopyPerm.Help">
-    <value xml:space="preserve">Kopieerd de rechten van de huidige map naar alle sub-mappen.</value>
+  <data name="lblCopyPerm.Help" xml:space="preserve">
+    <value>Kopieerd de rechten van de huidige map naar alle sub-mappen.</value>
   </data>
-  <data name="lblCopyPerm.Text">
-    <value xml:space="preserve">Kopieer rechten naar sub-mappen:</value>
+  <data name="lblCopyPerm.Text" xml:space="preserve">
+    <value>Kopieer rechten naar sub-mappen:</value>
   </data>
-  <data name="PermissionCopyError.Text">
-    <value xml:space="preserve">Er is een fout opgetreden bij het kopieeren van de maprechten</value>
+  <data name="PermissionCopyError.Text" xml:space="preserve">
+    <value>Er is een fout opgetreden bij het kopieëren van de maprechten</value>
   </data>
-  <data name="PermissionsCopied.Text">
-    <value xml:space="preserve">De rechten zijn succesvol gekopieerd</value>
+  <data name="PermissionsCopied.Text" xml:space="preserve">
+    <value>De rechten zijn succesvol gekopieerd</value>
   </data>
-  <data name="PermissionsTab.Text">
-    <value xml:space="preserve">Rechten</value>
+  <data name="PermissionsTab.Text" xml:space="preserve">
+    <value>Rechten</value>
   </data>
-  <data name="SaveButton.Text">
-    <value xml:space="preserve">Opslaan</value>
+  <data name="SaveButton.Text" xml:space="preserve">
+    <value>Opslaan</value>
   </data>
-  <data name="UserCannotChangePermissionsError.Text">
-    <value xml:space="preserve">U kunt de rechten van deze map niet wijzigen</value>
+  <data name="UserCannotChangePermissionsError.Text" xml:space="preserve">
+    <value>Je kan de rechten van deze map niet wijzigen</value>
   </data>
-  <data name="UserCannotEditFolderError.Text">
-    <value xml:space="preserve">U heeft geen rechten om deze map te mogen bewerken</value>
+  <data name="UserCannotEditFolderError.Text" xml:space="preserve">
+    <value>Je hebt geen rechten om deze map te bewerken</value>
   </data>
-  <data name="UserCannotReadFolderError.Text">
-    <value xml:space="preserve">U heeft geen rechten om deze map te mogen lezen</value>
+  <data name="UserCannotReadFolderError.Text" xml:space="preserve">
+    <value>Je hebt geen rechten om deze map te lezen</value>
   </data>
 </root>

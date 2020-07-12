@@ -12,19 +12,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_module.Text">
-    <value xml:space="preserve">Module </value>
+  <data name="ControlTitle_module.Text" xml:space="preserve">
+    <value>Module</value>
   </data>
-  <data name="InheritPermissions.Text">
-    <value xml:space="preserve">Erf&lt;b&gt;View&lt;/b&gt; machtiging van&lt;b&gt;Page&lt;/b&gt;</value>
+  <data name="InheritPermissions.Text" xml:space="preserve">
+    <value>Erf&lt;b&gt;View&lt;/b&gt; machtiging van&lt;b&gt;Page&lt;/b&gt;</value>
   </data>
-  <data name="Permissions.Text">
-    <value xml:space="preserve">Machtigingen</value>
+  <data name="Permissions.Text" xml:space="preserve">
+    <value>Machtigingen</value>
   </data>
-  <data name="plPermissions.Help" lastModified="2015-12-30 09:09:01">
-    <value xml:space="preserve">Selecteer de weergave en bewerk machtigingen door de betreffende checkboxen aan of uit te vinken. Selecteer de erf weergave machtiging optie om de module de weergave rechten van de pagina te laten overnemen.</value>
+  <data name="plPermissions.Help" xml:space="preserve">
+    <value>Selecteer de weergave- en bewerkmachtigingen door de betreffende checkboxen aan of uit te vinken. Selecteer de - erf weergave - machtiging optie om de module de weergaverechten van de pagina te laten overnemen.</value>
   </data>
-  <data name="plPermissions.Text">
-    <value xml:space="preserve">Machtigingen:</value>
+  <data name="plPermissions.Text" xml:space="preserve">
+    <value>Machtigingen:</value>
   </data>
 </root>

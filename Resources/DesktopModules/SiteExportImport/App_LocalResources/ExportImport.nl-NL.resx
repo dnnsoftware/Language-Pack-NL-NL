@@ -12,34 +12,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="InvalidPortal.Text">
-    <value xml:space="preserve">Ongeldig portaal</value>
+  <data name="InvalidPortal.Text" xml:space="preserve">
+    <value>Ongeldige site</value>
   </data>
-  <data name="JobNotExist.Text">
-    <value xml:space="preserve">Deze taak bestaat niet!</value>
+  <data name="JobNotExist.Text" xml:space="preserve">
+    <value>Deze taak bestaat niet!</value>
   </data>
-  <data name="JobStatus_Cancelled.Text">
-    <value xml:space="preserve">Geannuleerd</value>
+  <data name="JobStatus_Cancelled.Text" xml:space="preserve">
+    <value>Geannuleerd</value>
   </data>
-  <data name="JobStatus_DoneFailure.Text">
-    <value xml:space="preserve">mislukt</value>
+  <data name="JobStatus_DoneFailure.Text" xml:space="preserve">
+    <value>mislukt</value>
   </data>
-  <data name="JobStatus_DoneSuccess.Text">
-    <value xml:space="preserve">Succesvol</value>
+  <data name="JobStatus_DoneSuccess.Text" xml:space="preserve">
+    <value>Succesvol</value>
   </data>
-  <data name="JobStatus_InProgress.Text">
-    <value xml:space="preserve">Wordt uitgevoerd</value>
+  <data name="JobStatus_InProgress.Text" xml:space="preserve">
+    <value>Wordt uitgevoerd</value>
   </data>
-  <data name="JobStatus_Submitted.Text">
-    <value xml:space="preserve">Verstuurd</value>
+  <data name="JobStatus_Submitted.Text" xml:space="preserve">
+    <value>Verstuurd</value>
   </data>
-  <data name="JobType_Export.Text">
-    <value xml:space="preserve">Site Export</value>
+  <data name="JobType_Export.Text" xml:space="preserve">
+    <value>Site Export</value>
   </data>
-  <data name="JobType_Import.Text">
-    <value xml:space="preserve">Site Import</value>
+  <data name="JobType_Import.Text" xml:space="preserve">
+    <value>Site Import</value>
   </data>
-  <data name="NotPortalAdmin.Text">
-    <value xml:space="preserve">Gebruiker is geen portal administrator</value>
+  <data name="NotPortalAdmin.Text" xml:space="preserve">
+    <value>De gebruiker is geen sitebeheerder</value>
   </data>
 </root>

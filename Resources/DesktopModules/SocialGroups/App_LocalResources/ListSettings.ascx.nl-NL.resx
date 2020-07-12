@@ -7,86 +7,86 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Groepmodule instellingen</value>
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>Groepenmodule instellingen</value>
   </data>
-  <data name="DefaultRoleGroup.Help">
-    <value xml:space="preserve">Selecteer de rolgroep die de rollen bevat die u wilt weergeven</value>
+  <data name="DefaultRoleGroup.Help" xml:space="preserve">
+    <value>Selecteer de rolgroep die de rollen bevat die je wilt weergeven</value>
   </data>
-  <data name="DefaultRoleGroup.Text">
-    <value xml:space="preserve">Standaard rolgroep</value>
+  <data name="DefaultRoleGroup.Text" xml:space="preserve">
+    <value>Standaard rolgroep</value>
   </data>
-  <data name="GroupCreatePage.Help">
-    <value xml:space="preserve">Selecteer de pagina waar gebruikers naar toe gaan om nieuwe groepen aan te maken</value>
+  <data name="GroupCreatePage.Help" xml:space="preserve">
+    <value>Selecteer de pagina waar gebruikers naar toe gaan om nieuwe groepen aan te maken.</value>
   </data>
-  <data name="GroupListEnableSearch.Help">
-    <value xml:space="preserve">Selecteer deze optie om de gebruikers de mogelijkheid te geven om op de weergegeven groepen te filteren.</value>
+  <data name="GroupListEnableSearch.Help" xml:space="preserve">
+    <value>Selecteer deze optie om de gebruikers de mogelijkheid te geven om op de weergegeven groepen te filteren.</value>
   </data>
-  <data name="GroupListEnableSearch.Text">
-    <value xml:space="preserve">Zoeken op groep toestaan</value>
+  <data name="GroupListEnableSearch.Text" xml:space="preserve">
+    <value>Zoeken op groep toestaan</value>
   </data>
-  <data name="GroupListPageSize.Help">
-    <value xml:space="preserve">Specificeer het aantal groepen dat word teruggegeven per pagina.</value>
+  <data name="GroupListPageSize.Help" xml:space="preserve">
+    <value>Specificeer het aantal groepen dat wordt weergegeven per pagina.</value>
   </data>
-  <data name="GroupListPageSize.Text">
-    <value xml:space="preserve">Pagina grote van groepslijst</value>
+  <data name="GroupListPageSize.Text" xml:space="preserve">
+    <value>Paginagrootte van groepenlijst</value>
   </data>
-  <data name="GroupListSortDirField.Help">
-    <value xml:space="preserve">Kies de sorteer richting voor de lijst van groepen.</value>
+  <data name="GroupListSortDirField.Help" xml:space="preserve">
+    <value>Kies de sorteerrichting voor de lijst van groepen.</value>
   </data>
-  <data name="GroupListSortDirField.Text">
-    <value xml:space="preserve">Sorteer richting</value>
+  <data name="GroupListSortDirField.Text" xml:space="preserve">
+    <value>Sorteerrichting</value>
   </data>
-  <data name="GroupListSortField.Help">
-    <value xml:space="preserve">Kies het veld dat zal worden gebruikt voor het sorteren van de lijst met groepen.</value>
+  <data name="GroupListSortField.Help" xml:space="preserve">
+    <value>Kies het veld dat zal worden gebruikt voor het sorteren van de lijst met groepen.</value>
   </data>
-  <data name="GroupListSortField.Text">
-    <value xml:space="preserve">Sorteer lijst op basis van</value>
+  <data name="GroupListSortField.Text" xml:space="preserve">
+    <value>Sorteer lijst op basis van</value>
   </data>
-  <data name="GroupListTemplateText.Help">
-    <value xml:space="preserve">U kunt het standaardsjabloon wijzigen om de weergave van de groepslijst aan te passen.  Gemeenschappelijke tokens zijn:&lt;br/&gt;
+  <data name="GroupListTemplateText.Help" xml:space="preserve">
+    <value>Je kan het standaardsjabloon wijzigen om de weergave van de groepenlijst aan te passen.  Gemeenschappelijke tokens zijn:&lt;br/&gt;
 [groupitem:GroupName]&lt;br&gt;
 [groupitem:GroupDescription]&lt;br/&gt;
 [groupitem:PhotoURL]&lt;br/&gt;
 [groupviewurl]&lt;br/&gt;</value>
   </data>
-  <data name="GroupListTemplateText.Text">
-    <value xml:space="preserve">Groepslijst sjabloon</value>
+  <data name="GroupListTemplateText.Text" xml:space="preserve">
+    <value>Groepenlijstsjabloon</value>
   </data>
-  <data name="GroupListUserGroups.Help">
-    <value xml:space="preserve">Selecteer deze optie om alleen de groepen weer te geven waar de huidige gebruiker bij hoort.</value>
+  <data name="GroupListUserGroups.Help" xml:space="preserve">
+    <value>Selecteer deze optie om alleen die groepen te tonen, waar de huidige gebruiker lid van is.</value>
   </data>
-  <data name="GroupListUserGroups.Text">
-    <value xml:space="preserve">Toon een alleen de gebruiker zijn groepen</value>
+  <data name="GroupListUserGroups.Text" xml:space="preserve">
+    <value>Toon enkel de groepen waar de gebruiker lid van is</value>
   </data>
-  <data name="GroupModeration.Help">
-    <value xml:space="preserve">Vink deze optie aan als nieuwe groepen moeten worden goedgekeurd</value>
+  <data name="GroupModeration.Help" xml:space="preserve">
+    <value>Vink deze optie aan als nieuwe groepen moeten worden goedgekeurd.</value>
   </data>
-  <data name="GroupModeration.Text">
-    <value xml:space="preserve">Nieuwe groepen moeten worden goedgekeurd</value>
+  <data name="GroupModeration.Text" xml:space="preserve">
+    <value>Nieuwe groepen moeten worden goedgekeurd</value>
   </data>
-  <data name="GroupViewPage.Help">
-    <value xml:space="preserve">Selecteer de pagina waar gebruikers naar toe gaan om een bepaalde groep te bekijken</value>
+  <data name="GroupViewPage.Help" xml:space="preserve">
+    <value>Selecteer de pagina waar gebruikers naar toe gaan om een bepaalde groep te bekijken</value>
   </data>
-  <data name="GroupViewTemplateText.Help">
-    <value xml:space="preserve">U kunt het standaardsjabloon wijzigen om de weergave van de groepslijst aan te passen.  Gemeenschappelijke tokens zijn:&lt;br/&gt;
+  <data name="GroupViewTemplateText.Help" xml:space="preserve">
+    <value>Je kan het standaardsjabloon wijzigen om de weergave van de groepenlijst aan te passen.  Gemeenschappelijke tokens zijn:&lt;br/&gt;
 [groupitem:GroupName]&lt;br&gt;
 [groupitem:GroupDescription]&lt;br/&gt;
 [groupitem:PhotoURL]&lt;br/&gt;
 [groupviewurl]&lt;br/&gt;</value>
   </data>
-  <data name="PageSizeValidation.Text">
-    <value xml:space="preserve">Ongeldige pagina grote opgegeven. (1-9999)</value>
+  <data name="PageSizeValidation.Text" xml:space="preserve">
+    <value>Ongeldige paginagrootte opgegeven. (1-9999)</value>
   </data>
-  <data name="ViewMode.Help">
-    <value xml:space="preserve">Selecteer de modus waarin de module moet worden weergegeven.</value>
+  <data name="ViewMode.Help" xml:space="preserve">
+    <value>Selecteer de modus waarin de module moet worden weergegeven.</value>
   </data>
-  <data name="ViewMode.Text">
-    <value xml:space="preserve">Module weergavemodus</value>
+  <data name="ViewMode.Text" xml:space="preserve">
+    <value>Module weergavemodus</value>
   </data>
 </root>

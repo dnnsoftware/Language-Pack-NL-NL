@@ -12,65 +12,68 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CommandNotFound.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">Commando '[0}' niet gevonden.</value>
+  <data name="CommandNotFound.Text" xml:space="preserve">
+    <value>Commando '[0}' niet gevonden.</value>
   </data>
-  <data name="CommandOptionText.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">{0} of {1}</value>
+  <data name="CommandOptionText.Text" xml:space="preserve">
+    <value>{0} of {1}</value>
   </data>
-  <data name="DidYouMean.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">Bedoelde u '{0}'?</value>
+  <data name="DidYouMean.Text" xml:space="preserve">
+    <value>Bedoelde je '{0}'?</value>
   </data>
-  <data name="Help_Default.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">Standaard</value>
+  <data name="Help_Default.Text" xml:space="preserve">
+    <value>Standaard</value>
   </data>
-  <data name="Help_Description.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">Omschrijving</value>
+  <data name="Help_Description.Text" xml:space="preserve">
+    <value>Omschrijving</value>
   </data>
-  <data name="Help_Flag.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">Markeer</value>
+  <data name="Help_Flag.Text" xml:space="preserve">
+    <value>Markeer</value>
   </data>
-  <data name="Help_Options.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">Opties</value>
+  <data name="Help_Options.Text" xml:space="preserve">
+    <value>Opties</value>
   </data>
-  <data name="Help_Required.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">Verplicht</value>
+  <data name="Help_Required.Text" xml:space="preserve">
+    <value>Verplicht</value>
   </data>
-  <data name="Help_Type.Text" lastModified="2018-07-19 23:29:18">
-    <value xml:space="preserve">Typ</value>
+  <data name="Help_Type.Text" xml:space="preserve">
+    <value>Typ</value>
   </data>
-  <data name="nav_Prompt.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">Prompt</value>
+  <data name="InValidPortalId.Text" xml:space="preserve">
+    <value>Portal Id {0} behoort niet tot de Site Group.</value>
   </data>
-  <data name="Prompt_AddModule_Description.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">Voegt een module toe aan een pagina op de website.</value>
+  <data name="nav_Prompt.Text" xml:space="preserve">
+    <value>Prompt</value>
   </data>
-  <data name="Prompt_AddModule_FlagModuleName.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">Naam van de toe te voegen desktopmodule. Dit zou een unieke bestaande modulenaam moeten zijn.</value>
+  <data name="Prompt_AddModule_Description.Text" xml:space="preserve">
+    <value>Voegt een module toe aan een pagina op de website.</value>
   </data>
-  <data name="Prompt_AddModule_FlagModuleTitle.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">Geef de titel van de module op de pagina op.</value>
+  <data name="Prompt_AddModule_FlagModuleName.Text" xml:space="preserve">
+    <value>Naam van de toe te voegen desktopmodule. Dit zou een unieke bestaande modulenaam moeten zijn.</value>
   </data>
-  <data name="Prompt_AddModule_FlagPageId.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">Id van de pagina waar de module toegevoegd moet worden.</value>
+  <data name="Prompt_AddModule_FlagModuleTitle.Text" xml:space="preserve">
+    <value>Geef de titel van de module op de pagina op.</value>
   </data>
-  <data name="Prompt_AddModule_FlagPane.Text" lastModified="2018-07-18 07:39:54">
-    <value xml:space="preserve">Geef aan in welke pane de module toevoegd zou moeten worden. Als dit niet aangeleverd is, wordt de module in de ContentPane toegevoegd.</value>
+  <data name="Prompt_AddModule_FlagPageId.Text" xml:space="preserve">
+    <value>Id van de pagina waar de module toegevoegd moet worden.</value>
   </data>
-  <data name="Prompt_AddModule_ResultHtml.Text" lastModified="2018-07-18 05:38:40">
-    <value xml:space="preserve">&lt;H4&gt;Voeg een module toe aan aan pagina&lt;/H4&gt;&lt;CODE class=block&gt;module-toevoegen --naam "Html" --pagina-id 23 --pane TopPane&lt;/CODE&gt;</value>
+  <data name="Prompt_AddModule_FlagPane.Text" xml:space="preserve">
+    <value>Geef aan in welke pane de module toevoegd zou moeten worden. Als dit niet aangeleverd is, wordt de module in de ContentPane toegevoegd.</value>
   </data>
-  <data name="Prompt_AddModuleError.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Er is een fout opgetreden tijdens het toevoegen van de module. Bekijk alstublieft het DNN logboek voor details.</value>
+  <data name="Prompt_AddModule_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;H4&gt;Voeg een module toe aan aan pagina&lt;/H4&gt;&lt;CODE class=block&gt;module-toevoegen --naam "Html" --pagina-id 23 --pane TopPane&lt;/CODE&gt;</value>
   </data>
-  <data name="Prompt_ClearCache_Description.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Schoont de cache van de server op en herlaadt de pagina.</value>
+  <data name="Prompt_AddModuleError.Text" xml:space="preserve">
+    <value>Er is een fout opgetreden tijdens het toevoegen van de module. Bekijk alstublieft het DNN logboek voor details.</value>
   </data>
-  <data name="Prompt_ClearCache_Error.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Er is een fout opgetreden tijdens het opschonen van de cache.</value>
+  <data name="Prompt_ClearCache_Description.Text" xml:space="preserve">
+    <value>Schoont de cache van de server op en herlaadt de pagina.</value>
   </data>
-  <data name="Prompt_ClearCache_ResultHtml.Text" lastModified="2018-07-19 19:29:06">
-    <value xml:space="preserve">   &lt;code class="block"&gt;
+  <data name="Prompt_ClearCache_Error.Text" xml:space="preserve">
+    <value>Er is een fout opgetreden tijdens het opschonen van de cache.</value>
+  </data>
+  <data name="Prompt_ClearCache_ResultHtml.Text" xml:space="preserve">
+    <value>   &lt;code class="block"&gt;
      cache opschonen
     &lt;/code&gt;
     &lt;h4&gt;Resultaten&lt;/h4&gt;
@@ -79,20 +82,20 @@
       &lt;tr&gt;&lt;td&gt;Vernieuwen in 3 seconden&lt;/td&gt;&lt;/tr&gt;
     &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_ClearCache_Success.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Cache opgeschoond.</value>
+  <data name="Prompt_ClearCache_Success.Text" xml:space="preserve">
+    <value>Cache opgeschoond.</value>
   </data>
-  <data name="Prompt_ClearHistory_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Wist de geschiedenis van de opdrachten die in de huidige sessie zijn gebruikt</value>
+  <data name="Prompt_ClearHistory_Description.Text" xml:space="preserve">
+    <value>Wist de geschiedenis van de opdrachten die in de huidige sessie zijn gebruikt</value>
   </data>
-  <data name="Prompt_ClearLog_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Wist het gebeurtenislogboek voor de huidige portal.</value>
+  <data name="Prompt_ClearLog_Description.Text" xml:space="preserve">
+    <value>Wist het gebeurtenislogboek voor de huidige site.</value>
   </data>
-  <data name="Prompt_ClearLog_Error.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Er is een fout opgetreden bij het verwijderen van het gebeurtenislogboek.</value>
+  <data name="Prompt_ClearLog_Error.Text" xml:space="preserve">
+    <value>Er is een fout opgetreden bij het verwijderen van het gebeurtenislogboek.</value>
   </data>
-  <data name="Prompt_ClearLog_ResultHtml.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">&lt;code class="block"&gt;
+  <data name="Prompt_ClearLog_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;code class="block"&gt;
       log-opschonen
     &lt;/code&gt;
     &lt;h4&gt;Resultaten&lt;/h4&gt;
@@ -100,22 +103,22 @@
       &lt;tr&gt;&lt;td&gt;&lt;em&gt;[Gebeurtenislogboek opgeschoond]&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;
     &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_ClearLog_Success.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Gebeurtenislogboek opgeschoond</value>
+  <data name="Prompt_ClearLog_Success.Text" xml:space="preserve">
+    <value>Gebeurtenislogboek opgeschoond</value>
   </data>
-  <data name="Prompt_Cls_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Wist de prompt-console. &lt;code&gt;cls&lt;/code&gt; is een afkorting voor&lt;a href="#clear-screen"&gt;&lt;code&gt;scherm-opschonen&lt;/code&gt;&lt;/a&gt;</value>
+  <data name="Prompt_Cls_Description.Text" xml:space="preserve">
+    <value>Wist de prompt-console. &lt;code&gt;cls&lt;/code&gt; is een afkorting voor&lt;a href="#clear-screen"&gt;&lt;code&gt;scherm-opschonen&lt;/code&gt;&lt;/a&gt;</value>
   </data>
-  <data name="Prompt_CommandHelpLearn.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">&lt;section class="dnn-prompt-inline-help"&gt;
+  <data name="Prompt_CommandHelpLearn.Text" xml:space="preserve">
+    <value>&lt;section class="dnn-prompt-inline-help"&gt;
 
   &lt;h3&gt;Prompt-opdrachten begrijpen &lt;/h3&gt;
   &lt;p&gt;
- Zoals met de meeste opdrachtregelinterfaces, des te meer opdrachten u onthoudt, des te efficiënter u kunt zijn. Het begrijpen van de redenering achter &lt;em&gt;hoe&lt;/em&gt; promptopdrachten benoemd en gestructureerd zijn, maakt het veel gemakkelijker om ze te leren en ze eigen te maken.
+ Zoals met de meeste opdrachtregelinterfaces, des te meer opdrachten je onthoudt, des te efficiënter je kunt zijn. Het begrijpen van de redenering achter &lt;em&gt;hoe&lt;/em&gt; promptopdrachten benoemd en gestructureerd zijn, maakt het veel gemakkelijker om ze te leren en ze eigen te maken.
   &lt;/p&gt;
   &lt;ol&gt;
     &lt;li&gt;
-      &lt;strong&gt;Prompt is hoofdlettergevoelig&lt;/strong&gt;. Dat betekent dat u letters, hoofdletters of een mengsel van deze twee als commandonamen en optiemarkeringnamen kunt gebruiken. Dit is typerend voor de meeste opdrachtregels en we merken dat het het gebruik ervan op dagelijkse basis vereenvoudigt.
+      &lt;strong&gt;Prompt is hoofdlettergevoelig&lt;/strong&gt;. Dat betekent dat je letters, hoofdletters of een mengsel van deze twee als commandonamen en optiemarkeringnamen kunt gebruiken. Dit is typerend voor de meeste opdrachtregels en we merken dat het het gebruik ervan op dagelijkse basis vereenvoudigt.
     &lt;/li&gt;
     &lt;li&gt;
       &lt;strong&gt;Commando's zijn 1 of 2 woorden geschieden door een enkel koppelteken (-) en geen spaties&lt;/strong&gt;.
@@ -154,7 +157,7 @@
     &lt;tr&gt;
       &lt;td class="mono"&gt;new&lt;/td&gt;
       &lt;td&gt;
-        Creëert een nieuw object. We hebben het woord &lt;code&gt; nieuw &lt;/code&gt; gekozen omdat u dan minder hoeft te typen dan 'maken' en het is nauwkeuriger dan 'toevoegen', wat inhoudt dat iets aan iets anders wordt toegevoegd.
+        Creëert een nieuw object. We hebben het woord &lt;code&gt; nieuw &lt;/code&gt; gekozen omdat je dan minder hoeft te typen dan 'maken' en het is nauwkeuriger dan 'toevoegen', wat inhoudt dat iets aan iets anders wordt toegevoegd.
       &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -165,7 +168,7 @@
     &lt;tr&gt;
       &lt;td class="mono"&gt;set&lt;/td&gt;
       &lt;td&gt;
-  Wijzigt een object. Dit kan 'update' betekenen of (voor de eerste keer) een waarde instellen. We kozen het woord 'set' niet alleen omdat het kort en gemakkelijk te typen is, maar ook omdat het nauwkeuriger is in meerdere gevallen. 'Bijwerken' houdt in dat u een reeds ingestelde waarde wijzigt, maar minder nauwkeurig als u voor de eerste keer een waarde instelt. En hebben we al gezegd dat 'set' de helft is van de 'update'? &lt;/td&gt;
+  Wijzigt een object. Dit kan 'update' betekenen of (voor de eerste keer) een waarde instellen. We kozen het woord 'set' niet alleen omdat het kort en gemakkelijk te typen is, maar ook omdat het nauwkeuriger is in meerdere gevallen. 'Bijwerken' houdt in dat je een reeds ingestelde waarde wijzigt, maar minder nauwkeurig als je voor de eerste keer een waarde instelt. En hebben we al gezegd dat 'set' de helft is van de 'update'? &lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td class="mono"&gt;delete&lt;/td&gt;
@@ -217,7 +220,7 @@
       &lt;td&gt;Een taak is een DNN Scheduler Item of Scheduled Task. We gebruiken de woordtaak vanwege zijn beknoptheid.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td class="mono"&gt;portaal/portalen&lt;/td&gt;
+      &lt;td class="mono"&gt;site/sites&lt;/td&gt;
       &lt;td&gt;Een DNN-site of -portaal&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
@@ -233,26 +236,60 @@
 
 &lt;/section&gt;</value>
   </data>
-  <data name="Prompt_CopyModule_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Kopieert een module naar de opgegeven pagina.</value>
+  <data name="Prompt_CommandHelpSyntax.Text" xml:space="preserve">
+    <value>&lt;section class="dnn-prompt-inline-help"&gt;
+  &lt;h3&gt;Basic Syntax&lt;/h3&gt;
+  &lt;p&gt;
+    &lt;em&gt;Prompt&lt;/em&gt; functions in a way similar to a Terminal, Bash shell, Windows CMD shell, or Powershell. You enter a command and hit &lt;code&gt;ENTER&lt;/code&gt; and the computer responds with a result. For very simple commands like &lt;code&gt;help&lt;/code&gt; or &lt;code&gt;list-modules&lt;/code&gt;, that's all you need. Some commands, though, may require additional data or they may allow you to provide additional options.
+  &lt;/p&gt;
+  &lt;p&gt;
+    Specifying a target or context for a command: For commands that operate on an object like a user, or that require a context like a page, you simply provide that information after the command. For example, to find the user &lt;em&gt;jsmith&lt;/em&gt; using the &lt;code&gt;get-user&lt;/code&gt; command, you would type: &lt;code&gt;get-user jsmith&lt;/code&gt; followed by the &lt;code&gt;ENTER&lt;/code&gt; key to submit it. If you will be specifying flags (see next paragraph), those should &lt;em&gt;always come after&lt;/em&gt; the target/context of the command.
+  &lt;/p&gt;
+  &lt;p&gt;
+    Specifying Options to Commands: Some commands require even more data or allow you to specify optional configuration information. In &lt;em&gt;Prompt&lt;/em&gt; we call these &amp;quot;flags&amp;quot;. These should come &lt;em&gt;after&lt;/em&gt; any target/context needed by the command (see above paragraph) and &lt;em&gt;must&lt;/em&gt; be preceded with two hyphens or dashes (&lt;code&gt;--&lt;/code&gt;). There should be no spaces between the dashes and there should be no space between the dashes and the name of the flag. If then flag requires a value, you add that after the flag.
+  &lt;/p&gt;
+  &lt;p&gt;
+    As an example of using flags, take the &lt;code&gt;get-user&lt;/code&gt; command. By default, you would specify the username of the user you want to find. However, you can also search by their email address. In that case, you would use the &lt;code&gt;--email&lt;/code&gt; flag. Here's how you would use it:
+  &lt;/p&gt;
+  &lt;code class="block"&gt;
+    get-user --email jsmith@sample.com
+  &lt;/code&gt;
+  &lt;p&gt;
+    If the value of a flag is more than one word, enclose it in double quotes like so:
+  &lt;/p&gt;
+  &lt;code class="block"&gt;
+    set-page --title "My Page"
+  &lt;/code&gt;
+
+  &lt;h4&gt;See Also&lt;/h4&gt;
+  &lt;a data-cmd="help learn" class="dnn-prompt-cmd-insert" href="#"&gt;Learning Prompt Commands&lt;/a&gt;
+  &lt;a data-cmd="help" class="dnn-prompt-cmd-insert" href="#"&gt;Prompt Commands List&lt;/a&gt;
+
+&lt;/section&gt;</value>
   </data>
-  <data name="Prompt_CopyModule_FlagId.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Geeft expliciet het module-ID op van de module die moet worden gekopieerd. Gebruik van de vlag is niet verplicht. U kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
+  <data name="Prompt_CommandNotFound.Text" xml:space="preserve">
+    <value>Unable to find help for that command</value>
   </data>
-  <data name="Prompt_CopyModule_FlagIncludesettings.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Als dit het geval is, kopieert Prompt de instellingen van de bronmodule naar de gekopieerde module.</value>
+  <data name="Prompt_CopyModule_Description.Text" xml:space="preserve">
+    <value>Kopieert een module naar de opgegeven pagina.</value>
   </data>
-  <data name="Prompt_CopyModule_FlagPageId.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Het pagina-ID van de pagina die de module bevat die u wilt kopiëren.</value>
+  <data name="Prompt_CopyModule_FlagId.Text" xml:space="preserve">
+    <value>Geeft expliciet het module-ID op van de module die moet worden gekopieerd. Gebruik van de vlag is niet verplicht. Je kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
   </data>
-  <data name="Prompt_CopyModule_FlagPane.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Geef het deelvenster (pane) op waarin de module moet worden gekopieerd. Als dit niet het geval is, wordt de module gekopieerd naar ContentPane.</value>
+  <data name="Prompt_CopyModule_FlagIncludesettings.Text" xml:space="preserve">
+    <value>Als dit het geval is, kopieert Prompt de instellingen van de bronmodule naar de gekopieerde module.</value>
   </data>
-  <data name="Prompt_CopyModule_FlagToPageId.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Het pagina-ID van de doelpagina. De pagina waarnaar u de module wilt kopiëren.</value>
+  <data name="Prompt_CopyModule_FlagPageId.Text" xml:space="preserve">
+    <value>Het pagina-ID van de pagina die de module bevat die je wilt kopiëren.</value>
   </data>
-  <data name="Prompt_CopyModule_ResultHtml.Text" lastModified="2018-07-20 09:33:30">
-    <value xml:space="preserve">&lt;h4&gt;Kopiëer een module van de ene pagina naar de andere&lt;/h4&gt;
+  <data name="Prompt_CopyModule_FlagPane.Text" xml:space="preserve">
+    <value>Geef het deelvenster (pane) op waarin de module moet worden gekopieerd. Als dit niet het geval is, wordt de module gekopieerd naar ContentPane.</value>
+  </data>
+  <data name="Prompt_CopyModule_FlagToPageId.Text" xml:space="preserve">
+    <value>Het pagina-ID van de doelpagina. De pagina waarnaar je de module wilt kopiëren.</value>
+  </data>
+  <data name="Prompt_CopyModule_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Kopiëer een module van de ene pagina naar de andere&lt;/h4&gt;
     &lt;p&gt;Deze opdracht kopiëert de module met ModuleID 358 van de pagina met PaginaID 71 naar de pagina met een PaginaID van 75.&lt;/p&gt;
     &lt;code class="block"&gt;copy-module 358 --pageid 71 --topageid 75&lt;/code&gt;
 
@@ -298,61 +335,67 @@
       &lt;/tr&gt;
     &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_DeleteModule_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Soft-verwijdert een module op een specifieke pagina. De module wordt naar de DNN-prullenbak verzonden. Hiermee worden modules niet verwijderd of worden module-definities beïnvloed.</value>
+  <data name="Prompt_Default.Text" xml:space="preserve">
+    <value>Default</value>
   </data>
-  <data name="Prompt_DeleteModule_FlagId.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Soft-score een module op een traditionele pagina. De module wordt naar de DNN-prullenbak verzonden. Geen modules worden verwijderd van worden module-versies voordoen.</value>
+  <data name="Prompt_DeleteModule_Description.Text" xml:space="preserve">
+    <value>Soft-verwijdert een module op een specifieke pagina. De module wordt naar de DNN-prullenbak verzonden. Hiermee worden modules niet verwijderd of worden module-definities beïnvloed.</value>
   </data>
-  <data name="Prompt_DeleteModule_FlagPageId.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Hiermee geeft u de pagina-ID op van de pagina waarop de te verwijderen module zich bevindt.</value>
+  <data name="Prompt_DeleteModule_FlagId.Text" xml:space="preserve">
+    <value>Soft-score een module op een traditionele pagina. De module wordt naar de DNN-prullenbak verzonden. Geen modules worden verwijderd van worden module-versies voordoen.</value>
   </data>
-  <data name="Prompt_DeleteModule_ResultHtml.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">&lt;h4&gt;Verwijder en stuur module-instantie naar de prullenbak&lt;/h4&gt;
+  <data name="Prompt_DeleteModule_FlagPageId.Text" xml:space="preserve">
+    <value>Hiermee geef je de pagina-ID op van de pagina waarop de te verwijderen module zich bevindt.</value>
+  </data>
+  <data name="Prompt_DeleteModule_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Verwijder en stuur module-instantie naar de prullenbak&lt;/h4&gt;
     &lt;p&gt;Dit zal een module-instantie op een specifieke pagina verwijderen en deze naar de DNN prullenbak sturen&lt;/p&gt;
     &lt;code class="block"&gt;delete-module 345 --pageid 42&lt;/code&gt;</value>
   </data>
-  <data name="Prompt_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Omschrijving</value>
+  <data name="Prompt_Description.Text" xml:space="preserve">
+    <value>Omschrijving</value>
   </data>
-  <data name="Prompt_DesktopModuleNotFound.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Kan geen bureaubladmodule vinden met de naam '{0}' voor deze portal</value>
+  <data name="Prompt_DesktopModuleNotFound.Text" xml:space="preserve">
+    <value>Kan geen bureaubladmodule vinden met de naam '{0}' voor deze site</value>
   </data>
-  <data name="Prompt_Echo_Description.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Echo't het eerste ontvangen argument terug.</value>
+  <data name="Prompt_Echo_Description.Text" xml:space="preserve">
+    <value>Echo't het eerste ontvangen argument terug.</value>
   </data>
-  <data name="Prompt_Echo_Nothing.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Niets om terug te echoën.</value>
+  <data name="Prompt_Echo_Nothing.Text" xml:space="preserve">
+    <value>Niets om terug te echoën.</value>
   </data>
-  <data name="Prompt_Echo_ResultHtml.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">&lt;h4&gt;&lt;/h4&gt;</value>
+  <data name="Prompt_Echo_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;&lt;/h4&gt;</value>
   </data>
-  <data name="Prompt_ErrorWhileCopying.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Er is een fout opgetreden tijdens het kopiëren van de module. Zie DNN Gebeurtenislogboek voor details.</value>
+  <data name="Prompt_ErrorWhileCopying.Text" xml:space="preserve">
+    <value>Er is een fout opgetreden tijdens het kopiëren van de module. Zie DNN Gebeurtenislogboek voor details.</value>
   </data>
-  <data name="Prompt_ErrorWhileMoving.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Er is een fout opgetreden tijdens het verplaatsen van de module. Zie DNN Gebeurtenislogboek voor details.</value>
+  <data name="Prompt_ErrorWhileMoving.Text" xml:space="preserve">
+    <value>Er is een fout opgetreden tijdens het verplaatsen van de module. Zie DNN Gebeurtenislogboek voor details.</value>
   </data>
-  <data name="Prompt_Exit_Description.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Sluit de Prompt-console af.</value>
+  <data name="Prompt_Exit_Description.Text" xml:space="preserve">
+    <value>Sluit de Prompt-console af.</value>
   </data>
-  <data name="Prompt_FailedtoDeleteModule.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Verwijderen van de module met ID {0} mislukt. Zie het logboek voor meer details.</value>
+  <data name="Prompt_FailedtoDeleteModule.Text" xml:space="preserve">
+    <value>Verwijderen van de module met ID {0} mislukt. Zie het logboek voor meer details.</value>
   </data>
-  <data name="Prompt_FlagIsRequired.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">'[0]' is verplicht.</value>
+  <data name="Prompt_FlagIsRequired.Text" xml:space="preserve">
+    <value>'[0]' is verplicht.</value>
   </data>
-  <data name="Prompt_GeneralCategory.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Algemene commando's</value>
+  <data name="Prompt_GeneralCategory.Text" xml:space="preserve">
+    <value>Algemene commando's</value>
   </data>
-  <data name="Prompt_GetHost__NoArgs.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">De opdracht get-host accepteert geen argumenten of markeringen.</value>
+  <data name="Prompt_GetHost__NoArgs.Text" xml:space="preserve">
+    <value>De opdracht get-host accepteert geen argumenten of markeringen.</value>
   </data>
-  <data name="Prompt_GetHost_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Haalt informatie over de DNN-installatie op</value>
+  <data name="Prompt_GetHost_Description.Text" xml:space="preserve">
+    <value>Haalt informatie over de DNN-installatie op</value>
   </data>
-  <data name="Prompt_GetHost_ResultHtml.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">&lt;h4&gt;Informatie verkrijgen over de huidige DNN-installatie&lt;/h4&gt;
+  <data name="Prompt_GetHost_OkMessage.Text" xml:space="preserve">
+    <value>get-host command executed successfully.</value>
+  </data>
+  <data name="Prompt_GetHost_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Informatie verkrijgen over de huidige DNN-installatie&lt;/h4&gt;
   &lt;code class="block"&gt;
     get-host
   &lt;/code&gt;
@@ -401,7 +444,7 @@
     &lt;tr&gt;
       &lt;td&gt;Url&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
-      &lt;td&gt;http://www.dnnsoftware.com&lt;/td&gt;
+      &lt;td&gt;https://www.dnnsoftware.com&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;E-mail&lt;/td&gt;
@@ -435,20 +478,23 @@
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_GetHost_Unauthorized.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">U ben niet gemachtigd voor toegang tot deze functionaliteit.</value>
+  <data name="Prompt_GetHost_Unauthorized.Text" xml:space="preserve">
+    <value>Je bent niet gemachtigd voor toegang tot deze functionaliteit.</value>
   </data>
-  <data name="Prompt_GetModule_Description.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Haalt details op van een enkele module op een specifieke pagina </value>
+  <data name="Prompt_GetModule_Description.Text" xml:space="preserve">
+    <value>Haalt details op van een enkele module op een specifieke pagina </value>
   </data>
-  <data name="Prompt_GetModule_FlagId.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Geeft expliciet het module-ID op van de module die moet worden opgehaald. Gebruik van de markering is niet verplicht. U kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
+  <data name="Prompt_GetModule_FlagId.Text" xml:space="preserve">
+    <value>Geeft expliciet het module-ID op van de module die moet worden opgehaald. Gebruik van de markering is niet verplicht. je kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
   </data>
-  <data name="Prompt_GetModule_FlagPageId.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Het pagina-ID van de pagina die de module bevat.</value>
+  <data name="Prompt_GetModule_FlagPageId.Text" xml:space="preserve">
+    <value>Het pagina-ID van de pagina die de module bevat.</value>
   </data>
-  <data name="Prompt_GetModule_ResultHtml.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">&lt;h4&gt;Informatie krijgen over een specifieke module&lt;/h4&gt;
+  <data name="Prompt_GetModule_Result.Text" xml:space="preserve">
+    <value>Module '{0}' is gevonden op pagina '{1}'.</value>
+  </data>
+  <data name="Prompt_GetModule_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Informatie krijgen over een specifieke module&lt;/h4&gt;
         &lt;p&gt;De onderstaande code haalt de details op voor een module waarvan het module-ID 345 is op pagina 48&lt;/p&gt;
         &lt;code class="block"&gt;get-module 359 --pageid 48&lt;/code&gt;
         &lt;p&gt;De volgende versie is een meer nauwkeurige versie van de bovenstaande code, maar doet hetzelfde op pagina 48.&lt;/p&gt;
@@ -493,20 +539,23 @@
             &lt;/tr&gt;
         &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_GetPortal_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Hiermee wordt basisinformatie opgehaald over de huidige portal of opgegeven portal</value>
+  <data name="Prompt_GetPortal_Description.Text" xml:space="preserve">
+    <value>Hiermee wordt basisinformatie opgehaald over de huidige site of opgegeven site</value>
   </data>
-  <data name="Prompt_GetPortal_FlagId.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Portal-id om informatie te krijgen. Alleen de host kan informatie krijgen over andere portals dan de huidige.</value>
+  <data name="Prompt_GetPortal_FlagId.Text" xml:space="preserve">
+    <value>Portal-id om informatie te krijgen. Alleen de applicatiebeheerder kan informatie krijgen over andere sites dan de huidige.</value>
   </data>
-  <data name="Prompt_GetPortal_NoArgs.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">De opdracht get-portal neemt geen argumenten of markeringen.</value>
+  <data name="Prompt_GetPortal_Found.Text" xml:space="preserve">
+    <value>Portal '{0}' is gevonden</value>
   </data>
-  <data name="Prompt_GetPortal_NotFound.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Kon geen portaal met ID van '{0}' vinden</value>
+  <data name="Prompt_GetPortal_NoArgs.Text" xml:space="preserve">
+    <value>De opdracht get-portal neemt geen argumenten of markeringen.</value>
   </data>
-  <data name="Prompt_GetPortal_ResultHtml.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">&lt;h4&gt;Informatie verkrijgen over het huidige portaal&lt;/h4&gt;
+  <data name="Prompt_GetPortal_NotFound.Text" xml:space="preserve">
+    <value>Kon geen portaal met ID van '{0}' vinden</value>
+  </data>
+  <data name="Prompt_GetPortal_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Informatie verkrijgen over het huidige portaal&lt;/h4&gt;
   &lt;code class="block"&gt;
     get-portal
   &lt;/code&gt;
@@ -574,14 +623,14 @@
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_GetSite_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Hiermee wordt basisinformatie opgehaald over de huidige portal of opgegeven portal</value>
+  <data name="Prompt_GetSite_Description.Text" xml:space="preserve">
+    <value>Hiermee wordt basisinformatie opgehaald over de huidige portal of opgegeven portal</value>
   </data>
-  <data name="Prompt_GetSite_FlagId.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Site-ID om informatie te krijgen. Alleen de gastheer kan informatie krijgen over andere portals dan de huidige.</value>
+  <data name="Prompt_GetSite_FlagId.Text" xml:space="preserve">
+    <value>Site-ID om informatie te krijgen. Alleen de gastheer kan informatie krijgen over andere portals dan de huidige.</value>
   </data>
-  <data name="Prompt_GetSite_ResultHtml.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">&lt;h4&gt;Informatie verkrijgen over het huidige portaal&lt;/h4&gt;
+  <data name="Prompt_GetSite_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Informatie verkrijgen over het huidige portaal&lt;/h4&gt;
   &lt;code class="block"&gt;
     get-portal
   &lt;/code&gt;
@@ -649,89 +698,89 @@
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_Help_Command.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Opdracht</value>
+  <data name="Prompt_Help_Command.Text" xml:space="preserve">
+    <value>Opdracht</value>
   </data>
-  <data name="Prompt_Help_Commands.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Opdrachten</value>
+  <data name="Prompt_Help_Commands.Text" xml:space="preserve">
+    <value>Opdrachten</value>
   </data>
-  <data name="Prompt_Help_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Omschrijving</value>
+  <data name="Prompt_Help_Description.Text" xml:space="preserve">
+    <value>Omschrijving</value>
   </data>
-  <data name="Prompt_Help_Learn.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Prompt-opdrachten leren</value>
+  <data name="Prompt_Help_Learn.Text" xml:space="preserve">
+    <value>Prompt-opdrachten leren</value>
   </data>
-  <data name="Prompt_Help_ListOfAvailableMsg.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Hier is een lijst met beschikbare opdrachten voor Prompt.</value>
+  <data name="Prompt_Help_ListOfAvailableMsg.Text" xml:space="preserve">
+    <value>Hier is een lijst met beschikbare opdrachten voor Prompt.</value>
   </data>
-  <data name="Prompt_Help_PromptCommands.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Prompt opdrachten</value>
+  <data name="Prompt_Help_PromptCommands.Text" xml:space="preserve">
+    <value>Prompt opdrachten</value>
   </data>
-  <data name="Prompt_Help_SeeAlso.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Zie ook</value>
+  <data name="Prompt_Help_SeeAlso.Text" xml:space="preserve">
+    <value>Zie ook</value>
   </data>
-  <data name="Prompt_Help_Syntax.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Overzicht/Basis syntaxis</value>
+  <data name="Prompt_Help_Syntax.Text" xml:space="preserve">
+    <value>Overzicht/Basis syntaxis</value>
   </data>
-  <data name="Prompt_HostCategory.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Gastheer commando's</value>
+  <data name="Prompt_HostCategory.Text" xml:space="preserve">
+    <value>Applicatiebeheerder commando's</value>
   </data>
-  <data name="Prompt_InsufficientPermissions.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">U hebt onvoldoende machtigingen om deze bewerking uit te voeren.</value>
+  <data name="Prompt_InsufficientPermissions.Text" xml:space="preserve">
+    <value>Je hebt onvoldoende machtigingen om deze bewerking uit te voeren.</value>
   </data>
-  <data name="Prompt_InvalidData.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">U heeft ongeldige gegevens verzonden. Uw aanvraag kan niet worden verwerkt.</value>
+  <data name="Prompt_InvalidData.Text" xml:space="preserve">
+    <value>Je hebt ongeldige gegevens verzonden. Je aanvraag kan niet worden verwerkt.</value>
   </data>
-  <data name="Prompt_InvalidSyntax.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Ongeldige syntaxis</value>
+  <data name="Prompt_InvalidSyntax.Text" xml:space="preserve">
+    <value>Ongeldige syntaxis</value>
   </data>
-  <data name="Prompt_ListCommands__H_Category.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Categorie</value>
+  <data name="Prompt_ListCommands__H_Category.Text" xml:space="preserve">
+    <value>Categorie</value>
   </data>
-  <data name="Prompt_ListCommands_Description.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Stelt een lijst samen van alle commando's.</value>
+  <data name="Prompt_ListCommands_Description.Text" xml:space="preserve">
+    <value>Stelt een lijst samen van alle commando's.</value>
   </data>
-  <data name="Prompt_ListCommands_Error.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Er is een fout opgetreden tijdens het samenstellen van de lijst van commando's.</value>
+  <data name="Prompt_ListCommands_Error.Text" xml:space="preserve">
+    <value>Er is een fout opgetreden tijdens het samenstellen van de lijst van commando's.</value>
   </data>
-  <data name="Prompt_ListCommands_Found.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">{0} commando's gevonden.</value>
+  <data name="Prompt_ListCommands_Found.Text" xml:space="preserve">
+    <value>{0} commando's gevonden.</value>
   </data>
-  <data name="Prompt_ListCommands_H_Description.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Omschrijving</value>
+  <data name="Prompt_ListCommands_H_Description.Text" xml:space="preserve">
+    <value>Omschrijving</value>
   </data>
-  <data name="Prompt_ListCommands_H_Name.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Naam</value>
+  <data name="Prompt_ListCommands_H_Name.Text" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="Prompt_ListCommands_H_Version.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Versie</value>
+  <data name="Prompt_ListCommands_H_Version.Text" xml:space="preserve">
+    <value>Versie</value>
   </data>
-  <data name="Prompt_ListCommands_ResultHtml.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">&lt;h4&gt;&lt;/h4&gt;</value>
+  <data name="Prompt_ListCommands_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;&lt;/h4&gt;</value>
   </data>
-  <data name="Prompt_ListModules_Description.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Haalt op basis van de zoekcriteria een lijst van modules op</value>
+  <data name="Prompt_ListModules_Description.Text" xml:space="preserve">
+    <value>Haalt op basis van de zoekcriteria een lijst van modules op</value>
   </data>
-  <data name="Prompt_ListModules_FlagDeleted.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Indien opgegeven, vindt de opdracht alle module-instanties in de portal die zich in de prullenbak bevinden (als &lt;span class="mono"&gt;--deleted&lt;/span&gt;is true), of alle module-instanties die zich &lt;em&gt;niet&lt;/em&gt; in de prullenbak  bevinden (als operate &lt;span class="mono"&gt;--deleted&lt;/span&gt; is false). Als de markering is opgegeven maar er geen waarde wordt opgegeven, wordt &lt;span class="mono"&gt;true&lt;/span&gt; standaard ingesteld. Deze markering kan worden gebruikt met &lt;span class="mono"&gt;-naam&lt;/span&gt; en &lt;span class="mono"&gt;-titel&lt;/span&gt; om de resultaten verder te verfijnen.</value>
+  <data name="Prompt_ListModules_FlagDeleted.Text" xml:space="preserve">
+    <value>Indien opgegeven, vindt de opdracht alle module-instanties in de portal die zich in de prullenbak bevinden (als &lt;span class="mono"&gt;--deleted&lt;/span&gt;is true), of alle module-instanties die zich &lt;em&gt;niet&lt;/em&gt; in de prullenbak  bevinden (als operate &lt;span class="mono"&gt;--deleted&lt;/span&gt; is false). Als de markering is opgegeven maar er geen waarde wordt opgegeven, wordt &lt;span class="mono"&gt;true&lt;/span&gt; standaard ingesteld. Deze markering kan worden gebruikt met &lt;span class="mono"&gt;-naam&lt;/span&gt; en &lt;span class="mono"&gt;-titel&lt;/span&gt; om de resultaten verder te verfijnen.</value>
   </data>
-  <data name="Prompt_ListModules_FlagMax.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Paginaformaat voor de pagina. Max is 500.</value>
+  <data name="Prompt_ListModules_FlagMax.Text" xml:space="preserve">
+    <value>Paginaformaat voor de pagina. Max is 500.</value>
   </data>
-  <data name="Prompt_ListModules_FlagModuleName.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">De naam van de module waarnaar moet worden gezocht. Hiermee accepteert u het jokerteken (*) om gedeeltelijke zoekopdrachten uit te voeren. De modulenaam is niet hetzelfde als de beschrijvende naam van de module of de titel van de module. De modulenaam, &lt;code&gt; lijstmodules &lt;/ code&gt; vinden op een pagina die de module bevat. Zoekopdrachten zijn niet hoofdlettergevoelig</value>
+  <data name="Prompt_ListModules_FlagModuleName.Text" xml:space="preserve">
+    <value>De naam van de module waarnaar moet worden gezocht. Hiermee accepteer je het jokerteken (*) om gedeeltelijke zoekopdrachten uit te voeren. De modulenaam is niet hetzelfde als de beschrijvende naam van de module of de titel van de module. De modulenaam, &lt;code&gt; lijstmodules &lt;/ code&gt; vinden op een pagina die de module bevat. Zoekopdrachten zijn niet hoofdlettergevoelig</value>
   </data>
-  <data name="Prompt_ListModules_FlagModuleTitle.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">De titel van de module waarnaar moet worden gezocht. Hiermee accepteert u jokertekens (*) die 0 of meer tekens vertegenwoordigen. Zoekopdrachten zijn niet hoofdlettergevoelig.</value>
+  <data name="Prompt_ListModules_FlagModuleTitle.Text" xml:space="preserve">
+    <value>De titel van de module waarnaar moet worden gezocht. Hiermee accepteer je jokertekens (*) die 0 of meer tekens vertegenwoordigen. Zoekopdrachten zijn niet hoofdlettergevoelig.</value>
   </data>
-  <data name="Prompt_ListModules_FlagPage.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Paginanummer om records te tonen.</value>
+  <data name="Prompt_ListModules_FlagPage.Text" xml:space="preserve">
+    <value>Paginanummer om records te tonen.</value>
   </data>
-  <data name="Prompt_ListModules_FlagPageId.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Indien opgegeven, toont de opdracht alleen modules van een specifieke pagina. Markeren is niet verplicht. U kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
+  <data name="Prompt_ListModules_FlagPageId.Text" xml:space="preserve">
+    <value>Indien opgegeven, toont de opdracht alleen modules van een specifieke pagina. Markeren is niet verplicht. Je kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
   </data>
-  <data name="Prompt_ListModules_ResultHtml.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">&lt;h4&gt;Maak een lijst van modules in de huidige portal&lt;/h4&gt;
+  <data name="Prompt_ListModules_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Maak een lijst van modules in de huidige portal&lt;/h4&gt;
         &lt;code class="block"&gt;lijst-van-modules&lt;/code&gt;
 
         &lt;h4&gt;Lijstmodules op specifieke pagina&lt;/h4&gt;
@@ -860,56 +909,59 @@
             &lt;/tbody&gt;
         &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_ListPortals_Description.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Haalt een lijst op van portals voor de huidige DNN-installatie</value>
+  <data name="Prompt_ListPortals_Description.Text" xml:space="preserve">
+    <value>Haalt een lijst op van portals voor de huidige DNN-installatie</value>
   </data>
-  <data name="Prompt_ListPortals_NoArgs.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">De opdracht lijst-maken-van-portal neemt geen argumenten of markeringen aan.</value>
+  <data name="Prompt_ListPortals_NoArgs.Text" xml:space="preserve">
+    <value>De opdracht lijst-maken-van-portal neemt geen argumenten of markeringen aan.</value>
   </data>
-  <data name="Prompt_ListPortals_ResultHtml.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">&lt;h4&gt;&lt;/h4&gt;</value>
+  <data name="Prompt_ListPortals_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;&lt;/h4&gt;</value>
   </data>
-  <data name="Prompt_ListSites_Description.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Haalt een lijst op van portals voor de huidige DNN-installatie</value>
+  <data name="Prompt_ListPortals_Results.Text" xml:space="preserve">
+    <value>'{0}' Portal{1} gevonden.</value>
   </data>
-  <data name="Prompt_ListSites_ResultHtml.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">&lt;h4&gt;&lt;/h4&gt;</value>
+  <data name="Prompt_ListSites_Description.Text" xml:space="preserve">
+    <value>Haalt een lijst op van portals voor de huidige DNN-installatie</value>
   </data>
-  <data name="Prompt_ModuleAdded.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Module {1} sucessvol toegevoegd {0}</value>
+  <data name="Prompt_ListSites_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;&lt;/h4&gt;</value>
   </data>
-  <data name="Prompt_ModuleCopied.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">De module is met succes gekopieerd.</value>
+  <data name="Prompt_ModuleAdded.Text" xml:space="preserve">
+    <value>Module {1} sucessvol toegevoegd {0}</value>
   </data>
-  <data name="Prompt_ModuleDeleted.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">De module is met succes verwijderd.</value>
+  <data name="Prompt_ModuleCopied.Text" xml:space="preserve">
+    <value>De module is met succes gekopieerd.</value>
   </data>
-  <data name="Prompt_ModuleMoved.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">De module is met succes verplaatst.</value>
+  <data name="Prompt_ModuleDeleted.Text" xml:space="preserve">
+    <value>De module is met succes verwijderd.</value>
   </data>
-  <data name="Prompt_ModuleNotFound.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Module met id {0} kon niet gevonden worden op pagina met id {1}</value>
+  <data name="Prompt_ModuleMoved.Text" xml:space="preserve">
+    <value>De module is met succes verplaatst.</value>
   </data>
-  <data name="Prompt_ModulesCategory.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Modulecommando's</value>
+  <data name="Prompt_ModuleNotFound.Text" xml:space="preserve">
+    <value>Module met id {0} kon niet gevonden worden op pagina met id {1}</value>
   </data>
-  <data name="Prompt_MoveModule_Description.Text" lastModified="2018-07-18 17:04:18">
-    <value xml:space="preserve">Verplaatst een module naar de opgegeven pagina</value>
+  <data name="Prompt_ModulesCategory.Text" xml:space="preserve">
+    <value>Modulecommando's</value>
   </data>
-  <data name="Prompt_MoveModule_FlagId.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Geeft expliciet de module-ID op van de module die moet worden gekopieerd. Gebruik van de markering is niet verplicht. U kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
+  <data name="Prompt_MoveModule_Description.Text" xml:space="preserve">
+    <value>Verplaatst een module naar de opgegeven pagina</value>
   </data>
-  <data name="Prompt_MoveModule_FlagPageId.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Het pagina-ID van de pagina die de module bevat die u wilt kopiëren.</value>
+  <data name="Prompt_MoveModule_FlagId.Text" xml:space="preserve">
+    <value>Geeft expliciet de module-ID op van de module die moet worden gekopieerd. Gebruik van de markering is niet verplicht. Je kunt eenvoudig de ID-waarde als het eerste argument opgeven.</value>
   </data>
-  <data name="Prompt_MoveModule_FlagPane.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Geef het deelvenster op waar de module naar moet worden verplaatst. Als dit niet het geval is, wordt de module verplaatst naar de ContentPane.</value>
+  <data name="Prompt_MoveModule_FlagPageId.Text" xml:space="preserve">
+    <value>Het pagina-ID van de pagina die de module bevat die je wilt kopiëren.</value>
   </data>
-  <data name="Prompt_MoveModule_FlagToPageId.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Het pagina-ID van de doelpagina. De pagina waarnaar u de module wilt kopiëren.</value>
+  <data name="Prompt_MoveModule_FlagPane.Text" xml:space="preserve">
+    <value>Geef het deelvenster op waar de module naar moet worden verplaatst. Als dit niet het geval is, wordt de module verplaatst naar de ContentPane.</value>
   </data>
-  <data name="Prompt_MoveModule_ResultHtml.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">&lt;h4&gt;Verplaats een module van de ene pagina naar de andere&lt;/h4&gt;
+  <data name="Prompt_MoveModule_FlagToPageId.Text" xml:space="preserve">
+    <value>Het pagina-ID van de doelpagina. De pagina waarnaar je de module wilt kopiëren.</value>
+  </data>
+  <data name="Prompt_MoveModule_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Verplaats een module van de ene pagina naar de andere&lt;/h4&gt;
     &lt;p&gt;Deze opdracht verplaatst de module met ModuleID 358 van de pagina met PaginaID 71 naar de pagina met een PaginaID van 75.&lt;/p&gt;
     &lt;code class="block"&gt;move-module 358 --pageid 71 --topageid 75&lt;/code&gt;
 
@@ -955,63 +1007,66 @@
       &lt;/tr&gt;
     &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_NoModules.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Geen modules gevonden.</value>
+  <data name="Prompt_NoModule.Text" xml:space="preserve">
+    <value>No module found with id {0}.</value>
   </data>
-  <data name="Prompt_NoModulesAdded.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Er zijn geen modules toegevoegd</value>
+  <data name="Prompt_NoModules.Text" xml:space="preserve">
+    <value>Geen modules gevonden.</value>
   </data>
-  <data name="Prompt_NotAuthorized.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">U bent niet gemachtigd om toegang tot deze bron te krijgen. Er kan een time-out opgetreden zijn voor je sessie. Zo ja, log opnieuw in.</value>
+  <data name="Prompt_NoModulesAdded.Text" xml:space="preserve">
+    <value>Er zijn geen modules toegevoegd</value>
   </data>
-  <data name="Prompt_NotImplemented.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Deze functionaliteit is nog niet geïmplementeerd.</value>
+  <data name="Prompt_NotAuthorized.Text" xml:space="preserve">
+    <value>Je bent niet gemachtigd om toegang tot deze bron te krijgen. Er kan een time-out opgetreden zijn voor je sessie. Zo ja, log opnieuw in.</value>
   </data>
-  <data name="Prompt_Options.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Opties</value>
+  <data name="Prompt_NotImplemented.Text" xml:space="preserve">
+    <value>Deze functionaliteit is nog niet geïmplementeerd.</value>
   </data>
-  <data name="Prompt_PageNotFound.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Kan doelpagina niet laden. Geen pagina gevonden in de portal met ID '{0}'</value>
+  <data name="Prompt_Options.Text" xml:space="preserve">
+    <value>Opties</value>
   </data>
-  <data name="Prompt_PagingMessage.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Pagina {0} van {1}.</value>
+  <data name="Prompt_PageNotFound.Text" xml:space="preserve">
+    <value>Kan doelpagina niet laden. Geen pagina gevonden in de portal met ID '{0}'</value>
   </data>
-  <data name="Prompt_PagingMessageWithLoad.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Pagina {0} van {1}. Druk op een willekeurige toets om de volgende pagina te laden. Druk op CTRL + X om te beëindigen.</value>
+  <data name="Prompt_PagingMessage.Text" xml:space="preserve">
+    <value>Pagina {0} van {1}.</value>
   </data>
-  <data name="Prompt_PortalCategory.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Portal-opdrachten</value>
+  <data name="Prompt_PagingMessageWithLoad.Text" xml:space="preserve">
+    <value>Pagina {0} van {1}. Druk op een willekeurige toets om de volgende pagina te laden. Druk op CTRL + X om te beëindigen.</value>
   </data>
-  <data name="Prompt_Reload_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Vernieuwt de huidige pagina</value>
+  <data name="Prompt_PortalCategory.Text" xml:space="preserve">
+    <value>Portal-opdrachten</value>
   </data>
-  <data name="Prompt_Required.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Verplicht</value>
+  <data name="Prompt_Reload_Description.Text" xml:space="preserve">
+    <value>Vernieuwt de huidige pagina</value>
   </data>
-  <data name="Prompt_RestartApplication_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Begint een herstart van de DNN-instantie en vernieuwt de pagina.</value>
+  <data name="Prompt_Required.Text" xml:space="preserve">
+    <value>Verplicht</value>
   </data>
-  <data name="Prompt_RestartApplication_ResultHtml.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">&lt;h4&gt;Resultaten&lt;/h4&gt;
+  <data name="Prompt_RestartApplication_Description.Text" xml:space="preserve">
+    <value>Begint een herstart van de DNN-instantie en vernieuwt de pagina.</value>
+  </data>
+  <data name="Prompt_RestartApplication_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;h4&gt;Resultaten&lt;/h4&gt;
     &lt;table class="command-result-tbl"&gt;
       &lt;tr&gt;&lt;td&gt;Applicatie is herstart&lt;/td&gt;&lt;/tr&gt;
       &lt;tr&gt;&lt;td&gt;Vernieuwen in 3 seconden&lt;/td&gt;&lt;/tr&gt;
     &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_ServerError.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">De server is een probleem tegengekomen en kon uw verzoek niet verwerken. Probeer het later opnieuw.</value>
+  <data name="Prompt_ServerError.Text" xml:space="preserve">
+    <value>De server is een probleem tegengekomen en kon je verzoek niet verwerken. Probeer het later opnieuw.</value>
   </data>
-  <data name="Prompt_SessionTimedOut.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Er kan een time-out opgetreden zijn voor je sessie. Zo ja, log opnieuw in.</value>
+  <data name="Prompt_SessionTimedOut.Text" xml:space="preserve">
+    <value>Er kan een time-out opgetreden zijn voor je sessie. Zo ja, log opnieuw in.</value>
   </data>
-  <data name="Prompt_SetMode_Description.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Stelt de DNN-weergavemodus in. Dit heeft hetzelfde effect als het klikken op de juiste opties in de DNN-bedieningsbalk.</value>
+  <data name="Prompt_SetMode_Description.Text" xml:space="preserve">
+    <value>Stelt de DNN-weergavemodus in. Dit heeft hetzelfde effect als het klikken op de juiste opties in de DNN-bedieningsbalk.</value>
   </data>
-  <data name="Prompt_SetMode_FlagMode.Text" lastModified="2018-07-19 16:46:40">
-    <value xml:space="preserve">Één van de drie weergavemodi: &lt;code&gt;edit&lt;/code&gt;, &lt;code&gt;layout&lt;/code&gt;, or &lt;code&gt;view&lt;/code&gt;. U hoeft de markering &lt;span class="mono"&gt;--mode&lt;/span&gt; niet expliciet op te geven. Typ eenvoudig een van de waarden voor de weergavemodus na de opdracht.</value>
+  <data name="Prompt_SetMode_FlagMode.Text" xml:space="preserve">
+    <value>Één van de drie weergavemodi: &lt;code&gt;edit&lt;/code&gt;, &lt;code&gt;layout&lt;/code&gt;, or &lt;code&gt;view&lt;/code&gt;. Je hoeft de markering &lt;span class="mono"&gt;--mode&lt;/span&gt; niet expliciet op te geven. Typ eenvoudig een van de waarden voor de weergavemodus na de opdracht.</value>
   </data>
-  <data name="Prompt_SetMode_ResultHtml.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">&lt;div&gt;
+  <data name="Prompt_SetMode_ResultHtml.Text" xml:space="preserve">
+    <value>&lt;div&gt;
     &lt;h4&gt;Verander de DNN weergave modus&lt;/h4&gt;
     &lt;code class="block"&gt;
       set-mode layout
@@ -1024,83 +1079,28 @@
     &lt;/code&gt;
   &lt;/div&gt;</value>
   </data>
-  <data name="Prompt_SourceAndTargetPagesAreSame.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Het bron-pagina-ID en het doelpagina-ID kunnen niet hetzelfde zijn.\n</value>
+  <data name="Prompt_SourceAndTargetPagesAreSame.Text" xml:space="preserve">
+    <value>Het bron-pagina-ID en het doelpagina-ID kunnen niet hetzelfde zijn.\n</value>
   </data>
-  <data name="Prompt_Type.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Typ</value>
+  <data name="Prompt_Type.Text" xml:space="preserve">
+    <value>Typ</value>
   </data>
-  <data name="Prompt_UserRestart.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Gebruiker heeft een toepassing opnieuw gestart</value>
+  <data name="Prompt_UserRestart.Text" xml:space="preserve">
+    <value>Gebruiker heeft een toepassing opnieuw gestart</value>
   </data>
-  <data name="Prompt_UserRestart_Error.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Er is een fout opgetreden bij het opnieuw opstarten van de app.</value>
+  <data name="Prompt_UserRestart_Error.Text" xml:space="preserve">
+    <value>Er is een fout opgetreden bij het opnieuw opstarten van de app.</value>
   </data>
-  <data name="Prompt_UserRestart_Success.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Applicatie is herstart</value>
+  <data name="Prompt_UserRestart_Success.Text" xml:space="preserve">
+    <value>Applicatie is herstart</value>
   </data>
-  <data name="PromptGreeting.Text" lastModified="2018-07-19 21:29:14">
-    <value xml:space="preserve">Prompt {0} Typ \'help\' om een lijst van commando's te verkrijgen</value>
+  <data name="PromptGreeting.Text" xml:space="preserve">
+    <value>Prompt {0} Typ \'help\' om een lijst van commando's te verkrijgen</value>
   </data>
-  <data name="ReloadingText.Text" lastModified="2018-07-20 11:34:04">
-    <value xml:space="preserve">Vernieuwen in 3 seconden.</value>
+  <data name="ReloadingText.Text" xml:space="preserve">
+    <value>Vernieuwen in 3 seconden.</value>
   </data>
-  <data name="SessionHisotryCleared.Text" lastModified="2018-07-20 13:34:22">
-    <value xml:space="preserve">Sessieopdrachtgeschiedenis gewist.</value>
-  </data>
-  <data name="InValidPortalId.Text">
-    <value>Portal Id {0} behoort niet tot de Site Group.</value>
-  </data>
-  <data name="Prompt_CommandHelpSyntax.Text">
-    <value>&lt;section class="dnn-prompt-inline-help"&gt;
-  &lt;h3&gt;Basic Syntax&lt;/h3&gt;
-  &lt;p&gt;
-    &lt;em&gt;Prompt&lt;/em&gt; functions in a way similar to a Terminal, Bash shell, Windows CMD shell, or Powershell. You enter a command and hit &lt;code&gt;ENTER&lt;/code&gt; and the computer responds with a result. For very simple commands like &lt;code&gt;help&lt;/code&gt; or &lt;code&gt;list-modules&lt;/code&gt;, that's all you need. Some commands, though, may require additional data or they may allow you to provide additional options.
-  &lt;/p&gt;
-  &lt;p&gt;
-    Specifying a target or context for a command: For commands that operate on an object like a user, or that require a context like a page, you simply provide that information after the command. For example, to find the user &lt;em&gt;jsmith&lt;/em&gt; using the &lt;code&gt;get-user&lt;/code&gt; command, you would type: &lt;code&gt;get-user jsmith&lt;/code&gt; followed by the &lt;code&gt;ENTER&lt;/code&gt; key to submit it. If you will be specifying flags (see next paragraph), those should &lt;em&gt;always come after&lt;/em&gt; the target/context of the command.
-  &lt;/p&gt;
-  &lt;p&gt;
-    Specifying Options to Commands: Some commands require even more data or allow you to specify optional configuration information. In &lt;em&gt;Prompt&lt;/em&gt; we call these &amp;quot;flags&amp;quot;. These should come &lt;em&gt;after&lt;/em&gt; any target/context needed by the command (see above paragraph) and &lt;em&gt;must&lt;/em&gt; be preceded with two hyphens or dashes (&lt;code&gt;--&lt;/code&gt;). There should be no spaces between the dashes and there should be no space between the dashes and the name of the flag. If then flag requires a value, you add that after the flag.
-  &lt;/p&gt;
-  &lt;p&gt;
-    As an example of using flags, take the &lt;code&gt;get-user&lt;/code&gt; command. By default, you would specify the username of the user you want to find. However, you can also search by their email address. In that case, you would use the &lt;code&gt;--email&lt;/code&gt; flag. Here's how you would use it:
-  &lt;/p&gt;
-  &lt;code class="block"&gt;
-    get-user --email jsmith@sample.com
-  &lt;/code&gt;
-  &lt;p&gt;
-    If the value of a flag is more than one word, enclose it in double quotes like so:
-  &lt;/p&gt;
-  &lt;code class="block"&gt;
-    set-page --title "My Page"
-  &lt;/code&gt;
-
-  &lt;h4&gt;See Also&lt;/h4&gt;
-  &lt;a data-cmd="help learn" class="dnn-prompt-cmd-insert" href="#"&gt;Learning Prompt Commands&lt;/a&gt;
-  &lt;a data-cmd="help" class="dnn-prompt-cmd-insert" href="#"&gt;Prompt Commands List&lt;/a&gt;
-
-&lt;/section&gt;</value>
-  </data>
-  <data name="Prompt_CommandNotFound.Text">
-    <value>Unable to find help for that command</value>
-  </data>
-  <data name="Prompt_Default.Text">
-    <value>Default</value>
-  </data>
-  <data name="Prompt_GetHost_OkMessage.Text">
-    <value>get-host command executed successfully.</value>
-  </data>
-  <data name="Prompt_GetModule_Result.Text">
-    <value>Module '{0}' is gevonden op pagina '{1}'.</value>
-  </data>
-  <data name="Prompt_GetPortal_Found.Text">
-    <value>Portal '{0}' is gevonden</value>
-  </data>
-  <data name="Prompt_ListPortals_Results.Text">
-    <value>'{0}' Portal{1} gevonden.</value>
-  </data>
-  <data name="Prompt_NoModule.Text">
-    <value>No module found with id {0}.</value>
+  <data name="SessionHisotryCleared.Text" xml:space="preserve">
+    <value>Sessieopdrachtgeschiedenis gewist.</value>
   </data>
 </root>

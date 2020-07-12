@@ -12,97 +12,91 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Instellingen voor Zoekresultaten</value>
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>Instellingen voor Zoekresultaten</value>
   </data>
-  <data name="filtersRequired.Text">
-    <value xml:space="preserve">Er moet tenminste één content type worden geselecteerd</value>
+  <data name="filtersRequired.Text" xml:space="preserve">
+    <value>Er moet tenminste één content type worden geselecteerd</value>
   </data>
-  <data name="linkTargetOnSamePage.Text">
-    <value xml:space="preserve">Op dezelfde pagina</value>
+  <data name="linkTargetOnSamePage.Text" xml:space="preserve">
+    <value>Op dezelfde pagina</value>
   </data>
-  <data name="linkTargetOpenNewPage.Text">
-    <value xml:space="preserve">Open nieuwe pagina</value>
+  <data name="linkTargetOpenNewPage.Text" xml:space="preserve">
+    <value>Open nieuwe pagina</value>
   </data>
-  <data name="plEnableWildSearch.Help">
-    <value xml:space="preserve">Zoekacties kunnen worden uitgevoerd door delen van woorden in het zoekvenster in te voeren. in de zoekresultaten zullen dan alle resultaten terugkomen die het hele woord of een deel ervan bevatten. Schakel deze optie uit als het genereren van de zoekresultaten te lang duurt.</value>
+  <data name="plEnableWildSearch.Help" xml:space="preserve">
+    <value>Zoekacties kunnen worden uitgevoerd door delen van woorden in het zoekvenster in te voeren. in de zoekresultaten zullen dan alle resultaten terugkomen die het hele woord of een deel ervan bevatten. Schakel deze optie uit als het genereren van de zoekresultaten te lang duurt.</value>
   </data>
-  <data name="plEnableWildSearch.Text">
-    <value xml:space="preserve">Zoekacties op basis van wildcard standaard toestaan</value>
+  <data name="plEnableWildSearch.Text" xml:space="preserve">
+    <value>Zoekacties op basis van wildcard standaard toestaan</value>
   </data>
-  <data name="plMaxDescriptionLength.Help" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Maximum lengte beschrijving</value>
+  <data name="plMaxDescriptionLength.Help" xml:space="preserve">
+    <value>Maximum lengte beschrijving</value>
   </data>
-  <data name="plMaxDescriptionLength.Text" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Maximum lengte beschrijving</value>
+  <data name="plMaxDescriptionLength.Text" xml:space="preserve">
+    <value>Maximum lengte beschrijving</value>
   </data>
-  <data name="plResultsScopeForFilters.Help">
-    <value xml:space="preserve">Begrens de zoekresultaten door een inhoud type(s) te selecteren</value>
+  <data name="plResultsScopeForFilters.Help" xml:space="preserve">
+    <value>Begrens de zoekresultaten door een inhoud type(s) te selecteren</value>
   </data>
-  <data name="plResultsScopeForFilters.Text">
-    <value xml:space="preserve">Resultaten scope voor inhoud types</value>
+  <data name="plResultsScopeForFilters.Text" xml:space="preserve">
+    <value>Resultaten scope voor inhoud types</value>
   </data>
-  <data name="plResultsScopeForPortals.Help">
-    <value xml:space="preserve">Begrens de zoekresultaten door een site(s) te selecteren</value>
+  <data name="plResultsScopeForPortals.Help" xml:space="preserve">
+    <value>Begrens de zoekresultaten door een site(s) te selecteren</value>
   </data>
-  <data name="plResultsScopeForPortals.Text">
-    <value xml:space="preserve">Resultaten scope voor site(s)</value>
+  <data name="plResultsScopeForPortals.Text" xml:space="preserve">
+    <value>Resultaten scope voor site(s)</value>
   </data>
-  <data name="plResultsScopeForRoles.Help" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Limiteer het zoekresultaaat door een rol of rollen te kiezen</value>
+  <data name="plResultsScopeForRoles.Help" xml:space="preserve">
+    <value>Limiteer het zoekresultaaat door een rol of rollen te kiezen</value>
   </data>
-  <data name="plResultsScopeForRoles.Text" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Scoop van het resuktaat voor de rol(len)</value>
+  <data name="plResultsScopeForRoles.Text" xml:space="preserve">
+    <value>Scope van het resuktaat voor de rol(len)</value>
   </data>
-  <data name="plShowDescription.Help" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Toon beschrijving</value>
+  <data name="plShowDescription.Help" xml:space="preserve">
+    <value>Toon beschrijving</value>
   </data>
-  <data name="plShowDescription.Text" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Toon beschrijving</value>
+  <data name="plShowDescription.Text" xml:space="preserve">
+    <value>Toon beschrijving</value>
   </data>
-  <data name="plShowDescriptionForSnippet.Help" lastModified="2018-07-24 08:13:17">
-    <value xml:space="preserve">Toon beschrijving i.p.v. snippet. Snippet zal worden getoond als er geen beschrijving aanwezig is.</value>
+  <data name="plShowFriendlyTitle.Help" xml:space="preserve">
+    <value>Toon de paginatitel in plaats van de interne naam</value>
   </data>
-  <data name="plShowDescriptionForSnippet.Text" lastModified="2018-07-24 08:13:17">
-    <value xml:space="preserve">Toon beschrijving i.p.v. zoek snippet</value>
+  <data name="plShowFriendlyTitle.Text" xml:space="preserve">
+    <value>Toon gebruikersvriendelijke titel</value>
   </data>
-  <data name="plShowFriendlyTitle.Help" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Toon de paginatitel in plaats van de interne naam</value>
+  <data name="plShowLastUpdated.Help" xml:space="preserve">
+    <value>Toon wanneer de content voor het laatst is bijgewerkt</value>
   </data>
-  <data name="plShowFriendlyTitle.Text" lastModified="2020-05-10 17:09:13">
-    <value xml:space="preserve">Toon gebruikersvriendelijke titel</value>
+  <data name="plShowLastUpdated.Text" xml:space="preserve">
+    <value>Toon wanneer laatste keer bijgewerkt</value>
   </data>
-  <data name="plShowLastUpdated.Help" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Toon wanneer de content voor het laatst is bijgewerkt</value>
+  <data name="plShowSnippet.Help" xml:space="preserve">
+    <value>Toon waar de zoektekst in het resultaat voorkomt</value>
   </data>
-  <data name="plShowLastUpdated.Text" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Toon wanneer laatste keer bijgewerkt</value>
+  <data name="plShowSnippet.Text" xml:space="preserve">
+    <value>Toon zinsdeel</value>
   </data>
-  <data name="plShowSnippet.Help" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Toon waar de zoektekst in het resultaat voorkomt</value>
+  <data name="plShowSource.Help" xml:space="preserve">
+    <value>Toon de bron van de content, bijvoorbeeld pagina, document</value>
   </data>
-  <data name="plShowSnippet.Text" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Toon zinsdeel</value>
+  <data name="plShowSource.Text" xml:space="preserve">
+    <value>Toon bron</value>
   </data>
-  <data name="plShowSource.Help" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Toon de bron van de content, bijvoorbeeld pagina, document</value>
+  <data name="plShowTags.Help" xml:space="preserve">
+    <value>Toon tags</value>
   </data>
-  <data name="plShowSource.Text" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Toon bron</value>
+  <data name="plShowTags.Text" xml:space="preserve">
+    <value>Toon tags</value>
   </data>
-  <data name="plShowTags.Help" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Toon tags</value>
+  <data name="plTitleLinkTarget.Help" xml:space="preserve">
+    <value>Stel vast of een link in het zelfde venster wordt geopend of dat er een nieuwe venster wordt geopende voor het weergeven van de resultaten</value>
   </data>
-  <data name="plShowTags.Text" lastModified="2020-05-10 15:09:00">
-    <value xml:space="preserve">Toon tags</value>
+  <data name="plTitleLinkTarget.Text" xml:space="preserve">
+    <value>Titel link doel</value>
   </data>
-  <data name="plTitleLinkTarget.Help">
-    <value xml:space="preserve">Stel vast of een link in het zelfde venster wordt geopend of dat er een nieuwe venster wordt geopende voor het weergeven van de resultaten</value>
-  </data>
-  <data name="plTitleLinkTarget.Text">
-    <value xml:space="preserve">Titel link doel</value>
-  </data>
-  <data name="portalsRequired.Text">
-    <value xml:space="preserve">Er moet tenminste één site worden geselecteerd</value>
+  <data name="portalsRequired.Text" xml:space="preserve">
+    <value>Er moet tenminste één site worden geselecteerd</value>
   </data>
 </root>

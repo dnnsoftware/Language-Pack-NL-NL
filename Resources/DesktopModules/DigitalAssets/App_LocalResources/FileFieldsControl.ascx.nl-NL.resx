@@ -12,31 +12,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="FileAttrbutesLabel.Help">
-    <value xml:space="preserve">Bewerk bestand attributen</value>
+  <data name="FileAttrbutesLabel.Help" xml:space="preserve">
+    <value>Bewerk bestandsattributen</value>
   </data>
-  <data name="FileAttributeArchive.Text">
-    <value xml:space="preserve">Archiveren</value>
+  <data name="FileAttributeArchive.Text" xml:space="preserve">
+    <value>Archiveren</value>
   </data>
-  <data name="FileAttributeHidden.Text">
-    <value xml:space="preserve">Verborgen</value>
+  <data name="FileAttributeHidden.Text" xml:space="preserve">
+    <value>Verborgen</value>
   </data>
-  <data name="FileAttributeReadonly.Text">
-    <value xml:space="preserve">Alleen-lezen</value>
+  <data name="FileAttributeReadonly.Text" xml:space="preserve">
+    <value>Alleen-lezen</value>
   </data>
-  <data name="FileAttributesLabel.Text">
-    <value xml:space="preserve">Attributen</value>
+  <data name="FileAttributesLabel.Text" xml:space="preserve">
+    <value>Attributen</value>
   </data>
-  <data name="FileAttributeSystem.Text">
-    <value xml:space="preserve">Systeem</value>
+  <data name="FileAttributeSystem.Text" xml:space="preserve">
+    <value>Systeem</value>
   </data>
-  <data name="FileNameLabel.Help">
-    <value xml:space="preserve">Bewerk de huidige bestandsnaam</value>
+  <data name="FileNameLabel.Help" xml:space="preserve">
+    <value>Bewerk de huidige bestandsnaam</value>
   </data>
-  <data name="FileNameLabel.Text">
-    <value xml:space="preserve">Naam</value>
+  <data name="FileNameLabel.Text" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="FileNameRequired.ErrorMessage">
-    <value xml:space="preserve">Bestandsnaam is vereist</value>
+  <data name="FileNameRequired.ErrorMessage" xml:space="preserve">
+    <value>Een bestandsnaam is vereist</value>
   </data>
 </root>

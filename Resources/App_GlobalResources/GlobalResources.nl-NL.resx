@@ -1,110 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
-    Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
-    associated with the data types.
-    
-    Example:
-    
-    ... ado.net/XML headers & schema ...
-    <resheader name="resmimetype">text/microsoft-resx</resheader>
-    <resheader name="version">2.0</resheader>
-    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-        <value>[base64 mime encoded serialized .NET Framework object]</value>
-    </data>
-    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-        <comment>This is a comment</comment>
-    </data>
-                
-    There are any number of "resheader" rows that contain simple 
-    name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
-    mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
-    extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
-    read any of the formats listed below.
-    
-    mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-            : and then encoded with base64 encoding.
-    
-    mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-            : and then encoded with base64 encoding.
-
-    mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
-            : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.
-    -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -112,16 +7,16 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="//AboutUs.String" xml:space="preserve">
     <value>Over ons</value>
   </data>
   <data name="//AboutUs//StyleGuide.String" xml:space="preserve">
-    <value>Stijl gids</value>
+    <value>Stijlgids</value>
   </data>
   <data name="//ActivityFeed.String" xml:space="preserve">
     <value>Activiteitenoverzicht</value>
@@ -184,15 +79,13 @@
         &amp;lt;p&amp;gt;
             {0}&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
-            Uw DotNetNuke installatie lijkt een probleem met de beveiligingsinstellingen te
-            hebben (waarschijnlijk machtigingen). DotNetNuke heeft uitgebreide file upload mogelijkheden
+            Je DNN installatie lijkt een probleem met de beveiligingsinstellingen te
+            hebben (waarschijnlijk machtigingen). DNN heeft uitgebreide bestandsupload mogelijkheden
             voor de inhoud, modules en skins. Deze functies vereisen aangepaste beveiligingsinstellingen
-            zodat de applicatie in staat is om te maken en te verwijderen bestanden in uw website.&amp;lt;/p&amp;gt;
+            zodat de applicatie in staat is om deze aan te maken en/of te verwijderen in je site.&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
-            Met behulp van Windows Verkenner, bladert u naar de hoofdmap van de website. Rechtsklik
-            op de map en selecteer Delen en beveiliging uit het menu (let op dat als u gebruik
-            maakt van Windows XP moet u mogelijk &amp;lt;a href="http://support.microsoft.com/kb/307874/nl-nl"&amp;gt;
-                eenvoudig delen van bestanden uitschakelen&amp;lt;/a&amp;gt; voordat deze opties worden weergegeven).
+            Op de webserver gebriuikt de de Windows Verkenner, blader je naar de hoofdmap van de website. Rechtsklik
+            op de map en selecteer Delen en beveiliging uit het menu.
             Selecteer het tabblad Beveiliging. Voeg de juiste gebruikersaccount en stel de machtigingen
             in.&amp;lt;/p&amp;gt;
         &amp;lt;ul style="text-align: left; list-style-type: none; list-style-position: outside;"&amp;gt;
@@ -227,14 +120,14 @@
         &amp;lt;p style="color: red; font-weight: bold;"&amp;gt;
             Domeinnaam {0} bestaat niet in de database&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
-            DotNetNuke 
+            DNN
             ondersteunt meerdere websites vanuit een enkele applicatie. Om dit goed te 
             kunnen laten werken, wordt de opgevraagde URL omgezet in een zogenaamde PortalId 
             uit de PortalAlias tabel in de database. Dit proces werkt als volgt:&amp;lt;/p&amp;gt;
         &amp;lt;ol style="text-align: left; list-style-type: decimal; list-style-position: outside;"&amp;gt;
             &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Web Server Processingver Processing&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;
                 &amp;lt;ul style="list-style-type: disc;"&amp;gt;
-                    &amp;lt;li&amp;gt;Zodra de webserver een request ontvangt van de client, wordt the extensie waar 
+                    &amp;lt;li&amp;gt;Zodra de webserver een request ontvangt van de client, wordt the bestandsextensie waar 
                         de URL mee eindigt vergeleken met de Application Extension Mappings zoals 
                         gedefinieer in IIS.&amp;lt;/li&amp;gt;
                     &amp;lt;li&amp;gt;Afhankelijk van de soort match wordt het request door IIS doorgestuurd naar de 
@@ -250,11 +143,11 @@
                     &amp;lt;li&amp;gt;Uit de relevante delen wordt een domeinnaam opgesteld&amp;lt;br /&amp;gt;
                         &amp;lt;br /&amp;gt;Voorbeelden:
                         &amp;lt;br /&amp;gt;
-                        &amp;lt;br /&amp;gt;URL: http://www.domain.com/default.aspx = 
-                        Domeinnaam: www.domain.com&amp;lt;br /&amp;gt;URL: http://209.75.24.131/default.aspx = 
+                        &amp;lt;br /&amp;gt;URL: https://www.domain.com/default.aspx = 
+                        Domeinnaam: www.domain.com&amp;lt;br /&amp;gt;URL: https://209.75.24.131/default.aspx = 
                         Domeinnaam: 209.75.24.131&amp;lt;br /&amp;gt;URL: http://localhost/DotNetNuke/default.aspx = 
-                        Domeinnaam: localhost/DotNetNuke&amp;lt;br /&amp;gt;URL: http://www.domain.com/virtualdirectory/default.aspx = 
-                        DomeinnaaURL: http://www.domain.com/directory/default.aspx = 
+                        Domeinnaam: localhost/DotNetNuke&amp;lt;br /&amp;gt;URL: https://www.domain.com/virtualdirectory/default.aspx = 
+                        DomeinnaaURL: https://www.domain.com/directory/default.aspx = 
                         Domeinnaam: www.domain.com/directory&amp;lt;br /&amp;gt;
                         &amp;lt;br /&amp;gt;&amp;lt;/li&amp;gt;
                     &amp;lt;li&amp;gt;Met behulp van de domeinnaam wordt het bijpassende record uit de PortalAlias 
@@ -275,13 +168,13 @@
     <value>Licentie activeren</value>
   </data>
   <data name="AddFollowerRequestBody.Text" xml:space="preserve">
-    <value>U wordt nu gevolgd door {0}</value>
+    <value>Je wordt nu gevolgd door {0}</value>
   </data>
   <data name="AddFollowerRequestSubject.Text" xml:space="preserve">
-    <value>{0} volgt u nu</value>
+    <value>{0} volgt je nu</value>
   </data>
   <data name="AddFriendRequestBody.Text" xml:space="preserve">
-    <value>{0} wil vrienden worden met u</value>
+    <value>{0} wil vrienden worden met jou</value>
   </data>
   <data name="AddFriendRequestSubject.Text" xml:space="preserve">
     <value>{0} wil vrienden worden</value>
@@ -290,7 +183,7 @@
     <value>Applicatie Upgrades</value>
   </data>
   <data name="AspNetHostingPermission.Text" xml:space="preserve">
-    <value>Deze extensie vereist Full Trust.</value>
+    <value>Deze bestandsextensie vereist Full Trust.</value>
   </data>
   <data name="Authentication.String" xml:space="preserve">
     <value>Authenticatie</value>
@@ -321,6 +214,15 @@
   </data>
   <data name="Can Deploy.Permission" xml:space="preserve">
     <value>Module inzetten</value>
+  </data>
+  <data name="cc_dismiss.Text" xml:space="preserve">
+    <value>Begrepen!</value>
+  </data>
+  <data name="cc_link.Text" xml:space="preserve">
+    <value>Meer informatie</value>
+  </data>
+  <data name="cc_message.Text" xml:space="preserve">
+    <value>Deze website gebruikt cookies voor de best mogelijke gebruikerservaring.</value>
   </data>
   <data name="ClearCache.Action" xml:space="preserve">
     <value>Verversen</value>
@@ -361,11 +263,11 @@
   <data name="EMAIL_AFFILIATE_NOTIFICATION_BODY.Text" xml:space="preserve">
     <value>Beste [Custom:0],
 
-Uw account voor het {Portal:PortalName] affiliatie programma is aangemaakt.
+Je  account voor het {Portal:PortalName] affiliatie programma is aangemaakt.
 Gebruik de volgende URL om te linken naar onze site:
 
 [Custom:1]
-Dank u,
+Hartelijk dank,
 
 [Portal:PortalName]</value>
   </data>
@@ -397,7 +299,7 @@ Gelieve deze e-mail niet te beantwoorden.</value>
     <value>&amp;lt;h1&amp;gt;Nieuwsbrief verzendrapport&amp;lt;/h1&amp;gt;
     Verzenden gestart op: [Custom:0]&amp;lt;br /&amp;gt;
     Aantal ontvangers: [Custom:1]&amp;lt;br /&amp;gt;
-    Email berichten: [Custom:2]&amp;lt;br /&amp;gt;
+    E-mailberichten: [Custom:2]&amp;lt;br /&amp;gt;
     Verzenden compleet op: [Custom:3]&amp;lt;br /&amp;gt;
     [Custom:4|Aantal fouten: {0}&amp;lt;br /&amp;gt;]
     &amp;lt;br /&amp;gt;
@@ -429,8 +331,8 @@ Verzenden compleet op:      [Custom:3]
     <value>Bulkmail '{0}' ingediend</value>
   </data>
   <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text" xml:space="preserve">
-    <value>&amp;lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&amp;gt;
-&amp;lt;html xmlns="http://www.w3.org/1999/xhtml"&amp;gt;
+    <value>&amp;lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&amp;gt;
+&amp;lt;html xmlns="https://www.w3.org/1999/xhtml"&amp;gt;
 &amp;lt;head&amp;gt;
     &amp;lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&amp;gt;
     &amp;lt;style type="text/css"&amp;gt;
@@ -571,8 +473,8 @@ Verzenden compleet op:      [Custom:3]
                                         &amp;lt;tr&amp;gt;
                                             &amp;lt;td align="center"&amp;gt;
                                                 &amp;lt;a href="[UNSUBSCRIBEURL]" &amp;gt; Manage your Subscriptions&amp;lt;/a&amp;gt; &amp;amp;nbsp; |  &amp;amp;nbsp;
-                                                &amp;lt;a href="http://www.twitter.com/" &amp;gt; Follow us on Twitter&amp;lt;/a&amp;gt; &amp;amp;nbsp; |  &amp;amp;nbsp;
-                                                &amp;lt;a href="http://www.facebook.com/" &amp;gt; Become a fan on Facebook&amp;lt;/a&amp;gt;
+                                                &amp;lt;a href="https://www.twitter.com/" &amp;gt; Follow us on Twitter&amp;lt;/a&amp;gt; &amp;amp;nbsp; |  &amp;amp;nbsp;
+                                                &amp;lt;a href="https://www.facebook.com/" &amp;gt; Become a fan on Facebook&amp;lt;/a&amp;gt;
 
                                             &amp;lt;/td&amp;gt;
                                         &amp;lt;/tr&amp;gt;
@@ -630,7 +532,7 @@ Verzenden compleet op:      [Custom:3]
   <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" xml:space="preserve">
     <value>Beste [Profile:FullName],
 
-U heeft uw wachtwoord herstel opgevraagd van de [Portal:PortalName] website.
+Je hebt je wachtwoordherstel aangevraagd van de [Portal:PortalName] website.
 
 Website Addres: [Portal:URL]
 Gebruikersnaam: [User:Username]
@@ -640,7 +542,7 @@ Link naar wachtwoord reset pagina:  [Portal:PASSWORDREMINDERURL]?ctl=PasswordRes
 Met vriendelijke groet,
 [Portal:PortalName]
 
-*NB: als u uw geen wachtwoord herstel heeft opgevraagd, dan kunt u dit bericht negeren.</value>
+*NB: Als je geen wachtwoordherstel hebt aangevraagd, dan kun je dit bericht negeren.</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] Wachtwoord opvragen</value>
@@ -658,16 +560,17 @@ Met vriendelijk groet,
 *Opmerking: Als je geen wachtwoord reset link hebt aangevraagd, verwijder dan dit bericht.</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] wachtwoord herinnering</value>
+    <value>[Portal:PortalName] wachtwoordherinnering</value>
   </data>
   <data name="EMAIL_PASSWORD_UPDATED_BODY.Text" xml:space="preserve">
     <value>Geachte [User:DisplayName], 
 	
-	Uw wachtwoord voor [Portal:PortalName] is veranderd. 
+	Je wachtwoord voor [Portal:PortalName] is veranderd. 
 	
-	Contacteer the sitebeheerder op het volgende emailadres - [Portal:Email]
+	Neem contact op met de sitebeheerder op het volgende e-mailadres - [Portal:Email]
 	
-	Met vriendelijke groet,[Portal:PortalName]</value>
+	Met vriendelijke groet,
+[Portal:PortalName]</value>
   </data>
   <data name="EMAIL_PASSWORD_UPDATED_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] Wachtwoord bijgewerkt</value>
@@ -675,16 +578,16 @@ Met vriendelijk groet,
   <data name="EMAIL_PORTAL_SIGNUP_BODY.Text" xml:space="preserve">
     <value>Beste [User:FullName],
 
-Uw web is aangemaakt. Lees alstublieft de volgend informatie zorgvuldig door, en archiveer dit bericht voor eventueel toekomstig gebruik.
+Je site is aangemaakt. Lees alstublieft de volgend informatie zorgvuldig door, en archiveer dit bericht voor eventueel toekomstig gebruik.
 
 Website Adres: [Portal:URL]
 Gebruikersnaam: [Membership:UserName]
 Wachtwoord: [Membership:Password]
 Verificatiecode: [User:VerificationCode]
 
-Maak alstublieft gebruik van de gelegenheid om de website nu te bezoeken en maak zo goed mogelijk gebruik van de mogelijkheden!
+Maak gebruik van de gelegenheid om de site nu te bezoeken en maak zo goed mogelijk gebruik van de mogelijkheden!
 
-Dank u voor het gebruik van onze diensten
+Dank voor het gebruik van onze diensten
 
 [Host:HostTitle]
 </value>
@@ -695,9 +598,9 @@ Dank u voor het gebruik van onze diensten
   <data name="EMAIL_PROFILE_UPDATED_BODY.Text" xml:space="preserve">
     <value>Beste [Profile:FullName],
 
-Uw profiel voor  de [Portal:PortalName] website is succesvol bijgewerkt.
+Je profiel voor  de [Portal:PortalName] site is succesvol bijgewerkt.
 
-Sincerely,
+Met vriendelijke groet,
 [Portal:PortalName]
 </value>
   </data>
@@ -707,14 +610,14 @@ Sincerely,
   <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text" xml:space="preserve">
     <value>Beste [User:FullName],
 
-De toegangsrollen van uw gebruikersaccount voor de [Portal:PortalName] website zijn recentelijk aangepast, en bevat nu ook deze rol:
+De toegangsrollen van je gebruikersaccount voor de [Portal:PortalName] website zijn recentelijk aangepast, en bevat nu ook deze rol:
 
 Rol: [Custom:0]
 Beschrijving: [Custom:1]
 Ingangsdatum: [Custom:2]
 Verloopdatum: [Custom:3]
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 </value>
   </data>
@@ -724,14 +627,14 @@ Dank u voor het in ons gestelde vertrouwen,
   <data name="EMAIL_ROLE_UNASSIGNMENT_BODY.Text" xml:space="preserve">
     <value>Beste [User:FullName],
 
-De toegang van uw gebruikersaccount voor de [Portal:PortalName] website is recentelijk aangepast, en bevat nu NIET meer deze rol:
+De toegang van je gebruikersaccount voor de [Portal:PortalName] site is recentelijk aangepast, en bevat nu NIET meer deze rol:
 
 Rol: [Custom:0]
 Beschrijving: [Custom:1]
-Dank u voor het in ons gestelde vertrouwen,
+Dank je voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]</value>
   </data>
   <data name="EMAIL_ROLE_UNASSIGNMENT_SUBJECT.Text" xml:space="preserve">
@@ -740,14 +643,14 @@ Dank u voor het in ons gestelde vertrouwen,
   <data name="EMAIL_ROLE_UPDATE_BODY.Text" xml:space="preserve">
     <value>Geachte [User:DisplayName],
 
-Uw account bij [Portal:PortalName] is recentelijk bijgewerkt om toegang tot de volgende rol aan te passen:
+Je account bij [Portal:PortalName] is recentelijk bijgewerkt om toegang tot de volgende rol aan te passen:
 
 Rol: [Custom:0]
 Beschrijving: [Custom:1]
 Datum Ingang: [Custom:2]
 Datum Verlopen: [Custom:3]
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 </value>
   </data>
@@ -767,15 +670,26 @@ Dank u voor het in ons gestelde vertrouwen,
     <value>Nieuw bericht van {0}</value>
   </data>
   <data name="EMAIL_USER_AUTHORIZED_BODY.Text" xml:space="preserve">
-    <value>Beste  [User:DisplayName], Bedankt voor uw registratie op [Portal:PortalName]. Uw registratie is goedgekeurd en uw account is nu actief. Website Adres:  [Portal:URL] Gebruikersnaam:  [User:UserName] Bij voorbaar dank, wij waarderen uw bijdrage...[Portal:PortalName]</value>
+    <value>Beste  [User:DisplayName], 
+
+Bedankt voor je registratie op [Portal:PortalName]. Je registratie is goedgekeurd en je account is nu actief. 
+
+Website Adres:  [Portal:URL] 
+Gebruikersnaam:  [User:UserName] 
+
+Dank voor het in ons gestelde vertrouwen,
+
+[Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" xml:space="preserve">
     <value>Registratie is goedgekeurd voor  [Portal:URL]</value>
   </data>
   <data name="EMAIL_USER_LOCKOUT_BODY.Text" xml:space="preserve">
-    <value>Er is een poging gedaan om met een afgesloten gebruikersaccount in te loggen ( gebruikersnaam: [Custom:0] ) op [Date:Current]. Wellicht wilt u dit verder onderzoeken...
+    <value>Er is een poging gedaan om met een afgesloten gebruikersaccount in te loggen ( gebruikersnaam: [Custom:0] ) op [Date:Current]. 
 
-Dank U,
+Wellicht wil je dit verder onderzoeken...
+
+Met vriendelijke groet,,
 
 [Portal:PortalName]
 </value>
@@ -794,14 +708,14 @@ Email: [User:Email]</value>
   <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text" xml:space="preserve">
     <value>Beste  [User:DisplayName],
 
-Dank u voor uw registratie voor de [Portal:PortalName] website. Lees de volgende informatie aandachtig en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+Dank voor je registratie voor de [Portal:PortalName] website. Lees de volgende informatie aandachtig en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
 
 Website Adres: [Portal:URL]
 Gebruikersnaam: [User:UserName]
 
-Uw accountgegevens zullen worden gecontroleerd door de website beheerder, u ontvangt een bericht als uw account geactiveerd is.
+Je accountgegevens zullen worden gecontroleerd door de website beheerder, je ontvangt een bericht als je account geactiveerd is.
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]
 </value>
   </data>
@@ -811,14 +725,14 @@ Dank u voor het in ons gestelde vertrouwen,
   <data name="EMAIL_USER_REGISTRATION_PUBLIC_BODY.Text" xml:space="preserve">
     <value>Beste [User:DisplayName],
 
-U bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+Je bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
 
 Website Adres: [Portal:URL]
 Gebruikersnaam: [User:UserName]
 
-U bent van harte welkom!
+Je bent van harte welkom!
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_PUBLIC_SUBJECT.Text" xml:space="preserve">
@@ -826,30 +740,41 @@ Dank u voor het in ons gestelde vertrouwen,
   </data>
   <data name="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text" xml:space="preserve">
     <value>Beste [User:FullName],
-U bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat u dit bericht bewaart voor eventueel toekomstig gebruik.
+
+Je bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
 
 Website Adres: [Portal:URL]
 Gebruikersnaam: [Membership:UserName]
 Wachtwoord: [Membership:Password]
 Verificatiecode: [User:VerificationCode]
 
-U kunt de volgende link gebruiken om de registratie af te ronden: 
+Je kunt de volgende link gebruiken om de registratie af te ronden: 
 
-http://[Portal:URL]/default.aspx?ctl=Login&amp;amp;username=[Membership:UserName]&amp;amp;verificationcode=[User:VerificationCode]
+https://[Portal:URL]/default.aspx?ctl=Login&amp;amp;username=[Membership:UserName]&amp;amp;verificationcode=[User:VerificationCode]
 
-U bent van harte welkom!
+Je bent van harte welkom!
 
-Dank u voor het in ons gestelde vertrouwen,
+Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] Nieuwe gebruikersregistratie</value>
   </data>
   <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],Je account voor [Portal:PortalName] Is niet meer geauthoriseerd. Website Adres: [Portal:URL]Gebruikersnaam: [User:UserName]Mocht u vragen hebben, Neem contact op met de websiteadmin [Portal:Email]Met vriendelijke groet,[Portal:PortalName]</value>
+    <value>Beste [User:DisplayName],
+
+Je account voor [Portal:PortalName] Is niet meer geauthoriseerd. 
+
+Website Adres: [Portal:URL]
+Gebruikersnaam: [User:UserName]
+
+Mocht je vragen hebben, neem contact op met de websitebeheerder bia  [Portal:Email]
+
+Met vriendelijke groet,[
+Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" xml:space="preserve">
-    <value>Uw account is niet langer geauthoriseerd voor [Portal:URL]</value>
+    <value>Je account is niet langer geauthoriseerd voor [Portal:URL]</value>
   </data>
   <data name="EMAIL_USER_UNREGISTER_BODY.Text" xml:space="preserve">
     <value>Datum: [Date:Current]
@@ -871,7 +796,7 @@ E-mail: [Membership:Email]
   <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_BODY.Text" xml:space="preserve">
     <value>Beste [User:DisplayName],
 
-U heeft uw wachtwoord gewijzigd op [Portal:PortalName].
+Je hebt je wachtwoord gewijzigd op [Portal:PortalName].
 
 Gebruik de volgende informatie om in te loggen:
 
@@ -907,9 +832,9 @@ Website: [Custom:14]</value>
   <data name="EMAIL_VENDOR_REGISTRATION_BODY.Text" xml:space="preserve">
     <value>Beste [Custom:0] [Custom:1],
 
-Uw bedrijf is succesvol geregistreerd bij de [Portal:PortalName] website.
+Je bedrijf is succesvol geregistreerd bij de [Portal:PortalName] website.
 
-Dank u,
+Met vriendelijke groet,
 
 [Portal.PortalName]</value>
   </data>
@@ -1254,10 +1179,10 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     &lt;/div&gt;</value>
   </data>
   <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text" xml:space="preserve">
-    <value>Om uw wachtwoord op te kunnen vragen moet u uw gebruikersnaam opgeven, en een antwoord op de wachtwoord vraag.</value>
+    <value>Om je wachtwoord op te kunnen vragen moet je jouw gebruikersnaam opgeven, en een antwoord op de wachtwoord vraag.</value>
   </data>
   <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text" xml:space="preserve">
-    <value>Verifieer uw emailadres wijziging door uw wachtwoord opnieuw in te voeren.</value>
+    <value>Verifieer je e-mailadreswijziging door je wachtwoord opnieuw in te voeren.</value>
   </data>
   <data name="ModuleGenericActions.Action" xml:space="preserve">
     <value>Beheer</value>
@@ -1305,7 +1230,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Geen fouten opgetreden tijdens versturen</value>
   </data>
   <data name="NoLoginControl.Text" xml:space="preserve">
-    <value>U bent naar deze standaard Login Pagina omgeleid omdat deze website geen geldige Login Module bevat, of omdat de machtigingen niet juist zijn ingesteld.</value>
+    <value>Je bent naar deze standaard inlogpagina omgeleid omdat deze website geen geldige Login Module bevat, of omdat de machtigingen niet juist zijn ingesteld.</value>
   </data>
   <data name="NoSitesForThisInstallation.Error" xml:space="preserve">
     <value>Er bestaan op dit moment geen sites voor deze installatie.</value>
@@ -1323,7 +1248,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Deze caching provider gebruikt the PurgeCache functionaliteit niet.</value>
   </data>
   <data name="ReflectionPermission.Text" xml:space="preserve">
-    <value>Deze extensie vereist reflectie rechten.</value>
+    <value>Deze bestandsextensie vereist reflectie rechten.</value>
   </data>
   <data name="Relationship_Added.Text" xml:space="preserve">
     <value>Heeft relatie toegevoegd {0}</value>
@@ -1383,7 +1308,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Markeer als niet vertaald</value>
   </data>
   <data name="UrlPathNotUnique.Error" xml:space="preserve">
-    <value>De toegevoegde URL is niet beschikbaar. Als u het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
+    <value>De toegevoegde URL is niet beschikbaar. Als je het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
   </data>
   <data name="UserRelationship_Added.Text" xml:space="preserve">
     <value>Toegevoegd UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
@@ -1416,26 +1341,9 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Broncode bekijken</value>
   </data>
   <data name="WebPermission.Text" xml:space="preserve">
-    <value>Deze extensie vereist web rechten.</value>
+    <value>Deze uitbreiding vereist webrechten.</value>
   </data>
   <data name="Write to Folder.Permission" xml:space="preserve">
     <value>Schrijf bestanden in map</value>
-  </data>
-  <data name="cc_dismiss.Text">
-    <value>Begrepen!</value>
-  </data>
-  <data name="cc_link.Text">
-    <value>Meer informatie</value>
-  </data>
-  <data name="cc_message.Text">
-    <value>Deze website gebruikt cookies voor de best mogelijke gebruikerservaring.</value>
-  </data>
-  <data name="MESSAGE_LOGIN_INSTRUCTIONS.Text">
-    <value>
-    </value>
-  </data>
-  <data name="MESSAGE_REGISTRATION_INSTRUCTIONS.Text">
-    <value>
-    </value>
   </data>
 </root>

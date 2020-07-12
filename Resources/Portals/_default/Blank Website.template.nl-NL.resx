@@ -12,184 +12,58 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="LocalizedTemplateName.Text" lastModified="2020-05-12 09:49:44">
-    <value xml:space="preserve">Blanco website</value>
+  <data name="LocalizedTemplateName.Text" xml:space="preserve">
+    <value>Lege website</value>
   </data>
-  <data name="PortalDescription.Text" lastModified="2020-05-12 09:49:44">
-    <value xml:space="preserve">Blanco sjabloon</value>
+  <data name="PortalDescription.Text" xml:space="preserve">
+    <value>Sjabloon voor lege site</value>
   </data>
-  <data name="RoleGroup.Description.Text">
-    <value xml:space="preserve">Een dummy rol groep die de globale rollen vertegenwoordigd</value>
+  <data name="RoleGroup.Description.Text" xml:space="preserve">
+    <value>Een dummy rol groep die de globale rollen vertegenwoordigd</value>
   </data>
-  <data name="Setting.DefaultLanguage.Text">
-    <value xml:space="preserve">nl-NL</value>
+  <data name="Setting.DefaultLanguage.Text" xml:space="preserve">
+    <value>nl-NL</value>
   </data>
-  <data name="Setting.FooterText.Text">
-    <value xml:space="preserve">Copyright [year]</value>
+  <data name="Setting.FooterText.Text" xml:space="preserve">
+    <value>Copyright [year] Mijn Website</value>
   </data>
-  <data name="Tab.404ErrorPage..Module.Content.Text">
-    <value xml:space="preserve">Helaas, de pagina die u probeert op te vragen kan niet gevonden worden en is misschien verwijderd, of de naam is gewijzigd of is tijdelijk niet beschikbaar. Ga terug naar de home pagina en begin daar opnieuw. NEem contact op met de website beheerder als het probleem weer optreedt en u niet kunt vinden waarnaar u op zoek bent.</value>
+  <data name="Tab.404ErrorPage..Module.Content.Text" xml:space="preserve">
+    <value>Helaas, de pagina die je probeert op te vragen kan niet gevonden worden en is misschien verwijderd, of de naam is gewijzigd of is tijdelijk niet beschikbaar. Ga terug naar de home pagina en begin daar opnieuw. Neem contact op met de website beheerder als het probleem weer optreedt en je niet kunt vinden waar je naar op zoek bent.</value>
   </data>
-  <data name="Tab.404ErrorPage..Module.Title.Text">
-    <value xml:space="preserve">Pagina is niet gevonden.</value>
+  <data name="Tab.404ErrorPage..Module.Title.Text" xml:space="preserve">
+    <value>Pagina is niet gevonden.</value>
   </data>
-  <data name="Tab.404ErrorPage.Content.Text" lastModified="2020-05-12 09:49:44">
-    <value xml:space="preserve">404 Fout: Pagina niet gevonden</value>
+  <data name="Tab.404ErrorPage.Content.Text" xml:space="preserve">
+    <value>404 Fout: Pagina niet gevonden</value>
   </data>
-  <data name="Tab.404ErrorPage.Title.Text" lastModified="2020-05-12 09:49:44">
-    <value xml:space="preserve">404 Fout Pagina</value>
+  <data name="Tab.404ErrorPage.Title.Text" xml:space="preserve">
+    <value>404 Fout Pagina</value>
   </data>
-  <data name="Tab.About.RightPane.OtherModule.Content.8.Text">
-    <value xml:space="preserve">Geef terugkoppeling</value>
+  <data name="Tab.About.RightPane.OtherModule.Content.8.Text" xml:space="preserve">
+    <value>Geef terugkoppeling</value>
   </data>
-  <data name="Tab.AdvancedSettings.ContentPane.Module.Title.Text">
-    <value xml:space="preserve">Geavanceerde configuratie instellingen</value>
+  <data name="Tab.DigitalAssetsManagement.Title.Text" xml:space="preserve">
+    <value>Bestandsbeheerder</value>
   </data>
-  <data name="Tab.AdvancedSettings.Description.Text">
-    <value xml:space="preserve">Geavanceerde configuratie instellingen</value>
+  <data name="Tab.Home.Name.Text" xml:space="preserve">
+    <value>Home</value>
   </data>
-  <data name="Tab.AdvancedSettings.Name.Text">
-    <value xml:space="preserve">Geavanceerde configuratie instellingen</value>
+  <data name="Tab.MyFriends.Title.Text" xml:space="preserve">
+    <value>Mijn vrienden</value>
   </data>
-  <data name="Tab.AdvancedSettings.Title.Text">
-    <value xml:space="preserve">Geavanceerde configuratie instellingen</value>
+  <data name="Tab.MyMessages.Title.Text" xml:space="preserve">
+    <value>Mijn berichten</value>
   </data>
-  <data name="Tab.DCCManager.Title.Text" lastModified="2015-12-31 08:48:58">
-    <value xml:space="preserve">Dynamic Content Type Manager</value>
+  <data name="Tab.MyProfile.Title.Text" xml:space="preserve">
+    <value>Mijn profiel</value>
   </data>
-  <data name="Tab.DigitalAssetsManagement.Title.Text" lastModified="2015-12-31 08:48:58">
-    <value xml:space="preserve">Bestandsbeheerder</value>
+  <data name="Tab.PortalAdministration.Title.Text" xml:space="preserve">
+    <value>Site administratie</value>
   </data>
-  <data name="Tab.Extensions.Title.Text" lastModified="2015-12-31 08:48:58">
-    <value xml:space="preserve">Extenties</value>
+  <data name="Tab.SearchResultsCE.Title.Text" xml:space="preserve">
+    <value>Zoekresultaten</value>
   </data>
-  <data name="Tab.GettingStarted.Actions.Module.Content.0.Text">
-    <value xml:space="preserve">Bekijk de introductievideo</value>
-  </data>
-  <data name="Tab.GettingStarted.Actions.Module.Content.1.Text">
-    <value xml:space="preserve">Beginnen (video overslaan)</value>
-  </data>
-  <data name="Tab.GettingStarted.Header.Module.Title.Text">
-    <value xml:space="preserve">&lt;strong&gt;Klaar om te starten!&lt;/strong&gt; u heeft zojuist uw installatie van DNNPlatform voltooid; &lt;strong&gt;wat wilt u als volgende doen?&lt;/strong&gt;</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Content.0.Text">
-    <value xml:space="preserve">De video hieronder zal&lt;strong&gt; u helpen &lt;/strong&gt; met de bouw van uw nieuwe DNN site. Met behulp van DNN  is u uw nieuwe site snel en gemakkelijk actief met echte inhoud in enkele minuten.</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Content.1.Text">
-    <value xml:space="preserve">Bekijk de introductievideo</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Content.10.Text">
-    <value xml:space="preserve">Nieuwe functionaliteit toevoegen</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Content.11.Text">
-    <value xml:space="preserve">Verbeter uw site met mogelijkheden zoals e-commerce.</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Content.12.Text">
-    <value xml:space="preserve">Bezoek de DNN webwinkel</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Content.13.Text">
-    <value xml:space="preserve">Sponsors</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Content.2.Text">
-    <value xml:space="preserve">Ontdek welke verbeteringen en toevoegingen we hebben aangebracht in deze versie van DNN.
-</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Content.3.Text">
-    <value xml:space="preserve">Bekijk de video</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Content.4.Text">
-    <value xml:space="preserve">Personaliseer uw DNN site</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Content.5.Text">
-    <value xml:space="preserve">Bent u gereed met het omgaan met DNN?</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Content.6.Text">
-    <value xml:space="preserve">We hebben de middelen en instrumenten om zo ongeveer alles te doen wat u zich kunt voorstellen.
-. </value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Content.7.Text">
-    <value xml:space="preserve">Ik wil ...</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Content.8.Text">
-    <value xml:space="preserve">Het uiterlijk van mijn site wijzigen</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Content.9.Text">
-    <value xml:space="preserve">Vind nieuwe thema ontwerpen voor uw website in de DNN webwinkel.</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Title.0.Text">
-    <value xml:space="preserve"> Wat is nieuw?</value>
-  </data>
-  <data name="Tab.GettingStarted.LeftPane.Module.Title.1.Text">
-    <value xml:space="preserve">Leer de grondbeginselen van het werken met DNN</value>
-  </data>
-  <data name="Tab.GettingStarted.Name.Text">
-    <value xml:space="preserve">Aan de slag</value>
-  </data>
-  <data name="Tab.GettingStarted.RightPane.Module.Content.0.Text">
-    <value xml:space="preserve"> Al een expert?</value>
-  </data>
-  <data name="Tab.GettingStarted.RightPane.Module.Content.1.Text">
-    <value xml:space="preserve">Opstartprocedure van uw e-mail, installeer talen en andere geavanceerde configuratie instellingen.</value>
-  </data>
-  <data name="Tab.GettingStarted.RightPane.Module.Content.2.Text">
-    <value xml:space="preserve">Geavanceerde configuratie instellingen instellen</value>
-  </data>
-  <data name="Tab.GettingStarted.RightPane.Module.Content.3.Text">
-    <value xml:space="preserve">Op zoek naar antwoorden?</value>
-  </data>
-  <data name="Tab.GettingStarted.RightPane.Module.Content.4.Text">
-    <value xml:space="preserve">Hebt u vragen, ideeën voor verbetering of wilt u gewoon  enkele andere leden van de DNN community ontmoeten?
-</value>
-  </data>
-  <data name="Tab.GettingStarted.RightPane.Module.Content.5.Text">
-    <value xml:space="preserve">Vind een antwoord</value>
-  </data>
-  <data name="Tab.GettingStarted.RightPane.Module.Content.6.Text">
-    <value xml:space="preserve">Uw ideeën indienen</value>
-  </data>
-  <data name="Tab.GettingStarted.RightPane.Module.Content.7.Text">
-    <value xml:space="preserve">Wij waarderen altijd uw terugkoppeling</value>
-  </data>
-  <data name="Tab.GettingStarted.RightPane.Module.Content.8.Text">
-    <value xml:space="preserve">We zouden graag horen hoe we het doen</value>
-  </data>
-  <data name="Tab.GettingStarted.Title.Text">
-    <value xml:space="preserve">Welkom bij uw DNN installatie</value>
-  </data>
-  <data name="Tab.Home.Name.Text">
-    <value xml:space="preserve">Home</value>
-  </data>
-  <data name="Tab.MyFriends.Title.Text" lastModified="2015-12-31 08:48:58">
-    <value xml:space="preserve">Mijn vrienden</value>
-  </data>
-  <data name="Tab.MyMessages.Title.Text" lastModified="2015-12-31 08:48:58">
-    <value xml:space="preserve">Mijn berichten</value>
-  </data>
-  <data name="Tab.MyProfile.Title.Text" lastModified="2015-12-31 08:48:58">
-    <value xml:space="preserve">Mijn profiel</value>
-  </data>
-  <data name="Tab.PortalAdministration.Title.Text" lastModified="2020-05-12 09:49:44">
-    <value xml:space="preserve">Portaal administratie</value>
-  </data>
-  <data name="Tab.SearchAdmin.ContentPane.Module.Title.Text">
-    <value xml:space="preserve">Zoek Admin</value>
-  </data>
-  <data name="Tab.SearchAdmin.Description.Text">
-    <value xml:space="preserve">Zoek Admin</value>
-  </data>
-  <data name="Tab.SearchResultsCE.Title.Text" lastModified="2020-05-12 09:49:44">
-    <value xml:space="preserve">Zoekresultaten</value>
-  </data>
-  <data name="Tab.SecurityRoles.Title.Text" lastModified="2015-12-31 08:48:58">
-    <value xml:space="preserve">Beveiligingsrollen</value>
-  </data>
-  <data name="Tab.SiteSettings.Title.Text" lastModified="2015-12-31 08:48:58">
-    <value xml:space="preserve">Site instellingen</value>
-  </data>
-  <data name="Tab.Taxonomy.Title.Text" lastModified="2015-12-31 08:48:58">
-    <value xml:space="preserve">Taxonomy</value>
-  </data>
-  <data name="Tab.UserAccounts.Title.Text" lastModified="2015-12-31 08:48:58">
-    <value xml:space="preserve">Gebruikersaccounts</value>
+  <data name="Tab.UserAccounts.Title.Text" xml:space="preserve">
+    <value>Gebruikersaccounts</value>
   </data>
 </root>

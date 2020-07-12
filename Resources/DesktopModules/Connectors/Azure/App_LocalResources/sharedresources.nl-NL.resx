@@ -12,46 +12,46 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccessDenied.ErrorMessage" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">Toegang werd geweigerd.</value>
+  <data name="AccessDenied.ErrorMessage" xml:space="preserve">
+    <value>Toegang werd geweigerd.</value>
   </data>
-  <data name="AccountKey.Text" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">Accountsleutel:</value>
+  <data name="AccountKey.Text" xml:space="preserve">
+    <value>Accountsleutel:</value>
   </data>
-  <data name="AccountKeyCannotBeEmpty.ErrorMessage" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">Accountsleutel mag niet leeg zijn:</value>
+  <data name="AccountKeyCannotBeEmpty.ErrorMessage" xml:space="preserve">
+    <value>De accountsleutel mag niet leeg zijn:</value>
   </data>
-  <data name="AccountName.Text" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">Accountnaam:</value>
+  <data name="AccountName.Text" xml:space="preserve">
+    <value>Accountnaam:</value>
   </data>
-  <data name="AccountNameCannotBeEmpty.ErrorMessage" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">Accountnaam mag niet leeg zijn.</value>
+  <data name="AccountNameCannotBeEmpty.ErrorMessage" xml:space="preserve">
+    <value>De accountnaam mag niet leeg zijn.</value>
   </data>
-  <data name="AccountNotFound.ErrorMessage" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">Het opgegeven account is niet gevonden.</value>
+  <data name="AccountNotFound.ErrorMessage" xml:space="preserve">
+    <value>Het opgegeven account is niet gevonden.</value>
   </data>
-  <data name="AuthenticationFailure.ErrorMessage" lastModified="2020-05-10 17:11:57">
-    <value xml:space="preserve">Er is een authenticatiefout opgetreden.</value>
+  <data name="AuthenticationFailure.ErrorMessage" xml:space="preserve">
+    <value>Er is een authenticatiefout opgetreden.</value>
   </data>
-  <data name="Container.Text" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">Containernaam:</value>
+  <data name="Container.Text" xml:space="preserve">
+    <value>Containernaam:</value>
   </data>
-  <data name="ErrorInvalidContainerName.Text" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">De ingediende containernaam is niet geldig.</value>
+  <data name="ErrorInvalidContainerName.Text" xml:space="preserve">
+    <value>De opgegeven containernaam is niet geldig.</value>
   </data>
-  <data name="ErrorMappingNameExists.Text" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">De connectienaam bestaat al.</value>
+  <data name="ErrorMappingNameExists.Text" xml:space="preserve">
+    <value>De connectienaam bestaat al.</value>
   </data>
-  <data name="ErrorRequiredFields.Text" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">Toegangssleutel en accountnaam zijn verplicht.</value>
+  <data name="ErrorRequiredFields.Text" xml:space="preserve">
+    <value>Toegangssleutel en accountnaam zijn verplicht.</value>
   </data>
-  <data name="InvalidAccountKey.ErrorMessage" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">De invoer is geen geldige accountsleutel.</value>
+  <data name="InvalidAccountKey.ErrorMessage" xml:space="preserve">
+    <value>De invoer is geen geldige accountsleutel.</value>
   </data>
-  <data name="InvalidAccountName.ErrorMessage" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">De invoer is geen geldige accountnaam.</value>
+  <data name="InvalidAccountName.ErrorMessage" xml:space="preserve">
+    <value>De invoer is geen geldige accountnaam.</value>
   </data>
-  <data name="SelectContainer.Text" lastModified="2018-07-20 11:53:41">
-    <value xml:space="preserve">-Selecteer een container-</value>
+  <data name="SelectContainer.Text" xml:space="preserve">
+    <value>-Selecteer een container-</value>
   </data>
 </root>

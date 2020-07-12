@@ -12,154 +12,154 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AllItemsCheckedString.Text">
-    <value xml:space="preserve">Alle items aangevinkt</value>
+  <data name="AllItemsCheckedString.Text" xml:space="preserve">
+    <value>Alle items aangevinkt</value>
   </data>
-  <data name="Cancel.Text">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="CheckAllString.Text">
-    <value xml:space="preserve">Alles aanvinken</value>
+  <data name="CheckAllString.Text" xml:space="preserve">
+    <value>Alles aanvinken</value>
   </data>
-  <data name="ComboBox.EmptyMessage">
-    <value xml:space="preserve">Er bevinden zich geen items in de lijst</value>
+  <data name="ComboBox.EmptyMessage" xml:space="preserve">
+    <value>Er bevinden zich geen items in de lijst</value>
   </data>
-  <data name="ConfirmPasswordMatched.Text">
-    <value xml:space="preserve">Wachtwoorden komen overeen</value>
+  <data name="ConfirmPasswordMatched.Text" xml:space="preserve">
+    <value>Wachtwoorden komen overeen</value>
   </data>
-  <data name="ConfirmPasswordUnmatched.Text">
-    <value xml:space="preserve">Wachtwoord komt niet overeen</value>
+  <data name="ConfirmPasswordUnmatched.Text" xml:space="preserve">
+    <value>Wachtwoord komt niet overeen</value>
   </data>
-  <data name="CriteriaAtLeastNChars.Text">
-    <value xml:space="preserve">Ten minste {0} karakters</value>
+  <data name="CriteriaAtLeastNChars.Text" xml:space="preserve">
+    <value>Ten minste {0} karakters</value>
   </data>
-  <data name="CriteriaAtLeastNSpecialChars.Text" lastModified="2015-12-30 10:38:26">
-    <value xml:space="preserve">Ten minste {0} alphanumerieke karakters</value>
+  <data name="CriteriaAtLeastNSpecialChars.Text" xml:space="preserve">
+    <value>Ten minste {0} alphanumerieke karakters</value>
   </data>
-  <data name="CriteriaValidationExpression.Text">
-    <value xml:space="preserve">Validatie expressie: {0}</value>
+  <data name="CriteriaValidationExpression.Text" xml:space="preserve">
+    <value>Validatie expressie: {0}</value>
   </data>
-  <data name="FieldSuffix.Text">
-    <value xml:space="preserve">:</value>
+  <data name="FieldSuffix.Text" xml:space="preserve">
+    <value>:</value>
   </data>
-  <data name="File.Text">
-    <value xml:space="preserve">Bestand</value>
+  <data name="File.Text" xml:space="preserve">
+    <value>Bestand</value>
   </data>
-  <data name="FileUpload.CloseButton.Text">
-    <value xml:space="preserve">Sluiten</value>
+  <data name="FileUpload.CloseButton.Text" xml:space="preserve">
+    <value>Sluiten</value>
   </data>
-  <data name="FileUpload.DecompressingFile.Text">
-    <value xml:space="preserve">Bestand aan het decomprimeren</value>
+  <data name="FileUpload.DecompressingFile.Text" xml:space="preserve">
+    <value>Bestand aan het decomprimeren</value>
   </data>
-  <data name="FileUpload.DecompressLabel.Text">
-    <value xml:space="preserve">Decomprimeer Zipbestanden</value>
+  <data name="FileUpload.DecompressLabel.Text" xml:space="preserve">
+    <value>Decomprimeer Zipbestanden</value>
   </data>
-  <data name="FileUpload.DragAndDropAreaTitle.Text">
-    <value xml:space="preserve">Sleep bestanden of klik om te bladeren</value>
+  <data name="FileUpload.DragAndDropAreaTitle.Text" xml:space="preserve">
+    <value>Sleep bestanden of klik om te bladeren</value>
   </data>
-  <data name="FileUpload.EmptyFileUpload.Error">
-    <value xml:space="preserve">Uw browser ondersteunt geen uploads van lege bestanden</value>
+  <data name="FileUpload.EmptyFileUpload.Error" xml:space="preserve">
+    <value>Je browser ondersteunt geen uploads van lege bestanden</value>
   </data>
-  <data name="FileUpload.ErrorDialogTitle.Text">
-    <value xml:space="preserve">Fout</value>
+  <data name="FileUpload.ErrorDialogTitle.Text" xml:space="preserve">
+    <value>Fout</value>
   </data>
-  <data name="FileUpload.FileAlreadyExists.Error">
-    <value xml:space="preserve">Het bestand dat u wilt uploaden bestaat al in de map</value>
+  <data name="FileUpload.FileAlreadyExists.Error" xml:space="preserve">
+    <value>Het bestand dat je wilt uploaden bestaat al in de map</value>
   </data>
-  <data name="FileUpload.FileIsTooLarge.Error">
-    <value xml:space="preserve">Bestandsgrootte groter dan {0}</value>
+  <data name="FileUpload.FileIsTooLarge.Error" xml:space="preserve">
+    <value>Bestandsgrootte meer dan {0}</value>
   </data>
-  <data name="FileUpload.FileUploadCancelled.Error">
-    <value xml:space="preserve">Upload geannuleerd</value>
+  <data name="FileUpload.FileUploadCancelled.Error" xml:space="preserve">
+    <value>Upload geannuleerd</value>
   </data>
-  <data name="FileUpload.FileUploaded.Text">
-    <value xml:space="preserve">Bestand geüpload</value>
+  <data name="FileUpload.FileUploaded.Text" xml:space="preserve">
+    <value>Bestand geüpload</value>
   </data>
-  <data name="FileUpload.FileUploadFailed.Error">
-    <value xml:space="preserve">Upload mislukt</value>
+  <data name="FileUpload.FileUploadFailed.Error" xml:space="preserve">
+    <value>Upload mislukt</value>
   </data>
-  <data name="FileUpload.InvalidFileExtensions.Error">
-    <value xml:space="preserve">Geselecteerde bestanden met ongeldige extensies zijn niet geüpload. U kunt alleen bestanden uploaden met de volgende extenties: {0}.</value>
+  <data name="FileUpload.InvalidFileExtensions.Error" xml:space="preserve">
+    <value>Geselecteerde bestanden met ongeldige bestandsextensie zijn niet geüpload. Je kunt alleen bestanden uploaden met de volgende extenties: {0}.</value>
   </data>
-  <data name="FileUpload.KeepButton.Text">
-    <value xml:space="preserve">Behouden</value>
+  <data name="FileUpload.KeepButton.Text" xml:space="preserve">
+    <value>Behouden</value>
   </data>
-  <data name="FileUpload.ReplaceButton.Text">
-    <value xml:space="preserve">Vervang</value>
+  <data name="FileUpload.ReplaceButton.Text" xml:space="preserve">
+    <value>Vervang</value>
   </data>
-  <data name="FileUpload.Title.Text">
-    <value xml:space="preserve">Upload bestanden</value>
+  <data name="FileUpload.Title.Text" xml:space="preserve">
+    <value>Upload bestanden</value>
   </data>
-  <data name="FileUpload.TooManyFiles.Error">
-    <value xml:space="preserve">U kunt niet meer dan {0} bestanden per keer uploaden.</value>
+  <data name="FileUpload.TooManyFiles.Error" xml:space="preserve">
+    <value>Je kunt niet meer dan {0} bestanden per keer uploaden.</value>
   </data>
-  <data name="FileUpload.UploadFileMethod.Text">
-    <value xml:space="preserve">Upload bestand</value>
+  <data name="FileUpload.UploadFileMethod.Text" xml:space="preserve">
+    <value>Upload bestand</value>
   </data>
-  <data name="FileUpload.UploadFromWebButton.Text">
-    <value xml:space="preserve">Upload</value>
+  <data name="FileUpload.UploadFromWebButton.Text" xml:space="preserve">
+    <value>Upload</value>
   </data>
-  <data name="FileUpload.UploadFromWebMethod.Text">
-    <value xml:space="preserve">Van URL</value>
+  <data name="FileUpload.UploadFromWebMethod.Text" xml:space="preserve">
+    <value>Van URL</value>
   </data>
-  <data name="FileUpload.UploadStopped.Text">
-    <value xml:space="preserve">Bestandsupload gestopt</value>
+  <data name="FileUpload.UploadStopped.Text" xml:space="preserve">
+    <value>Bestandsupload gestopt</value>
   </data>
-  <data name="FileUpload.UploadToFolderLabel.Text">
-    <value xml:space="preserve">Uploaden naar:</value>
+  <data name="FileUpload.UploadToFolderLabel.Text" xml:space="preserve">
+    <value>Uploaden naar:</value>
   </data>
-  <data name="FileUpload.UrlTooltip.Text">
-    <value xml:space="preserve">Voer bron-URL in zoals https://website.nl/Img/Over.png</value>
+  <data name="FileUpload.UrlTooltip.Text" xml:space="preserve">
+    <value>Voer bron-URL in zoals https://website.nl/Img/Over.png</value>
   </data>
-  <data name="Folder.Text">
-    <value xml:space="preserve">Map</value>
+  <data name="Folder.Text" xml:space="preserve">
+    <value>Map</value>
   </data>
-  <data name="ItemsCheckedString.Text">
-    <value xml:space="preserve">aangevinkte items</value>
+  <data name="ItemsCheckedString.Text" xml:space="preserve">
+    <value>aangevinkte items</value>
   </data>
-  <data name="MyFolder.Text">
-    <value xml:space="preserve">Mijn map</value>
+  <data name="MyFolder.Text" xml:space="preserve">
+    <value>Mijn map</value>
   </data>
-  <data name="NoMatches.Text">
-    <value xml:space="preserve">Geen overeenkomsten</value>
+  <data name="NoMatches.Text" xml:space="preserve">
+    <value>Geen overeenkomsten</value>
   </data>
-  <data name="NoPermission.Text">
-    <value xml:space="preserve">U bent niet bevoegd bestanden te bekijken in het bestandsysteem van deze site</value>
+  <data name="NoPermission.Text" xml:space="preserve">
+    <value>Je bent niet bevoegd bestanden te bekijken in het bestandsysteem van deze site</value>
   </data>
-  <data name="Ok.Text">
-    <value xml:space="preserve">Ok</value>
+  <data name="Ok.Text" xml:space="preserve">
+    <value>Ok</value>
   </data>
-  <data name="PasswordRulesBodyText.Text">
-    <value xml:space="preserve">Bevat tenminste {0} karakters, 1 hoofdletter, 1 nummer en {1}.</value>
+  <data name="PasswordRulesBodyText.Text" xml:space="preserve">
+    <value>Bevat tenminste {0} karakters, 1 hoofdletter, 1 nummer en {1}.</value>
   </data>
-  <data name="PasswordRulesHeadText.Text">
-    <value xml:space="preserve">Wachtwoord regels:</value>
+  <data name="PasswordRulesHeadText.Text" xml:space="preserve">
+    <value>Wachtwoordregels:</value>
   </data>
-  <data name="PasswordStrengthFair.Text">
-    <value xml:space="preserve">redelijk</value>
+  <data name="PasswordStrengthFair.Text" xml:space="preserve">
+    <value>redelijk</value>
   </data>
-  <data name="PasswordStrengthMinLength.Text">
-    <value xml:space="preserve">-Minimum van karakters</value>
+  <data name="PasswordStrengthMinLength.Text" xml:space="preserve">
+    <value>-Minimum van karakters</value>
   </data>
-  <data name="PasswordStrengthStrong.Text">
-    <value xml:space="preserve">Sterk</value>
+  <data name="PasswordStrengthStrong.Text" xml:space="preserve">
+    <value>Sterk</value>
   </data>
-  <data name="PasswordStrengthWeak.Text">
-    <value xml:space="preserve">Zwak</value>
+  <data name="PasswordStrengthWeak.Text" xml:space="preserve">
+    <value>Zwak</value>
   </data>
-  <data name="PortalRoot.Text">
-    <value xml:space="preserve">Hoofdmap</value>
+  <data name="PortalRoot.Text" xml:space="preserve">
+    <value>Hoofdmap</value>
   </data>
-  <data name="Save.Text">
-    <value xml:space="preserve">Bestand opslaan</value>
+  <data name="Save.Text" xml:space="preserve">
+    <value>Bestand opslaan</value>
   </data>
-  <data name="ShowMoreFormatString.Text">
-    <value xml:space="preserve">Items &lt;b&gt;1&lt;/b&gt;-&lt;b&gt;{0}&lt;/b&gt; van &lt;b&gt;{1}&lt;/b&gt;</value>
+  <data name="ShowMoreFormatString.Text" xml:space="preserve">
+    <value>Items &lt;b&gt;1&lt;/b&gt;-&lt;b&gt;{0}&lt;/b&gt; van &lt;b&gt;{1}&lt;/b&gt;</value>
   </data>
-  <data name="Upload.Text">
-    <value xml:space="preserve">Bestand uploaden</value>
+  <data name="Upload.Text" xml:space="preserve">
+    <value>Bestand uploaden</value>
   </data>
-  <data name="UploadError.Text">
-    <value xml:space="preserve">Betandstype {1} is hier niet toegestaan. Toegestane bestandstypes zijn: {0}</value>
+  <data name="UploadError.Text" xml:space="preserve">
+    <value>Betandstype {1} is hier niet toegestaan. Toegestane bestandstypes zijn: {0}</value>
   </data>
 </root>

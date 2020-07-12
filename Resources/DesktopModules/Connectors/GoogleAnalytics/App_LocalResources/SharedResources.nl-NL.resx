@@ -12,31 +12,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AnonymizeIp.Text" lastModified="2020-05-08 17:52:07">
-    <value xml:space="preserve">IP voor anonimisering</value>
+  <data name="AnonymizeIp.Text" xml:space="preserve">
+    <value>IP voor anonimisering</value>
   </data>
-  <data name="btnDelete.Text" lastModified="2020-05-08 17:52:07">
-    <value xml:space="preserve">Verwijder de verbinding</value>
+  <data name="btnDelete.Text" xml:space="preserve">
+    <value>Verwijder de verbinding</value>
   </data>
-  <data name="ConnectorName.Text" lastModified="2020-05-08 17:52:07">
-    <value xml:space="preserve">Google Analytics Core Connector</value>
+  <data name="ConnectorName.Text" xml:space="preserve">
+    <value>Google Analytics DNN Core Connector</value>
   </data>
-  <data name="DataConsent.Text" lastModified="2020-05-08 17:52:07">
-    <value xml:space="preserve">Let op: data instemming is actief, wardoor deze instelling automatisch actief is</value>
+  <data name="DataConsent.Text" xml:space="preserve">
+    <value>Let op: datainstemming is actief, wardoor deze instelling automatisch actief is</value>
   </data>
-  <data name="TrackAdministrators.Text" lastModified="2020-05-08 17:52:07">
-    <value xml:space="preserve">Track voor Administrators</value>
+  <data name="TrackAdministrators.Text" xml:space="preserve">
+    <value>Tracking voor Administrators</value>
   </data>
-  <data name="TrackingCodeFormat.ErrorMessage" lastModified="2020-05-08 17:52:07">
-    <value xml:space="preserve">Tracking code kan niet leeg zijn</value>
+  <data name="TrackingCodeFormat.ErrorMessage" xml:space="preserve">
+    <value>Tracking code kan niet leeg zijn</value>
   </data>
-  <data name="TrackingID.Text" lastModified="2020-05-08 17:52:07">
-    <value xml:space="preserve">TrackingID:</value>
+  <data name="TrackingID.Text" xml:space="preserve">
+    <value>TrackingID:</value>
   </data>
-  <data name="TrackUserId.Text" lastModified="2020-05-08 17:52:07">
-    <value xml:space="preserve">Track UserID:</value>
+  <data name="TrackUserId.Text" xml:space="preserve">
+    <value>Track UserID:</value>
   </data>
-  <data name="UrlParameter.Text" lastModified="2020-05-08 17:52:07">
-    <value xml:space="preserve">URL parameter</value>
+  <data name="UrlParameter.Text" xml:space="preserve">
+    <value>URL parameter</value>
   </data>
 </root>

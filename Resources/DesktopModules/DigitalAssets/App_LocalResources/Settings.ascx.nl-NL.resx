@@ -12,55 +12,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="BasicSettings.Text">
-    <value xml:space="preserve">Basis instellingen</value>
+  <data name="BasicSettings.Text" xml:space="preserve">
+    <value>Basisinstellingen</value>
   </data>
-  <data name="DefaultFolderType.Help">
-    <value xml:space="preserve">Stelt het standaard map type in dat wordt gebruikt bij het aanmaken van een nieuwe onder de hoofdmap</value>
+  <data name="DefaultFolderType.Help" xml:space="preserve">
+    <value>Stelt het standaard maptype in dat wordt gebruikt bij het aanmaken van een nieuwe onder de hoofdmap</value>
   </data>
-  <data name="DefaultFolderType.Text">
-    <value xml:space="preserve">Standaard folder type</value>
+  <data name="DefaultFolderType.Text" xml:space="preserve">
+    <value>Standaard maptype</value>
   </data>
-  <data name="ExcludeSubfolders.Text">
-    <value xml:space="preserve">Subfolders uitsluiten</value>
+  <data name="ExcludeSubfolders.Text" xml:space="preserve">
+    <value>Submappen uitsluiten</value>
   </data>
-  <data name="ExcludeSubfoldersLabel.Help">
-    <value xml:space="preserve">Indien aangevinkt, zal de module alleen bestanden laten zien en bestanden in submappen maar het zal geen submappen laten zien.</value>
+  <data name="ExcludeSubfoldersLabel.Help" xml:space="preserve">
+    <value>Indien aangevinkt, zal de module alleen bestanden laten zien en bestanden in submappen maar het zal geen submappen laten zien.</value>
   </data>
-  <data name="FilterByFolder.Text">
-    <value xml:space="preserve">Filter op map</value>
+  <data name="FilterByFolder.Text" xml:space="preserve">
+    <value>Filter op map</value>
   </data>
-  <data name="FolderMustBeSelected.ErrorMessage">
-    <value xml:space="preserve">Een map moet geselecteerd zijn als de "Filter op Map" optie is aangevinkt.</value>
+  <data name="FolderMustBeSelected.ErrorMessage" xml:space="preserve">
+    <value>Een map moet geselecteerd zijn als de "Filter op Map" optie is aangevinkt.</value>
   </data>
-  <data name="Group.Text">
-    <value xml:space="preserve">Groep</value>
+  <data name="Group.Text" xml:space="preserve">
+    <value>Groep</value>
   </data>
-  <data name="IncludeSubfoldersFilesOnly.Text">
-    <value xml:space="preserve">Met Submappen (alleen bestanden)</value>
+  <data name="IncludeSubfoldersFilesOnly.Text" xml:space="preserve">
+    <value>Met Submappen (alleen bestanden)</value>
   </data>
-  <data name="IncludeSubfoldersFolderStructure.Text">
-    <value xml:space="preserve">Met Submappen (Toon mappenstructuur)</value>
+  <data name="IncludeSubfoldersFolderStructure.Text" xml:space="preserve">
+    <value>Met Submappen (Toon mappenstructuur)</value>
   </data>
-  <data name="Mode.Help">
-    <value xml:space="preserve">De mode waarin de module moet opereren.</value>
+  <data name="Mode.Help" xml:space="preserve">
+    <value>De modus waarin de module moet opereren.</value>
   </data>
-  <data name="Mode.Text">
-    <value xml:space="preserve">Mode</value>
+  <data name="Mode.Text" xml:space="preserve">
+    <value>Modus</value>
   </data>
-  <data name="Normal.Text">
-    <value xml:space="preserve">Normaal</value>
+  <data name="Normal.Text" xml:space="preserve">
+    <value>Normaal</value>
   </data>
-  <data name="NoSet.Text">
-    <value xml:space="preserve">No set</value>
+  <data name="NoSet.Text" xml:space="preserve">
+    <value>Niet ingesteld</value>
   </data>
-  <data name="User.Text">
-    <value xml:space="preserve">Gebruiker</value>
+  <data name="User.Text" xml:space="preserve">
+    <value>Gebruiker</value>
   </data>
-  <data name="ViewCondition.Help">
-    <value xml:space="preserve">Selecteer de filteropties voor toepassing in de grid</value>
+  <data name="ViewCondition.Help" xml:space="preserve">
+    <value>Selecteer de filteropties voor toepassing in de grid</value>
   </data>
-  <data name="ViewCondition.Text">
-    <value xml:space="preserve">Set View Conditie</value>
+  <data name="ViewCondition.Text" xml:space="preserve">
+    <value>Stel weergaveconditie in</value>
   </data>
 </root>

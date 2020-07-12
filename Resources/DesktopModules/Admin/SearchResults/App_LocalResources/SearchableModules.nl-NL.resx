@@ -12,34 +12,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="All.Text">
-    <value xml:space="preserve">Alle</value>
+  <data name="All.Text" xml:space="preserve">
+    <value>Alle</value>
   </data>
-  <data name="Crawler_tab.Text">
-    <value xml:space="preserve">Pagina</value>
+  <data name="Crawler_tab.Text" xml:space="preserve">
+    <value>Pagina</value>
   </data>
-  <data name="Crawler_user.Text">
-    <value xml:space="preserve">Gebruikers</value>
+  <data name="Crawler_user.Text" xml:space="preserve">
+    <value>Gebruikers</value>
   </data>
-  <data name="Module_Answers.Text">
-    <value xml:space="preserve">Antwoorden</value>
+  <data name="Module_Answers.Text" xml:space="preserve">
+    <value>Antwoorden</value>
   </data>
-  <data name="Module_Blogs.Text">
-    <value xml:space="preserve">Blogs </value>
+  <data name="Module_Blogs.Text" xml:space="preserve">
+    <value>Blogs </value>
   </data>
-  <data name="Module_Events.Text">
-    <value xml:space="preserve">Gebeurtenissen</value>
+  <data name="Module_Events.Text" xml:space="preserve">
+    <value>Gebeurtenissen</value>
   </data>
-  <data name="Module_Ideas.Text">
-    <value xml:space="preserve">Ideeën </value>
-  </data>
-  <data name="Module_Journal.Text">
-    <value xml:space="preserve">Dagboek</value>
-  </data>
-  <data name="Module_Text/HTML.Text">
-    <value xml:space="preserve">pagina</value>
-  </data>
-  <data name="Module_Group Directory.Text">
+  <data name="Module_Group Directory.Text" xml:space="preserve">
     <value>Groep map</value>
+  </data>
+  <data name="Module_Ideas.Text" xml:space="preserve">
+    <value>Ideeën </value>
+  </data>
+  <data name="Module_Journal.Text" xml:space="preserve">
+    <value>Dagboek</value>
+  </data>
+  <data name="Module_Text/HTML.Text" xml:space="preserve">
+    <value>Pagina's</value>
   </data>
 </root>

@@ -12,22 +12,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cmdRegister.Text">
-    <value xml:space="preserve">Registreren</value>
+  <data name="captchaLabel.Help" xml:space="preserve">
+    <value>Voer de beveiligingscode in</value>
   </data>
-  <data name="RegisterWarning.Text">
-    <value xml:space="preserve">- &lt;em&gt;(&lt;strong&gt;Opmerking:&lt;/strong&gt; -registratie kan het enkele seconden duren.  Zodra u klikt op de knop registreren gelieve te wachten totdat het systeem moet reageren.)&lt;/em&gt;</value>
+  <data name="captchaLabel.Text" xml:space="preserve">
+    <value>Beveiligingscode:</value>
   </data>
-  <data name="ControlTitle_register.Text">
-    <value xml:space="preserve">Registreren</value>
+  <data name="cmdRegister.Text" xml:space="preserve">
+    <value>Registreren</value>
   </data>
-  <data name="captchaLabel.Help">
-    <value xml:space="preserve">Voer de beveiligingscode</value>
+  <data name="ControlTitle_register.Text" xml:space="preserve">
+    <value>Registreren</value>
   </data>
-  <data name="captchaLabel.Text">
-    <value xml:space="preserve">Beveiligingscode:</value>
+  <data name="NoEmail.Text" xml:space="preserve">
+    <value>De authenticatieprovider gebruikt om te registreren heeft geen e-mailadres verstrekt.  Voer een geldig e-mailadres in en klik op de knop registreren om je inschrijving te voltooien.</value>
   </data>
-  <data name="NoEmail.Text">
-    <value xml:space="preserve">De authenticatie provider gebruikt om te registreren heeft geen e-mailadres verstrekt.  Voer een geldig e-mailadres in en klik op de knop registreren om uw inschrijving te voltooien.</value>
+  <data name="RegisterWarning.Text" xml:space="preserve">
+    <value>- &lt;em&gt;(&lt;strong&gt;Opmerking:&lt;/strong&gt; -registratie kan het enkele seconden duren.  Zodra je klikt op de knop registreren moet je wachten totdat het systeem reageert.)&lt;/em&gt;</value>
   </data>
 </root>

@@ -12,130 +12,130 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="City.Help" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Voer een stad of locatie in.</value>
+  <data name="City.Help" xml:space="preserve">
+    <value>Voer een stad of locatie in.</value>
   </data>
-  <data name="City.Text">
-    <value xml:space="preserve">Stad:</value>
+  <data name="City.Text" xml:space="preserve">
+    <value>Stad:</value>
   </data>
-  <data name="DisplayName.Help" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Geef een weergavenaam op.</value>
+  <data name="DisplayName.Help" xml:space="preserve">
+    <value>Geef een weergavenaam op.</value>
   </data>
-  <data name="DisplayName.RegExError" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">De weergavenaam is ongeldig.</value>
+  <data name="DisplayName.RegExError" xml:space="preserve">
+    <value>De weergavenaam is ongeldig.</value>
   </data>
-  <data name="DisplayName.Required" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Weergavenaam is vereist.</value>
+  <data name="DisplayName.Required" xml:space="preserve">
+    <value>Weergavenaam is vereist.</value>
   </data>
-  <data name="DisplayName.Text">
-    <value xml:space="preserve">Naam weergeven:</value>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Naam weergeven:</value>
   </data>
-  <data name="Email.Help" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Voer een geldig e-mailadres in.</value>
+  <data name="Email.Help" xml:space="preserve">
+    <value>Voer een geldig e-mailadres in.</value>
   </data>
-  <data name="Email.RegExError" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">U moet een geldig e-mailadres invoeren.</value>
+  <data name="Email.RegExError" xml:space="preserve">
+    <value>Je moet een geldig e-mailadres invoeren.</value>
   </data>
-  <data name="Email.Required" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">E-mail adres is vereist.</value>
+  <data name="Email.Required" xml:space="preserve">
+    <value>E-mail adres is vereist.</value>
   </data>
-  <data name="Email.Text">
-    <value xml:space="preserve">E-mailadres:</value>
+  <data name="Email.Text" xml:space="preserve">
+    <value>E-mailadres:</value>
   </data>
-  <data name="FirstName.Help" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Voer een voornaam in.</value>
+  <data name="FirstName.Help" xml:space="preserve">
+    <value>Voer een voornaam in.</value>
   </data>
-  <data name="FirstName.RegExError" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Voornaam is ongeldig.</value>
+  <data name="FirstName.RegExError" xml:space="preserve">
+    <value>Voornaam is ongeldig.</value>
   </data>
-  <data name="FirstName.Required" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Voornaam is vereist.</value>
+  <data name="FirstName.Required" xml:space="preserve">
+    <value>Voornaam is vereist.</value>
   </data>
-  <data name="FirstName.Text">
-    <value xml:space="preserve">Voornaam:</value>
+  <data name="FirstName.Text" xml:space="preserve">
+    <value>Voornaam:</value>
   </data>
-  <data name="InvalidAnswer.Text">
-    <value xml:space="preserve">Ongeldig antwoord</value>
+  <data name="InvalidAnswer.Text" xml:space="preserve">
+    <value>Ongeldig antwoord</value>
   </data>
-  <data name="InvalidAnswer_Detail.Text">
-    <value xml:space="preserve">Het gegeven antwoord was ongeldig.</value>
+  <data name="InvalidAnswer_Detail.Text" xml:space="preserve">
+    <value>Het gegeven antwoord was ongeldig.</value>
   </data>
-  <data name="InvalidPassword.Text" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Ongeldig wachtwoord.</value>
+  <data name="InvalidPassword.Text" xml:space="preserve">
+    <value>Ongeldig wachtwoord.</value>
   </data>
-  <data name="InvalidPassword_Detail.Text">
-    <value xml:space="preserve">Het wachtwoord voldeed niet aan de minimale complexiteitsvereisten voor de site.</value>
+  <data name="InvalidPassword_Detail.Text" xml:space="preserve">
+    <value>Het wachtwoord voldeed niet aan de minimale complexiteitsvereisten voor de site.</value>
   </data>
-  <data name="InvalidQuestion.Text">
-    <value xml:space="preserve">Ongeldige vraag</value>
+  <data name="InvalidQuestion.Text" xml:space="preserve">
+    <value>Ongeldige vraag</value>
   </data>
-  <data name="InvalidQuestion_Detail.Text">
-    <value xml:space="preserve">De opgegeven vraag is ongeldig.</value>
+  <data name="InvalidQuestion_Detail.Text" xml:space="preserve">
+    <value>De opgegeven vraag is ongeldig.</value>
   </data>
-  <data name="LastName.Help" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Voer een achternaam in.</value>
+  <data name="LastName.Help" xml:space="preserve">
+    <value>Voer een achternaam in.</value>
   </data>
-  <data name="LastName.RegExError" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Achternaam is ongeldig.</value>
+  <data name="LastName.RegExError" xml:space="preserve">
+    <value>Achternaam is ongeldig.</value>
   </data>
-  <data name="LastName.Required" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Achternaam is vereist.</value>
+  <data name="LastName.Required" xml:space="preserve">
+    <value>Achternaam is vereist.</value>
   </data>
-  <data name="LastName.Text">
-    <value xml:space="preserve">Achternaam:</value>
+  <data name="LastName.Text" xml:space="preserve">
+    <value>Achternaam:</value>
   </data>
-  <data name="Password.Help" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Vul uw wachtwoord in.</value>
+  <data name="Password.Help" xml:space="preserve">
+    <value>Vul je wachtwoord in.</value>
   </data>
-  <data name="Password.Required" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">U moet een wachtwoord opgeven.</value>
+  <data name="Password.Required" xml:space="preserve">
+    <value>Je moet een wachtwoord opgeven.</value>
   </data>
-  <data name="PasswordAnswer.Help" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Geef een antwoord op de wachtwoord vraag.</value>
+  <data name="PasswordAnswer.Help" xml:space="preserve">
+    <value>Geef een antwoord op de wachtwoord vraag.</value>
   </data>
-  <data name="PasswordAnswer.Text">
-    <value xml:space="preserve">Wachtwoord antwoord:</value>
+  <data name="PasswordAnswer.Text" xml:space="preserve">
+    <value>Wachtwoord antwoord:</value>
   </data>
-  <data name="PasswordConfirm.Help" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Voer het wachtwoord ter verificatie opnieuw in.</value>
+  <data name="PasswordConfirm.Help" xml:space="preserve">
+    <value>Voer het wachtwoord ter verificatie opnieuw in.</value>
   </data>
-  <data name="PasswordConfirm.Required" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">U moet ter verificatie het wachtwoord nogmaals invoeren.</value>
+  <data name="PasswordConfirm.Required" xml:space="preserve">
+    <value>Je moet ter verificatie het wachtwoord nogmaals invoeren.</value>
   </data>
-  <data name="PasswordConfirm.Text">
-    <value xml:space="preserve">Bevestig wachtwoord:</value>
+  <data name="PasswordConfirm.Text" xml:space="preserve">
+    <value>Bevestig wachtwoord:</value>
   </data>
-  <data name="PasswordMismatch.Text">
-    <value xml:space="preserve">Het nieuwe wachtwoord en het bevestigingswachtwoord komen niet overeen. Het wachtwoord is niet veranderd.</value>
+  <data name="PasswordMismatch.Text" xml:space="preserve">
+    <value>Het nieuwe wachtwoord en het bevestigingswachtwoord komen niet overeen. Het wachtwoord is niet veranderd.</value>
   </data>
-  <data name="PasswordMismatch_Detail.Text">
-    <value xml:space="preserve">Het wachtwoord en wachtwoord verificatie komen niet overeen.</value>
+  <data name="PasswordMismatch_Detail.Text" xml:space="preserve">
+    <value>Het wachtwoord en wachtwoord verificatie komen niet overeen.</value>
   </data>
-  <data name="PasswordQuestion.Help" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Geef een wachtwoord vraag die gebruikt kan worden bij het opvragen van het wachtwoord.</value>
+  <data name="PasswordQuestion.Help" xml:space="preserve">
+    <value>Geef een wachtwoord vraag die gebruikt kan worden bij het opvragen van het wachtwoord.</value>
   </data>
-  <data name="PasswordQuestion.Text">
-    <value xml:space="preserve">Wachtwoord vraag:</value>
+  <data name="PasswordQuestion.Text" xml:space="preserve">
+    <value>Wachtwoordvraag:</value>
   </data>
-  <data name="PasswordReset.Text">
-    <value xml:space="preserve">Het wachtwoord is hersteld.</value>
+  <data name="PasswordReset.Text" xml:space="preserve">
+    <value>Het wachtwoord is hersteld.</value>
   </data>
-  <data name="Username.Help">
-    <value xml:space="preserve">Voereen gebruikersnaam in. </value>
+  <data name="Username.Help" xml:space="preserve">
+    <value>Voereen gebruikersnaam in. </value>
   </data>
-  <data name="Username.RegExError" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">De ingevoerde gebruikersnaam is ongeldig.</value>
+  <data name="Username.RegExError" xml:space="preserve">
+    <value>De ingevoerde gebruikersnaam is ongeldig.</value>
   </data>
-  <data name="Username.Required" lastModified="2015-12-31 10:34:51">
-    <value xml:space="preserve">Gebruikersnaam is vereist.</value>
+  <data name="Username.Required" xml:space="preserve">
+    <value>Gebruikersnaam is vereist.</value>
   </data>
-  <data name="Username.Text">
-    <value xml:space="preserve">Gebruikersnaam:</value>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Gebruikersnaam:</value>
   </data>
-  <data name="VanityUrl.Help">
-    <value xml:space="preserve">U kunt optioneel kiezen voor een aangepaste URL voor uw profiel.</value>
+  <data name="VanityUrl.Help" xml:space="preserve">
+    <value>Je kunt optioneel kiezen voor een aangepaste URL voor je profiel.</value>
   </data>
-  <data name="VanityUrl.Text">
-    <value xml:space="preserve">Profiel URL:</value>
+  <data name="VanityUrl.Text" xml:space="preserve">
+    <value>Profiel URL:</value>
   </data>
 </root>

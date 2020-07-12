@@ -12,17 +12,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CreateModule.Action">
-    <value xml:space="preserve">Maak module</value>
+  <data name="CreateModule.Action" xml:space="preserve">
+    <value>Maak module</value>
   </data>
-  <data name="EditContent.Action">
-    <value xml:space="preserve">Bewerk Script</value>
+  <data name="EditContent.Action" xml:space="preserve">
+    <value>Bewerk Script</value>
   </data>
-  <data name="scriptListLabel.Help">
-    <value xml:space="preserve">
-	Selecteer het Script dat moet worden gebruikt voor deze instantie van de Razor Host Module</value>
+  <data name="scriptListLabel.Help" xml:space="preserve">
+    <value>Selecteer het script dat moet worden gebruikt voor deze instantie van de Razor Host Module</value>
   </data>
-  <data name="scriptListLabel.Text">
-    <value xml:space="preserve">Script:</value>
+  <data name="scriptListLabel.Text" xml:space="preserve">
+    <value>Script:</value>
   </data>
 </root>

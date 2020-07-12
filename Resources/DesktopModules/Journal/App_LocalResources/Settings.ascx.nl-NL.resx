@@ -7,57 +7,57 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AllowFiles.Help" lastModified="2015-12-31 10:45:22">
-    <value xml:space="preserve">Selecteer deze optie om te bepalen of gebruikers wel of niet bestanden aan dagboek posts mogen toevoegen.</value>
+  <data name="AllowFiles.Help" xml:space="preserve">
+    <value>Selecteer deze optie om te bepalen of gebruikers wel of niet bestanden aan tijdlijn berichten mogen toevoegen.</value>
   </data>
-  <data name="AllowFiles.Text">
-    <value xml:space="preserve">Bestandsbijlagen inschakelen</value>
+  <data name="AllowFiles.Text" xml:space="preserve">
+    <value>Bestandsbijlagen inschakelen</value>
   </data>
-  <data name="AllowPhotos.Help" lastModified="2015-12-31 10:45:22">
-    <value xml:space="preserve">Selecteer deze optie om te bepalen of gebruikers wel of niet foto's aan dagboek posts mogen toevoegen.</value>
+  <data name="AllowPhotos.Help" xml:space="preserve">
+    <value>Selecteer deze optie om te bepalen of gebruikers wel of niet foto's aan tijdlijn berichten mogen toevoegen.</value>
   </data>
-  <data name="AllowPhotos.Text">
-    <value xml:space="preserve">Fotobijlagen inschakelen</value>
+  <data name="AllowPhotos.Text" xml:space="preserve">
+    <value>Fotobijlagen inschakelen</value>
   </data>
-  <data name="AllowResize.Help" lastModified="2015-12-31 10:45:22">
-    <value xml:space="preserve">Selecteer deze optie om te bepalen of geuploaden foto's in grootte moeten worden aangepast, alleen de foto's groter dan 400px worden aangepast.</value>
+  <data name="AllowResize.Help" xml:space="preserve">
+    <value>Selecteer deze optie om te bepalen of geuploaden foto's in grootte moeten worden aangepast, alleen de foto's groter dan 400px worden aangepast.</value>
   </data>
-  <data name="AllowResize.Text">
-    <value xml:space="preserve">Foto's in grootte aanpassen</value>
+  <data name="AllowResize.Text" xml:space="preserve">
+    <value>Foto's in grootte aanpassen</value>
   </data>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Dagboek instellingen</value>
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>Tijdlijn instellingen</value>
   </data>
-  <data name="DefaultPageSize.Help">
-    <value xml:space="preserve">Selecteer het aantal logboekitems dat moet worden weergegeven op een pagina.</value>
+  <data name="DefaultPageSize.Help" xml:space="preserve">
+    <value>Selecteer het aantal tijdlijnberichten dat moet worden weergegeven op een pagina.</value>
   </data>
-  <data name="DefaultPageSize.Text">
-    <value xml:space="preserve">Standaard pagina lengte</value>
+  <data name="DefaultPageSize.Text" xml:space="preserve">
+    <value>Standaard pagina lengte</value>
   </data>
-  <data name="EnableEditor.Help">
-    <value xml:space="preserve">Gebruik deze optie, in- of uitschakelen, van directe dagboek invoer met behulp van de dagboek bewerker.</value>
+  <data name="EnableEditor.Help" xml:space="preserve">
+    <value>Gebruik deze optie, in- of uitschakelen, van directe tijdlijn invoer door de tijdlijn bewerker.</value>
   </data>
-  <data name="EnableEditor.Text">
-    <value xml:space="preserve">Inschakelen dagboek bewerker </value>
+  <data name="EnableEditor.Text" xml:space="preserve">
+    <value>Inschakelen tijdlijn bewerker </value>
   </data>
-  <data name="JournalFilters.Help">
-    <value xml:space="preserve">Selecteer de dagboektypes die moeten worden weergegeven</value>
+  <data name="JournalFilters.Help" xml:space="preserve">
+    <value>Selecteer de tijdlijntypes die moeten worden weergegeven</value>
   </data>
-  <data name="JournalFilters.Text">
-    <value xml:space="preserve">Dagboektypes</value>
+  <data name="JournalFilters.Text" xml:space="preserve">
+    <value>Tijdlijntypes</value>
   </data>
-  <data name="MaxMessageLength.Help">
-    <value xml:space="preserve">Selecteer het maximum aantal tekens dat een dagboek bericht kan bevatten.</value>
+  <data name="MaxMessageLength.Help" xml:space="preserve">
+    <value>Selecteer het maximum aantal tekens dat een tijdlijn bericht kan bevatten.</value>
   </data>
-  <data name="MaxMessageLength.Text">
-    <value xml:space="preserve">Maximaal tekens per bericht</value>
+  <data name="MaxMessageLength.Text" xml:space="preserve">
+    <value>Maximaal tekens per bericht</value>
   </data>
-  <data name="MessageLength_Unlimited.Text">
-    <value xml:space="preserve">Ongelimiteerd</value>
+  <data name="MessageLength_Unlimited.Text" xml:space="preserve">
+    <value>Ongelimiteerd</value>
   </data>
 </root>
