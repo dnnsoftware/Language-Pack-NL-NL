@@ -40,7 +40,7 @@
     <value>Toevoegen</value>
   </data>
   <data name="AddUserPlaceHolder.Text" xml:space="preserve">
-    <value>Begin met typen om een gebruikerl toe te voegen</value>
+    <value>Begin met typen om een gebruiker toe te voegen</value>
   </data>
   <data name="Advanced.Text" xml:space="preserve">
     <value>Geavanceerd</value>
@@ -55,7 +55,7 @@
     <value>Indexeren toestaan</value>
   </data>
   <data name="AllowIndexing_tooltip.Text" xml:space="preserve">
-    <value>Deze instelling regelt of een pagina geindexeerd moet worden door bots. Het gebruikt INDEX/NOINDEX waarden voor ROBOTS meta tag.</value>
+    <value>Deze instelling regelt of een pagina geindexeerd moet worden door zoekmachines. Het gebruikt INDEX/NOINDEX waarden voor ROBOTS meta tag.</value>
   </data>
   <data name="AnErrorOccurred.Text" xml:space="preserve">
     <value>Er is een fout opgetreden</value>
@@ -73,10 +73,10 @@
     <value>Terug naar pagina instellingen</value>
   </data>
   <data name="BadTemplate.Text" xml:space="preserve">
-    <value>Het pagina sjabloon is geen geldig xml document. Selecteer een ander sjabloon en probeer opnieuw.</value>
+    <value>Het paginasjabloon is geen geldig xml document. Selecteer een ander sjabloon en probeer opnieuw.</value>
   </data>
   <data name="BranchParent.Text" xml:space="preserve">
-    <value>Ouder tak</value>
+    <value>Bovenliggende tak</value>
   </data>
   <data name="BrowseAction.Text" xml:space="preserve">
     <value>Druk op {opslaan|[ENTER]} om te bewaren, of {annuleren|[ESC]}om te annuleren</value>
@@ -118,10 +118,10 @@
     <value>Annuleren</value>
   </data>
   <data name="CancelWithoutSaving.Text" xml:space="preserve">
-    <value>Weet je zeker dat je wilt sluiten? Wijzigingen zullen verloren gaan. </value>
+    <value>Weet je zeker dat je wilt sluiten? De aangebrachte wijzigingen zullen verloren gaan. </value>
   </data>
   <data name="CannotCopyPermissionsToDescendantPages.Text" xml:space="preserve">
-    <value>Je hebt geen toestemming om toestemmingen te kopiëren naar onderliggende pagina's</value>
+    <value>Je hebt geen rechten om toestemmingen te kopiëren naar onderliggende pagina's</value>
   </data>
   <data name="CannotDeleteSpecialPage.Text" xml:space="preserve">
     <value>Een speciale pagina kan niet verwijderd worden.</value>
@@ -172,7 +172,7 @@
     <value>Kopieer module</value>
   </data>
   <data name="CopyPermissionsToDescendantPages.Text" xml:space="preserve">
-    <value>Kopieer Toestemmingen naar onderliggende pagina's</value>
+    <value>Kopieer machtigingen naar onderliggende pagina's</value>
   </data>
   <data name="CopyPermissionsToDescendantPagesSuccess.Text" xml:space="preserve">
     <value>Machtigingen zijn succesvol naar onderliggende pagina's gekopieerd</value>
@@ -223,10 +223,10 @@
     <value>Details</value>
   </data>
   <data name="DisableLink.Text" xml:space="preserve">
-    <value>pagina uitschakelen</value>
+    <value>Pagina niet klikbaar</value>
   </data>
   <data name="DisableLink_tooltip.Text" xml:space="preserve">
-    <value>Als de pagina is uitgeschakeld kan deze niet worden aangeklikt in het navigatie menu. De optie wordt gebruikt om een start locatie te definiëren voor submenu onderdelen.</value>
+    <value>Als de pagina is uitgeschakeld kan deze niet worden aangeklikt in het navigatie menu. De optie moet aanstaan om een startpunt te hebben voor submenu pagina's.</value>
   </data>
   <data name="DisplayInMenu.Text" xml:space="preserve">
     <value>Weergeven in menu</value>
@@ -721,7 +721,7 @@
     <value>Het geselecteerde thema zal worden toegepast op de pagina</value>
   </data>
   <data name="PageType.Text" xml:space="preserve">
-    <value>Pagina type</value>
+    <value>Paginatype</value>
   </data>
   <data name="PageUpdatedMessage.Text" xml:space="preserve">
     <value>Pagina succesvol bijgewerkt</value>
@@ -730,7 +730,7 @@
     <value>Bovenliggende pagina</value>
   </data>
   <data name="PathDuplicateWithAlias.Text" xml:space="preserve">
-    <value>Er is een site domein identiek aan je pagina pad.</value>
+    <value>Er is een site domein identiek aan je paginapad.</value>
   </data>
   <data name="PathDuplicateWithPage.Text" xml:space="preserve">
     <value>Er is al een pagina met hetzelfde URL pad {0}.</value>
@@ -742,7 +742,7 @@
     <value>Permanent doorsturen</value>
   </data>
   <data name="PermanentRedirectTooltip.Text" xml:space="preserve">
-    <value>Vink dit vakje aan als je de klant wilt inlichten dat deze pagina moet worden beschouwd als permanent verplaatst. dit stelt zoekmachines in staat om hun URLs aan te passen om direct naar de bron te kunnen verwijzen. Dit is genegeerd als het LinkType Geen is.</value>
+    <value>Vink dit vakje aan als je aan wilt geven dat deze pagina permanent verplaatst is. Dit stelt zoekmachines in staat om hun URLs aan te passen om direct naar de bron te kunnen verwijzen. Dit is genegeerd als het LinkType Geen is.</value>
   </data>
   <data name="Permissions.Text" xml:space="preserve">
     <value>Machtigingen</value>
@@ -757,19 +757,19 @@
     <value>Je moet een opmaak en een veld selecteren om de operatie uit te voeren.</value>
   </data>
   <data name="PreviewThemeLayoutAndContainer.Text" xml:space="preserve">
-    <value>Bekijk thema opmaak en container vooraf</value>
+    <value>Bekijk vooraf de thema opmaak en container</value>
   </data>
   <data name="Prompt_DeletePage_Description.Text" xml:space="preserve">
-    <value>Verwijdert een pagina in de site en stuurt deze naar de Prullenbak. Voor extra veiligheid staat deze methode het niet toe om pagina's met kinderen, applicatiebeheerpagina's of pagina's in het //Admin-pad te verwijderen.</value>
+    <value>Dit verwijdert een pagina in de site en verplaatst deze naar de Prullenbak. Voor extra veiligheid staat deze methode het niet toe om pagina's met subpagina's, applicatiebeheerpagina's of pagina's in het //Admin-pad te verwijderen.</value>
   </data>
   <data name="Prompt_DeletePage_FlagId.Text" xml:space="preserve">
-    <value>Geeft expliciet de pagina-ID aan die moet worden verwijderd. Gebruik van de vlagnaam is niet vereist. Je kunt eenvoudig de ID-waarde als het eerste argument opgeven. Vereist als &lt;span class="mono"&gt;--parentid&lt;/span&gt; niet opgegeven is.</value>
+    <value>Geeft expliciet de pagina-ID aan die moet worden verwijderd. Gebruik van de vlagnaam is niet vereist. Je kunt eenvoudig de ID-waarde als het eerste argument opgeven. Dit is vereist als het &lt;span class="mono"&gt;--parentid&lt;/span&gt; niet opgegeven is.</value>
   </data>
   <data name="Prompt_DeletePage_FlagName.Text" xml:space="preserve">
     <value>De naam (niet de titel) van de pagina die moet worden verwijderd.</value>
   </data>
   <data name="Prompt_DeletePage_FlagParentId.Text" xml:space="preserve">
-    <value>Het pagina- / tab-ID van het bovenliggende item van de pagina in de paginahiërarchie. Alleen vereist als --naam is opgegeven als parameter verwijderen en de pagina zich niet in de hoofdmap bevindt.</value>
+    <value>Het pagina-/tab-ID van het bovenliggende item van de pagina in de paginahiërarchie. Dit is alleen vereist als --naam is opgegeven als parameter verwijderen en de pagina zich niet in de hoofdmap bevindt.</value>
   </data>
   <data name="Prompt_DeletePage_ResultHtml.Text" xml:space="preserve">
     <value>&lt;div&gt;
