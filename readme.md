@@ -2,6 +2,7 @@
 
 
 Versions available:
+* DNN 09.06.03
 * DNN 09.06.02
 * DNN 09.06.01
 * DNN 09.02.00

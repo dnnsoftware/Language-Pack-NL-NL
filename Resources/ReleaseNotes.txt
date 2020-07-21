@@ -3,6 +3,20 @@
 Allereerst bedanken we iedereen in de community voor de Pull Requests die zijn aangeleverd en/of voor het melden van problemen. We hebben daar dankbaar gebruik gemaakt bij het samenstellen van het nl_NL taalpakket voor deze release van DNN. 
 Word ook actief community member en draag bij aan DNNPlatform voor het Nederlandse taalgebied. Ga naar <a href="https://github.com/dnnsoftware/Language-Pack-NL-NL" target="_blank">Language Pack nl-NL</a> op GitHub.
 </p>
+<h3>Language Pack versie nl-NL 09.06.03</h3>
+<p>
+Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:
+</p> 
+<ul>
+<li>
+Toevoegen van nieuwe DNN 09.06.03 tekstelementen
+</li>
+</ul>
+<p>
+Bijdragen voor deze update kwamen van:
+<a href="https://github.com/schotman" target="_blank">@schotman</a>;
+<a href="https://github.com/EPTamminga" target="_blank">@EPTamminga</a>.
+</p>
 <h3>Language Pack versie nl-NL 09.06.02</h3>
 <p>
 Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:
