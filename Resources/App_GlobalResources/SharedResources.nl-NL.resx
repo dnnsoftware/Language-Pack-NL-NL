@@ -1366,7 +1366,7 @@
     <value>&lt;strong&gt; Een e-mail met je gegevens is verstuurd naar de beheerder van site voor verificatie. Zodra je aanmelding is goedgekeurd zal er een e-mail worden verzonden naar je e-mail adres. in de tussentijd kun je verder browsen op de website door de popup te sluiten.&lt;/strong&gt;</value>
   </data>
   <data name="PrivateMembership.Text" xml:space="preserve">
-    <value>&lt;strong&gt;* Opmerking: &lt;/strong&gt; Lidmaatschap van deze website is privé. Als je account informatie is ingediend, zal de website beheerder in kennis gesteld en je aanvraag zal worden onderworpen aan een screening procedure. Als je aanvraag wordt goedgekeurd, ontvang je een melding van je toegang tot de website.</value>
+    <value>&lt;strong&gt;* Opmerking: &lt;/strong&gt; Lidmaatschap van deze website is privé. Als je account informatie is ingediend, zal de website beheerder in kennis gesteld en je aanvraag zal worden onderworpen aan een screening procedure. Als je aanvraag wordt goedgekeurd, ontvang je een melding van je toegang tot de website. </value>
   </data>
   <data name="ProcessObject.Text" xml:space="preserve">
     <value>Verwerken ingesloten object</value>
@@ -1441,7 +1441,7 @@
     <value>Weet je zeker dat je deze items wilt verwijderen?</value>
   </data>
   <data name="Required.Text" xml:space="preserve">
-    <value>Alle velden die met een rode pijl zijn gemarkeerd moeten ingevuld worden</value>
+    <value>Alle velden die als verplicht zijn gemarkeerd, moeten ingevuld worden. </value>
   </data>
   <data name="RequiredFields.Text" xml:space="preserve">
     <value>Geeft verplichte velden aan</value>

@@ -7,10 +7,10 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="City.Help" xml:space="preserve">
     <value>Voer een stad of locatie in.</value>
@@ -19,16 +19,16 @@
     <value>Stad:</value>
   </data>
   <data name="DisplayName.Help" xml:space="preserve">
-    <value>Geef een weergavenaam op.</value>
+    <value>Geef een weergavenaam op, deze naam wordt gebruikt in de user interface, anderen zien deze ook, gebruik bijv voornaam tussenvoegsel achternaam.</value>
   </data>
   <data name="DisplayName.RegExError" xml:space="preserve">
-    <value>De weergavenaam is ongeldig.</value>
+    <value>De weergavenaam is ongeldig</value>
   </data>
   <data name="DisplayName.Required" xml:space="preserve">
-    <value>Weergavenaam is vereist.</value>
+    <value>Weergavenaam is is een verplicht veld</value>
   </data>
   <data name="DisplayName.Text" xml:space="preserve">
-    <value>Naam weergeven:</value>
+    <value>Weergavenaam:</value>
   </data>
   <data name="Email.Help" xml:space="preserve">
     <value>Voer een geldig e-mailadres in.</value>
@@ -37,19 +37,19 @@
     <value>Je moet een geldig e-mailadres invoeren.</value>
   </data>
   <data name="Email.Required" xml:space="preserve">
-    <value>E-mail adres is vereist.</value>
+    <value>Je e-mailadres is een verplicht veld</value>
   </data>
   <data name="Email.Text" xml:space="preserve">
     <value>E-mailadres:</value>
   </data>
   <data name="FirstName.Help" xml:space="preserve">
-    <value>Voer een voornaam in.</value>
+    <value>Voer je voornaam in.</value>
   </data>
   <data name="FirstName.RegExError" xml:space="preserve">
-    <value>Voornaam is ongeldig.</value>
+    <value>Voornaam is ongeldig</value>
   </data>
   <data name="FirstName.Required" xml:space="preserve">
-    <value>Voornaam is vereist.</value>
+    <value>Voornaam is is een verplicht veld</value>
   </data>
   <data name="FirstName.Text" xml:space="preserve">
     <value>Voornaam:</value>
@@ -61,7 +61,7 @@
     <value>Het gegeven antwoord was ongeldig.</value>
   </data>
   <data name="InvalidPassword.Text" xml:space="preserve">
-    <value>Ongeldig wachtwoord.</value>
+    <value>Ongeldig wachtwoord</value>
   </data>
   <data name="InvalidPassword_Detail.Text" xml:space="preserve">
     <value>Het wachtwoord voldeed niet aan de minimale complexiteitsvereisten voor de site.</value>
@@ -70,16 +70,16 @@
     <value>Ongeldige vraag</value>
   </data>
   <data name="InvalidQuestion_Detail.Text" xml:space="preserve">
-    <value>De opgegeven vraag is ongeldig.</value>
+    <value>De opgegeven vraag is ongeldig</value>
   </data>
   <data name="LastName.Help" xml:space="preserve">
-    <value>Voer een achternaam in.</value>
+    <value>Voer je achternaam in.</value>
   </data>
   <data name="LastName.RegExError" xml:space="preserve">
-    <value>Achternaam is ongeldig.</value>
+    <value>Achternaam is ongeldig</value>
   </data>
   <data name="LastName.Required" xml:space="preserve">
-    <value>Achternaam is vereist.</value>
+    <value>Achternaam is een verplicht veld</value>
   </data>
   <data name="LastName.Text" xml:space="preserve">
     <value>Achternaam:</value>
@@ -121,19 +121,19 @@
     <value>Het wachtwoord is hersteld.</value>
   </data>
   <data name="Username.Help" xml:space="preserve">
-    <value>Voereen gebruikersnaam in. </value>
+    <value>Voer een gebruikersnaam in, deze naam gebruik je om in te loggen in het systeem.</value>
   </data>
   <data name="Username.RegExError" xml:space="preserve">
-    <value>De ingevoerde gebruikersnaam is ongeldig.</value>
+    <value>De ingevoerde gebruikersnaam is ongeldig (mogelijk is deze al in gebruik door een ander).</value>
   </data>
   <data name="Username.Required" xml:space="preserve">
-    <value>Gebruikersnaam is vereist.</value>
+    <value>Gebruikersnaam is vereist</value>
   </data>
   <data name="Username.Text" xml:space="preserve">
     <value>Gebruikersnaam:</value>
   </data>
   <data name="VanityUrl.Help" xml:space="preserve">
-    <value>Je kunt optioneel kiezen voor een aangepaste URL voor je profiel.</value>
+    <value>Je kunt optioneel kiezen voor een aangepaste URL voor je profiel</value>
   </data>
   <data name="VanityUrl.Text" xml:space="preserve">
     <value>Profiel URL:</value>

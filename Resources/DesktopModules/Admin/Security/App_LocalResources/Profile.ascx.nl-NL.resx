@@ -43,10 +43,10 @@
     <value>Geef een gsm/mobiel telefoonnummer</value>
   </data>
   <data name="ProfileProperties_Cell.Required" xml:space="preserve">
-    <value>GSM nummer is een verplicht veld</value>
+    <value>Mobiel nummer is een verplicht veld</value>
   </data>
   <data name="ProfileProperties_Cell.Text" xml:space="preserve">
-    <value>GSM:</value>
+    <value>Mobiel:</value>
   </data>
   <data name="ProfileProperties_City.Help" xml:space="preserve">
     <value>Geef de plaatsnaam</value>
@@ -76,7 +76,7 @@
     <value>Weergavenaam:</value>
   </data>
   <data name="ProfileProperties_Email.Text" xml:space="preserve">
-    <value>E-mail adres:</value>
+    <value>E-mailadres:</value>
   </data>
   <data name="ProfileProperties_Facebook.Help" xml:space="preserve">
     <value>Een link naar jou Facebook profiel met een format beginnend met facebook.com/</value>
@@ -85,7 +85,7 @@
     <value>Facebook is vereist</value>
   </data>
   <data name="ProfileProperties_Facebook.Text" xml:space="preserve">
-    <value>Facebook</value>
+    <value>Facebook:</value>
   </data>
   <data name="ProfileProperties_Fax.Help" xml:space="preserve">
     <value>Geef een faxnummer</value>
@@ -97,13 +97,13 @@
     <value>Fax:</value>
   </data>
   <data name="ProfileProperties_FirstName.Help" xml:space="preserve">
-    <value>Geef een voornaam</value>
+    <value>Geef een voornaam.</value>
   </data>
   <data name="ProfileProperties_FirstName.Required" xml:space="preserve">
     <value>Voornaam is een verplicht veld</value>
   </data>
   <data name="ProfileProperties_FirstName.Text" xml:space="preserve">
-    <value>Voornaam</value>
+    <value>Voornaam:</value>
   </data>
   <data name="ProfileProperties_GooglePlus.Help" xml:space="preserve">
     <value>Een link naar jou Google+ profiel met een format beginnend met plus.google.com/</value>
@@ -139,7 +139,7 @@
     <value>LinkedIn is vereist.</value>
   </data>
   <data name="ProfileProperties_LinkedIn.Text" xml:space="preserve">
-    <value>LinkedIn</value>
+    <value>LinkedIn:</value>
   </data>
   <data name="ProfileProperties_MiddleName.Help" xml:space="preserve">
     <value>Tweede naam.</value>
@@ -217,7 +217,7 @@
     <value>Skype ID is verplicht.</value>
   </data>
   <data name="ProfileProperties_Skype.Text" xml:space="preserve">
-    <value>Skype ID</value>
+    <value>Skype ID:</value>
   </data>
   <data name="ProfileProperties_Street.Help" xml:space="preserve">
     <value>Geef de straatnaam + huisnummer</value>
@@ -262,7 +262,7 @@
     <value>Twitter is vereist.</value>
   </data>
   <data name="ProfileProperties_Twitter.Text" xml:space="preserve">
-    <value>Twitter</value>
+    <value>Twitter:</value>
   </data>
   <data name="ProfileProperties_Unit.Help" xml:space="preserve">
     <value>Geef een kamernummer voor een appartement of een studio.</value>
