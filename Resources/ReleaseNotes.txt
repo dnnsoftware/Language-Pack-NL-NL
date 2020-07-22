@@ -8,8 +8,11 @@ Word ook actief community member en draag bij aan DNNPlatform voor het Nederland
 Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:
 </p> 
 <ul>
-<li>
+|<li>
 Toevoegen van nieuwe DNN 09.06.03 tekstelementen
+</li>
+<li>
+Verbeteren van de teksten van de registratie, profiel, paginabeheer
 </li>
 </ul>
 <p>
