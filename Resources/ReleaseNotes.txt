@@ -1,7 +1,6 @@
 <h2>Release notes voor het nl-NL Taalpakket</h2>
 <p>
-Allereerst bedanken we iedereen in de community voor de Pull Requests die zijn aangeleverd en/of voor het melden van problemen. We hebben daar dankbaar gebruik gemaakt bij het samenstellen van het nl_NL taalpakket voor deze release van DNN. 
-Word ook actief community member en draag bij aan DNNPlatform voor het Nederlandse taalgebied. Ga naar <a href="https://github.com/dnnsoftware/Language-Pack-NL-NL" target="_blank">Language Pack nl-NL</a> op GitHub.
+Allereerst bedanken we iedereen in de community voor de Pull Requests die zijn aangeleverd en/of voor het melden van problemen. We hebben daar dankbaar gebruik gemaakt bij het samenstellen van het nl_NL taalpakket voor deze release van DNN. Word ook actief community member en draag bij aan DNNPlatform voor het Nederlandse taalgebied. Ga naar <a href="https://github.com/dnnsoftware/Language-Pack-NL-NL" target="_blank">Language Pack nl-NL</a> op GitHub.
 </p>
 <h3>Language Pack versie nl-NL 09.06.03</h3>
 <p>
@@ -15,11 +14,6 @@ Toevoegen van nieuwe DNN 09.06.03 tekstelementen
 Verbeteren van de teksten van de registratie, profiel, paginabeheer
 </li>
 </ul>
-<p>
-Bijdragen voor deze update kwamen van:
-<a href="https://github.com/schotman" target="_blank">@schotman</a>;
-<a href="https://github.com/EPTamminga" target="_blank">@EPTamminga</a>.
-</p>
 <h3>Language Pack versie nl-NL 09.06.02</h3>
 <p>
 Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:
@@ -35,16 +29,6 @@ Het wjzigen van U/Uw naar Je/Jouw in alle teksten
 Het volledig stroomlijnen van alle Nederlandse vertalingen aan de hand van de afgesproken standaard termen en vertalingen. <br />Zie de <a href="https://github.com/dnnsoftware/Language-Pack-NL-NL/blob/develop/.github/COMMON_TERMS.md" target="_blank">standaard Nederlandse termen</a>
 </li>
 </ul>
-<p>
-Bijdragen voor deze update kwamen van:
-<a href="https://github.com/trouble2" target="_blank">@trouble2</a>;
-<a href="https://github.com/aspelt" target="_blank">@aspelt</a>;
-<a href="https://github.com/valadas" target="_blank">@valadas</a>;
-<a href="https://github.com/MarNothing" target="_blank">@MarNothing</a>;
-<a href="https://github.com/goedings" target="_blank">@goedings</a>;
-<a href="https://github.com/donker" target="_blank">@donker</a>;
-<a href="https://github.com/EPTamminga" target="_blank">@EPTamminga</a>.
-</p>
 <h3>Language Pack versie nl-NL 09.06.01</h3>
 <p>
 Belangrijkste verbetering in deze release van het nl-NL taalpakket:
