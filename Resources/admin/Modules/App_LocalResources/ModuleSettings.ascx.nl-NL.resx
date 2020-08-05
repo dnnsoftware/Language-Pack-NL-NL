@@ -150,8 +150,8 @@
   <data name="Permissions.Text" xml:space="preserve">
     <value>Machtigingen</value>
   </data>
-  <data name="plAdminBorder.Help" xml:space="preserve" lastModified="2020-06-27 14:40:23">
-    <value>Vink deze optie om het bericht aan de bovenzijde van de module vermeldt dat de module alleen zichtbaar is voor beheerders is, te verbergen.</value>
+  <data name="plAdminBorder.Help" xml:space="preserve" lastModified="2020-07-31 12:11:11">
+    <value>Vink deze optie om het bericht te verbergen dat aan de bovenzijde van de module vermeldt dat de module alleen zichtbaar is voor beheerders is.</value>
   </data>
   <data name="plAdminBorder.Text" xml:space="preserve" lastModified="2020-06-27 14:40:23">
     <value>Verberg bericht Beheerder</value>
@@ -321,8 +321,8 @@
   <data name="plWebSliceTTL.Help" xml:space="preserve">
     <value>Geef de Time to Live (TTL) in minuten op voor deze Web Slice. Indien leeg gelaten zal de standaard cache tijd worden gebruikt  (geconverteerd naar minuten)</value>
   </data>
-  <data name="plWebSliceTTL.Text" xml:space="preserve">
-    <value>Web Slice TTL:</value>
+  <data name="plWebSliceTTL.Text" xml:space="preserve" lastModified="2020-07-31 12:11:44">
+    <value>Webslice TTL:</value>
   </data>
   <data name="PreviewNoSelectionMessage.Text" xml:space="preserve">
     <value>Gelieve een container te selecteren om een vooruitblik te kunnen zien.</value>

@@ -204,8 +204,8 @@
   <data name="Logs_Type.Text" xml:space="preserve" lastModified="2020-06-27 14:35:38">
     <value>Type</value>
   </data>
-  <data name="Logs_UpgradeLog.Text" xml:space="preserve" lastModified="2020-06-27 14:35:38">
-    <value>Updgrade log</value>
+  <data name="Logs_UpgradeLog.Text" xml:space="preserve" lastModified="2020-07-31 12:19:18">
+    <value>Upgrade log</value>
   </data>
   <data name="Name.Text" xml:space="preserve" lastModified="2016-12-01 17:36:39">
     <value>Naam</value>
@@ -216,11 +216,11 @@
   <data name="NoBackups.Text" xml:space="preserve" lastModified="2016-12-01 17:36:39">
     <value>Deze database is niet ge-backupt.</value>
   </data>
-  <data name="NoIntegerValueError.Text" xml:space="preserve" lastModified="2016-12-01 17:36:39">
-    <value>Moet een positieve integer waarde zijn.</value>
+  <data name="NoIntegerValueError.Text" xml:space="preserve" lastModified="2020-07-31 12:19:18">
+    <value>Moet een positief geheel getal zijn.</value>
   </data>
-  <data name="PerformanceTab_AjaxWarning.Text" xml:space="preserve" lastModified="2016-12-01 17:36:39">
-    <value>Waarschuwing: Geheugen pagnia status volharding kan zorgen voor AJAX problemen.</value>
+  <data name="PerformanceTab_AjaxWarning.Text" xml:space="preserve" lastModified="2020-07-31 12:19:18">
+    <value>Waarschuwing: Geheugen pagina status volharding kan zorgen voor AJAX problemen.</value>
   </data>
   <data name="PerformanceTab_AuthCacheability.Help" xml:space="preserve" lastModified="2016-12-01 17:36:39">
     <value>Stelt de cache-besturing HTTP header waarde in voor gemachtigde gebruikers.</value>

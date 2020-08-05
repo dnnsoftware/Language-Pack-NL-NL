@@ -18,8 +18,8 @@
   <data name="AcceptTerms.Text" xml:space="preserve">
     <value>Ik ga akkoord met de  &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;gebruikersvoorwaardenlicense&lt;/a&gt;</value>
   </data>
-  <data name="AccountInfo.Text" xml:space="preserve">
-    <value>Vul uw account informatie in</value>
+  <data name="AccountInfo.Text" xml:space="preserve" lastModified="2020-07-31 12:24:25">
+    <value>Vul uw accountinformatie in</value>
   </data>
   <data name="AccountInfoIntro.Text" xml:space="preserve">
     <value>Vul de volgende informatie in om uw omgeving te installeren.</value>
@@ -45,20 +45,20 @@
   <data name="Confirm.Text" xml:space="preserve">
     <value>Bevestig Wachtwoord:</value>
   </data>
-  <data name="CreateSuperUser.Text" xml:space="preserve">
-    <value>Hostgebruiker aanmaken</value>
+  <data name="CreateSuperUser.Text" xml:space="preserve" lastModified="2020-07-31 12:24:25">
+    <value>Applicatiebeheerder aanmaken</value>
   </data>
   <data name="CreatingSite.Text" xml:space="preserve">
     <value>Site aanmaken [{0}]</value>
   </data>
-  <data name="CreatingSuperUser.Text" xml:space="preserve">
-    <value>Hostgebruiker aanmaken</value>
+  <data name="CreatingSuperUser.Text" xml:space="preserve" lastModified="2020-07-31 12:24:25">
+    <value>Applicatiebeheerder aanmaken</value>
   </data>
   <data name="DatabaseAdvanced.Text" xml:space="preserve">
     <value>Aangepast</value>
   </data>
-  <data name="DatabaseConnectionError.Text" xml:space="preserve">
-    <value>Database Connectie Error</value>
+  <data name="DatabaseConnectionError.Text" xml:space="preserve" lastModified="2020-07-31 12:24:25">
+    <value>Database Connectie fout</value>
   </data>
   <data name="DatabaseError.Text" xml:space="preserve">
     <value>Connectie met database niet mogelijk.</value>
@@ -162,23 +162,23 @@
   <data name="DotNetVersion472Required.Text" xml:space="preserve" lastModified="2020-05-10 17:13:30">
     <value>.Net Framework 4.7.2 is vereist. COntroleer de Windows updates voordat u verder gaat.</value>
   </data>
-  <data name="Email.Help" xml:space="preserve">
-    <value>Vul een emailadres in voor deze gebruiker</value>
+  <data name="Email.Help" xml:space="preserve" lastModified="2020-07-31 12:24:25">
+    <value>Vul een e-mailadres in voor deze gebruiker</value>
   </data>
   <data name="Email.Invalid" xml:space="preserve">
     <value>Het ingevulde emailadres is niet geldig</value>
   </data>
-  <data name="Email.Required" xml:space="preserve">
-    <value>Een emailadres is vereist</value>
+  <data name="Email.Required" xml:space="preserve" lastModified="2020-07-31 12:24:25">
+    <value>Een e-mailadres is vereist</value>
   </data>
-  <data name="Email.Text" xml:space="preserve">
-    <value>Emailadres:</value>
+  <data name="Email.Text" xml:space="preserve" lastModified="2020-07-31 12:24:25">
+    <value>E-mailadres:</value>
   </data>
   <data name="Error.Text" xml:space="preserve">
     <value>Error </value>
   </data>
-  <data name="ErrorInStep.Text" xml:space="preserve">
-    <value> Er heeft zich een fout voorgedaan - {0}</value>
+  <data name="ErrorInStep.Text" xml:space="preserve" lastModified="2020-07-31 12:24:25">
+    <value>Er heeft zich een fout voorgedaan - {0}</value>
   </data>
   <data name="ExtensionsInstallation.Text" xml:space="preserve">
     <value>Extensie installatie</value>
@@ -273,8 +273,8 @@ Bij gebruik van Windows Explorer, browse naar de folders van uw website ( {0} ).
   <data name="InstallVersion.Text" xml:space="preserve">
     <value>Installatieversie toevoegen</value>
   </data>
-  <data name="IntroDetail.Text" xml:space="preserve" lastModified="2020-06-27 14:43:38">
-    <value>&lt;a class="videoLink" href="https://dnncommunity.org/How-To/-Download-and-Install" target="new"&gt;Bekijk Installatie Video&lt;/a&gt;</value>
+  <data name="IntroDetail.Text" xml:space="preserve" lastModified="2020-07-31 12:24:25">
+    <value>&lt;a class="videoLink" href="https://dnncommunity.org/How-To/-Download-and-Install" target="new"&gt;Bekijk Installatievideo&lt;/a&gt;</value>
   </data>
   <data name="InvalidQualifier.Text" xml:space="preserve">
     <value>De objectqualifier moet met een letter beginnen en mag niet langer zijn dan 20 tekens</value>
@@ -379,8 +379,8 @@ Standaard database installatie opties niet beschikbaar</value>
   <data name="StepFailed.Text" xml:space="preserve">
     <value>Stap mislukt- {0}</value>
   </data>
-  <data name="SuperUserCreation.Text" xml:space="preserve">
-    <value>Aanmaken van SuperUser</value>
+  <data name="SuperUserCreation.Text" xml:space="preserve" lastModified="2020-07-31 12:24:25">
+    <value>Aanmaken van de Applicatiebeheerder (SuperUser)</value>
   </data>
   <data name="TemplateBlank.Text" xml:space="preserve">
     <value>Lege website</value>
@@ -412,8 +412,8 @@ Standaard database installatie opties niet beschikbaar</value>
   <data name="UpgradingVersionApplication.Text" xml:space="preserve">
     <value>Upgraden van Applicatie naar</value>
   </data>
-  <data name="UserName.Help" xml:space="preserve">
-    <value>De gebruikersnaam voor het SuperUser account.</value>
+  <data name="UserName.Help" xml:space="preserve" lastModified="2020-07-31 12:24:25">
+    <value>De gebruikersnaam voor de Applicatiebeheerder account.</value>
   </data>
   <data name="UserName.Required" xml:space="preserve">
     <value>Gebruikersnaam is verplicht.</value>
@@ -436,11 +436,11 @@ Standaard database installatie opties niet beschikbaar</value>
   <data name="WebsiteName.Help" xml:space="preserve">
     <value>Geef de naam op die u wilt gebruiken voor uw website</value>
   </data>
-  <data name="WebsiteName.Required" xml:space="preserve">
-    <value>Website naam is verplicht.</value>
+  <data name="WebsiteName.Required" xml:space="preserve" lastModified="2020-07-31 12:24:25">
+    <value>De websitenaam is verplicht.</value>
   </data>
-  <data name="WebsiteName.Text" xml:space="preserve">
-    <value>Website naam</value>
+  <data name="WebsiteName.Text" xml:space="preserve" lastModified="2020-07-31 12:24:25">
+    <value>Websitenaam</value>
   </data>
   <data name="WebsiteTemplate.Help" xml:space="preserve">
     <value>Het soort website dat u wilt maken.</value>
