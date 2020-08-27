@@ -43,7 +43,7 @@
     <value>Profielveld details bewerken</value>
   </data>
   <data name="Introduction_Add.Help" xml:space="preserve">
-    <value>De eerste stap bij het aanmaken van een nieuw profielveld is het definiëren van de details. Voer de details van het veld in deze pagina in, en pas deze toe door op "Volgende" te klikken. NB:  De velden met een rode pijl moeten verplicht ingevuld worden</value>
+    <value>De eerste stap bij het aanmaken van een nieuw profielveld is het definiëren van de details. Voer de details van het veld in deze pagina in, en pas deze toe door op "Volgende" te klikken. NB: De velden met een rode pijl/ster moeten verplicht ingevuld worden. </value>
   </data>
   <data name="Introduction_Add.Title" xml:space="preserve">
     <value>Profielveld details toevoegen</value>

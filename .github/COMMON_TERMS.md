@@ -20,6 +20,7 @@ extension |  | uitbreiding |
 host |  | applicatiebeheerder | superuser
 host account |  | applicatiebeheersdersaccount | 
 host settings |  | applicatieinstellingen | 
+journal | journal | tijdlijn | 
 page | tab | pagina | pagina in de site
 pane | | deelvenster | onderdeel paginaindeling
 portal settings |  | siteinstellingen |
