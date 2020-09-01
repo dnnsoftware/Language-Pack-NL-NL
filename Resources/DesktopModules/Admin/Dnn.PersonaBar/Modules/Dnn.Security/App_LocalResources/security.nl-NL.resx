@@ -100,7 +100,7 @@
     <value>Controleer debug status.</value>
   </data>
   <data name="CheckDebugReason.Text" xml:space="preserve">
-    <value>Als het debug attribuut geactiveerd staat heeft dit invloed op de snelheid en van het bruikbare beveiligings uitzonderingen laten zien aan hackers. </value>
+    <value>Als het debug attribuut geactiveerd staat heeft dit invloed op de snelheid en van het bruikbare beveiligingsuitzonderingen laten zien aan hackers. </value>
   </data>
   <data name="CheckDebugSuccess.Text" xml:space="preserve">
     <value>Niet in debug mode. Deze instelling is afhankelijk van de ingestelde waarde in de web.config.</value>
@@ -1006,7 +1006,7 @@
     <value>Meer</value>
   </data>
   <data name="TabMoreSecuritySettings.Text" xml:space="preserve">
-    <value>MEER BEVEILIGINGS INSTELLINGEN</value>
+    <value>MEER BEVEILIGINGSINSTELLINGEN</value>
   </data>
   <data name="TabRegistrationSettings.Text" xml:space="preserve">
     <value>REGISTRATIE INSTELLINGEN</value>
@@ -1015,10 +1015,10 @@
     <value>SCANNER CONTROLE</value>
   </data>
   <data name="TabSecurityAnalyzer.Text" xml:space="preserve">
-    <value>Beveiligings analyse</value>
+    <value>Beveiligingsanalyse</value>
   </data>
   <data name="TabSecurityBulletins.Text" xml:space="preserve">
-    <value>Beveiligings berichten</value>
+    <value>Beveiligingsberichten</value>
   </data>
   <data name="TabSettings.Text" xml:space="preserve">
     <value>Tab instelllingen</value>
