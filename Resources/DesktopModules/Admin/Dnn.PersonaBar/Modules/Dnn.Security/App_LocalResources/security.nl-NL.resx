@@ -37,10 +37,10 @@
     <value>Geautoriseerd</value>
   </data>
   <data name="AutoAccountUnlockDuration.ErrorMessage" xml:space="preserve">
-    <value>Automatische account ontgrendelingstijd moet een numerieke waarde zijn die gelijk of groter is dan 0 maar minder dan 1000.</value>
+    <value>Automatische accountontgrendelingstijd moet een numerieke waarde zijn die gelijk of groter is dan 0 maar minder dan 1000.</value>
   </data>
   <data name="BasicLoginSettingsError" xml:space="preserve">
-    <value>Kan de logininstellingen niet bijwerken, probeer het later opnieuw..</value>
+    <value>Kan de logininstellingen niet bijwerken, probeer het later opnieuw.</value>
   </data>
   <data name="BasicLoginSettingsUpdateSuccess" xml:space="preserve">
     <value>Logininstellingen zijn bijgewerkt.</value>
@@ -70,7 +70,7 @@
     <value>[ Check ]</value>
   </data>
   <data name="CheckAllowableFileExtensionsFailure.Text" xml:space="preserve">
-    <value>Er zijn aspx, asp of php bestanden gevonden in de toegestane bestandsextensie instellingen. Dit geeft hackers de mogelijkheid om code te uploaden. Verwijder de extentie binnen Applicatiebeheerder &gt; Applicatieinstellingen&gt; Toegestane bestandsextensies.</value>
+    <value>Er zijn aspx, asp of php bestanden gevonden in de toegestane bestandsextensie instellingen. Dit geeft hackers de mogelijkheid om code te uploaden. Verwijder de extensie binnen Applicatiebeheerder &gt; Applicatieinstellingen&gt; Toegestane bestandsextensies.</value>
   </data>
   <data name="CheckAllowableFileExtensionsName.Text" xml:space="preserve">
     <value>Controleer of er schadelijke bestandsextensies worden toegestaan door de bestandsuploader</value>
@@ -82,7 +82,7 @@
     <value>De toegestane bestandsextensies zijn correct ingesteld.</value>
   </data>
   <data name="CheckBiographyFailure.Text" xml:space="preserve">
-    <value>Dit veld is geavanceerd tekstveld. Spammer kunnen via dit veld binnen hun biografie links plaatsen naar hun website.</value>
+    <value>Dit veld is geavanceerd tekstveld. Spammers kunnen via dit veld binnen hun biografie links plaatsen naar hun website.</value>
   </data>
   <data name="CheckBiographyName.Text" xml:space="preserve">
     <value>Controleer of er geavanceerde tekstvelden aanwezig zijn binnen de profielvelden.</value>
@@ -94,25 +94,25 @@
     <value>Het veld is een meerlijnstekstveld</value>
   </data>
   <data name="CheckDebugFailure.Text" xml:space="preserve">
-    <value>Dubug staat aan - overweeg om deze instelling uit te schakelen in de web.config (of gebruik de configuratie manager)</value>
+    <value>Debug staat aan. Overweeg om deze instelling uit te schakelen in de web.config (of gebruik de configuratie manager)</value>
   </data>
   <data name="CheckDebugName.Text" xml:space="preserve">
     <value>Controleer debug status.</value>
   </data>
   <data name="CheckDebugReason.Text" xml:space="preserve">
-    <value>Als het debug attribuut geactiveerd staat heeft dit invloed op de snelheid en van het bruikbare beveiligings uitzonderingen laten zien aan hackers. </value>
+    <value>Als het debug attribuut geactiveerd staat, heeft dit invloed op de snelheid en laat het bruikbare beveiligingsuitzonderingen zien aan hackers.</value>
   </data>
   <data name="CheckDebugSuccess.Text" xml:space="preserve">
     <value>Niet in debug mode. Deze instelling is afhankelijk van de ingestelde waarde in de web.config.</value>
   </data>
   <data name="CheckDefaultPageFailure.Text" xml:space="preserve">
-    <value>De standaard pagina(s) zijn aangepast. We raden aan deze pagina(s) goed te onderzoeken, deze kunnen zijn aangepast door een hacker en schadelijke code bevatten. Het beste kunnen de bestanden worden vergeleken met de bestanden uit een schone installatie van je product. Controleer of de versie van je DNN website overeen komt met de versie van de applicatie waarmee je de bestanden wilt vergelijken. Verwijder eventuele schadelijke code of vervang de bestanden met de bestanden uit de schone installatie.</value>
+    <value>De standaard pagina(s) zijn aangepast. We raden aan deze pagina(s) goed te onderzoeken, deze kunnen zijn aangepast door een hacker en schadelijke code bevatten. Het beste kunnen de bestanden worden vergeleken met de bestanden uit een schone installatie van het product. Controleer of de versie van je DNN website overeen komt met de versie van de applicatie waarmee je de bestanden wilt vergelijken. Verwijder eventuele schadelijke code of vervang de bestanden met de bestanden uit de schone installatie.</value>
   </data>
   <data name="CheckDefaultPageName.Text" xml:space="preserve">
     <value>Controleer of de default.aspx of default.aspx.cs bestanden zijn aangepast.</value>
   </data>
   <data name="CheckDefaultPageReason.Text" xml:space="preserve">
-    <value>DNN gebruikt de default.aspx om alles te laten, dit bestand wordt bij iedere website opvraag ingeladen, als iemand dit bestand heeft aangepast kan dit een enorm risico vormen voor je website.</value>
+    <value>DNN gebruikt de default.aspx om alles te laten, dit bestand wordt bij iedere website opvraag ingeladen. Als iemand dit bestand heeft aangepast kan dit een enorm risico vormen voor je website.</value>
   </data>
   <data name="CheckDefaultPageSuccess.Text" xml:space="preserve">
     <value>De default.aspx en default.aspx.cs bestanden zijn niet aangepast.</value>
@@ -121,13 +121,13 @@
     <value>Hackers kunnen schijven/mappen buiten de website openen</value>
   </data>
   <data name="CheckDiskAccessName.Text" xml:space="preserve">
-    <value>Controleerd de toegang tot schrijven/mappen buiten de websitemap</value>
+    <value>Controleer de toegang tot schrijven/mappen buiten de websitemap</value>
   </data>
   <data name="CheckDiskAccessReason.Text" xml:space="preserve">
-    <value>De gebruikers die gebruikt wordt om je website te draaien heeft toegang to bestanden buiten je website locatie. een hacker kan deze bestanden lezen, bewerken of allebei.</value>
+    <value>De systeemgebruiker die gebruikt wordt om je website te draaien heeft toegang to bestanden buiten je websitefolder. Een hacker kan deze bestanden lezen, bewerken of allebei.</value>
   </data>
   <data name="CheckDiskAccessSuccess.Text" xml:space="preserve">
-    <value>Hackers kunnen geen schrijven/mappen buiten de websiten bereiken</value>
+    <value>Hackers kunnen geen schijven of mappen buiten de website bereiken</value>
   </data>
   <data name="CheckFileExists.Error" xml:space="preserve">
     <value>Het huidige SQL Server account van xp_fileexist uitvoeren. Hiermee kan worden bepaald welke bestanden er op de server bestaan.</value>
@@ -178,19 +178,19 @@
     <value>Controleer of applicatiebeheerdersaccounts amper worden gebruikt</value>
   </data>
   <data name="CheckRarelyUsedSuperuserReason.Text" xml:space="preserve">
-    <value>Applicatiebeheerdersaccounts zijn de accounts met de meeste rechten, We raden aan om deze tot een minimum te beperken.</value>
+    <value>Applicatiebeheerdersaccounts zijn de accounts met de meeste rechten. We raden aan om deze tot een minimum te beperken.</value>
   </data>
   <data name="CheckRarelyUsedSuperuserSuccess.Text" xml:space="preserve">
     <value>Alle applicatiebeheerders zijn actieve gebruikers van het systeem.</value>
   </data>
   <data name="CheckSiteRegistrationFailure.Text" xml:space="preserve">
-    <value>één of meerdere websites maken gebruik van een publieke gebruikersregistratie</value>
+    <value>Eén of meer websites maken gebruik van een publieke gebruikersregistratie</value>
   </data>
   <data name="CheckSiteRegistrationName.Text" xml:space="preserve">
     <value>Controleer of websites gebruik maken van publieke gebruikersregistratie</value>
   </data>
   <data name="CheckSiteRegistrationReason.Text" xml:space="preserve">
-    <value>Websites met een publieke gebruikersregistratie zijn een gelieft doelwit van spammers.</value>
+    <value>Websites met een publieke gebruikersregistratie zijn een geliefd doelwit van spammers.</value>
   </data>
   <data name="CheckSiteRegistrationSuccess.Text" xml:space="preserve">
     <value>Alle websites hebben een afgesloten gebruikersregistratie</value>
@@ -202,7 +202,7 @@
     <value>Controleer rechten van het huidige SQL account</value>
   </data>
   <data name="CheckSqlRiskReason.Text" xml:space="preserve">
-    <value>Als het SQL Server account niet goed is geconfigureerd kan dit een risico vormen omdat hackers dit kunnen gebruiken om speciale script op de server uit te voeren.</value>
+    <value>Als het SQL Server account niet goed is geconfigureerd, vormt dit een risico, omdat hackers dit kunnen gebruiken om malefide SQL scripts op de server uit te voeren.</value>
   </data>
   <data name="CheckSqlRiskSuccess.Text" xml:space="preserve">
     <value>Het SQL Server account is correct geconfigureerd.</value>
@@ -211,7 +211,7 @@
     <value>Er is tenminste één applicatiebeheerder waarvan het wachtwoord langer als zes maanden geleden is gewijzigd.</value>
   </data>
   <data name="CheckSuperuserOldPasswordName.Text" xml:space="preserve">
-    <value>Controleer of applicatiebeheerders niet regelmatig hun wachtwoord wijzigen</value>
+    <value>Controleer of applicatiebeheerders regelmatig hun wachtwoord wijzigen</value>
   </data>
   <data name="CheckSuperuserOldPasswordReason.Text" xml:space="preserve">
     <value>Applicatiebeheerdersaccounts hebben de meeste rechten, daarom is het aan te raden om hun wachtwoord regelmatig te veranderen.</value>
@@ -226,13 +226,13 @@
     <value>Controleer of de Telerik-component een kwetsbaarheid heeft.</value>
   </data>
   <data name="CheckTelerikVulnerabilityReason.Text" xml:space="preserve">
-    <value>Componenten van derden waarnaar in de kern wordt verwezen, kunnen in oudere versies kwetsbaar zijn en moeten worden gepatcht.</value>
+    <value>Componenten van derden waar naar in de kern wordt verwezen, kunnen in oudere versies kwetsbaar zijn en moeten worden gepatcht.</value>
   </data>
   <data name="CheckTelerikVulnerabilitySuccess.Text" xml:space="preserve">
     <value>Telerik-component al gepatcht.</value>
   </data>
   <data name="CheckTracing.Text" xml:space="preserve">
-    <value>Tracing is actief - overweg deze instelling aan te passen in de web.config. (of gebruik de configuratie manager)</value>
+    <value>Tracing is actief - overweg deze instelling aan te passen in de web.config (of gebruik de configuratie manager).</value>
   </data>
   <data name="CheckTracingFailure.Text" xml:space="preserve">
     <value>Tracing is actief - dit geeft hackers de mogelijkheid om activiteiten op de website te zien.</value>
@@ -247,25 +247,25 @@
     <value>Tracing is niet actief</value>
   </data>
   <data name="CheckUnexpectedExtensionsFailure.Text" xml:space="preserve">
-    <value>Er is een asp php bestandsextensie gevonden- deze kunnen onschadelijk zijn, maar kunnen ook een indicatie geven dat je website worden uitgebuit en dat deze bestanden tools zijn. We raden aan bestanden te controleren. </value>
+    <value>Er is een asp php bestandsextensie gevonden- deze kunnen onschadelijk zijn, maar kunnen ook een indicatie geven dat je website worden gehackt en/of dat deze bestanden tools zijn. We raden aan bestanden te controleren.</value>
   </data>
   <data name="CheckUnexpectedExtensionsName.Text" xml:space="preserve">
     <value>Controleer of asp/php bestanden zijn gevonden</value>
   </data>
   <data name="CheckUnexpectedExtensionsReason.Text" xml:space="preserve">
-    <value>DNN is een asp.net web applicatie. Onder normale omstandigheden worden er geen andere applicatie bestandsextensies gebruikt zoals aps en php.</value>
+    <value>DNN is een asp.net web applicatie. Onder normale omstandigheden worden er geen andere applicatie bestandsextensies gebruikt zoals asp en php.</value>
   </data>
   <data name="CheckUnexpectedExtensionsSuccess.Text" xml:space="preserve">
     <value>Er zijn geen onverwachte bestandsextensies gevonden</value>
   </data>
   <data name="CheckViewstatemacFailure.Text" xml:space="preserve">
-    <value>Viewstatemac validatie is niet actief</value>
+    <value>Viewstate MAC validatie is niet actief</value>
   </data>
   <data name="CheckViewstatemacName.Text" xml:space="preserve">
     <value>Controleer of viewstat is beveiligd</value>
   </data>
   <data name="CheckViewstatemacReason.Text" xml:space="preserve">
-    <value>Een View-state MAC is een versleutelde versie van de verborgen variabele waaruit een pagina bestaat als deze naar de browser worden gestuurd. Als deze waarde actief is wordt de versleutelde versie van de view stage gecontroleerd om te voorkomen dat er  ongewenste aanpassingen vanuit de client kunnen worden gedaan.</value>
+    <value>Een View-state MAC is een versleutelde versie van de verborgen variabele waaruit een pagina bestaat als deze naar de browser worden gestuurd. Als deze waarde actief is wordt de versleutelde versie van de viewstate gecontroleerd om te voorkomen dat er ongewenste aanpassingen vanuit de browserclient kunnen worden gedaan.</value>
   </data>
   <data name="CheckViewstatemacSuccess.Text" xml:space="preserve">
     <value>De viewstate is beveiligd via het gebruik van een MAC</value>
@@ -286,7 +286,7 @@
     <value>Zoeken</value>
   </data>
   <data name="ContainsDuplicateAddresses.Text" xml:space="preserve">
-    <value>De gebruiker basis van deze site bevat dubbele e-mailadressen. Als je het e-mailadres wilt gebruiken als gebruikersnaam dienen eerste de e-mailadressen te worden ontdubbelt.</value>
+    <value>De gebruikerslijst van deze site bevat dubbele e-mailadressen. Als je het e-mailadres wilt gebruiken als gebruikersnaam dienen eerst de e-mailadressen te worden ontdubbeld.</value>
   </data>
   <data name="CreatedDate.Header" xml:space="preserve">
     <value>Aanmaakdatum</value>
@@ -304,7 +304,7 @@
     <value>WAARDE</value>
   </data>
   <data name="DefaultAuthProvider.Help" xml:space="preserve">
-    <value>Je kunt de standaard authenticatie prodiver selecteren voor de gebruikerslogin. Alleen providers die forms authenticatie ondersteunen kunnen worden geselecteerd.</value>
+    <value>Je kunt de standaard authenticatie provider selecteren voor de gebruikerslogin. Alleen providers die forms authenticatie ondersteunen kunnen worden geselecteerd.</value>
   </data>
   <data name="DefaultAuthProvider.Text" xml:space="preserve">
     <value>Standaard authenticatie provider</value>
@@ -340,7 +340,7 @@
     <value>{0} zou niet leeg moeten zijn.</value>
   </data>
   <data name="ExecuteCommand.Error" xml:space="preserve">
-    <value>De huidige SQL Server account kan xp_cmdshell uitvoeren waarmee een commandline kan woden geopend op het SQL Server.</value>
+    <value>De huidige SQL Server account kan xp_cmdshell uitvoeren waarmee een commandline kan woden geopend op de SQL Server.</value>
   </data>
   <data name="Fail.Text" xml:space="preserve">
     <value>Mislukt</value>
@@ -358,13 +358,13 @@
     <value>Voornaam</value>
   </data>
   <data name="GetFolderTree.Error" xml:space="preserve">
-    <value>De huidige SQL Server account kan xp_dirtree uitvoeren waarmee kunnen bestanden op de server zihctbaar worden gemaakt.</value>
+    <value>De huidige SQL Server account kan xp_dirtree uitvoeren waarmee kunnen bestanden op de server zichtbaar worden gemaakt.</value>
   </data>
   <data name="GlobalSetting.Text" xml:space="preserve">
-    <value>Dit is een globale instelling. Aanpassingen in deze instellingen hebben effect op alle sites.</value>
+    <value>Dit is een globale instelling. Aanpassingen in deze instelling hebben effect op alle sites.</value>
   </data>
   <data name="GlobalSettingsTab.Text" xml:space="preserve">
-    <value>Dit is een globale instellingtab. Aanpassingen in deze instellingen hebben effect op alle sites.</value>
+    <value>Dit is een globale instellingstab. Aanpassingen in deze instellingen hebben effect op alle sites.</value>
   </data>
   <data name="HighRiskFiles.Text" xml:space="preserve">
     <value>Hoog risico bestanden</value>
@@ -382,7 +382,7 @@
     <value>Weet je zeker dat je dit IP filter wilt verwijderen?</value>
   </data>
   <data name="IPFiltersDisabled.Text" xml:space="preserve">
-    <value>Login IP filtering is momenteel uitgeschakeld. selecteer IP adres controle onder leden accounts om deze te activeren</value>
+    <value>Login IP filtering is momenteel uitgeschakeld. Selecteer IP adrescontrole onder gebruikersaccounts om deze te activeren.</value>
   </data>
   <data name="IpFilterUpdateError.Text" xml:space="preserve">
     <value>Kan het IP filter niet bijwerken. Probeer het later opnieuw.</value>
@@ -427,34 +427,34 @@
     <value>Specificeerd het aantal verkeerde wachtwoord ingaves dat mag worden gedaan voor dat het account wordt geblokeerd. Dit kan alleen worden aangepast in de web.config.</value>
   </data>
   <data name="MaxInvalidPasswordAttemptsTitle.Text" xml:space="preserve">
-    <value>Max ongeldig wachtwoord pogingen</value>
+    <value>Maximum aantal ongeldige wachtwoordpogingen</value>
   </data>
   <data name="maxUploadSize.Error" xml:space="preserve">
-    <value>Maximale upload grootte moet tussen de 12 en {0} liggen</value>
+    <value>Maximale uploadgrootte moet tussen de 12 en {0} liggen</value>
   </data>
   <data name="MemberSettingsError.Text" xml:space="preserve">
-    <value>Kan leden instellingen niet bijwerken. Probeer het later opnieuw.</value>
+    <value>Kan ledeninstellingen niet bijwerken. Probeer het later opnieuw.</value>
   </data>
   <data name="MemberSettingsRestoreWarning.Text" xml:space="preserve">
     <value>Weet je zeker dat je de aanpassingen wilt annuleren?</value>
   </data>
   <data name="MemberSettingsUpdateSuccess.Text" xml:space="preserve">
-    <value>De leden instellingen zijn opgeslagen.</value>
+    <value>De ledeninstellingen zijn opgeslagen.</value>
   </data>
   <data name="MembershipDaysBeforePasswordReuse.ErrorMessage" xml:space="preserve">
-    <value>Aantal dagen vóór wachtwoord Hergebruik moet een geheel getal groter dan of gelijk aan 0 en kleiner dan 10000 zijn.</value>
+    <value>Aantal dagen voor Wachtwoord Hergebruik moet een geheel getal groter dan of gelijk aan 0 en kleiner dan 10000 zijn.</value>
   </data>
   <data name="MembershipNumberPasswords.ErrorMessage" xml:space="preserve">
-    <value>Aantal wachtewoorden dat wordt opgeslagen moet een numerieke waarde zijn dat groter is of gelijk aan 0 en kleiner dan 10000.</value>
+    <value>Het aantal wachtewoorden dat wordt opgeslagen moet een numerieke waarde zijn dat groter is of gelijk aan 0 en kleiner dan 10000.</value>
   </data>
   <data name="MembershipResetLinkValidity.ErrorMessage" xml:space="preserve">
-    <value>Reset link timeouts moeten een numerieke waarde zijn die groter is dan 0 en minder dan 10000</value>
+    <value>Reset link timeouts moet een numerieke waarde zijn die groter is dan 0 en minder dan 10000</value>
   </data>
   <data name="MinNonAlphanumericCharactersTitle.Help" xml:space="preserve">
     <value>Specificeert het minimaal aantal speciale karakters in het wachtwoord. Dit kan alleen worden aangepast in de web.config.</value>
   </data>
   <data name="MinNonAlphanumericCharactersTitle.Text" xml:space="preserve">
-    <value>Minimale niet alphabetische karakters</value>
+    <value>Minimale niet alfabetische karakters</value>
   </data>
   <data name="MinPasswordLengthTitle.Help" xml:space="preserve">
     <value>Specificeert het minimaal aantal karakters in het wachtwoord. Dit kan alleen worden aangepast in de web.config. </value>
@@ -487,10 +487,10 @@
     <value>Zoekterm is niet gevonden in de database</value>
   </data>
   <data name="NoDisplayName.Text" xml:space="preserve">
-    <value>Je hebt de vereis unieke weergavenaam optie geselecteerd maar je hebt niet het weergavenaam veld in de lijst van velden opgenomen.</value>
+    <value>Je hebt de eis voor unieke weergavenaam optie geselecteerd, maar je hebt niet het weergavenaamveld in de lijst van velden opgenomen.</value>
   </data>
   <data name="NoEmail.Text" xml:space="preserve">
-    <value>Het " e-mail" veld, moet minimaal zijn ingesloten.</value>
+    <value>Het "e-mail" veld, moet minimaal zijn opgenomen.</value>
   </data>
   <data name="NoFileResults.Text" xml:space="preserve">
     <value>Zoekterm is niet gevonden in een bestand</value>
@@ -607,7 +607,7 @@
     <value>Vink deze optie aan om een wachtwoord te controleren tegenover een lijst met verboden onderdelen.</value>
   </data>
   <data name="plEnableBannedList.Text" xml:space="preserve">
-    <value>Activeer verboden wachtwoord lijst</value>
+    <value>Activeer verboden wachtwoordenlijst</value>
   </data>
   <data name="plEnableIPChecking.Help" xml:space="preserve">
     <value>Activeer of het IP adres wordt gecontroleerd tijdens het inloggen</value>
@@ -616,25 +616,25 @@
     <value>Activeer IP adres controle</value>
   </data>
   <data name="plEnablePasswordHistory.Help" xml:space="preserve">
-    <value>Activeerd of er een lijst wordt bijgehouden van de reeds gebruikte wachtwoorden om te voorkomen dat een wachtwoord opnieuw wordt gebruikt.</value>
+    <value>Activeer of er een lijst wordt bijgehouden van de reeds gebruikte wachtwoorden om te voorkomen dat een wachtwoord opnieuw wordt gebruikt.</value>
   </data>
   <data name="plEnablePasswordHistory.Text" xml:space="preserve">
-    <value>Activeer wachtwoord geschiedenis</value>
+    <value>Activeer wachtwoordgeschiedenis</value>
   </data>
   <data name="plEnableRegisterNotification.Help" xml:space="preserve">
-    <value>Vink deze optie aan als er een e-mail bericht moet worden verstuurd naar de hoofd administrator bij de registratie van een nieuwe gebruiker.</value>
+    <value>Vink deze optie aan als er een e-mail bericht moet worden verstuurd naar de websitebeheerder bij de registratie van een nieuwe gebruiker.</value>
   </data>
   <data name="plEnableRegisterNotification.Text" xml:space="preserve">
     <value>Ontvang berichtgeving bij nieuwe gebruikersregistratie</value>
   </data>
   <data name="plEnableStrengthMeter.Help" xml:space="preserve">
-    <value>Geeft aan of de wachtwoord sterkte meter wordt getoond op het registratiescherm</value>
+    <value>Geeft aan of de wachtwoordsterktemeter wordt getoond op het registratiescherm</value>
   </data>
   <data name="plEnableStrengthMeter.Text" xml:space="preserve">
-    <value>Activeer wachtwoord sterkte controle</value>
+    <value>Activeer wachtwoordsterktecontrole</value>
   </data>
   <data name="plFileExtensions.Help" xml:space="preserve">
-    <value>Vul de bestandsextensies in (gescheiden door comma's) die geupload kunnen worden binnen de website.</value>
+    <value>Vul de bestandsextensies in (gescheiden door komma's) die geupload kunnen worden binnen de website.</value>
   </data>
   <data name="plFileExtensions.Text" xml:space="preserve">
     <value>Toegestane bestandsextensies:</value>
@@ -661,10 +661,10 @@
     <value>Maximale grootte van bestand dat kan worden geupload naar de site. Het maximum is 12 MB.</value>
   </data>
   <data name="plMaxUploadSize.Text" xml:space="preserve">
-    <value>Maximale upload grootte</value>
+    <value>Maximale uploadgrootte</value>
   </data>
   <data name="plNumberPasswords.Help" xml:space="preserve">
-    <value>Vul het aantal wachtwoorden in om op te slaan voor de hergebruik controle</value>
+    <value>Vul het aantal wachtwoorden in om op te slaan voor de hergebruikcontrole</value>
   </data>
   <data name="plNumberPasswords.Text" xml:space="preserve">
     <value>Aantal wachtwoorden in opslag</value>
@@ -676,7 +676,7 @@
     <value>Aantal dagen vóór wachtwoordhergebruik</value>
   </data>
   <data name="plRememberMe.Help" xml:space="preserve">
-    <value>Vink deze optie aan om het herinner wachtwoord veld op de login pagina weer te geven die gebruikers de mogelijkheid geeft om ingelogd te blijven bij meerdere bezoeken.</value>
+    <value>Vink deze optie aan om het herinner wachtwoordveld op de login pagina weer te geven die gebruikers de mogelijkheid geeft om ingelogd te blijven bij meerdere bezoeken.</value>
   </data>
   <data name="plRememberMe.Text" xml:space="preserve">
     <value>Activeer Herinner mij op login pagina</value>
@@ -703,7 +703,7 @@
     <value>Zoekterm</value>
   </data>
   <data name="plShowCriticalErrors.Help" xml:space="preserve">
-    <value>Deze instellinge bepaald of een foutbericht worden weergegeven in de pagina die worden verstuurd via de fout querystring parameter.</value>
+    <value>Deze instelling bepaald of een foutbericht worden weergegeven in de pagina die worden verstuurd via de fout querystring parameter.</value>
   </data>
   <data name="plShowCriticalErrors.Text" xml:space="preserve">
     <value>Toon kritieke fouten op het scherm</value>
@@ -745,7 +745,7 @@
     <value>Masker</value>
   </data>
   <data name="plUserRegistration.Help" xml:space="preserve">
-    <value>Selecteer het gebruikersregistratietype, als er één is toegestaan voor de site. Prive registraties vereisten een goedkeuring door de site administrator voor er toegang wordt verleend tot de gebruikersrol. Publieke registratie geeft direct toegang en geverifieerd registratie vereist een goedgekeurd e-mailadres.</value>
+    <value>Selecteer het gebruikersregistratietype, als er één is toegestaan voor de site. Privéregistraties vereisen een goedkeuring door de sitebeheerdr voor er toegang wordt verleend tot de gebruikersrol. Publieke registratie geeft direct toegang en geverifieerd registratie vereist een goedgekeurd e-mailadres.</value>
   </data>
   <data name="plUserRegistration.Text" xml:space="preserve">
     <value>Gebruikersregistratie</value>
@@ -781,31 +781,31 @@
     <value>Doorsturen na registratie</value>
   </data>
   <data name="Registration_ExcludeTerms.Help" xml:space="preserve">
-    <value>Je kunt een comma gescheiden lijst opstellen met termen die door gebruikers niet kunnen worden gebruikt in hun gebruikersnaam of weergavenaam.</value>
+    <value>Je kunt een komma gescheiden lijst opstellen met termen die door gebruikers niet kunnen worden gebruikt in hun gebruikersnaam of weergavenaam.</value>
   </data>
   <data name="Registration_ExcludeTerms.Text" xml:space="preserve">
     <value>Buitengesloten termen</value>
   </data>
   <data name="Registration_RandomPassword.Help" xml:space="preserve">
-    <value>Vink deze instellinge aan om een willekeurig wachtwoord te genereren tijdens de registratie, in plaats van een wachtwoord invul veld.</value>
+    <value>Vink deze instelling aan om een willekeurig wachtwoord te genereren tijdens de registratie, in plaats van een wachtwoordinvulveld.</value>
   </data>
   <data name="Registration_RandomPassword.Text" xml:space="preserve">
     <value>Gebruik willekeurig wachtwoord</value>
   </data>
   <data name="Registration_RequireConfirmPassword.Help" xml:space="preserve">
-    <value>Vink deze optie aan om een wachtwoordbevestigingsveld weer te geven op het registratie scherm.</value>
+    <value>Vink deze optie aan om een wachtwoordbevestigingsveld weer te geven op het registratiescherm.</value>
   </data>
   <data name="Registration_RequireConfirmPassword.Text" xml:space="preserve">
-    <value>Vereis wachtwoord bevestiging</value>
+    <value>Vereis wachtwoordbevestiging</value>
   </data>
   <data name="Registration_RequireUniqueDisplayName.Help" xml:space="preserve">
-    <value>vereis optioneel dat gebruikers een unieke weergavenaam gebruiken. Als een gebruiker een naam in geeft die al reeds in gebruik is zal er een alternatief worden voorgesteld.</value>
+    <value>Vereis optioneel dat gebruikers een unieke weergavenaam gebruiken. Als een gebruiker een naam in geeft die al reeds in gebruik is zal er een alternatief worden voorgesteld.</value>
   </data>
   <data name="Registration_RequireUniqueDisplayName.Text" xml:space="preserve">
     <value>Vereis een unieke weergavenaam</value>
   </data>
   <data name="Registration_UseAuthProviders.Help" xml:space="preserve">
-    <value>Selecteer deze optie om authenticatie providers te gebruiken tijdens het registreren. denk er wel aan dat niet alle providers deze optie ondersteunen.</value>
+    <value>Selecteer deze optie om authenticatie providers te gebruiken tijdens het registreren. Denk er wel aan dat niet alle providers deze optie ondersteunen.</value>
   </data>
   <data name="Registration_UseAuthProviders.Text" xml:space="preserve">
     <value>Gebruik Authenticatie providers</value>
@@ -820,28 +820,28 @@
     <value>Vink deze optie aan om een verboden woorden filter te gebruiken voor gebruikersnamen en weergavenaam velden tijdens de registratie.</value>
   </data>
   <data name="Registration_UseProfanityFilter.Text" xml:space="preserve">
-    <value>Gebruik verboden woorden filter</value>
+    <value>Gebruik verbodenwoordenfilter</value>
   </data>
   <data name="registrationFieldsLabel.Help" xml:space="preserve">
-    <value>Je kunt een comma gescheiden lijst opgeven van velden die je mee wilt geven. Als deze instelling wordt gebruikt, overschrijft dit de andere instellingen. De mogelijke velden zijn onderandere gebuikersnaam, e-mail, wachtwoord, bevestig wachtwoord, weergavenaam en alle profiel eigenschappen.</value>
+    <value>Je kunt een komma gescheiden lijst opgeven van velden die je mee wilt geven. Als deze instelling wordt gebruikt, overschrijft dit de andere instellingen. De mogelijke velden zijn onder andere gebuikersnaam, e-mail, wachtwoord, bevestig wachtwoord, weergavenaam en alle profieleigenschappen.</value>
   </data>
   <data name="registrationFieldsLabel.Text" xml:space="preserve">
     <value>Registratievelden:</value>
   </data>
   <data name="registrationFormTypeLabel.Help" xml:space="preserve">
-    <value>Selecteer het registratie formulier dat je wilt gebruiken.</value>
+    <value>Selecteer het registratieformulier dat je wilt gebruiken.</value>
   </data>
   <data name="registrationFormTypeLabel.Text" xml:space="preserve">
-    <value>Registratie formulier type</value>
+    <value>Registratieformuliertype</value>
   </data>
   <data name="RegistrationSettingsError.Text" xml:space="preserve">
-    <value>Kan de registratie instellingen niet wijzigen. Probeer het later opnieuw.</value>
+    <value>Kan de registratie-instellingen niet wijzigen. Probeer het later opnieuw.</value>
   </data>
   <data name="RegistrationSettingsRestoreWarning.Text" xml:space="preserve">
     <value>Weet je zeker dat je de instellingen wilt annuleren?</value>
   </data>
   <data name="RegistrationSettingsUpdateSuccess.Text" xml:space="preserve">
-    <value>De registratie instellingen zijn gewijzigt.</value>
+    <value>De registratie-instellingen zijn gewijzigd.</value>
   </data>
   <data name="RegRead.Error" xml:space="preserve">
     <value>Het huidige SQL Server account van register waardes lezen. controleer de rechten op de xp_regread, xp_regwrite, xp_regenumkeys, xp_regenumvalues, xp_regdeletekey, xp_regdeletekey, xp_regdeletevalue, xp_instance_regread, xp_instance_regwrite, xp_instance_regenumkeys, xp_instance_regenumvalues, xp_instance_regdeletekey, xp_instance_regdeletekey, xp_instance_regdeletevalue stored procedures.</value>
@@ -850,16 +850,16 @@
     <value>kan niet verbinden met {0}. Controleer of het adres geldig is en dat je hosting provider hun proxyserver instellingen correct heeft staan.</value>
   </data>
   <data name="RequestFailed_User.Text" xml:space="preserve">
-    <value>De nieuwsfeed is op dit moment niet beschikbaar. foutboodschap:</value>
+    <value>De nieuwsfeed is op dit moment niet beschikbaar. Foutboodschap:</value>
   </data>
   <data name="RequiresQuestionAndAnswerTitle.Help" xml:space="preserve">
-    <value>Geeft aan of er een vraag en antwoord systeem wordt gebruikt als onderdeel van het registratieproces. Dit kan alleen worden veranderd in de web.config.</value>
+    <value>Geeft aan of er een vraag- en antwoordsysteem wordt gebruikt als onderdeel van het registratieproces. Dit kan alleen worden veranderd in de web.config.</value>
   </data>
   <data name="RequiresQuestionAndAnswerTitle.Text" xml:space="preserve">
     <value>Vereist vraag en antwoord</value>
   </data>
   <data name="RequiresUniqueEmail.Help" xml:space="preserve">
-    <value>Vink deze optie aan als iedere gebruik een uniek e-mailadres moet invoeren. dit voorkomt dat gebruikers zich meerdere keren registreren met hetzelfde e-mailadres.</value>
+    <value>Vink deze optie aan als iedere gebruik een uniek e-mailadres moet invoeren. Dit voorkomt dat gebruikers zich meerkeren registreren met hetzelfde e-mailadres.</value>
   </data>
   <data name="RequiresUniqueEmail.Text" xml:space="preserve">
     <value>Vereis uniek e-mailadres</value>
@@ -940,10 +940,10 @@
     <value>Vereis een geldig profiel voor login</value>
   </data>
   <data name="Security_UserNameValidation.Help" xml:space="preserve">
-    <value>Voer je eigen validatie expressie in welke wordt gebruikt voor het controleren van de geldigheid van de opgegeven gebruikersnaam. Als je deze verandert moet ook het bericht worden aangepast dat gebruikers zien als er een ongeldige gebruikersnaam wordt ingevoerd, dit kan middels de localization editor. (SharedResources.resx - Username.RegExError)</value>
+    <value>Voer je eigen validatie-expressie in welke wordt gebruikt voor het controleren van de geldigheid van de opgegeven gebruikersnaam. Als je deze verandert moet ook het bericht worden aangepast dat gebruikers zien als er een ongeldige gebruikersnaam wordt ingevoerd. Dit kan met de localization editor (SharedResources.resx - Username.RegExError).</value>
   </data>
   <data name="Security_UserNameValidation.Text" xml:space="preserve">
-    <value>Gebruikersnaam validatie</value>
+    <value>Gebruikersnaamvalidatie</value>
   </data>
   <data name="SecurityCheck.Text" xml:space="preserve">
     <value>BEVEILIGINGSCONTROLE</value>
@@ -976,7 +976,7 @@
     <value>Applicatiebeheerdersactiviteit</value>
   </data>
   <data name="SuperUserActivityExplaination.Text" xml:space="preserve">
-    <value>Onder zijn de Applicatiebeheerdersactiviteit weergegeven. Zoek hier naar verdachte activiteiten. Let goed op de creatie en laatste login datums.</value>
+    <value>Onder zijn de Applicatiebeheerdersactiviteit weergegeven. Zoek hier naar verdachte activiteiten. Let goed op de creatie- en laatste logindatums.</value>
   </data>
   <data name="SysAdmin.Error" xml:space="preserve">
     <value>Huidige SQL Server account is 'sysadmin'</value>
@@ -1006,7 +1006,7 @@
     <value>Meer</value>
   </data>
   <data name="TabMoreSecuritySettings.Text" xml:space="preserve">
-    <value>MEER BEVEILIGINGS INSTELLINGEN</value>
+    <value>MEER BEVEILIGINGSINSTELLINGEN</value>
   </data>
   <data name="TabRegistrationSettings.Text" xml:space="preserve">
     <value>REGISTRATIE INSTELLINGEN</value>
@@ -1015,16 +1015,16 @@
     <value>SCANNER CONTROLE</value>
   </data>
   <data name="TabSecurityAnalyzer.Text" xml:space="preserve">
-    <value>Beveiligings analyse</value>
+    <value>Beveiligingsanalyse</value>
   </data>
   <data name="TabSecurityBulletins.Text" xml:space="preserve">
-    <value>Beveiligings berichten</value>
+    <value>Beveiligingsberichten</value>
   </data>
   <data name="TabSettings.Text" xml:space="preserve">
-    <value>Tab instelllingen</value>
+    <value>Tabinstelllingen</value>
   </data>
   <data name="TabSslSettings.Text" xml:space="preserve">
-    <value>SSL instellingen</value>
+    <value>SSL-instellingen</value>
   </data>
   <data name="TabSuperuserActivity.Text" xml:space="preserve">
     <value>APPLICATIEBEHEERDERSACTIVITEITEN</value>

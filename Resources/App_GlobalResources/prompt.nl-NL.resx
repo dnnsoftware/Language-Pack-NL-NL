@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CommandNotFound.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Commando '{0}' niet gevonden</value>
+  </data>
+  <data name="CommandOptionText.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>{0} of {1}</value>
+  </data>
+  <data name="DidYouMean.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Bedoel je '{0}'</value>
+  </data>
+  <data name="Prompt_AddModule_Description.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Voeg een module aan de pagina toe</value>
+  </data>
+  <data name="Prompt_AddModule_FlagModuleName.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>NAam van de desktopmodule die toegevoegd moet worden. Dit moet een unieke naam zijn</value>
+  </data>
+  <data name="Prompt_AddModule_FlagModuleTitle.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Specifieer de titel van de module op de pagina</value>
+  </data>
+  <data name="Prompt_AddModule_FlagPageId.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>ID van de pagina waarop de module wordt toegevoegd.</value>
+  </data>
+  <data name="Prompt_AddModule_FlagPane.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Specifieer het deelvenster waar de mdule moet worden neergezet. ALs dit niet wordt opgegeven, dan wordt de ContentPane gebruikt</value>
+  </data>
+  <data name="Prompt_AddModuleError.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>Er trad een fout op tijdens het toevoegen van de module. Kijk naar de DNN gebeurtenislog voor details.</value>
+  </data>
+  <data name="Prompt_CommandNotFound.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Kan geen helptekst vinden voor dat commando</value>
+  </data>
+  <data name="Prompt_CopyModule_Description.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Kopiëert de module naar een specifieke pagina</value>
+  </data>
+  <data name="Prompt_CopyModule_FlagId.Text" xml:space="preserve" lastModified="2020-09-30 16:58:26">
+    <value>Specificeert de Module ID van de module die gekopieerd moet worden. Specificeer de ID waarde als eerste argument.</value>
+  </data>
+  <data name="Prompt_CopyModule_FlagIncludesettings.Text" xml:space="preserve" lastModified="2020-09-30 16:58:26">
+    <value>Indien WAAR, dan kopieert Prompt de settings van de bronmodule naar de gekopieerde module</value>
+  </data>
+  <data name="Prompt_CopyModule_FlagPageId.Text" xml:space="preserve" lastModified="2020-09-30 16:58:26">
+    <value>De pagina ID van de pagina die de module bevat die je wilt kopieëren.</value>
+  </data>
+  <data name="Prompt_Default.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Standaard</value>
+  </data>
+  <data name="Prompt_Description.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Omschrijving</value>
+  </data>
+  <data name="Prompt_DesktopModuleNotFound.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>Het is niet mogelijk een desktopmodule met de naam '{0}' te vinden voor deze site</value>
+  </data>
+  <data name="Prompt_ErrorWhileCopying.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Er trad een fout op bij het kopiëren van de module. Kijk in de site gebeurtenislog voor de details.</value>
+  </data>
+  <data name="Prompt_ErrorWhileMoving.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Er trad een fout op bij het verpaatsen van de module. Kijk in de site gebeurtenislog voor de details.</value>
+  </data>
+  <data name="Prompt_FailedtoDeleteModule.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Er trad een fout op bij het verwijderen van de module. Kijk in de site gebeurtenislog voor de details.</value>
+  </data>
+  <data name="Prompt_InsufficientPermissions.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>JE hebt niet voldoende rechten om deze bewerking uit te voeren.</value>
+  </data>
+  <data name="Prompt_InvalidData.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Je hebt incorrecte data opgegeven, deze kan niet worden verwerkt.</value>
+  </data>
+  <data name="Prompt_InvalidSyntax.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Verkeerde syntax.</value>
+  </data>
+  <data name="Prompt_ListServices_Unauthorized.Text" xml:space="preserve" lastModified="2020-09-30 16:58:26">
+    <value>Je bent niet geautoriseerd om deze functionaliteit te gebruiken.</value>
+  </data>
+  <data name="Prompt_ModuleAdded.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>Toevoegen van {0} nieuwe module {1} was succesvol</value>
+  </data>
+  <data name="Prompt_ModuleCopied.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>Succesvol de module gekopieerd</value>
+  </data>
+  <data name="Prompt_ModuleDeleted.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>Module succesvol verwijderd</value>
+  </data>
+  <data name="Prompt_ModuleMoved.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>Module succesvol verplaatst.</value>
+  </data>
+  <data name="Prompt_ModuleNotFound.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Kan de module met id {0} op pagina {1} niet vinden</value>
+  </data>
+  <data name="Prompt_NoModule.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Geen module gevinden met id {0|/</value>
+  </data>
+  <data name="Prompt_NoModules.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Geen modules gevonden.</value>
+  </data>
+  <data name="Prompt_NoModulesAdded.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>Geen modules zijn toegevoegd</value>
+  </data>
+  <data name="Prompt_NotAuthorized.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Je bent niet geautoriseerd om deze bron te benaderen. Misschien ben je automatisch uitgelogd?</value>
+  </data>
+  <data name="Prompt_NotImplemented.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Deze functionaliteit is nog niet geïmplementeerd</value>
+  </data>
+  <data name="Prompt_Options.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Opties</value>
+  </data>
+  <data name="Prompt_PageNotFound.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Kan de doelpagina niet laden. Geen pagina in de site gevonden met ID '{0}'</value>
+  </data>
+  <data name="Prompt_Required.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Vereist</value>
+  </data>
+  <data name="Prompt_RestartApplication_Description.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Initiëert een herstart van de applicaite en herlaad de pagina</value>
+  </data>
+  <data name="Prompt_ServerError.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>De server is heeft een probeem ervaren waardoor de bewerking niet kon worden uitgevoerd. Probeer het later nog een keer.</value>
+  </data>
+  <data name="Prompt_SessionTimedOut.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Je sessies heeft misschien een time-out. Log opnieuw in.</value>
+  </data>
+  <data name="Prompt_SourceAndTargetPagesAreSame.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>De bron pagina ID en de doelpagina ID moet verschillen.\n</value>
+  </data>
+  <data name="Prompt_Type.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Soort</value>
+  </data>
+  <data name="Prompt_UserRestart.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>De gebruiker heeft een appkicatieherstart gestart.</value>
+  </data>
+</root>
