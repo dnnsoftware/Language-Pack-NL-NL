@@ -1,7 +1,7 @@
 # DNN Language Pack for (nl-NL)
 
-
 Versions available:
+* DNN 09.07.02
 * DNN 09.07.00
 * DNN 09.06.02
 * DNN 09.06.01
