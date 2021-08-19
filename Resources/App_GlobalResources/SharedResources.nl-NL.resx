@@ -1638,7 +1638,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value xml:space="preserve">Systeemstandaard</value>
   </data>
   <data name="TabAccess.Error" lastModified="2020-05-15 15:54:23">
-    <value xml:space="preserve">Je heeft geen toegang om deze pagina te bekijken.</value>
+    <value xml:space="preserve">Je hebt geen toegang om deze pagina te bekijken.</value>
   </data>
   <data name="TESTCOMPLETE.Log">
     <value xml:space="preserve">Test uitgevoerd. {0} milliseconden gewacht.</value>

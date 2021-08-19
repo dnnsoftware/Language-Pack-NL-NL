@@ -25,7 +25,7 @@
     <value xml:space="preserve">Een routering met dezelfde naam bestaat al. De wijzigingen worden niet opgeslagen</value>
   </data>
   <data name="FolderProviderLabel.Help" lastModified="2020-05-16 16:12:30">
-    <value xml:space="preserve">Selecteerd de map provider die je wilt gebruiken.</value>
+    <value xml:space="preserve">Selecteer de map provider die je wilt gebruiken.</value>
   </data>
   <data name="FolderProviderLabel.Text" lastModified="2020-05-16 16:12:30">
     <value xml:space="preserve">Mapprovider</value>
