@@ -1384,7 +1384,7 @@
     <value>Publiek</value>
   </data>
   <data name="PublicMembership.Text" xml:space="preserve">
-    <value>&lt;strong&gt;* Opmerking: &lt;/strong&gt; Lidmaatschap van deze website is publiek. Als je account informatie is verzonden, dan heb je onmiddelijk toegang tot de website.</value>
+    <value>&lt;strong&gt;* Opmerking: &lt;/strong&gt; Lidmaatschap van deze website is publiek. Nadat je accountinformatie is verzonden, heb je onmiddellijk toegang tot de website.</value>
   </data>
   <data name="PURGE.Log" xml:space="preserve">
     <value>Site logboek is succesvol geleegd</value>
