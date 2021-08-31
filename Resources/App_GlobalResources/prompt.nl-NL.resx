@@ -21,6 +21,24 @@
   <data name="DidYouMean.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
     <value>Bedoel je '{0}'</value>
   </data>
+  <data name="Help_Default.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Standaard</value>
+  </data>
+  <data name="Help_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Beschrijving</value>
+  </data>
+  <data name="Help_Flag.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Vlag</value>
+  </data>
+  <data name="Help_Options.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Opties</value>
+  </data>
+  <data name="Help_Required.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Vereist</value>
+  </data>
+  <data name="Help_Type.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Type</value>
+  </data>
   <data name="Prompt_AddModule_Description.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Voeg een module aan de pagina toe</value>
   </data>
@@ -39,6 +57,30 @@
   <data name="Prompt_AddModuleError.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
     <value>Er trad een fout op tijdens het toevoegen van de module. Kijk naar de DNN gebeurtenislog voor details.</value>
   </data>
+  <data name="Prompt_ClearCache_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Maakt de server cache leeg en laad de pagina opnieuw</value>
+  </data>
+  <data name="Prompt_ClearCache_Error.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Er trad een fout op bij het leegmaken van de cache</value>
+  </data>
+  <data name="Prompt_ClearCache_Success.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Cache leeggemaakt</value>
+  </data>
+  <data name="Prompt_ClearHistory_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Verwijder de historie van commando's in de huidige sessie</value>
+  </data>
+  <data name="Prompt_ClearLog_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Maakt de Event log van de huidige site leeg </value>
+  </data>
+  <data name="Prompt_ClearLog_Error.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Er trad een fout op bij het leegmaken van de Event log van de huidige site</value>
+  </data>
+  <data name="Prompt_ClearLog_Success.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Event log leeggemaakt</value>
+  </data>
+  <data name="Prompt_Cls_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Maakt de Prompt console leeg. &lt;code&gt;cls&lt;/code&gt; is een verkorte keuze voor &lt;a href="#clear-screen" class="dnn-prompt-cmd-insert"&gt;&lt;code&gt;clear-screen&lt;/code&gt;&lt;/a&gt;</value>
+  </data>
   <data name="Prompt_CommandNotFound.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Kan geen helptekst vinden voor dat commando</value>
   </data>
@@ -53,6 +95,12 @@
   </data>
   <data name="Prompt_CopyModule_FlagPageId.Text" xml:space="preserve" lastModified="2020-09-30 16:58:26">
     <value>De pagina ID van de pagina die de module bevat die je wilt kopieëren.</value>
+  </data>
+  <data name="Prompt_CopyModule_FlagPane.Text" xml:space="preserve" lastModified="2020-10-13 13:24:14">
+    <value>Geef het paginadeel op waar de module gekopieerd moet worden. Als deze niet wordt opgegeven, wordt het ContentPane gebruikt.</value>
+  </data>
+  <data name="Prompt_CopyModule_FlagToPageId.Text" xml:space="preserve" lastModified="2020-10-13 13:24:14">
+    <value>De pagina ID van de doelpagina waar je de module naartoe wilt kopieëren.</value>
   </data>
   <data name="Prompt_Default.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Standaard</value>
