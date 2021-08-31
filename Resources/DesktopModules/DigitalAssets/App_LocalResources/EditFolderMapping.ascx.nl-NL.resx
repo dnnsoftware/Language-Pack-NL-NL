@@ -24,8 +24,8 @@
   <data name="DuplicateMappingName.Text" xml:space="preserve">
     <value>Een routering met dezelfde naam bestaat al. De wijzigingen worden niet opgeslagen</value>
   </data>
-  <data name="FolderProviderLabel.Help" xml:space="preserve">
-    <value>Selecteerd de map provider die je wilt gebruiken.</value>
+  <data name="FolderProviderLabel.Help" lastModified="2020-05-16 16:12:30">
+    <value xml:space="preserve">Selecteer de map provider die je wilt gebruiken.</value>
   </data>
   <data name="FolderProviderLabel.Text" xml:space="preserve">
     <value>Mapprovider</value>
