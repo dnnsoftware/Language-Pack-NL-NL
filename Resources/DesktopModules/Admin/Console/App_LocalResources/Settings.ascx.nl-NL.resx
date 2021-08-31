@@ -12,80 +12,80 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AllowResize.Help" lastModified="2015-12-30 08:56:34">
-    <value xml:space="preserve">Selecteer deze optie toe te staan dat gebruikers de grootte van de iconen kunnen aanpassen.</value>
+  <data name="AllowResize.Help" xml:space="preserve">
+    <value>Selecteer deze optie toe te staan dat gebruikers de grootte van de iconen kunnen aanpassen.</value>
   </data>
-  <data name="AllowResize.Text" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Icoongrootte aanpassen toestaan</value>
+  <data name="AllowResize.Text" xml:space="preserve">
+    <value>Icoongrootte aanpassen toestaan</value>
   </data>
-  <data name="AllowViewChange.Help">
-    <value xml:space="preserve">Het switchen tussen de gedetailleerde en simpele weergave toestaan.</value>
+  <data name="AllowViewChange.Help" xml:space="preserve">
+    <value>Het switchen tussen de gedetailleerde en simpele weergave toestaan.</value>
   </data>
-  <data name="AllowViewChange.Text" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Wijzigen weergave toestaan</value>
+  <data name="AllowViewChange.Text" xml:space="preserve">
+    <value>Wijzigen weergave toestaan</value>
   </data>
-  <data name="ConsoleWidth.Help" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Deze waarde leeg laten om de iconen horizontaal te laten uitbreiden. Stel deze waarde in om de breedte van het console te minimaliseren. Voorbeeld: stel deze waarde in op 400 voor 2 kolommen met iconen.</value>
+  <data name="ConsoleWidth.Help" xml:space="preserve">
+    <value>Deze waarde leeg laten om de iconen horizontaal te laten uitbreiden. Stel deze waarde in om de breedte van het console te minimaliseren. Voorbeeld: stel deze waarde in op 400 voor 2 kolommen met iconen.</value>
   </data>
-  <data name="ConsoleWidth.Text">
-    <value xml:space="preserve">Breedte</value>
+  <data name="ConsoleWidth.Text" xml:space="preserve">
+    <value>Breedte</value>
   </data>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Console Instellingen</value>
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>Console Instellingen</value>
   </data>
-  <data name="DefaultSize.Help">
-    <value xml:space="preserve">Stel de grootte van het icoon vast.</value>
+  <data name="DefaultSize.Help" xml:space="preserve">
+    <value>Stel de grootte van het icoon vast.</value>
   </data>
-  <data name="DefaultSize.Text">
-    <value xml:space="preserve">Standaard Icoon Grootte</value>
+  <data name="DefaultSize.Text" xml:space="preserve">
+    <value>Standaard Icoon Grootte</value>
   </data>
-  <data name="DefaultView.Help">
-    <value xml:space="preserve">Bepaal de standaard weergave. Simpele weergave zal iconen tonen met een de pagina beschrijving als tooltip. Gedetailleerde weergave zal een lijst met beschrijvingen voor elk item tonen.</value>
+  <data name="DefaultView.Help" xml:space="preserve">
+    <value>Bepaal de standaard weergave. Simpele weergave zal iconen tonen met een de pagina beschrijving als tooltip. Gedetailleerde weergave zal een lijst met beschrijvingen voor elk item tonen.</value>
   </data>
-  <data name="DefaultView.Text" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Standaardweergave</value>
+  <data name="DefaultView.Text" xml:space="preserve">
+    <value>Standaardweergave</value>
   </data>
-  <data name="Friends.Text">
-    <value xml:space="preserve">Vrienden</value>
+  <data name="Friends.Text" xml:space="preserve">
+    <value>Vrienden</value>
   </data>
-  <data name="Group.Text">
-    <value xml:space="preserve">Groep</value>
+  <data name="Group.Text" xml:space="preserve">
+    <value>Groep</value>
   </data>
-  <data name="Hide.Text" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Eenvoudige weergave</value>
+  <data name="Hide.Text" xml:space="preserve">
+    <value>Eenvoudige weergave</value>
   </data>
-  <data name="IconFile.Text">
-    <value xml:space="preserve">Kleine iconen (16px)</value>
+  <data name="IconFile.Text" xml:space="preserve">
+    <value>Kleine iconen (16px)</value>
   </data>
-  <data name="IconFileLarge.Text" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Grote iconen (32px)</value>
+  <data name="IconFileLarge.Text" xml:space="preserve">
+    <value>Grote iconen (32px)</value>
   </data>
-  <data name="IconNone.Text">
-    <value xml:space="preserve">Geen iconen</value>
+  <data name="IconNone.Text" xml:space="preserve">
+    <value>Geen iconen</value>
   </data>
-  <data name="IncludeHiddenPages.Help" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Selecteer deze optie om niet zichtbare pagina's op te nemen in de weergave.</value>
+  <data name="IncludeHiddenPages.Help" xml:space="preserve">
+    <value>Selecteer deze optie om niet zichtbare pagina's op te nemen in de weergave.</value>
   </data>
-  <data name="IncludeHiddenPages.Text">
-    <value xml:space="preserve">Verborgen pagina's meenemen</value>
+  <data name="IncludeHiddenPages.Text" xml:space="preserve">
+    <value>Verborgen pagina's meenemen</value>
   </data>
-  <data name="IncludeParent.Help" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Schakel dit selectievakje in om ook de bovenliggende pagina mee te nemen in de weergave.</value>
+  <data name="IncludeParent.Help" xml:space="preserve">
+    <value>Schakel dit selectievakje in om ook de bovenliggende pagina mee te nemen in de weergave.</value>
   </data>
-  <data name="IncludeParent.Text" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Bovenliggende meenemen</value>
+  <data name="IncludeParent.Text" xml:space="preserve">
+    <value>Bovenliggende meenemen</value>
   </data>
-  <data name="Members.Text">
-    <value xml:space="preserve">Leden</value>
+  <data name="Members.Text" xml:space="preserve">
+    <value>Leden</value>
   </data>
-  <data name="Mode.Help">
-    <value xml:space="preserve">Selecteer de modus van de module.</value>
+  <data name="Mode.Help" xml:space="preserve">
+    <value>Selecteer de modus van de module.</value>
   </data>
-  <data name="Mode.Text">
-    <value xml:space="preserve">Modus</value>
+  <data name="Mode.Text" xml:space="preserve">
+    <value>Modus</value>
   </data>
-  <data name="ModuleHelp.Text" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">&lt;p&gt;The console module toont dochterpagina's als iconen en links, of als categorieën om te ondersteunen bij het navigeren. Deze module heeft vier verschillende weergavemodi:
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;p&gt;The console module toont dochterpagina's als iconen en links, of als categorieën om te ondersteunen bij het navigeren. Deze module heeft vier verschillende weergavemodi:
 &lt;ul&gt;&lt;li&gt;kleine iconen met details als tooltip (Kleine iconen, Eenvouidige weergave)&lt;/li&gt;
 &lt;li&gt;grote iconen met details als tooltips (Grote Iconen, Eenvouidige weergave)&lt;/li&gt;
 &lt;li&gt;kleine iconen met details (Kleine iconen, Gedetailleeerde weergave)&lt;/li&gt;
@@ -114,43 +114,43 @@
 &lt;/table&gt;
 &lt;i&gt;Tip: Je kunt voorkomen dat gebruiker de layout van de pagina wijziggen door deze opties uit te vinken: ''Icoongrootte aanpassen toestaan' en 'Weergave aanpassen toestaan'.&lt;/i&gt;</value>
   </data>
-  <data name="Normal.Text">
-    <value xml:space="preserve">Normaal</value>
+  <data name="Normal.Text" xml:space="preserve">
+    <value>Normaal</value>
   </data>
-  <data name="OrderTabsByHierarchy.Help" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Door deze optie te selecteren zullen pagina's met onderliggende pagina's naar onderen worden geplaatst in de lijst. Dit wordt gedaan zodat pagina's met het zelfde niveau in het zelfde gebied worden weergegeven in de console module.</value>
+  <data name="OrderTabsByHierarchy.Help" xml:space="preserve">
+    <value>Door deze optie te selecteren zullen pagina's met onderliggende pagina's naar onderen worden geplaatst in de lijst. Dit wordt gedaan zodat pagina's met het zelfde niveau in het zelfde gebied worden weergegeven in de console module.</value>
   </data>
-  <data name="OrderTabsByHierarchy.Text" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Rangschik onderdelen op basis van hiërarchie</value>
+  <data name="OrderTabsByHierarchy.Text" xml:space="preserve">
+    <value>Rangschik onderdelen op basis van hiërarchie</value>
   </data>
-  <data name="Owner.Text">
-    <value xml:space="preserve">Eigenaar</value>
+  <data name="Owner.Text" xml:space="preserve">
+    <value>Eigenaar</value>
   </data>
-  <data name="ParentTab.Help">
-    <value xml:space="preserve">Een pagina selecteren betekent dat alle sub-pagina's voor de pagina zullen worden getoond. Laat dit veld leeg om alle sub-pagina's voor de huidige pagina te tonen. </value>
+  <data name="ParentTab.Help" xml:space="preserve">
+    <value>Een pagina selecteren betekent dat alle sub-pagina's voor de pagina zullen worden getoond. Laat dit veld leeg om alle sub-pagina's voor de huidige pagina te tonen. </value>
   </data>
-  <data name="ParentTab.Text" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Toon subpagina's van</value>
+  <data name="ParentTab.Text" xml:space="preserve">
+    <value>Toon subpagina's van</value>
   </data>
-  <data name="Profile.Text">
-    <value xml:space="preserve">Profiel</value>
+  <data name="Profile.Text" xml:space="preserve">
+    <value>Profiel</value>
   </data>
-  <data name="Show.Text">
-    <value xml:space="preserve">Gedetailleerde Weergave</value>
+  <data name="Show.Text" xml:space="preserve">
+    <value>Gedetailleerde Weergave</value>
   </data>
-  <data name="ShowTooltip.Help" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Toon een tooltip met een gedetailleerde beschrijving in de simpele weergave wanneer de muispijl over de iconen bewogen wordt.</value>
+  <data name="ShowTooltip.Help" xml:space="preserve">
+    <value>Toon een tooltip met een gedetailleerde beschrijving in de simpele weergave wanneer de muispijl over de iconen bewogen wordt.</value>
   </data>
-  <data name="ShowTooltip.Text">
-    <value xml:space="preserve">Toon tooltip</value>
+  <data name="ShowTooltip.Text" xml:space="preserve">
+    <value>Toon tooltip</value>
   </data>
-  <data name="tabsLabel.Help" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Je kunt de zichtbaarheid van afzonderlijke pagina's beheren.</value>
+  <data name="tabsLabel.Help" xml:space="preserve">
+    <value>Je kunt de zichtbaarheid van afzonderlijke pagina's beheren.</value>
   </data>
-  <data name="tabsLabel.Text" lastModified="2020-05-15 19:41:05">
-    <value xml:space="preserve">Instellingen voor pagina zichtbaarheid</value>
+  <data name="tabsLabel.Text" xml:space="preserve">
+    <value>Instellingen voor pagina zichtbaarheid</value>
   </data>
-  <data name="User.Text">
-    <value xml:space="preserve">Gebruiker</value>
+  <data name="User.Text" xml:space="preserve">
+    <value>Gebruiker</value>
   </data>
 </root>

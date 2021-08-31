@@ -12,7 +12,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="PrivatePage.Text" lastModified="2020-05-16 20:02:13">
-    <value xml:space="preserve">Privé pagina</value>
+  <data name="PrivatePage.Text" xml:space="preserve">
+    <value>Privé pagina</value>
   </data>
 </root>

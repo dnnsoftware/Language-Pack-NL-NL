@@ -7,81 +7,81 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Attach.Text">
-    <value xml:space="preserve">Bijvoegen</value>
+  <data name="Attach.Text" xml:space="preserve">
+    <value>Bijvoegen</value>
   </data>
-  <data name="BrowseFromSite.Text">
-    <value xml:space="preserve">Blader vanuit site</value>
+  <data name="BrowseFromSite.Text" xml:space="preserve">
+    <value>Blader op bestandssysteem van website</value>
   </data>
-  <data name="Cancel.Text">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="Community.Text">
-    <value xml:space="preserve">Leden van de gemeenschap</value>
+  <data name="Community.Text" xml:space="preserve">
+    <value>Leden van de website</value>
   </data>
-  <data name="DeleteItem.Text" lastModified="2020-05-16 16:30:09">
-    <value xml:space="preserve">Weet je zeker dat je dit onderdeel wilt verwijderen?</value>
+  <data name="DeleteItem.Text" xml:space="preserve">
+    <value>Weet je zeker dat je dit onderdeel wilt verwijderen?</value>
   </data>
-  <data name="EditModule.Text">
-    <value xml:space="preserve">Module bewerken</value>
+  <data name="EditModule.Text" xml:space="preserve">
+    <value>Module bewerken</value>
   </data>
-  <data name="Everyone.Text">
-    <value xml:space="preserve">Iedereen</value>
+  <data name="Everyone.Text" xml:space="preserve">
+    <value>Iedereen</value>
   </data>
-  <data name="FileSize.Header">
-    <value xml:space="preserve">Bestandsgrootte:</value>
+  <data name="FileSize.Header" xml:space="preserve">
+    <value>Bestandsgrootte:</value>
   </data>
-  <data name="Friends.Text">
-    <value xml:space="preserve">Vrienden</value>
+  <data name="Friends.Text" xml:space="preserve">
+    <value>Vrienden</value>
   </data>
-  <data name="GetMore.Text">
-    <value xml:space="preserve">Meer vrienden</value>
+  <data name="GetMore.Text" xml:space="preserve">
+    <value>Meer vrienden</value>
   </data>
-  <data name="GroupMembers.Text" lastModified="2016-03-08 14:26:03">
-    <value xml:space="preserve">Groepsleden</value>
+  <data name="GroupMembers.Text" xml:space="preserve">
+    <value>Groepsleden</value>
   </data>
-  <data name="LastModified.Header">
-    <value xml:space="preserve">Laatst gewijzigd</value>
+  <data name="LastModified.Header" xml:space="preserve">
+    <value>Laatst gewijzigd</value>
   </data>
-  <data name="Name.Header">
-    <value xml:space="preserve">Naam</value>
+  <data name="Name.Header" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="Of.Text">
-    <value xml:space="preserve">van</value>
+  <data name="Of.Text" xml:space="preserve">
+    <value>van</value>
   </data>
-  <data name="Private.Text">
-    <value xml:space="preserve">Privé</value>
+  <data name="Private.Text" xml:space="preserve">
+    <value>Privé</value>
   </data>
-  <data name="SelectFile.Text">
-    <value xml:space="preserve">Selecteer bestand om te delen:</value>
+  <data name="SelectFile.Text" xml:space="preserve">
+    <value>Selecteer bestand om te delen:</value>
   </data>
-  <data name="SelectPhoto.Text">
-    <value xml:space="preserve">Selecteer foto om te delen:</value>
+  <data name="SelectPhoto.Text" xml:space="preserve">
+    <value>Selecteer foto om te delen:</value>
   </data>
-  <data name="ServerError.Text">
-    <value xml:space="preserve">Onverwachte fout. Dit gebeurt doorgaans wanneer het bestand te groot is.</value>
+  <data name="ServerError.Text" xml:space="preserve">
+    <value>Onverwachte fout. Dit gebeurt doorgaans wanneer het bestand te groot is.</value>
   </data>
-  <data name="Share.Text">
-    <value xml:space="preserve">Delen</value>
+  <data name="Share.Text" xml:space="preserve">
+    <value>Delen</value>
   </data>
-  <data name="SharePlaceHolder.Text">
-    <value xml:space="preserve">Vertel de wereld iets...</value>
+  <data name="SharePlaceHolder.Text" xml:space="preserve">
+    <value>Deel iets op deze tijdlijn...</value>
   </data>
-  <data name="Title.Text">
-    <value xml:space="preserve">Blader naar bestand om te gebruiken</value>
+  <data name="Title.Text" xml:space="preserve">
+    <value>Blader naar bestand om te gebruiken</value>
   </data>
-  <data name="Type.Header">
-    <value xml:space="preserve">Type</value>
+  <data name="Type.Header" xml:space="preserve">
+    <value>Type</value>
   </data>
-  <data name="UploadFromLocal.Text">
-    <value xml:space="preserve">Uploaden van mijn computer</value>
+  <data name="UploadFromLocal.Text" xml:space="preserve">
+    <value>Uploaden vanaf mijn computer</value>
   </data>
-  <data name="WhoWillSee.Text">
-    <value xml:space="preserve">Wie ziet dit?</value>
+  <data name="WhoWillSee.Text" xml:space="preserve">
+    <value>Wie kan dit zien?</value>
   </data>
 </root>

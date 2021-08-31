@@ -12,43 +12,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="BasicTextBox.Text">
-    <value xml:space="preserve">Tekst zonder opmaak</value>
+  <data name="BasicTextBox.Text" xml:space="preserve">
+    <value>Tekst zonder opmaak</value>
   </data>
-  <data name="RichTextBox.Text">
-    <value xml:space="preserve">Tekst met opmaak</value>
+  <data name="CompareListDefaultOption.Text" xml:space="preserve">
+    <value>Vergelijk</value>
   </data>
-  <data name="Text.Text">
-    <value xml:space="preserve">Tekst</value>
+  <data name="EditorTitleLabel.Text" xml:space="preserve">
+    <value>{0} Editor</value>
   </data>
-  <data name="Html.Text">
-    <value xml:space="preserve">HTML</value>
+  <data name="Html.Text" xml:space="preserve">
+    <value>HTML</value>
   </data>
-  <data name="Raw.Text">
-    <value xml:space="preserve">Ruw</value>
+  <data name="plRender.Help" xml:space="preserve">
+    <value>Selecteer de te gebruiken modus om de HTML in weer te geven.</value>
   </data>
-  <data name="plView.Help">
-    <value xml:space="preserve">Selecteer de editor</value>
+  <data name="plRender.Text" xml:space="preserve">
+    <value>Weergave modus:</value>
   </data>
-  <data name="plView.Text">
-    <value xml:space="preserve">Editor:</value>
+  <data name="plView.Help" xml:space="preserve">
+    <value>Selecteer de editor</value>
   </data>
-  <data name="plRender.Help">
-    <value xml:space="preserve">Selecteer de te gebruiken modus om de HTML in weer te geven.</value>
+  <data name="plView.Text" xml:space="preserve">
+    <value>Editor:</value>
   </data>
-  <data name="plRender.Text">
-    <value xml:space="preserve">Weergave modus:</value>
+  <data name="Raw.Text" xml:space="preserve">
+    <value>Ruw</value>
   </data>
-  <data name="CompareListDefaultOption.Text">
-    <value xml:space="preserve">Vergelijk</value>
+  <data name="RichTextBox.Text" xml:space="preserve">
+    <value>Tekst met opmaak</value>
   </data>
-  <data name="EditorTitleLabel.Text">
-    <value xml:space="preserve">{0} Editor</value>
+  <data name="Text.Text" xml:space="preserve">
+    <value>Tekst</value>
   </data>
-  <data name="VersionLabel.Text">
-    <value xml:space="preserve">Versie {0}</value>
+  <data name="VersionLabel.Text" xml:space="preserve">
+    <value>Versie {0}</value>
   </data>
-  <data name="VersionListDefaultOption.Text">
-    <value xml:space="preserve">Versie</value>
+  <data name="VersionListDefaultOption.Text" xml:space="preserve">
+    <value>Versie</value>
   </data>
 </root>

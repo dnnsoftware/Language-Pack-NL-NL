@@ -12,55 +12,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddContent.Action">
-    <value xml:space="preserve">Nieuwe rol toevoegen</value>
+  <data name="AddContent.Action" xml:space="preserve">
+    <value>Nieuwe rol toevoegen</value>
   </data>
-  <data name="AddGroup.Action">
-    <value xml:space="preserve">Nieuwe rolgroep toevoegen</value>
+  <data name="AddGroup.Action" xml:space="preserve">
+    <value>Nieuwe rolgroep toevoegen</value>
   </data>
-  <data name="Auto.Header">
-    <value xml:space="preserve">Automatisch</value>
+  <data name="Auto.Header" xml:space="preserve">
+    <value>Automatisch</value>
   </data>
-  <data name="ControlTitle_.Text">
-    <value xml:space="preserve">Toegangsrollen</value>
+  <data name="ControlTitle_.Text" xml:space="preserve">
+    <value>Toegangsrollen</value>
   </data>
-  <data name="Description.Header">
-    <value xml:space="preserve">Omschrijving</value>
+  <data name="Description.Header" xml:space="preserve">
+    <value>Omschrijving</value>
   </data>
-  <data name="Every.Header">
-    <value xml:space="preserve">Elke</value>
+  <data name="Every.Header" xml:space="preserve">
+    <value>Elke</value>
   </data>
-  <data name="Fee.Header">
-    <value xml:space="preserve">Tarief</value>
+  <data name="Fee.Header" xml:space="preserve">
+    <value>Tarief</value>
   </data>
-  <data name="ModuleHelp.Text" lastModified="2020-05-17 18:09:22">
-    <value xml:space="preserve">&lt;h1&gt;Over toegangsrollen&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunnen beheerders de toegangsrollen van hun website beheren. Er kunnen nieuwe rollen worden aangemaakt, bestaande rollen kunnen worden gewijzigd, Rollen kunnen worden verwijderd en de toewijzing van rollen aan gebruikers kan worden beheerd.&lt;/p&gt;</value>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;Over toegangsrollen&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunnen sitebeheerders de toegangsrollen van hun website beheren. Er kunnen nieuwe rollen worden aangemaakt, bestaande rollen kunnen worden gewijzigd, Rollen kunnen worden verwijderd en de toewijzing van rollen aan gebruikers kan worden beheerd.&lt;/p&gt;</value>
   </data>
-  <data name="Name.Header">
-    <value xml:space="preserve">Naam</value>
+  <data name="Name.Header" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="Period.Header">
-    <value xml:space="preserve">Periode</value>
+  <data name="Period.Header" xml:space="preserve">
+    <value>Periode</value>
   </data>
-  <data name="plRoleGroups.Help" lastModified="2020-05-17 18:09:22">
-    <value xml:space="preserve">Selecteer the rolgroep die je wilt bekijken</value>
+  <data name="plRoleGroups.Help" xml:space="preserve">
+    <value>Selecteer the rolgroep die je wilt bekijken</value>
   </data>
-  <data name="plRoleGroups.Text">
-    <value xml:space="preserve">Filter op rolgroep:</value>
+  <data name="plRoleGroups.Text" xml:space="preserve">
+    <value>Filter op rolgroep:</value>
   </data>
-  <data name="Public.Header">
-    <value xml:space="preserve">Publiek</value>
+  <data name="Public.Header" xml:space="preserve">
+    <value>Publiek</value>
   </data>
-  <data name="Trial.Header">
-    <value xml:space="preserve">Probeer periode</value>
+  <data name="Trial.Header" xml:space="preserve">
+    <value>Probeer periode</value>
   </data>
-  <data name="UserCount.Header">
-    <value xml:space="preserve">Gebruikers</value>
+  <data name="UserCount.Header" xml:space="preserve">
+    <value>Gebruikers</value>
   </data>
-  <data name="UserRoles.Text">
-    <value xml:space="preserve">Beheer gebruikers</value>
+  <data name="UserRoles.Text" xml:space="preserve">
+    <value>Beheer gebruikers</value>
   </data>
-  <data name="UserSettings.Action">
-    <value xml:space="preserve">Instellingen voor gebruikers</value>
+  <data name="UserSettings.Action" xml:space="preserve">
+    <value>Instellingen voor gebruikers</value>
   </data>
 </root>

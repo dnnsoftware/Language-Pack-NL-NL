@@ -12,49 +12,49 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AdminHelp.Text" lastModified="2020-05-17 16:10:11">
-    <value xml:space="preserve">Deze editor stelt je in staat de Authenticatie Provider in te stellen.</value>
+  <data name="AdminHelp.Text" xml:space="preserve">
+    <value>Deze editor stelt je in staat de Authenticatie Provider in te stellen.</value>
   </data>
-  <data name="AuthenticationSettings.Text" lastModified="2018-07-20 11:41:47">
-    <value xml:space="preserve">Machtigingsinstellingen</value>
+  <data name="AuthenticationSettings.Text" xml:space="preserve">
+    <value>Machtigingsinstellingen</value>
   </data>
-  <data name="AuthenticationType.Help" lastModified="2018-07-20 11:41:47">
-    <value xml:space="preserve">Het type Authenticatiesysteem (bijv. LiveID, OpenID enz.)</value>
+  <data name="AuthenticationType.Help" xml:space="preserve">
+    <value>Het type Authenticatiesysteem (bijv. LiveID, OpenID enz.)</value>
   </data>
-  <data name="AuthenticationType.Text" lastModified="2018-07-20 11:41:47">
-    <value xml:space="preserve">Authenticatie type:</value>
+  <data name="AuthenticationType.Text" xml:space="preserve">
+    <value>Authenticatie type:</value>
   </data>
-  <data name="cmdUpdate.Text" lastModified="2018-07-20 11:41:47">
-    <value xml:space="preserve">Bijwerken Authenticatie instellingen</value>
+  <data name="cmdUpdate.Text" xml:space="preserve">
+    <value>Bijwerken Authenticatie instellingen</value>
   </data>
-  <data name="HostHelp.Text" lastModified="2020-05-17 16:10:11">
-    <value xml:space="preserve">Deze editor stelt je in staat de Authenticatie Provider in te stellen. Je kunt de locatie van de bronbestanden instellen en je kunt de provider inschakelen. Ingeschakelde providers zijn beschikbaar voor website administrators, die hierna de provider voor hun website kunnen instellen.</value>
+  <data name="HostHelp.Text" xml:space="preserve">
+    <value>Deze editor stelt je in staat de Authenticatie Provider in te stellen. Je kunt de locatie van de bronbestanden instellen en je kunt de provider inschakelen. Ingeschakelde providers zijn beschikbaar voor website administrators, die hierna de provider voor hun website kunnen instellen.</value>
   </data>
-  <data name="IsEnabled.Help" lastModified="2018-07-20 11:41:47">
-    <value xml:space="preserve">Vink aan om dit Authenticatiesysteem in te schakelen.</value>
+  <data name="IsEnabled.Help" xml:space="preserve">
+    <value>Vink aan om dit Authenticatiesysteem in te schakelen.</value>
   </data>
-  <data name="IsEnabled.Text" lastModified="2018-07-20 11:41:47">
-    <value xml:space="preserve">Ingeschakeld?</value>
+  <data name="IsEnabled.Text" xml:space="preserve">
+    <value>Ingeschakeld?</value>
   </data>
-  <data name="LoginControlSrc.Help" lastModified="2018-07-20 11:41:47">
-    <value xml:space="preserve">De bron van de Login Control voor dit Authenticatiesysteem</value>
+  <data name="LoginControlSrc.Help" xml:space="preserve">
+    <value>De bron van de Login Control voor dit Authenticatiesysteem</value>
   </data>
-  <data name="LoginControlSrc.Text" lastModified="2018-07-20 11:41:47">
-    <value xml:space="preserve">Login Control bron:</value>
+  <data name="LoginControlSrc.Text" xml:space="preserve">
+    <value>Login Control bron:</value>
   </data>
-  <data name="LogoffControlSrc.Help" lastModified="2018-07-20 11:41:47">
-    <value xml:space="preserve">De bron van de Logoff Control voor dit Authenticatiesysteem</value>
+  <data name="LogoffControlSrc.Help" xml:space="preserve">
+    <value>De bron van de Logoff Control voor dit Authenticatiesysteem</value>
   </data>
-  <data name="LogoffControlSrc.Text" lastModified="2018-07-20 11:41:47">
-    <value xml:space="preserve">Logoff Control bron:</value>
+  <data name="LogoffControlSrc.Text" xml:space="preserve">
+    <value>Logoff Control bron:</value>
   </data>
-  <data name="NoSettings.Text" lastModified="2018-07-20 11:41:47">
-    <value xml:space="preserve">Dit Authenthicatiesysteem heeft geen instellingen om te configureren.</value>
+  <data name="NoSettings.Text" xml:space="preserve">
+    <value>Dit Authenthicatiesysteem heeft geen instellingen om te configureren.</value>
   </data>
-  <data name="SettingsControlSrc.Help" lastModified="2018-07-20 11:41:47">
-    <value xml:space="preserve">De bron van de Settings Control voor dit Authenticatiesysteem</value>
+  <data name="SettingsControlSrc.Help" xml:space="preserve">
+    <value>De bron van de Settings Control voor dit Authenticatiesysteem</value>
   </data>
-  <data name="SettingsControlSrc.Text" lastModified="2018-07-20 11:41:47">
-    <value xml:space="preserve">Settings Control bron:</value>
+  <data name="SettingsControlSrc.Text" xml:space="preserve">
+    <value>Settings Control bron:</value>
   </data>
 </root>

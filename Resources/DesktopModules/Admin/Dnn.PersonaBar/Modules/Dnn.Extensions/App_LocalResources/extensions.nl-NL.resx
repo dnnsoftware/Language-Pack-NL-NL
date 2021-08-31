@@ -12,1113 +12,1107 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddModuleControl_Cancel.Button" lastModified="2016-11-29 08:00:21">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="AddModuleControl_Cancel.Button" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="AddModuleControl_Definition.HelpText" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Dit is de naam van de moduledefinitie</value>
+  <data name="AddModuleControl_Definition.HelpText" xml:space="preserve">
+    <value>Dit is de naam van de moduledefinitie</value>
   </data>
-  <data name="AddModuleControl_Definition.Label" lastModified="2016-11-29 08:00:21">
-    <value xml:space="preserve">Definitie</value>
+  <data name="AddModuleControl_Definition.Label" xml:space="preserve">
+    <value>Definitie</value>
   </data>
-  <data name="AddModuleControl_HelpURL.HelpText" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Je kunt een Help URL voor deze control bieden. Deze zal verschijnen in het Actiemenu.</value>
+  <data name="AddModuleControl_HelpURL.HelpText" xml:space="preserve">
+    <value>Je kunt een Help URL voor deze control bieden. Deze zal verschijnen in het Actiemenu.</value>
   </data>
-  <data name="AddModuleControl_HelpURL.Label" lastModified="2016-11-29 08:00:21">
-    <value xml:space="preserve">Help URL</value>
+  <data name="AddModuleControl_HelpURL.Label" xml:space="preserve">
+    <value>Help URL</value>
   </data>
-  <data name="AddModuleControl_Icon.HelpText" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Kies een icon voor deze besturing. Het icon zal getoond worden in de moduleheader, indien ondersteund door het thema.</value>
+  <data name="AddModuleControl_Icon.HelpText" xml:space="preserve">
+    <value>Kies een icon voor deze besturing. Het icon zal getoond worden in de moduleheader, indien ondersteund door het thema.</value>
   </data>
-  <data name="AddModuleControl_Icon.Label" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Icon</value>
+  <data name="AddModuleControl_Icon.Label" xml:space="preserve">
+    <value>Icon</value>
   </data>
-  <data name="AddModuleControl_Key.HelpText" lastModified="2016-11-29 09:15:36">
-    <value xml:space="preserve">Vul een unieke naam in om deze besturing in de Module te identificeren.</value>
+  <data name="AddModuleControl_Key.HelpText" xml:space="preserve">
+    <value>Vul een unieke naam in om deze besturing in de Module te identificeren.</value>
   </data>
-  <data name="AddModuleControl_Key.Label" lastModified="2016-11-29 09:15:36">
-    <value xml:space="preserve">Sleutel</value>
+  <data name="AddModuleControl_Key.Label" xml:space="preserve">
+    <value>Sleutel</value>
   </data>
-  <data name="AddModuleControl_Module.HelpText" lastModified="2016-11-29 09:15:36">
-    <value xml:space="preserve">Dit is de Vriendelijke Naam van de Module.</value>
+  <data name="AddModuleControl_Module.HelpText" xml:space="preserve">
+    <value>Dit is de Vriendelijke Naam van de Module.</value>
   </data>
-  <data name="AddModuleControl_Module.Label" lastModified="2016-11-29 09:15:36">
-    <value xml:space="preserve">Module</value>
+  <data name="AddModuleControl_Module.Label" xml:space="preserve">
+    <value>Module</value>
   </data>
-  <data name="AddModuleControl_Source.HelpText" lastModified="2016-11-29 09:15:36">
-    <value xml:space="preserve">Selecteer het bronbestand of vul het typenaam in voor deze besturing.</value>
+  <data name="AddModuleControl_Source.HelpText" xml:space="preserve">
+    <value>Selecteer het bronbestand of vul het typenaam in voor deze besturing.</value>
   </data>
-  <data name="AddModuleControl_Source.Label" lastModified="2016-11-29 09:15:36">
-    <value xml:space="preserve">Bronbestand</value>
+  <data name="AddModuleControl_Source.Label" xml:space="preserve">
+    <value>Bronbestand</value>
   </data>
-  <data name="AddModuleControl_SourceFolder.HelpText" lastModified="2016-11-29 09:15:36">
-    <value xml:space="preserve">Selecteer de bronmap voor deze besturing.</value>
+  <data name="AddModuleControl_SourceFolder.HelpText" xml:space="preserve">
+    <value>Selecteer de bronmap voor deze besturing.</value>
   </data>
-  <data name="AddModuleControl_SourceFolder.Label" lastModified="2016-11-29 09:15:36">
-    <value xml:space="preserve">Bronmap</value>
+  <data name="AddModuleControl_SourceFolder.Label" xml:space="preserve">
+    <value>Bronmap</value>
   </data>
-  <data name="AddModuleControl_SupportsPartialRendering.HelpText" lastModified="2016-11-29 09:15:36">
-    <value xml:space="preserve">Deze vlag geeft aan of de module besturing AJAX gedeeltelijke weergave ondersteunt.</value>
+  <data name="AddModuleControl_SupportsPartialRendering.HelpText" xml:space="preserve">
+    <value>Deze vlag geeft aan of de module besturing AJAX gedeeltelijke weergave ondersteunt.</value>
   </data>
-  <data name="AddModuleControl_SupportsPartialRendering.Label" lastModified="2016-11-29 09:15:36">
-    <value xml:space="preserve">Ondersteunt gedeeltelijke weergave?</value>
+  <data name="AddModuleControl_SupportsPartialRendering.Label" xml:space="preserve">
+    <value>Ondersteunt gedeeltelijke weergave?</value>
   </data>
-  <data name="AddModuleControl_SupportsPopups.HelpText" lastModified="2016-11-29 09:15:36">
-    <value xml:space="preserve">Deze vlag geeft aan of de module besturing modale pop-ups ondersteunt.</value>
+  <data name="AddModuleControl_SupportsPopups.HelpText" xml:space="preserve">
+    <value>Deze vlag geeft aan of de module besturing modale pop-ups ondersteunt.</value>
   </data>
-  <data name="AddModuleControl_SupportsPopups.Label" lastModified="2016-11-29 09:15:36">
-    <value xml:space="preserve">Ondersteunt pop-ups?</value>
+  <data name="AddModuleControl_SupportsPopups.Label" xml:space="preserve">
+    <value>Ondersteunt pop-ups?</value>
   </data>
-  <data name="AddModuleControl_Title.HelpText" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Vul een titel in voor deze besturing. Deze zal worden weergegeven in de moduleheader, indien ondersteund in het thema.</value>
+  <data name="AddModuleControl_Title.HelpText" xml:space="preserve">
+    <value>Vul een titel in voor deze besturing. Deze zal worden weergegeven in de moduleheader, indien ondersteund in het thema.</value>
   </data>
-  <data name="AddModuleControl_Title.Label" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Titel</value>
+  <data name="AddModuleControl_Title.Label" xml:space="preserve">
+    <value>Titel</value>
   </data>
-  <data name="AddModuleControl_Type.HelpText" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Kies het type besturing uit de lijst.</value>
+  <data name="AddModuleControl_Type.HelpText" xml:space="preserve">
+    <value>Kies het type besturing uit de lijst.</value>
   </data>
-  <data name="AddModuleControl_Type.Label" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Type</value>
+  <data name="AddModuleControl_Type.Label" xml:space="preserve">
+    <value>Type</value>
   </data>
-  <data name="AddModuleControl_Update.Button" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Bijwerken</value>
+  <data name="AddModuleControl_Update.Button" xml:space="preserve">
+    <value>Bijwerken</value>
   </data>
-  <data name="AddModuleControl_ViewOrder.HelpText" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Vul de volgorde van weergave in voor de besturing in de lijst van besturingen voor deze definitie.</value>
+  <data name="AddModuleControl_ViewOrder.HelpText" xml:space="preserve">
+    <value>Vul de volgorde van weergave in voor de besturing in de lijst van besturingen voor deze definitie.</value>
   </data>
-  <data name="AddModuleControl_ViewOrder.Label" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Volgorde van weergave</value>
+  <data name="AddModuleControl_ViewOrder.Label" xml:space="preserve">
+    <value>Volgorde van weergave</value>
   </data>
-  <data name="AppDescription.Text" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Applicatiebeschrijving</value>
+  <data name="AppDescription.Text" xml:space="preserve">
+    <value>Applicatiebeschrijving</value>
   </data>
-  <data name="AppTitle.Text" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Applicatietitel</value>
+  <data name="AppTitle.Text" xml:space="preserve">
+    <value>Applicatietitel</value>
   </data>
-  <data name="AppType.Text" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Applicatietekst</value>
+  <data name="AppType.Text" xml:space="preserve">
+    <value>Applicatietekst</value>
   </data>
-  <data name="Auth_System.Type" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Authenticatie systemen</value>
+  <data name="Auth_System.Type" xml:space="preserve">
+    <value>Authenticatie systemen</value>
   </data>
-  <data name="AuthSystem.Type" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Authenticatie systemen</value>
+  <data name="AuthSystem.Type" xml:space="preserve">
+    <value>Authenticatie systemen</value>
   </data>
-  <data name="AuthSystemSiteSettings_AppEnabled.HelpText" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Vink dit vakje aan om deze authenticatie provider in te schakelen voor deze site.</value>
+  <data name="AuthSystemSiteSettings_AppEnabled.HelpText" xml:space="preserve">
+    <value>Vink dit vakje aan om deze authenticatie provider in te schakelen voor deze site.</value>
   </data>
-  <data name="AuthSystemSiteSettings_AppEnabled.Label" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Ingeschakeld</value>
+  <data name="AuthSystemSiteSettings_AppEnabled.Label" xml:space="preserve">
+    <value>Ingeschakeld</value>
   </data>
-  <data name="AuthSystemSiteSettings_AppId.HelpText" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Vul de waarde in van de APP ID/API Sleutel/Klant sleutel die je geconfigureerd hebt voor deze authenticatie provider</value>
+  <data name="AuthSystemSiteSettings_AppId.HelpText" xml:space="preserve">
+    <value>Vul de waarde in van de APP ID/API Sleutel/Klant sleutel die je geconfigureerd hebt voor deze authenticatie provider</value>
   </data>
-  <data name="AuthSystemSiteSettings_AppId.Label" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">App ID</value>
+  <data name="AuthSystemSiteSettings_AppId.Label" xml:space="preserve">
+    <value>App ID</value>
   </data>
-  <data name="AuthSystemSiteSettings_AppSecret.HelpText" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Vul de waarde in van de APP ID/API Sleutel/Klant geheim die je geconfigureerd hebt voor deze authenticatie provider</value>
+  <data name="AuthSystemSiteSettings_AppSecret.HelpText" xml:space="preserve">
+    <value>Vul de waarde in van de APP ID/API Sleutel/Klant geheim die je geconfigureerd hebt voor deze authenticatie provider</value>
   </data>
-  <data name="AuthSystemSiteSettings_AppSecret.Label" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">App Geheim</value>
+  <data name="AuthSystemSiteSettings_AppSecret.Label" xml:space="preserve">
+    <value>App Geheim</value>
   </data>
-  <data name="AvailableExtensions.Text" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Beschikbare extensies</value>
+  <data name="AvailableExtensions.Text" xml:space="preserve">
+    <value>Beschikbare uitbreidingen</value>
   </data>
-  <data name="BackToEditExtension.Text">
-    <value xml:space="preserve">Terug naar bewerken {0} Extensies</value>
+  <data name="BackToEditExtension.Text" xml:space="preserve">
+    <value>Terug naar bewerken {0} uitbreidingen</value>
   </data>
-  <data name="BackToExtensions.Text">
-    <value xml:space="preserve">Terug naar Extensies</value>
+  <data name="By.Text" xml:space="preserve">
+    <value>Door</value>
   </data>
-  <data name="By.Text" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Door</value>
+  <data name="Cancel.Button" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="Cancel.Button" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="Catalog.Text" xml:space="preserve">
+    <value>Uitbreiding Feed</value>
   </data>
-  <data name="Catalog.Text" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Extensie Feed</value>
+  <data name="CatalogModule.Text" xml:space="preserve">
+    <value>Module</value>
   </data>
-  <data name="CatalogModule.Text" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Module</value>
+  <data name="CatalogSearchTitle.Text" xml:space="preserve">
+    <value>Zoeken naar uitbreidingen</value>
   </data>
-  <data name="CatalogSearchTitle.Text" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Zoeken naar extensies</value>
+  <data name="CatalogSkin.Text" xml:space="preserve">
+    <value>Thema</value>
   </data>
-  <data name="CatalogSkin.Text" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Thema</value>
+  <data name="CheckLanguage.Text" xml:space="preserve">
+    <value>Gebruik update service om te controleren op bijgewerkte taalpakketten voor uitbreidingen</value>
   </data>
-  <data name="CheckLanguage.Text" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Gebruik update service om te controleren op bijgewerkte taalpakketten voor extensies</value>
+  <data name="ClearSearch.Text" xml:space="preserve">
+    <value>Zoeken leegmaken</value>
   </data>
-  <data name="ClearSearch.Text" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Zoeken leegmaken</value>
+  <data name="CollapseAll.Text" xml:space="preserve">
+    <value>Alle inklappen</value>
   </data>
-  <data name="CollapseAll.Text" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Alle inklappen</value>
+  <data name="Connector.Type" xml:space="preserve">
+    <value>Koppelingen</value>
   </data>
-  <data name="Connector.Type" lastModified="2018-07-23 09:57:43">
-    <value xml:space="preserve">Koppelingen</value>
+  <data name="Container.Text" xml:space="preserve">
+    <value>Container</value>
   </data>
-  <data name="Container.Text" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Container</value>
+  <data name="Container.Type" xml:space="preserve">
+    <value>Containers</value>
   </data>
-  <data name="Container.Type" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Containers</value>
+  <data name="ControlTitle_.Text" xml:space="preserve">
+    <value>Uitbreidingen</value>
   </data>
-  <data name="ControlTitle_.Text" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Extensies</value>
+  <data name="CoreLanguagePack.Type" xml:space="preserve">
+    <value>Kern Taalpakketten</value>
   </data>
-  <data name="CoreLanguagePack.Type" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Kern Taalpakketten</value>
+  <data name="CreateContainer.Action" xml:space="preserve">
+    <value>Maak Nieuwe Container</value>
   </data>
-  <data name="CreateContainer.Action" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Maak Nieuwe Container</value>
+  <data name="CreateExtension.Action" xml:space="preserve">
+    <value>Maak nieuwe uitbreidingen</value>
   </data>
-  <data name="CreateExtension.Action" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Maak Nieuwe Extensie</value>
+  <data name="CreateExtension_Cancel.Button" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="CreateExtension_Cancel.Button" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="CreateExtension_Save.Button" xml:space="preserve">
+    <value>Maken</value>
   </data>
-  <data name="CreateExtension_Save.Button" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Maken</value>
+  <data name="CreateLanguagePack.Action" xml:space="preserve">
+    <value>Maak Nieuwe Taal</value>
   </data>
-  <data name="CreateLanguagePack.Action" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Maak Nieuwe Taal</value>
+  <data name="CreateModule.Action" xml:space="preserve">
+    <value>Maak Nieuwe Module</value>
   </data>
-  <data name="CreateModule.Action" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Maak Nieuwe Module</value>
+  <data name="CreateNewModule.HelpText" xml:space="preserve">
+    <value>Je kunt een nieuwe module maken op drie manieren. Selecteer welke methode je wilt gebruiken. Nieuw - maakt een nieuwe module besturing, Besturing - maakt een module vanuit een bestaande besturing, Manifest - maakt een module vanuit een bestaand manifest.</value>
   </data>
-  <data name="CreateNewModule.HelpText" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Je kunt een nieuwe module maken op drie manieren. Selecteer welke methode je wilt gebruiken. Nieuw - maakt een nieuwe module besturing, Besturing - maakt een module vanuit een bestaande besturing, Manifest - maakt een module vanuit een bestaand manifest.</value>
+  <data name="CreateNewModule_FolderName.Label" xml:space="preserve">
+    <value>Mapnaam</value>
   </data>
-  <data name="CreateNewModule_FolderName.Label" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Mapnaam</value>
+  <data name="CreateNewModule_NewFolder.Label" xml:space="preserve">
+    <value>Nieuwe Map</value>
   </data>
-  <data name="CreateNewModule_NewFolder.Label" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Nieuwe Map</value>
+  <data name="CreateNewModule_NotSpecified.Label" xml:space="preserve">
+    <value>&lt;Niet gespecificeerd&gt;</value>
   </data>
-  <data name="CreateNewModule_NotSpecified.Label" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">&lt;Niet gespecificeerd&gt;</value>
+  <data name="CreateNewModuleFrom.Label" xml:space="preserve">
+    <value>Maak een Nieuwe Module van:</value>
   </data>
-  <data name="CreateNewModuleFrom.Label" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Maak een Nieuwe Module van:</value>
+  <data name="CreatePackage_ArchiveFileName.HelpText" xml:space="preserve">
+    <value>Vul de bestandsnaam in die gebruikt wordt voor het archief (zip).</value>
   </data>
-  <data name="CreatePackage_ArchiveFileName.HelpText" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Vul de bestandsnaam in die gebruikt wordt voor het archief (zip).</value>
+  <data name="CreatePackage_ArchiveFileName.Label" xml:space="preserve">
+    <value>Archief Bestandsnaam</value>
   </data>
-  <data name="CreatePackage_ArchiveFileName.Label" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Archief Bestandsnaam</value>
+  <data name="CreatePackage_ChooseAssemblies.HelpText" xml:space="preserve">
+    <value>Bij deze stap kun je de verzamelingen toevoegen die in het pakket moeten worden ingesloten. Indien er een project bestand is in de pakket map, dan zal de Wizard hebben geprobeerd om te bepalen welke assemblies ingesloten moeten worden, maar je kunt assemblies ook toevoegen of verwijderen uit de lijst.</value>
   </data>
-  <data name="CreatePackage_ChooseAssemblies.HelpText" lastModified="2020-05-16 18:47:28">
-    <value xml:space="preserve">Bij deze stap kun je de verzamelingen toevoegen die in het pakket moeten worden ingesloten. Indien er een project bestand is in de pakket map, dan zal de Wizard hebben geprobeerd om te bepalen welke assemblies ingesloten moeten worden, maar je kunt assemblies ook toevoegen of verwijderen uit de lijst.</value>
+  <data name="CreatePackage_ChooseAssemblies.Label" xml:space="preserve">
+    <value>Kies verzamelingen om in te sluiten</value>
   </data>
-  <data name="CreatePackage_ChooseAssemblies.Label" lastModified="2016-11-29 12:23:40">
-    <value xml:space="preserve">Kies verzamelingen om in te sluiten</value>
+  <data name="CreatePackage_ChooseFiles.HelpText" xml:space="preserve">
+    <value>Bij deze stap kun je kiezen welke bestanden je in het pakket wilt insluiten. De Wizard heeft geprobeerd om te bepalen welke bestanden ingesloten moeten worden, maar je kunt bestanden toevoegen aan of verwijderen uit de lijst. Als toevoeging kun je optioneel kiezen om bronbestanden in te sluiten door het "Insluiten bron" vakje aan te vinken. </value>
   </data>
-  <data name="CreatePackage_ChooseFiles.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Bij deze stap kun je kiezen welke bestanden je in het pakket wilt insluiten. De Wizard heeft geprobeerd om te bepalen welke bestanden ingesloten moeten worden, maar je kunt bestanden toevoegen aan of verwijderen uit de lijst. Als toevoeging kun je optioneel kiezen om bronbestanden in te sluiten door het "Insluiten bron" vakje aan te vinken. </value>
+  <data name="CreatePackage_ChooseFiles.Label" xml:space="preserve">
+    <value>Kies Bestanden om in te sluiten</value>
   </data>
-  <data name="CreatePackage_ChooseFiles.Label" lastModified="2016-11-29 15:49:46">
-    <value xml:space="preserve">Kies Bestanden om in te sluiten</value>
+  <data name="CreatePackage_CreateManifest.HelpText" xml:space="preserve">
+    <value>Gebaseerd op jouw selecties heeft de Wizard het manifest gemaakt voor het pakket. Het manifest wordt weergegeven in het tekstveld hieronder. Je kunt het manifest bewerken, voor het maken van het pakket.</value>
   </data>
-  <data name="CreatePackage_CreateManifest.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Gebaseerd op jouw selecties heeft de Wizard het manifest gemaakt voor het pakket. Het manifest wordt weergegeven in het tekstveld hieronder. Je kunt het manifest bewerken, voor het maken van het pakket.</value>
+  <data name="CreatePackage_CreateManifest.Label" xml:space="preserve">
+    <value>Manifest maken</value>
   </data>
-  <data name="CreatePackage_CreateManifest.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Manifest maken</value>
+  <data name="CreatePackage_CreateManifestFile.Label" xml:space="preserve">
+    <value>Maak manifestbestand:</value>
   </data>
-  <data name="CreatePackage_CreateManifestFile.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Maak manifestbestand:</value>
+  <data name="CreatePackage_CreatePackage.Label" xml:space="preserve">
+    <value>Maak Pakket</value>
   </data>
-  <data name="CreatePackage_CreatePackage.Label" lastModified="2016-11-29 15:49:46">
-    <value xml:space="preserve">Maak Pakket</value>
+  <data name="CreatePackage_FinalStep.HelpText" xml:space="preserve">
+    <value>De laatste stap is om het pakket te maken. Om een kopie van het Manifestbestand te maken, vink het "Maak manifestbestand" vakje aan - het bestand zal gemaakt worden in de Pakket map. Los van de instelling die je hier gebruikt, zal het manifest worden opgeslagen in de database en zal worden toegevoegd aan het pakket.</value>
   </data>
-  <data name="CreatePackage_FinalStep.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">De laatste stap is om het pakket te maken. Om een kopie van het Manifestbestand te maken, vink het "Maak manifestbestand" vakje aan - het bestand zal gemaakt worden in de Pakket map. Los van de instelling die je hier gebruikt, zal het manifest worden opgeslagen in de database en zal worden toegevoegd aan het pakket.</value>
+  <data name="CreatePackage_FinalStep.HelpTextTwo" xml:space="preserve">
+    <value>Vink het "Maak pakket" vakje aan om een pakket te maken. Het pakket zal worden gemaakt in de relevante Install map (bijvoorbeeld Install/Modules voor modules, Install/Themes voor Thema's, etc.).</value>
   </data>
-  <data name="CreatePackage_FinalStep.HelpTextTwo" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Vink het "Maak pakket" vakje aan om een pakket te maken. Het pakket zal worden gemaakt in de relevante Install map (bijvoorbeeld Install/Modules voor modules, Install/Themes voor Thema's, etc.).</value>
+  <data name="CreatePackage_Folder.Label" xml:space="preserve">
+    <value>Map:</value>
   </data>
-  <data name="CreatePackage_Folder.Label" lastModified="2016-11-29 16:59:41">
-    <value xml:space="preserve">Map:</value>
+  <data name="CreatePackage_Header.Header" xml:space="preserve">
+    <value>Maak Pakket</value>
   </data>
-  <data name="CreatePackage_Header.Header" lastModified="2016-11-29 16:59:41">
-    <value xml:space="preserve">Maak Pakket</value>
+  <data name="CreatePackage_Logs.HelpText" xml:space="preserve">
+    <value>De resultaten van het gemaakte pakket worden hieronder weergegeven. </value>
   </data>
-  <data name="CreatePackage_Logs.HelpText" lastModified="2016-11-29 16:59:41">
-    <value xml:space="preserve">De resultaten van het gemaakte pakket worden hieronder weergegeven. </value>
+  <data name="CreatePackage_Logs.Label" xml:space="preserve">
+    <value>Maak Pakket Resultaten</value>
   </data>
-  <data name="CreatePackage_Logs.Label" lastModified="2016-11-29 16:59:41">
-    <value xml:space="preserve">Maak Pakket Resultaten</value>
+  <data name="CreatePackage_ManifestFile.Label" xml:space="preserve">
+    <value>Manifestbestand:</value>
   </data>
-  <data name="CreatePackage_ManifestFile.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Manifestbestand:</value>
+  <data name="CreatePackage_ManifestFileName.HelpText" xml:space="preserve">
+    <value>Vul de bestandsnaam in om te gebruiken voor het manifest.</value>
   </data>
-  <data name="CreatePackage_ManifestFileName.HelpText" lastModified="2016-11-29 16:59:41">
-    <value xml:space="preserve">Vul de bestandsnaam in om te gebruiken voor het manifest.</value>
+  <data name="CreatePackage_ManifestFileName.Label" xml:space="preserve">
+    <value>Manifest Bestandsnaam</value>
   </data>
-  <data name="CreatePackage_ManifestFileName.Label" lastModified="2016-11-29 16:59:41">
-    <value xml:space="preserve">Manifest Bestandsnaam</value>
+  <data name="CreatePackage_PackageManifest.Header" xml:space="preserve">
+    <value>Pakket Manifest</value>
   </data>
-  <data name="CreatePackage_PackageManifest.Header" lastModified="2016-11-29 16:59:41">
-    <value xml:space="preserve">Pakket Manifest</value>
+  <data name="CreatePackage_PackageManifest.HelpText" xml:space="preserve">
+    <value>Deze Wizard zal een manifest maken voor je uitbreiding. Als je al een manifest gemaakt hebt (door het gebruik van deze wizard of door het handmatig maken van een manifest) dan kan je selecteren om dit manifest te gebruiken door het "Gebruik bestaand manifest" vakje aan te vinken en te kiezen voor het manifest dat het systeem gevonden heeft voor deze uitbreiding vanuit de uitklapbare lijst van manifesten. </value>
   </data>
-  <data name="CreatePackage_PackageManifest.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Deze Wizard zal een manifest maken voor uw extensie. Als je al een manifest gemaakt hebt (door het gebruik van deze wizard of door het handmatig maken van een manifest) dan kan je selecteren om dit manifest te gebruiken door het "Gebruik bestaand manifest" vakje aan te vinken en te kiezen voor het manifest dat het systeem gevonden heeft voor deze extensie vanuit de uitklapbare lijst van manifesten. </value>
+  <data name="CreatePackage_RefreshFileList.Button" xml:space="preserve">
+    <value>Ververs Bestandslijst</value>
   </data>
-  <data name="CreatePackage_RefreshFileList.Button" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Ververs Bestandslijst</value>
+  <data name="CreatePackage_ReviewManifest.Label" xml:space="preserve">
+    <value>Manifest herzien:</value>
   </data>
-  <data name="CreatePackage_ReviewManifest.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Manifest herzien:</value>
+  <data name="CreatePackage_UseExistingManifest.Label" xml:space="preserve">
+    <value>Gebruik Bestaand Manifest:</value>
   </data>
-  <data name="CreatePackage_UseExistingManifest.Label" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Gebruik Bestaand Manifest:</value>
+  <data name="CreateSkin.Action" xml:space="preserve">
+    <value>Maak Nieuw Thema</value>
   </data>
-  <data name="CreateSkin.Action" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Maak Nieuw Thema</value>
+  <data name="DashboardControl.Type" xml:space="preserve">
+    <value>Dashboard besturingen</value>
   </data>
-  <data name="DashboardControl.Type" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Dashboard besturingen</value>
+  <data name="Delete.Button" xml:space="preserve">
+    <value>Verwijderen</value>
   </data>
-  <data name="Delete.Button" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Verwijderen</value>
+  <data name="Delete.Text" xml:space="preserve">
+    <value>Deïnstalleer deze uitbreiding</value>
   </data>
-  <data name="Delete.Text" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Deïnstalleer deze Extensie</value>
+  <data name="DeleteExtension.Action" xml:space="preserve">
+    <value>Verwijder uitbreidingen - {0}</value>
   </data>
-  <data name="DeleteExtension.Action" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Verwijder Extensies - {0}</value>
+  <data name="DeleteExtension.Cancel" xml:space="preserve">
+    <value>Nee</value>
   </data>
-  <data name="DeleteExtension.Cancel" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Nee</value>
+  <data name="DeleteExtension.Confirm" xml:space="preserve">
+    <value>Ja</value>
   </data>
-  <data name="DeleteExtension.Confirm" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Ja</value>
+  <data name="DeleteExtension.Warning" xml:space="preserve">
+    <value>Weet je zeker dat je {0} wilt verwijderen?</value>
   </data>
-  <data name="DeleteExtension.Warning" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Weet u zeker dat je {0} wilt verwijderen?</value>
+  <data name="DeleteFiles.HelpText" xml:space="preserve">
+    <value>Vink dit vakje aan om de bestanden te verwijderen die gekoppeld zijn aan deze uitbreiding.</value>
   </data>
-  <data name="DeleteFiles.HelpText" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Vink dit vakje aan om de bestanden te verwijderen die gekoppeld zijn aan deze extensie.</value>
+  <data name="DeleteFiles.Label" xml:space="preserve">
+    <value>Verwijder Bestanden?</value>
   </data>
-  <data name="DeleteFiles.Label" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Verwijder Bestanden?</value>
+  <data name="Deploy.Button" xml:space="preserve">
+    <value>Inzetten</value>
   </data>
-  <data name="Deploy.Button" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Inzetten</value>
+  <data name="Description.Header" xml:space="preserve">
+    <value>Beschrijving</value>
   </data>
-  <data name="Description.Header" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Beschrijving</value>
+  <data name="DescriptionLabel.Text" xml:space="preserve">
+    <value>Produktomschrijving</value>
   </data>
-  <data name="DescriptionLabel.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Produktomschrijving</value>
+  <data name="DetailsLabel.Text" xml:space="preserve">
+    <value>Details</value>
   </data>
-  <data name="DetailsLabel.Text" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Details</value>
+  <data name="Done.Button" xml:space="preserve">
+    <value>Gedaan</value>
   </data>
-  <data name="Done.Button" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Gedaan</value>
+  <data name="Download.Button" xml:space="preserve">
+    <value>Downloaden</value>
   </data>
-  <data name="Download.Button" lastModified="2016-11-29 18:13:17">
-    <value xml:space="preserve">Downloaden</value>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Bewerk deze uitbreiding</value>
   </data>
-  <data name="Edit.Text" lastModified="2016-11-29 19:19:45">
-    <value xml:space="preserve">Bewerk deze extensie</value>
+  <data name="EditAuthSystem_Enabled.Label" xml:space="preserve">
+    <value>Ingeschakeld?</value>
   </data>
-  <data name="EditAuthSystem_Enabled.Label" lastModified="2016-11-29 19:19:45">
-    <value xml:space="preserve">Ingeschakeld?</value>
+  <data name="EditAuthSystem_Enabled.Tooltip" xml:space="preserve">
+    <value>Vink aan om dit authenticatiesysteem in te schakelen.</value>
   </data>
-  <data name="EditAuthSystem_Enabled.Tooltip" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Vink aan om dit authenticatiesysteem in te schakelen.</value>
+  <data name="EditAuthSystem_LoginCtrlSource.Label" xml:space="preserve">
+    <value>Inloggen besturingsbron</value>
   </data>
-  <data name="EditAuthSystem_LoginCtrlSource.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Inloggen besturingsbron</value>
+  <data name="EditAuthSystem_LoginCtrlSource.Tooltip" xml:space="preserve">
+    <value>De bron van de login control voor dit autenthicatiesysteem</value>
   </data>
-  <data name="EditAuthSystem_LoginCtrlSource.Tooltip" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">De bron van de login control voor dit autenthicatiesysteem</value>
+  <data name="EditAuthSystem_LogoffCtrlSource.Label" xml:space="preserve">
+    <value>Uitloggen control bron</value>
   </data>
-  <data name="EditAuthSystem_LogoffCtrlSource.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Uitloggen control bron</value>
+  <data name="EditAuthSystem_LogoffCtrlSource.Tooltip" xml:space="preserve">
+    <value>De bron van de uitloggen control voor dit authenticatiesysteem</value>
   </data>
-  <data name="EditAuthSystem_LogoffCtrlSource.Tooltip" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">De bron van de uitloggen control voor dit authenticatiesysteem</value>
+  <data name="EditAuthSystem_SettingsCtrlSource.Label" xml:space="preserve">
+    <value>Instellingen besturingsbron</value>
   </data>
-  <data name="EditAuthSystem_SettingsCtrlSource.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Instellingen besturingsbron</value>
+  <data name="EditAuthSystem_SettingsCtrlSource.Tooltip" xml:space="preserve">
+    <value>Vink aan om dit authenticatiesysteem in te schakelen.</value>
   </data>
-  <data name="EditAuthSystem_SettingsCtrlSource.Tooltip" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Vink aan om dit authenticatiesysteem in te schakelen.</value>
+  <data name="EditAuthSystem_Type.Label" xml:space="preserve">
+    <value>Authenticatietype</value>
   </data>
-  <data name="EditAuthSystem_Type.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Authenticatietype</value>
+  <data name="EditAuthSystem_Type.Tooltip" xml:space="preserve">
+    <value>Het type authenticatiesysteem (bijv. LiveID, OpenID etc)</value>
   </data>
-  <data name="EditAuthSystem_Type.Tooltip" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Het type authenticatiesysteem (bijv. LiveID, OpenID etc)</value>
+  <data name="EditContainer_ThemePackageName.HelpText" xml:space="preserve">
+    <value>Vul een naam in voor het thema Pakket</value>
   </data>
-  <data name="EditContainer_ThemePackageName.HelpText" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">Vul een naam in voor het thema Pakket</value>
+  <data name="EditContainer_ThemePackageName.Label" xml:space="preserve">
+    <value>Thema pakketnaam</value>
   </data>
-  <data name="EditContainer_ThemePackageName.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Thema pakketnaam</value>
+  <data name="EditExtension_CreatePackage.Button" xml:space="preserve">
+    <value>Maak Pakket</value>
   </data>
-  <data name="EditExtension_CreatePackage.Button" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">Maak Pakket</value>
+  <data name="EditExtension_ExtensionSettings.TabHeader" xml:space="preserve">
+    <value>Uitbreidingen instellingen</value>
   </data>
-  <data name="EditExtension_ExtensionSettings.TabHeader" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">Extensie Instellingen</value>
+  <data name="EditExtension_License.TabHeader" xml:space="preserve">
+    <value>Licensie</value>
   </data>
-  <data name="EditExtension_License.TabHeader" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">Licensie</value>
+  <data name="EditExtension_Notify.Success" xml:space="preserve">
+    <value>Uitbreiding succesvol bijgewerkt</value>
   </data>
-  <data name="EditExtension_Notify.Success" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Extensie succesvol bijgewerkt</value>
+  <data name="EditExtension_OwnerDetails.Label" xml:space="preserve">
+    <value>Eigenaar Details</value>
   </data>
-  <data name="EditExtension_OwnerDetails.Label" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">Eigenaar Details</value>
+  <data name="EditExtension_PackageDescription.HelpText" xml:space="preserve">
+    <value>Een omschrijving van het pakket</value>
   </data>
-  <data name="EditExtension_PackageDescription.HelpText" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">Een omschrijving van het pakket</value>
+  <data name="EditExtension_PackageDescription.Label" xml:space="preserve">
+    <value>Beschrijving</value>
   </data>
-  <data name="EditExtension_PackageDescription.Label" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">Beschrijving</value>
+  <data name="EditExtension_PackageEmailAddress.HelpText" xml:space="preserve">
+    <value>Het e-mailadres van de auteur van het pakket</value>
   </data>
-  <data name="EditExtension_PackageEmailAddress.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Het e-mailadres van de auteur van het pakket</value>
+  <data name="EditExtension_PackageEmailAddress.Label" xml:space="preserve">
+    <value>E-mailadres</value>
   </data>
-  <data name="EditExtension_PackageEmailAddress.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">E-mailadres</value>
+  <data name="EditExtension_PackageFriendlyName.HelpText" xml:space="preserve">
+    <value>De vriendelijke naam van het pakket.</value>
   </data>
-  <data name="EditExtension_PackageFriendlyName.HelpText" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">De vriendelijke naam van het pakket.</value>
+  <data name="EditExtension_PackageFriendlyName.Label" xml:space="preserve">
+    <value>Vriendelijke naam</value>
   </data>
-  <data name="EditExtension_PackageFriendlyName.Label" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">Vriendelijke naam</value>
+  <data name="EditExtension_PackageIconFile.HelpText" xml:space="preserve">
+    <value>De icon bestandsnaam voor dit pakket.</value>
   </data>
-  <data name="EditExtension_PackageIconFile.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">De icon bestandsnaam voor dit pakket.</value>
+  <data name="EditExtension_PackageIconFile.Label" xml:space="preserve">
+    <value>Icon</value>
   </data>
-  <data name="EditExtension_PackageIconFile.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Icon</value>
+  <data name="EditExtension_PackageInformation.TabHeader" xml:space="preserve">
+    <value>Pakketinformatie</value>
   </data>
-  <data name="EditExtension_PackageInformation.TabHeader" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Pakketinformatie</value>
+  <data name="EditExtension_PackageLicense.HelpText" xml:space="preserve">
+    <value>De licensie voor dit pakket.</value>
   </data>
-  <data name="EditExtension_PackageLicense.HelpText" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">De licensie voor dit pakket.</value>
+  <data name="EditExtension_PackageName.HelpText" xml:space="preserve">
+    <value>De pakket naam (bijv. bedrijfsnaam, naam).</value>
   </data>
-  <data name="EditExtension_PackageName.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">De pakket naam (bijv. bedrijfsnaam, naam).</value>
+  <data name="EditExtension_PackageName.Label" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="EditExtension_PackageName.Label" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">Naam</value>
+  <data name="EditExtension_PackageOrganization.HelpText" xml:space="preserve">
+    <value>De verantwoordelijke organisatie voor het pakket.</value>
   </data>
-  <data name="EditExtension_PackageOrganization.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">De verantwoordelijke organisatie voor het pakket.</value>
+  <data name="EditExtension_PackageOrganization.Label" xml:space="preserve">
+    <value>Organisatie</value>
   </data>
-  <data name="EditExtension_PackageOrganization.Label" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">Organisatie</value>
+  <data name="EditExtension_PackageOwner.HelpText" xml:space="preserve">
+    <value>De eigenaar van het pakket.</value>
   </data>
-  <data name="EditExtension_PackageOwner.HelpText" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">De eigenaar van het pakket.</value>
+  <data name="EditExtension_PackageOwner.Label" xml:space="preserve">
+    <value>Eigenaar</value>
   </data>
-  <data name="EditExtension_PackageOwner.Label" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">Eigenaar</value>
+  <data name="EditExtension_PackageReleaseNotes.HelpText" xml:space="preserve">
+    <value>De releasenotes voor deze versie</value>
   </data>
-  <data name="EditExtension_PackageReleaseNotes.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">De releasenotes voor deze versie</value>
+  <data name="EditExtension_PackageType.HelpText" xml:space="preserve">
+    <value>Het type pakket.</value>
   </data>
-  <data name="EditExtension_PackageType.HelpText" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">Het type pakket.</value>
+  <data name="EditExtension_PackageType.Label" xml:space="preserve">
+    <value>Uitbreidingtype</value>
   </data>
-  <data name="EditExtension_PackageType.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Extensietype</value>
+  <data name="EditExtension_PackageURL.HelpText" xml:space="preserve">
+    <value>De auteur's URL.</value>
   </data>
-  <data name="EditExtension_PackageURL.HelpText" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">De auteur's URL.</value>
+  <data name="EditExtension_PackageURL.Label" xml:space="preserve">
+    <value>URL</value>
   </data>
-  <data name="EditExtension_PackageURL.Label" lastModified="2016-11-29 20:26:20">
-    <value xml:space="preserve">URL</value>
+  <data name="EditExtension_PackageVersion.HelpText" xml:space="preserve">
+    <value>De versie van het pakket.</value>
   </data>
-  <data name="EditExtension_PackageVersion.HelpText" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">De versie van het pakket.</value>
+  <data name="EditExtension_PackageVersion.Label" xml:space="preserve">
+    <value>Versie</value>
   </data>
-  <data name="EditExtension_PackageVersion.Label" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">Versie</value>
+  <data name="EditExtension_ReleaseNotes.TabHeader" xml:space="preserve">
+    <value>Release-opmerkingen</value>
   </data>
-  <data name="EditExtension_ReleaseNotes.TabHeader" lastModified="2018-07-23 09:57:43">
-    <value xml:space="preserve">Release-opmerkingen</value>
+  <data name="EditExtension_SiteSettings.TabHeader" xml:space="preserve">
+    <value>Site instellingen</value>
   </data>
-  <data name="EditExtension_SiteSettings.TabHeader" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">Site instellingen</value>
+  <data name="EditExtensionLanguagePack_Language.HelpText" xml:space="preserve">
+    <value>Kies de taal voor dit Taalpakket</value>
   </data>
-  <data name="EditExtensionLanguagePack_Language.HelpText" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">Kies de taal voor dit Taalpakket</value>
+  <data name="EditExtensionLanguagePack_Language.Label" xml:space="preserve">
+    <value>Taal</value>
   </data>
-  <data name="EditExtensionLanguagePack_Language.Label" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">Taal</value>
+  <data name="EditExtensionLanguagePack_Package.HelpText" xml:space="preserve">
+    <value>Kies het Pakket waar het Taalpakket voor is.</value>
   </data>
-  <data name="EditExtensionLanguagePack_Package.HelpText" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">Kies het Pakket waar het Taalpakket voor is.</value>
+  <data name="EditExtensionLanguagePack_Package.Label" xml:space="preserve">
+    <value>Pakket</value>
   </data>
-  <data name="EditExtensionLanguagePack_Package.Label" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">Pakket</value>
+  <data name="EditExtensions_TabHasError.Text" xml:space="preserve">
+    <value>Dit tabblad heeft een fout. Pakketinformatie, uitbreidinginstellingen, licensie en releasenotes kunnen niet worden bewaard.</value>
   </data>
-  <data name="EditExtensions_TabHasError.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Dit tabblad heeft een fout. Pakketinformatie, extensie instellingen, licensie en releasenotes kunnen niet worden bewaard.</value>
+  <data name="EditJavascriptLibrary_CustomCDN.HelpText" xml:space="preserve">
+    <value>De URL naar een aangepaste CDN lokatie voor deze bibliotheek die zal worden gebruikt in plaats van de standaard CDN.</value>
   </data>
-  <data name="EditJavascriptLibrary_CustomCDN.HelpText" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">De URL naar een aangepaste CDN lokatie voor deze bibliotheek die zal worden gebruikt in plaats van de standaard CDN.</value>
+  <data name="EditJavascriptLibrary_CustomCDN.Label" xml:space="preserve">
+    <value>Aangepaste CDN</value>
   </data>
-  <data name="EditJavascriptLibrary_CustomCDN.Label" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">Aangepaste CDN</value>
+  <data name="EditJavascriptLibrary_DefaultCDN.HelpText" xml:space="preserve">
+    <value>De URL naar de standaard CDN om te gebruiken voor de bibliotheek. Deze kan worden overschreven door het verzorgen van een aangepaste URL.</value>
   </data>
-  <data name="EditJavascriptLibrary_DefaultCDN.HelpText" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">De URL naar de standaard CDN om te gebruiken voor de bibliotheek. Deze kan worden overschreven door het verzorgen van een aangepaste URL.</value>
+  <data name="EditJavascriptLibrary_DefaultCDN.Label" xml:space="preserve">
+    <value>Standaard CDN</value>
   </data>
-  <data name="EditJavascriptLibrary_DefaultCDN.Label" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">Standaard CDN</value>
+  <data name="EditJavascriptLibrary_DependsOn.HelpText" xml:space="preserve">
+    <value>Toont een lijst van alle pakketten waar dit pakket afhankelijk van is.</value>
   </data>
-  <data name="EditJavascriptLibrary_DependsOn.HelpText" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">Toont een lijst van alle pakketten waar dit pakket afhankelijk van is.</value>
+  <data name="EditJavascriptLibrary_DependsOn.Label" xml:space="preserve">
+    <value>Afhankelijk van</value>
   </data>
-  <data name="EditJavascriptLibrary_DependsOn.Label" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">Afhankelijk van</value>
+  <data name="EditJavascriptLibrary_FileName.HelpText" xml:space="preserve">
+    <value>De bestandsnaam van het Javascript bestand.</value>
   </data>
-  <data name="EditJavascriptLibrary_FileName.HelpText" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">De bestandsnaam van het Javascript bestand.</value>
+  <data name="EditJavascriptLibrary_FileName.Label" xml:space="preserve">
+    <value>Bestandsnaam</value>
   </data>
-  <data name="EditJavascriptLibrary_FileName.Label" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">Bestandsnaam</value>
+  <data name="EditJavascriptLibrary_LibraryName.HelpText" xml:space="preserve">
+    <value>De naam van de Javascript Bibliotheek (bijv. "jQuery")</value>
   </data>
-  <data name="EditJavascriptLibrary_LibraryName.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">De naam van de Javascript Bibliotheek (bijv. "jQuery")</value>
+  <data name="EditJavascriptLibrary_LibraryName.Label" xml:space="preserve">
+    <value>Bibliotheeknaam</value>
   </data>
-  <data name="EditJavascriptLibrary_LibraryName.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Bibliotheeknaam</value>
+  <data name="EditJavascriptLibrary_LibraryVersion.HelpText" xml:space="preserve">
+    <value>De versie van de Javascript Bibliotheek.</value>
   </data>
-  <data name="EditJavascriptLibrary_LibraryVersion.HelpText" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">De versie van de Javascript Bibliotheek.</value>
+  <data name="EditJavascriptLibrary_LibraryVersion.Label" xml:space="preserve">
+    <value>Bibliotheekversie</value>
   </data>
-  <data name="EditJavascriptLibrary_LibraryVersion.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Bibliotheekversie</value>
+  <data name="EditJavascriptLibrary_ObjectName.HelpText" xml:space="preserve">
+    <value>De naam van het Javascript object om te gebruiken om toegang te krijgen tot de methoden van de bibliotheek.</value>
   </data>
-  <data name="EditJavascriptLibrary_ObjectName.HelpText" lastModified="2016-11-29 21:35:25">
-    <value xml:space="preserve">De naam van het Javascript object om te gebruiken om toegang te krijgen tot de methoden van de bibliotheek.</value>
+  <data name="EditJavascriptLibrary_ObjectName.Label" xml:space="preserve">
+    <value>Objectnaam</value>
   </data>
-  <data name="EditJavascriptLibrary_ObjectName.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Objectnaam</value>
+  <data name="EditJavascriptLibrary_PreferredLocation.HelpText" xml:space="preserve">
+    <value>De gewenste locatie om het script te maken. Er zijn drie mogelijkheden: in de paginaheader, bovenaan de paginabody of onderaan de paginabody.</value>
   </data>
-  <data name="EditJavascriptLibrary_PreferredLocation.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">De gewenste locatie om het script te maken. Er zijn drie mogelijkheden: in de paginaheader, bovenaan de paginabody of onderaan de paginabody.</value>
+  <data name="EditJavascriptLibrary_PreferredLocation.Label" xml:space="preserve">
+    <value>Gewenste locatie.</value>
   </data>
-  <data name="EditJavascriptLibrary_PreferredLocation.Label" lastModified="2016-11-29 22:48:07">
-    <value xml:space="preserve">Gewenste locatie.</value>
+  <data name="EditJavascriptLibrary_TableName.Header" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="EditJavascriptLibrary_TableName.Header" lastModified="2016-11-29 22:48:07">
-    <value xml:space="preserve">Naam</value>
+  <data name="EditJavascriptLibrary_TableVersion.Header" xml:space="preserve">
+    <value>Versie</value>
   </data>
-  <data name="EditJavascriptLibrary_TableVersion.Header" lastModified="2016-11-29 22:48:07">
-    <value xml:space="preserve">Versie</value>
+  <data name="EditJavascriptLibrary_UsedBy.HelpText" xml:space="preserve">
+    <value>Toont een lijst van alle pakketten die dit pakket gebruiken.</value>
   </data>
-  <data name="EditJavascriptLibrary_UsedBy.HelpText" lastModified="2016-11-29 22:48:07">
-    <value xml:space="preserve">Toont een lijst van alle pakketten die dit pakket gebruiken.</value>
+  <data name="EditJavascriptLibrary_UsedBy.Label" xml:space="preserve">
+    <value>Gebruikt door</value>
   </data>
-  <data name="EditJavascriptLibrary_UsedBy.Label" lastModified="2016-11-29 22:48:07">
-    <value xml:space="preserve">Gebruikt door</value>
+  <data name="EditModule_Add.Button" xml:space="preserve">
+    <value>Toevoegen</value>
   </data>
-  <data name="EditModule_Add.Button" lastModified="2016-11-29 22:48:07">
-    <value xml:space="preserve">Toevoegen</value>
+  <data name="EditModule_Assigned.Label" xml:space="preserve">
+    <value>Toegewezen</value>
   </data>
-  <data name="EditModule_Assigned.Label" lastModified="2016-11-29 22:48:07">
-    <value xml:space="preserve">Toegewezen</value>
+  <data name="EditModule_AssignedPremiumModules.Label" xml:space="preserve">
+    <value>Toegewezen Premium Modules</value>
   </data>
-  <data name="EditModule_AssignedPremiumModules.Label" lastModified="2016-11-29 22:48:07">
-    <value xml:space="preserve">Toegewezen Premium Modules</value>
+  <data name="EditModule_BusinessControllerClass.HelpText" xml:space="preserve">
+    <value>De volledig gekwalificeerde naam van de class die de module kenmerken implementeert (IPortable, ISearchable etc.)</value>
   </data>
-  <data name="EditModule_BusinessControllerClass.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">De volledig gekwalificeerde naam van de class die de module kenmerken implementeert (IPortable, ISearchable etc.)</value>
+  <data name="EditModule_BusinessControllerClass.Label" xml:space="preserve">
+    <value>Business Controller Class</value>
   </data>
-  <data name="EditModule_BusinessControllerClass.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Business Controller Class</value>
+  <data name="EditModule_Dependencies.HelpText" xml:space="preserve">
+    <value>Je kunt een lijst maken met de afhankelijkheden die de module heeft.</value>
   </data>
-  <data name="EditModule_Dependencies.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Je kunt een lijst maken met de afhankelijkheden die de module heeft.</value>
+  <data name="EditModule_Dependencies.Label" xml:space="preserve">
+    <value>Afhankelijkheden</value>
   </data>
-  <data name="EditModule_Dependencies.Label" lastModified="2016-11-29 23:58:19">
-    <value xml:space="preserve">Afhankelijkheden</value>
+  <data name="EditModule_FolderName.HelpText" xml:space="preserve">
+    <value>Specificeer de mapnaam voor deze module</value>
   </data>
-  <data name="EditModule_FolderName.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Specificeer de mapnaam voor deze module</value>
+  <data name="EditModule_FolderName.Label" xml:space="preserve">
+    <value>Mapnaam</value>
   </data>
-  <data name="EditModule_FolderName.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Mapnaam</value>
+  <data name="EditModule_IsPortable.HelpText" xml:space="preserve">
+    <value>Identificeert of de module de IPortable interface ondersteunt om het toe te staan om content te Exporteren en Importeren.</value>
   </data>
-  <data name="EditModule_IsPortable.HelpText" lastModified="2016-11-29 23:58:19">
-    <value xml:space="preserve">Identificeert of de module de IPortable interface ondersteunt om het toe te staan om content te Exporteren en Importeren.</value>
+  <data name="EditModule_IsPortable.Label" xml:space="preserve">
+    <value>Is Portable?</value>
   </data>
-  <data name="EditModule_IsPortable.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Is Portable?</value>
+  <data name="EditModule_IsPremiumModule.HelpText" xml:space="preserve">
+    <value>Alle modules kunnen worden toegewezen van een website. Echter, premium modules worden niet automatisch toegewezen aan een nieuwe website.</value>
   </data>
-  <data name="EditModule_IsPremiumModule.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Alle modules kunnen worden toegewezen van een website. Echter, premium modules worden niet automatisch toegewezen aan een nieuwe website.</value>
+  <data name="EditModule_IsPremiumModule.Label" xml:space="preserve">
+    <value>Is Premium Module?</value>
   </data>
-  <data name="EditModule_IsPremiumModule.Label" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Is Premium Module?</value>
+  <data name="EditModule_IsSearchable.HelpText" xml:space="preserve">
+    <value>Identificeert of the module de ISearchable of ModuleSearchBase interface ondersteunt om het toe te staan om de content te indexeren.</value>
   </data>
-  <data name="EditModule_IsSearchable.HelpText" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Identificeert of the module de ISearchable of ModuleSearchBase interface ondersteunt om het toe te staan om de content te indexeren.</value>
+  <data name="EditModule_IsSearchable.Label" xml:space="preserve">
+    <value>Is doorzoekbaar?</value>
   </data>
-  <data name="EditModule_IsSearchable.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Is doorzoekbaar?</value>
+  <data name="EditModule_IsUpgradable.HelpText" xml:space="preserve">
+    <value>Identificeert of de module de IUpgradable interface ondersteunt om het toe te staan om aangepaste code uit te voeren na een upgrade.</value>
   </data>
-  <data name="EditModule_IsUpgradable.HelpText" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Identificeert of de module de IUpgradable interface ondersteunt om het toe te staan om aangepaste code uit te voeren na een upgrade.</value>
+  <data name="EditModule_IsUpgradable.Label" xml:space="preserve">
+    <value>Is te Upgraden?</value>
   </data>
-  <data name="EditModule_IsUpgradable.Label" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Is te Upgraden?</value>
+  <data name="EditModule_ModuleCategory.HelpText" xml:space="preserve">
+    <value>Selecteer de Module Categorie voor deze module</value>
   </data>
-  <data name="EditModule_ModuleCategory.HelpText" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Selecteer de Module Categorie voor deze module</value>
+  <data name="EditModule_ModuleCategory.Label" xml:space="preserve">
+    <value>Module Categorie</value>
   </data>
-  <data name="EditModule_ModuleCategory.Label" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Module Categorie</value>
+  <data name="EditModule_ModuleDefinitions.Header" xml:space="preserve">
+    <value>Module Definities</value>
   </data>
-  <data name="EditModule_ModuleDefinitions.Header" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Module Definities</value>
+  <data name="EditModule_ModuleName.HelpText" xml:space="preserve">
+    <value>De naam van de Module</value>
   </data>
-  <data name="EditModule_ModuleName.HelpText" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">De naam van de Module</value>
+  <data name="EditModule_ModuleName.Label" xml:space="preserve">
+    <value>Modulenaam</value>
   </data>
-  <data name="EditModule_ModuleName.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Modulenaam</value>
+  <data name="EditModule_ModuleSharing.HelpText" xml:space="preserve">
+    <value>Identificeert of de module ondersteunt om zichzelf de delen over meerdere sites.</value>
   </data>
-  <data name="EditModule_ModuleSharing.HelpText" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Identificeert of de module ondersteunt om zichzelf de delen over meerdere sites.</value>
+  <data name="EditModule_ModuleSharing.Label" xml:space="preserve">
+    <value>Module Deling</value>
   </data>
-  <data name="EditModule_ModuleSharing.Label" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Module Deling</value>
+  <data name="EditModule_ModuleSharingSupported.Label" xml:space="preserve">
+    <value>Ondersteund</value>
   </data>
-  <data name="EditModule_ModuleSharingSupported.Label" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Ondersteund</value>
+  <data name="EditModule_ModuleSharingUnknown.Label" xml:space="preserve">
+    <value>Onbekend</value>
   </data>
-  <data name="EditModule_ModuleSharingUnknown.Label" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Onbekend</value>
+  <data name="EditModule_ModuleSharingUnsupported.Label" xml:space="preserve">
+    <value>Onondersteund</value>
   </data>
-  <data name="EditModule_ModuleSharingUnsupported.Label" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Onondersteund</value>
+  <data name="EditModule_Permissions.HelpText" xml:space="preserve">
+    <value>Je kunt een lijst maken van alle code toegang beveiliging toestemmingen die je module nodig heeft.</value>
   </data>
-  <data name="EditModule_Permissions.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Je kunt een lijst maken van alle code toegang beveiliging toestemmingen die uw module nodig heeft.</value>
+  <data name="EditModule_Permissions.Label" xml:space="preserve">
+    <value>Toestemmingen</value>
   </data>
-  <data name="EditModule_Permissions.Label" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Toestemmingen</value>
+  <data name="EditModule_PremiumModuleAssignment.Header" xml:space="preserve">
+    <value>Premium Module Toewijzing</value>
   </data>
-  <data name="EditModule_PremiumModuleAssignment.Header" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Premium Module Toewijzing</value>
+  <data name="EditModule_SaveAndClose.Button" xml:space="preserve">
+    <value>Opslaan &amp; sluiten</value>
   </data>
-  <data name="EditModule_SaveAndClose.Button" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Opslaan &amp; sluiten</value>
+  <data name="EditModule_Unassigned.Label" xml:space="preserve">
+    <value>Niet toegewezen</value>
   </data>
-  <data name="EditModule_Unassigned.Label" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Niet toegewezen</value>
+  <data name="EditSkinObject_ControlKey.HelpText" xml:space="preserve">
+    <value>Vul een sleutel in voor het Skin Object. De sleutel moet uniek zijn.</value>
   </data>
-  <data name="EditSkinObject_ControlKey.HelpText" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Vul een sleutel in voor het Skin Object. De sleutel moet uniek zijn.</value>
+  <data name="EditSkinObject_ControlKey.Label" xml:space="preserve">
+    <value>Controle sleutel</value>
   </data>
-  <data name="EditSkinObject_ControlKey.Label" lastModified="2016-11-30 01:15:20">
-    <value xml:space="preserve">Controle sleutel</value>
+  <data name="EditSkinObject_ControlSrc.HelpText" xml:space="preserve">
+    <value>Vul de bron in voor deze besturing. Als de besturing een gebruikersbesturing is, vul de relatieve bron in naar de oorsprong van de website.</value>
   </data>
-  <data name="EditSkinObject_ControlSrc.HelpText" lastModified="2016-11-30 03:27:23">
-    <value xml:space="preserve">Vul de bron in voor deze besturing. Als de besturing een gebruikersbesturing is, vul de relatieve bron in naar de oorsprong van de website.</value>
+  <data name="EditSkinObject_ControlSrc.Label" xml:space="preserve">
+    <value>Besturing SRC</value>
   </data>
-  <data name="EditSkinObject_ControlSrc.Label" lastModified="2016-11-30 03:27:23">
-    <value xml:space="preserve">Besturing SRC</value>
+  <data name="EditSkinObject_SupportsPartialRender.HelpText" xml:space="preserve">
+    <value>Vink dit vakje aan om aan te geven dat deze besturing AJAX gedeeltelijke weergave ondersteunt.</value>
   </data>
-  <data name="EditSkinObject_SupportsPartialRender.HelpText" lastModified="2016-11-30 03:27:23">
-    <value xml:space="preserve">Vink dit vakje aan om aan te geven dat deze besturing AJAX gedeeltelijke weergave ondersteunt.</value>
+  <data name="EditSkinObject_SupportsPartialRender.Label" xml:space="preserve">
+    <value>Ondersteunt Gedeeltelijke Weergave</value>
   </data>
-  <data name="EditSkinObject_SupportsPartialRender.Label" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Ondersteunt Gedeeltelijke Weergave</value>
+  <data name="EditSkins.Action" xml:space="preserve">
+    <value>Beheer Thema's</value>
   </data>
-  <data name="EditSkins.Action" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Beheer Thema's</value>
+  <data name="ErrorLabel.Text" xml:space="preserve">
+    <value>Fout...</value>
   </data>
-  <data name="ErrorLabel.Text" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Fout...</value>
+  <data name="Errors.Text" xml:space="preserve">
+    <value>Fouten</value>
   </data>
-  <data name="Errors.Text" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Fouten</value>
+  <data name="ExpandAll.Text" xml:space="preserve">
+    <value>Alle uitvouwen</value>
   </data>
-  <data name="EvoqConnector.Type" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Evoq Connectors</value>
+  <data name="Extension.Header" xml:space="preserve">
+    <value>Uitbreiding</value>
   </data>
-  <data name="ExpandAll.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Alle uitvouwen</value>
+  <data name="ExtensionDetail.Text" xml:space="preserve">
+    <value>Meer details</value>
   </data>
-  <data name="Extension.Header" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Extensie</value>
+  <data name="ExtensionInstall.Action" xml:space="preserve">
+    <value>Installeer uitbreiding</value>
   </data>
-  <data name="ExtensionDetail.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Meer details</value>
+  <data name="ExtensionLanguagePack.Type" xml:space="preserve">
+    <value>Uitbreiding Taalpakketten</value>
   </data>
-  <data name="ExtensionInstall.Action" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Installeer Extensie</value>
+  <data name="Extensions.Text" xml:space="preserve">
+    <value>Uitbreidingen</value>
   </data>
-  <data name="ExtensionLanguagePack.Type" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Extensie Taalpakketten</value>
+  <data name="ExtensionsLabel.Text" xml:space="preserve">
+    <value>Uitbreidingen</value>
   </data>
-  <data name="Extensions.Text" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Extensies</value>
+  <data name="ImportModule.Action" xml:space="preserve">
+    <value>Importeer Module Definitie</value>
   </data>
-  <data name="ExtensionsLabel.Text" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Extensies</value>
+  <data name="Install.Button" xml:space="preserve">
+    <value>Installeren</value>
   </data>
-  <data name="ImportModule.Action" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Importeer Module Definitie</value>
+  <data name="InstallationError.Text" xml:space="preserve">
+    <value>Er ontstond een fout tijdens het installeren. Zie log bestanden hieronder voor meer informatie.</value>
   </data>
-  <data name="Install.Button" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Installeren</value>
+  <data name="InstalledExtensions.Text" xml:space="preserve">
+    <value>Geïnstalleerde uitbreidingen</value>
   </data>
-  <data name="InstallationError.Text" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Er ontstond een fout tijdens het installeren. Zie log bestanden hieronder voor meer informatie.</value>
+  <data name="InstalledOnHost.Tooltip" xml:space="preserve">
+    <value>Geïnstalleerd in Applicatiebeheer</value>
   </data>
-  <data name="InstalledExtensions.Text" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Geïnstalleerde Extensies</value>
+  <data name="InstalledOnPortal.Tooltip" xml:space="preserve">
+    <value>Geïnstalleerd op {0}</value>
   </data>
-  <data name="InstalledOnHost.Tooltip" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Geïnstalleerd op Host</value>
+  <data name="InstallerMoreInfo.Text" xml:space="preserve">
+    <value>Als je deze pagina ziet dan is dat omdat de installatie meer informatie nodig heeft voordat hij door kan gaan.</value>
   </data>
-  <data name="InstalledOnPortal.Tooltip" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Geïnstalleerd op {0}</value>
+  <data name="InstallError.Text" xml:space="preserve">
+    <value>Fout laden bestanden vanuit tijdelijke map - zie hieronder.</value>
   </data>
-  <data name="InstallerMoreInfo.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Als je deze pagina ziet dan is dat omdat de installatie meer informatie nodig heeft voordat hij door kan gaan.</value>
+  <data name="installExtension.Text" xml:space="preserve">
+    <value>Installeren</value>
   </data>
-  <data name="InstallError.Text" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Fout laden bestanden vanuit tijdelijke map - zie hieronder.</value>
+  <data name="InstallExtension_AcceptLicense.Label" xml:space="preserve">
+    <value>Licentie accepteren?</value>
   </data>
-  <data name="installExtension.Text" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Installeren</value>
+  <data name="InstallExtension_Cancel.Button" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="InstallExtension_AcceptLicense.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Licentie accepteren?</value>
+  <data name="InstallExtension_FileUploadDefault.Text" xml:space="preserve">
+    <value>Sleep een bestand of klik op het icon om te browsen.</value>
   </data>
-  <data name="InstallExtension_Cancel.Button" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="InstallExtension_FileUploadDragOver.Text" xml:space="preserve">
+    <value>Sleep een bestand</value>
   </data>
-  <data name="InstallExtension_FileUploadDefault.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Sleep een bestand of klik op het icon om te browsen.</value>
+  <data name="InstallExtension_License.Header" xml:space="preserve">
+    <value>Licentie</value>
   </data>
-  <data name="InstallExtension_FileUploadDragOver.Text" lastModified="2016-11-30 04:35:14">
-    <value xml:space="preserve">Sleep een bestand</value>
+  <data name="InstallExtension_License.HelpText" xml:space="preserve">
+    <value>Alvorens verder te gaan moet je de voorwaarden van de licentie voor deze uitbreiding accepteren. Bekijk de licentie en vink het vakje 'accepteer licentie' aan.</value>
   </data>
-  <data name="InstallExtension_License.Header" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Licentie</value>
+  <data name="InstallExtension_Logs.Header" xml:space="preserve">
+    <value>Pakket Installatie Rapport</value>
   </data>
-  <data name="InstallExtension_License.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Alvorens verder te gaan moet u de voorwaarden van de licentie voor deze extensie accepteren. Bekijk de licentie en vink het vakje 'accepteer licentie' aan.</value>
+  <data name="InstallExtension_Logs.HelpText" xml:space="preserve">
+    <value>Installatie is compleet. Zie details hieronder.</value>
   </data>
-  <data name="InstallExtension_Logs.Header" lastModified="2016-11-30 05:35:50">
-    <value xml:space="preserve">Pakket Installatie Rapport</value>
+  <data name="InstallExtension_Or.Text" xml:space="preserve">
+    <value>of</value>
   </data>
-  <data name="InstallExtension_Logs.HelpText" lastModified="2016-11-30 05:35:50">
-    <value xml:space="preserve">Installatie is compleet. Zie details hieronder.</value>
+  <data name="InstallExtension_PackageExists.Error" xml:space="preserve">
+    <value>Het pakket is al geïnstalleerd.</value>
   </data>
-  <data name="InstallExtension_Or.Text" lastModified="2016-11-30 05:35:50">
-    <value xml:space="preserve">of</value>
+  <data name="InstallExtension_PackageExists.HelpText" xml:space="preserve">
+    <value>Als je deze pagina ziet dan is dat omdat de installatie meer informatie nodig heeft voordat hij door kan gaan.</value>
   </data>
-  <data name="InstallExtension_PackageExists.Error" lastModified="2016-11-30 06:45:14">
-    <value xml:space="preserve">Het pakket is al geïnstalleerd.</value>
+  <data name="InstallExtension_PackageExists.Warning" xml:space="preserve">
+    <value>Waarschuwing: Je hebt geselecteerd om de installatie van dit pakket te herstellen.  &lt;br /&gt; Dit zorgt ervoor dat de bestanden in dit pakket alle bestanden zullen overschrijven die eerder waren geïnstalleerd.</value>
   </data>
-  <data name="InstallExtension_PackageExists.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Als je deze pagina ziet dan is dat omdat de installatie meer informatie nodig heeft voordat hij door kan gaan.</value>
+  <data name="InstallExtension_PackageInfo.Header" xml:space="preserve">
+    <value>Pakket Informatie</value>
   </data>
-  <data name="InstallExtension_PackageExists.Warning" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Waarschuwing: Je hebt geselecteerd om de installatie van dit pakket te herstellen.  &lt;br /&gt; Dit zorgt ervoor dat de bestanden in dit pakket alle bestanden zullen overschrijven die eerder waren geïnstalleerd.</value>
+  <data name="InstallExtension_PackageInfo.HelpText" xml:space="preserve">
+    <value>De volgende informatie is gevonden in het pakket manifest.</value>
   </data>
-  <data name="InstallExtension_PackageInfo.Header" lastModified="2016-11-30 06:45:14">
-    <value xml:space="preserve">Pakket Informatie</value>
+  <data name="InstallExtension_ReleaseNotes.Header" xml:space="preserve">
+    <value>Release-opmerkingen</value>
   </data>
-  <data name="InstallExtension_PackageInfo.HelpText" lastModified="2016-11-30 06:45:14">
-    <value xml:space="preserve">De volgende informatie is gevonden in het pakket manifest.</value>
+  <data name="InstallExtension_ReleaseNotes.HelpText" xml:space="preserve">
+    <value>Bekijk de Releasenotes voor dit pakket.</value>
   </data>
-  <data name="InstallExtension_ReleaseNotes.Header" lastModified="2018-07-23 09:57:43">
-    <value xml:space="preserve">Release-opmerkingen</value>
+  <data name="InstallExtension_RepairInstall.Button" xml:space="preserve">
+    <value>Installatie herstellen</value>
   </data>
-  <data name="InstallExtension_ReleaseNotes.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Bekijk de Releasenotes voor dit pakket.</value>
+  <data name="InstallExtension_Upload.Button" xml:space="preserve">
+    <value>Volgende</value>
   </data>
-  <data name="InstallExtension_RepairInstall.Button" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Installatie herstellen</value>
+  <data name="InstallExtension_UploadAFile.Text" xml:space="preserve">
+    <value>Upload een bestand</value>
   </data>
-  <data name="InstallExtension_Upload.Button" lastModified="2016-11-30 06:45:14">
-    <value xml:space="preserve">Volgende</value>
+  <data name="InstallExtension_UploadComplete.Text" xml:space="preserve">
+    <value>Uploaden compleet</value>
   </data>
-  <data name="InstallExtension_UploadAFile.Text" lastModified="2016-11-30 06:45:14">
-    <value xml:space="preserve">Upload een bestand</value>
+  <data name="InstallExtension_UploadFailed.Text" xml:space="preserve">
+    <value>Zip-bestand uploaden mislukt met</value>
   </data>
-  <data name="InstallExtension_UploadComplete.Text" lastModified="2016-11-30 06:45:14">
-    <value xml:space="preserve">Uploaden compleet</value>
+  <data name="InstallExtension_UploadFailedUnknown.Text" xml:space="preserve">
+    <value>Zip-bestand uploaden mislukt</value>
   </data>
-  <data name="InstallExtension_UploadFailed.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Zip-bestand uploaden mislukt met</value>
-  </data>
-  <data name="InstallExtension_UploadFailedUnknown.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Zip-bestand uploaden mislukt</value>
-  </data>
-  <data name="InstallExtension_UploadFailedUnknownLogs.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Een onbekende fout is opgetreden. Controleer je installatie zip-bestand en probeer het opnieuw. &lt;br /&gt; 
+  <data name="InstallExtension_UploadFailedUnknownLogs.Text" xml:space="preserve">
+    <value>Een onbekende fout is opgetreden. Controleer je installatie zip-bestand en probeer het opnieuw. &lt;br /&gt; 
 Vaak voorkomende problemen met slechte installatie bestanden: 
 &lt;ul&gt;
-&lt;li&gt;Het zip-bestand is te groot. Controleer uw IIS instellingen voor maximum upload bestandsgrootte.&lt;/li&gt;
+&lt;li&gt;Het zip-bestand is te groot. Controleer je IIS instellingen voor maximum upload bestandsgrootte.&lt;/li&gt;
 &lt;li&gt;Ontbrekende bronnen in het zip-bestand.&lt;/li&gt;
 &lt;li&gt;Ongeldige bestanden in het pakket.&lt;/li&gt;
 &lt;li&gt;Bestandsextensie is niet .zip.&lt;/li&gt;
-&lt;li&gt;Contoleer of u bent ingelogd.&lt;/li&gt;
+&lt;li&gt;Contoleer of je bent ingelogd.&lt;/li&gt;
 &lt;/ul&gt;</value>
   </data>
-  <data name="InstallExtension_Uploading.Text" lastModified="2018-07-23 09:57:43">
-    <value xml:space="preserve">Aan het uploaden</value>
+  <data name="InstallExtension_Uploading.Text" xml:space="preserve">
+    <value>Aan het uploaden</value>
   </data>
-  <data name="InstallExtension_UploadPackage.Header" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Extensie pakket uploaden</value>
+  <data name="InstallExtension_UploadPackage.Header" xml:space="preserve">
+    <value>Uitbreidingspakket uploaden</value>
   </data>
-  <data name="InstallExtension_UploadPackage.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Om de installatie te starten, upload het pakket door het bestand te verslepen naar het veld hieronder.</value>
+  <data name="InstallExtension_UploadPackage.HelpText" xml:space="preserve">
+    <value>Om de installatie te starten, upload het pakket door het bestand te verslepen naar het veld hieronder.</value>
   </data>
-  <data name="InstallExtensions.Action" lastModified="2016-11-30 07:46:14">
-    <value xml:space="preserve">Installeer Beschikbare Extensies</value>
+  <data name="InstallExtensions.Action" xml:space="preserve">
+    <value>Installeer beschikbare uitbreidingen</value>
   </data>
-  <data name="InUse.Header" lastModified="2016-11-30 07:46:14">
-    <value xml:space="preserve">In gebruik</value>
+  <data name="InUse.Header" xml:space="preserve">
+    <value>In gebruik</value>
   </data>
-  <data name="InvalidDNNManifest.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Dit pakket blijkt geen geldige DNN extensie te zijn aangezien er een manifest ontbreekt. Oude thema's en containers omvatten geen manifesten. Als dit pakket een geërfd thema is, of een container pakket, controleer de juiste knop hieronder en klik op volgende.</value>
+  <data name="InvalidDNNManifest.Text" xml:space="preserve">
+    <value>Dit pakket blijkt geen geldige DNN uitbreiding te zijn aangezien er een manifest ontbreekt. Oude thema's en containers omvatten geen manifesten. Als dit pakket een geërfd thema is, of een container pakket, controleer de juiste knop hieronder en klik op volgende.</value>
   </data>
-  <data name="InvalidExt.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Ongeldige bestandsextensie - {0}</value>
+  <data name="InvalidExt.Text" xml:space="preserve">
+    <value>Ongeldige bestandsextensie - {0}</value>
   </data>
-  <data name="InvalidFiles.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Het pakket omvat bestanden met ongeldige bestandsextensies ({0})</value>
+  <data name="InvalidFiles.Text" xml:space="preserve">
+    <value>Het pakket omvat bestanden met ongeldige bestandsextensies ({0})</value>
   </data>
-  <data name="JavaScript_Library.Type" lastModified="2016-11-30 09:51:58">
-    <value xml:space="preserve">Javascript Bibliotheken</value>
+  <data name="JavaScript_Library.Type" xml:space="preserve">
+    <value>Javascript Bibliotheken</value>
   </data>
-  <data name="Language.Header" lastModified="2016-11-30 09:51:58">
-    <value xml:space="preserve">Taal</value>
+  <data name="Language.Header" xml:space="preserve">
+    <value>Taal</value>
   </data>
-  <data name="Language.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Bewerk taalbestanden</value>
+  <data name="Language.Text" xml:space="preserve">
+    <value>Bewerk taalbestanden</value>
   </data>
-  <data name="Language.Type" lastModified="2016-11-30 09:51:58">
-    <value xml:space="preserve">Taalpakketten</value>
+  <data name="Language.Type" xml:space="preserve">
+    <value>Taalpakketten</value>
   </data>
-  <data name="LanguageMessage.Text" lastModified="2016-11-30 09:51:58">
-    <value xml:space="preserve">Klik hier om het taalpakket te krijgen</value>
+  <data name="LanguageMessage.Text" xml:space="preserve">
+    <value>Klik hier om het taalpakket te krijgen</value>
   </data>
-  <data name="LanguagePackInstall.Action" lastModified="2016-11-30 09:51:58">
-    <value xml:space="preserve">Installeer Taalpakket</value>
+  <data name="LanguagePackInstall.Action" xml:space="preserve">
+    <value>Installeer Taalpakket</value>
   </data>
-  <data name="lblUpdate.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Deze applicatie omvat een updateservice die een icon weergeeft zodra er een nieuwe versie van een extensie beschikbaar is. Het weergegeven icon omvat een visuele indicatie als de huidig geïnstalleerde extensie een potentieel beveiligingsprobleem bevat. Als dit geïdentificeerd wordt, dan wordt het sterk aanbevolen om naar de nieuwere versie van de extensie te upgraden. Door te klikken op dit icon zal je geleid worden naar een locatie waar je deze extensie kunt verkrijgen. </value>
+  <data name="lblUpdate.Text" xml:space="preserve">
+    <value>Deze applicatie omvat een updateservice die een icon weergeeft zodra er een nieuwe versie van een uitbreiding beschikbaar is. Het weergegeven icon omvat een visuele indicatie als de huidig geïnstalleerde uitbreiding een potentieel beveiligingsprobleem bevat. Als dit geïdentificeerd wordt, dan wordt het sterk aanbevolen om naar de nieuwere versie van de uitbreiding te upgraden. Door te klikken op dit icon zal je geleid worden naar een locatie waar je deze uitbreiding kunt verkrijgen. </value>
   </data>
-  <data name="Library.Type" lastModified="2016-11-30 11:55:49">
-    <value xml:space="preserve">Bibliotheken</value>
+  <data name="Library.Type" xml:space="preserve">
+    <value>Bibliotheken</value>
   </data>
-  <data name="License.Text" lastModified="2016-11-30 11:55:49">
-    <value xml:space="preserve">Licensie:</value>
+  <data name="License.Text" xml:space="preserve">
+    <value>Licensie:</value>
   </data>
-  <data name="LicenseLabel.Text" lastModified="2016-11-30 11:55:49">
-    <value xml:space="preserve">Licensie</value>
+  <data name="LicenseLabel.Text" xml:space="preserve">
+    <value>Licensie</value>
   </data>
-  <data name="ListExtensions.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Leer meer over hoe je extensies aan te bieden &lt;a href="http://store.dnnsoftware.com/make-money/become-a-seller" target="_blank" class="info"&gt;here&lt;/a&gt;</value>
+  <data name="ListExtensions.Text" xml:space="preserve">
+    <value>Leer meer over hoe je uitbreidingen aan te bieden &lt;a href="https://store.dnnsoftware.com/make-money/become-a-seller" target="_blank" class="info"&gt;here&lt;/a&gt;</value>
   </data>
-  <data name="Loading.Text" lastModified="2018-07-23 09:57:43">
-    <value xml:space="preserve">Wacht even... We zijn je extensies aan het ophalen</value>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>Wacht even... We zijn je uitbreidingen aan het ophalen</value>
   </data>
-  <data name="Loading.Tooltip" lastModified="2018-07-23 09:57:43">
-    <value xml:space="preserve">Je extensies zullen er over een klein moment zijn</value>
+  <data name="Loading.Tooltip" xml:space="preserve">
+    <value>Je uitbreidingen zullen er over een klein moment zijn</value>
   </data>
-  <data name="LoadingLabel.Text" lastModified="2016-11-30 10:54:45">
-    <value xml:space="preserve">Laden</value>
+  <data name="LoadingLabel.Text" xml:space="preserve">
+    <value>Laden</value>
   </data>
-  <data name="LoadMore.Button" lastModified="2016-11-30 10:54:45">
-    <value xml:space="preserve">Laad meer</value>
+  <data name="LoadMore.Button" xml:space="preserve">
+    <value>Laad meer</value>
   </data>
-  <data name="Module.Type" lastModified="2016-11-30 10:54:45">
-    <value xml:space="preserve">Modules</value>
+  <data name="Module.Type" xml:space="preserve">
+    <value>Modules</value>
   </data>
-  <data name="ModuleDefinitions_AddControl.Button" lastModified="2016-11-30 10:54:45">
-    <value xml:space="preserve">Toevoegen besturing</value>
+  <data name="ModuleDefinitions_AddControl.Button" xml:space="preserve">
+    <value>Toevoegen besturing</value>
   </data>
-  <data name="ModuleDefinitions_AddDefinition.Button" lastModified="2016-11-30 10:54:45">
-    <value xml:space="preserve">Toevoegen definitie</value>
+  <data name="ModuleDefinitions_AddDefinition.Button" xml:space="preserve">
+    <value>Toevoegen definitie</value>
   </data>
-  <data name="ModuleDefinitions_Cancel.Button" lastModified="2016-11-30 10:54:45">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="ModuleDefinitions_Cancel.Button" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="ModuleDefinitions_DefaultCacheTime.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Dit is de standaard cachetijd die gebruikt wordt voor deze moduledefinitie. Een standaard cachetijd van "-1" geeft aan dat de module ouput caching niet ondersteunt.</value>
+  <data name="ModuleDefinitions_DefaultCacheTime.HelpText" xml:space="preserve">
+    <value>Dit is de standaard cachetijd die gebruikt wordt voor deze moduledefinitie. Een standaard cachetijd van "-1" geeft aan dat de module ouput caching niet ondersteunt.</value>
   </data>
-  <data name="ModuleDefinitions_DefaultCacheTime.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Standaard cachetijd</value>
+  <data name="ModuleDefinitions_DefaultCacheTime.Label" xml:space="preserve">
+    <value>Standaard cachetijd</value>
   </data>
-  <data name="ModuleDefinitions_DefinitionName.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Een onveranderde naam voor de moduledefinitie</value>
+  <data name="ModuleDefinitions_DefinitionName.HelpText" xml:space="preserve">
+    <value>Een onveranderde naam voor de moduledefinitie</value>
   </data>
-  <data name="ModuleDefinitions_DefinitionName.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Definitienaam</value>
+  <data name="ModuleDefinitions_DefinitionName.Label" xml:space="preserve">
+    <value>Definitienaam</value>
   </data>
-  <data name="ModuleDefinitions_FriendlyName.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Vul een vriendelijke naam in voor de moduledefinitie.</value>
+  <data name="ModuleDefinitions_FriendlyName.HelpText" xml:space="preserve">
+    <value>Vul een vriendelijke naam in voor de moduledefinitie.</value>
   </data>
-  <data name="ModuleDefinitions_FriendlyName.Label" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Vriendelijke Naam</value>
+  <data name="ModuleDefinitions_FriendlyName.Label" xml:space="preserve">
+    <value>Vriendelijke Naam</value>
   </data>
-  <data name="ModuleDefinitions_ModuleControls.Header" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Module controls</value>
+  <data name="ModuleDefinitions_ModuleControls.Header" xml:space="preserve">
+    <value>Module controls</value>
   </data>
-  <data name="ModuleDefinitions_Save.Button" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Opslaan</value>
+  <data name="ModuleDefinitions_Save.Button" xml:space="preserve">
+    <value>Opslaan</value>
   </data>
-  <data name="ModuleDefinitions_Source.Label" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Bron</value>
+  <data name="ModuleDefinitions_Source.Label" xml:space="preserve">
+    <value>Bron</value>
   </data>
-  <data name="ModuleDefinitions_Title.Label" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Titel</value>
+  <data name="ModuleDefinitions_Title.Label" xml:space="preserve">
+    <value>Titel</value>
   </data>
-  <data name="ModuleInstall.Action" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Installeer Module</value>
+  <data name="ModuleInstall.Action" xml:space="preserve">
+    <value>Installeer Module</value>
   </data>
-  <data name="ModuleUsageDetail.Text">
-    <value xml:space="preserve">Deze module wordt gebuikt op  {0} {1} pagina(s):</value>
+  <data name="ModuleUsageDetail.Text" xml:space="preserve">
+    <value>Deze module wordt gebuikt op  {0} {1} pagina(s):</value>
   </data>
-  <data name="ModuleUsageTitle.Text">
-    <value xml:space="preserve">Module gebruikt voor {0}</value>
+  <data name="ModuleUsageTitle.Text" xml:space="preserve">
+    <value>Module gebruikt voor {0}</value>
   </data>
-  <data name="MoreExtensions.Text" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Meer Extensies</value>
+  <data name="MoreExtensions.Text" xml:space="preserve">
+    <value>Meer uitbreidingen</value>
   </data>
-  <data name="MoreInformation.Text" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Meer Informatie</value>
+  <data name="MoreInformation.Text" xml:space="preserve">
+    <value>Meer Informatie</value>
   </data>
-  <data name="Name.Header" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Naam</value>
+  <data name="Name.Header" xml:space="preserve">
+    <value>Naam</value>
   </data>
-  <data name="NameAZ.Text" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Naam: A - Z</value>
+  <data name="NameAZ.Text" xml:space="preserve">
+    <value>Naam: A - Z</value>
   </data>
-  <data name="NameZA.Text" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Naam: Z - A</value>
+  <data name="NameZA.Text" xml:space="preserve">
+    <value>Naam: Z - A</value>
   </data>
-  <data name="nav_Extensions.Text" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Extensies</value>
+  <data name="nav_Extensions.Text" xml:space="preserve">
+    <value>Uitbreidingen</value>
   </data>
-  <data name="NewModule_AddFolder.Button" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Toevoegen map</value>
+  <data name="NewModule_AddFolder.Button" xml:space="preserve">
+    <value>Toevoegen map</value>
   </data>
-  <data name="NewModule_AddTestPage.HelpText" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Vink dit vakje aan om een testpagina te maken voor uw nieuwe module.</value>
+  <data name="NewModule_AddTestPage.HelpText" xml:space="preserve">
+    <value>Vink dit vakje aan om een testpagina te maken voor je nieuwe module.</value>
   </data>
-  <data name="NewModule_AddTestPage.Label" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Toevoegen Testpagina:</value>
+  <data name="NewModule_AddTestPage.Label" xml:space="preserve">
+    <value>Toevoegen Testpagina:</value>
   </data>
-  <data name="NewModule_Cancel.Button" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Annuleren</value>
+  <data name="NewModule_Cancel.Button" xml:space="preserve">
+    <value>Annuleren</value>
   </data>
-  <data name="NewModule_Create.Button" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Maken</value>
+  <data name="NewModule_Create.Button" xml:space="preserve">
+    <value>Maken</value>
   </data>
-  <data name="NewModule_CreateFrom.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Je kunt een nieuwe module maken op drie manieren. Selecteer welke methode te gebruiken. Nieuw - maak een nieuwe module control, Control- maak een module vanuit een bestaande control, Manifest - maak een module vanuit een bestaand manifest.</value>
+  <data name="NewModule_CreateFrom.HelpText" xml:space="preserve">
+    <value>Je kunt een nieuwe module maken op drie manieren. Selecteer welke methode te gebruiken. Nieuw - maak een nieuwe module control, Control- maak een module vanuit een bestaande control, Manifest - maak een module vanuit een bestaand manifest.</value>
   </data>
-  <data name="NewModule_CreateFrom.Label" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Maak een Nieuwe Module van:</value>
+  <data name="NewModule_CreateFrom.Label" xml:space="preserve">
+    <value>Maak een Nieuwe Module van:</value>
   </data>
-  <data name="NewModule_Description.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Je kunt een beschrijving verzorgen voor je module.</value>
+  <data name="NewModule_Description.HelpText" xml:space="preserve">
+    <value>Je kunt een beschrijving verzorgen voor je module.</value>
   </data>
-  <data name="NewModule_Description.Label" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Beschrijving</value>
+  <data name="NewModule_Description.Label" xml:space="preserve">
+    <value>Beschrijving</value>
   </data>
-  <data name="NewModule_FileName.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Vul een naam in voor de nieuwe module control</value>
+  <data name="NewModule_FileName.HelpText" xml:space="preserve">
+    <value>Vul een naam in voor de nieuwe module control</value>
   </data>
-  <data name="NewModule_FileName.Label" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Bestandsnaam</value>
+  <data name="NewModule_FileName.Label" xml:space="preserve">
+    <value>Bestandsnaam</value>
   </data>
-  <data name="NewModule_Language.HelpText" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Kies de te gebruiken taal.</value>
+  <data name="NewModule_Language.HelpText" xml:space="preserve">
+    <value>Kies de te gebruiken taal.</value>
   </data>
-  <data name="NewModule_Language.Label" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Taal</value>
+  <data name="NewModule_Language.Label" xml:space="preserve">
+    <value>Taal</value>
   </data>
-  <data name="NewModule_ModuleFolder.HelpText" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Dit is de map waar uw module bestanden en mappen ziich bevinden.</value>
+  <data name="NewModule_ModuleFolder.HelpText" xml:space="preserve">
+    <value>Dit is de map waar je module bestanden en mappen ziich bevinden.</value>
   </data>
-  <data name="NewModule_ModuleFolder.Label" lastModified="2016-11-30 02:24:47">
-    <value xml:space="preserve">Module Map</value>
+  <data name="NewModule_ModuleFolder.Label" xml:space="preserve">
+    <value>Module Map</value>
   </data>
-  <data name="NewModule_ModuleName.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Vul een vriendelijke naam in voor je module.</value>
+  <data name="NewModule_ModuleName.HelpText" xml:space="preserve">
+    <value>Vul een vriendelijke naam in voor je module.</value>
   </data>
-  <data name="NewModule_ModuleName.Label" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Modulenaam</value>
+  <data name="NewModule_ModuleName.Label" xml:space="preserve">
+    <value>Modulenaam</value>
   </data>
-  <data name="NewModule_NoneSpecified.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">&lt;Niet gespecificeerd&gt;</value>
+  <data name="NewModule_NoneSpecified.Text" xml:space="preserve">
+    <value>&lt;Niet gespecificeerd&gt;</value>
   </data>
-  <data name="NewModule_OwnerFolder.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Module ontwikkelaars worden gestimuleerd om een "unieke" map te gebruiken binnen DesktopModules voor alle ontwikkeling, om potentiele botsingen te vermijden met andere ontwikkelaars. Selecteer de map die je wilt gebruiken voor het ontwikkelen van je Module. Noot: Mappen met gebruikerscontrols (.ascx bestanden) en de kern admin map worden uitgesloten van deze lijst.</value>
+  <data name="NewModule_OwnerFolder.HelpText" xml:space="preserve">
+    <value>Module ontwikkelaars worden gestimuleerd om een "unieke" map te gebruiken binnen DesktopModules voor alle ontwikkeling, om potentiele botsingen te vermijden met andere ontwikkelaars. Selecteer de map die je wilt gebruiken voor het ontwikkelen van je Module. Noot: Mappen met gebruikerscontrols (.ascx bestanden) en de kern admin map worden uitgesloten van deze lijst.</value>
   </data>
-  <data name="NewModule_OwnerFolder.Label" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Eigenaar map</value>
+  <data name="NewModule_OwnerFolder.Label" xml:space="preserve">
+    <value>Eigenaar map</value>
   </data>
-  <data name="NewModule_Resource.HelpText" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Selecteer de te gebruiken bron om de module te maken.</value>
+  <data name="NewModule_Resource.HelpText" xml:space="preserve">
+    <value>Selecteer de te gebruiken bron om de module te maken.</value>
   </data>
-  <data name="NewModule_Resource.Label" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Bron</value>
+  <data name="NewModule_Resource.Label" xml:space="preserve">
+    <value>Bron</value>
   </data>
-  <data name="Next.Button" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Volgende</value>
+  <data name="Next.Button" xml:space="preserve">
+    <value>Volgende</value>
   </data>
-  <data name="NoModuleUsageDetail.Text">
-    <value xml:space="preserve">Deze module bestaat op geen van de {0} pagina's.</value>
+  <data name="NoModuleUsageDetail.Text" xml:space="preserve">
+    <value>Deze module bestaat op geen van de {0} pagina's.</value>
   </data>
-  <data name="NoneLabel.Text" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Geen</value>
+  <data name="NoneLabel.Text" xml:space="preserve">
+    <value>Geen</value>
   </data>
-  <data name="NoResults.Text" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Geen extensies zijn gevonden</value>
+  <data name="NoResults.Text" xml:space="preserve">
+    <value>Geen uitbreidingen zijn gevonden</value>
   </data>
-  <data name="NotSpecified.Text" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Niet gespecificeerd</value>
+  <data name="NotSpecified.Text" xml:space="preserve">
+    <value>Niet gespecificeerd</value>
   </data>
-  <data name="OrderLabel.Text" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Volgorde:</value>
+  <data name="OrderLabel.Text" xml:space="preserve">
+    <value>Volgorde:</value>
   </data>
-  <data name="PagesFromSite.Text">
-    <value xml:space="preserve">Tonen van pagina van site:</value>
+  <data name="PagesFromSite.Text" xml:space="preserve">
+    <value>Tonen van pagina van site:</value>
   </data>
-  <data name="PersonaBar.Type" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Persona Bar</value>
+  <data name="PersonaBar.Type" xml:space="preserve">
+    <value>Persona Bar</value>
   </data>
-  <data name="plLocales.Help" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Kies een taal om een lijst weer te geven van extensies die een taalpakket beschikbaar hebben in de geselecteerde taal. Als een taalpakket bestaat, volg de link om het taalpakket te downloaden en installeren. </value>
+  <data name="plLocales.Help" xml:space="preserve">
+    <value>Kies een taal om een lijst weer te geven van uitbreidingen die een taalpakket beschikbaar hebben in de geselecteerde taal. Als een taalpakket bestaat, volg de link om het taalpakket te downloaden en installeren. </value>
   </data>
-  <data name="plLocales.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Vind beschikbare Taalpakketten:</value>
+  <data name="plLocales.Text" xml:space="preserve">
+    <value>Vind beschikbare Taalpakketten:</value>
   </data>
-  <data name="plPackageTypes.Help" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Selecteer een enkel type extensie om weer te geven. </value>
+  <data name="plPackageTypes.Help" xml:space="preserve">
+    <value>Selecteer een enkel type uitbreiding om weer te geven. </value>
   </data>
-  <data name="plPackageTypes.Text" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Filter op Type:</value>
+  <data name="plPackageTypes.Text" xml:space="preserve">
+    <value>Filter op Type:</value>
   </data>
-  <data name="Portal.Header" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Website</value>
+  <data name="Portal.Header" xml:space="preserve">
+    <value>Website</value>
   </data>
-  <data name="Previous.Button" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Vorige</value>
+  <data name="Previous.Button" xml:space="preserve">
+    <value>Vorige</value>
   </data>
-  <data name="PriceHighLow.Text" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Prijs: Hoog - Laag</value>
+  <data name="PriceHighLow.Text" xml:space="preserve">
+    <value>Prijs: Hoog - Laag</value>
   </data>
-  <data name="PriceLowHigh.Text" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Prijs: Laag - Hoog</value>
+  <data name="PriceLowHigh.Text" xml:space="preserve">
+    <value>Prijs: Laag - Hoog</value>
   </data>
-  <data name="Provider.Type" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Providers</value>
+  <data name="Provider.Type" xml:space="preserve">
+    <value>Providers</value>
   </data>
-  <data name="PurchasedExtensions.Text" lastModified="2016-11-29 14:33:21">
-    <value xml:space="preserve">Aangekochte Extensies</value>
+  <data name="PurchasedExtensions.Text" xml:space="preserve">
+    <value>Aangekochte uitbreidingen</value>
   </data>
-  <data name="Save.Button" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Opslaan</value>
+  <data name="Save.Button" xml:space="preserve">
+    <value>Opslaan</value>
   </data>
-  <data name="Search.Text" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Zoeken</value>
+  <data name="Search.Text" xml:space="preserve">
+    <value>Zoeken</value>
   </data>
-  <data name="SearchLabel.Help" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Klik op Enter om te zoeken of Esc om leeg te maken en te annuleren.</value>
+  <data name="SearchLabel.Help" xml:space="preserve">
+    <value>Klik op Enter om te zoeken of Esc om leeg te maken en te annuleren.</value>
   </data>
-  <data name="SearchLabel.Text" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Zoeken:</value>
+  <data name="SearchLabel.Text" xml:space="preserve">
+    <value>Zoeken:</value>
   </data>
-  <data name="Showing.Label" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Weergeven:</value>
+  <data name="Showing.Label" xml:space="preserve">
+    <value>Weergeven:</value>
   </data>
-  <data name="Skin.Type" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Thema's</value>
+  <data name="Skin.Type" xml:space="preserve">
+    <value>Thema's</value>
   </data>
-  <data name="SkinInstall.Action" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Installeer Nieuw Thema</value>
+  <data name="SkinInstall.Action" xml:space="preserve">
+    <value>Installeer Nieuw Thema</value>
   </data>
-  <data name="SkinObject.Type" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Skin Objecten</value>
+  <data name="SkinObject.Type" xml:space="preserve">
+    <value>Skin Objecten</value>
   </data>
-  <data name="TagCloud.Text" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Tag Cloud</value>
+  <data name="TagCloud.Text" xml:space="preserve">
+    <value>Tag Cloud</value>
   </data>
-  <data name="TagLabel.Text" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Tag:</value>
+  <data name="TagLabel.Text" xml:space="preserve">
+    <value>Tag:</value>
   </data>
-  <data name="Title.Text" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Lijst van {0} Extenties geïnstalleerd</value>
+  <data name="Title.Text" xml:space="preserve">
+    <value>Lijst van {0} Extenties geïnstalleerd</value>
   </data>
-  <data name="TreeHeader.Text" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Geïnstalleerde extensies</value>
+  <data name="TreeHeader.Text" xml:space="preserve">
+    <value>Geïnstalleerde uitbreidingen</value>
   </data>
-  <data name="TryAgain.Text" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">[Probeer opnieuw]</value>
+  <data name="TryAgain.Text" xml:space="preserve">
+    <value>[Probeer opnieuw]</value>
   </data>
-  <data name="Type.Header" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Type</value>
+  <data name="Type.Header" xml:space="preserve">
+    <value>Type</value>
   </data>
-  <data name="TypeLabel.Help" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Selecteer het type extentie.</value>
+  <data name="TypeLabel.Help" xml:space="preserve">
+    <value>Selecteer het type extentie.</value>
   </data>
-  <data name="TypeLabel.Text" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Type:</value>
+  <data name="TypeLabel.Text" xml:space="preserve">
+    <value>Type:</value>
   </data>
-  <data name="UnsavedChanges.Cancel" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Nee</value>
+  <data name="UnsavedChanges.Cancel" xml:space="preserve">
+    <value>Nee</value>
   </data>
-  <data name="UnsavedChanges.Confirm" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Ja</value>
+  <data name="UnsavedChanges.Confirm" xml:space="preserve">
+    <value>Ja</value>
   </data>
-  <data name="UnsavedChanges.HelpText" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">Je hebt niet opgeslagen wijzigingen. Weet je zeker dat u door wilt gaan?</value>
+  <data name="UnsavedChanges.HelpText" xml:space="preserve">
+    <value>Je hebt niet opgeslagen wijzigingen. Weet je zeker dat je door wilt gaan?</value>
   </data>
-  <data name="Upgrade.Header" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Upgraden?</value>
+  <data name="Upgrade.Header" xml:space="preserve">
+    <value>Upgraden?</value>
   </data>
-  <data name="UpgradeMessage.Text" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Klik hier om de Upgrade te krijgen</value>
+  <data name="UpgradeMessage.Text" xml:space="preserve">
+    <value>Klik hier om de Upgrade te krijgen</value>
   </data>
-  <data name="VendorLabel.Text" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Verkoper:</value>
+  <data name="VendorLabel.Text" xml:space="preserve">
+    <value>Verkoper:</value>
   </data>
-  <data name="Version.Header" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Versie</value>
+  <data name="Version.Header" xml:space="preserve">
+    <value>Versie</value>
   </data>
-  <data name="Version.Text" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Minimum Versie Vereist:</value>
+  <data name="Version.Text" xml:space="preserve">
+    <value>Minimum Versie Vereist:</value>
   </data>
-  <data name="ViewErrorLog.Text" lastModified="2020-05-16 21:24:29">
-    <value xml:space="preserve">[Bekijk errorlog]</value>
+  <data name="ViewErrorLog.Text" xml:space="preserve">
+    <value>[Bekijk errorlog]</value>
   </data>
-  <data name="Widget.Type" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Widgets</value>
+  <data name="Widget.Type" xml:space="preserve">
+    <value>Widgets</value>
   </data>
-  <data name="ZipCriticalError.Text" lastModified="2016-11-29 13:28:23">
-    <value xml:space="preserve">Kritieke fout bij het lezen van het zip pakket.</value>
+  <data name="ZipCriticalError.Text" xml:space="preserve">
+    <value>Kritieke fout bij het lezen van het zip pakket.</value>
   </data>
 </root>

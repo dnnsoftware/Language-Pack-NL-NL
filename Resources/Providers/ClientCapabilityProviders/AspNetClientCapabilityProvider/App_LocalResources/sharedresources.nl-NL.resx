@@ -12,16 +12,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ModuleTitle.Text" lastModified="2018-07-20 13:55:48">
-    <value xml:space="preserve">Apparaatdetectie</value>
+  <data name="ModuleTitle.Text" xml:space="preserve">
+    <value>Apparaatdetectie</value>
   </data>
-  <data name="PageDescription.Text" lastModified="2018-07-20 13:55:48">
-    <value xml:space="preserve">Mobiele detectie- en omleidingsdiensten.</value>
+  <data name="PageDescription.Text" xml:space="preserve">
+    <value>Mobiele detectie- en omleidingsdiensten.</value>
   </data>
-  <data name="PageName.Text" lastModified="2018-07-20 13:55:48">
-    <value xml:space="preserve">Apparaatdetectiebeheer</value>
+  <data name="PageName.Text" xml:space="preserve">
+    <value>Apparaatdetectiebeheer</value>
   </data>
-  <data name="SuccessMessage.Text" lastModified="2018-07-20 13:55:48">
-    <value xml:space="preserve">Upgrade van apparaatgegevens geslaagd</value>
+  <data name="SuccessMessage.Text" xml:space="preserve">
+    <value>Upgrade van apparaatgegevens geslaagd</value>
   </data>
 </root>

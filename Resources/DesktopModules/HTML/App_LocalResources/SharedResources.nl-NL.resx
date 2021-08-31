@@ -12,21 +12,21 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ApproveContent.Action">
-    <value xml:space="preserve">Goedkeuren</value>
+  <data name="ApproveContent.Action" xml:space="preserve">
+    <value>Goedkeuren</value>
   </data>
-  <data name="NotificationBody.Text" lastModified="2020-05-16 16:24:15">
-    <value xml:space="preserve">Content is in a [STATE] status op de volgende pagina van jesite: 
+  <data name="NotificationBody.Text" xml:space="preserve">
+    <value>Content is in a [STATE] status op de volgende pagina van jesite: 
 &lt;br /&gt;
 &lt;a href='[URL]'&gt;[URL]&lt;/a&gt;</value>
   </data>
-  <data name="NotificationSubject.Text">
-    <value xml:space="preserve">Inhoud [ACTION] Kennisgeving</value>
+  <data name="NotificationSubject.Text" xml:space="preserve">
+    <value>Inhoud [ACTION] Kennisgeving</value>
   </data>
-  <data name="PublishContent.Action">
-    <value xml:space="preserve">Publiceren</value>
+  <data name="PublishContent.Action" xml:space="preserve">
+    <value>Publiceren</value>
   </data>
-  <data name="RejectContent.Action">
-    <value xml:space="preserve">Afwijzen</value>
+  <data name="RejectContent.Action" xml:space="preserve">
+    <value>Afwijzen</value>
   </data>
 </root>

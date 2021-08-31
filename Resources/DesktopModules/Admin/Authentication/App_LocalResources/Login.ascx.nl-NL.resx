@@ -12,124 +12,124 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AssociateHelp.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Je kunt je inlog informatie koppelen met een bestaand gebruikersaccount door je gebruikersnaam en wachtwoord in te vullen.</value>
+  <data name="AssociateHelp.Text" xml:space="preserve">
+    <value>Je kunt je inlog informatie koppelen met een bestaand gebruikersaccount door je gebruikersnaam en wachtwoord in te vullen.</value>
   </data>
-  <data name="AssociateTitle.Text">
-    <value xml:space="preserve">Koppel met een bestaand account</value>
+  <data name="AssociateTitle.Text" xml:space="preserve">
+    <value>Koppel met een bestaand account</value>
   </data>
-  <data name="AssociationFailed.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Fout tijdens het koppelem de identiteit van de gebruiker. Onthoud dat de gebruikersnamen en wachtwoorden hoofdlettergevoelig zijn.</value>
+  <data name="AssociationFailed.Text" xml:space="preserve">
+    <value>Fout tijdens het koppelem de identiteit van de gebruiker. Onthoud dat de gebruikersnamen en wachtwoorden hoofdlettergevoelig zijn.</value>
   </data>
-  <data name="AuthenticatedHelp.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Je bent succesvol geauthenticeerd. Je identiteit is echter geen bekende gebruiker van deze website. Je kunt óf je identiteit koppelen met een bestaand account, of registreren met een nieuw account.</value>
+  <data name="AuthenticatedHelp.Text" xml:space="preserve">
+    <value>Je bent succesvol geauthenticeerd. Je identiteit is echter geen bekende gebruiker van deze website. Je kunt óf je identiteit koppelen met een bestaand account, of registreren met een nieuw account.</value>
   </data>
-  <data name="AuthenticatedTitle.Text">
-    <value xml:space="preserve">Geauthenticeerd</value>
+  <data name="AuthenticatedTitle.Text" xml:space="preserve">
+    <value>Geauthenticeerd</value>
   </data>
-  <data name="cmdAssociate.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Koppel met gebruikersaccount</value>
+  <data name="cmdAssociate.Text" xml:space="preserve">
+    <value>Koppel met gebruikersaccount</value>
   </data>
-  <data name="cmdCreate.Text">
-    <value xml:space="preserve">Nieuw account aanmaken</value>
+  <data name="cmdCreate.Text" xml:space="preserve">
+    <value>Nieuw account aanmaken</value>
   </data>
-  <data name="cmdForgotPassword.Text">
-    <value xml:space="preserve">Wachtwoord vergeten?</value>
+  <data name="cmdForgotPassword.Text" xml:space="preserve">
+    <value>Wachtwoord vergeten?</value>
   </data>
-  <data name="cmdPassword.Text">
-    <value xml:space="preserve">Wachtwoord opvragen</value>
+  <data name="cmdPassword.Text" xml:space="preserve">
+    <value>Wachtwoord opvragen</value>
   </data>
-  <data name="cmdProceed.Text">
-    <value xml:space="preserve">Ga toch door (Verander wachtwoord later)</value>
+  <data name="cmdProceed.Text" xml:space="preserve">
+    <value>Ga toch door (Verander wachtwoord later)</value>
   </data>
-  <data name="cmdRegister.Text">
-    <value xml:space="preserve">Registreren</value>
+  <data name="cmdRegister.Text" xml:space="preserve">
+    <value>Registreren</value>
   </data>
-  <data name="ControlTitle_.Text">
-    <value xml:space="preserve">Inloggen</value>
+  <data name="ControlTitle_.Text" xml:space="preserve">
+    <value>Inloggen</value>
   </data>
-  <data name="ControlTitle_login.Text">
-    <value xml:space="preserve">Inloggen</value>
+  <data name="ControlTitle_login.Text" xml:space="preserve">
+    <value>Inloggen</value>
   </data>
-  <data name="ControlTitle_signin.Text">
-    <value xml:space="preserve">Inloggen</value>
+  <data name="ControlTitle_signin.Text" xml:space="preserve">
+    <value>Inloggen</value>
   </data>
-  <data name="CreateTitle.Text">
-    <value xml:space="preserve">Nieuw account aanmaken</value>
+  <data name="CreateTitle.Text" xml:space="preserve">
+    <value>Nieuw account aanmaken</value>
   </data>
-  <data name="EnterCode.Text">
-    <value xml:space="preserve">Voer uw verificatiecode in</value>
+  <data name="EnterCode.Text" xml:space="preserve">
+    <value>Voer je verificatiecode in</value>
   </data>
-  <data name="FailedToRemoveAccount.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">&lt;div&gt;Dit account kon niet worden verwijderd. Neem contact op met de site administrator en laat weren dat je account verwijderd moet worden.&lt;/div&gt;</value>
+  <data name="FailedToRemoveAccount.Text" xml:space="preserve">
+    <value>&lt;div&gt;Dit account kon niet worden verwijderd. Neem contact op met de site administrator en laat weren dat je account verwijderd moet worden.&lt;/div&gt;</value>
   </data>
-  <data name="InvalidCode.Text">
-    <value xml:space="preserve">Ongeldige verificatiecode</value>
+  <data name="InvalidCode.Text" xml:space="preserve">
+    <value>Ongeldige verificatiecode</value>
   </data>
-  <data name="IPAddressBanned.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Je kunt niet inloggen op de website vanaf dit IPadres.</value>
+  <data name="IPAddressBanned.Text" xml:space="preserve">
+    <value>Je kunt niet inloggen op de website vanaf dit IPadres.</value>
   </data>
-  <data name="LoginFailed.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Het Inloggen is mislukt, Let op: wachtwoorden zijn hoofdlettergevoelig</value>
+  <data name="LoginFailed.Text" xml:space="preserve">
+    <value>Het Inloggen is mislukt, Let op: wachtwoorden zijn hoofdlettergevoelig</value>
   </data>
-  <data name="MustConsent.Text">
-    <value xml:space="preserve">&lt;div&gt;Je moet met de gebruikersovereenkomst instemmen om verder te kunnen.&lt;/div&gt;</value>
+  <data name="MustConsent.Text" xml:space="preserve">
+    <value>&lt;div&gt;Je moet met de gebruikersovereenkomst instemmen om verder te kunnen.&lt;/div&gt;</value>
   </data>
-  <data name="PasswordExpired.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Je wachtwoord is verlopen op {0}. Wijzig je wachtwoord alvorens door te gaan.</value>
+  <data name="PasswordExpired.Text" xml:space="preserve">
+    <value>Je wachtwoord is verlopen op {0}. Wijzig je wachtwoord alvorens door te gaan.</value>
   </data>
-  <data name="PasswordExpiring.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Je wachtwoord verloopt op {0}. Wijzig je wachtwoord alvorens door te gaan.</value>
+  <data name="PasswordExpiring.Text" xml:space="preserve">
+    <value>Je wachtwoord verloopt op {0}. Wijzig je wachtwoord alvorens door te gaan.</value>
   </data>
-  <data name="PasswordInvalid.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Je moet een geldig wachtwoord opgeven. Neem contact op met de beheerder van de website als je niet bekend bent met de eisen die aan wachtwoorden gesteld worden.</value>
+  <data name="PasswordInvalid.Text" xml:space="preserve">
+    <value>Je moet een geldig wachtwoord opgeven. Neem contact op met de beheerder van de website als je niet bekend bent met de eisen die aan wachtwoorden gesteld worden.</value>
   </data>
-  <data name="PasswordMismatch.Text">
-    <value xml:space="preserve">De ingevulde wachtwoorden komen niet met elkaar overeen.</value>
+  <data name="PasswordMismatch.Text" xml:space="preserve">
+    <value>De ingevulde wachtwoorden komen niet met elkaar overeen.</value>
   </data>
-  <data name="PasswordMissing.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Je moet je huidige wachtwoord opgeven alvorens het te kunnen veranderen.</value>
+  <data name="PasswordMissing.Text" xml:space="preserve">
+    <value>Je moet je huidige wachtwoord opgeven alvorens het te kunnen veranderen.</value>
   </data>
-  <data name="PasswordNotDifferent.Text">
-    <value xml:space="preserve">Het nieuwe wachtwoord is hetzelfde als het oude wachtwoord. Kies een ander wachtwoord.</value>
+  <data name="PasswordNotDifferent.Text" xml:space="preserve">
+    <value>Het nieuwe wachtwoord is hetzelfde als het oude wachtwoord. Kies een ander wachtwoord.</value>
   </data>
-  <data name="PasswordSent.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Het wachtwoord is verzonden naar je e-mailadres.</value>
+  <data name="PasswordSent.Text" xml:space="preserve">
+    <value>Het wachtwoord is verzonden naar je e-mailadres.</value>
   </data>
-  <data name="PasswordUpdate.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Pas je wachtwoord aan alvorens door te gaan.</value>
+  <data name="PasswordUpdate.Text" xml:space="preserve">
+    <value>Pas je wachtwoord aan alvorens door te gaan.</value>
   </data>
-  <data name="plToken.Help">
-    <value xml:space="preserve">Een unieke code die gebruikt wordt om een gebruiker te identificeren.</value>
+  <data name="plToken.Help" xml:space="preserve">
+    <value>Een unieke code die gebruikt wordt om een gebruiker te identificeren.</value>
   </data>
-  <data name="plToken.Text">
-    <value xml:space="preserve">Gebruikerscode:</value>
+  <data name="plToken.Text" xml:space="preserve">
+    <value>Gebruikerscode:</value>
   </data>
-  <data name="plType.Help" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Authenticatietype</value>
+  <data name="plType.Help" xml:space="preserve">
+    <value>Authenticatietype</value>
   </data>
-  <data name="plType.Text">
-    <value xml:space="preserve">Type:</value>
+  <data name="plType.Text" xml:space="preserve">
+    <value>Type:</value>
   </data>
-  <data name="ProfileUpdate.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Werk je profiel bij alvorens door te gaan.</value>
+  <data name="ProfileUpdate.Text" xml:space="preserve">
+    <value>Werk je profiel bij alvorens door te gaan.</value>
   </data>
-  <data name="RegisterTitle.Text">
-    <value xml:space="preserve">Registreer een nieuw account</value>
+  <data name="RegisterTitle.Text" xml:space="preserve">
+    <value>Registreer een nieuw account</value>
   </data>
-  <data name="Remember.Text">
-    <value xml:space="preserve">Blijf ingelogd</value>
+  <data name="Remember.Text" xml:space="preserve">
+    <value>Blijf ingelogd</value>
   </data>
-  <data name="UserLockedOut.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Dit account is gedeactiveerd vanwege te veel inlogpogingen. Wacht {0} minuten voordat je het nogmaals probeert. Als je je wachtwoord bent vergeten, gebruik dan de "wachtwoord vergeten" optie voordat je contact op neemt met de beheerder van deze website.</value>
+  <data name="UserLockedOut.Text" xml:space="preserve">
+    <value>Dit account is gedeactiveerd vanwege te veel inlogpogingen. Wacht {0} minuten voordat je het nogmaals probeert. Als je je wachtwoord bent vergeten, gebruik dan de "wachtwoord vergeten" optie voordat je contact op neemt met de beheerder van deze website.</value>
   </data>
-  <data name="UserLockedOut_ContactAdmin.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Dit account is vergrendeld na teveel mislukte login pogingen. Neem contact op met de beheerder.</value>
+  <data name="UserLockedOut_ContactAdmin.Text" xml:space="preserve">
+    <value>Dit account is vergrendeld na teveel mislukte login pogingen. Neem contact op met de sitebeheerder.</value>
   </data>
-  <data name="UsernameError.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Deze gebruikersnaam bestaat niet</value>
+  <data name="UsernameError.Text" xml:space="preserve">
+    <value>Deze gebruikersnaam bestaat niet</value>
   </data>
-  <data name="UserNotAuthorized.Text" lastModified="2020-05-16 19:45:26">
-    <value xml:space="preserve">Je bent niet gemachtigd om op deze website in te loggen.</value>
+  <data name="UserNotAuthorized.Text" xml:space="preserve">
+    <value>Je bent niet gemachtigd om op deze website in te loggen.</value>
   </data>
 </root>

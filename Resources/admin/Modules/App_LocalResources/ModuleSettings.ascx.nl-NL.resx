@@ -12,355 +12,355 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AllowIndexLabel.Help">
-    <value xml:space="preserve">Deze instelling bepaalt of de zoek spider deze module mag indexeren.</value>
+  <data name="AllowIndexLabel.Help" xml:space="preserve">
+    <value>Deze instelling bepaald of de zoek spider deze module mag indexeren.</value>
   </data>
-  <data name="AllowIndexLabel.Text" lastModified="2015-12-30 04:14:30">
-    <value xml:space="preserve">Indexering toestaan</value>
+  <data name="AllowIndexLabel.Text" xml:space="preserve" lastModified="2015-12-30 04:14:30">
+    <value>Indexering toestaan</value>
   </data>
-  <data name="Appearance.Text">
-    <value xml:space="preserve">Basis instellingen</value>
+  <data name="Appearance.Text" xml:space="preserve">
+    <value>Basis Instellingen</value>
   </data>
-  <data name="Bind.Text">
-    <value xml:space="preserve">Koppelen</value>
+  <data name="Bind.Text" xml:space="preserve">
+    <value>Koppelen</value>
   </data>
-  <data name="CacheDuration.Help">
-    <value xml:space="preserve">Geef de duur (in seconden) op voor de cache van deze pagina. Dit moet een heel getal zijn.</value>
+  <data name="CacheDuration.Help" xml:space="preserve">
+    <value>Geef de duur (in seconden) op voor de cache van deze pagina. Dit moet een integer zijn.</value>
   </data>
-  <data name="CacheDuration.Text">
-    <value xml:space="preserve">Duur van de cache (seconden)</value>
+  <data name="CacheDuration.Text" xml:space="preserve">
+    <value>Duur van de Cache (seconden)</value>
   </data>
-  <data name="CacheDurationWarning.Text">
-    <value xml:space="preserve">Deze module heeft de aanbeveling om caching uit te schakelen (selecteer GEEN bij de Output Cache Provider in de onderstaande lijst). Cache inschakelen voor deze module is niet aanbevolen en kan er voor zorgen dat deze module verouderde data toont.</value>
+  <data name="CacheDurationWarning.Text" xml:space="preserve">
+    <value>Deze module heeft de aanbeveling om caching uit te schakelen (selecteer GEEN bij de Output Cache Provider in de onderstaande lijst). Cache inschakelen voor deze module is niet aanbevolen en kan er voor zorgen dat deze module stale data toont.</value>
   </data>
-  <data name="CacheInherited.Text">
-    <value xml:space="preserve">Geërfde</value>
+  <data name="CacheInherited.Text" xml:space="preserve">
+    <value>Geërfde</value>
   </data>
-  <data name="CacheProvider.Help">
-    <value xml:space="preserve">Selecteer welke provider er voor deze pagina moet worden gebruikt.</value>
+  <data name="CacheProvider.Help" xml:space="preserve">
+    <value>Selecteer welke provider er voor deze pagina moet worden gebruikt.</value>
   </data>
-  <data name="CacheProvider.Text">
-    <value xml:space="preserve">Output Cache Provider</value>
+  <data name="CacheProvider.Text" xml:space="preserve">
+    <value>Output Cache Provider</value>
   </data>
-  <data name="CacheSettings.Text">
-    <value xml:space="preserve">Cache instellingen</value>
+  <data name="CacheSettings.Text" xml:space="preserve">
+    <value>Cache Instellingen</value>
   </data>
-  <data name="cmdClearAllTabModuleCache.Text">
-    <value xml:space="preserve">Verwijder de cache voor alle modules</value>
+  <data name="cmdClearAllTabModuleCache.Text" xml:space="preserve">
+    <value>Verwijder de cache voor alle modules</value>
   </data>
-  <data name="cmdClearTabModuleCache.Text">
-    <value xml:space="preserve">Verwijder de cache voor deze tab module</value>
+  <data name="cmdClearTabModuleCache.Text" xml:space="preserve">
+    <value>Verwijder de cache voor deze tab module</value>
   </data>
-  <data name="ContainerPreview.Text">
-    <value xml:space="preserve">Vooruitblik</value>
+  <data name="ContainerPreview.Text" xml:space="preserve">
+    <value>Vooruitblik</value>
   </data>
-  <data name="ControlTitle_module.Text">
-    <value xml:space="preserve">Module</value>
+  <data name="ControlTitle_module.Text" xml:space="preserve">
+    <value>Module</value>
   </data>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">{0} instellingen</value>
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>{0} Instellingen</value>
   </data>
-  <data name="CreateBoundCopies.Text">
-    <value xml:space="preserve">Maak gekoppelde kopieën</value>
+  <data name="CreateBoundCopies.Text" xml:space="preserve">
+    <value>Maak Gekoppelde Kopieën</value>
   </data>
-  <data name="cultureLabel.Help">
-    <value xml:space="preserve">De taal voor deze module</value>
+  <data name="cultureLabel.Help" xml:space="preserve">
+    <value>De taal voor deze module</value>
   </data>
-  <data name="cultureLabel.Text">
-    <value xml:space="preserve">Module taal:</value>
+  <data name="cultureLabel.Text" xml:space="preserve">
+    <value>Module Taal:</value>
   </data>
-  <data name="CustomSettings.Text">
-    <value xml:space="preserve">{0} instellingen</value>
+  <data name="CustomSettings.Text" xml:space="preserve">
+    <value>{0} Instellingen</value>
   </data>
-  <data name="defaultCultureLabel.Help">
-    <value xml:space="preserve">Klik op deze link om deze versie van de module in de oorspronkelijke taal te zien</value>
+  <data name="defaultCultureLabel.Help" xml:space="preserve">
+    <value>Klik op deze link om deze versie van de module in de oorspronkelijke taal te zien</value>
   </data>
-  <data name="defaultCultureLabel.Text">
-    <value xml:space="preserve">Standaard cultuur:</value>
+  <data name="defaultCultureLabel.Text" xml:space="preserve">
+    <value>Standaar Cultuur:</value>
   </data>
-  <data name="edit.Text">
-    <value xml:space="preserve">Wijzigen</value>
+  <data name="edit.Text" xml:space="preserve">
+    <value>Wijzigen</value>
   </data>
-  <data name="ExpandAll.Text">
-    <value xml:space="preserve">Alle uitvouwen</value>
+  <data name="ExpandAll.Text" xml:space="preserve">
+    <value>Alle Uitvouwen</value>
   </data>
-  <data name="GeneralDetails.Text">
-    <value xml:space="preserve">Basis instellingen</value>
+  <data name="GeneralDetails.Text" xml:space="preserve">
+    <value>Basis Instellingen</value>
   </data>
-  <data name="InheritPermissions.Text">
-    <value xml:space="preserve">Erf weergavebevoegdheden van pagina</value>
+  <data name="InheritPermissions.Text" xml:space="preserve">
+    <value>Erf weergave bevoegdheden van pagina</value>
   </data>
-  <data name="InstalledOn.Help">
-    <value xml:space="preserve">Geef de pagina's weer waarop deze module is geplaatst. Een bestaande module kan aan andere pagina's worden toegevoegd d.m.v. de "Gebruik bestaande module" instelling. Deze lijst zal alleen pagina's weergeven indien de module is toegevoegd middels de "Gebruik bestaande module" instelling.</value>
+  <data name="InstalledOn.Help" xml:space="preserve">
+    <value>Geef de pagina's weer waarop deze module is geplaatst. Een bestaande module kan aan andere pagina's worden toegevoegd d.m.v. de "Gebruik Bestaande Module" feature. Deze lijst zal alleen pagina's weergeven indien de module is toegevoegd middels de "Gebruik Bestaande Module" feature.</value>
   </data>
-  <data name="InstalledOn.Text">
-    <value xml:space="preserve">Deze module is toegevoegd aan de volgende pagina's:</value>
+  <data name="InstalledOn.Text" xml:space="preserve">
+    <value>Deze module is toegevoegd aan de volgende pagina's:</value>
   </data>
-  <data name="isShareableLabel.Help">
-    <value xml:space="preserve">Vink deze optie aan als je deze module wilt delen op meerdere websites.</value>
+  <data name="isShareableLabel.Help" xml:space="preserve">
+    <value>Vink deze optie aan als u deze module wilt delen over meerdere websites.</value>
   </data>
-  <data name="isShareableLabel.Text">
-    <value xml:space="preserve">Is deelbaar?</value>
+  <data name="isShareableLabel.Text" xml:space="preserve">
+    <value>Is deelbaar?</value>
   </data>
-  <data name="isShareableViewOnlyLabel.Help">
-    <value xml:space="preserve">Vink deze optie aan om de module tot alleen weergave te beperken.</value>
+  <data name="isShareableViewOnlyLabel.Help" xml:space="preserve">
+    <value>Vink deze optie aan om de module tot alleen weergave te beperken.</value>
   </data>
-  <data name="isShareableViewOnlyLabel.Text">
-    <value xml:space="preserve">Alleen weergave?</value>
+  <data name="isShareableViewOnlyLabel.Text" xml:space="preserve">
+    <value>Alleen weergave?</value>
   </data>
-  <data name="lblCachedItemCount.Text">
-    <value xml:space="preserve">Huidige cache aantal: {0} item voor deze tab module</value>
+  <data name="lblCachedItemCount.Text" xml:space="preserve">
+    <value>Huidige Cache Aantal: {0} item voor deze tab module</value>
   </data>
-  <data name="lblNoRecords.Text">
-    <value xml:space="preserve">Deze module is niet toegevoegd aan andere pagina's.</value>
+  <data name="lblNoRecords.Text" xml:space="preserve">
+    <value>Deze module is niet toegevoegd aan andere pagina's.</value>
   </data>
-  <data name="LocalizedModules.Text">
-    <value xml:space="preserve">Module vertaling</value>
+  <data name="LocalizedModules.Text" xml:space="preserve">
+    <value>Module Vertaling</value>
   </data>
-  <data name="ModuleExists.Text">
-    <value xml:space="preserve">Deze module bestaat al op de doelpagina (deze kan ook in de prullenmand zitten) en slechts één instantie van een module kan op een pagina bestaan.</value>
+  <data name="ModuleExists.Text" xml:space="preserve">
+    <value>Deze module bestaat al op de doel pagina (het kan ook in de prullenmand zitten), en slechts één instance van een module kan op een pagina bestaan.</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;Instellingen voor module&lt;/h1&gt;&lt;p&gt;Beheerders kunnen de instellingen voor deze module beheren. Deze instellingen omvatten karakteristieken van de module, bevoegdheden en weergave eigenschappen.&lt;/p&gt;</value>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;Instellingen voor module&lt;/h1&gt;&lt;p&gt;Beheerders kunnen de instellingen voor deze module beheren. Deze instellingen omvatten karakteristieken van de module, bevoegdheden en weergave eigenschappen.&lt;/p&gt;</value>
   </data>
-  <data name="ModuleInstalledOn.Text">
-    <value xml:space="preserve">Aan pagina's toegevoegd</value>
+  <data name="ModuleInstalledOn.Text" xml:space="preserve">
+    <value>Aan pagina's toegevoegd</value>
   </data>
-  <data name="ModuleSettings.Text">
-    <value xml:space="preserve">Instellingen voor module</value>
+  <data name="ModuleSettings.Text" xml:space="preserve">
+    <value>Instellingen voor module</value>
   </data>
-  <data name="MonikerExists.Text" lastModified="2016-03-08 12:04:40">
-    <value xml:space="preserve">De nieuwe waarde van de naam bestaat al; deze moet uniek zijn binnen de website.</value>
+  <data name="MonikerExists.Text" xml:space="preserve" lastModified="2016-03-08 12:04:40">
+    <value>De nieuwe waarde van de moniker bestaat al; deze moet uniek zijn binnen het portaal.</value>
   </data>
-  <data name="MsgInstalledOnAll.Text">
-    <value xml:space="preserve">Deze module instantie wordt op alle pagina's weergegeven.</value>
+  <data name="MsgInstalledOnAll.Text" xml:space="preserve">
+    <value>Deze module instantie wordt op alle pagina's weergegeven.</value>
   </data>
-  <data name="MsgInstalledOnNone.Text">
-    <value xml:space="preserve">Deze module instantie is niet aan een andere pagina toegevoegd.</value>
+  <data name="MsgInstalledOnNone.Text" xml:space="preserve">
+    <value>Deze module instantie is niet aan enig andere pagina toegevoegd.</value>
   </data>
-  <data name="OtherSettings.Text">
-    <value xml:space="preserve">Geavanceerde instellingen</value>
+  <data name="OtherSettings.Text" xml:space="preserve">
+    <value>Geavanceerde Instellingen</value>
   </data>
-  <data name="Page.Header">
-    <value xml:space="preserve">Pagina</value>
+  <data name="Page.Header" xml:space="preserve">
+    <value>Pagina</value>
   </data>
-  <data name="PageSettings.Text">
-    <value xml:space="preserve">Pagina instellingen</value>
+  <data name="PageSettings.Text" xml:space="preserve">
+    <value>Pagina Instellingen</value>
   </data>
-  <data name="Permissions.Text">
-    <value xml:space="preserve">Machtigingen</value>
+  <data name="Permissions.Text" xml:space="preserve">
+    <value>Machtigingen</value>
   </data>
-  <data name="plAdminBorder.Help">
-    <value xml:space="preserve">Vink deze optie aan om voor beheerders rode randen rond een module weer te geven wanneer deze op de site inloggen.</value>
+  <data name="plAdminBorder.Help" xml:space="preserve" lastModified="2020-07-31 12:11:11">
+    <value>Vink deze optie om het bericht te verbergen dat aan de bovenzijde van de module vermeldt dat de module alleen zichtbaar is voor beheerders is.</value>
   </data>
-  <data name="plAdminBorder.Text">
-    <value xml:space="preserve">Verberg rand beheerder</value>
+  <data name="plAdminBorder.Text" xml:space="preserve" lastModified="2020-06-27 14:40:23">
+    <value>Verberg bericht Beheerder</value>
   </data>
-  <data name="plAlign.Help" lastModified="2015-12-30 04:14:30">
-    <value xml:space="preserve">Kies de uitlijning van de module content.</value>
+  <data name="plAlign.Help" xml:space="preserve" lastModified="2015-12-30 04:14:30">
+    <value>Kies de uitlijning van de module content.</value>
   </data>
-  <data name="plAlign.Text">
-    <value xml:space="preserve">Uitlijning:</value>
+  <data name="plAlign.Text" xml:space="preserve">
+    <value>Uitlijning:</value>
   </data>
-  <data name="plAllModules.Help">
-    <value xml:space="preserve">Selecteer deze optie als je wilt dat de pagina-instellingen voor deze module worden toegepast op alle bestaande modules in de site. Deze optie is alleen beschikbaar voor site beheerders en superusers.</value>
+  <data name="plAllModules.Help" xml:space="preserve">
+    <value>Selecteer deze optie als u wilt dat de pagina-instellingen voor deze module worden toegepast op alle bestaande modules in de site. Deze optie is  alleen beschikbaar voor Portaal beheerders en superusers.</value>
   </data>
-  <data name="plAllModules.Text" lastModified="2015-12-30 06:19:44">
-    <value xml:space="preserve">Op alle modules toepassen</value>
+  <data name="plAllModules.Text" xml:space="preserve" lastModified="2015-12-30 06:19:44">
+    <value>Op alle modules toepassen</value>
   </data>
-  <data name="plAllTabs.Help" lastModified="2015-12-30 04:14:30">
-    <value xml:space="preserve">Vink deze optie aan als je wilt dat deze module op dezelfde plaats op alle pagina's binnen de website weergeven moet worden.</value>
+  <data name="plAllTabs.Help" xml:space="preserve" lastModified="2015-12-30 04:14:30">
+    <value>Vink deze optie aan als u wilt dat deze module op dezelfde plaats op alle pagina's binnen de website weergeven moet worden.</value>
   </data>
-  <data name="plAllTabs.Text" lastModified="2015-12-30 06:19:44">
-    <value xml:space="preserve">Module weergeven op alle pagina's</value>
+  <data name="plAllTabs.Text" xml:space="preserve" lastModified="2015-12-30 06:19:44">
+    <value>Module weergeven op alle pagina's</value>
   </data>
-  <data name="plBorder.Help">
-    <value xml:space="preserve">Geef een randbreedte aan voor de module</value>
+  <data name="plBorder.Help" xml:space="preserve">
+    <value>Geef een randbreedte aan voor de module</value>
   </data>
-  <data name="plBorder.Text">
-    <value xml:space="preserve">Randbreedte:</value>
+  <data name="plBorder.Text" xml:space="preserve">
+    <value>Randbreedte:</value>
   </data>
-  <data name="plCacheTime.Help">
-    <value xml:space="preserve">Geef aan hoe lang dit object in het tijdelijk geheugen gehouden moet worden</value>
+  <data name="plCacheTime.Help" xml:space="preserve">
+    <value>Geef aan hoe lang dit object in het tijdelijk geheugen gehouden moet worden</value>
   </data>
-  <data name="plCacheTime.Text">
-    <value xml:space="preserve">Tijdelijk geheugen tijd (seconden):</value>
+  <data name="plCacheTime.Text" xml:space="preserve">
+    <value>Tijdelijk geheugen tijd (seconden):</value>
   </data>
-  <data name="plColor.Help" lastModified="2015-12-30 06:19:44">
-    <value xml:space="preserve">Geef een kleurnaam of hexadecimale waarde voor de achtrgrond kleur van deze module.</value>
+  <data name="plColor.Help" xml:space="preserve" lastModified="2015-12-30 06:19:44">
+    <value>Geef een kleurnaam of hexadecimale waarde voor de achtrgrond kleur van deze module.</value>
   </data>
-  <data name="plColor.Text">
-    <value xml:space="preserve">Kleur:</value>
+  <data name="plColor.Text" xml:space="preserve">
+    <value>Kleur:</value>
   </data>
-  <data name="plDefault.Help" lastModified="2015-12-30 06:19:44">
-    <value xml:space="preserve">Selecteer deze optie als je wilt dat de pagina-instellingen voor deze module worden gebruikt als de standaard instellingen bij het toevoegen van nieuwe modules. Deze optie is alleen beschikbaar voor site beheerders.</value>
+  <data name="plDefault.Help" xml:space="preserve" lastModified="2015-12-30 06:19:44">
+    <value>Selecteer deze optie als u wilt dat de pagina-instellingen voor deze module worden gebruikt als de standaard instellingen bij het toevoegen van nieuwe modules. Deze optie is alleen beschikbaar voor website beheerders.</value>
   </data>
-  <data name="plDefault.Text" lastModified="2015-12-30 04:14:30">
-    <value xml:space="preserve">Instellen als standaard instellingen</value>
+  <data name="plDefault.Text" xml:space="preserve" lastModified="2015-12-30 04:14:30">
+    <value>Instellen als Standaard Instellingen</value>
   </data>
-  <data name="plDisplayPrint.Help">
-    <value xml:space="preserve">Vink deze optie aan als het mogelijk is deze module af te drukken (het printer symbool wordt dan, mits mogelijk binnen de skin, weergegeven)</value>
+  <data name="plDisplayPrint.Help" xml:space="preserve">
+    <value>Vink deze optie aan als het mogelijk is deze module af te drukken (het printer symbool wordt dan, mits mogelijk binnen de skin, weergegeven)</value>
   </data>
-  <data name="plDisplayPrint.Text" lastModified="2015-12-30 06:19:44">
-    <value xml:space="preserve">Afdrukken toestaan</value>
+  <data name="plDisplayPrint.Text" xml:space="preserve" lastModified="2015-12-30 06:19:44">
+    <value>Afdrukken toestaan</value>
   </data>
-  <data name="plDisplaySyndicate.Help">
-    <value xml:space="preserve">Vink deze optie aan als je RSS beschikbaar wilt maken voor deze module</value>
+  <data name="plDisplaySyndicate.Help" xml:space="preserve">
+    <value>Vink deze optie aan als u RSS beschikbaar wilt maken voor deze module</value>
   </data>
-  <data name="plDisplaySyndicate.Text" lastModified="2015-12-30 06:19:44">
-    <value xml:space="preserve">Syndicatie toestaan</value>
+  <data name="plDisplaySyndicate.Text" xml:space="preserve" lastModified="2015-12-30 06:19:44">
+    <value>Syndicatie toestaan</value>
   </data>
-  <data name="plDisplayTitle.Help" lastModified="2015-12-30 06:19:44">
-    <value xml:space="preserve">Vink deze optie aan als je de module container wilt laten weergeven.</value>
+  <data name="plDisplayTitle.Help" xml:space="preserve" lastModified="2015-12-30 06:19:44">
+    <value>Vink deze optie aan als u de module container wilt laten weergeven.</value>
   </data>
-  <data name="plDisplayTitle.Text" lastModified="2015-12-30 04:14:30">
-    <value xml:space="preserve">Container weergeven</value>
+  <data name="plDisplayTitle.Text" xml:space="preserve" lastModified="2015-12-30 04:14:30">
+    <value>Container weergeven</value>
   </data>
-  <data name="plEndDate.Help">
-    <value xml:space="preserve">Voer een einddatum in voor weergave van deze module. Na deze datum wordt de module automatisch verborgen. Je kunt de kalender popup gebruiken om een datum te selecteren.</value>
+  <data name="plEndDate.Help" xml:space="preserve">
+    <value>Voer een einddatum in voor weergave van deze module. Na deze datum wordt de module automatisch verborgen. U kunt de kalender popup gebruiken om een datum te selecteren.</value>
   </data>
-  <data name="plEndDate.Text">
-    <value xml:space="preserve">Einddatum:</value>
+  <data name="plEndDate.Text" xml:space="preserve">
+    <value>Einddatum:</value>
   </data>
-  <data name="plFooter.Help" lastModified="2015-12-30 06:19:44">
-    <value xml:space="preserve">Geef een voettekst aan voor deze module.</value>
+  <data name="plFooter.Help" xml:space="preserve" lastModified="2015-12-30 06:19:44">
+    <value>Geef een voettekst aan voor deze module.</value>
   </data>
-  <data name="plFooter.Text">
-    <value xml:space="preserve">Voettekst:</value>
+  <data name="plFooter.Text" xml:space="preserve">
+    <value>Voettekst:</value>
   </data>
-  <data name="plFriendlyName.Help">
-    <value xml:space="preserve">Toont de naam van de module.</value>
+  <data name="plFriendlyName.Help" xml:space="preserve">
+    <value>Toont de naam van de module.</value>
   </data>
-  <data name="plFriendlyName.Text">
-    <value xml:space="preserve">Module:</value>
+  <data name="plFriendlyName.Text" xml:space="preserve">
+    <value>Module:</value>
   </data>
-  <data name="plHeader.Help" lastModified="2015-12-30 06:19:44">
-    <value xml:space="preserve">Geef een koptekst aan voor deze module.</value>
+  <data name="plHeader.Help" xml:space="preserve" lastModified="2015-12-30 06:19:44">
+    <value>Geef een koptekst aan voor deze module.</value>
   </data>
-  <data name="plHeader.Text">
-    <value xml:space="preserve">Koptekst:</value>
+  <data name="plHeader.Text" xml:space="preserve">
+    <value>Koptekst:</value>
   </data>
-  <data name="plIcon.Help" lastModified="2015-12-30 06:19:44">
-    <value xml:space="preserve">Selecteer een icoon voor weergave in de titelbalk van deze module.</value>
+  <data name="plIcon.Help" xml:space="preserve" lastModified="2015-12-30 06:19:44">
+    <value>Selecteer een icoon voor weergave in de titelbalk van deze module.</value>
   </data>
-  <data name="plIcon.Text">
-    <value xml:space="preserve">Icoon:</value>
+  <data name="plIcon.Text" xml:space="preserve">
+    <value>Icoon:</value>
   </data>
-  <data name="plModuleContainer.Help" lastModified="2015-12-30 04:14:30">
-    <value xml:space="preserve">Selecteer een container voor de module. </value>
+  <data name="plModuleContainer.Help" xml:space="preserve" lastModified="2015-12-30 04:14:30">
+    <value>Selecteer een container voor de module. </value>
   </data>
-  <data name="plModuleContainer.Text" lastModified="2018-07-18 13:17:08">
-    <value xml:space="preserve">Modulecontainer:</value>
+  <data name="plModuleContainer.Text" xml:space="preserve" lastModified="2018-07-18 13:17:08">
+    <value>Modulecontainer:</value>
   </data>
-  <data name="plMoniker.Help" lastModified="2016-03-08 13:09:46">
-    <value xml:space="preserve">Een unieke identificatie voor deze module op de pagina. Deze kan worden gebruikt door WEB API callers om de inhoud van de tab en de module te kunnen bepalen.</value>
+  <data name="plMoniker.Help" xml:space="preserve" lastModified="2016-03-08 13:09:46">
+    <value>Een unieke identificatie voor deze module op de pagina. Deze kan worden gebruikt door WEB API callers om de inhoud van de tab en de module te kunnen bepalen.</value>
   </data>
-  <data name="plMoniker.Text" lastModified="2018-07-18 13:17:08">
-    <value xml:space="preserve">Module naam:</value>
+  <data name="plMoniker.Text" xml:space="preserve" lastModified="2018-07-18 13:17:08">
+    <value>Module Moniker:</value>
   </data>
-  <data name="plNewTabs.Help" lastModified="2015-12-30 06:19:44">
-    <value xml:space="preserve">Schakel dit vakje in om de module alleen toe te voegen aan nieuwe pagina's. Deze optie is  alleen beschikbaar voor website beheerders.</value>
+  <data name="plNewTabs.Help" xml:space="preserve" lastModified="2015-12-30 06:19:44">
+    <value>Schakel dit vakje in om de module alleen toe te voegen aan nieuwe pagina's. Deze optie is  alleen beschikbaar voor website beheerders.</value>
   </data>
-  <data name="plNewTabs.Text">
-    <value xml:space="preserve">Alleen aan nieuwe pagina's toevoegen?</value>
+  <data name="plNewTabs.Text" xml:space="preserve">
+    <value>Alleen aan nieuwe pagina's toevoegen?</value>
   </data>
-  <data name="plPermissions.Help" lastModified="2015-12-30 05:15:06">
-    <value xml:space="preserve">Selecteer de weergave en wijzig bevoegdheden door middel van het aanvinken van de aanvinkhokjes in de tabel. Vink de optie "Erf weergave bevoegdheden" aan om de bevoegdheden van de pagina te erven.</value>
+  <data name="plPermissions.Help" xml:space="preserve" lastModified="2015-12-30 05:15:06">
+    <value>Selecteer de weergave en wijzig bevoegdheden door middel van het aanvinken van de aanvinkhokjes in de tabel. Vink de optie "Erf weergave bevoegdheden" aan om de bevoegdheden van de pagina te erven.</value>
   </data>
-  <data name="plPermissions.Text">
-    <value xml:space="preserve">Bevoegdheden:</value>
+  <data name="plPermissions.Text" xml:space="preserve">
+    <value>Bevoegdheden:</value>
   </data>
-  <data name="plStartDate.Help">
-    <value xml:space="preserve">Voer een begindatum in voor weergave van deze module. Vóór deze datum wordt de module automatisch verborgen. Je kunt de kalender pop-up gebruiken om een datum te selecteren.</value>
+  <data name="plStartDate.Help" xml:space="preserve">
+    <value>Voer een begindatum in voor weergave van deze module. Vóór deze datum wordt de module automatisch verborgen. U kunt de kalender pop-up gebruiken om een datum te selecteren.</value>
   </data>
-  <data name="plStartDate.Text">
-    <value xml:space="preserve">Begindatum:</value>
+  <data name="plStartDate.Text" xml:space="preserve">
+    <value>Begindatum:</value>
   </data>
-  <data name="plTab.Help" lastModified="2015-12-30 04:14:30">
-    <value xml:space="preserve">Selecteer de pagina waar deze module naartoe moet worden verplaatst.</value>
+  <data name="plTab.Help" xml:space="preserve" lastModified="2015-12-30 04:14:30">
+    <value>Selecteer de pagina waar deze module naartoe moet worden verplaatst.</value>
   </data>
-  <data name="plTab.Text">
-    <value xml:space="preserve">Verplaats naar pagina:</value>
+  <data name="plTab.Text" xml:space="preserve">
+    <value>Verplaats naar pagina:</value>
   </data>
-  <data name="plTags.Help">
-    <value xml:space="preserve">Selecteer items uit de drop-down lijst om deze module te labelen.</value>
+  <data name="plTags.Help" xml:space="preserve">
+    <value>Selecteer items uit de drop-down lijst om deze module te labelen.</value>
   </data>
-  <data name="plTags.Text">
-    <value xml:space="preserve">Labels:</value>
+  <data name="plTags.Text" xml:space="preserve">
+    <value>Labels:</value>
   </data>
-  <data name="plTitle.Help" lastModified="2015-12-30 06:19:44">
-    <value xml:space="preserve">Geef een titel op voor deze module. Deze titel zal, als dat ondersteund wordt door de container, weergegeven worden in de titelbalk van de container van deze module.</value>
+  <data name="plTitle.Help" xml:space="preserve" lastModified="2015-12-30 06:19:44">
+    <value>Geef een titel op voor deze module. Deze titel zal, als dat ondersteund wordt door de container, weergegeven worden in de titelbalk van de container van deze module.</value>
   </data>
-  <data name="plTitle.Text">
-    <value xml:space="preserve">Module titel:</value>
+  <data name="plTitle.Text" xml:space="preserve" lastModified="2020-06-27 14:40:23">
+    <value>Moduletitel:</value>
   </data>
-  <data name="plVisibility.Help">
-    <value xml:space="preserve">Kies de standaard zichtbaarheid voor deze module</value>
+  <data name="plVisibility.Help" xml:space="preserve">
+    <value>Kies de standaard zichtbaarheid voor deze module</value>
   </data>
-  <data name="plVisibility.Text">
-    <value xml:space="preserve">Zichtbaarheid:</value>
+  <data name="plVisibility.Text" xml:space="preserve">
+    <value>Zichtbaarheid:</value>
   </data>
-  <data name="plWebSlice.Help">
-    <value xml:space="preserve">Aanvinken om van deze module een IE8 Web slice te maken.</value>
+  <data name="plWebSlice.Help" xml:space="preserve">
+    <value>Aanvinken om van deze module een IE8 Web Slice te maken.</value>
   </data>
-  <data name="plWebSlice.Text" lastModified="2015-12-30 06:19:44">
-    <value xml:space="preserve">Is een Web slice</value>
+  <data name="plWebSlice.Text" xml:space="preserve" lastModified="2015-12-30 06:19:44">
+    <value>Is een Web Slice</value>
   </data>
-  <data name="plWebSliceExpiry.Help">
-    <value xml:space="preserve">Geef een datum op wanneer de Web slice zal verlopen - indien leeg gelaten zal de einddatum van de module worden gebruikt</value>
+  <data name="plWebSliceExpiry.Help" xml:space="preserve">
+    <value>Geef een datum op wanneer de Web Slice zal verlopen - indien leeg gelaten zal de einddatum van de module worden gebruikt</value>
   </data>
-  <data name="plWebSliceExpiry.Text">
-    <value xml:space="preserve">Web slice verloopt</value>
+  <data name="plWebSliceExpiry.Text" xml:space="preserve">
+    <value>Web Slice Verloopt</value>
   </data>
-  <data name="plWebSliceTitle.Help">
-    <value xml:space="preserve">Geef een titel op voor de Web slice - indien je dit leeg laat zal de titel van de module worden gebruikt.</value>
+  <data name="plWebSliceTitle.Help" xml:space="preserve">
+    <value>Geef een titel op voor de Web Slice - indien u dit leeg laat zal de titel van de module worden gebruikt.</value>
   </data>
-  <data name="plWebSliceTitle.Text">
-    <value xml:space="preserve">Titel Web slice</value>
+  <data name="plWebSliceTitle.Text" xml:space="preserve">
+    <value>Titel Web Slice</value>
   </data>
-  <data name="plWebSliceTTL.Help">
-    <value xml:space="preserve">Geef de Time To Live (TTL) in minuten op voor deze Web slice. Indien leeg gelaten zal de standaard cache tijd worden gebruikt  (geconverteerd naar minuten)</value>
+  <data name="plWebSliceTTL.Help" xml:space="preserve">
+    <value>Geef de Time to Live (TTL) in minuten op voor deze Web Slice. Indien leeg gelaten zal de standaard cache tijd worden gebruikt  (geconverteerd naar minuten)</value>
   </data>
-  <data name="plWebSliceTTL.Text">
-    <value xml:space="preserve">Web slice TTL:</value>
+  <data name="plWebSliceTTL.Text" xml:space="preserve" lastModified="2020-07-31 12:11:44">
+    <value>Webslice TTL:</value>
   </data>
-  <data name="PreviewNoSelectionMessage.Text">
-    <value xml:space="preserve">Gelieve een container te selecteren om een vooruitblik te kunnen zien.</value>
+  <data name="PreviewNoSelectionMessage.Text" xml:space="preserve">
+    <value>Gelieve een container te selecteren om een vooruitblik te kunnen zien.</value>
   </data>
-  <data name="Security.Text">
-    <value xml:space="preserve">Geavanceerde instellingen</value>
+  <data name="Security.Text" xml:space="preserve">
+    <value>Geavanceerde Instellingen</value>
   </data>
-  <data name="Site.Header">
-    <value xml:space="preserve">Site</value>
+  <data name="Site.Header" xml:space="preserve">
+    <value>Site</value>
   </data>
-  <data name="Translated.Text">
-    <value xml:space="preserve">Markeer als vertaald</value>
+  <data name="Translated.Text" xml:space="preserve">
+    <value>Markeer als vertaald</value>
   </data>
-  <data name="UnBind.Text">
-    <value xml:space="preserve">Ontkoppelen</value>
+  <data name="UnBind.Text" xml:space="preserve">
+    <value>Ontkoppelen</value>
   </data>
-  <data name="UnTranslated.Text">
-    <value xml:space="preserve">Markeer als niet-vertaald</value>
+  <data name="UnTranslated.Text" xml:space="preserve">
+    <value>Markeer als niet-vertaald</value>
   </data>
-  <data name="valBorder.ErrorMessage">
-    <value xml:space="preserve">Ongeldige rand (moet een getal tussen 0 en 9 zijn)</value>
+  <data name="valBorder.ErrorMessage" xml:space="preserve">
+    <value>Ongeldige Rand (moet een getal tussen 0 en 9 zijn)</value>
   </data>
-  <data name="valCacheTime.ErrorMessage">
-    <value xml:space="preserve">Ongeldige cache tijd</value>
+  <data name="valCacheTime.ErrorMessage" xml:space="preserve">
+    <value>Ongeldige Cache Time</value>
   </data>
-  <data name="valEndDate.ErrorMessage">
-    <value xml:space="preserve">Ongeldige einddatum</value>
+  <data name="valEndDate.ErrorMessage" xml:space="preserve">
+    <value>Ongeldige Einddatum</value>
   </data>
-  <data name="valEndDate2.ErrorMessage">
-    <value xml:space="preserve">Einddatum moet na startdatum liggen</value>
+  <data name="valEndDate2.ErrorMessage" xml:space="preserve">
+    <value>Einddatum moet na startdatum liggen</value>
   </data>
-  <data name="valStartDate.ErrorMessage">
-    <value xml:space="preserve">Ongeldige startdatum</value>
+  <data name="valStartDate.ErrorMessage" xml:space="preserve">
+    <value>Ongeldige startdatum</value>
   </data>
-  <data name="valWebSliceExpiry.ErrorMessage">
-    <value xml:space="preserve">Ongeldige vervaldatum</value>
+  <data name="valWebSliceExpiry.ErrorMessage" xml:space="preserve">
+    <value>Ongeldige Vervaldatum</value>
   </data>
-  <data name="valWebSliceTTL.ErrorMessage">
-    <value xml:space="preserve">Ongeldige TTL - waarde moet een getal zijn</value>
+  <data name="valWebSliceTTL.ErrorMessage" xml:space="preserve">
+    <value>Ongeldige TTL - waarde moet een getal zijn</value>
   </data>
 </root>

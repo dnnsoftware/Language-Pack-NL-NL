@@ -12,17 +12,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_mywork.Text">
-    <value xml:space="preserve">Mijn Werk</value>
+  <data name="ControlTitle_mywork.Text" xml:space="preserve">
+    <value>Mijn Werk</value>
   </data>
-  <data name="lblMessage.Text">
-    <value xml:space="preserve">De volgende content moet worden beoordeeld voordat deze kan worden gepubliceerd:</value>
+  <data name="lblMessage.Text" xml:space="preserve">
+    <value>De volgende content moet worden beoordeeld voordat deze kan worden gepubliceerd:</value>
   </data>
-  <data name="lblNoRecords.Text" lastModified="2020-05-16 16:23:02">
-    <value xml:space="preserve">Je hebt geen HTML content geassocieerd met je account. </value>
+  <data name="lblNoRecords.Text" xml:space="preserve">
+    <value>Je hebt geen HTML content geassocieerd met je account. </value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;p&gt;
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;p&gt;
         Met de HTML module kan zowel platte- als HTML tekst beheerd worden:
     &lt;/p&gt;
     &lt;ol&gt;
@@ -32,14 +32,14 @@
             &lt;li&gt;&lt;strong&gt;Basic Text Box / HTML &lt;/strong&gt;: Geeft platte tekst in html formaat weer.&lt;/li&gt;
             &lt;li&gt;&lt;strong&gt;Basic Text Box / Raw &lt;/strong&gt;: Geeft platte tekst in HTML-formaat. Tekst
                 op een nieuwe regel wordt niet weergegeven als een regeleinde.&lt;/li&gt;
-            &lt;li&gt;&lt;strong&gt;Rich Text Editor / HTML &lt;/strong&gt;: Hiermee kunt u HTML plakken uit andere
+            &lt;li&gt;&lt;strong&gt;Rich Text Editor / HTML &lt;/strong&gt;: Hiermee kun je HTML plakken uit andere
                 bronnen.&lt;/li&gt;
             &lt;li&gt;&lt;strong&gt;Rich Text Editor / Design &lt;/strong&gt;: Een volledige tekstverwerker ofwel
                 een WYSIWYG (What You See is What You Get) editor met functies zoals hyperlinks,
                 e-mail links, File Manager fotogalerij, bullet points, spellingscontrole en nog
                 veel meer.&lt;/li&gt;</value>
   </data>
-  <data name="Page.Header">
-    <value xml:space="preserve">Pagina</value>
+  <data name="Page.Header" xml:space="preserve">
+    <value>Pagina</value>
   </data>
 </root>

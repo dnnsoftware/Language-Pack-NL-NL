@@ -12,55 +12,55 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="plFolder.Text">
-    <value xml:space="preserve">Map:</value>
+  <data name="cmdExport.Text" xml:space="preserve">
+    <value>Exporteer</value>
   </data>
-  <data name="plFolder.Help">
-    <value xml:space="preserve">Selecteer de map waarin je dit sjabloon wilt opslaan</value>
+  <data name="ControlTitle_exporttab.Text" xml:space="preserve">
+    <value>Exporteer Pagina</value>
   </data>
-  <data name="plFile.Text">
-    <value xml:space="preserve">Naam sjabloon:</value>
+  <data name="Error.Text" xml:space="preserve">
+    <value>Er is een fout opgetreden tijdens het exporteren</value>
   </data>
-  <data name="plFile.Help">
-    <value xml:space="preserve">Geef een naam op voor het paginasjabloon</value>
+  <data name="ExportedMessage.Text" xml:space="preserve">
+    <value>Het pagina sjabloon is aangemaakt in &lt;b&gt;{0}&lt;/b&gt;</value>
   </data>
-  <data name="cmdExport.Text">
-    <value xml:space="preserve">Exporteer</value>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;Exporteer Pagina&lt;/h1&gt;&lt;p&gt;Beheerders kunnen de inhoud van een specifieke pagina exporteren.&lt;/p&gt;</value>
   </data>
-  <data name="ControlTitle_exporttab.Text">
-    <value xml:space="preserve">Exporteer Pagina</value>
+  <data name="plContent.Help" xml:space="preserve">
+    <value>Inclusief de inhoud van deze module</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;Exporteer Pagina&lt;/h1&gt;&lt;p&gt;Beheerders kunnen de inhoud van een specifieke pagina exporteren.&lt;/p&gt;</value>
+  <data name="plContent.Text" xml:space="preserve">
+    <value>Inclusief inhoud:</value>
   </data>
-  <data name="Error.Text">
-    <value xml:space="preserve">Er is een fout opgetreden tijdens het exporteren</value>
+  <data name="plDescription.Help" xml:space="preserve">
+    <value>Geef een beschrijving op voor dit sjabloon.</value>
   </data>
-  <data name="Validation.Text">
-    <value xml:space="preserve">Je moet een map en sjabloon naam opgeven alvorens te kunnen exporteren</value>
+  <data name="plDescription.Text" xml:space="preserve">
+    <value>Beschrijving:</value>
   </data>
-  <data name="Root.Text">
-    <value xml:space="preserve">Hoofdmap</value>
+  <data name="plFile.Help" xml:space="preserve">
+    <value>Geef een naam op voor het paginasjabloon</value>
   </data>
-  <data name="plDescription.Help">
-    <value xml:space="preserve">Geef een beschrijving op voor dit sjabloon.</value>
+  <data name="plFile.Text" xml:space="preserve">
+    <value>Naam sjabloon:</value>
   </data>
-  <data name="plDescription.Text">
-    <value xml:space="preserve">Beschrijving:</value>
+  <data name="plFolder.Help" xml:space="preserve">
+    <value>Selecteer de map waarin je dit sjabloon wilt opslaan</value>
   </data>
-  <data name="plContent.Help">
-    <value xml:space="preserve">Inclusief de inhoud van deze module</value>
+  <data name="plFolder.Text" xml:space="preserve">
+    <value>Map:</value>
   </data>
-  <data name="plContent.Text">
-    <value xml:space="preserve">Inclusief inhoud:</value>
+  <data name="Root.Text" xml:space="preserve">
+    <value>Hoofdmap</value>
   </data>
-  <data name="ExportedMessage.Text">
-    <value xml:space="preserve">Het pagina sjabloon is aangemaakt in &lt;b&gt;{0}&lt;/b&gt;</value>
+  <data name="valDescription.ErrorMessage" xml:space="preserve">
+    <value>Je moet een beschrijving van het sjabloon invoeren.</value>
   </data>
-  <data name="valDescription.ErrorMessage">
-    <value xml:space="preserve">Je moet een beschrijving van het sjabloon invoeren.</value>
+  <data name="valFileName.ErrorMessage" xml:space="preserve">
+    <value>Je moet een bestandsnaam opgeven voor het sjabloon</value>
   </data>
-  <data name="valFileName.ErrorMessage">
-    <value xml:space="preserve">Je moet een bestandsnaam opgeven voor het sjabloon</value>
+  <data name="Validation.Text" xml:space="preserve">
+    <value>Je moet een map en sjabloon naam opgeven alvorens te kunnen exporteren</value>
   </data>
 </root>

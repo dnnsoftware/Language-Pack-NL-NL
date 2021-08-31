@@ -12,100 +12,100 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddRole.Text">
-    <value xml:space="preserve">Rol toevoegen</value>
+  <data name="AddRole.Text" xml:space="preserve">
+    <value>Rol toevoegen</value>
   </data>
-  <data name="AddUser.Text">
-    <value xml:space="preserve">Gebruiker toevoegen</value>
+  <data name="AddUser.Text" xml:space="preserve">
+    <value>Gebruiker toevoegen</value>
   </data>
-  <data name="cmdAdd.Text">
-    <value xml:space="preserve">Rol toevoegen</value>
+  <data name="cmdAdd.Text" xml:space="preserve">
+    <value>Rol toevoegen</value>
   </data>
-  <data name="cmdValidate.Text">
-    <value xml:space="preserve">Valideren</value>
+  <data name="cmdValidate.Text" xml:space="preserve">
+    <value>Valideren</value>
   </data>
-  <data name="ControlTitle_user roles.Text">
-    <value xml:space="preserve">Gebruikersrol</value>
+  <data name="ControlTitle_user roles.Text" xml:space="preserve">
+    <value>Gebruikersrol</value>
   </data>
-  <data name="DeleteRoleFromUser.Text" lastModified="2020-05-17 18:10:54">
-    <value xml:space="preserve">Weet je zeker dat je de '{1}' rol wilt verwijderen uit '{0}'?</value>
+  <data name="DeleteRoleFromUser.Text" xml:space="preserve">
+    <value>Weet je zeker dat je de '{1}' rol wilt verwijderen uit '{0}'?</value>
   </data>
-  <data name="DeleteUsersFromRole.Text" lastModified="2020-05-17 18:10:54">
-    <value xml:space="preserve">Weet je zeker dat je '{0}' uit de rol '{1}' wilt verwijderen?</value>
+  <data name="DeleteUsersFromRole.Text" xml:space="preserve">
+    <value>Weet je zeker dat je '{0}' uit de rol '{1}' wilt verwijderen?</value>
   </data>
-  <data name="EffectiveDate.Header">
-    <value xml:space="preserve">Ingangsdatum</value>
+  <data name="EffectiveDate.Header" xml:space="preserve">
+    <value>Ingangsdatum</value>
   </data>
-  <data name="ExpiryDate.Header">
-    <value xml:space="preserve">Vervaldatum</value>
+  <data name="ExpiryDate.Header" xml:space="preserve">
+    <value>Vervaldatum</value>
   </data>
-  <data name="IsOwner.Header">
-    <value xml:space="preserve">Is eigenaar</value>
+  <data name="IsOwner.Header" xml:space="preserve">
+    <value>Is eigenaar</value>
   </data>
-  <data name="lblIsOwner.Help">
-    <value xml:space="preserve">Voeg deze gebruiker toe als een eigenaar van deze groep.</value>
+  <data name="lblIsOwner.Help" xml:space="preserve">
+    <value>Voeg deze gebruiker toe als een eigenaar van deze groep.</value>
   </data>
-  <data name="lblIsOwner.Text">
-    <value xml:space="preserve">Is eigenaar</value>
+  <data name="lblIsOwner.Text" xml:space="preserve">
+    <value>Is eigenaar</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;Over toegangsrollen&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunnen beheerders de toegangsrollen van hun website beheren. Er kunnen nieuwe rollen worden aangemaakt, bestaande rollen kunnen worden gewijzigd, rollen kunnen worden verwijderd, en de toewijzing van rollen aan gebruikers kan worden beheerd.&lt;/p&gt;</value>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;Over toegangsrollen&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunnen sitebeheerders de toegangsrollen van hun website beheren. Er kunnen nieuwe rollen worden aangemaakt, bestaande rollen kunnen worden gewijzigd, rollen kunnen worden verwijderd, en de toewijzing van rollen aan gebruikers kan worden beheerd.&lt;/p&gt;</value>
   </data>
-  <data name="NotAuthorized.Text" lastModified="2020-05-17 18:10:54">
-    <value xml:space="preserve">Je bent niet gemachtigd om deze rol te wijzigen.</value>
+  <data name="NotAuthorized.Text" xml:space="preserve">
+    <value>Je bent niet gemachtigd om deze rol te wijzigen.</value>
   </data>
-  <data name="plEffectiveDate.Help">
-    <value xml:space="preserve">Geef de datum waarop deze roltoekenning in moet gaan (optioneel). Geen ingangsdatum betekent dat de rol onmiddellijk ingaat.</value>
+  <data name="plEffectiveDate.Help" xml:space="preserve">
+    <value>Geef de datum waarop deze roltoekenning in moet gaan (optioneel). Geen ingangsdatum betekent dat de rol onmiddellijk ingaat.</value>
   </data>
-  <data name="plEffectiveDate.Text">
-    <value xml:space="preserve">Ingangsdatum</value>
+  <data name="plEffectiveDate.Text" xml:space="preserve">
+    <value>Ingangsdatum</value>
   </data>
-  <data name="plExpiryDate.Help" lastModified="2020-05-17 18:10:54">
-    <value xml:space="preserve">Geef aan op welke datum deze roltoekening moet verlopen (dit is optioneel). Als je niets invult, zal de rol zijn geldigheid niet verliezen.</value>
+  <data name="plExpiryDate.Help" xml:space="preserve">
+    <value>Geef aan op welke datum deze roltoekening moet verlopen (dit is optioneel). Als je niets invult, zal de rol zijn geldigheid niet verliezen.</value>
   </data>
-  <data name="plExpiryDate.Text">
-    <value xml:space="preserve">Vervaldatum</value>
+  <data name="plExpiryDate.Text" xml:space="preserve">
+    <value>Vervaldatum</value>
   </data>
-  <data name="plRoles.Help" lastModified="2015-12-31 09:33:36">
-    <value xml:space="preserve">Selecteer de toegangsrol.</value>
+  <data name="plRoles.Help" xml:space="preserve">
+    <value>Selecteer de toegangsrol.</value>
   </data>
-  <data name="plRoles.Text">
-    <value xml:space="preserve">Toegangsrol</value>
+  <data name="plRoles.Text" xml:space="preserve">
+    <value>Toegangsrol</value>
   </data>
-  <data name="plUsers.Help" lastModified="2015-12-31 09:33:36">
-    <value xml:space="preserve">Voer de gebruikersnaam in en klik op "Valideren" om te bevestigen.</value>
+  <data name="plUsers.Help" xml:space="preserve">
+    <value>Voer de gebruikersnaam in en klik op "Valideren" om te bevestigen.</value>
   </data>
-  <data name="plUsers.Text">
-    <value xml:space="preserve">Gebruikersnaam</value>
+  <data name="plUsers.Text" xml:space="preserve">
+    <value>Gebruikersnaam</value>
   </data>
-  <data name="RoleRemoveError.Text" lastModified="2015-12-31 09:33:36">
-    <value xml:space="preserve">De rollen van "Websitebeheerder" en "Geregistreerde gebruiker" kunnen niet verwijderd worden.</value>
+  <data name="RoleRemoveError.Text" xml:space="preserve">
+    <value>De rollen van "Websitebeheerder" en "Geregistreerde gebruiker" kunnen niet verwijderd worden.</value>
   </data>
-  <data name="RoleTitle.Text" lastModified="2015-12-31 09:33:36">
-    <value xml:space="preserve">Beheer gebruikers in rol: {0}</value>
+  <data name="RoleTitle.Text" xml:space="preserve">
+    <value>Beheer gebruikers in rol: {0}</value>
   </data>
-  <data name="SecurityRole.Header">
-    <value xml:space="preserve">Toegangsrol</value>
+  <data name="SecurityRole.Header" xml:space="preserve">
+    <value>Toegangsrol</value>
   </data>
-  <data name="SendNotification.Text" lastModified="2015-12-31 09:33:36">
-    <value xml:space="preserve">E-mail versturen</value>
+  <data name="SendNotification.Text" xml:space="preserve">
+    <value>E-mail versturen</value>
   </data>
-  <data name="UpdateRole.Text">
-    <value xml:space="preserve">Bijwerken toegangsrol</value>
+  <data name="UpdateRole.Text" xml:space="preserve">
+    <value>Bijwerken toegangsrol</value>
   </data>
-  <data name="UserName.Header">
-    <value xml:space="preserve">Gebruikersnaam</value>
+  <data name="UserName.Header" xml:space="preserve">
+    <value>Gebruikersnaam</value>
   </data>
-  <data name="UserTitle.Text" lastModified="2015-12-31 09:33:36">
-    <value xml:space="preserve">Beheer rollen voor gebruiker:{0}</value>
+  <data name="UserTitle.Text" xml:space="preserve">
+    <value>Beheer rollen voor gebruiker:{0}</value>
   </data>
-  <data name="valDates.Text" lastModified="2015-12-31 09:33:36">
-    <value xml:space="preserve">Vervaldatum moet groter zijn dan Ingangsdatum.</value>
+  <data name="valDates.Text" xml:space="preserve">
+    <value>Vervaldatum moet groter zijn dan Ingangsdatum.</value>
   </data>
-  <data name="valEffectiveDate.Text">
-    <value xml:space="preserve">Ongeldige ingangsdatum</value>
+  <data name="valEffectiveDate.Text" xml:space="preserve">
+    <value>Ongeldige ingangsdatum</value>
   </data>
-  <data name="valExpiryDate.Text">
-    <value xml:space="preserve">Ongeldige vervaldatum</value>
+  <data name="valExpiryDate.Text" xml:space="preserve">
+    <value>Ongeldige vervaldatum</value>
   </data>
 </root>

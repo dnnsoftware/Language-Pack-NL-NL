@@ -9,6 +9,7 @@
 !.github/*
 !.gitattributes
 !.gitignore
+!.editorconfig
 !readme.md
 !.gitkeep
 !*/
@@ -19,5 +20,11 @@
 # And certainly not the translated resx files, but not the created artifacts
 !*[a-zA-Z].nl-NL.resx
 
-# Don't forget  the language pack manifest
-!resources\DNNCE_nl-NL.dnn
+# Don't forget  the language pack manifest and elements
+!Resources/DNNCE_nl-NL.dnn
+
+# Don't forget the release notes
+!Resources/ReleaseNotes.txt
+
+# Don't forget the license`
+!Resources/license.txt

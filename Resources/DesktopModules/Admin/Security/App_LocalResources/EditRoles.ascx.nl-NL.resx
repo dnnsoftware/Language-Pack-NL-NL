@@ -12,157 +12,157 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AdvancedSettings.Text">
-    <value xml:space="preserve">Geavanceerde instellingen</value>
+  <data name="AdvancedSettings.Text" xml:space="preserve">
+    <value>Geavanceerde instellingen</value>
   </data>
-  <data name="AdvancedSettingsHelp.Text" lastModified="2020-05-17 17:46:49">
-    <value xml:space="preserve">In deze sectie kun je geavanceerde instellingen voor deze rol doen.</value>
+  <data name="AdvancedSettingsHelp.Text" xml:space="preserve">
+    <value>In deze sectie kun je geavanceerde instellingen voor deze rol doen.</value>
   </data>
-  <data name="AssignToExistUsers.Help">
-    <value xml:space="preserve">Koppel deze rol aan alle bestaande gebruikers.</value>
+  <data name="AssignToExistUsers.Help" xml:space="preserve">
+    <value>Koppel deze rol aan alle bestaande gebruikers.</value>
   </data>
-  <data name="AssignToExistUsers.Text">
-    <value xml:space="preserve">Koppel aan alle bestaande gebruikers:</value>
+  <data name="AssignToExistUsers.Text" xml:space="preserve">
+    <value>Koppel aan alle bestaande gebruikers:</value>
   </data>
-  <data name="AutoAssignment.Help" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">Wordt deze rol automatisch toegekend aan gebruikers</value>
+  <data name="AutoAssignment.Help" xml:space="preserve">
+    <value>Wordt deze rol automatisch toegekend aan gebruikers</value>
   </data>
-  <data name="AutoAssignment.Text" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">Automatische toekenning</value>
+  <data name="AutoAssignment.Text" xml:space="preserve">
+    <value>Automatische toekenning</value>
   </data>
-  <data name="BasicSettings.Text">
-    <value xml:space="preserve">Basis Instellingen</value>
+  <data name="BasicSettings.Text" xml:space="preserve">
+    <value>Basis Instellingen</value>
   </data>
-  <data name="BasicSettingsDescription.Text" lastModified="2020-05-17 17:46:49">
-    <value xml:space="preserve">In deze sectie kun je de basis instellingen voor deze rol doen.</value>
+  <data name="BasicSettingsDescription.Text" xml:space="preserve">
+    <value>In deze sectie kun je de basis instellingen voor deze rol doen.</value>
   </data>
-  <data name="BillingPeriod.Help">
-    <value xml:space="preserve">Deze twee velden worden samen gebruikt om een periode voor de facturering in te vullen. Bijvoorbeeld 2 weken of 1 maand</value>
+  <data name="BillingPeriod.Help" xml:space="preserve">
+    <value>Deze twee velden worden samen gebruikt om een periode voor de facturering in te vullen. Bijvoorbeeld 2 weken of 1 maand</value>
   </data>
-  <data name="BillingPeriod.Text">
-    <value xml:space="preserve">Periode Facturering (elke)</value>
+  <data name="BillingPeriod.Text" xml:space="preserve">
+    <value>Periode Facturering (elke)</value>
   </data>
-  <data name="cmdManage.Text">
-    <value xml:space="preserve">Beheer gebruikers die deze rol hebben</value>
+  <data name="cmdManage.Text" xml:space="preserve">
+    <value>Beheer gebruikers die deze rol hebben</value>
   </data>
-  <data name="ControlTitle_edit.Text">
-    <value xml:space="preserve">Bewerk toegangsrollen</value>
+  <data name="ControlTitle_edit.Text" xml:space="preserve">
+    <value>Bewerk toegangsrollen</value>
   </data>
-  <data name="Description.Help" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">Geef een omschrijving van de rol.</value>
+  <data name="Description.Help" xml:space="preserve">
+    <value>Geef een omschrijving van de rol.</value>
   </data>
-  <data name="Description.Text" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">Omschrijving:</value>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Omschrijving:</value>
   </data>
-  <data name="DuplicateRole.Text" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">Er bestaat al een rol met dezelfde naam. De nieuwe rol is niet toegevoegd.</value>
+  <data name="DuplicateRole.Text" xml:space="preserve">
+    <value>Er bestaat al een rol met dezelfde naam. De nieuwe rol is niet toegevoegd.</value>
   </data>
-  <data name="IncompatibleFee.Text" lastModified="2020-05-17 17:46:49">
-    <value xml:space="preserve">Je moet een facturering frequentie selecteren als je een vergoeding voor deze rol wil invoeren.</value>
+  <data name="IncompatibleFee.Text" xml:space="preserve">
+    <value>Je moet een facturering frequentie selecteren als je een vergoeding voor deze rol wil invoeren.</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;Over toegangsrollen&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunnen beheerders de toegangsrollen van hun website beheren. Er kunnen nieuwe rollen worden aangemaakt, bestaande rollen kunnen worden gewijzigd, rollen kunnen worden verwijderd, en de toewijzing van rollen aan gebruikers kan worden beheerd.&lt;/p&gt;</value>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;Over toegangsrollen&lt;/h1&gt;&lt;p&gt;Met behulp van deze module kunnen sitebeheerders de toegangsrollen van hun website beheren. Er kunnen nieuwe rollen worden aangemaakt, bestaande rollen kunnen worden gewijzigd, rollen kunnen worden verwijderd, en de toewijzing van rollen aan gebruikers kan worden beheerd.&lt;/p&gt;</value>
   </data>
-  <data name="plIcon.Help">
-    <value xml:space="preserve">Select een afbeelding voor deze rol.</value>
+  <data name="plIcon.Help" xml:space="preserve">
+    <value>Select een afbeelding voor deze rol.</value>
   </data>
-  <data name="plIcon.Text">
-    <value xml:space="preserve">Afbeelding:</value>
+  <data name="plIcon.Text" xml:space="preserve">
+    <value>Afbeelding:</value>
   </data>
-  <data name="plRoleGroups.Help">
-    <value xml:space="preserve">Kies de rolgroep waartoe deze rol behoort.</value>
+  <data name="plRoleGroups.Help" xml:space="preserve">
+    <value>Kies de rolgroep waartoe deze rol behoort.</value>
   </data>
-  <data name="plRoleGroups.Text" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">Rolgroep:</value>
+  <data name="plRoleGroups.Text" xml:space="preserve">
+    <value>Rolgroep:</value>
   </data>
-  <data name="plRSVPCode.Help" lastModified="2020-05-17 17:46:49">
-    <value xml:space="preserve">Geef een RSVP-code op voor deze rol. Deze code kan gebruikt worden om gebruikers snel te laten inschrijven voor één of meerdere rollen.</value>
+  <data name="plRSVPCode.Help" xml:space="preserve">
+    <value>Geef een RSVP-code op voor deze rol. Deze code kan gebruikt worden om gebruikers snel te laten inschrijven voor één of meerdere rollen.</value>
   </data>
-  <data name="plRSVPCode.Text">
-    <value xml:space="preserve">RSVP Code:</value>
+  <data name="plRSVPCode.Text" xml:space="preserve">
+    <value>RSVP Code:</value>
   </data>
-  <data name="plRSVPLink.Help" lastModified="2020-05-17 17:46:49">
-    <value xml:space="preserve">Als er een RSVP code opgegeven is, dan kun je de volgende URL gebruiken om aanmelding te vereenvoudigen</value>
+  <data name="plRSVPLink.Help" xml:space="preserve">
+    <value>Als er een RSVP code opgegeven is, dan kun je de volgende URL gebruiken om aanmelding te vereenvoudigen</value>
   </data>
-  <data name="plRSVPLink.Text">
-    <value xml:space="preserve">RSVP Link:</value>
+  <data name="plRSVPLink.Text" xml:space="preserve">
+    <value>RSVP Link:</value>
   </data>
-  <data name="ProcessorWarning.Text" lastModified="2020-05-17 17:46:49">
-    <value xml:space="preserve">&lt;b&gt;Waarschuwing:&lt;/b&gt; Je moet eerst de betalingsverwerker onder "Website instellingen" instellen alvorens je gebruikers betaalde diensten kunt aanbieden.</value>
+  <data name="ProcessorWarning.Text" xml:space="preserve">
+    <value>&lt;b&gt;Waarschuwing:&lt;/b&gt; Je moet eerst de betalingsverwerker onder "Website instellingen" instellen alvorens je gebruikers betaalde diensten kunt aanbieden.</value>
   </data>
-  <data name="PublicRole.Help" lastModified="2020-05-17 17:46:49">
-    <value xml:space="preserve">Selecteer deze optie als gebruikers zich kunnen abonneren voor deze rol via de beheer services pagina binnen hun account.</value>
+  <data name="PublicRole.Help" xml:space="preserve">
+    <value>Selecteer deze optie als gebruikers zich kunnen abonneren voor deze rol via de beheer services pagina binnen hun account.</value>
   </data>
-  <data name="PublicRole.Text" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">Publieke rol;</value>
+  <data name="PublicRole.Text" xml:space="preserve">
+    <value>Publieke rol;</value>
   </data>
-  <data name="RoleName.Help" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">Geef de naam van de rol.</value>
+  <data name="RoleName.Help" xml:space="preserve">
+    <value>Geef de naam van de rol.</value>
   </data>
-  <data name="RoleName.Text" lastModified="2020-05-17 17:46:49">
-    <value xml:space="preserve">Rolnaam:</value>
+  <data name="RoleName.Text" xml:space="preserve">
+    <value>Rolnaam:</value>
   </data>
-  <data name="securityModeListLabel.Help">
-    <value xml:space="preserve">Kies de beveiligingsmodus voor deze rol/groep.</value>
+  <data name="securityModeListLabel.Help" xml:space="preserve">
+    <value>Kies de beveiligingsmodus voor deze rol/groep.</value>
   </data>
-  <data name="securityModeListLabel.Text">
-    <value xml:space="preserve">Beveiligingsmodus:</value>
+  <data name="securityModeListLabel.Text" xml:space="preserve">
+    <value>Beveiligingsmodus:</value>
   </data>
-  <data name="ServiceFee.Help">
-    <value xml:space="preserve">Geef het probeer tarief dat doorberekend wordt aan gebruikers die deze rol hebben.</value>
+  <data name="ServiceFee.Help" xml:space="preserve">
+    <value>Geef het probeer tarief dat doorberekend wordt aan gebruikers die deze rol hebben.</value>
   </data>
-  <data name="ServiceFee.Text">
-    <value xml:space="preserve">Service tarief</value>
+  <data name="ServiceFee.Text" xml:space="preserve">
+    <value>Service tarief</value>
   </data>
-  <data name="statusListLabel.Help" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">Selecteer de status voor deze rol/groep.</value>
+  <data name="statusListLabel.Help" xml:space="preserve">
+    <value>Selecteer de status voor deze rol/groep.</value>
   </data>
-  <data name="statusListLabel.Text">
-    <value xml:space="preserve">Status:</value>
+  <data name="statusListLabel.Text" xml:space="preserve">
+    <value>Status:</value>
   </data>
-  <data name="SystemRoleWarning.Text">
-    <value xml:space="preserve">Dit is een systeem rol, alleen minimale aanpassingen toegestaan.</value>
+  <data name="SystemRoleWarning.Text" xml:space="preserve">
+    <value>Dit is een systeem rol, alleen minimale aanpassingen toegestaan.</value>
   </data>
-  <data name="TrialFee.Help">
-    <value xml:space="preserve">Geef het probeer tarief dat doorberekend wordt aan gebruikers die deze rol hebben.</value>
+  <data name="TrialFee.Help" xml:space="preserve">
+    <value>Geef het probeer tarief dat doorberekend wordt aan gebruikers die deze rol hebben.</value>
   </data>
-  <data name="TrialFee.Text">
-    <value xml:space="preserve">Probeer tarief</value>
+  <data name="TrialFee.Text" xml:space="preserve">
+    <value>Probeer tarief</value>
   </data>
-  <data name="TrialPeriod.Help">
-    <value xml:space="preserve">Deze twee velden worden samen gebruikt om een probeer periode in te vullen. Bijvoorbeeld 2 weken of 1 maand</value>
+  <data name="TrialPeriod.Help" xml:space="preserve">
+    <value>Deze twee velden worden samen gebruikt om een probeer periode in te vullen. Bijvoorbeeld 2 weken of 1 maand</value>
   </data>
-  <data name="TrialPeriod.Text">
-    <value xml:space="preserve">Periode Facturering (elke)</value>
+  <data name="TrialPeriod.Text" xml:space="preserve">
+    <value>Periode Facturering (elke)</value>
   </data>
-  <data name="valBillingPeriod1.Text" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">&lt;br /&gt;Facturatieperiode is niet geldig.</value>
+  <data name="valBillingPeriod1.Text" xml:space="preserve">
+    <value>&lt;br /&gt;Facturatieperiode is niet geldig.</value>
   </data>
-  <data name="valBillingPeriod2.Text" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">&lt;br /&gt;Facturatieperiode moet groter zijn dan 0.</value>
+  <data name="valBillingPeriod2.Text" xml:space="preserve">
+    <value>&lt;br /&gt;Facturatieperiode moet groter zijn dan 0.</value>
   </data>
-  <data name="valRoleName.Text" lastModified="2020-05-17 17:46:49">
-    <value xml:space="preserve">&lt;br /&gt;Je moet een geldige naam invullen.</value>
+  <data name="valRoleName.Text" xml:space="preserve">
+    <value>&lt;br /&gt;Je moet een geldige naam invullen.</value>
   </data>
-  <data name="valRoleName2.Text">
-    <value xml:space="preserve">&lt;br /&gt;De naam is ongeldig - rollen kunnen alleen de volgende tekens bevatten: &amp; $ + , / ? ~ # &lt; &gt; ¿ ¡ « » !  . :  * ' [ ]</value>
+  <data name="valRoleName2.Text" xml:space="preserve">
+    <value>&lt;br /&gt;De naam is ongeldig - rollen kunnen alleen de volgende tekens bevatten: &amp; $ + , / ? ~ # &lt; &gt; ¿ ¡ « » !  . :  * ' [ ]</value>
   </data>
-  <data name="valServiceFee1.Text" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">&lt;br /&gt;Servicekosten.</value>
+  <data name="valServiceFee1.Text" xml:space="preserve">
+    <value>&lt;br /&gt;Servicekosten.</value>
   </data>
-  <data name="valServiceFee2.Text" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">&lt;br /&gt;Servicekosten moeten groter dan of gelijk aan 0 zijn.</value>
+  <data name="valServiceFee2.Text" xml:space="preserve">
+    <value>&lt;br /&gt;Servicekosten moeten groter dan of gelijk aan 0 zijn.</value>
   </data>
-  <data name="valTrialFee1.Text" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">&lt;br /&gt;Probeervergoeding is niet geldig.</value>
+  <data name="valTrialFee1.Text" xml:space="preserve">
+    <value>&lt;br /&gt;Probeervergoeding is niet geldig.</value>
   </data>
-  <data name="valTrialFee2.Text" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">&lt;br /&gt;Probeervergoeding moeten groter dan of gelijk aan 0 zijn.</value>
+  <data name="valTrialFee2.Text" xml:space="preserve">
+    <value>&lt;br /&gt;Probeervergoeding moeten groter dan of gelijk aan 0 zijn.</value>
   </data>
-  <data name="valTrialPeriod1.Text" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">&lt;br /&gt;Probeerperiode is niet geldig.</value>
+  <data name="valTrialPeriod1.Text" xml:space="preserve">
+    <value>&lt;br /&gt;Probeerperiode is niet geldig.</value>
   </data>
-  <data name="valTrialPeriod2.Text" lastModified="2015-12-31 09:26:49">
-    <value xml:space="preserve">&lt;br /&gt;Probeerperiode moet groter zijn dan 0.</value>
+  <data name="valTrialPeriod2.Text" xml:space="preserve">
+    <value>&lt;br /&gt;Probeerperiode moet groter zijn dan 0.</value>
   </data>
 </root>

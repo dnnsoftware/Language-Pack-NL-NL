@@ -1,0 +1,6 @@
+Licensed to the .NET Foundation under one or more agreements.<br />
+<br />
+The .NET Foundation licenses this file to you under the MIT license.<br />
+<br />
+See the <a href="https://github.com/dnnsoftware/Dnn.Platform/blob/develop/LICENSE" target="_blank">LICENSE file in the project root</a> for more information.<br />
+<br />

@@ -12,37 +12,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AboutMe.Text">
-    <value xml:space="preserve">Over mij</value>
+  <data name="AboutMe.Text" xml:space="preserve">
+    <value>Over mij</value>
   </data>
-  <data name="ControlTitle_viewprofile.Text">
-    <value xml:space="preserve">Bekijk profiel</value>
+  <data name="ControlTitle_viewprofile.Text" xml:space="preserve">
+    <value>Bekijk profiel</value>
   </data>
-  <data name="Edit.Text">
-    <value xml:space="preserve">Wijzig profiel</value>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Wijzig profiel</value>
   </data>
-  <data name="Email.Text">
-    <value xml:space="preserve">E-mail</value>
+  <data name="Email.Text" xml:space="preserve">
+    <value>E-mail</value>
   </data>
-  <data name="EmptyAboutMe.Text" lastModified="2020-05-17 18:18:23">
-    <value xml:space="preserve">Er is geen biografie informatie van deze gebruiker </value>
+  <data name="EmptyAboutMe.Text" xml:space="preserve">
+    <value>Er is geen biografie informatie van deze gebruiker </value>
   </data>
-  <data name="EmptyGetInTouch.Text">
-    <value xml:space="preserve">Er is geen contact informatie van deze gebruiker</value>
+  <data name="EmptyGetInTouch.Text" xml:space="preserve">
+    <value>Er is geen contact informatie van deze gebruiker</value>
   </data>
-  <data name="EmptyLocation.Text">
-    <value xml:space="preserve">Er is geen informatie over de locatie voor deze gebruiker</value>
+  <data name="EmptyLocation.Text" xml:space="preserve">
+    <value>Er is geen informatie over de locatie voor deze gebruiker</value>
   </data>
-  <data name="GetInTouch.Text">
-    <value xml:space="preserve">Manieren om met mij in contact te komen</value>
+  <data name="GetInTouch.Text" xml:space="preserve">
+    <value>Manieren om met mij in contact te komen</value>
   </data>
-  <data name="Location.Text">
-    <value xml:space="preserve">Locatie</value>
+  <data name="Location.Text" xml:space="preserve">
+    <value>Locatie</value>
   </data>
-  <data name="MyAccount.Text">
-    <value xml:space="preserve">Mijn account</value>
+  <data name="MyAccount.Text" xml:space="preserve">
+    <value>Mijn account</value>
   </data>
-  <data name="NoProperties.Text">
-    <value xml:space="preserve">De gebruiker heeft gekozen om zijn/haar profiel te verbergen.</value>
+  <data name="NoProperties.Text" xml:space="preserve">
+    <value>De gebruiker heeft gekozen om zijn/haar profiel te verbergen.</value>
   </data>
 </root>
