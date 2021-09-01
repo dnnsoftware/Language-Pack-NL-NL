@@ -51,8 +51,8 @@
   <data name="DeleteFileDialogMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
     <value>Weet je zeker dat het bestand verwijderd kan worden?</value>
   </data>
-  <data name="DeleteFolderDialogHeader.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
-    <value>BEvestig verwijderen</value>
+  <data name="DeleteFolderDialogHeader.Text" xml:space="preserve" lastModified="2021-09-01 13:14:56">
+    <value>Bevestig verwijderen</value>
   </data>
   <data name="DeleteFolderDialogMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
     <value>Weet je zeker dat de map verwijderd kan worden?</value>
@@ -189,8 +189,8 @@
   <data name="URL.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
     <value>URL</value>
   </data>
-  <data name="UrlCopiedMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
-    <value>URL naar prikbord gekopieerd</value>
+  <data name="UrlCopiedMessage.Text" xml:space="preserve" lastModified="2021-09-01 13:14:56">
+    <value>URL naar klembord gekopieerd</value>
   </data>
   <data name="UserHasNoPermissionToAddFolders.Error" xml:space="preserve" lastModified="2021-09-01 12:59:10">
     <value>De gebruiker heeft geen rechten om mappen toe te voegen.</value>
