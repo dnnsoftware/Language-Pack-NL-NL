@@ -21,8 +21,8 @@
   <data name="lblHomeFolder.Text" xml:space="preserve" lastModified="2021-09-01 11:38:58">
     <value>Home map</value>
   </data>
-  <data name="lblMode.Help" xml:space="preserve" lastModified="2021-09-01 11:38:58">
-    <value>De modus van de module is: normaal, groep of gebruiker. De groepsmodus associeert de module met de groepsmap, de gebruikersmodus associeert  de module met de gebruikersmap.</value>
+  <data name="lblMode.Help" xml:space="preserve" lastModified="2021-09-02 19:10:39">
+    <value>De modus van de module is: normaal, groep of gebruiker. De groepsmodus associeert de module met de groepsmap, de gebruikersmodus associeert de module met de gebruikersmap.</value>
   </data>
   <data name="lblMode.Text" xml:space="preserve" lastModified="2021-09-01 11:38:58">
     <value>Modus</value>

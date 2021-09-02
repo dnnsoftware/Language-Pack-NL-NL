@@ -78,8 +78,8 @@
   <data name="FileUploadPanelMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
     <value>Sleep en laat een bestands los of selecteer een optie</value>
   </data>
-  <data name="FileUploadStoppedMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
-    <value>Upladen bestand gestopt</value>
+  <data name="FileUploadStoppedMessage.Text" xml:space="preserve" lastModified="2021-09-02 19:11:03">
+    <value>Uploaden bestand gestopt</value>
   </data>
   <data name="FolderNamePlaceholder.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
     <value>Geef mapnaam</value>
