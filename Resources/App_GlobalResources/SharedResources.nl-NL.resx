@@ -276,24 +276,6 @@
   <data name="Daily.Text" xml:space="preserve">
     <value>Dagelijks</value>
   </data>
-  <data name="DASHBOARD_KeyMissing.Text" xml:space="preserve">
-    <value>Verplicht sleutelveld (key) ontbreekt in het manifest</value>
-  </data>
-  <data name="DASHBOARD_LocalResourcesMissing.Text" xml:space="preserve">
-    <value>Verplicht veld LocalResources ontbreekt in het manifest</value>
-  </data>
-  <data name="DASHBOARD_ReadSuccess.Text" xml:space="preserve">
-    <value>Dashboard Control Manifest Succesvol Gelezen</value>
-  </data>
-  <data name="DASHBOARD_Registered.Text" xml:space="preserve">
-    <value>Dashboard Control succesvol geregistreerd</value>
-  </data>
-  <data name="DASHBOARD_SrcMissing.Text" xml:space="preserve">
-    <value>Verplicht veld Src ontbreekt in het manifest</value>
-  </data>
-  <data name="DASHBOARD_UnRegistered.Text" xml:space="preserve">
-    <value>Dashboard Control succesvol verwijderd</value>
-  </data>
   <data name="DataType.Text" xml:space="preserve">
     <value>Datatype</value>
   </data>
@@ -800,18 +782,6 @@
   </data>
   <data name="IgnoreFriend.Text" xml:space="preserve">
     <value>Vriendenverzoek negeren</value>
-  </data>
-  <data name="InsecureAdmin.Text" xml:space="preserve">
-    <value>Je sitebeheerdersaccount staat nog steeds ingesteld op het bekende standaard wachtwoord. Ga nu naar Beheer -&gt; Gebruikersaccounts-menu en het wachtwoord. Daarnaast moet je ervoor zorgen dat je het e-mailadres bijwerkt naar een geldige waarde.</value>
-  </data>
-  <data name="InsecureDefaults.Text" xml:space="preserve">
-    <value>Beide standaard accounts, applicatiebeheerder en sitebeheerder (Superuser en admin) gebruiken de bekende standaard wachtwoorden. Ga naar de desbetreffende menu-items (applicatiebeheerder-&gt; applicatiebeheerdersaccount en site-&gt; Gebruikersaccounts) en het actualiseren van de wachtwoorden. Daarnaast moet je ervoor zorgen dat je het e-mailadres bijwerkt.</value>
-  </data>
-  <data name="InsecureDefaults.Title" xml:space="preserve">
-    <value>Onveilige gebruikersgegevens</value>
-  </data>
-  <data name="InsecureHost.Text" xml:space="preserve">
-    <value>Je Applicatiebeheerdersaccount (host, superuser) staat nog steeds ingesteld op het bekende standaard wachtwoord. Ga naar de Applicatiebeheerder-&amp;gt; Applicatiebeheerdersmenu en het wachtwoord.</value>
   </data>
   <data name="InsertSmileyButton.Text" xml:space="preserve">
     <value>Smiley invoegen</value>
@@ -1384,7 +1354,7 @@
     <value>Publiek</value>
   </data>
   <data name="PublicMembership.Text" xml:space="preserve">
-    <value>&lt;strong&gt;* Opmerking: &lt;/strong&gt; Lidmaatschap van deze website is publiek. Nadat je accountinformatie is verzonden, heb je onmiddellijk toegang tot de website.</value>
+    <value>&lt;strong&gt;* Opmerking: &lt;/strong&gt; Lidmaatschap van deze website is publiek. Als je account informatie is verzonden, dan heb je onmiddelijk toegang tot de website.</value>
   </data>
   <data name="PURGE.Log" xml:space="preserve">
     <value>Site logboek is succesvol geleegd</value>
@@ -1637,8 +1607,8 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
   <data name="System_Default.Text" xml:space="preserve">
     <value>Systeemstandaard</value>
   </data>
-  <data name="TabAccess.Error" lastModified="2020-05-15 15:54:23">
-    <value xml:space="preserve">Je hebt geen toegang om deze pagina te bekijken.</value>
+  <data name="TabAccess.Error" xml:space="preserve">
+    <value>Je heeft geen toegang om deze pagina te bekijken.</value>
   </data>
   <data name="TESTCOMPLETE.Log" xml:space="preserve">
     <value>Test uitgevoerd. {0} milliseconden gewacht.</value>

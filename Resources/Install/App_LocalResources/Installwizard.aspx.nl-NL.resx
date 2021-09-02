@@ -87,12 +87,6 @@
   <data name="DatabaseName.Text" xml:space="preserve">
     <value>Database naam</value>
   </data>
-  <data name="DatabaseObjectQualifier.Help" xml:space="preserve">
-    <value>De object qualifier voor uw website.</value>
-  </data>
-  <data name="DatabaseObjectQualifier.Text" xml:space="preserve">
-    <value>Object Qualifier </value>
-  </data>
   <data name="DatabaseOwner.Text" xml:space="preserve" lastModified="2018-07-24 09:44:46">
     <value>Database Eigenaar</value>
   </data>
@@ -222,15 +216,6 @@ Bij gebruik van Windows Explorer, browse naar de folders van uw website ( {0} ).
   <data name="IISVerificationFail.Text" xml:space="preserve">
     <value>AppPool in IIS moet onder Integrated Mode draaien</value>
   </data>
-  <data name="ImprovementProgramExplain.Text" xml:space="preserve">
-    <value>Het product verbeter programma stelt ons in staat om een beter beeld te krijgen hoe we DNN kunnen verbeteren voor jou. De data helpt ons om het gebruik te analyseren en om te zien wat belangrijk is voor de mensen die ons product gebruiken. Alle data is anoniem en alleen voor intern gebruik. Kijk voor meer informatie op &amp;lt;a href="https://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&amp;gt;Product Improvement Program&amp;lt;/a&amp;gt;.</value>
-  </data>
-  <data name="ImprovementProgramLabel.Text" xml:space="preserve">
-    <value>Stuur anonieme gebruikersinformatie naar DNN</value>
-  </data>
-  <data name="ImprovementsProgramTitle.Text" xml:space="preserve">
-    <value>product verbetering programma</value>
-  </data>
   <data name="InitHostSetting.Text" xml:space="preserve">
     <value>Doorvoeren van Host instellingen</value>
   </data>
@@ -287,9 +272,6 @@ Bij gebruik van Windows Explorer, browse naar de folders van uw website ( {0} ).
   </data>
   <data name="IsSqlServerDbo.Text" xml:space="preserve">
     <value>De door u opgegeven database gebruiker heeft geen dbo rechten</value>
-  </data>
-  <data name="IsValidDotNetVersion.Text" xml:space="preserve">
-    <value>DotNetNuke heeft .net 4.0 of hoger nodig om te kunnen werken</value>
   </data>
   <data name="IsValidSqlServerVersion.Text" xml:space="preserve">
     <value>DotNetNuke heeft SQL 2008 (Express of volledig product) nodig om te kunnen werken.</value>
