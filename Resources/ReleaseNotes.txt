@@ -6,6 +6,29 @@ Allereerst bedanken we iedereen in de community voor de Pull Requests die zijn a
 <hr />
 <p>&nbsp;</p>
 <div>
+<h3>Language Pack versie nl-NL 09.10.00</h3>
+<p>
+Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:
+</p> 
+<ul>
+<li style="margin-left:20px;">
+Toevoegen van vertaling van de ResourceManager
+</li>
+<li style="margin-left:20px;">
+Vertaling Google TagManager
+</li>
+<li style="margin-left:20px;">
+Aanvullen van de vertaling van Prompt
+</li>
+<li style="margin-left:20px;">
+Correctie van tikfouten
+</li>
+<li style="margin-left:20px;">
+Verwijderen van niet meer gebruikte tekstelementen
+</li>
+</ul>
+</div>
+<div>
 <h3>Language Pack versie nl-NL 09.07.02</h3>
 <p>
 Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:
