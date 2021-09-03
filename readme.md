@@ -1,6 +1,19 @@
+## Pull Requests
+All pull requests should be merged into the **develop** branch.
+
+## New version release
+When the language pack is ready for a new version:
+
+* Create a branch called release/x.x.x where x.x.x is the version of the release (DNN version)
+* Wait a few minutes and you should see a new commit on that branch that updates the manifest automatically with the version taken from that branch.
+* When that commit is in, create a pull request from release/x.x.x that targets master, this will automate the packaging and publish the release.
+* Optionally another pull request can be created from release/x.x.x targetting develop in order to also update the latest published version on the develop branch
+
+
 # DNN Language Pack for (nl-NL)
 
 Versions available:
+* DNN 09.10.00
 * DNN 09.07.02
 * DNN 09.07.00
 * DNN 09.06.02

@@ -12,16 +12,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ModuleTitle.Text">
-    <value xml:space="preserve">Apparaatherkenning</value>
+  <data name="EditModule.Text" xml:space="preserve" lastModified="2021-09-01 11:36:57">
+    <value>Wijzig module</value>
   </data>
-  <data name="PageDescription.Text">
-    <value xml:space="preserve">Herkenning mobiele apparaten en doorstuurdiensten</value>
+  <data name="GroupModeError.Text" xml:space="preserve" lastModified="2021-09-01 11:36:57">
+    <value>De module is in groepsmodus, maar de pagina niet.</value>
   </data>
-  <data name="PageName.Text">
-    <value xml:space="preserve">Beheer apparaatherkenning</value>
-  </data>
-  <data name="SuccessMessage.Text">
-    <value xml:space="preserve">Bijwerken apparaat data succesvol</value>
+  <data name="UserModeError.Text" xml:space="preserve" lastModified="2021-09-02 19:10:19">
+    <value>De module is in gebruikersmodus, maar de gebruiker is niet ingelogd</value>
   </data>
 </root>

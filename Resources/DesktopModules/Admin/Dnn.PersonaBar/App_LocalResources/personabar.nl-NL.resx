@@ -18,9 +18,6 @@
   <data name="btn_LoadMore.Text" xml:space="preserve">
     <value>Laad meer</value>
   </data>
-  <data name="CriticalUpdate.Text" xml:space="preserve">
-    <value>[ Kritieke update ]</value>
-  </data>
   <data name="Documentation.Text" xml:space="preserve">
     <value>Documentatie</value>
   </data>
