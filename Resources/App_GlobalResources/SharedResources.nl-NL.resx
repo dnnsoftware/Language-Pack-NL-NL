@@ -1353,8 +1353,8 @@
   <data name="Public.Text" xml:space="preserve">
     <value>Publiek</value>
   </data>
-  <data name="PublicMembership.Text" xml:space="preserve">
-    <value>&lt;strong&gt;* Opmerking: &lt;/strong&gt; Lidmaatschap van deze website is publiek. Als je account informatie is verzonden, dan heb je onmiddelijk toegang tot de website.</value>
+  <data name="PublicMembership.Text" xml:space="preserve" lastModified="2021-09-03 08:59:33">
+    <value>&lt;strong&gt;* Opmerking: &lt;/strong&gt; Het lidmaatschap van deze website is publiek. Als je accountinformatie is verzonden, dan heb je onmiddelijk toegang tot de website.</value>
   </data>
   <data name="PURGE.Log" xml:space="preserve">
     <value>Site logboek is succesvol geleegd</value>
@@ -1607,8 +1607,8 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
   <data name="System_Default.Text" xml:space="preserve">
     <value>Systeemstandaard</value>
   </data>
-  <data name="TabAccess.Error" xml:space="preserve">
-    <value>Je heeft geen toegang om deze pagina te bekijken.</value>
+  <data name="TabAccess.Error" xml:space="preserve" lastModified="2021-09-03 08:59:33">
+    <value>Je hebt geen rechten om deze pagina te bekijken.</value>
   </data>
   <data name="TESTCOMPLETE.Log" xml:space="preserve">
     <value>Test uitgevoerd. {0} milliseconden gewacht.</value>
