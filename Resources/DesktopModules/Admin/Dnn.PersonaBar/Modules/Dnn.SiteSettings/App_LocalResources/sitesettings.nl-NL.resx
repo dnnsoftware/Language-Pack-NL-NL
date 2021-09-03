@@ -738,12 +738,6 @@
   <data name="plIconSet.Text" xml:space="preserve">
     <value>Icoonset</value>
   </data>
-  <data name="plImprovementProgram.Help" xml:space="preserve">
-    <value>Vink dit vakje aan om deel te nemen aan het DNN Improvement Programma. Zie: https://www.dnnsoftware.com/dnn-improvement-program</value>
-  </data>
-  <data name="plImprovementProgram.Text" xml:space="preserve">
-    <value>Deelnemen aan DNN Improvement Programma</value>
-  </data>
   <data name="plIncludeAttachments.Help" xml:space="preserve">
     <value>Kies of bijlagen moeten worden ingesloten bij uitgaande e-mail. </value>
   </data>
