@@ -70,7 +70,7 @@
     <value>Nieuwe afbeelding aanmaken</value>
   </data>
   <data name="cmdDelete.Help" xml:space="preserve">
-    <value>Verwijder het geselecteerd bestand.</value>
+    <value>Verwijder het geselecteerde bestand.</value>
   </data>
   <data name="cmdDelete.Text" xml:space="preserve">
     <value>Verwijder bestand</value>
@@ -118,10 +118,10 @@
     <value>Aangemaakt</value>
   </data>
   <data name="DetailView.Text" xml:space="preserve">
-    <value>Detail weergave</value>
+    <value>Details weergave</value>
   </data>
   <data name="DetailViewTitle.Text" xml:space="preserve">
-    <value>Geeft ieder bestand weer met een groot afbeeldings voorbeeld, bestandsnaam en bestandsinformatie.</value>
+    <value>Geeft ieder bestand weer met een groot afbeeldingsvoorbeeld, bestandsnaam en bestandsinformatie.</value>
   </data>
   <data name="DropHere.Text" xml:space="preserve">
     <value>Plaats bestand(en) hier</value>
@@ -148,7 +148,7 @@
     <value>Bestandslink</value>
   </data>
   <data name="FileSizeRestriction.Text" xml:space="preserve">
-    <value>Het upload limiet voor bestanden is {0} MB. &lt;br/&gt; De toegestane bestandstypes zijn: "{1}"</value>
+    <value>De uploadlimiet voor bestanden is {0} MB. &lt;br/&gt; De toegestane bestandstypes zijn: "{1}"</value>
   </data>
   <data name="FileToBig.Text" xml:space="preserve">
     <value>Bestand te groot om te uploaden.</value>
@@ -208,7 +208,7 @@
     <value>Afbeeldingskwaliteit (Compressie):</value>
   </data>
   <data name="lblNewFoldName.Text" xml:space="preserve">
-    <value>Nieuw mapnaam:</value>
+    <value>Nieuwe mapnaam:</value>
   </data>
   <data name="lblOriginal.Text" xml:space="preserve">
     <value>Origineel:</value>

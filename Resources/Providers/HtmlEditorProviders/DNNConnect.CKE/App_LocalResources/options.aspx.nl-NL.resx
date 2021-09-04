@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="$this.DefaultModifiers" xml:space="preserve">
-    <value>Private</value>
+    <value>Privé</value>
   </data>
   <data name="$this.TrayAutoArrange" xml:space="preserve">
     <value>True</value>
@@ -25,7 +25,7 @@
     <value>Voeg een regeleinde in</value>
   </data>
   <data name="AddRowBreakTitle.Text" xml:space="preserve">
-    <value>Voeg Nieuw regeleinde toe aan de knoppenbalk</value>
+    <value>Voeg nieuw regeleinde toe aan de knoppenbalk</value>
   </data>
   <data name="AddToolbar.Text" xml:space="preserve">
     <value>Voeg een nieuwe knoppenbalkreeks toe</value>
@@ -79,7 +79,7 @@
     <value>Relatieve beveiligde URL</value>
   </data>
   <data name="DefaultLinkMode3.Text" xml:space="preserve">
-    <value>Absolute Beveiligde URL</value>
+    <value>Absolute beveiligde URL</value>
   </data>
   <data name="DefaultLinkModeLabel.Text" xml:space="preserve">
     <value>Standaard Link Modus:</value>
@@ -142,7 +142,7 @@
     <value>Automatisch miniatuurafbeelding maken voor het voorbeeld:</value>
   </data>
   <data name="lblBlanktext.Text" xml:space="preserve">
-    <value>Blanco Tekst:</value>
+    <value>Blanco tekst:</value>
   </data>
   <data name="lblBrowAllow.Text" xml:space="preserve">
     <value>Toegestane Rollen:</value>
@@ -292,7 +292,7 @@
     <value>Module</value>
   </data>
   <data name="ModuleNoSettingLabel.Text" xml:space="preserve">
-    <value>Bevat geen modulemnstellingen</value>
+    <value>Bevat geen module instellingen</value>
   </data>
   <data name="NewGroupName.Text" xml:space="preserve">
     <value>Nieuwe Groep</value>
@@ -337,16 +337,16 @@
     <value>Laat de onstellingen alleen zien voor deze site of voor alle sites?</value>
   </data>
   <data name="Remove.Help" xml:space="preserve">
-    <value>Verwijderd alleen de Instellingen voor de huidige {0}. </value>
+    <value>Verwijdert alleen de Instellingen voor de huidige {0}. </value>
   </data>
   <data name="Remove.Text" xml:space="preserve">
     <value>Verwijder {0} Instellingen</value>
   </data>
   <data name="RemoveAll.Help" xml:space="preserve">
-    <value>Verwijderd de {0} instellingen voor alle sites.</value>
+    <value>Verwijdert de {0} instellingen voor alle sites.</value>
   </data>
   <data name="RemoveAll.Text" xml:space="preserve">
-    <value>Verwijderd alle {0} instellingen</value>
+    <value>Verwijdert alle {0} instellingen</value>
   </data>
   <data name="RemoveModuleChild.Help" xml:space="preserve">
     <value>Verwijder Instellingen van alle Modules op de Huidige Pagina</value>
