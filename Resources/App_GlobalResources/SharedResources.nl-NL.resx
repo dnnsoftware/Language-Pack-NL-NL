@@ -480,6 +480,9 @@
   <data name="EndZip.Text" xml:space="preserve">
     <value>Einde verwerken ZIP bestand</value>
   </data>
+  <data name="ErrorDecryptingSetting.Text" xml:space="preserve" lastModified="2021-09-04 19:44:35">
+    <value>Kan parameter {0} niet decoderen</value>
+  </data>
   <data name="ErrorOccurred.Text" xml:space="preserve">
     <value>Er is een fout opgetreden.</value>
   </data>
@@ -1567,6 +1570,12 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
   </data>
   <data name="SQL_Executing.Text" xml:space="preserve">
     <value>Uitvoeren</value>
+  </data>
+  <data name="SQL_Manifest_BadFile.Text" xml:space="preserve" lastModified="2021-09-04 19:44:35">
+    <value>Er is een fout in het manifest met bestand {0}</value>
+  </data>
+  <data name="SQL_Manifest_Error.Text" xml:space="preserve" lastModified="2021-09-04 19:44:35">
+    <value>Er is een fout in het manifest met de scripts</value>
   </data>
   <data name="SQL_RolledBack.Text" xml:space="preserve">
     <value>Wijzigingen aangebracht door het SQL-script worden ongedaan gemaakt</value>

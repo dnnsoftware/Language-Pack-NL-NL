@@ -54,6 +54,10 @@
   <data name="Prompt_AddModule_FlagPane.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Specifieer het deelvenster waar de mdule moet worden neergezet. ALs dit niet wordt opgegeven, dan wordt de ContentPane gebruikt</value>
   </data>
+  <data name="Prompt_AddModule_ResultHtml.Text" xml:space="preserve" lastModified="2021-09-04 19:41:04">
+    <value>&lt;h4&gt;Voeg een module toe aan een pagina&lt;/h4&gt;
+    &lt;code class="block"&gt;add-module --name "Html" --pageid 23 --pane TopPane&lt;/code&gt;</value>
+  </data>
   <data name="Prompt_AddModuleError.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
     <value>Er trad een fout op tijdens het toevoegen van de module. Kijk naar de DNN gebeurtenislog voor details.</value>
   </data>
@@ -81,6 +85,168 @@
   <data name="Prompt_Cls_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
     <value>Maakt de Prompt console leeg. &lt;code&gt;cls&lt;/code&gt; is een verkorte keuze voor &lt;a href="#clear-screen" class="dnn-prompt-cmd-insert"&gt;&lt;code&gt;clear-screen&lt;/code&gt;&lt;/a&gt;</value>
   </data>
+  <data name="Prompt_CommandHelpLearn.Text" xml:space="preserve" lastModified="2021-09-04 19:39:06">
+    <value>&lt;section class="dnn-prompt-inline-help"&gt;
+
+  &lt;h3&gt;Prompt Commando's&lt;/h3&gt;
+  &lt;p&gt;
+Zoals met de meeste
+    Zoals bij de meeste opdrachtregelinterfaces, hoe meer opdrachten u onthoudt, hoe efficiënter u kunt zijn. Inzicht in de redenering achter &lt;em&gt;hoe&lt;/em dan ook Prompt-opdrachten worden benoemd en gestructureerd, waardoor het veel gemakkelijker wordt om ze te leren en te internaliseren.
+  &lt;/p&gt;
+  &lt;ol&gt;
+    &lt;li&gt;
+      &lt;strong&gt;Prompt is Case-Insensitive&lt;/strong&gt;. Dat betekent dat u opdrachtnamen voor kleine letters, hoofdletters of gemengde hoofdletters en opties kunt gebruiken. Dit is typisch voor de meeste opdrachtregels en we merken dat het het gemakkelijker maakt om dagelijks te gebruiken.    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;strong&gt;Opdrachten zijn 1 woord of 2 woorden gescheiden door een enkel streepje (-) en geen spaties&lt;/strong&gt;.
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;strong&gt;One-Word Commands:&lt;/strong&gt; Deze zijn over het algemeen gereserveerd voor opdrachten die communiceren met de promptconsole zelf of de browser. Met andere woorden, de meeste van deze opdrachten vinden plaats in de browser. Enkele voorbeelden zijn: &lt;code&gt;cls&lt;/code&gt; die het consolescherm wist en &lt;code&gt;reload&lt;/code&gt; die de browser vertelt om de pagina opnieuw te laden. Er zijn ook opdrachten van twee woorden die aan de kant van de klant, zoals &lt;code&gt;clear-history&lt;/code&gt; (hoewel er een snelkoppeling is voor clear-history: &lt;code&gt;clh&lt;/code&gt;&lt;/li&gt;
+    &lt;li&gt;
+      &lt;strong&gt;Two-Word Commands:&lt;/strong&gt; Deze opdrachten volgen de indeling &lt;code&gt;action-component&lt;/code&gt;&amp;mdash;een actie gevolgd door een enkel streepje gevolgd door een component of object waarop de actie werkt.
+    &lt;/li&gt;
+  &lt;/ol&gt;
+
+  &lt;h4&gt;Algemene Acties&lt;/h4&gt;
+  &lt;p&gt;Dit is geen volledige lijst van alle acties, maar omvat de meeste...&lt;/p&gt;
+
+  &lt;table class="table"&gt;
+    &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Actie&lt;/th&gt;
+      &lt;th&gt;BEschrijving&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td class="mono"&gt;list&lt;/td&gt;
+      &lt;td&gt;
+        Hiermee wordt een lijst met objecten opgehaald. De veronderstelling is dat twee of meer objecten worden geretourneerd, zodat het onderdeelgedeelte van de opdracht meervoud is:&lt;br&gt;
+        &lt;code&gt;list-pages&lt;/code&gt; NIET &lt;code&gt;list-page&lt;/code&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class="mono"&gt;get&lt;/td&gt;
+      &lt;td&gt;
+       Hiermee wordt één object opgehaald. Als de opdracht resulteert in meerdere objecten, wordt alleen het gevonden eerste object opgehaald. Aangezien deze opdracht op één item werkt, is de component enkelvoud en niet meervoud:&lt;br&gt;
+        &lt;code&gt;get-page&lt;/code&gt; NOT &lt;code&gt;get-pages&lt;/code&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class="mono"&gt;new&lt;/td&gt;
+      &lt;td&gt;
+        Hiermee maakt u een nieuw object. We kozen het woord &lt;code&gt;new&lt;/code&gt; omdat het minder typen vereist dan 'create' en het nauwkeuriger is dan 'add', wat betekent dat je iets aan iets anders toevoegt.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class="mono"&gt;add&lt;/td&gt;
+      &lt;td&gt;
+        Voegt iets toe aan iets anders. Dit moet niet worden verward met&lt;code&gt;new&lt;/code&gt; dat &lt;em&gt;maakt&lt;/em&gt; een nieuw object. Vergelijk &lt;code&gt;add-roles&lt;/code&gt; en &lt;code&gt;new-role&lt;/code&gt;. De eerste is gebruikt om een of meer rollen (&lt;em&gt;add&lt;/em&gt;) aan de gebruiker toe te kennen (d.w.z. een rol toevoegen aan de lijst met rollen die de gebruiker al heeft), terwijl de laatste opdracht een nieuwe beveiligingsrol in het DNN creëert.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class="mono"&gt;set&lt;/td&gt;
+      &lt;td&gt;
+        Hiermee wijzigt u een object. Dit kan 'bijwerken' betekenen of (voor het eerst) een waarde instellen. We kozen voor het woord 'set' niet alleen omdat het kort en gemakkelijk te typen is, maar ook omdat het nauwkeuriger is in meer scenario's. 'Update' houdt in dat u een waarde wijzigt die al is ingesteld, maar minder nauwkeurig is als u voor het eerst een waarde instelt. En hadden we al gezegd dat 'set' de helft van de lengte van 'update' is??
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class="mono"&gt;delete&lt;/td&gt;
+      &lt;td&gt;
+        Deletes an object. The results of this action are contextually dependent. If DNN provides a recycle bin facility like it does for pages and users, then the command will send the object to that recycle bin, allowing it to be restored later. If there is no such facility provided, then the object would be permanently deleted.Hiermee verwijdert u een object. De resultaten van deze actie zijn contextueel afhankelijk. Als DNN een prullenbakfaciliteit biedt zoals voor pagina's en gebruikers, stuurt de opdracht het object naar die prullenbak, zodat het later kan worden hersteld. Als er geen dergelijke faciliteit is, wordt het object permanent verwijderd.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class="mono"&gt;restore&lt;/td&gt;
+      &lt;td&gt;
+        Als een object eerder is verwijderd en DNN een recyclefaciliteit voor het object biedt, wordt het object hersteld.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class="mono"&gt;purge&lt;/td&gt;
+      &lt;td&gt;
+        Als het object eerder is verwijderd en DNN een recyclefaciliteit voor het object biedt, wordt het object met deze opdracht permanent verwijderd. De DNN-gebruikersinterface verwijst hier meestal naar als 'remove', maar we vonden dat 'purge' de actie nauwkeuriger weerspiegelde.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+
+  &lt;h4&gt;Algemene componenten&lt;/h4&gt;
+  &lt;p&gt;De meeste onderdelen moeten bekend zijn bij elke gebruiker met beheerderservaring met DNN. Hieronder staan de meest voorkomende:&lt;/p&gt;
+  &lt;p&gt;Een opmerking over meervoud versus enkelvoudscomponenten: Wanneer een opdracht 1 of meer items kan, is de component meervoud. &lt;code&gt;list-modules&lt;/code&gt;, bijvoorbeeld.Wanneer de opdracht is ontworpen om één object of het eerste object te retourneren, is de component enkelvoud zoals in&lt;code&gt;get-module&lt;/code&gt;&lt;/p&gt;
+
+  &lt;table class="table"&gt;
+    &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Component&lt;/th&gt;
+      &lt;th&gt;Beschrijving&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td class="mono"&gt;user/users&lt;/td&gt;
+      &lt;td&gt;
+        Een DNN gebruiker.
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class="mono"&gt;page/pages&lt;/td&gt;
+      &lt;td&gt;Een pagina op de site. OPMERKING: Om historische redenen verwijst DNN naar pagina's &lt;em&gt;internal&lt;/em&gt; als tabbladen, terwijl de DNN-gebruikersinterface ernaar verwijst als pages. We hebben ervoor gekozen om 'page' te gebruiken, maar mogelijk ziet u verwijzingen naar Tab of TabID geretourneerd van paginagerelateerde opdrachten. Voor de doeleinden van Prompt moet u alleen 'page' gebruiken, maar begrijpen dat 'page en 'tabblad' synoniem zijn. &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class="mono"&gt;role/roles&lt;/td&gt;
+      &lt;td&gt;Een DNN Security Rol.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class="mono"&gt;task/tasks&lt;/td&gt;
+      &lt;td&gt;Een taak is een DNN Scheduler Item of Geplande taak. We gebruiken het woord taak vanwege de beknoptheid.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class="mono"&gt;portal/portals&lt;/td&gt;
+      &lt;td&gt;Een DNN site or portal.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class="mono"&gt;module/modules&lt;/td&gt;
+      &lt;td&gt;Een DNN module. Afhankelijk van de opdracht kan dit een moduledefinitie of module-exemplaar zijn.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+
+  &lt;h4&gt;See Also&lt;/h4&gt;
+  &lt;a data-cmd="help syntax" class="dnn-prompt-cmd-insert" href="#"&gt;Basic Syntax&lt;/a&gt;
+  &lt;a data-cmd="help" class="dnn-prompt-cmd-insert" href="#"&gt;Prompt Commands List&lt;/a&gt;
+
+&lt;/section&gt;</value>
+  </data>
+  <data name="Prompt_CommandHelpSyntax.Text" xml:space="preserve" lastModified="2021-09-05 19:25:01">
+    <value>&lt;section class="dnn-prompt-inline-help"&gt;
+  &lt;h3&gt;Basic Syntax&lt;/h3&gt;
+  &lt;p&gt;&lt;em&gt;Prompt&lt;em&gt; werkt op een manier die lijkt op een Terminal, Bash-shell, Windows CMD-shell of Powershell. Je voert een opdracht in en klikt op &lt;code&gt;ENTER&lt;/code&gt; en de computer reageert met een resultaat. Voor zeer eenvoudige opdrachten zoals &lt;code&gt;help&lt;/code&gt; of &lt;code&gt;list-modules&lt;/code&gt; is dat alles wat je nodig hebt. Voor sommige opdrachten zijn echter mogelijk aanvullende gegevens vereist of kun je aanvullende opties bieden.
+  &lt;/p&gt;
+  &lt;p&gt;
+    Een doel of context opgeven voor een opdracht: Voor opdrachten die werken op een object zoals een gebruiker of waarvoor een context zoals een pagina vereist is, geef je die informatie gewoon op na de opdracht. Als je bijvoorbeeld de gebruiker &lt;em&gt;jsmith&lt;/em&gt; wilt vinden met de opdracht &lt;code&gt;get-user&lt;/code&gt;, typ je: &lt;code&gt;get-user jsmith&lt;/code&gt; gevolgd door de &lt;code&gt;ENTER&lt;/code&gt; om deze in te dienen. Als je vlaggen opgeeft (zie volgende alinea), moeten deze komen na het doel/de context van de opdracht.
+  &lt;/p&gt;
+  &lt;p&gt;
+    Opties opgeven voor opdrachten: voor sommige opdrachten zijn nog meer gegevens vereist of kun je optionele configuratiegegevens opgeven. In Prompt noemen we deze &amp;quot;vlaggen&amp;quot;. Deze moeten &lt;em&gt;na&lt;/em&gt; elk doel/context komen dat nodig is voor de opdracht (zie bovenstaande paragraaf) en worden voorafgegaan door twee koppeltekens of streepjes (&lt;code&gt;--&lt;/code&gt;). Er mogen geen spaties tussen de streepjes zijn en er mag geen ruimte zijn tussen de streepjes en de naam van de vlag. Als vlag dan een waarde vereist, voeg je die na de vlag toe.
+  &lt;/p&gt;
+  &lt;p&gt;
+    Als voorbeeld van het gebruik van vlaggen neem je de opdracht &lt;code&gt;get-user&lt;/code&gt;. Standaard geef je de gebruikersnaam op van de gebruiker die je wilt vinden. Je kunt echter ook zoeken op hun e-mailadres. In dat geval gebruik je de vlag &lt;code&gt;--email&lt;/code&gt;. Dit is hoe je het zou gebruiken:
+  &lt;/p&gt;
+  &lt;code class="block"&gt;
+    get-user --email jsmith@sample.com
+  &lt;/code&gt;
+  &lt;p&gt;
+    Als de waarde van een vlag meer dan één woord is, voeg je deze als volgt in dubbele aanhalingstekens:
+  &lt;/p&gt;
+  &lt;code class="block"&gt;
+    set-page --title "My Page"
+  &lt;/code&gt;
+
+  &lt;h4&gt;Zie ook&lt;/h4&gt;
+  &lt;a data-cmd="help learn" class="dnn-prompt-cmd-insert" href="#"&gt;Prompt commando's leren&lt;/a&gt;
+  &lt;a data-cmd="help" class="dnn-prompt-cmd-insert" href="#"&gt;Prompt Commandolijst&lt;/a&gt;
+
+&lt;/section&gt;</value>
+  </data>
   <data name="Prompt_CommandNotFound.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Kan geen helptekst vinden voor dat commando</value>
   </data>
@@ -105,11 +271,34 @@
   <data name="Prompt_Default.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Standaard</value>
   </data>
+  <data name="Prompt_DeleteModule_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:41:04">
+    <value>Hiermee verwijdert u een module op een specifieke pagina. De module wordt naar de DNN Prullenbak gestuurd. Hierdoor worden modules niet verwijderd of worden moduledefinities niet beïnvloed.</value>
+  </data>
+  <data name="Prompt_DeleteModule_FlagId.Text" xml:space="preserve" lastModified="2021-09-04 19:41:04">
+    <value>Hiermee geeft u expliciet de module-ID van de module op die moet worden opgehaald. Het gebruik van de vlag is niet vereist. U kunt eenvoudig de ID-waarde opgeven als het eerste argument.</value>
+  </data>
+  <data name="Prompt_DeleteModule_FlagPageId.Text" xml:space="preserve" lastModified="2021-09-04 19:41:04">
+    <value>Hiermee geeft u de pagina-ID op van de pagina waarop de module die moet worden verwijderd zich bevindt.</value>
+  </data>
+  <data name="Prompt_DeleteModule_ResultHtml.Text" xml:space="preserve" lastModified="2021-09-04 19:41:04">
+    <value>&lt;h4&gt;Verwijder een module instantie naar de prullenbak&lt;/h4&gt;
+    &lt;p&gt;Hiermee wordt een module-exemplaar op een specifieke pagina verwijderd en naar de DNN-prullenbak verzonden&lt;/p&gt;
+    &lt;code class="block"&gt;delete-module 345 --pageid 42&lt;/code&gt;</value>
+  </data>
   <data name="Prompt_Description.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Omschrijving</value>
   </data>
   <data name="Prompt_DesktopModuleNotFound.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
     <value>Het is niet mogelijk een desktopmodule met de naam '{0}' te vinden voor deze site</value>
+  </data>
+  <data name="Prompt_Echo_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:49:49">
+    <value>Echo's terug het eerste ontvangen argument </value>
+  </data>
+  <data name="Prompt_Echo_Nothing.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Niets om terug te echoën</value>
+  </data>
+  <data name="Prompt_Echo_ResultHtml.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>&lt;h4&gt;&lt;/h4&gt;</value>
   </data>
   <data name="Prompt_ErrorWhileCopying.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Er trad een fout op bij het kopiëren van de module. Kijk in de site gebeurtenislog voor de details.</value>
@@ -117,8 +306,83 @@
   <data name="Prompt_ErrorWhileMoving.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Er trad een fout op bij het verpaatsen van de module. Kijk in de site gebeurtenislog voor de details.</value>
   </data>
+  <data name="Prompt_Exit_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:49:49">
+    <value>Hiermee wordt de promptconsole afgesloten.</value>
+  </data>
   <data name="Prompt_FailedtoDeleteModule.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Er trad een fout op bij het verwijderen van de module. Kijk in de site gebeurtenislog voor de details.</value>
+  </data>
+  <data name="Prompt_FlagIsRequired.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>'[0]' is vereist.</value>
+  </data>
+  <data name="Prompt_GeneralCategory.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Algemene commando's</value>
+  </data>
+  <data name="Prompt_GetHost__NoArgs.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>De opdracht get-host neemt geen argumenten of vlaggen aan.</value>
+  </data>
+  <data name="Prompt_GetHost_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:49:49">
+    <value>Haalt informatie op over de DNN-installatie</value>
+  </data>
+  <data name="Prompt_GetHost_OkMessage.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>get-host opdracht met succes uitgevoerd.</value>
+  </data>
+  <data name="Prompt_GetHost_Unauthorized.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Je hebt geen autorisatie om toegang te krijgen tot deze functionaliteit.</value>
+  </data>
+  <data name="Prompt_GetModule_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:41:04">
+    <value>Haalt details over één module op een opgegeven pagina op</value>
+  </data>
+  <data name="Prompt_GetModule_FlagId.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>Hiermee geeft u expliciet de module-ID van de module op die moet worden opgehaald. Het gebruik van de vlag is niet vereist. U kunt eenvoudig de ID-waarde opgeven als het eerste argument.</value>
+  </data>
+  <data name="Prompt_GetModule_FlagPageId.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>De pagina-ID van de pagina die de module bevat.</value>
+  </data>
+  <data name="Prompt_GetModule_Result.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>Module '{0}' is gevonden op pagina '{1}'.</value>
+  </data>
+  <data name="Prompt_GetPortal_Found.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Portal '{0}' is gevonden.</value>
+  </data>
+  <data name="Prompt_GetPortal_NoArgs.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>De opdracht get-portal neemt geen argumenten of vlaggen.</value>
+  </data>
+  <data name="Prompt_GetPortal_NotFound.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Kon geen portal vinden met ID van '{0}'</value>
+  </data>
+  <data name="Prompt_GetSite_Description.Text" xml:space="preserve" lastModified="2021-09-05 19:25:01">
+    <value>Haalt basisinformatie op over de huidige portal of opgegeven portal</value>
+  </data>
+  <data name="Prompt_GetSite_FlagId.Text" xml:space="preserve" lastModified="2021-09-05 19:25:01">
+    <value>Site-ID om informatie te krijgen. Alleen een systeembeheerder kan informatie krijgen van andere portals dan de huidige.</value>
+  </data>
+  <data name="Prompt_Help_Command.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Commando</value>
+  </data>
+  <data name="Prompt_Help_Commands.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Commando's</value>
+  </data>
+  <data name="Prompt_Help_Description.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Beschrijving</value>
+  </data>
+  <data name="Prompt_Help_Learn.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Prompt commando's leren</value>
+  </data>
+  <data name="Prompt_Help_ListOfAvailableMsg.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Hier is een lijst met beschikbare opdrachten voor Prompt.</value>
+  </data>
+  <data name="Prompt_Help_PromptCommands.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Prompt commando's</value>
+  </data>
+  <data name="Prompt_Help_SeeAlso.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Zie ook</value>
+  </data>
+  <data name="Prompt_Help_Syntax.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Overzicht/basis syntax</value>
+  </data>
+  <data name="Prompt_HostCategory.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Systeembeheerder commando's</value>
   </data>
   <data name="Prompt_InsufficientPermissions.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>JE hebt niet voldoende rechten om deze bewerking uit te voeren.</value>
@@ -128,6 +392,57 @@
   </data>
   <data name="Prompt_InvalidSyntax.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
     <value>Verkeerde syntax.</value>
+  </data>
+  <data name="Prompt_ListCommands__H_Category.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Categorie</value>
+  </data>
+  <data name="Prompt_ListCommands_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:49:49">
+    <value>Toon alle opdrachten.</value>
+  </data>
+  <data name="Prompt_ListCommands_Error.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Er is een fout opgetreden tijdens een poging om de opdrachten weer te geven.</value>
+  </data>
+  <data name="Prompt_ListCommands_Found.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Er zijn {0} commando's gevonden.</value>
+  </data>
+  <data name="Prompt_ListCommands_H_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Beschrijving</value>
+  </data>
+  <data name="Prompt_ListCommands_H_Name.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Naam</value>
+  </data>
+  <data name="Prompt_ListCommands_H_Version.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Versie</value>
+  </data>
+  <data name="Prompt_ListModules_Description.Text" xml:space="preserve" lastModified="2021-09-05 19:25:01">
+    <value>Haalt een lijst met modules op op basis van de zoekcriteria</value>
+  </data>
+  <data name="Prompt_ListModules_FlagDeleted.Text" xml:space="preserve" lastModified="2021-09-05 19:25:01">
+    <value>Indien opgegeven, vindt de opdracht alle module-exemplaren in de portal die zich in de Prullenbak bevinden (if &lt;span class="mono"&gt;--deleted&lt;/span&gt; is true), or all module instances &lt;em&gt;not&lt;/em&gt; in the Recycle Bin (if &lt;span class="mono"&gt;--deleted&lt;/span&gt; Als de vlag is opgegeven, maar er geen waarde wordt opgegeven, wordt deze standaard true. Deze vlag kan worden gebruikt met --name en --title om de resultaten verder te verfijnen.</value>
+  </data>
+  <data name="Prompt_ListModules_FlagMax.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>Paginagrootte voor de pagina. Max is 500.</value>
+  </data>
+  <data name="Prompt_ListModules_FlagModuleName.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>De naam van de module waarnaar moet worden gezocht. Hiermee wordt het jokerteken (*) aanvaard om gedeeltelijke zoekopdrachten uit te voeren. De modulenaam is niet hetzelfde als de beschrijvende naam van de module of de titel van de module. Als u de modulenaam wilt vinden, &lt;code&gt;list-modules&lt;/code&gt; op een pagina met de module. Zoekopdrachten zijn hoofdletterongevoelig</value>
+  </data>
+  <data name="Prompt_ListModules_FlagModuleTitle.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>De titel van de module waarnaar moet worden gezocht. Dit accepteert jokerteken (*) tijdelijke aanduidingen die 0 of meer tekens vertegenwoordigen. Zoekopdrachten zijn hoofdletterongevoelig.</value>
+  </data>
+  <data name="Prompt_ListModules_FlagPage.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>Paginanummer om records weer te geven.</value>
+  </data>
+  <data name="Prompt_ListModules_FlagPageId.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>Als deze opdracht is opgegeven, worden alleen modules van de opgegeven pagina weergegeven. Het gebruik van de vlag is niet vereist. U kunt eenvoudig de ID-waarde opgeven als het eerste argument.</value>
+  </data>
+  <data name="Prompt_ListPortals_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:49:49">
+    <value>Haalt een lijst met portals op voor de huidige DNN-installatie</value>
+  </data>
+  <data name="Prompt_ListPortals_NoArgs.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>De opdracht list-portal neemt geen argumenten of vlaggen aan</value>
+  </data>
+  <data name="Prompt_ListPortals_Results.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>'{0}' Portal{1} gevonden.</value>
   </data>
   <data name="Prompt_ListServices_Unauthorized.Text" xml:space="preserve" lastModified="2020-09-30 16:58:26">
     <value>Je bent niet geautoriseerd om deze functionaliteit te gebruiken.</value>
@@ -146,6 +461,18 @@
   </data>
   <data name="Prompt_ModuleNotFound.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Kan de module met id {0} op pagina {1} niet vinden</value>
+  </data>
+  <data name="Prompt_ModulesCategory.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Module commando's</value>
+  </data>
+  <data name="Prompt_MoveModule_FlagPageId.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>De pagina-ID van de pagina met de module die u wilt kopiëren.</value>
+  </data>
+  <data name="Prompt_MoveModule_FlagPane.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>Geef het deelvenster op waarin de module moet worden verplaatst. Indien niet opgegeven, wordt de module verplaatst naar ContentPane.</value>
+  </data>
+  <data name="Prompt_MoveModule_FlagToPageId.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>De pagina-ID van de doelpagina. De pagina waarnaar u de module wilt kopiëren.</value>
   </data>
   <data name="Prompt_NoModule.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Geen module gevinden met id {0|/</value>
@@ -168,6 +495,18 @@
   <data name="Prompt_PageNotFound.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Kan de doelpagina niet laden. Geen pagina in de site gevonden met ID '{0}'</value>
   </data>
+  <data name="Prompt_PagingMessage.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Pagina {0} van {1}.</value>
+  </data>
+  <data name="Prompt_PagingMessageWithLoad.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Pagina {0} van {1}. Druk op een willekeurige toets om de volgende pagina te laden. Druk op Ctrl + X om te eindigen.</value>
+  </data>
+  <data name="Prompt_PortalCategory.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Portaal commando's</value>
+  </data>
+  <data name="Prompt_Reload_Description.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Laadt de huidige pagina opnieuw</value>
+  </data>
   <data name="Prompt_Required.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Vereist</value>
   </data>
@@ -180,6 +519,9 @@
   <data name="Prompt_SessionTimedOut.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
     <value>Je sessies heeft misschien een time-out. Log opnieuw in.</value>
   </data>
+  <data name="Prompt_SetMode_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Hiermee stelt u de DNN-weergavemodus in. Dit heeft hetzelfde effect als klikken op de juiste opties in de DNN-besturingsbalk.</value>
+  </data>
   <data name="Prompt_SourceAndTargetPagesAreSame.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
     <value>De bron pagina ID en de doelpagina ID moet verschillen.\n</value>
   </data>
@@ -188,5 +530,11 @@
   </data>
   <data name="Prompt_UserRestart.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>De gebruiker heeft een appkicatieherstart gestart.</value>
+  </data>
+  <data name="Prompt_UserRestart_Error.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Er is een fout opgetreden tijdens een poging om de toepassing opnieuw op te starten.</value>
+  </data>
+  <data name="Prompt_UserRestart_Success.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Toepassing opnieuw gestart</value>
   </data>
 </root>

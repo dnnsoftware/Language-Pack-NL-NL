@@ -303,8 +303,8 @@
   <data name="DeleteFiles.Label" xml:space="preserve">
     <value>Verwijder Bestanden?</value>
   </data>
-  <data name="Deploy.Button" xml:space="preserve">
-    <value>Inzetten</value>
+  <data name="Deploy.Button" xml:space="preserve" lastModified="2021-09-03 20:08:57">
+    <value>Implementeer</value>
   </data>
   <data name="Description.Header" xml:space="preserve">
     <value>Beschrijving</value>
