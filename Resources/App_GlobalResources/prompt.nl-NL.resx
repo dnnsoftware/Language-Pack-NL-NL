@@ -355,7 +355,7 @@ Zoals met de meeste
     <value>Haalt basisinformatie op over de huidige portal of opgegeven portal</value>
   </data>
   <data name="Prompt_GetSite_FlagId.Text" xml:space="preserve" lastModified="2021-09-05 19:25:01">
-    <value>Site-ID om informatie te krijgen. Alleen een systeembeheerder kan informatie krijgen van andere portals dan de huidige.</value>
+    <value>Site-ID om informatie te krijgen. Alleen een applicatiebeheerder kan informatie krijgen van andere portals dan de huidige.</value>
   </data>
   <data name="Prompt_Help_Command.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
     <value>Commando</value>
@@ -382,7 +382,7 @@ Zoals met de meeste
     <value>Overzicht/basis syntax</value>
   </data>
   <data name="Prompt_HostCategory.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
-    <value>Systeembeheerder commando's</value>
+    <value>applicatiebeheerder commando's</value>
   </data>
   <data name="Prompt_InsufficientPermissions.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>JE hebt niet voldoende rechten om deze bewerking uit te voeren.</value>

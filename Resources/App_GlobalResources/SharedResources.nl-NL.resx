@@ -1426,7 +1426,7 @@
     <value>Het bestand {0} is een niet toegestaan bestandstype. Geldige bestandstypen zijn ( {1} ). Neem contact op met je hosting provider indien je een niet ondersteunt bestandstype naar je site wilt uploaden.</value>
   </data>
   <data name="RestrictFileMail_Body.Text" xml:space="preserve">
-    <value>&lt;p&gt;Geachte systeembeheerder,&lt;/p&gt;&lt;p&gt;De beveiligingscontrole heeft gedetecteerd dat een of meer &lt;b&gt;mogelijk gevaarlijke bestanden &lt;/b&gt;aan je website zijn toegevoegd. Als je alle toegevoegde bestanden wilt bekijken, controleer je de gebeurtenislogboeken van de site.
+    <value>&lt;p&gt;Geachte applicatiebeheerder,&lt;/p&gt;&lt;p&gt;De beveiligingscontrole heeft gedetecteerd dat een of meer &lt;b&gt;mogelijk gevaarlijke bestanden &lt;/b&gt;aan je website zijn toegevoegd. Als je alle toegevoegde bestanden wilt bekijken, controleer je de gebeurtenislogboeken van de site.
 Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmiddellijke actie aanbevolen.
 &lt;p&gt;Toegevoegd(e) bestand(en):&lt;br/&gt;&lt;b&gt;[Path]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Bedankt,&lt;/p&gt;&lt;p&gt;[AppName] [AppVersion]&lt;/p&gt;</value>
   </data>
@@ -1611,7 +1611,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value>Vervangen</value>
   </data>
   <data name="Superuser.Text" xml:space="preserve">
-    <value>Systeembeheerder</value>
+    <value>applicatiebeheerder</value>
   </data>
   <data name="System_Default.Text" xml:space="preserve">
     <value>Systeemstandaard</value>
