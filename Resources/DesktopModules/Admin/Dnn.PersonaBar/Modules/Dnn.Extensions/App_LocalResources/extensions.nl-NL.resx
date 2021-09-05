@@ -279,9 +279,6 @@
   <data name="CreateSkin.Action" xml:space="preserve">
     <value>Maak Nieuw Thema</value>
   </data>
-  <data name="DashboardControl.Type" xml:space="preserve">
-    <value>Dashboard besturingen</value>
-  </data>
   <data name="Delete.Button" xml:space="preserve">
     <value>Verwijderen</value>
   </data>

@@ -334,7 +334,7 @@
     <value>Maak Applicatiebeheerder</value>
   </data>
   <data name="Prompt_AddRoles_Description.Text" xml:space="preserve">
-    <value>Voeg een of meer DNN beveiligingsrollen toe aan een gebruiker.</value>
+    <value>Voeg een of meer DNN beveiligings rollen toe aan een gebruiker.</value>
   </data>
   <data name="Prompt_AddRoles_FlagEnd.Text" xml:space="preserve">
     <value>Eind datum voor de rol.</value>
@@ -810,7 +810,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
             &lt;/tbody&gt;
         &lt;/table&gt;
 
-        &lt;h4&gt;Maak een lijst van Gebruikers In een DNN Beveiligingsrol&lt;/h4&gt;
+        &lt;h4&gt;Maak een lijst van Gebruikers In een DNN Beveiligings Rol&lt;/h4&gt;
         &lt;code class="block"&gt;list-users --role "Registered Users"&lt;/code&gt;
         &lt;table class="command-result-tbl"&gt;
             &lt;thead&gt;

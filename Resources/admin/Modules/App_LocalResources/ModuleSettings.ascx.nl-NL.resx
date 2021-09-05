@@ -45,12 +45,6 @@
   <data name="CacheSettings.Text" xml:space="preserve">
     <value>Cache Instellingen</value>
   </data>
-  <data name="cmdClearAllTabModuleCache.Text" xml:space="preserve">
-    <value>Verwijder de cache voor alle modules</value>
-  </data>
-  <data name="cmdClearTabModuleCache.Text" xml:space="preserve">
-    <value>Verwijder de cache voor deze tab module</value>
-  </data>
   <data name="ContainerPreview.Text" xml:space="preserve">
     <value>Vooruitblik</value>
   </data>
@@ -107,9 +101,6 @@
   </data>
   <data name="isShareableViewOnlyLabel.Text" xml:space="preserve">
     <value>Alleen weergave?</value>
-  </data>
-  <data name="lblCachedItemCount.Text" xml:space="preserve">
-    <value>Huidige Cache Aantal: {0} item voor deze tab module</value>
   </data>
   <data name="lblNoRecords.Text" xml:space="preserve">
     <value>Deze module is niet toegevoegd aan andere pagina's.</value>
