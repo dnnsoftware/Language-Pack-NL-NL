@@ -85,7 +85,7 @@
     <value>Bestanden met de bestandsnaam(en) die je probeert te verplaatsen bestaan al in deze locatie</value>
   </data>
   <data name="DuplicateUpload.Subtext" xml:space="preserve">
-    <value>Bestanden met de bestandsnaam(en) die je probeert te uploaden bestaan al in deze locatie</value>
+    <value>Bestanden met de bestandsna(a)m(en) die je probeert te uploaden bestaan al in deze locatie</value>
   </data>
   <data name="EditModule.Text" xml:space="preserve">
     <value>Module bewerken</value>
@@ -109,7 +109,7 @@
     <value>Het bestand dat je probeert te uploaden bestaat al in deze locatie</value>
   </data>
   <data name="FileUploadEmptyFileIsNotSupported.Error" xml:space="preserve">
-    <value>Je browser ondersteund geen lege bestanden upload</value>
+    <value>Je browser ondersteunt geen lege bestanden upload</value>
   </data>
   <data name="FileUploadErrorOccurred.Error" xml:space="preserve">
     <value>Er is een fout opgetreden bij het uploaden van het bestand</value>
