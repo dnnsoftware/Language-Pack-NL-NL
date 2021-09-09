@@ -331,11 +331,11 @@ Verzenden compleet op:      [Custom:3]
     <value>Bulkmail '{0}' ingediend</value>
   </data>
   <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text" xml:space="preserve">
-    <value><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="https://www.w3.org/1999/xhtml">
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <style type="text/css">
+    <value>&amp;lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&amp;gt;
+&amp;lt;html xmlns="https://www.w3.org/1999/xhtml"&amp;gt;
+&amp;lt;head&amp;gt;
+    &amp;lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&amp;gt;
+    &amp;lt;style type="text/css"&amp;gt;
             /* Reset Styles */
         html, body{height:100%;width:100%;}
         body{
@@ -349,7 +349,7 @@ Verzenden compleet op:      [Custom:3]
         p{margin: 0 0 1.6em 0;}
         a{color:#417CD3;}
         #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
-        body{ background-color:#fafafa; }
+        body{ background-color:#fafafa; }        
 
         #templateContainer{
             border: 1px solid #eeeeee;
@@ -383,153 +383,156 @@ Verzenden compleet op:      [Custom:3]
             font-size:0.9em;
             color:#999;
         }
-    </style>
-</head>
+    &amp;lt;/style&amp;gt;
+&amp;lt;/head&amp;gt;
 
-<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
-<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" id="backgroundTable">
-    <tr>
-        <td align="center" valign="top">
-            <!-- // Begin Template Preheader \\ -->
-            <table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="600">
-                <tr align="right">
-                    <td valign="top" class="preheaderContent" style="border-top:5px solid #417CD3;">
+&amp;lt;body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"&amp;gt;
+&amp;lt;table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" id="backgroundTable"&amp;gt;
+    &amp;lt;tr&amp;gt;
+        &amp;lt;td align="center" valign="top"&amp;gt;
+            &amp;lt;!-- // Begin Template Preheader \\ --&amp;gt;
+            &amp;lt;table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="600"&amp;gt;
+                &amp;lt;tr align="right"&amp;gt;
+                    &amp;lt;td valign="top" class="preheaderContent" style="border-top:5px solid #417CD3;"&amp;gt;
 
-                        <!-- // Begin Module: Standard Preheader \ -->
-                        <table border="0" cellpadding="0" cellspacing="0" >
-                            <tr>
-                                <td align="right">
-                                    <p>Problemen met de weergave van deze e-mail? <a href="[NOTIFICATIONURL]"><span>Klik hier om dit bericht online te bekijken.</span></a></p>
-                                </td>
-                            </tr>
-                        </table>
-                        <!-- // End Module: Standard Preheader \ -->
-                    </td>
-                </tr>
-            </table>
-            <!-- // End Template Preheader \\ -->
-            <!-- // Begin Template body \\ -->
-            <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border:1px solid #eeeeee; " >
-                <tr >
-                    <td align="center" valign="top">
-                        <!-- // Begin Template Header \\ -->
-                        <table border="0" cellpadding="30" cellspacing="0" width="600" id="templateHeader">
-                            <tr>
-                                <td class="headerContent">
-                                    <a href="[SITEURL]">
-                                        <!--<img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" />-->
-                                        <img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" width="200" />
-                                    </a>
+                        &amp;lt;!-- // Begin Module: Standard Preheader \ --&amp;gt;
+                        &amp;lt;table border="0" cellpadding="0" cellspacing="0" &amp;gt;
+                            &amp;lt;tr&amp;gt;
+                                &amp;lt;td align="right"&amp;gt;
+                                    &amp;lt;p&amp;gt;Problem viewing email? &amp;lt;a href="[NOTIFICATIONURL]"&amp;gt;&amp;lt;span&amp;gt;Click here to view online.&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
+                                &amp;lt;/td&amp;gt;
+                            &amp;lt;/tr&amp;gt;
+                        &amp;lt;/table&amp;gt;
+                        &amp;lt;!-- // End Module: Standard Preheader \ --&amp;gt;
+                    &amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+            &amp;lt;/table&amp;gt;
+            &amp;lt;!-- // End Template Preheader \\ --&amp;gt;
+            &amp;lt;!-- // Begin Template body \\ --&amp;gt;
+            &amp;lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border:1px solid #eeeeee; " &amp;gt;
+                &amp;lt;tr &amp;gt;
+                    &amp;lt;td align="center" valign="top"&amp;gt;
+                        &amp;lt;!-- // Begin Template Header \\ --&amp;gt;
+                        &amp;lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateHeader"&amp;gt;
+                            &amp;lt;tr&amp;gt;
+                                &amp;lt;td class="headerContent"&amp;gt;
+                                    &amp;lt;a href="[SITEURL]"&amp;gt;
+                                        &amp;lt;!--&amp;lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" /&amp;gt;--&amp;gt;
+                                        &amp;lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" width="200" /&amp;gt;
+                                    &amp;lt;/a&amp;gt;
 
-                                </td>
-                            </tr>
-                        </table>
-                        <!-- // End Template Header \\ -->
-                    </td>
-                </tr>
-                <tr >
-                    <td align="center" valign="top">
-                        <!-- // Begin Template Sub Header \\ -->
-                        <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateSubHeader">
-                            <tr>
-                                <td class="subHeaderContent" bgcolor="#417CD3" width="66%" align="left">
-                                    <h2 style="color:#fff; font-weight:100; font-size:24px;">Notifications</h2>
-                                </td><!--close subHeaderContent-->
-                                <td width="33%" bgcolor="#417CD3" align="right">
-                                    <p style="color:#fff;"></p>
-                                </td>
-                            </tr>
-                        </table>
-                        <!-- // End Template Sub Header \\ -->
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center" valign="top" bgcolor="#ffffff">
-                        <!-- // Begin Template Body \\ -->
-                        <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody">
-                            <tr>
-                                <td valign="top" class="bodyContent">
-                                    <!-- // Begin Module: Standard Content \\ -->
-                                    <table border="0" cellpadding="30" cellspacing="0" width="100%">
-                                        <tr>
-                                            <td valign="top">
+                                &amp;lt;/td&amp;gt;
+                            &amp;lt;/tr&amp;gt;
+                        &amp;lt;/table&amp;gt;
+                        &amp;lt;!-- // End Template Header \\ --&amp;gt;
+                    &amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+                &amp;lt;tr &amp;gt;
+                    &amp;lt;td align="center" valign="top"&amp;gt;
+                        &amp;lt;!-- // Begin Template Sub Header \\ --&amp;gt;
+                        &amp;lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateSubHeader"&amp;gt;
+                            &amp;lt;tr&amp;gt;
+                                &amp;lt;td class="subHeaderContent" bgcolor="#417CD3" width="66%" align="left"&amp;gt;
+                                    &amp;lt;h2 style="color:#fff; font-weight:100; font-size:24px;"&amp;gt;Notifications&amp;lt;/h2&amp;gt;
+                                &amp;lt;/td&amp;gt;&amp;lt;!--close subHeaderContent--&amp;gt;
+                                &amp;lt;td width="33%" bgcolor="#417CD3" align="right"&amp;gt;
+                                    &amp;lt;p style="color:#fff;"&amp;gt;&amp;lt;/p&amp;gt;
+                                &amp;lt;/td&amp;gt;
+                            &amp;lt;/tr&amp;gt;
+                        &amp;lt;/table&amp;gt;
+                        &amp;lt;!-- // End Template Sub Header \\ --&amp;gt;
+                    &amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+                &amp;lt;tr&amp;gt;
+                    &amp;lt;td align="center" valign="top" bgcolor="#ffffff"&amp;gt;
+                        &amp;lt;!-- // Begin Template Body \\ --&amp;gt;
+                        &amp;lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody"&amp;gt;
+                            &amp;lt;tr&amp;gt;
+                                &amp;lt;td valign="top" class="bodyContent"&amp;gt;
+                                    &amp;lt;!-- // Begin Module: Standard Content \\ --&amp;gt;
+                                    &amp;lt;table border="0" cellpadding="30" cellspacing="0" width="100%"&amp;gt;
+                                        &amp;lt;tr&amp;gt;
+                                            &amp;lt;td valign="top"&amp;gt;
                                                 [MESSAGEBODY]
-                                            </td>
-                                        </tr>
-                                    </table>
-                                    <!-- // End Module: Standard Content \\ -->
-                                </td>
-                            </tr>
-                        </table>
-                        <!-- // End Template Body \\ -->
-                    </td>
-                </tr>
-                <tr>
-                    <td align="center" valign="top">
-                        <table border="0" cellpadding="30" cellspacing="0" width="600" id="templateFooter">
-                            <tr>
-                                <td valign="top" class="footerContent">
-                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                        <tr>
-                                            <td align="center">
-                                                <a href="[UNSUBSCRIBEURL]" > Beheer uw lidmaatschappen</a> &nbsp; |  &nbsp;<a href="[NOTIFICATIONURL]" > Bekijk online</a>
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
-            </table><!-- // End Template Body \\ -->
-            <!-- // Begin Template footer \\ -->
-            <table border="0" cellpadding="0" cellspacing="0" id="bodyTemplateFooter" width="600">
-                <tr>
-                    <td valign="top" class="bodyFooterContent">
+                                            &amp;lt;/td&amp;gt;
+                                        &amp;lt;/tr&amp;gt;
+                                    &amp;lt;/table&amp;gt;
+                                    &amp;lt;!-- // End Module: Standard Content \\ --&amp;gt;
+                                &amp;lt;/td&amp;gt;
+                            &amp;lt;/tr&amp;gt;
+                        &amp;lt;/table&amp;gt;
+                        &amp;lt;!-- // End Template Body \\ --&amp;gt;
+                    &amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+                &amp;lt;tr&amp;gt;
+                    &amp;lt;td align="center" valign="top"&amp;gt;
+                        &amp;lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateFooter"&amp;gt;
+                            &amp;lt;tr&amp;gt;
+                                &amp;lt;td valign="top" class="footerContent"&amp;gt;
+                                    &amp;lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&amp;gt;
+                                        &amp;lt;tr&amp;gt;
+                                            &amp;lt;td align="center"&amp;gt;
+                                                &amp;lt;a href="[UNSUBSCRIBEURL]" &amp;gt; Manage your Subscriptions&amp;lt;/a&amp;gt; &amp;amp;nbsp; |  &amp;amp;nbsp;
+                                                &amp;lt;a href="https://www.twitter.com/" &amp;gt; Follow us on Twitter&amp;lt;/a&amp;gt; &amp;amp;nbsp; |  &amp;amp;nbsp;
+                                                &amp;lt;a href="https://www.facebook.com/" &amp;gt; Become a fan on Facebook&amp;lt;/a&amp;gt;
 
-                        <!-- // Begin Module: Standard Preheader \ -->
-                        <table border="0" cellpadding="0" cellspacing="0" align="center" >
+                                            &amp;lt;/td&amp;gt;
+                                        &amp;lt;/tr&amp;gt;
+                                    &amp;lt;/table&amp;gt;
+                                &amp;lt;/td&amp;gt;
+                            &amp;lt;/tr&amp;gt;
+                        &amp;lt;/table&amp;gt;
+                    &amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+            &amp;lt;/table&amp;gt;&amp;lt;!-- // End Template Body \\ --&amp;gt;
+            &amp;lt;!-- // Begin Template footer \\ --&amp;gt;
+            &amp;lt;table border="0" cellpadding="0" cellspacing="0" id="bodyTemplateFooter" width="600"&amp;gt;
+                &amp;lt;tr&amp;gt;
+                    &amp;lt;td valign="top" class="bodyFooterContent"&amp;gt;
 
-                            <tr>
-                                <td align="center">
-                                    <p>Copyright [YEAR]] <a href="[SITEURL]">[PORTALNAME]</a> Alle rechten voorbehouden.</p>
-                                    <p>Wanneer u in de toekomst geen berichten meer wilt ontvangen kunt u hier<a href="[UNSUBSCRIBEURL]">uitschrijven</a>.</p>
-                                </td>
-                            </tr>
-                        </table>
-                        <!-- // End Module: Standard Preheader \ -->
-                    </td>
-                </tr>
-            </table>
-            <!-- // End Template footer \\ -->
-        </td>
-    </tr>
-</table><!-- wrapper table -->
-</body>
-</html></value>
+                        &amp;lt;!-- // Begin Module: Standard Preheader \ --&amp;gt;
+                        &amp;lt;table border="0" cellpadding="0" cellspacing="0" align="center" &amp;gt;
+
+                            &amp;lt;tr&amp;gt;
+                                &amp;lt;td align="center"&amp;gt;
+                                    &amp;lt;p&amp;gt;Copyright 2013 &amp;lt;a href="[SITEURL]"&amp;gt;[PORTALNAME]&amp;lt;/a&amp;gt; All rights reserved.&amp;lt;/p&amp;gt;
+                                    &amp;lt;p&amp;gt;If you wish to no longer receive emails in the future, please &amp;lt;a href="[UNSUBSCRIBEURL]"&amp;gt;unsubscribe&amp;lt;/a&amp;gt; here.&amp;lt;/p&amp;gt;
+                                &amp;lt;/td&amp;gt;
+                            &amp;lt;/tr&amp;gt;
+                        &amp;lt;/table&amp;gt;
+                        &amp;lt;!-- // End Module: Standard Preheader \ --&amp;gt;
+                    &amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+            &amp;lt;/table&amp;gt;
+            &amp;lt;!-- // End Template footer \\ --&amp;gt;
+        &amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;!-- wrapper table --&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;</value>
   </data>
   <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" xml:space="preserve">
-    <value><div style="width:100%;"><h5>[TITLE]</h5><table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;">
-    <tr>
-        <td>
-            <table width="80" border="0" cellspacing="0" cellpadding="8" align="left">
-                <tr>
-                    <td><a href="[PROFILEURL]"><img src="[PROFILEPICURL]" /></a><br/>[DISPLAYNAME]</td>
-                </tr>
-            </table>
-            <table width="350" border="0" cellspacing="0" cellpadding="8" align="left">
-                <tr>
-                    <td>[CONTENT][FRIENDREQUESTACTIONS][FOLLOWREQUESTACTIONS]</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table></div></value>
+    <value>&amp;lt;div style="width:100%;"&amp;gt;&amp;lt;h5&amp;gt;[TITLE]&amp;lt;/h5&amp;gt;&amp;lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&amp;gt;
+    &amp;lt;tr&amp;gt;
+        &amp;lt;td&amp;gt;
+            &amp;lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&amp;gt;
+                &amp;lt;tr&amp;gt;
+                    &amp;lt;td&amp;gt;&amp;lt;a href="PROFILEURL"&amp;gt;&amp;lt;img src="[PROFILEPICURL]" /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;[DISPLAYNAME]&amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+            &amp;lt;/table&amp;gt;
+            &amp;lt;table width="350" border="0" cellspacing="0" cellpadding="8" align="left"&amp;gt;
+                &amp;lt;tr&amp;gt;
+                    &amp;lt;td&amp;gt;[CONTENT][FRIENDREQUESTACTIONS][FOLLOWREQUESTACTIONS]&amp;lt;/td&amp;gt;
+                &amp;lt;/tr&amp;gt;
+            &amp;lt;/table&amp;gt;
+        &amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+&amp;lt;/table&amp;gt;&amp;lt;/div&amp;gt;</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
+    <value>Beste [Profile:FullName],
 
-Je hebt een wachtwoordherstel aangevraagd bij de [Portal:PortalName] website.
+Je hebt je wachtwoordherstel aangevraagd van de [Portal:PortalName] website.
 
 Website Addres: [Portal:URL]
 Gebruikersnaam: [User:Username]
@@ -560,7 +563,7 @@ Met vriendelijk groet,
     <value>[Portal:PortalName] wachtwoordherinnering</value>
   </data>
   <data name="EMAIL_PASSWORD_UPDATED_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName], 
+    <value>Geachte [User:DisplayName], 
 	
 	Je wachtwoord voor [Portal:PortalName] is veranderd. 
 	
@@ -573,7 +576,7 @@ Met vriendelijk groet,
     <value>[Portal:PortalName] Wachtwoord bijgewerkt</value>
   </data>
   <data name="EMAIL_PORTAL_SIGNUP_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
+    <value>Beste [User:FullName],
 
 Je site is aangemaakt. Lees alstublieft de volgend informatie zorgvuldig door, en archiveer dit bericht voor eventueel toekomstig gebruik.
 
@@ -593,7 +596,7 @@ Dank voor het gebruik van onze diensten
     <value>[Host:HostTitle] Aanmelding Demo Website</value>
   </data>
   <data name="EMAIL_PROFILE_UPDATED_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
+    <value>Beste [Profile:FullName],
 
 Je profiel voor  de [Portal:PortalName] site is succesvol bijgewerkt.
 
@@ -605,7 +608,7 @@ Met vriendelijke groet,
     <value>[Portal:PortalName] Profiel bijgewerkt</value>
   </data>
   <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
+    <value>Beste [User:FullName],
 
 De toegangsrollen van je gebruikersaccount voor de [Portal:PortalName] website zijn recentelijk aangepast, en bevat nu ook deze rol:
 
@@ -622,7 +625,7 @@ Dank voor het in ons gestelde vertrouwen,
     <value>[Portal:PortalName] Gebruikersaccount aangepast</value>
   </data>
   <data name="EMAIL_ROLE_UNASSIGNMENT_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
+    <value>Beste [User:FullName],
 
 De toegang van je gebruikersaccount voor de [Portal:PortalName] site is recentelijk aangepast, en bevat nu NIET meer deze rol:
 
@@ -658,10 +661,10 @@ Dank voor het in ons gestelde vertrouwen,
     <value>[Host:HostTitle] SMTP Configuratie Test</value>
   </data>
   <data name="EMAIL_SOCIAL_FOLLOWREQUESTACTIONS.Text" xml:space="preserve">
-    <value><p><a href="{0}">Terug volgen</a> | <a href="{1}">Profiel bekijken</a></p></value>
+    <value>&amp;lt;p&amp;gt;&amp;lt;a href="{0}"&amp;gt;Ga terug&amp;lt;/a&amp;gt; | &amp;lt;a href="{1}"&amp;gt;Profiel weergeven&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</value>
   </data>
   <data name="EMAIL_SOCIAL_FRIENDREQUESTACTIONS.Text" xml:space="preserve">
-    <value><p><a href="{0}">Accepteren</a> | <a href="{1}">Profiel bekijken</a></p></value>
+    <value>&amp;lt;p&amp;gt;&amp;lt;a href="{0}"&amp;gt;Accepteren&amp;lt;/a&amp;gt; | &amp;lt;a href="{1}"&amp;gt;Profiel weergeven&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</value>
   </data>
   <data name="EMAIL_SUBJECT_FORMAT.Text" xml:space="preserve">
     <value>Nieuw bericht van {0}</value>
@@ -736,7 +739,7 @@ Dank voor het in ons gestelde vertrouwen,
     <value>[Portal:PortalName] Nieuwe gebruikersregistratie</value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
+    <value>Beste [User:FullName],
 
 Je bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
 
@@ -857,28 +860,28 @@ Met vriendelijke groet,
     <value>Inhoud importeren</value>
   </data>
   <data name="License.Text" xml:space="preserve">
-    <value><h2>The MIT License (MIT)</h2>
+    <value>&lt;h2&gt;The MIT License (MIT)&lt;/h2&gt;
 
-<h3>Copyright (c) .NET Foundation and Contributors</h3>
-<p>All Rights Reserved</p>
+&lt;h3&gt;Copyright (c) .NET Foundation and Contributors&lt;/h3&gt;
+&lt;p&gt;All Rights Reserved&lt;/p&gt;
 
-<p>Permission is hereby granted, free of charge, to any person obtaining a copy
+&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:</p>
+furnished to do so, subject to the following conditions:&lt;/p&gt;
 
-<p>The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.</p>
+&lt;p&gt;The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.&lt;/p&gt;
 
-<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+&lt;p&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.</p></value>
+SOFTWARE.&lt;/p&gt;</value>
   </data>
   <data name="Localize.Action" xml:space="preserve">
     <value>Vertaal</value>
@@ -896,40 +899,40 @@ SOFTWARE.</p></value>
     <value>Beheren</value>
   </data>
   <data name="MESSAGE_PORTAL_PRIVACY.Text" xml:space="preserve">
-    <value><div align="left">
-        <p>[Portal:PortalName] is committed to protecting your privacy and developing technology
+    <value>&lt;div align="left"&gt;
+        &lt;p&gt;[Portal:PortalName] is committed to protecting your privacy and developing technology
         that gives you the most powerful and safe online experience. This Statement of Privacy
         applies to the [Portal:PortalName] site and governs data collection and usage.
         By using the [Portal:PortalName] site, you consent to the data practices described
-        in this statement.</p>
-        <p><span class="SubHead">Collection of your Personal Information</span></p>
-        <p>[Portal:PortalName] collects personally identifiable information, such as your email
+        in this statement.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Collection of your Personal Information&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] collects personally identifiable information, such as your email
         address, name, home or work address or telephone number. [Portal:PortalName] also
         collects anonymous demographic information, which is not unique to you, such as
-        your ZIP code, age, gender, preferences, interests and favorites.</p>
-        <p>There is also information about your computer hardware and software that is automatically
+        your ZIP code, age, gender, preferences, interests and favorites.&lt;/p&gt;
+        &lt;p&gt;There is also information about your computer hardware and software that is automatically
         collected by [Portal:PortalName]. This information can include: your IP address,
         browser type, domain names, access times and referring website addresses. This
         information is used by [Portal:PortalName] for the operation of the service, to
         maintain quality of the service, and to provide general statistics regarding use
-        of the [Portal:PortalName] site.</p>
-        <p>Please keep in mind that if you directly disclose personally identifiable information
+        of the [Portal:PortalName] site.&lt;/p&gt;
+        &lt;p&gt;Please keep in mind that if you directly disclose personally identifiable information
         or personally sensitive data through [Portal:PortalName] public message boards,
         this information may be collected and used by others. Note: [Portal:PortalName]
-        does not read any of your private online communications.</p>
-        <p>[Portal:PortalName] encourages you to review the privacy statements of Web sites
+        does not read any of your private online communications.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] encourages you to review the privacy statements of Web sites
         you choose to link to from [Portal:PortalName] so that you can understand how those
         Web sites collect, use and share your information. [Portal:PortalName] is not responsible
         for the privacy statements or other content on Web sites outside of the [Portal:PortalName]
-        and [Portal:PortalName] family of Web sites.</p>
-        <p><span class="SubHead">Use of your Personal Information</span></p>
-        <p>[Portal:PortalName] collects and uses your personal information to operate the [Portal:PortalName]
+        and [Portal:PortalName] family of Web sites.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Use of your Personal Information&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] collects and uses your personal information to operate the [Portal:PortalName]
         Web site and deliver the services you have requested. [Portal:PortalName] also uses
         your personally identifiable information to inform you of other products or services
         available from [Portal:PortalName] and its affiliates. [Portal:PortalName] may also
         contact you via surveys to conduct research about your opinion of current services
-        or of potential new services that may be offered.</p>
-        <p>[Portal:PortalName] does not sell, rent or lease its customer lists to third parties.
+        or of potential new services that may be offered.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] does not sell, rent or lease its customer lists to third parties.
         [Portal:PortalName] may, from time to time, contact you on behalf of external business
         partners about a particular offering that may be of interest to you. In those cases,
         your unique personally identifiable information (e-mail, name, address, telephone
@@ -938,27 +941,27 @@ SOFTWARE.</p></value>
         you email or postal mail, provide customer support, or arrange for deliveries. All
         such third parties are prohibited from using your personal information except to
         provide these services to [Portal:PortalName], and they are required to maintain
-        the confidentiality of your information.</p>
-        <p>[Portal:PortalName] does not use or disclose sensitive personal information, such
-        as race, religion, or political affiliations, without your explicit consent.</p>
-        <p>[Portal:PortalName] keeps track of the Web sites and pages our customers visit within
+        the confidentiality of your information.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] does not use or disclose sensitive personal information, such
+        as race, religion, or political affiliations, without your explicit consent.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] keeps track of the Web sites and pages our customers visit within
         [Portal:PortalName], in order to determine what [Portal:PortalName] services are
         the most popular. This data is used to deliver customized content and advertising
         within [Portal:PortalName] to customers whose behavior indicates that they are interested
-        in a particular subject area.</p>
-        <p>[Portal:PortalName] Web sites will disclose your personal information, without notice,
+        in a particular subject area.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] Web sites will disclose your personal information, without notice,
         only if required to do so by law or in the good faith belief that such action is
         necessary to: (a) conform to the edicts of the law or comply with legal process
         served on [Portal:PortalName] or the site; (b) protect and defend the rights or
         property of [Portal:PortalName]; and, (c) act under exigent circumstances to protect
-        the personal safety of users of [Portal:PortalName], or the public.</p>
-        <p><span class="SubHead">Use of Cookies</span></p>
-        <p>The [Portal:PortalName] Web site use "cookies" to help you personalize your online
+        the personal safety of users of [Portal:PortalName], or the public.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Use of Cookies&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;The [Portal:PortalName] Web site use "cookies" to help you personalize your online
         experience. A cookie is a text file that is placed on your hard disk by a Web page
         server. Cookies cannot be used to run programs or deliver viruses to your computer.
         Cookies are uniquely assigned to you, and can only be read by a web server in the
-        domain that issued the cookie to you.</p>
-        <p>One of the primary purposes of cookies is to provide a convenience feature to save
+        domain that issued the cookie to you.&lt;/p&gt;
+        &lt;p&gt;One of the primary purposes of cookies is to provide a convenience feature to save
         you time. The purpose of a cookie is to tell the Web server that you have returned
         to a specific page. For example, if you personalize [Portal:PortalName] pages, or
         register with [Portal:PortalName] site or services, a cookie helps [Portal:PortalName]
@@ -966,115 +969,115 @@ SOFTWARE.</p></value>
         of recording your personal information, such as billing addresses, shipping addresses,
         and so on. When you return to the same [Portal:PortalName] Web site, the information
         you previously provided can be retrieved, so you can easily use the [Portal:PortalName]
-        features that you customized.</p>
-        <p>You have the ability to accept or decline cookies. Most Web browsers automatically
+        features that you customized.&lt;/p&gt;
+        &lt;p&gt;You have the ability to accept or decline cookies. Most Web browsers automatically
         accept cookies, but you can usually modify your browser setting to decline cookies
         if you prefer. If you choose to decline cookies, you may not be able to fully experience
-        the interactive features of the [Portal:PortalName] services or Web sites you visit.</p>
-        <p><span class="SubHead">Security of your Personal Information</span></p>
-        <p>[Portal:PortalName] secures your personal information from unauthorized access,
+        the interactive features of the [Portal:PortalName] services or Web sites you visit.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Security of your Personal Information&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] secures your personal information from unauthorized access,
         use or disclosure. [Portal:PortalName] secures the personally identifiable information
         you provide on computer servers in a controlled, secure environment, protected from
         unauthorized access, use or disclosure. When personal information (such as a credit
         card number) is transmitted to other Web sites, it is protected through the use
-        of encryption, such as the Secure Socket Layer (SSL) protocol.</p>
-        <p><span class="SubHead">Changes to this Statement</span></p>
-        <p>[Portal:PortalName] will occasionally update this Statement of Privacy to reflect
+        of encryption, such as the Secure Socket Layer (SSL) protocol.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Changes to this Statement&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] will occasionally update this Statement of Privacy to reflect
 company and customer feedback. [Portal:PortalName] encourages you to periodically
         review this Statement to be informed of how [Portal:PortalName] is protecting your
-        information.</p>
-        <p><span class="SubHead">Contact Information</span></p>
-        <p>[Portal:PortalName] welcomes your comments regarding this Statement of Privacy.
+        information.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Contact Information&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] welcomes your comments regarding this Statement of Privacy.
         If you believe that [Portal:PortalName] has not adhered to this Statement, please
-        contact [Portal:PortalName] at <a href="mailto:[Portal:Email]">[Portal:Email]</a>.
+        contact [Portal:PortalName] at &lt;a href="mailto:[Portal:Email]"&gt;[Portal:Email]&lt;/a&gt;.
         We will use commercially reasonable efforts to promptly determine and remedy the
-        problem.</p>
-    </div></value>
+        problem.&lt;/p&gt;
+    &lt;/div&gt;</value>
   </data>
   <data name="MESSAGE_PORTAL_TERMS.Text" xml:space="preserve">
-    <value><div align="left">
-        <p><span class="SubHead">AGREEMENT BETWEEN USER AND [Portal:PortalName]</span><p>
-        <p>The [Portal:PortalName] Web Site is comprised of various Web pages operated by [Portal:PortalName].</p>
-        <p>The [Portal:PortalName] Web Site is offered to you conditioned on your acceptance
+    <value>&lt;div align="left"&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;AGREEMENT BETWEEN USER AND [Portal:PortalName]&lt;/span&gt;&lt;p&gt;
+        &lt;p&gt;The [Portal:PortalName] Web Site is comprised of various Web pages operated by [Portal:PortalName].&lt;/p&gt;
+        &lt;p&gt;The [Portal:PortalName] Web Site is offered to you conditioned on your acceptance
         without modification of the terms, conditions, and notices contained herein. Your
         use of the [Portal:PortalName] Web Site constitutes your agreement to all such terms,
-        conditions, and notices.<p>
-        <p><span class="SubHead">MODIFICATION OF THESE TERMS OF USE</span></p>
-        <p>[Portal:PortalName] reserves the right to change the terms, conditions, and notices
+        conditions, and notices.&lt;p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;MODIFICATION OF THESE TERMS OF USE&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] reserves the right to change the terms, conditions, and notices
         under which the [Portal:PortalName] Web Site is offered, including but not limited
-        to the charges associated with the use of the [Portal:PortalName] Web Site.</p>
-        <p><span class="SubHead">LINKS TO THIRD PARTY SITES</span></p>
-        <p>The [Portal:PortalName] Web Site may contain links to other Web Sites ("Linked Sites").
+        to the charges associated with the use of the [Portal:PortalName] Web Site.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;LINKS TO THIRD PARTY SITES&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;The [Portal:PortalName] Web Site may contain links to other Web Sites ("Linked Sites").
         The Linked Sites are not under the control of [Portal:PortalName] and [Portal:PortalName]
         is not responsible for the contents of any Linked Site, including without limitation
         any link contained in a Linked Site, or any changes or updates to a Linked Site.
         [Portal:PortalName] is not responsible for webcasting or any other form of transmission
         received from any Linked Site. [Portal:PortalName] is providing these links to you
         only as a convenience, and the inclusion of any link does not imply endorsement
-        by [Portal:PortalName] of the site or any association with its operators.</p>
-        <p><span class="SubHead">NO UNLAWFUL OR PROHIBITED USE</span></p>
-        <p>As a condition of your use of the [Portal:PortalName] Web Site, you warrant to [Portal:PortalName]
+        by [Portal:PortalName] of the site or any association with its operators.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;NO UNLAWFUL OR PROHIBITED USE&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;As a condition of your use of the [Portal:PortalName] Web Site, you warrant to [Portal:PortalName]
         that you will not use the [Portal:PortalName] Web Site for any purpose that is unlawful
         or prohibited by these terms, conditions, and notices. You may not use the [Portal:PortalName]
         Web Site in any manner which could damage, disable, overburden, or impair the [Portal:PortalName]
         Web Site or interfere with any other party's use and enjoyment of the [Portal:PortalName]
         Web Site. You may not obtain or attempt to obtain any materials or information through
         any means not intentionally made available or provided for through the [Portal:PortalName]
-        Web Sites.</p>
-        <p><span class="SubHead">USE OF COMMUNICATION SERVICES</span></p>
-        <p>The [Portal:PortalName] Web Site may contain bulletin board services, chat areas,
+        Web Sites.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;USE OF COMMUNICATION SERVICES&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;The [Portal:PortalName] Web Site may contain bulletin board services, chat areas,
         news groups, forums, communities, personal web pages, calendars, and/or other message
         or communication facilities designed to enable you to communicate with the public
         at large or with a group (collectively, "Communication Services"), you agree to
         use the Communication Services only to post, send and receive messages and material
         that are proper and related to the particular Communication Service. By way of example,
         and not as a limitation, you agree that when using a Communication Service, you
-        will not:</p>
-<ul>
-            <li>Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such
-                as rights of privacy and publicity) of others.</li>
-            <li>Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory,
-                infringing, obscene, indecent or unlawful topic, name, material or information.</li>
-            <li>Upload files that contain software or other material protected by intellectual property
+        will not:&lt;/p&gt;
+&lt;ul&gt;
+            &lt;li&gt;Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such
+                as rights of privacy and publicity) of others.&lt;/li&gt;
+            &lt;li&gt;Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory,
+                infringing, obscene, indecent or unlawful topic, name, material or information.&lt;/li&gt;
+            &lt;li&gt;Upload files that contain software or other material protected by intellectual property
                 laws (or by rights of privacy of publicity) unless you own or control the rights
-                thereto or have received all necessary consents.</li>
-            <li>Upload files that contain viruses, corrupted files, or any other similar software
-                or programs that may damage the operation of another's computer.</li>
-            <li>Advertise or offer to sell or buy any goods or services for any business purpose,
-                unless such Communication Service specifically allows such messages.</li>
-            <li>Conduct or forward surveys, contests, pyramid schemes or chain letters.</li>
-            <li>Download any file posted by another user of a Communication Service that you know,
-                or reasonably should know, cannot be legally distributed in such manner.</li>
-            <li>Falsify or delete any author attributions, legal or other proper notices or proprietary
+                thereto or have received all necessary consents.&lt;/li&gt;
+            &lt;li&gt;Upload files that contain viruses, corrupted files, or any other similar software
+                or programs that may damage the operation of another's computer.&lt;/li&gt;
+            &lt;li&gt;Advertise or offer to sell or buy any goods or services for any business purpose,
+                unless such Communication Service specifically allows such messages.&lt;/li&gt;
+            &lt;li&gt;Conduct or forward surveys, contests, pyramid schemes or chain letters.&lt;/li&gt;
+            &lt;li&gt;Download any file posted by another user of a Communication Service that you know,
+                or reasonably should know, cannot be legally distributed in such manner.&lt;/li&gt;
+            &lt;li&gt;Falsify or delete any author attributions, legal or other proper notices or proprietary
                 designations or labels of the origin or source of software or other material contained
-                in a file that is uploaded.</li>
-            <li>Restrict or inhibit any other user from using and enjoying the Communication Services.</li>
-            <li>Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.</li>
-            <li>Harvest or otherwise collect information about others, including e-mail addresses, without their consent.</li>
-            <li>Violate any applicable laws or regulations.</li>
-</ul>
-        <p>[Portal:PortalName] has no obligation to monitor the Communication Services. However,
+                in a file that is uploaded.&lt;/li&gt;
+            &lt;li&gt;Restrict or inhibit any other user from using and enjoying the Communication Services.&lt;/li&gt;
+            &lt;li&gt;Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.&lt;/li&gt;
+            &lt;li&gt;Harvest or otherwise collect information about others, including e-mail addresses, without their consent.&lt;/li&gt;
+            &lt;li&gt;Violate any applicable laws or regulations.&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;[Portal:PortalName] has no obligation to monitor the Communication Services. However,
         [Portal:PortalName] reserves the right to review materials posted to a Communication
         Service and to remove any materials in its sole discretion. [Portal:PortalName]
         reserves the right to terminate your access to any or all of the Communication Services
-        at any time without notice for any reason whatsoever.</p>
-        <p>[Portal:PortalName] reserves the right at all times to disclose any information
+        at any time without notice for any reason whatsoever.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] reserves the right at all times to disclose any information
         as necessary to satisfy any applicable law, regulation, legal process or governmental
         request, or to edit, refuse to post or to remove any information or materials, in
-        whole or in part, in [Portal:PortalName]'s sole discretion.</p>
-        <p>Always use caution when giving out any personally identifying information about
+        whole or in part, in [Portal:PortalName]'s sole discretion.&lt;/p&gt;
+        &lt;p&gt;Always use caution when giving out any personally identifying information about
         yourself or your children in any Communication Service. [Portal:PortalName] does
         not control or endorse the content, messages or information found in any Communication
         Service and, therefore, [Portal:PortalName] specifically disclaims any liability
         with regard to the Communication Services and any actions resulting from your participation
         in any Communication Service. Managers and hosts are not authorized [Portal:PortalName]
-        spokespersons, and their views do not necessarily reflect those of [Portal:PortalName].</p>
-        <p>Materials uploaded to a Communication Service may be subject to posted limitations
+        spokespersons, and their views do not necessarily reflect those of [Portal:PortalName].&lt;/p&gt;
+        &lt;p&gt;Materials uploaded to a Communication Service may be subject to posted limitations
         on usage, reproduction and/or dissemination. You are responsible for adhering to
-        such limitations if you download the materials.</p>
-        <p><span class="SubHead">MATERIALS PROVIDED TO [Portal:PortalName] OR POSTED AT ANY [Portal:PortalName]
-            WEB SITE</span></p>
-        <p>[Portal:PortalName] does not claim ownership of the materials you provide to [Portal:PortalName]
+        such limitations if you download the materials.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;MATERIALS PROVIDED TO [Portal:PortalName] OR POSTED AT ANY [Portal:PortalName]
+            WEB SITE&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] does not claim ownership of the materials you provide to [Portal:PortalName]
         (including feedback and suggestions) or post, upload, input or submit to any [Portal:PortalName]
         Web Site or its associated services (collectively "Submissions"). However, by posting,
         uploading, inputting, providing or submitting your Submission you are granting [Portal:PortalName],
@@ -1082,24 +1085,24 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         in connection with the operation of their Internet businesses including, without
         limitation, the rights to: copy, distribute, transmit, publicly display, publicly
         perform, reproduce, edit, translate and reformat your Submission; and to publish
-        your name in connection with your Submission.</p>
-        <p>No compensation will be paid with respect to the use of your Submission, as provided
+        your name in connection with your Submission.&lt;/p&gt;
+        &lt;p&gt;No compensation will be paid with respect to the use of your Submission, as provided
         herein. [Portal:PortalName] is under no obligation to post or use any Submission
         you may provide and may remove any Submission at any time in [Portal:PortalName]'s
-        sole discretion.</p>
-        <p>By posting, uploading, inputting, providing or submitting your Submission you warrant
+        sole discretion.&lt;/p&gt;
+        &lt;p&gt;By posting, uploading, inputting, providing or submitting your Submission you warrant
         and represent that you own or otherwise control all of the rights to your Submission
         as described in this section including, without limitation, all the rights necessary
-        for you to provide, post, upload, input or submit the Submissions.</p>
-        <p><span class="SubHead">LIABILITY DISCLAIMER</span></p>
-        <p>THE INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES INCLUDED IN OR AVAILABLE THROUGH
+        for you to provide, post, upload, input or submit the Submissions.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;LIABILITY DISCLAIMER&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;THE INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES INCLUDED IN OR AVAILABLE THROUGH
         THE [Portal:PortalName] WEB SITE MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL ERRORS.
         CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN. [Portal:PortalName] AND/OR
         ITS SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR CHANGES IN THE [Portal:PortalName] WEB
         SITE AT ANY TIME. ADVICE RECEIVED VIA THE [Portal:PortalName] WEB SITE SHOULD NOT
         BE RELIED UPON FOR PERSONAL, MEDICAL, LEGAL OR FINANCIAL DECISIONS AND YOU SHOULD
-        CONSULT AN APPROPRIATE PROFESSIONAL FOR SPECIFIC ADVICE TAILORED TO YOUR SITUATION.</p>
-        <p>[Portal:PortalName] AND/OR ITS SUPPLIERS MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY,
+        CONSULT AN APPROPRIATE PROFESSIONAL FOR SPECIFIC ADVICE TAILORED TO YOUR SITUATION.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] AND/OR ITS SUPPLIERS MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY,
         RELIABILITY, AVAILABILITY, TIMELINESS, AND ACCURACY OF THE INFORMATION, SOFTWARE,
         PRODUCTS, SERVICES AND RELATED GRAPHICS CONTAINED ON THE [Portal:PortalName] WEB
         SITE FOR ANY PURPOSE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ALL SUCH
@@ -1107,8 +1110,8 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         IS" WITHOUT WARRANTY OR CONDITION OF ANY KIND. [Portal:PortalName] AND/OR ITS SUPPLIERS
         HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THIS INFORMATION, SOFTWARE,
         PRODUCTS, SERVICES AND RELATED GRAPHICS, INCLUDING ALL IMPLIED WARRANTIES OR CONDITIONS
-        OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.</p>
-        <p>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL [Portal:PortalName]
+        OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.&lt;/p&gt;
+        &lt;p&gt;TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL [Portal:PortalName]
         AND/OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL,
         CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER INCLUDING, WITHOUT LIMITATION, DAMAGES
         FOR LOSS OF USE, DATA OR PROFITS, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE
@@ -1123,10 +1126,10 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IF YOU ARE DISSATISFIED
         WITH ANY PORTION OF THE [Portal:PortalName] WEB SITE, OR WITH ANY OF THESE TERMS
         OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE [Portal:PortalName]
-        WEB SITE.</p>
-        <p>SERVICE CONTACT : [Portal:Email]</p>
-        <p><span class="SubHead">TERMINATION/ACCESS RESTRICTION</span></p>
-        <p>[Portal:PortalName] reserves the right, in its sole discretion, to terminate your
+        WEB SITE.&lt;/p&gt;
+        &lt;p&gt;SERVICE CONTACT : [Portal:Email]&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;TERMINATION/ACCESS RESTRICTION&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] reserves the right, in its sole discretion, to terminate your
         access to the [Portal:PortalName] Web Site and the related services or any portion
         thereof at any time, without notice. GENERAL To the maximum extent permitted by
         law, this agreement is governed by the laws of the State of Washington, U.S.A. and
@@ -1156,24 +1159,24 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         proceedings based upon or relating to this agreement to the same extent an d subject
         to the same conditions as other business documents and records originally generated
         and maintained in printed form. It is the express wish to the parties that this
-        agreement and all related documents be drawn up in English.</p>
-        <p><span class="SubHead">COPYRIGHT AND TRADEMARK NOTICES:</span></p>
-        <p>All contents of the [Portal:PortalName] Web Site are: [Portal:FooterText] and/or
-        its suppliers. All rights reserved.</p>
-        <p><span class="SubHead">TRADEMARKS</span></p>
-        <p>The names of actual companies and products mentioned herein may be the trademarks
-        of their respective owners.</p>
-        <p>The example companies, organizations, products, people and events depicted herein
+        agreement and all related documents be drawn up in English.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;COPYRIGHT AND TRADEMARK NOTICES:&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;All contents of the [Portal:PortalName] Web Site are: [Portal:FooterText] and/or
+        its suppliers. All rights reserved.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;TRADEMARKS&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;The names of actual companies and products mentioned herein may be the trademarks
+        of their respective owners.&lt;/p&gt;
+        &lt;p&gt;The example companies, organizations, products, people and events depicted herein
         are fictitious. No association with any real company, organization, product, person,
-        or event is intended or should be inferred.</p>
-        <p>Any rights not expressly granted herein are reserved.</p>
-        <p><span class="SubHead">NOTICES AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT</span></p>
-        <p>Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed
+        or event is intended or should be inferred.&lt;/p&gt;
+        &lt;p&gt;Any rights not expressly granted herein are reserved.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;NOTICES AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed
         copyright infringement under United States copyright law should be sent to Service
         Provider's Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE
         WILL RECEIVE NO RESPONSE. See Notice and Procedure for Making Claims of Copyright
-        Infringement.</p>
-    </div></value>
+        Infringement.&lt;/p&gt;
+    &lt;/div&gt;</value>
   </data>
   <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text" xml:space="preserve">
     <value>Om je wachtwoord op te kunnen vragen moet je jouw gebruikersnaam opgeven, en een antwoord op de wachtwoord vraag.</value>
