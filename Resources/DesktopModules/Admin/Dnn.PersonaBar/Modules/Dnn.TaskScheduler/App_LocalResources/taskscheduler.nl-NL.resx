@@ -51,8 +51,8 @@
   <data name="ControlTitle_edit.Text" xml:space="preserve">
     <value>Bewerk taak</value>
   </data>
-  <data name="ControlTitle_history.Text" xml:space="preserve">
-    <value>Taak Geschiedenis</value>
+  <data name="ControlTitle_history.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Taakhistorie</value>
   </data>
   <data name="ControlTitle_status.Text" xml:space="preserve">
     <value>Planning Status</value>
@@ -105,11 +105,11 @@
   <data name="Frequency.Header" xml:space="preserve">
     <value>FREQUENTIE</value>
   </data>
-  <data name="History.Text" xml:space="preserve">
-    <value>Weergave geschiedenis</value>
+  <data name="History.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Weergave historie</value>
   </data>
-  <data name="HistoryModalTitle.Text" xml:space="preserve">
-    <value>Taak Geschiedenis:</value>
+  <data name="HistoryModalTitle.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Taakhistorie</value>
   </data>
   <data name="Hour.Text" xml:space="preserve">
     <value>Uur</value>
@@ -267,20 +267,20 @@
   <data name="plScheduleAppStartDelay.Help" xml:space="preserve">
     <value>Aantal minuten dat het systeem zou moeten wachten voordat het ingeplande taken uitvoert na een herstart. Standaard is 1 min.</value>
   </data>
-  <data name="plScheduleAppStartDelay.Text" xml:space="preserve">
-    <value>Planning vertraging:</value>
+  <data name="plScheduleAppStartDelay.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Planningsvertraging:</value>
   </data>
   <data name="plSchedulerMode.Help" xml:space="preserve">
     <value>De Timer Methode onderhoudt een aparte thread om geplande taken uit te voeren terwijl dat het werkproces actief is.  Alternatief, de Aanvraag Methode voert taken uit wanneer HTTP Verzoeken worden gemaakt. Je kunt ook de planner uitschakelen door Uitschakelen te selecteren.</value>
   </data>
-  <data name="plSchedulerMode.Text" xml:space="preserve">
-    <value>Planner methode:</value>
+  <data name="plSchedulerMode.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Plannermethode:</value>
   </data>
   <data name="plScheduleStartDate.Help" xml:space="preserve">
     <value>Vul de startdatum/tijd in voor de geplande taak. Noot: als de server down is op de geplande tijd of andere taken draaien al, dan zal de taak worden uitgevoerd zodra de server weer online komt. </value>
   </data>
-  <data name="plScheduleStartDate.Text" xml:space="preserve">
-    <value>Planning startdatum en tijd</value>
+  <data name="plScheduleStartDate.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Planningsstartdatum en -tijd</value>
   </data>
   <data name="plServers.Help" xml:space="preserve">
     <value>Filter geplande taken door een enkele server of kies Alle om alle taken te bekijken.</value>
@@ -701,6 +701,9 @@
   <data name="RanOnServerColumn.Text" xml:space="preserve">
     <value>SERVER</value>
   </data>
+  <data name="RecommendServers.Text" xml:space="preserve" lastModified="2021-09-11 17:32:55">
+    <value>Om fouten te voorkomen, wordt het ten zeerste aanbevolen om deze planner in te stellen om op de volgende webserver(s) te draaien:&lt;br/&gt;&lt;br/&gt;{0}&lt;br/&gt;&lt;br/&gt;Toch doorgaan?</value>
+  </data>
   <data name="RequestMethod.Text" xml:space="preserve">
     <value>Verzoek methode</value>
   </data>
@@ -728,26 +731,26 @@
   <data name="ScheduleAppStartDelayValidation.Text" xml:space="preserve">
     <value>Waarde moet in minuten zijn.</value>
   </data>
-  <data name="ScheduleHistory.Action" xml:space="preserve">
-    <value>Bekijk Planning Geschiedenis</value>
+  <data name="ScheduleHistory.Action" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Bekijk Planninghsistorie</value>
   </data>
   <data name="ScheduleID.Header" xml:space="preserve">
     <value>ID:</value>
   </data>
-  <data name="ScheduleItemCreateError.Text" xml:space="preserve">
-    <value>Kan planning item niet maken.Probeer later nog eens.</value>
+  <data name="ScheduleItemCreateError.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Kan planningsitem niet aanmaken.Probeer later nog eens.</value>
   </data>
-  <data name="ScheduleItemCreateSuccess.Text" xml:space="preserve">
-    <value>Planning item succesvol gemaakt.</value>
+  <data name="ScheduleItemCreateSuccess.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Planningsitem succesvol gemaakt.</value>
   </data>
   <data name="ScheduleItemDeletedWarning.Text" xml:space="preserve">
     <value>Weet je zeker dat je het geplande item wilt verwijderen?</value>
   </data>
-  <data name="ScheduleItemUpdateError.Text" xml:space="preserve">
-    <value>Kan gepland item niet updaten. Probeer later nog eens.</value>
+  <data name="ScheduleItemUpdateError.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Kan gepland item niet bijwerken. Probeer later nog eens.</value>
   </data>
-  <data name="ScheduleItemUpdateSuccess.Text" xml:space="preserve">
-    <value>Gepland item updaten succesvol.</value>
+  <data name="ScheduleItemUpdateSuccess.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Gepland item bijwerken succesvol.</value>
   </data>
   <data name="SchedulerStartError.Text" xml:space="preserve">
     <value>Kan planner niet starten. Probeer later nog eens.</value>
@@ -761,11 +764,11 @@
   <data name="SchedulerStopSuccess.Text" xml:space="preserve">
     <value>Planner succesvol gestopt. </value>
   </data>
-  <data name="SchedulerUpdateError.Text" xml:space="preserve">
-    <value>Kon planning instellingen niet updaten. Probeer later nog eens.</value>
+  <data name="SchedulerUpdateError.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Kon planninginstellingen niet bijwerken. Probeer later nog eens.</value>
   </data>
-  <data name="SchedulerUpdateSuccess.Text" xml:space="preserve">
-    <value>Planner instellingen succesvol ge-update.</value>
+  <data name="SchedulerUpdateSuccess.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Planner instellingen succesvol bijgewerkt.</value>
   </data>
   <data name="Seconds.Text" xml:space="preserve">
     <value>Seconden</value>
@@ -824,11 +827,11 @@
   <data name="SucceededColumn.Text" xml:space="preserve">
     <value>GESLAAGD</value>
   </data>
-  <data name="TabHistory.Text" xml:space="preserve">
-    <value>GESCHIEDENIS</value>
+  <data name="TabHistory.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>HISTORIE</value>
   </data>
-  <data name="TabHistoryTitle.Text" xml:space="preserve">
-    <value>Planning Geschiedenis</value>
+  <data name="TabHistoryTitle.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Planningshistorie</value>
   </data>
   <data name="TabScheduler.Text" xml:space="preserve">
     <value>PLANNER</value>
@@ -842,8 +845,8 @@
   <data name="TimeLapsePrefix.Text" xml:space="preserve">
     <value>Elke:</value>
   </data>
-  <data name="TimeLapseRequired.ErrorMessage" xml:space="preserve">
-    <value>Je moet de frequentie waarde instellen tussen 1 en 999999.</value>
+  <data name="TimeLapseRequired.ErrorMessage" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Je moet de frequentiewaarde instellen tussen 1 en 999999.</value>
   </data>
   <data name="TimeLapseValidator.ErrorMessage" xml:space="preserve">
     <value>Frequentie bereik is tussen 1 en 999999.</value>
@@ -851,8 +854,8 @@
   <data name="TimeRemaining.Header" xml:space="preserve">
     <value>Tijd resterend (seconden):</value>
   </data>
-  <data name="TimerMethod.Text" xml:space="preserve">
-    <value>Timer Methode</value>
+  <data name="TimerMethod.Text" xml:space="preserve" lastModified="2021-09-11 17:36:41">
+    <value>Timermethode</value>
   </data>
   <data name="TriggeredBy.Header" xml:space="preserve">
     <value>Veroorzaakt door:</value>
