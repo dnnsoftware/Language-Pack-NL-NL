@@ -84,7 +84,7 @@
             voor de inhoud, modules en skins. Deze functies vereisen aangepaste beveiligingsinstellingen
             zodat de applicatie in staat is om deze aan te maken en/of te verwijderen in je site.&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
-            Op de webserver gebruikt je de Windows Verkenner, blader je naar de hoofdmap van de website. Rechtsklik
+            Op de webserver gebruik je de Windows Verkenner, blader je naar de hoofdmap van de website. Rechtsklik
             op de map en selecteer Delen en Beveiliging uit het menu.
             Selecteer het tabblad Beveiliging. Voeg de juiste gebruikersaccount en stel de machtigingen
             in.&amp;lt;/p&amp;gt;
