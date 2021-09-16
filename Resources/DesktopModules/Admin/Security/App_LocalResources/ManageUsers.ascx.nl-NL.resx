@@ -64,7 +64,7 @@
     <value>Deze website vereist dat dat e-mail adressen uniek zijn. Het e-mail adres dat je wilt gebruiken is reeds in gebruik.</value>
   </data>
   <data name="ExceededRegisterQuota.Text" xml:space="preserve">
-    <value>Op dit moment kun je je  niet registreren voor deze site. Neem contact op met de beheerder van de site voor meer informatie.</value>
+    <value>Op dit moment kun je je niet registreren voor deze site. Neem contact op met de beheerder van de site voor meer informatie.</value>
   </data>
   <data name="ExceededUserQuota.Text" xml:space="preserve">
     <value>Het toevoegen van deze gebruiker zal resulteren in het overschrijden van het maximale aantal gebruikers voor deze website. Neem contact op met je hosting provider voor meer informatie hierover</value>

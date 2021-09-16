@@ -118,7 +118,7 @@
     <value>Geef een instant messenger ID Skype, Yahoo, Google etc</value>
   </data>
   <data name="ProfileProperties_IM.Required" xml:space="preserve">
-    <value>IM  is een verplicht veld.</value>
+    <value>IM is een verplicht veld.</value>
   </data>
   <data name="ProfileProperties_IM.Text" xml:space="preserve">
     <value>IM:</value>
@@ -157,7 +157,7 @@
     <value>Selecteer een foto of upload een afbeelding vanaf je lokale systeem.</value>
   </data>
   <data name="ProfileProperties_Photo.Required" xml:space="preserve">
-    <value>Foto is Verplicht.</value>
+    <value>Foto is verplicht.</value>
   </data>
   <data name="ProfileProperties_Photo.Text" xml:space="preserve">
     <value>Foto:</value>
@@ -187,10 +187,10 @@
     <value>Kies de gewenste tijdzone.</value>
   </data>
   <data name="ProfileProperties_PreferredTimeZone.Required" xml:space="preserve">
-    <value>Aanbevolen Tijdzone is vereist.</value>
+    <value>Aanbevolen tijdzone is vereist.</value>
   </data>
   <data name="ProfileProperties_PreferredTimeZone.Text" xml:space="preserve">
-    <value>Aanbevolen Tijdzone:</value>
+    <value>Aanbevolen tijdzone:</value>
   </data>
   <data name="ProfileProperties_Prefix.Help" xml:space="preserve">
     <value>Geef een voorvoegsel eg. Dhr., Mw., Drs. etc.</value>

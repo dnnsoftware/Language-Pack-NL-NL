@@ -100,7 +100,7 @@
     <value>Alleen voor leden</value>
   </data>
   <data name="PasswordSettings.Text" xml:space="preserve">
-    <value>Wachtwoord Verloop Instellingen</value>
+    <value>Wachtwoord verloop instellingen</value>
   </data>
   <data name="PasswordSettingsHelp.Text" xml:space="preserve">
     <value>In deze sectie kun je het automatisch verlopen van wachtwoorden regelen.</value>

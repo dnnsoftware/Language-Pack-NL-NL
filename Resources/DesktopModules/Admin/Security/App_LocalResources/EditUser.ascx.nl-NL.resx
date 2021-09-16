@@ -40,7 +40,7 @@
     <value>Profiel</value>
   </data>
   <data name="DisplayNameNotUnique.Text" xml:space="preserve">
-    <value>De weergavenaam die je hebt ingegeven is al reeds in gebruik. Kies een andere naam.</value>
+    <value>De weergavenaam die je hebt ingegeven is reeds in gebruik. Kies een andere naam.</value>
   </data>
   <data name="ErrorDialogTitle.Text" xml:space="preserve">
     <value>Overwachte fout.</value>
@@ -52,7 +52,7 @@
     <value>Profiel URL is succesvol bijgewerkt</value>
   </data>
   <data name="UserSubscribed.Text" xml:space="preserve">
-    <value>Je inschrijving op de rol {0} is succesvol .</value>
+    <value>Je inschrijving op de rol {0} is succesvol.</value>
   </data>
   <data name="UserUnSubscribed.Text" xml:space="preserve">
     <value>Je uitschrijving op de rol {0} is succesvol.</value>

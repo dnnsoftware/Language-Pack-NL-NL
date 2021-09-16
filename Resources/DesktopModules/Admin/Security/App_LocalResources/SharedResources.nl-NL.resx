@@ -106,7 +106,7 @@
     <value>Bevestig wachtwoord:</value>
   </data>
   <data name="PasswordMismatch.Text" xml:space="preserve">
-    <value>Het nieuwe wachtwoord en het bevestigingswachtwoord komen niet overeen. Het wachtwoord is niet veranderd.</value>
+    <value>Het nieuwe wachtwoord en het bevestigingswachtwoord komen niet overeen. Het wachtwoord is niet gewijzigd.</value>
   </data>
   <data name="PasswordMismatch_Detail.Text" xml:space="preserve">
     <value>Het wachtwoord en wachtwoord verificatie komen niet overeen.</value>
