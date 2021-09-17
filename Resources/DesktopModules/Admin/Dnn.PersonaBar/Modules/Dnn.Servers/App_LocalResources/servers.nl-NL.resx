@@ -321,8 +321,8 @@
   <data name="PerformanceTab_MinifactionWarning.Text" xml:space="preserve" lastModified="2021-09-14 09:30:33">
     <value>Belangrijke opmerking betreffende minificatie instellingen. &lt;br/&gt; Als minificatie instellingen gewijzigd zijn wanneer samengesteld bestanden ingeschakeld zijn, dan moet je eerst de minificatie instellingen opslaan door te klikken op Opslaan en daarna het versienummer op te hogen. Dit maakt nieuwe bestanden aan met de nieuwe minificatie instellingen.</value>
   </data>
-  <data name="PerformanceTab_MinifyCss.Help" xml:space="preserve" lastModified="2021-09-14 09:30:33">
-    <value>CSS Minificatie reduceert de grootte van CSS Code door regular expressions te gebruiken om copmmentaar te verwijderen, whitespace en "dode CSS". Het is alleen beschikbaar wanneer samengesteld bestanden is ingeschakeld.</value>
+  <data name="PerformanceTab_MinifyCss.Help" xml:space="preserve" lastModified="2021-09-17 11:42:00">
+    <value>CSS Minificatie reduceert de grootte van CSS Code door regular expressions te gebruiken om commentaar te verwijderen, whitespace en "dode CSS". Het is alleen beschikbaar wanneer samengesteld bestanden is ingeschakeld.</value>
   </data>
   <data name="PerformanceTab_MinifyCss.Text" xml:space="preserve" lastModified="2016-12-02 00:49:49">
     <value>Minificeer CSS</value>
