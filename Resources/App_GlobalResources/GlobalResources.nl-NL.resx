@@ -75,7 +75,7 @@
   <data name="403_3.Error" xml:space="preserve">
     <value>    &amp;lt;div style="height: 100%; width: 90%;"&amp;gt;
         &amp;lt;h3&amp;gt;
-            DotNetNuke Configuratie fout&amp;lt;/h3&amp;gt;
+            DotNetNuke Configuratiefout&amp;lt;/h3&amp;gt;
         &amp;lt;p&amp;gt;
             {0}&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
@@ -84,8 +84,8 @@
             voor de inhoud, modules en skins. Deze functies vereisen aangepaste beveiligingsinstellingen
             zodat de applicatie in staat is om deze aan te maken en/of te verwijderen in je site.&amp;lt;/p&amp;gt;
         &amp;lt;p&amp;gt;
-            Op de webserver gebriuikt de de Windows Verkenner, blader je naar de hoofdmap van de website. Rechtsklik
-            op de map en selecteer Delen en beveiliging uit het menu.
+            Op de webserver gebruik je de Windows Verkenner, blader je naar de hoofdmap van de website. Rechtsklik
+            op de map en selecteer Delen en Beveiliging uit het menu.
             Selecteer het tabblad Beveiliging. Voeg de juiste gebruikersaccount en stel de machtigingen
             in.&amp;lt;/p&amp;gt;
         &amp;lt;ul style="text-align: left; list-style-type: none; list-style-position: outside;"&amp;gt;
@@ -331,11 +331,11 @@ Verzenden compleet op:      [Custom:3]
     <value>Bulkmail '{0}' ingediend</value>
   </data>
   <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text" xml:space="preserve">
-    <value>&amp;lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&amp;gt;
-&amp;lt;html xmlns="https://www.w3.org/1999/xhtml"&amp;gt;
-&amp;lt;head&amp;gt;
-    &amp;lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&amp;gt;
-    &amp;lt;style type="text/css"&amp;gt;
+    <value>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="https://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;
+    &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&gt;
+    &lt;style type="text/css"&gt;
             /* Reset Styles */
         html, body{height:100%;width:100%;}
         body{
@@ -349,7 +349,7 @@ Verzenden compleet op:      [Custom:3]
         p{margin: 0 0 1.6em 0;}
         a{color:#417CD3;}
         #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
-        body{ background-color:#fafafa; }        
+        body{ background-color:#fafafa; }
 
         #templateContainer{
             border: 1px solid #eeeeee;
@@ -383,133 +383,130 @@ Verzenden compleet op:      [Custom:3]
             font-size:0.9em;
             color:#999;
         }
-    &amp;lt;/style&amp;gt;
-&amp;lt;/head&amp;gt;
+    &lt;/style&gt;
+&lt;/head&gt;
 
-&amp;lt;body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"&amp;gt;
-&amp;lt;table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" id="backgroundTable"&amp;gt;
-    &amp;lt;tr&amp;gt;
-        &amp;lt;td align="center" valign="top"&amp;gt;
-            &amp;lt;!-- // Begin Template Preheader \\ --&amp;gt;
-            &amp;lt;table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="600"&amp;gt;
-                &amp;lt;tr align="right"&amp;gt;
-                    &amp;lt;td valign="top" class="preheaderContent" style="border-top:5px solid #417CD3;"&amp;gt;
+&lt;body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"&gt;
+&lt;table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" id="backgroundTable"&gt;
+    &lt;tr&gt;
+        &lt;td align="center" valign="top"&gt;
+            &lt;!-- // Begin Template Preheader \\ --&gt;
+            &lt;table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="600"&gt;
+                &lt;tr align="right"&gt;
+                    &lt;td valign="top" class="preheaderContent" style="border-top:5px solid #417CD3;"&gt;
 
-                        &amp;lt;!-- // Begin Module: Standard Preheader \ --&amp;gt;
-                        &amp;lt;table border="0" cellpadding="0" cellspacing="0" &amp;gt;
-                            &amp;lt;tr&amp;gt;
-                                &amp;lt;td align="right"&amp;gt;
-                                    &amp;lt;p&amp;gt;Problem viewing email? &amp;lt;a href="[NOTIFICATIONURL]"&amp;gt;&amp;lt;span&amp;gt;Click here to view online.&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;
-                                &amp;lt;/td&amp;gt;
-                            &amp;lt;/tr&amp;gt;
-                        &amp;lt;/table&amp;gt;
-                        &amp;lt;!-- // End Module: Standard Preheader \ --&amp;gt;
-                    &amp;lt;/td&amp;gt;
-                &amp;lt;/tr&amp;gt;
-            &amp;lt;/table&amp;gt;
-            &amp;lt;!-- // End Template Preheader \\ --&amp;gt;
-            &amp;lt;!-- // Begin Template body \\ --&amp;gt;
-            &amp;lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border:1px solid #eeeeee; " &amp;gt;
-                &amp;lt;tr &amp;gt;
-                    &amp;lt;td align="center" valign="top"&amp;gt;
-                        &amp;lt;!-- // Begin Template Header \\ --&amp;gt;
-                        &amp;lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateHeader"&amp;gt;
-                            &amp;lt;tr&amp;gt;
-                                &amp;lt;td class="headerContent"&amp;gt;
-                                    &amp;lt;a href="[SITEURL]"&amp;gt;
-                                        &amp;lt;!--&amp;lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" /&amp;gt;--&amp;gt;
-                                        &amp;lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" width="200" /&amp;gt;
-                                    &amp;lt;/a&amp;gt;
+                        &lt;!-- // Begin Module: Standard Preheader \ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" &gt;
+                            &lt;tr&gt;
+                                &lt;td align="right"&gt;
+                                    &lt;p&gt;Problemen met de weergave? &lt;a href="[NOTIFICATIONURL]"&gt;&lt;span&gt;Klik hier om het bericht online te bekijken.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Module: Standard Preheader \ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;!-- // End Template Preheader \\ --&gt;
+            &lt;!-- // Begin Template body \\ --&gt;
+            &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border:1px solid #eeeeee; " &gt;
+                &lt;tr &gt;
+                    &lt;td align="center" valign="top"&gt;
+                        &lt;!-- // Begin Template Header \\ --&gt;
+                        &lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateHeader"&gt;
+                            &lt;tr&gt;
+                                &lt;td class="headerContent"&gt;
+                                    &lt;a href="[SITEURL]"&gt;
+                                        &lt;!--&lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" /&gt;--&gt;
+                                        &lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" width="200" /&gt;
+                                    &lt;/a&gt;
 
-                                &amp;lt;/td&amp;gt;
-                            &amp;lt;/tr&amp;gt;
-                        &amp;lt;/table&amp;gt;
-                        &amp;lt;!-- // End Template Header \\ --&amp;gt;
-                    &amp;lt;/td&amp;gt;
-                &amp;lt;/tr&amp;gt;
-                &amp;lt;tr &amp;gt;
-                    &amp;lt;td align="center" valign="top"&amp;gt;
-                        &amp;lt;!-- // Begin Template Sub Header \\ --&amp;gt;
-                        &amp;lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateSubHeader"&amp;gt;
-                            &amp;lt;tr&amp;gt;
-                                &amp;lt;td class="subHeaderContent" bgcolor="#417CD3" width="66%" align="left"&amp;gt;
-                                    &amp;lt;h2 style="color:#fff; font-weight:100; font-size:24px;"&amp;gt;Notifications&amp;lt;/h2&amp;gt;
-                                &amp;lt;/td&amp;gt;&amp;lt;!--close subHeaderContent--&amp;gt;
-                                &amp;lt;td width="33%" bgcolor="#417CD3" align="right"&amp;gt;
-                                    &amp;lt;p style="color:#fff;"&amp;gt;&amp;lt;/p&amp;gt;
-                                &amp;lt;/td&amp;gt;
-                            &amp;lt;/tr&amp;gt;
-                        &amp;lt;/table&amp;gt;
-                        &amp;lt;!-- // End Template Sub Header \\ --&amp;gt;
-                    &amp;lt;/td&amp;gt;
-                &amp;lt;/tr&amp;gt;
-                &amp;lt;tr&amp;gt;
-                    &amp;lt;td align="center" valign="top" bgcolor="#ffffff"&amp;gt;
-                        &amp;lt;!-- // Begin Template Body \\ --&amp;gt;
-                        &amp;lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody"&amp;gt;
-                            &amp;lt;tr&amp;gt;
-                                &amp;lt;td valign="top" class="bodyContent"&amp;gt;
-                                    &amp;lt;!-- // Begin Module: Standard Content \\ --&amp;gt;
-                                    &amp;lt;table border="0" cellpadding="30" cellspacing="0" width="100%"&amp;gt;
-                                        &amp;lt;tr&amp;gt;
-                                            &amp;lt;td valign="top"&amp;gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Template Header \\ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr &gt;
+                    &lt;td align="center" valign="top"&gt;
+                        &lt;!-- // Begin Template Sub Header \\ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateSubHeader"&gt;
+                            &lt;tr&gt;
+                                &lt;td class="subHeaderContent" bgcolor="#417CD3" width="66%" align="left"&gt;
+                                    &lt;h2 style="color:#fff; font-weight:100; font-size:24px;"&gt;Notificaties&lt;/h2&gt;
+                                &lt;/td&gt;&lt;!--close subHeaderContent--&gt;
+                                &lt;td width="33%" bgcolor="#417CD3" align="right"&gt;
+                                    &lt;p style="color:#fff;"&gt;&lt;/p&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Template Sub Header \\ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td align="center" valign="top" bgcolor="#ffffff"&gt;
+                        &lt;!-- // Begin Template Body \\ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody"&gt;
+                            &lt;tr&gt;
+                                &lt;td valign="top" class="bodyContent"&gt;
+                                    &lt;!-- // Begin Module: Standard Content \\ --&gt;
+                                    &lt;table border="0" cellpadding="30" cellspacing="0" width="100%"&gt;
+                                        &lt;tr&gt;
+                                            &lt;td valign="top"&gt;
                                                 [MESSAGEBODY]
-                                            &amp;lt;/td&amp;gt;
-                                        &amp;lt;/tr&amp;gt;
-                                    &amp;lt;/table&amp;gt;
-                                    &amp;lt;!-- // End Module: Standard Content \\ --&amp;gt;
-                                &amp;lt;/td&amp;gt;
-                            &amp;lt;/tr&amp;gt;
-                        &amp;lt;/table&amp;gt;
-                        &amp;lt;!-- // End Template Body \\ --&amp;gt;
-                    &amp;lt;/td&amp;gt;
-                &amp;lt;/tr&amp;gt;
-                &amp;lt;tr&amp;gt;
-                    &amp;lt;td align="center" valign="top"&amp;gt;
-                        &amp;lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateFooter"&amp;gt;
-                            &amp;lt;tr&amp;gt;
-                                &amp;lt;td valign="top" class="footerContent"&amp;gt;
-                                    &amp;lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&amp;gt;
-                                        &amp;lt;tr&amp;gt;
-                                            &amp;lt;td align="center"&amp;gt;
-                                                &amp;lt;a href="[UNSUBSCRIBEURL]" &amp;gt; Manage your Subscriptions&amp;lt;/a&amp;gt; &amp;amp;nbsp; |  &amp;amp;nbsp;
-                                                &amp;lt;a href="https://www.twitter.com/" &amp;gt; Follow us on Twitter&amp;lt;/a&amp;gt; &amp;amp;nbsp; |  &amp;amp;nbsp;
-                                                &amp;lt;a href="https://www.facebook.com/" &amp;gt; Become a fan on Facebook&amp;lt;/a&amp;gt;
+                                            &lt;/td&gt;
+                                        &lt;/tr&gt;
+                                    &lt;/table&gt;
+                                    &lt;!-- // End Module: Standard Content \\ --&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Template Body \\ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td align="center" valign="top"&gt;
+                        &lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateFooter"&gt;
+                            &lt;tr&gt;
+                                &lt;td valign="top" class="footerContent"&gt;
+                                    &lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+                                        &lt;tr&gt;
+                                            &lt;td align="center"&gt;
+                                                &lt;a href="[UNSUBSCRIBEURL]" &gt; Beheer je lidmaatschappen&lt;/a&gt; &amp;nbsp; |  &amp;nbsp;&lt;a href="[NOTIFICATIONURL]" &gt; Online bekijken&lt;/a&gt;
+                                            &lt;/td&gt;
+                                        &lt;/tr&gt;
+                                    &lt;/table&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;&lt;!-- // End Template Body \\ --&gt;
+            &lt;!-- // Begin Template footer \\ --&gt;
+            &lt;table border="0" cellpadding="0" cellspacing="0" id="bodyTemplateFooter" width="600"&gt;
+                &lt;tr&gt;
+                    &lt;td valign="top" class="bodyFooterContent"&gt;
 
-                                            &amp;lt;/td&amp;gt;
-                                        &amp;lt;/tr&amp;gt;
-                                    &amp;lt;/table&amp;gt;
-                                &amp;lt;/td&amp;gt;
-                            &amp;lt;/tr&amp;gt;
-                        &amp;lt;/table&amp;gt;
-                    &amp;lt;/td&amp;gt;
-                &amp;lt;/tr&amp;gt;
-            &amp;lt;/table&amp;gt;&amp;lt;!-- // End Template Body \\ --&amp;gt;
-            &amp;lt;!-- // Begin Template footer \\ --&amp;gt;
-            &amp;lt;table border="0" cellpadding="0" cellspacing="0" id="bodyTemplateFooter" width="600"&amp;gt;
-                &amp;lt;tr&amp;gt;
-                    &amp;lt;td valign="top" class="bodyFooterContent"&amp;gt;
+                        &lt;!-- // Begin Module: Standard Preheader \ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" align="center" &gt;
 
-                        &amp;lt;!-- // Begin Module: Standard Preheader \ --&amp;gt;
-                        &amp;lt;table border="0" cellpadding="0" cellspacing="0" align="center" &amp;gt;
-
-                            &amp;lt;tr&amp;gt;
-                                &amp;lt;td align="center"&amp;gt;
-                                    &amp;lt;p&amp;gt;Copyright 2013 &amp;lt;a href="[SITEURL]"&amp;gt;[PORTALNAME]&amp;lt;/a&amp;gt; All rights reserved.&amp;lt;/p&amp;gt;
-                                    &amp;lt;p&amp;gt;If you wish to no longer receive emails in the future, please &amp;lt;a href="[UNSUBSCRIBEURL]"&amp;gt;unsubscribe&amp;lt;/a&amp;gt; here.&amp;lt;/p&amp;gt;
-                                &amp;lt;/td&amp;gt;
-                            &amp;lt;/tr&amp;gt;
-                        &amp;lt;/table&amp;gt;
-                        &amp;lt;!-- // End Module: Standard Preheader \ --&amp;gt;
-                    &amp;lt;/td&amp;gt;
-                &amp;lt;/tr&amp;gt;
-            &amp;lt;/table&amp;gt;
-            &amp;lt;!-- // End Template footer \\ --&amp;gt;
-        &amp;lt;/td&amp;gt;
-    &amp;lt;/tr&amp;gt;
-&amp;lt;/table&amp;gt;&amp;lt;!-- wrapper table --&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;</value>
+                            &lt;tr&gt;
+                                &lt;td align="center"&gt;
+                                    &lt;p&gt;Copyright [Year] &lt;a href="[SITEURL]"&gt;[PORTALNAME]&lt;/a&gt; Alle rechten voorbehouden.&lt;/p&gt;
+                                    &lt;p&gt;Wanneer je in de toekomst geen e-mails meer wilt ontvangen, dan kunt u hier &lt;a href="[UNSUBSCRIBEURL]"&gt;uitschrijven&lt;/a&gt;.&lt;/p&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Module: Standard Preheader \ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;!-- // End Template footer \\ --&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;!-- wrapper table --&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
   </data>
   <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" xml:space="preserve">
     <value>&amp;lt;div style="width:100%;"&amp;gt;&amp;lt;h5&amp;gt;[TITLE]&amp;lt;/h5&amp;gt;&amp;lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&amp;gt;
@@ -1272,7 +1269,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Terug naar website</value>
   </data>
   <data name="SearchCrawler Admin.String" xml:space="preserve">
-    <value>Zoekmachine beheer</value>
+    <value>Zoekmachine beheren</value>
   </data>
   <data name="SiteAccessedWhileInstallationWasInProgress.Error" xml:space="preserve">
     <value>Deze site is bezocht terwijl er een installatie of upgrade werd uitgevoerd.</value>
@@ -1287,7 +1284,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Op dit moment wordt er een installatie uitgevoerd. Probeer het op een later moment nogmaals.</value>
   </data>
   <data name="TokenReplaceRestrictedProperty.Text" xml:space="preserve">
-    <value>Fout bij toegang tot  [{0}:{1}], toegang tot {1} is afgeschermd voor databron {0}.</value>
+    <value>Fout bij toegang tot [{0}:{1}], toegang tot {1} is afgeschermd voor databron {0}.</value>
   </data>
   <data name="TokenReplaceUnknownObject.Text" xml:space="preserve">
     <value>Fout bij toegang tot [{0}:{1}], {0} is een onbekend object token.</value>
@@ -1296,7 +1293,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Fout bij toegang tot [{0}:{1}], {1} is onbekend voor databron {0}.</value>
   </data>
   <data name="TrackClicks.Text" xml:space="preserve">
-    <value>Het aantal keer dat link is aangeklikt bijhouden </value>
+    <value>Het aantal keer dat link is aangeklikt bijhouden.</value>
   </data>
   <data name="Translate.Action" xml:space="preserve">
     <value>Markeer als vertaald</value>
@@ -1311,7 +1308,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>De toegevoegde URL is niet beschikbaar. Als je het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
   </data>
   <data name="UserRelationship_Added.Text" xml:space="preserve">
-    <value>Toegevoegd UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
+    <value>Toegevoegde UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
   </data>
   <data name="UserRelationship_Deleted.Text" xml:space="preserve">
     <value>Verwijderde UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
@@ -1320,7 +1317,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Bijgewerkte UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
   </data>
   <data name="UserRelationshipPreference_Added.Text" xml:space="preserve">
-    <value>Toegevoegd UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
+    <value>Toegevoegde UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
   </data>
   <data name="UserRelationshipPreference_Deleted.Text" xml:space="preserve">
     <value>Verwijderde UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
