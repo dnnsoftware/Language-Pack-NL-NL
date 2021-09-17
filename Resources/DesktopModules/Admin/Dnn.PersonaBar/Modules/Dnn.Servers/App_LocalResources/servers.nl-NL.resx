@@ -67,7 +67,7 @@
     <value>Verwijderen</value>
   </data>
   <data name="DeleteNonActiveServers.Confirm" xml:space="preserve" lastModified="2021-09-14 09:25:57">
-    <value>WIl je alle inactieve servers verwijderen?</value>
+    <value>Wil je alle inactieve servers verwijderen?</value>
   </data>
   <data name="DeleteNonActiveServers.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
     <value>Verwijder inactieve servers</value>
@@ -361,7 +361,7 @@
     <value>Page State Persistence:</value>
   </data>
   <data name="PerformanceTab_PortalVersionConfirmMessage.Text" xml:space="preserve" lastModified="2021-09-14 09:30:33">
-    <value>Deze actie forceert alle site bezoekers om nieuwe versies te downloaden van CSS en Javascript bestanden. JE moet dit allen doen als je zeker weet dat de bestanden gewijzigd zijn en je deze wijzigingen gecheckt wilt hebben op de browser van de klant. Weet je zeker dat je het versienummer wilt ophogen voor je site?</value>
+    <value>Deze actie forceert alle site bezoekers om nieuwe versies te downloaden van CSS en Javascript bestanden. Je moet dit allen doen als je zeker weet dat de bestanden gewijzigd zijn en je deze wijzigingen gecheckt wilt hebben op de browser van de klant. Weet je zeker dat je het versienummer wilt ophogen voor je site?</value>
   </data>
   <data name="PerformanceTab_PortalVersionConfirmNo.Text" xml:space="preserve" lastModified="2016-12-02 06:05:20">
     <value>Nee</value>
