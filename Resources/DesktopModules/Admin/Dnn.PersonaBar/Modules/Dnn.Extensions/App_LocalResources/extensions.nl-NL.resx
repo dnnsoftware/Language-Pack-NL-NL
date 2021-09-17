@@ -712,7 +712,7 @@
     <value>Licentie</value>
   </data>
   <data name="InstallExtension_License.HelpText" xml:space="preserve">
-    <value>Alvorens verder te gaan moet je de voorwaarden van de licentie voor deze uitbreiding accepteren. Bekijk de licentie en vink het vakje 'accepteer licentie' aan.</value>
+    <value>Alvorens verder te gaan moet je de voorwaarden van de licentie voor deze uitbreiding accepteren. Bekijk de licentie en vink het vakje 'Licentie accepteren' aan.</value>
   </data>
   <data name="InstallExtension_Logs.Header" xml:space="preserve">
     <value>Pakket Installatie Rapport</value>
