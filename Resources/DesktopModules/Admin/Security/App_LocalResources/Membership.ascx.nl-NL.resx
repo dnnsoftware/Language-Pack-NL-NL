@@ -61,7 +61,7 @@
     <value>Datum dat deze gebruiker voor het laatst was geblokkeerd als gevolg van herhaalde mislukte inlogpogingen</value>
   </data>
   <data name="LastLockoutDate.Text" xml:space="preserve">
-    <value>Laatste Lock-out Datum:</value>
+    <value>Laatste Lock-out datum:</value>
   </data>
   <data name="LastLoginDate.Help" xml:space="preserve">
     <value>Datum dat gebruiker voor het laatst is ingelogd.</value>
@@ -91,7 +91,7 @@
     <value>Wijzig naar applicatiebeheerder.</value>
   </data>
   <data name="UpdatePassword.Help" xml:space="preserve">
-    <value>Instrueer deze gebruiker om het  wachtwoord bij te werken</value>
+    <value>Instrueer deze gebruiker om het wachtwoord bij te werken</value>
   </data>
   <data name="UpdatePassword.Text" xml:space="preserve">
     <value>Wachtwoord bijwerken:</value>

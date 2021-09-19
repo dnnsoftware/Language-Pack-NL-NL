@@ -28,7 +28,7 @@
     <value>Het wachtwoord en de bevestiging moeten overeenkomen.</value>
   </data>
   <data name="ConfirmUnRegister.Text" xml:space="preserve">
-    <value>Weet je zeker dat je je registratie ongedaan wilt maken.</value>
+    <value>Weet je zeker dat je je registratie ongedaan wilt maken?</value>
   </data>
   <data name="CreateUser.Text" xml:space="preserve">
     <value>Gebruiker aanmaken</value>
@@ -37,7 +37,7 @@
     <value>Verwijderen</value>
   </data>
   <data name="DisplayNameNotUnique.Text" xml:space="preserve">
-    <value>De weergavenaam die je hebt ingevoerd is al reeds in gebruik, kies een andere naam.</value>
+    <value>De weergavenaam die je hebt ingevoerd is al reeds in gebruik. Kies een andere naam.</value>
   </data>
   <data name="HideSiteList.Text" xml:space="preserve">
     <value>Verberg lijst van sites</value>
@@ -58,7 +58,7 @@
     <value>Geef een antwoord op de wachtwoordvraag.</value>
   </data>
   <data name="plAnswer.Text" xml:space="preserve">
-    <value>Wachtwoord Antwoord:</value>
+    <value>Wachtwoord antwoord:</value>
   </data>
   <data name="plAuthorize.Help" xml:space="preserve">
     <value>Autoriseer deze gebruiker.</value>
@@ -94,7 +94,7 @@
     <value>Vink deze optie aan om een willekeurig wachtwoord te genereren.</value>
   </data>
   <data name="plRandom.Text" xml:space="preserve">
-    <value>willekeurig Wachtwoord</value>
+    <value>Willekeurig wachtwoord</value>
   </data>
   <data name="UnRegister.Text" xml:space="preserve">
     <value>Registratie ongedaan maken</value>
