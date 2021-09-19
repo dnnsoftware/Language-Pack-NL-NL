@@ -339,17 +339,17 @@
     <value>Default</value>
   </data>
   <data name="Prompt_DeleteModule_Description.Text" xml:space="preserve">
-    <value>Soft-verwijdert een module op een specifieke pagina. De module wordt naar de DNN-prullenbak verzonden. Hiermee worden modules niet verwijderd of worden module-definities beïnvloed.</value>
+    <value>Soft-verwijdert een module op een specifieke pagina. De module wordt naar de DNN-Prullenbak verzonden. Hiermee worden modules niet verwijderd of worden module-definities beïnvloed.</value>
   </data>
   <data name="Prompt_DeleteModule_FlagId.Text" xml:space="preserve">
-    <value>Soft-score een module op een traditionele pagina. De module wordt naar de DNN-prullenbak verzonden. Geen modules worden verwijderd van worden module-versies voordoen.</value>
+    <value>Soft-score een module op een traditionele pagina. De module wordt naar de DNN-Prullenbak verzonden. Geen modules worden verwijderd van worden module-versies voordoen.</value>
   </data>
   <data name="Prompt_DeleteModule_FlagPageId.Text" xml:space="preserve">
     <value>Hiermee geef je de pagina-ID op van de pagina waarop de te verwijderen module zich bevindt.</value>
   </data>
   <data name="Prompt_DeleteModule_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Verwijder en stuur module-instantie naar de prullenbak&lt;/h4&gt;
-    &lt;p&gt;Dit zal een module-instantie op een specifieke pagina verwijderen en deze naar de DNN prullenbak sturen&lt;/p&gt;
+    &lt;p&gt;Dit zal een module-instantie op een specifieke pagina verwijderen en deze naar de DNN-Prullenbak sturen&lt;/p&gt;
     &lt;code class="block"&gt;delete-module 345 --pageid 42&lt;/code&gt;</value>
   </data>
   <data name="Prompt_Description.Text" xml:space="preserve">

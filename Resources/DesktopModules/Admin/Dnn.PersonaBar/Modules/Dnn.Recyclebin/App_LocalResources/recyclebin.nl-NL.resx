@@ -120,7 +120,7 @@
     <value>Prullenbak Opdrachten</value>
   </data>
   <data name="Prompt_RestoreModule_Description.Text" xml:space="preserve">
-    <value>Herstelt een module uit de DNN Prullenbak.</value>
+    <value>Herstelt een module uit de DNN-Prullenbak.</value>
   </data>
   <data name="Prompt_RestoreModule_FlagId.Text" xml:space="preserve">
     <value>Geeft expliciet het module Id van de module die opgehaald moet worden. Gebruik van de markering is niet nodig. U kunt eenvoudig de waarde van het ID als eerste argument opgeven.</value>
@@ -129,7 +129,7 @@
     <value>Het pagina-ID van de pagina waarop de module die u wilt terugzetten zich bevond vóór verwijdering.</value>
   </data>
   <data name="Prompt_RestoreModule_ResultHtml.Text" xml:space="preserve">
-    <value>&lt;h4&gt;Herstel een module uit de Prullenbak&lt;/h4&gt;
+    <value>&lt;h4&gt;Herstel een module uit de prullenbak&lt;/h4&gt;
         &lt;code class="block"&gt;restore-module 359 --pageid 71&lt;/code&gt;
 
         &lt;h4&gt;Resultaten&lt;/h4&gt;
@@ -139,7 +139,7 @@
     <value>Gebruiker niet verwijderd. Herstellen niet nodig.</value>
   </data>
   <data name="Prompt_RestorePage_Description.Text" xml:space="preserve">
-    <value>Herstelt een pagina uit de DNN Prullenbak.</value>
+    <value>Herstelt een pagina uit de DNN-Prullenbak.</value>
   </data>
   <data name="Prompt_RestorePage_FlagId.Text" xml:space="preserve">
     <value>Geeft expliciet het pagina-ID aan die moet worden verwijderd. Gebruik van de markeringnaam is niet vereist. U kunt eenvoudig de ID-waarde als het eerste argument opgeven. Vereist als &lt;span class="mono"&gt;-parentid&lt;/span&gt; en &lt;span class="mono"&gt;-name&lt;/span&gt; niet zijn opgegeven.</value>
@@ -207,7 +207,7 @@
     <value>Datum</value>
   </data>
   <data name="recyclebin_EmptyRecycleBin.Text" xml:space="preserve">
-    <value>Legen prullenbak</value>
+    <value>Prullenbak legen</value>
   </data>
   <data name="recyclebin_EmptyRecycleBinConfirm.Text" xml:space="preserve">
     <value>Wilt u alle bestanden in de prullenbak legen?</value>
@@ -225,13 +225,13 @@
     <value>De prullenbak is momenteel leeg</value>
   </data>
   <data name="recyclebin_NoModules.Text" xml:space="preserve">
-    <value>Geen modules in de Prullenbak</value>
+    <value>Geen modules in de prullenbak</value>
   </data>
   <data name="recyclebin_NoPages.Text" xml:space="preserve">
-    <value>Geen pagina's in de Prullenbak</value>
+    <value>Geen pagina's in de prullenbak</value>
   </data>
   <data name="recyclebin_NoUsers.Text" xml:space="preserve">
-    <value>Geen gebruikers in de Prullenbak</value>
+    <value>Geen gebruikers in de prullenbak</value>
   </data>
   <data name="recyclebin_Page.Text" xml:space="preserve">
     <value>Pagina</value>

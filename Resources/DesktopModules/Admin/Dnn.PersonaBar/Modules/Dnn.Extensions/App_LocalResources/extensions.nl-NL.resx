@@ -303,8 +303,8 @@
   <data name="DeleteFiles.Label" xml:space="preserve">
     <value>Verwijder Bestanden?</value>
   </data>
-  <data name="Deploy.Button" xml:space="preserve">
-    <value>Inzetten</value>
+  <data name="Deploy.Button" xml:space="preserve" lastModified="2021-09-03 20:08:57">
+    <value>Implementeer</value>
   </data>
   <data name="Description.Header" xml:space="preserve">
     <value>Beschrijving</value>
@@ -712,7 +712,7 @@
     <value>Licentie</value>
   </data>
   <data name="InstallExtension_License.HelpText" xml:space="preserve">
-    <value>Alvorens verder te gaan moet je de voorwaarden van de licentie voor deze uitbreiding accepteren. Bekijk de licentie en vink het vakje 'accepteer licentie' aan.</value>
+    <value>Alvorens verder te gaan moet je de voorwaarden van de licentie voor deze uitbreiding accepteren. Bekijk de licentie en vink het vakje 'Licentie accepteren' aan.</value>
   </data>
   <data name="InstallExtension_Logs.Header" xml:space="preserve">
     <value>Pakket Installatie Rapport</value>

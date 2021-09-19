@@ -316,13 +316,13 @@
     <value>Wachtwoord:</value>
   </data>
   <data name="PasswordInvalid.Text" xml:space="preserve">
-    <value>Je moet een geldig wachtwoord geven. Controleer met de sitebeheerder als u de wachtwoord vereisten niet kent.</value>
+    <value>Je moet een geldig wachtwoord geven. Controleer met de sitebeheerder als je de wachtwoord vereisten niet kent.</value>
   </data>
   <data name="PasswordManagement.Text" xml:space="preserve">
     <value>Wachtwoord beheer</value>
   </data>
   <data name="PasswordResetFailed.Text" xml:space="preserve">
-    <value>Uw nieuwe wachtwoord is niet geaccepteerd voor beveiligingsredenen. Vul een wachtwoord in dat u nog niet eerder heeft gebruikt en dat lang en complex genoeg is om aan de vereisten van de site's wachtwoord complexiteit te voldoen.</value>
+    <value>Je nieuwe wachtwoord is niet geaccepteerd voor beveiligingsredenen. Vul een wachtwoord in dat je nog niet eerder heeft gebruikt en dat lang en complex genoeg is om aan de vereisten van de site's wachtwoord complexiteit te voldoen.</value>
   </data>
   <data name="PasswordResetFailed_PasswordInHistory.Text" xml:space="preserve">
     <value>Uw nieuwe wachtwoord is niet geaccepteerd door beveiligingsredenen. Kies een wachtwoord dat nog niet eerder is gebruikt.</value>
@@ -369,7 +369,7 @@
     <value>Kan de {0} Datum '{1}' niet lezen. Probeer het JJJJ-MM-DD formaat aan te houden.</value>
   </data>
   <data name="Prompt_DeleteUser_Description.Text" xml:space="preserve">
-    <value>Verwijderd een specifieke gebruiker van het portaal. Na verwijdering kan de gebruiker nog steeds worden teruggehaald. Om de gebruiker permanent te verwijderen dient u dit commando op te volgen met het commando &lt;code&gt;purge-user&lt;/code&gt;. </value>
+    <value>Verwijderd een specifieke gebruiker van het portaal. Na verwijdering kan de gebruiker nog steeds worden teruggehaald. Om de gebruiker permanent te verwijderen dien je dit commando op te volgen met het commando &lt;code&gt;purge-user&lt;/code&gt;. </value>
   </data>
   <data name="Prompt_DeleteUser_FlagId.Text" xml:space="preserve">
     <value>Het gebruiker User ID. Als deze vlag niet gebruikt word moet het gebruiker ID het eerste argument zijn.</value>
@@ -379,26 +379,26 @@
   </data>
   <data name="Prompt_DeleteUser_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Verwijder een Gebruiker&lt;/h4&gt;
-    &lt;p&gt;Dit verwijdert een gebruiker met Gebruiker ID van 345. De gebruiker is niet permanent verwijderd op dit moment; maar bevindt zich in een soort recycle bin. U kunt de code &lt;code&gt;get-user 345&lt;/code&gt; gebruiken om de gebruiker details in te zien en u zult zien dat de &lt;code&gt;IsDeleted&lt;/code&gt; eigenschap nu True is. U kunt dus het &lt;code&gt;restore-user&lt;/code&gt; commando gebruiken om het gebruiker record te herstellen of u kunt de gebruiker herstellen met gebruik van de DNN user interface. Als u de gebruiker permanent wil verwijderen dient u een tweede commando uit te voeren: &lt;code&gt;purge-user&lt;/code&gt;&lt;/p&gt;
+    &lt;p&gt;Dit verwijdert een gebruiker met Gebruiker ID van 345. De gebruiker is niet permanent verwijderd op dit moment; maar bevindt zich in een soort recycle bin. Je kunt de code &lt;code&gt;get-user 345&lt;/code&gt; gebruiken om de gebruiker details in te zien en je zult zien dat de &lt;code&gt;IsDeleted&lt;/code&gt; eigenschap nu True is. Je kunt dus het &lt;code&gt;restore-user&lt;/code&gt; commando gebruiken om het gebruiker record te herstellen of je kunt de gebruiker herstellen met gebruik van de DNN user interface. Als je de gebruiker permanent wil verwijderen dien je een tweede commando uit te voeren: &lt;code&gt;purge-user&lt;/code&gt;&lt;/p&gt;
     &lt;code class="block"&gt;delete-user 345&lt;/code&gt;
     &lt;p&gt;Dit is de meer expliciete vorm van bovenstaande code.&lt;/p&gt;
     &lt;code class="block"&gt;delete-user --id 345&lt;/code&gt;
 
     &lt;h4&gt;Verwijder een Gebruiker en Stuur een Notificatie&lt;/h4&gt;
-    &lt;p&gt;Dit verwijdert een gebruiker met het Gebruiker ID van 345 en stuurt een e-mail notificatie. Zoals hierboven is de gebruiker niet permanent verwijderd op dit punt. Als u de gebruiker permanent wil verwijderen moet u een tweede commando uitvoeren: &lt;code&gt;purge-user&lt;/code&gt;&lt;/p&gt;
+    &lt;p&gt;Dit verwijdert een gebruiker met het Gebruiker ID van 345 en stuurt een e-mail notificatie. Zoals hierboven is de gebruiker niet permanent verwijderd op dit punt. Als je de gebruiker permanent wil verwijderen moet je een tweede commando uitvoeren: &lt;code&gt;purge-user&lt;/code&gt;&lt;/p&gt;
     &lt;code class="block"&gt;delete-user 345 --notify true&lt;/code&gt;
     &lt;p&gt;Dit is de meer expliciete vorm van bovenstaande code.&lt;/p&gt;
     &lt;code class="block"&gt;delete-user --id 345 --notify true&lt;/code&gt;</value>
   </data>
   <data name="Prompt_GetUser_Description.Text" xml:space="preserve">
-    <value>Hiermee kunt u informatie van de huidige gebruiker weergeven of een gebruiker terughalen aan de hand van Gebruiker ID, Gebruikernaam of e-mail address.
+    <value>Hiermee kun je informatie van de huidige gebruiker weergeven of een gebruiker terughalen aan de hand van Gebruiker ID, Gebruikernaam of e-mail address.
 Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</value>
   </data>
   <data name="Prompt_GetUser_FlagId.Text" xml:space="preserve">
     <value>Specificeerd expliciet het Gebruikerid voor de terug te halen gebruiker.</value>
   </data>
   <data name="Prompt_GetUser_FlagUsername.Text" xml:space="preserve">
-    <value>De gebruikernaam voor de gebruiker die terug gehaald moet worden. U kunt een asterisk (&lt;span class="mono"&gt; * &lt;/span&gt;) als wildcard gebruiken om 0 of meer karakters aan te duiden.</value>
+    <value>De gebruikernaam voor de gebruiker die terug gehaald moet worden. Je kunt een asterisk (&lt;span class="mono"&gt; * &lt;/span&gt;) als wildcard gebruiken om 0 of meer karakters aan te duiden.</value>
   </data>
   <data name="Prompt_GetUser_ResultHtml.Text" xml:space="preserve">
     <value>&lt;div&gt;
@@ -414,7 +414,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     &lt;code class="block"&gt;get-user 345&lt;/code&gt;
 
     &lt;h5&gt;Expliciet gebruik van de &lt;span class="mono"&gt;--id&lt;/span&gt; fvag&lt;/h5&gt;
-    &lt;p&gt;U kunt de &lt;span class="mono"&gt;--id&lt;/span&gt; markering expliciet gebruiken om verwarring te vermijden&lt;/p&gt;
+    &lt;p&gt;Je kunt de &lt;span class="mono"&gt;--id&lt;/span&gt; markering expliciet gebruiken om verwarring te vermijden&lt;/p&gt;
     &lt;code class="block"&gt;get-user --id 345&lt;/code&gt;
     &lt;table class="command-result-tbl"&gt;
       &lt;tr&gt;
@@ -466,7 +466,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     &lt;code class="block"&gt;get-user jsmith@sample.com&lt;/code&gt;
 
     &lt;h5&gt;Expliciet Gebruik van &lt;span class="mono"&gt;--e-mail&lt;/span&gt; markering&lt;/h5&gt;
-    &lt;p&gt;U kunt de &lt;span class="mono"&gt;--e-mail&lt;/span&gt; markering expliciet gebruiken om verwarring te vermijden&lt;/p&gt;    
+    &lt;p&gt;Je kunt de &lt;span class="mono"&gt;--e-mail&lt;/span&gt; markering expliciet gebruiken om verwarring te vermijden&lt;/p&gt;    
     &lt;code class="block"&gt;get-user --e-mail jsmith@sample.com&lt;/code&gt;
 
     &lt;table class="command-result-tbl"&gt;
@@ -514,7 +514,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
 
     &lt;h4&gt;Zoek naar Gebruikers aan de hand van e-mail met Wildcards&lt;/h4&gt;
     &lt;h5&gt;Impliciet Gebruik van &lt;span class="mono"&gt;--e-mail&lt;/span&gt; markering&lt;/h5&gt;
-    &lt;p&gt;Wanneer een enkele waarde gespecificeerd word na de commando naam en dit bevat het symbool (&lt;span class="mono"&gt; @ &lt;/span&gt;) dan zal de Prompt aannemen dat het een e-mail is. Alleen de eerste gematchede gebruiker zal worden teruggegeven. Probeer gebruik te maken van &lt;span class="mono"&gt;list-users&lt;/span&gt; als u alle matchende gebruikers wilt vinden.&lt;/p&gt;    
+    &lt;p&gt;Wanneer een enkele waarde gespecificeerd word na de commando naam en dit bevat het symbool (&lt;span class="mono"&gt; @ &lt;/span&gt;) dan zal de Prompt aannemen dat het een e-mail is. Alleen de eerste gematchede gebruiker zal worden teruggegeven. Probeer gebruik te maken van &lt;span class="mono"&gt;list-users&lt;/span&gt; als je alle matchende gebruikers wilt vinden.&lt;/p&gt;    
     &lt;code class="block"&gt;get-user jsmith*@sample.com&lt;/code&gt;
     &lt;h5&gt;Expliciet Gebruik van &lt;span class="mono"&gt;--e-mail&lt;/span&gt; markering&lt;/h5&gt;
     &lt;code class="block"&gt;get-user --e-mail jsmith*@sample.com&lt;/code&gt;
@@ -568,7 +568,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     &lt;code class="block"&gt;get-user jsmith&lt;/code&gt;
 
     &lt;h5&gt;Expliciet Gebruik van &lt;span class="mono"&gt;--username&lt;/span&gt; markering&lt;/h5&gt;
-    &lt;p&gt;U kunt de &lt;span class="mono"&gt;--username&lt;/span&gt; markering expliciet gebruiken om verwarring te vermijden&lt;/p&gt;
+    &lt;p&gt;Je kunt de &lt;span class="mono"&gt;--username&lt;/span&gt; markering expliciet gebruiken om verwarring te vermijden&lt;/p&gt;
     &lt;code class="block"&gt;get-user --username jsmith&lt;/code&gt;
 
     &lt;table class="command-result-tbl"&gt;
@@ -666,13 +666,13 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
   &lt;/div&gt;</value>
   </data>
   <data name="Prompt_IfSpecifiedMustHaveValue.Text" xml:space="preserve">
-    <value>Als u de --{0} vlag specificeerd moet deze op True of False gezet worden.</value>
+    <value>Als je de --{0} vlag specificeerd moet deze op True of False gezet worden.</value>
   </data>
   <data name="Prompt_InvalidFlag.Text" xml:space="preserve">
-    <value>Ongeldige vlag '--{0}'. Bedoelde u --{1} ?</value>
+    <value>Ongeldige vlag '--{0}'. Bedoelde je --{1} ?</value>
   </data>
   <data name="Prompt_ListUsers_Description.Text" xml:space="preserve">
-    <value>Vind gebruikers aan de hand van e-mail of gebruikernaam. Ondersteund partial matching op e-mail of Gebruikernaam. U kunt alleen zoeken op 1 markering tegelijkertijd. Markeringen kunnen niet gecombineerd worden.</value>
+    <value>Vind gebruikers aan de hand van e-mail of gebruikernaam. Ondersteund partial matching op e-mail of Gebruikernaam. Je kunt alleen zoeken op 1 markering tegelijkertijd. Markeringen kunnen niet gecombineerd worden.</value>
   </data>
   <data name="Prompt_ListUsers_FlagMax.Text" xml:space="preserve">
     <value>Paginagrootte voor de pagina. Max is 500.</value>
@@ -681,10 +681,10 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value>Paginanummer om records te tonen.</value>
   </data>
   <data name="Prompt_ListUsers_FlagRole.Text" xml:space="preserve">
-    <value>De naam van de DNN beveiligingsrol waarvan u de leden wilt toevoegen aan een lijst. BELANGRIJK: wildcard zoeken is NIET aangezet voor deze markering op dit moment. Rolnamen zijn niet hoofdlettergevoelig maar de spacing moet correct zijn.</value>
+    <value>De naam van de DNN beveiligingsrol waarvan je de leden wilt toevoegen aan een lijst. BELANGRIJK: wildcard zoeken is NIET aangezet voor deze markering op dit moment. Rolnamen zijn niet hoofdlettergevoelig maar de spacing moet correct zijn.</value>
   </data>
   <data name="Prompt_ListUsers_FlagUsername.Text" xml:space="preserve">
-    <value>Een zoek patroon om op te zoeken in de gebruikernaam. U kunt een asterisk (&lt;span class="mono"&gt; * &lt;/span&gt;) als wildcard gebruiken om 0 of meer karakters aan te duiden.</value>
+    <value>Een zoek patroon om op te zoeken in de gebruikernaam. Je kunt een asterisk (&lt;span class="mono"&gt; * &lt;/span&gt;) als wildcard gebruiken om 0 of meer karakters aan te duiden.</value>
   </data>
   <data name="Prompt_ListUsers_ResultHtml.Text" xml:space="preserve">
     <value>&lt;div&gt;
@@ -868,7 +868,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value>Wanneer True zal het syteem een e-mail versturen naar het e-mail adres van de gebruiker. Het type e-mail word bepaald door het registratie type. Wanneer dit niet ingevuld is zullen de portaal standaard waardes worden gebruikt. Als de site registratie modus op None is gezet zal er geen e-mail verstuurd worden ongeacht de waarde van &lt;code&gt;--notify&lt;/code&gt;.</value>
   </data>
   <data name="Prompt_NewUser_FlagPassword.Text" xml:space="preserve">
-    <value>Het Wachtwoord van het gebruiker account. Als dit niet word gespecificeerd zal er een random wachtwoord worden gegenereerd. Let er op dat als de gebruiker niet word gedwongen zijn wachtwoord te resetten u moet zorgen dat &lt;em&gt;iemand&lt;/em&gt; word verwittigd van het wachtwoord.</value>
+    <value>Het wachtwoord van het gebruikersaccount. Als dit niet wordt gespecificeerd zal er een random wachtwoord worden gegenereerd. Let er op dat als de gebruiker niet wordt gedwongen zijn wachtwoord te resetten je moet zorgen dat &lt;em&gt;iemand&lt;/em&gt; wordt verwittigd van het wachtwoord.</value>
   </data>
   <data name="Prompt_NewUser_FlagUsername.Text" xml:space="preserve">
     <value>De Gebruikernaam van de gebruiker</value>
@@ -891,7 +891,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value>Gebruiker wachtwoord is gereset.</value>
   </data>
   <data name="Prompt_ResetPassword_Description.Text" xml:space="preserve">
-    <value>Stelt het wachtwoord token in voor de gebruiker. &lt;em&gt;Dit reset het wachtwoord van de gebruiker niet automatisch&lt;/em&gt;. Staqndaard word dit commando verzonden om het het geresette wachtwoord naar de gebruiker te sturen vbia e-mail. U kunt dit gedarg overschrijven door de &lt;code&gt;--notify&lt;/code&gt; markering met een waarde van &lt;code&gt;false&lt;/code&gt; te specificeren</value>
+    <value>Stelt het wachtwoord token in voor de gebruiker. &lt;em&gt;Dit reset het wachtwoord van de gebruiker niet automatisch&lt;/em&gt;. Staqndaard word dit commando verzonden om het het geresette wachtwoord naar de gebruiker te sturen vbia e-mail. Je kunt dit gedrag overschrijven door de &lt;code&gt;--notify&lt;/code&gt; markering met een waarde van &lt;code&gt;false&lt;/code&gt; te specificeren</value>
   </data>
   <data name="Prompt_ResetPassword_FlagId.Text" xml:space="preserve">
     <value>Gebruiker ID van de gebruiker om de Geresette Wachtwoord link naar toe te sturen.</value>
@@ -911,10 +911,10 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value>--roles kunnen niet leeg zijn.</value>
   </data>
   <data name="Prompt_SearchUserParameterRequired.Text" xml:space="preserve">
-    <value>Om te zoeken naar een gebruiker moet u ofwel een --id (GebruikerId), --e-mail (Gebruiker e-mail), of --name (Gebruikernaam) specificeren.</value>
+    <value>Om te zoeken naar een gebruiker moet je ofwel een --id (GebruikerId), --e-mail (Gebruiker e-mail), of --name (Gebruikernaam) specificeren.</value>
   </data>
   <data name="Prompt_SetUser_Description.Text" xml:space="preserve">
-    <value>Laat u verschillende waardes gerelateerd aan de gespecificeerde gebruiker instellen.</value>
+    <value>Laat je verschillende waardes gerelateerd aan de gespecificeerde gebruiker instellen.</value>
   </data>
   <data name="Prompt_SetUser_FlagApproved.Text" xml:space="preserve">
     <value>Toestemming status van de gebruiker.</value>
@@ -926,7 +926,7 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value>De voornaam van de gebruiker.</value>
   </data>
   <data name="Prompt_SetUser_FlagId.Text" xml:space="preserve">
-    <value>Het GebruikerId voor de gebruiker die word geupdate. Deze waarde is verplicht, maar als u de waarde als eerste argument mee geeft na de commando heeft u niet expliciet de &lt;span class="mono"&gt;--id&lt;/span&gt; markering te gebruiken. (zie de voorbeelden onder)</value>
+    <value>Het GebruikerId voor de gebruiker die word geupdate. Deze waarde is verplicht, maar als je de waarde als eerste argument mee geeft na de commando heb je niet expliciet de &lt;span class="mono"&gt;--id&lt;/span&gt; markering te gebruiken. (zie de voorbeelden onder)</value>
   </data>
   <data name="Prompt_SetUser_FlagLastname.Text" xml:space="preserve">
     <value>De achternaam van de gebruiker.</value>
@@ -967,13 +967,13 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value>Startdatum kan niet later zijn dan einddatum.</value>
   </data>
   <data name="Prompt_UserAlreadyDeleted.Text" xml:space="preserve">
-    <value>Gebruiker is al verwijderd. Wilt u deze permanent verwijderen? Gebruik dan \"purge-user\"</value>
+    <value>Gebruiker is al verwijderd. Wil je deze permanent verwijderen? Gebruik dan \"purge-user\"</value>
   </data>
   <data name="Prompt_UserDeletionFailed.Text" xml:space="preserve">
     <value>De gebruiker was gevonden maar het syteem kan deze niet verwijderen.</value>
   </data>
   <data name="Prompt_UserIdIsRequired.Text" xml:space="preserve">
-    <value>Je moet een geldig Gebruiker ID specificeren als eerste argument of u moet de --id markering gebruiken.</value>
+    <value>Je moet een geldig Gebruiker ID specificeren als eerste argument of je moet de --id markering gebruiken.</value>
   </data>
   <data name="Prompt_UserPurged.Text" xml:space="preserve">
     <value>De gebruiker is permanent verwijderd van de site.</value>
@@ -1006,13 +1006,13 @@ Ondersteund partial searching en geeft de eerste gevonden gebruiker terug.</valu
     <value>Verwijder 'verwijderde gebruikers'</value>
   </data>
   <data name="RemoveDeleted.Confirm" xml:space="preserve">
-    <value>WIlt u de voor verwijdering gemarkeerde gebruikers definitief verwijderen? Dit kan niet ongedaan gemaakt worden.</value>
+    <value>Wil je de voor verwijdering gemarkeerde gebruikers definitief verwijderen? Dit kan niet ongedaan gemaakt worden.</value>
   </data>
   <data name="RemoveDeleted.Done" xml:space="preserve">
     <value>Alle voor verwijdering gemarkeerde gebruikers zijn definitief verwijderd.</value>
   </data>
   <data name="RemoveUser.Confirm" xml:space="preserve">
-    <value>Weet u zeker dat u deze gebruiker permanent wilt verwijderen?</value>
+    <value>Weet je zeker dat je deze gebruiker permanent wilt verwijderen?</value>
   </data>
   <data name="RemoveUser.Text" xml:space="preserve">
     <value>Verwijder gebruiker permanent</value>

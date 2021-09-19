@@ -37,13 +37,13 @@
     <value>Algemeen</value>
   </data>
   <data name="lblCopyPerm.Help" xml:space="preserve">
-    <value>Kopieerd de rechten van de huidige map naar alle sub-mappen.</value>
+    <value>Kopieer de rechten van de huidige map naar alle sub-mappen.</value>
   </data>
   <data name="lblCopyPerm.Text" xml:space="preserve">
     <value>Kopieer rechten naar sub-mappen:</value>
   </data>
   <data name="PermissionCopyError.Text" xml:space="preserve">
-    <value>Er is een fout opgetreden bij het kopieëren van de maprechten</value>
+    <value>Er is een fout opgetreden bij het kopiëren van de maprechten</value>
   </data>
   <data name="PermissionsCopied.Text" xml:space="preserve">
     <value>De rechten zijn succesvol gekopieerd</value>

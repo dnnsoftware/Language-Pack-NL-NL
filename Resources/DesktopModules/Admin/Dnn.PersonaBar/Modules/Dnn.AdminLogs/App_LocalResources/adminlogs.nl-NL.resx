@@ -18,14 +18,14 @@
   <data name="AddContent.Action" xml:space="preserve">
     <value>Log instelling toevoegen</value>
   </data>
-  <data name="AdminAlertCode.Text" xml:space="preserve">
-    <value>Admin Waarschuwing</value>
+  <data name="AdminAlertCode.Text" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Waarschuwing sitebeheerder</value>
   </data>
-  <data name="AdminLogs.Header" xml:space="preserve">
-    <value>Administrator Logboek</value>
+  <data name="AdminLogs.Header" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Sitebeheerder log</value>
   </data>
-  <data name="AdminOpCode.Text" xml:space="preserve">
-    <value>Algemene admin actie</value>
+  <data name="AdminOpCode.Text" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Algemene sitebeheerderactie</value>
   </data>
   <data name="AllTypes.Text" xml:space="preserve">
     <value>Alle types</value>
@@ -72,32 +72,32 @@
   <data name="ConfigDeleteCancelled.Text" xml:space="preserve">
     <value>Geannuleerde verwijdering.</value>
   </data>
-  <data name="ConfigDeleted.Text" xml:space="preserve">
-    <value>De log instelling is verwijderd.</value>
+  <data name="ConfigDeleted.Text" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>De loginstelling is verwijderd.</value>
   </data>
-  <data name="ConfigDeletedWarning.Text" xml:space="preserve">
-    <value>Weet je zeker dat je de geselecteerde log instelling wilt verwijderen?</value>
+  <data name="ConfigDeletedWarning.Text" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Weet je zeker dat je de geselecteerde loginstelling wilt verwijderen?</value>
   </data>
   <data name="ConfigDeleteInconsistency.Text" xml:space="preserve">
     <value>Er is een tegenstrijdigheid onstaan. Herlaad de pagina en probeer opnieuw.</value>
   </data>
-  <data name="ConfigUpdated.Text" xml:space="preserve">
-    <value>De log instelling is geüpdate.</value>
+  <data name="ConfigUpdated.Text" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>De loginstelling is bijgewerkt.</value>
   </data>
-  <data name="ConfigUpdateError.Text" xml:space="preserve">
-    <value>De log instelling kan niet worden geüpdate. Probeer het later nog eens.</value>
+  <data name="ConfigUpdateError.Text" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>De loginstelling kan niet worden bijgewerkt. Probeer het later nog eens.</value>
   </data>
   <data name="ControlTitle_.Text" xml:space="preserve">
     <value>Log weergave</value>
   </data>
-  <data name="ControlTitle_edit.Text" xml:space="preserve">
-    <value>Bewerken log instellingen</value>
+  <data name="ControlTitle_edit.Text" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Bewerken loginstellingen</value>
   </data>
   <data name="Date.Text" xml:space="preserve">
     <value>Datum</value>
   </data>
-  <data name="DeleteError.Text" xml:space="preserve">
-    <value>De geselecteerde log instelling kan niet worden verwijderd. Je zou eerst alle bestaande logregels van dit log type moeten verwijderen.</value>
+  <data name="DeleteError.Text" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>De geselecteerde loginstelling kan niet worden verwijderd. Je zou eerst alle bestaande logregels van dit logtype moeten verwijderen.</value>
   </data>
   <data name="DeleteSuccess.Text" xml:space="preserve">
     <value>De geselecteerde logregels zijn succesvol verwijderd.</value>
@@ -108,14 +108,14 @@
   <data name="Email.Message" xml:space="preserve">
     <value>Geldig e-mail is vereist.</value>
   </data>
-  <data name="EmailFailure.Text" xml:space="preserve">
-    <value>Uw e-mail is &lt;b&gt;niet&lt;/b&gt; verzonden.</value>
+  <data name="EmailFailure.Text" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Je e-mail is &lt;b&gt;niet&lt;/b&gt; verzonden.</value>
   </data>
   <data name="EmailSettings.Text" xml:space="preserve">
     <value>E-mail notificatie instellingen</value>
   </data>
-  <data name="EmailSuccess.Text" xml:space="preserve">
-    <value>Uw e-mail is verzonden.</value>
+  <data name="EmailSuccess.Text" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Je e-mail is verzonden.</value>
   </data>
   <data name="EntriesPerPage.Text" xml:space="preserve">
     <value>items per pagina</value>
@@ -150,8 +150,8 @@
   <data name="ItemDeletedCode.Text" xml:space="preserve">
     <value>Item verwijderd</value>
   </data>
-  <data name="ItemUpdatedCode.Text" xml:space="preserve">
-    <value>Item geüpdate</value>
+  <data name="ItemUpdatedCode.Text" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Item bijgewerkt</value>
   </data>
   <data name="Legend.Text" xml:space="preserve">
     <value>Kleurcodering legenda</value>
@@ -174,20 +174,20 @@
   <data name="LogEntryDefaultSubject.Text" xml:space="preserve">
     <value>Fout logs</value>
   </data>
-  <data name="LogSettings.Header" xml:space="preserve">
-    <value>Log instellingen</value>
+  <data name="LogSettings.Header" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Loginstellingen</value>
   </data>
-  <data name="LogType.Header" xml:space="preserve">
-    <value>Log type</value>
+  <data name="LogType.Header" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Logtype</value>
   </data>
-  <data name="MailToAddress.Message" xml:space="preserve">
-    <value>Geldig mailen naar adres is vereist.</value>
+  <data name="MailToAddress.Message" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Een geldig e-mailadres is vereist.</value>
   </data>
   <data name="ModuleHelp.Text" xml:space="preserve">
     <value>&lt;h1&gt;Over logweergave&lt;/h1&gt;&lt;p&gt;Sta je toe om website evenementen te bewerken naar log&lt;/p&gt;</value>
   </data>
-  <data name="nav_AdminLogs.Text" xml:space="preserve">
-    <value>Administrator logboek</value>
+  <data name="nav_AdminLogs.Text" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Sitebeheerder log</value>
   </data>
   <data name="no.Text" xml:space="preserve">
     <value>Nee</value>
@@ -201,8 +201,8 @@
   <data name="Occurences.Text" xml:space="preserve">
     <value>Gebeurtenissen</value>
   </data>
-  <data name="plEmailAddress.Help" xml:space="preserve">
-    <value>Vul het e-mailadres in van de persoon die de log entries moet ontvangen.</value>
+  <data name="plEmailAddress.Help" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Vul het e-mailadres in van de persoon die de logregels moet ontvangen.</value>
   </data>
   <data name="plEmailAddress.Text" xml:space="preserve">
     <value>E-mailadres</value>
@@ -210,8 +210,8 @@
   <data name="plEmailNotificationStatus.Help" xml:space="preserve">
     <value>Vink dit vakje aan om een e-mail te vesturen zodra dit evenement plaatsvindt. </value>
   </data>
-  <data name="plEmailNotificationStatus.Text" xml:space="preserve">
-    <value>E-mail notificatie</value>
+  <data name="plEmailNotificationStatus.Text" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>E-mailnotificatie</value>
   </data>
   <data name="plFileName.Help" xml:space="preserve">
     <value>De bestandsnaam van het logbestand.</value>
@@ -228,20 +228,20 @@
   <data name="plKeepMostRecent.Text" xml:space="preserve">
     <value>Bewaar de meest recente</value>
   </data>
-  <data name="plLogType.Help" xml:space="preserve">
-    <value>Filter de evenementen die worden weergegeven in de log.</value>
+  <data name="plLogType.Help" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Filter de gebeurtenissen die worden weergegeven in de log.</value>
   </data>
   <data name="plLogType.Text" xml:space="preserve">
     <value>Type</value>
   </data>
-  <data name="plLogTypeKey.Help" xml:space="preserve">
-    <value>Het type evenement dat gelogd wordt.</value>
+  <data name="plLogTypeKey.Help" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>Het type gebeurtenis dat gelogd wordt.</value>
   </data>
   <data name="plLogTypeKey.Text" xml:space="preserve">
     <value>Logtype</value>
   </data>
-  <data name="plLogTypePortalID.Help" xml:space="preserve">
-    <value>De site die gekoppeld is aan dit log evenement.</value>
+  <data name="plLogTypePortalID.Help" xml:space="preserve" lastModified="2021-09-13 17:39:27">
+    <value>De site die gekoppeld is aan deze loggebeurtenis</value>
   </data>
   <data name="plLogTypePortalID.Text" xml:space="preserve">
     <value>Website</value>

@@ -25,7 +25,7 @@
     <value>Registreren</value>
   </data>
   <data name="NoEmail.Text" xml:space="preserve">
-    <value>De authenticatieprovider gebruikt om te registreren heeft geen e-mailadres verstrekt.  Voer een geldig e-mailadres in en klik op de knop registreren om je inschrijving te voltooien.</value>
+    <value>De authenticatieprovider gebruikt om te registreren heeft geen e-mailadres verstrekt. Voer een geldig e-mailadres in en klik op de knop registreren om je inschrijving te voltooien.</value>
   </data>
   <data name="RegisterWarning.Text" xml:space="preserve">
     <value> &lt;em&gt;(&lt;strong&gt;Opmerking: &lt;/strong&gt; registratie kan het enkele seconden duren. Zodra je klikt op de knop registreren moet je wachten totdat het systeem reageert.)&lt;/em&gt;</value>

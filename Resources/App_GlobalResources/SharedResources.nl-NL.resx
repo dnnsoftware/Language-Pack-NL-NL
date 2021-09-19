@@ -480,6 +480,9 @@
   <data name="EndZip.Text" xml:space="preserve">
     <value>Einde verwerken ZIP bestand</value>
   </data>
+  <data name="ErrorDecryptingSetting.Text" xml:space="preserve" lastModified="2021-09-04 19:44:35">
+    <value>Kan parameter {0} niet decoderen</value>
+  </data>
   <data name="ErrorOccurred.Text" xml:space="preserve">
     <value>Er is een fout opgetreden.</value>
   </data>
@@ -1423,7 +1426,7 @@
     <value>Het bestand {0} is een niet toegestaan bestandstype. Geldige bestandstypen zijn ( {1} ). Neem contact op met je hosting provider indien je een niet ondersteunt bestandstype naar je site wilt uploaden.</value>
   </data>
   <data name="RestrictFileMail_Body.Text" xml:space="preserve">
-    <value>&lt;p&gt;Geachte systeembeheerder,&lt;/p&gt;&lt;p&gt;De beveiligingscontrole heeft gedetecteerd dat een of meer &lt;b&gt;mogelijk gevaarlijke bestanden &lt;/b&gt;aan je website zijn toegevoegd. Als je alle toegevoegde bestanden wilt bekijken, controleer je de gebeurtenislogboeken van de site.
+    <value>&lt;p&gt;Geachte applicatiebeheerder,&lt;/p&gt;&lt;p&gt;De beveiligingscontrole heeft gedetecteerd dat een of meer &lt;b&gt;mogelijk gevaarlijke bestanden &lt;/b&gt;aan je website zijn toegevoegd. Als je alle toegevoegde bestanden wilt bekijken, controleer je de gebeurtenislogboeken van de site.
 Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmiddellijke actie aanbevolen.
 &lt;p&gt;Toegevoegd(e) bestand(en):&lt;br/&gt;&lt;b&gt;[Path]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Bedankt,&lt;/p&gt;&lt;p&gt;[AppName] [AppVersion]&lt;/p&gt;</value>
   </data>
@@ -1568,6 +1571,12 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
   <data name="SQL_Executing.Text" xml:space="preserve">
     <value>Uitvoeren</value>
   </data>
+  <data name="SQL_Manifest_BadFile.Text" xml:space="preserve" lastModified="2021-09-04 19:44:35">
+    <value>Er is een fout in het manifest met bestand {0}</value>
+  </data>
+  <data name="SQL_Manifest_Error.Text" xml:space="preserve" lastModified="2021-09-04 19:44:35">
+    <value>Er is een fout in het manifest met de scripts</value>
+  </data>
   <data name="SQL_RolledBack.Text" xml:space="preserve">
     <value>Wijzigingen aangebracht door het SQL-script worden ongedaan gemaakt</value>
   </data>
@@ -1602,7 +1611,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value>Vervangen</value>
   </data>
   <data name="Superuser.Text" xml:space="preserve">
-    <value>Systeembeheerder</value>
+    <value>applicatiebeheerder</value>
   </data>
   <data name="System_Default.Text" xml:space="preserve">
     <value>Systeemstandaard</value>

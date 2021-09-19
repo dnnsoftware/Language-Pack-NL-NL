@@ -12,6 +12,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="Actions.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Acties</value>
+  </data>
   <data name="BackupFinished.Text" xml:space="preserve" lastModified="2016-12-01 13:18:28">
     <value>Afgerond</value>
   </data>
@@ -27,32 +30,56 @@
   <data name="BackupType.Text" xml:space="preserve" lastModified="2020-05-10 15:52:44">
     <value>Soort backup</value>
   </data>
+  <data name="Cancel.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Annuleren</value>
+  </data>
   <data name="clearCacheButtonLabel.Text" xml:space="preserve" lastModified="2016-12-01 13:18:28">
     <value>Leegmaken cache</value>
+  </data>
+  <data name="Confirm.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Bevestigen</value>
   </data>
   <data name="DbInfo_ProductEdition.Help" xml:space="preserve" lastModified="2016-12-01 13:18:28">
     <value>De versie van SQL die geïnstalleerd is</value>
   </data>
-  <data name="DbInfo_ProductEdition.Text" xml:space="preserve" lastModified="2016-12-01 13:18:28">
-    <value>Product versie</value>
+  <data name="DbInfo_ProductEdition.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Productversie</value>
   </data>
   <data name="DbInfo_ProductVersion.Help" xml:space="preserve" lastModified="2016-12-01 13:18:28">
     <value>De versie van SQL Server</value>
   </data>
-  <data name="DbInfo_ProductVersion.Text" xml:space="preserve" lastModified="2016-12-01 13:18:28">
-    <value>Database versie:</value>
+  <data name="DbInfo_ProductVersion.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Databaseversie:</value>
   </data>
-  <data name="DbInfo_ServicePack.Help" xml:space="preserve" lastModified="2016-12-01 13:18:28">
-    <value>Geinstalleerde service pakketten.</value>
+  <data name="DbInfo_ServicePack.Help" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Geinstalleerde service packs.</value>
   </data>
-  <data name="DbInfo_ServicePack.Text" xml:space="preserve" lastModified="2016-12-01 13:18:28">
-    <value>Service pakket:</value>
+  <data name="DbInfo_ServicePack.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Service pack:</value>
   </data>
-  <data name="DbInfo_SoftwarePlatform.Help" xml:space="preserve" lastModified="2016-12-01 13:18:28">
-    <value>De volledige beschrijving van de SQL Server Software Platform is geinstalleerd.</value>
+  <data name="DbInfo_SoftwarePlatform.Help" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>De volledige beschrijving van de SQL Server Software Platform dat is geïnstalleerd.</value>
   </data>
-  <data name="DbInfo_SoftwarePlatform.Text" xml:space="preserve" lastModified="2016-12-01 13:18:28">
-    <value>Software platform:</value>
+  <data name="DbInfo_SoftwarePlatform.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Softwareplatform:</value>
+  </data>
+  <data name="Delete.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Verwijderen</value>
+  </data>
+  <data name="DeleteNonActiveServers.Confirm" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Wil je alle inactieve servers verwijderen?</value>
+  </data>
+  <data name="DeleteNonActiveServers.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Verwijder inactieve servers</value>
+  </data>
+  <data name="DeleteNonActiveServers.Warning" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Je kan serers verwijderen die niet actief waren in de afgelopen 24u</value>
+  </data>
+  <data name="DeleteServerConfirm.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Wil je deze webserver verwijderen?</value>
+  </data>
+  <data name="Edit.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Wijzigen</value>
   </data>
   <data name="EmailSentMessage.Text" xml:space="preserve" lastModified="2016-12-01 13:18:28">
     <value>E-mail succesvol  verzonden van {0} naar {1}</value>
@@ -62,6 +89,9 @@
   </data>
   <data name="errorMessageClearingCache.Text" xml:space="preserve" lastModified="2016-12-01 13:18:28">
     <value>Fout bij het proberen om cache leeg te maken</value>
+  </data>
+  <data name="errorMessageDeleteServers.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Er trad een fout op bij het verwijderen van deze server</value>
   </data>
   <data name="errorMessageIncrementingVersion.Text" xml:space="preserve" lastModified="2016-12-01 13:18:28">
     <value>Fout bij het ophogen van het versienummer.</value>
@@ -80,6 +110,9 @@
   </data>
   <data name="errorMessageLoadingPerformanceTab.Text" xml:space="preserve" lastModified="2016-12-01 13:18:28">
     <value>Fout bij het laden van de Prestatie tab.</value>
+  </data>
+  <data name="errorMessageLoadingServers.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Fout bij het laden van de lijst van webservers</value>
   </data>
   <data name="errorMessageLoadingSmtpServerTab.Text" xml:space="preserve" lastModified="2016-12-01 13:18:28">
     <value>Fout bij het laden van de SMTP Server tab.</value>
@@ -171,20 +204,23 @@
   <data name="infoMessageRestartingApplication.Text" xml:space="preserve" lastModified="2016-12-01 16:31:59">
     <value>Herstarten applicatie</value>
   </data>
+  <data name="LastActivityDate.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Laatste activitent</value>
+  </data>
   <data name="Logs_Date.Header" xml:space="preserve" lastModified="2020-06-27 14:35:38">
     <value>Datum laatste wijziging</value>
   </data>
   <data name="Logs_Date.Text" xml:space="preserve" lastModified="2020-06-27 14:35:38">
     <value>Datum</value>
   </data>
-  <data name="Logs_LogFiles.Text" xml:space="preserve" lastModified="2016-12-01 16:31:59">
-    <value>Log bestanden</value>
+  <data name="Logs_LogFiles.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Logbestanden</value>
   </data>
-  <data name="Logs_LogFilesDefaultOption.Text" xml:space="preserve" lastModified="2016-12-01 16:31:59">
-    <value>Selecteer een log bestand om weer te geven</value>
+  <data name="Logs_LogFilesDefaultOption.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Selecteer een logbestand om weer te geven</value>
   </data>
-  <data name="Logs_LogFilesTooltip.Text" xml:space="preserve" lastModified="2016-12-01 17:36:39">
-    <value>Lijst van log bestanden beschikbaar om weer te geven.</value>
+  <data name="Logs_LogFilesTooltip.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Lijst van logbestanden beschikbaar om weer te geven.</value>
   </data>
   <data name="Logs_Name.Header" xml:space="preserve" lastModified="2020-06-27 14:35:38">
     <value>Naam</value>
@@ -213,14 +249,17 @@
   <data name="nav_Servers.Text" xml:space="preserve" lastModified="2016-12-01 17:36:39">
     <value>Servers</value>
   </data>
-  <data name="NoBackups.Text" xml:space="preserve" lastModified="2016-12-01 17:36:39">
-    <value>Deze database is niet ge-backupt.</value>
+  <data name="NoBackups.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Deze database is niet gebackupt.</value>
   </data>
   <data name="NoIntegerValueError.Text" xml:space="preserve" lastModified="2020-07-31 12:19:18">
     <value>Moet een positief geheel getal zijn.</value>
   </data>
-  <data name="PerformanceTab_AjaxWarning.Text" xml:space="preserve" lastModified="2020-07-31 12:19:18">
-    <value>Waarschuwing: Geheugen pagina status volharding kan zorgen voor AJAX problemen.</value>
+  <data name="NonCoreMailProvider.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Deze isntallatie gebruikt een alternatieve e-mail provider. De configuratie wordt gedaan in de interface van die provider</value>
+  </data>
+  <data name="PerformanceTab_AjaxWarning.Text" xml:space="preserve" lastModified="2021-09-14 09:25:57">
+    <value>Waarschuwing: Geheugen pagina status beheer (page state persistence) kan zorgen voor AJAX problemen.</value>
   </data>
   <data name="PerformanceTab_AuthCacheability.Help" xml:space="preserve" lastModified="2016-12-01 17:36:39">
     <value>Stelt de cache-besturing HTTP header waarde in voor gemachtigde gebruikers.</value>
@@ -228,8 +267,8 @@
   <data name="PerformanceTab_AuthCacheability.Text" xml:space="preserve" lastModified="2016-12-01 17:36:39">
     <value>Geauthenticeerde caching</value>
   </data>
-  <data name="PerformanceTab_CacheSetting.Help" xml:space="preserve" lastModified="2016-12-01 17:36:39">
-    <value>Selecteer hoe de prestaties te optimaliseren.</value>
+  <data name="PerformanceTab_CacheSetting.Help" xml:space="preserve" lastModified="2021-09-14 09:30:33">
+    <value>Selecteer hoe de prestaties geoptimaliseerd moeten worden</value>
   </data>
   <data name="PerformanceTab_CacheSetting.Text" xml:space="preserve" lastModified="2016-12-01 17:36:39">
     <value>Cache instelling</value>
@@ -240,14 +279,14 @@
   <data name="PerformanceTab_CachingProvider.Text" xml:space="preserve" lastModified="2016-12-01 17:36:39">
     <value>Caching Provider</value>
   </data>
-  <data name="PerformanceTab_ClientResourceManagementInfo.Text" xml:space="preserve" lastModified="2016-12-01 18:38:15">
-    <value>De superuser bepaalt het standaard Client Resource Management gedrag, maar als u kiest om dat te doen, moet u uw site configureren om anders te gedragen. De host-niveau instellingen zijn momenteel ingesteld als volgt:</value>
+  <data name="PerformanceTab_ClientResourceManagementInfo.Text" xml:space="preserve" lastModified="2021-09-14 09:30:33">
+    <value>De applicatiebeheerder bepaalt het standaard Client Resource Management gedrag, maar als je kiest om dat te doen, moet je de site configureren om anders te gedragen. De applicatieniveauinstellingen zijn ingesteld als volgt:</value>
   </data>
   <data name="PerformanceTab_ClientResourceManagementTitle.Text" xml:space="preserve" lastModified="2016-12-01 19:39:48">
     <value>Client Resource Management</value>
   </data>
-  <data name="PerformanceTab_ClientResourcesManagementMode.Help" xml:space="preserve" lastModified="2016-12-01 19:39:48">
-    <value>Host Modus gebruikt alle Client Resources Management Instellingen ingesteld op applicatie niveau. Site niveau staat u toe om uw eigen Client Resources Management Instellingen te selecteren.</value>
+  <data name="PerformanceTab_ClientResourcesManagementMode.Help" xml:space="preserve" lastModified="2021-09-14 09:30:33">
+    <value>Host Modus gebruikt alle Client Resources Management Instellingen ingesteld op applicatieniveau. Siteniveau staat je toe om je eigen Client Resources Management Instellingen te selecteren.</value>
   </data>
   <data name="PerformanceTab_ClientResourcesManagementMode.Text" xml:space="preserve" lastModified="2016-12-01 19:39:48">
     <value>Client Resource Management Modus</value>
@@ -279,17 +318,17 @@
   <data name="PerformanceTab_Memory.Text" xml:space="preserve" lastModified="2016-12-01 21:43:01">
     <value>Geheugen</value>
   </data>
-  <data name="PerformanceTab_MinifactionWarning.Text" xml:space="preserve" lastModified="2016-12-01 23:46:23">
-    <value>Belangrijke opmerking betreffende minificatie instellingen. &lt;br/&gt; Als minificatie instellingen gewijzigd zijn wanneer samengesteld bestanden ingeschakeld zijn, dan moet u eerst de minificatie instellingen opslaan door te klikken op Opslaan en dan het versie nummer op te hogen. Dit zal nieuwe bestanden aanmaken met de nieuwe minificatie instellingen.</value>
+  <data name="PerformanceTab_MinifactionWarning.Text" xml:space="preserve" lastModified="2021-09-14 09:30:33">
+    <value>Belangrijke opmerking betreffende minificatie instellingen. &lt;br/&gt; Als minificatie instellingen gewijzigd zijn wanneer samengesteld bestanden ingeschakeld zijn, dan moet je eerst de minificatie instellingen opslaan door te klikken op Opslaan en daarna het versienummer op te hogen. Dit maakt nieuwe bestanden aan met de nieuwe minificatie instellingen.</value>
   </data>
-  <data name="PerformanceTab_MinifyCss.Help" xml:space="preserve" lastModified="2016-12-02 00:49:49">
-    <value>CSS Minificatie reduceert de grootte van CSS Code door vaakgebruikte uitdrukkingen te gebruiken om reacties te verwijderen, whitespace en "dode CSS". Het is enkel beschikbaar wanneer samengesteld bestanden staan ingeschakeld.</value>
+  <data name="PerformanceTab_MinifyCss.Help" xml:space="preserve" lastModified="2021-09-17 11:42:00">
+    <value>CSS Minificatie reduceert de grootte van CSS Code door regular expressions te gebruiken om commentaar te verwijderen, whitespace en "dode CSS". Het is alleen beschikbaar wanneer samengesteld bestanden is ingeschakeld.</value>
   </data>
   <data name="PerformanceTab_MinifyCss.Text" xml:space="preserve" lastModified="2016-12-02 00:49:49">
     <value>Minificeer CSS</value>
   </data>
-  <data name="PerformanceTab_MinifyJs.Help" xml:space="preserve" lastModified="2016-12-02 00:49:49">
-    <value>JS minificatie reduceert de grootte van Javascript code die JSMin gebruikt. Het is enkel beschikbaar wanneer samengestelde bestanden zijn ingeschakeld.</value>
+  <data name="PerformanceTab_MinifyJs.Help" xml:space="preserve" lastModified="2021-09-14 09:30:33">
+    <value>JS minificatie reduceert de grootte van Javascript code die JSMin gebruikt. Het is alleen beschikbaar wanneer samengestelde bestanden is ingeschakeld.</value>
   </data>
   <data name="PerformanceTab_MinifyJs.Text" xml:space="preserve" lastModified="2016-12-02 00:49:49">
     <value>Minificeer JS</value>
@@ -315,14 +354,14 @@
   <data name="PerformanceTab_PageCacheProviders.Text" xml:space="preserve" lastModified="2016-12-02 05:03:17">
     <value>Pagina Output Cache Provider.</value>
   </data>
-  <data name="PerformanceTab_PageStatePersistenceMode.Help" xml:space="preserve" lastModified="2016-12-02 05:03:17">
-    <value>Selecteer de modus om te gebruiken om een status van een pagina te volharden. Dit kan een verborgen veld zijn op de pagina (Standaard) of in Geheugen (Cache).</value>
+  <data name="PerformanceTab_PageStatePersistenceMode.Help" xml:space="preserve" lastModified="2021-09-14 09:30:33">
+    <value>Selecteer de modus voor 'page stage persistence'. Dit kan een verborgen veld zijn op de pagina (Standaard) of in Geheugen (Cache).</value>
   </data>
   <data name="PerformanceTab_PageStatePersistenceMode.Text" xml:space="preserve" lastModified="2016-12-02 05:03:17">
     <value>Page State Persistence:</value>
   </data>
-  <data name="PerformanceTab_PortalVersionConfirmMessage.Text" xml:space="preserve" lastModified="2016-12-02 06:05:20">
-    <value>Deze actie forceert alle site bezoekers om nieuwe versies te downloaden van CSS en Javascript bestanden. U zou dit enkel moeten doen als u zeker weet dat de bestanden gewijzigd zijn en u deze wijzigingen gecheckt wilt hebben op de browser van de klant. Weet u zeker dat u het versienummer wilt ophogen voor uw site?</value>
+  <data name="PerformanceTab_PortalVersionConfirmMessage.Text" xml:space="preserve" lastModified="2021-09-14 09:30:33">
+    <value>Deze actie forceert alle site bezoekers om nieuwe versies te downloaden van CSS en Javascript bestanden. Je moet dit alleen doen als je zeker weet dat de bestanden gewijzigd zijn en je deze wijzigingen gecheckt wilt hebben op de browser van de klant. Weet je zeker dat je het versienummer wilt ophogen voor je site?</value>
   </data>
   <data name="PerformanceTab_PortalVersionConfirmNo.Text" xml:space="preserve" lastModified="2016-12-02 06:05:20">
     <value>Nee</value>
@@ -357,8 +396,8 @@
   <data name="plConnectionLimit.Help" xml:space="preserve" lastModified="2016-12-02 08:09:28">
     <value>Het maximum aantal verbindingen toegestaan op dit ServicePoint Object.Max waarde is  2147483647. Standaard is 1.</value>
   </data>
-  <data name="plConnectionLimit.Text" xml:space="preserve" lastModified="2016-12-02 09:10:32">
-    <value>Verbinding Limiet:</value>
+  <data name="plConnectionLimit.Text" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>Verbindingslimiet:</value>
   </data>
   <data name="plDataProvider.Help" xml:space="preserve" lastModified="2016-12-02 09:10:32">
     <value>De standaard data provider voor deze applicatie.</value>
@@ -375,11 +414,11 @@
   <data name="plGUID.Text" xml:space="preserve" lastModified="2018-07-24 13:05:46">
     <value>Gastheer GUID:</value>
   </data>
-  <data name="plHostEmail.Help" xml:space="preserve" lastModified="2020-05-10 15:52:44">
-    <value>De host e-mail is gebruikt voor het testen van de mail server. Dit e-mail adres kan ook gebruikt worden door extensies om de persoon te bereiken die verantwoordelijk is voor de hosting.</value>
+  <data name="plHostEmail.Help" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>De applicatiebeheerder e-mail is gebruikt voor het testen van de mail server. Dit e-mail adres kan ook gebruikt worden door extensies om de persoon te bereiken die verantwoordelijk is voor de hosting.</value>
   </data>
-  <data name="plHostEmail.Text" xml:space="preserve">
-    <value>Host e-mail</value>
+  <data name="plHostEmail.Text" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>Applicatiebeheerder e-mail</value>
   </data>
   <data name="plMaxIdleTime.Help" xml:space="preserve" lastModified="2016-12-02 10:12:39">
     <value>De lengte van tijd, in milliseconden, dat een verbinding, geassocieerd met het ServicePoint Object inactief kan blijven voordat het gesloten wordt en herbruikt wordt voor een andere verbinding. Max waarde is 2147483647. Standaard is 0.</value>
@@ -387,8 +426,8 @@
   <data name="plMaxIdleTime.Text" xml:space="preserve" lastModified="2016-12-02 11:14:40">
     <value>Max. inactieve tijd:</value>
   </data>
-  <data name="plProduct.Help" xml:space="preserve" lastModified="2016-12-02 11:14:40">
-    <value>De applicatie die u draait</value>
+  <data name="plProduct.Help" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>De applicatie die je gebruikt</value>
   </data>
   <data name="plProduct.Text" xml:space="preserve" lastModified="2016-12-02 11:14:40">
     <value>Product:</value>
@@ -405,8 +444,8 @@
   <data name="plSMTPEnableSSL.Text" xml:space="preserve" lastModified="2016-12-02 12:18:00">
     <value>SMTP Inschakelen SSL:</value>
   </data>
-  <data name="plSMTPMode.Help" xml:space="preserve" lastModified="2016-12-02 12:18:00">
-    <value>Host Modus verzorgt alle SMTP instellingen ingesteld op applicatie niveau. Site niveau staat u toe om uw eigen SMTP server te selecteren, port en authenticatie methode.</value>
+  <data name="plSMTPMode.Help" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>Host Modus verzorgt alle SMTP instellingen ingesteld op applicatie niveau. Site niveau staat je toe om uw eigen SMTP server te selecteren, port en authenticatie methode.</value>
   </data>
   <data name="plSMTPMode.Text" xml:space="preserve" lastModified="2016-12-02 12:18:00">
     <value>SMTP Server Modus:</value>
@@ -435,8 +474,14 @@
   <data name="plVersion.Text" xml:space="preserve" lastModified="2016-12-02 12:18:00">
     <value>Versie:</value>
   </data>
+  <data name="plWebServers.Text" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>Webservers:</value>
+  </data>
   <data name="restartApplicationButtonLabel.Text" xml:space="preserve" lastModified="2016-12-02 12:18:00">
     <value>Herstarten applicatie</value>
+  </data>
+  <data name="Save.Text" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>Opslaan</value>
   </data>
   <data name="SaveButtonText.Text" xml:space="preserve" lastModified="2016-12-02 12:18:00">
     <value>Opslaan</value>
@@ -450,11 +495,11 @@
   <data name="ServerInfo_Framework.Text" xml:space="preserve" lastModified="2016-12-02 01:52:33">
     <value>.NET Framework Versie:</value>
   </data>
-  <data name="ServerInfo_HostName.Help" xml:space="preserve" lastModified="2016-12-02 01:52:33">
-    <value>De naam van de Host computer.</value>
+  <data name="ServerInfo_HostName.Help" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>De naam van de applicatiecomputer.</value>
   </data>
-  <data name="ServerInfo_HostName.Text" xml:space="preserve" lastModified="2016-12-02 01:52:33">
-    <value>Host Naam:</value>
+  <data name="ServerInfo_HostName.Text" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>Applicatienaam:</value>
   </data>
   <data name="ServerInfo_Identity.Help" xml:space="preserve" lastModified="2016-12-02 01:52:33">
     <value>Het Windows gebruikersaccount waaronder de applicatie draait. Dit is de account waar map toestemmingen aan moeten worden verleend op de server.</value>
@@ -501,6 +546,15 @@
   <data name="Servers.Text" xml:space="preserve" lastModified="2016-12-02 02:55:01">
     <value>Servers:</value>
   </data>
+  <data name="Servers_CurrentServerName.Help" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>Dit is de naam van de server die de aanvraag heeft verwerkt</value>
+  </data>
+  <data name="Servers_CurrentServerName.Text" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>Huidige servernaam</value>
+  </data>
+  <data name="ServerUpdateUrlError.Text" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>De webserver URL kon niet worden bijgewerkt</value>
+  </data>
   <data name="SiteSmtpHostSetting.Text" xml:space="preserve" lastModified="2016-12-02 13:18:17">
     <value>{0} </value>
   </data>
@@ -528,8 +582,11 @@
   <data name="tabPerformanceTitle.Text" xml:space="preserve" lastModified="2016-12-02 03:56:14">
     <value>Prestatie</value>
   </data>
-  <data name="tabServerSettingsTitle.Text" xml:space="preserve" lastModified="2016-12-02 03:56:14">
-    <value>Server instellingen</value>
+  <data name="tabServerSettingsTitle.Text" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>Serverinstellingen</value>
+  </data>
+  <data name="tabServersTitle.Text" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>Webservers</value>
   </data>
   <data name="tabSmtpServerTitle.Text" xml:space="preserve" lastModified="2016-12-02 03:56:14">
     <value>SMTP Server</value>
@@ -540,10 +597,16 @@
   <data name="tabWebTitle.Text" xml:space="preserve" lastModified="2016-12-02 03:56:14">
     <value>Web</value>
   </data>
-  <data name="UserRestart.Text" xml:space="preserve" lastModified="2016-12-02 03:56:14">
-    <value>Gebruiker heeft gezorgd voor een applicatie herstart</value>
+  <data name="Url.Help" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>De URL voor directe verbinding met deze webserver. In omgevingen met meerdere servers is dit meestal een IP-adres of unieke DNS-vermelding die rechtstreeks naar een afzonderlijke server verwijst.</value>
   </data>
-  <data name="VersionIncrementedConfirmation.Text" xml:space="preserve" lastModified="2016-12-02 03:56:14">
-    <value>Versie succesvol opgehoogd.</value>
+  <data name="Url.Text" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>URL</value>
+  </data>
+  <data name="UserRestart.Text" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>Gebruiker heeft gezorgd voor een herstart van de applicatie</value>
+  </data>
+  <data name="VersionIncrementedConfirmation.Text" xml:space="preserve" lastModified="2021-09-14 09:34:23">
+    <value>Versienummer succesvol verhoogd.</value>
   </data>
 </root>

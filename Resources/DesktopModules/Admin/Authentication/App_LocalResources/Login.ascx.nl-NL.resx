@@ -67,10 +67,10 @@
     <value>Ongeldige verificatiecode</value>
   </data>
   <data name="IPAddressBanned.Text" xml:space="preserve">
-    <value>Je kunt niet inloggen op de website vanaf dit IPadres.</value>
+    <value>Je kunt niet inloggen op de website vanaf dit IP-adres.</value>
   </data>
   <data name="LoginFailed.Text" xml:space="preserve">
-    <value>Het Inloggen is mislukt, Let op: wachtwoorden zijn hoofdlettergevoelig</value>
+    <value>Het inloggen is mislukt, Let op: wachtwoorden zijn hoofdlettergevoelig</value>
   </data>
   <data name="MustConsent.Text" xml:space="preserve">
     <value>&lt;div&gt;Je moet met de gebruikersovereenkomst instemmen om verder te kunnen.&lt;/div&gt;</value>
@@ -127,7 +127,7 @@
     <value>Dit account is vergrendeld na teveel mislukte login pogingen. Neem contact op met de sitebeheerder.</value>
   </data>
   <data name="UsernameError.Text" xml:space="preserve">
-    <value>Deze gebruikersnaam bestaat niet</value>
+    <value>Deze gebruikersnaam bestaat niet.</value>
   </data>
   <data name="UserNotAuthorized.Text" xml:space="preserve">
     <value>Je bent niet gemachtigd om op deze website in te loggen.</value>
