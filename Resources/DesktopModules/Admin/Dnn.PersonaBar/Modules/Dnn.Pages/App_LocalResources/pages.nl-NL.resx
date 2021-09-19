@@ -760,7 +760,7 @@
     <value>Bekijk vooraf de thema opmaak en container</value>
   </data>
   <data name="Prompt_DeletePage_Description.Text" xml:space="preserve">
-    <value>Dit verwijdert een pagina in de site en verplaatst deze naar de Prullenbak. Voor extra veiligheid staat deze methode het niet toe om pagina's met subpagina's, applicatiebeheerpagina's of pagina's in het //Admin-pad te verwijderen.</value>
+    <value>Dit verwijdert een pagina in de site en verplaatst deze naar de prullenbak. Voor extra veiligheid staat deze methode het niet toe om pagina's met subpagina's, applicatiebeheerpagina's of pagina's in het //Admin-pad te verwijderen.</value>
   </data>
   <data name="Prompt_DeletePage_FlagId.Text" xml:space="preserve">
     <value>Geeft expliciet de pagina-ID aan die moet worden verwijderd. Gebruik van de vlagnaam is niet vereist. Je kunt eenvoudig de ID-waarde als het eerste argument opgeven. Dit is vereist als het &lt;span class="mono"&gt;--parentid&lt;/span&gt; niet opgegeven is.</value>
@@ -886,7 +886,7 @@
     &lt;/blockquote&gt;</value>
   </data>
   <data name="Prompt_ListPages_FlagDeleted.Text" xml:space="preserve">
-    <value>If &lt;span class="mono"&gt;true&lt;/span&gt;,alleen pagina's die verwijderd zijn (dus in DNN's Prullen) zullen worden teruggegeven. Als &lt;span class="mono"&gt;false&lt;/span&gt;dan zullen alleen pagina's die niet verwijderd zijn teruggegeven worden. Als de markering opgegeven is, maar geen waarde heeft, dan wordt aangenomen dat &lt;span class="mono"&gt;true&lt;/span&gt; is. Als de markering niet is opgegegeven, zullen zowel verwijderde als niet-verwijderde pagina's worden teruggegeven.</value>
+    <value>If &lt;span class="mono"&gt;true&lt;/span&gt;,alleen pagina's die verwijderd zijn (dus in DNN-prullenbak) zullen worden teruggegeven. Als &lt;span class="mono"&gt;false&lt;/span&gt;dan zullen alleen pagina's die niet verwijderd zijn teruggegeven worden. Als de markering opgegeven is, maar geen waarde heeft, dan wordt aangenomen dat &lt;span class="mono"&gt;true&lt;/span&gt; is. Als de markering niet is opgegegeven, zullen zowel verwijderde als niet-verwijderde pagina's worden teruggegeven.</value>
   </data>
   <data name="Prompt_ListPages_FlagName.Text" xml:space="preserve">
     <value>Alleen pagina's ophalen waarvan de naam overeenkomt met de expressie. Kan het jokerteken asterisk (&lt;span class = "mono"&gt; * &lt;/ span&gt;) gebruiken om overeen te komen met 0 of meer tekens.</value>
@@ -1023,7 +1023,7 @@
             &lt;/tbody&gt;
         &lt;/table&gt;
 
-        &lt;h4&gt;Zet alle pagina's in de Prullenbak in een lijst&lt;/h4&gt;
+        &lt;h4&gt;Zet alle pagina's in de prullenbak in een lijst&lt;/h4&gt;
         &lt;code class="block"&gt;
             list-Paginas --deleted
         &lt;/code&gt;

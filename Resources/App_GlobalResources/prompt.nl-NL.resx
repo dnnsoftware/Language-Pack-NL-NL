@@ -418,7 +418,7 @@ Zoals met de meeste
     <value>Haalt een lijst met modules op op basis van de zoekcriteria</value>
   </data>
   <data name="Prompt_ListModules_FlagDeleted.Text" xml:space="preserve" lastModified="2021-09-05 19:25:01">
-    <value>Indien opgegeven, vindt de opdracht alle module-exemplaren in de site die zich in de Prullenbak bevinden (if &lt;span class="mono"&gt;--deleted&lt;/span&gt; is true), or all module instances &lt;em&gt;not&lt;/em&gt; in the Recycle Bin (if &lt;span class="mono"&gt;--deleted&lt;/span&gt; Als de vlag is opgegeven, maar er geen waarde wordt opgegeven, wordt deze standaard true. Deze vlag kan worden gebruikt met --name en --title om de resultaten verder te verfijnen.</value>
+    <value>Indien opgegeven, vindt de opdracht alle module-exemplaren in de site die zich in de prullenbak bevinden (if &lt;span class="mono"&gt;--deleted&lt;/span&gt; is true), or all module instances &lt;em&gt;not&lt;/em&gt; in the Recycle Bin (if &lt;span class="mono"&gt;--deleted&lt;/span&gt; Als de vlag is opgegeven, maar er geen waarde wordt opgegeven, wordt deze standaard true. Deze vlag kan worden gebruikt met --name en --title om de resultaten verder te verfijnen.</value>
   </data>
   <data name="Prompt_ListModules_FlagMax.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
     <value>Paginagrootte voor de pagina. Max is 500.</value>

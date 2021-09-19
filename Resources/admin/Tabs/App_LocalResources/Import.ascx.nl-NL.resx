@@ -115,7 +115,7 @@
     <value>De paginanaam die je hebt gekozen is al in gebruik op het zelfde niveau in de pagina hiërarchie.</value>
   </data>
   <data name="TabRecycled.Text" xml:space="preserve">
-    <value>Een pagina met dezelfde naam bestaat al in de prullenmand. Om deze pagina te herstellen moet je de prullenbak gebruiker.</value>
+    <value>Een pagina met dezelfde naam bestaat al in de prullenbak. Om deze pagina te herstellen moet je hem uit de prullenbak terughalen.</value>
   </data>
   <data name="valTemplate.ErrorMessage" xml:space="preserve">
     <value>Selecteer een sjabloon</value>
