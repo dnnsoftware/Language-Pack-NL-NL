@@ -3,21 +3,21 @@
 		<package name="Core_nl-NL" type="CoreLanguagePack" version="09.10.01">
 			<friendlyName>DNN Core Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>			
-			<releaseNotes src="ReleaseNotes.txt"></releaseNotes>
+			<license src="License.txt"/>
+			<releaseNotes src="ReleaseNotes.txt"/>
 			<components>
 				<component type="CoreLanguage">
 					<languageFiles>
 						<code>nl-NL</code>
 						<displayName>Nederlands (Nederland)</displayName>
-						<fallback />
+						<fallback/>
 						<languageFile>
 							<path>admin\Modules\App_LocalResources</path>
 							<name>Export.ascx.nl-NL.resx</name>
@@ -148,6 +148,10 @@
 						</languageFile>
 						<languageFile>
 							<path>App_GlobalResources</path>
+							<name>prompt.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>App_GlobalResources</path>
 							<name>SharedResources.nl-NL.resx</name>
 						</languageFile>
 						<languageFile>
@@ -225,14 +229,6 @@
 						<languageFile>
 							<path>DesktopModules\Admin\HtmlEditorManager\Controls\App_LocalResources</path>
 							<name>InvalidConfiguration.ascx.nl-NL.resx</name>
-						</languageFile>
-						<languageFile>
-							<path>DesktopModules\Admin\ModuleCreator\App_LocalResources</path>
-							<name>CreateModule.ascx.nl-NL.resx</name>
-						</languageFile>
-						<languageFile>
-							<path>DesktopModules\Admin\ModuleCreator\App_LocalResources</path>
-							<name>ViewSource.ascx.nl-NL.resx</name>
 						</languageFile>
 						<languageFile>
 							<path>DesktopModules\Admin\SearchResults\App_LocalResources</path>
@@ -356,19 +352,43 @@
 						</languageFile>
 					</languageFiles>
 				</component>
+				<component type="Cleanup">
+					<files>
+						<file>
+							<path>App_Data\ExtensionPackages</path>
+							<name>CoreLanguagePack_Core_nl-NL_9.6.1.resources</name>
+						</file>
+						<file>
+							<path>App_Data\ExtensionPackages</path>
+							<name>CoreLanguagePack_Core_nl-NL_9.6.2.resources</name>
+						</file>
+						<file>
+							<path>App_Data\ExtensionPackages</path>
+							<name>CoreLanguagePack_Core_nl-NL_9.7.0.resources</name>
+						</file>
+						<file>
+							<path>App_Data\ExtensionPackages</path>
+							<name>CoreLanguagePack_Core_nl-NL_9.7.2.resources</name>
+						</file>
+						<file>
+							<path>App_Data\ExtensionPackages</path>
+							<name>CoreLanguagePack_Core_nl-NL_9.10.0.resources</name>
+						</file>
+					</files>
+				</component>
 			</components>
 		</package>
 		<package name="DDRMenu_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>DDR Menu Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"/>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -389,14 +409,14 @@
 		<package name="DigitalAssetsManagement_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>Digital Asset Management Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"/>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -442,17 +462,53 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNN_HTML_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
-			<friendlyName>HTML Nederlands (Nederland)</friendlyName>
+		<package name="ResourceManager_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+			<friendlyName>ResourceManager Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"/>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>ResourceManager</package>
+						<languageFile>
+							<path>DesktopModules\ResourceManager\App_LocalResources</path>
+							<name>editfoldermapping.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\ResourceManager\App_LocalResources</path>
+							<name>resourcemanager.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\ResourceManager\App_LocalResources</path>
+							<name>settings.ascx.nl-NL.resx</name>
+						</languageFile>
+						<languageFile>
+							<path>DesktopModules\ResourceManager\App_LocalResources</path>
+							<name>view.ascx.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
+		<package name="DNN_HTML_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+			<friendlyName>HTML Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile/>
+			<owner>
+				<name>DNN Platform</name>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<license src="License.txt"/>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -489,14 +545,14 @@
 		<package name="Journal_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>Journal Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>			
+			<license src="License.txt"/>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -525,14 +581,14 @@
 		<package name="DotNetNuke.Modules.MemberDirectory_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>Member Directory Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>			
+			<license src="License.txt"/>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -553,14 +609,14 @@
 		<package name="DotNetNuke.Modules.CoreMessaging_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>Message Center Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>
+			<license src="License.txt"/>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -581,14 +637,14 @@
 		<package name="DNNCorp.RazorHost_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>Razor Host Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>			
+			<license src="License.txt"/>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -621,14 +677,14 @@
 		<package name="Social Groups_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>Social Groups Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>			
+			<license src="License.txt"/>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -661,14 +717,14 @@
 		<package name="DefaultAuthentication_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>Default Authentication Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>			
+			<license src="License.txt"/>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -689,14 +745,14 @@
 		<package name="Dnn.EditBar.UI_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>Dnn.EditBar.UI Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>			
+			<license src="License.txt"/>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -729,9 +785,9 @@
 		<package name="Dnn.PersonaBar.UI_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>Dnn.PersonaBar.UI Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
@@ -848,9 +904,9 @@
 		<package name="SiteExportImport_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>Site Export Import Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
@@ -871,14 +927,14 @@
 		<package name="Dnn.AzureConnector_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>Dnn Azure Connector Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>			
+			<license src="License.txt"/>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
@@ -895,9 +951,9 @@
 		<package name="DNN.Connectors.GoogleAnalytics_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>Dnn Google Anlytics Connector Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
@@ -915,12 +971,35 @@
 				</component>
 			</components>
 		</package>
+		<package name="DNN.Connectors.GoogleTagManager_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+			<friendlyName>Dnn Google TagManager Connector Nederlands (Nederland)</friendlyName>
+			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
+			<iconFile/>
+			<owner>
+				<name>DNN Platform</name>
+				<organization>.NET Foundation</organization>
+				<url>https://www.dnncommunity.org</url>
+				<email>info@dnncommunity.org</email>
+			</owner>
+			<components>
+				<component type="ExtensionLanguage">
+					<languageFiles>
+						<code>nl-NL</code>
+						<package>Dnn.Connectors.GoogleTagManager</package>
+						<languageFile>
+							<path>DesktopModules\Connectors\GoogleTagManager\App_LocalResources</path>
+							<name>sharedresources.nl-NL.resx</name>
+						</languageFile>
+					</languageFiles>
+				</component>
+			</components>
+		</package>
 		<package name="AspNetClientCapabilityProvider_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>DNN ASP.NET Client Capability Provider Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
@@ -941,9 +1020,9 @@
 		<package name="DotNetNuke.Providers.FolderProviders_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>DNN Folder Providers Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
@@ -964,14 +1043,14 @@
 		<package name="DNNConnect.CKEditorProvider_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
 			<friendlyName>DNN Connect CKEditor Provider Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
-			<iconFile />
+			<iconFile/>
 			<owner>
-		        <name>DNN Platform</name>
+				<name>DNN Platform</name>
 				<organization>.NET Foundation</organization>
 				<url>https://www.dnncommunity.org</url>
 				<email>info@dnncommunity.org</email>
 			</owner>
-			<license src="License.txt"></license>			
+			<license src="License.txt"/>
 			<components>
 				<component type="ExtensionLanguage">
 					<languageFiles>
