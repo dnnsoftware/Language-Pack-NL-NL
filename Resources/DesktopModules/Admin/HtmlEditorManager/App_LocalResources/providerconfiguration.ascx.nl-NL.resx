@@ -49,7 +49,7 @@
     <value>Algemene instellingen</value>
   </data>
   <data name="ContentAreaMode.Help" xml:space="preserve">
-    <value>Kies tussen bewerken in een appart document middels een IFRAME (Standaard) of binnen een DIV in de huidige pagina.</value>
+    <value>Kies tussen bewerken in een apart document middels een IFRAME (Standaard) of binnen een DIV in de huidige pagina.</value>
   </data>
   <data name="ContentAreaMode.Text" xml:space="preserve">
     <value>Content gebied mode</value>
@@ -85,7 +85,7 @@
     <value>Filters:</value>
   </data>
   <data name="DocumentsPath.Help" xml:space="preserve">
-    <value>De map waarmee de document manager begint als deze in een dialoog laad.</value>
+    <value>De map waarmee de document manager begint als deze in een dialoog laadt.</value>
   </data>
   <data name="DocumentsPath.Text" xml:space="preserve">
     <value>Pad:</value>
@@ -94,7 +94,7 @@
     <value>Editor configuratie</value>
   </data>
   <data name="EditModes.Help" xml:space="preserve">
-    <value>De Radeditor biedt drie verschillende modes, ontwerp, html en voorbeeld: &lt;ul&gt;&lt;li&gt;Ontwerp: in de ontwerp mode kun je de content beheren en bewerken doormiddel van de werkbalkknoppen en de verschillende menu's&lt;/li&gt;&lt;li&gt;Html: in de html modules kan de html code van de content direct worden aangepast. deze optie wordt vaak gebruikt voor ervaren gebruikers.&lt;/li&gt;&lt;li&gt;Voorbeeld: Deze mode geeft een weergave van de ingevoerd content zoals het eruit zal komen te zien na het opslaan van de content.&lt;/li&gt;&lt;/ul&gt;</value>
+    <value>De Radeditor biedt drie verschillende modes, ontwerp, html en voorbeeld: &lt;ul&gt;&lt;li&gt;Ontwerp: in de ontwerp mode kun je de content beheren en bewerken doormiddel van de werkbalkknoppen en de verschillende menu's&lt;/li&gt;&lt;li&gt;Html: in de html modules kan de html code van de content direct worden aangepast. Deze optie wordt vaak gebruikt voor ervaren gebruikers.&lt;/li&gt;&lt;li&gt;Voorbeeld: Deze mode geeft een weergave van de ingevoerd content zoals het eruit zal komen te zien na het opslaan van de content.&lt;/li&gt;&lt;/ul&gt;</value>
   </data>
   <data name="EditModes.Text" xml:space="preserve">
     <value>Bewerk Modes:</value>
@@ -106,7 +106,7 @@
     <value>Herschalen activeren:</value>
   </data>
   <data name="FileBrowserContentProviderTypeName.Help" xml:space="preserve">
-    <value>De content provider is een class die bepaald hoe er met bestanden en mappen wordt omgegaan in de dialogen van de bestandsmanager. Overschijf deze instelling als je gebruikt maakt van een andere content provider.</value>
+    <value>De content provider is een class die bepaalt hoe er met bestanden en mappen wordt omgegaan in de dialogen van de bestandsmanager. Overschijf deze instelling als je gebruikt maakt van een andere content provider.</value>
   </data>
   <data name="FileBrowserContentProviderTypeName.Text" xml:space="preserve">
     <value>Bestandsbrowser provider:</value>
@@ -169,7 +169,7 @@
     <value>Dit is de HTML Editor provider die gebruikt wordt in deze installatie.</value>
   </data>
   <data name="lblCurrentProvider.Text" xml:space="preserve">
-    <value>huidige provider</value>
+    <value>Huidige provider</value>
   </data>
   <data name="lblEditorConfig.Text" xml:space="preserve">
     <value>Editor configuratie</value>
@@ -217,7 +217,7 @@
     <value>Normaal</value>
   </data>
   <data name="LinksType_UseTabId.Text" xml:space="preserve">
-    <value>Gebruik paginaid in URL</value>
+    <value>Gebruik PaginaID in URL</value>
   </data>
   <data name="LinksType_UseTabName.Text" xml:space="preserve">
     <value>Gebruik paginanaam in URL</value>
@@ -271,7 +271,7 @@
     <value>Een dubbele punt gescheiden lijst van te gebruiken extenties die gebruikt kunnen worden in de mediabeheer module. De extenties moeten ook onder de gastheer instellingen worden toegevoegd aan de toegestane lijst van bestandsextensies. Gebruik het volgende format: *.Extensienaam</value>
   </data>
   <data name="MediaFilters.Text" xml:space="preserve">
-    <value>FIlter:</value>
+    <value>Filter:</value>
   </data>
   <data name="MediaPath.Help" xml:space="preserve">
     <value>De map waarin de mediabeheerder start bij het openen van het venster</value>
@@ -280,7 +280,7 @@
     <value>Pad:</value>
   </data>
   <data name="NewLineBr.Help" xml:space="preserve">
-    <value>De NewLineBr  eigenschap specificeerd of de editor een regel (&lt;BR&gt; tag) of een nieuwe paragraaf (&lt;P&gt; tag) moet toevoegen als er op enter wordt gedrukt.De standaard waarde staat op waar (&lt;BR&gt; tag) omdat dit het meest in de buurt komt van de gebruikte desktop tekstverwerkers. In dit geval kun je een paragraaf toevoegen middels Ctr+M of via de nieuwe paragraaf knop in werkbalk.
+    <value>De NewLineBr eigenschap specificeerd of de editor een regel (&lt;BR&gt; tag) of een nieuwe paragraaf (&lt;P&gt; tag) moet toevoegen als er op enter wordt gedrukt.De standaard waarde staat op waar (&lt;BR&gt; tag) omdat dit het meest in de buurt komt van de gebruikte desktop tekstverwerkers. In dit geval kun je een paragraaf toevoegen middels Ctr+M of via de nieuwe paragraaf knop in werkbalk.
 
 Als je de NewlineBr eigenschap op onwaar zet, zal er bij iedere enter een paragraaf worden toevoegd. Middels een Shift+Enter kan er een &lt;BR&gt; worden toegevoegd.
 
@@ -303,7 +303,7 @@ Dit maakt het echter onmogelijk om bijvoorbeeld een punt/nummerlijst te beginnen
   <data name="OnClientPasteHtml.Help" xml:space="preserve">
     <value>Stel een functienaam in die wordt aangeroepen als de editor het OnPaste (Iedere keer als er iets wordt geplakt in de html code of de html editor) De functie kan in een js bestand worden geplaatst en kan worden gedefinieerd in de ScriptToLoad instellingen.
 
-&lt;a href="http://radeditor.codeplex.com/wikipage?title=OnClientPasteExample" target="_blank"&gt; kijk naar dit voorbeeld voor een gedetailleerd voorbeeld&lt;/a&gt;
+&lt;a href="http://radeditor.codeplex.com/wikipage?title=OnClientPasteExample" target="_blank"&gt; Kijk naar dit voorbeeld voor een gedetailleerd voorbeeld&lt;/a&gt;
 
 </value>
   </data>
@@ -311,7 +311,7 @@ Dit maakt het echter onmogelijk om bijvoorbeeld een punt/nummerlijst te beginnen
     <value>Plak Html:</value>
   </data>
   <data name="PortalRoot.Text" xml:space="preserve">
-    <value>[PortaalRoot]</value>
+    <value>[PortalRoot]</value>
   </data>
   <data name="ScriptToLoad.Help" xml:space="preserve">
     <value>Als deze is ingesteld dan zal de provider het javascipt bestand dat hier gespecificeerd staat laden. Dit moet een relatief pad zijn naar de huidige thema map.
@@ -351,7 +351,7 @@ Je moet een CustomLinks tool in je werkbalk configureren om deze optie te laten 
     <value>Thema:</value>
   </data>
   <data name="SpellAllowAddCustom.Help" xml:space="preserve">
-    <value>Spellingscontrole instellingen zijn he;aas zelden gedocumenteerd. In het algemeen dienen deze velden leeg te blijven tenzij je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website.&lt;/a&gt;</value>
+    <value>Spellingscontrole instellingen zijn helaas zelden gedocumenteerd. In het algemeen dienen deze velden leeg te blijven tenzij je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website.&lt;/a&gt;</value>
   </data>
   <data name="SpellAllowAddCustom.Text" xml:space="preserve">
     <value>Sta aangepaste spelling toe:</value>
@@ -363,13 +363,13 @@ Je moet een CustomLinks tool in je werkbalk configureren om deze optie te laten 
     <value>Spellingscontrole provider naam:</value>
   </data>
   <data name="SpellCustomDictionarySourceTypeName.Help" xml:space="preserve">
-    <value>Spellingscontrole instellingen zijn he;aas zelden gedocumenteerd,. In het algemeen dienen deze velden leeg te blijven tenzij je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website.&lt;/a&gt;</value>
+    <value>Spellingscontrole instellingen zijn helaas zelden gedocumenteerd. In het algemeen dienen deze velden leeg te blijven tenzij je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website.&lt;/a&gt;</value>
   </data>
   <data name="SpellCustomDictionarySourceTypeName.Text" xml:space="preserve">
     <value>Aangepaste spellingscontole woordenboeknaam:</value>
   </data>
   <data name="SpellCustomDictionarySuffix.Help" xml:space="preserve">
-    <value>Spellingscontrole instellingen zijn helaas zelden gedocumenteerd,. In het algemeen dienen deze velden leeg te blijven tenzij je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website.&lt;/a&gt;</value>
+    <value>Spellingscontrole instellingen zijn helaas zelden gedocumenteerd. In het algemeen dienen deze velden leeg te blijven tenzij je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website.&lt;/a&gt;</value>
   </data>
   <data name="SpellCustomDictionarySuffix.Text" xml:space="preserve">
     <value>Aangepaste spellingscontole toevoeging:</value>
@@ -381,7 +381,7 @@ Je moet een CustomLinks tool in je werkbalk configureren om deze optie te laten 
     <value>Spellingscontole taal:</value>
   </data>
   <data name="SpellDictionaryPath.Help" xml:space="preserve">
-    <value>Spellingscontrole instellingen zijn helaas zelden gedocumenteerd,. In het algemeen dienen deze velden leeg te blijven tenzij je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website.&lt;/a&gt;</value>
+    <value>Spellingscontrole instellingen zijn helaas zelden gedocumenteerd. In het algemeen dienen deze velden leeg te blijven tenzij je weet wat je doet. &lt;a href="http://www.telerik.com/products/aspnet-ajax/spell.aspx" target="_blank"&gt;Kom meer te weten over de opties van de spellingscontrole op de Telerik website.&lt;/a&gt;</value>
   </data>
   <data name="SpellDictionaryPath.Text" xml:space="preserve">
     <value>Spellingscontole pad:</value>
@@ -409,9 +409,9 @@ Je moet een CustomLinks tool in je werkbalk configureren om deze optie te laten 
 &lt;ul&gt;
 &lt;li&gt;Geen: Plakt de klembord inhoud zoals het is. &lt;/li&gt;
 &lt;li&gt;Geen onderdruk opschoon vraag: Stript niets bij plakken en stelt geen vragen. &lt;/li&gt;
-&lt;li&gt;MSWord: Verwijderd worden specifieke tags, behoud fonts en tekstgrootte. &lt;/li&gt;
-&lt;li&gt;MSWordGeenFont: strips Verwijderd worden specifieke tags. Behouden blijft tekstgrootte. &lt;/li&gt;
-&lt;li&gt;MSWordVerwijder alles: Verwijderd wordt alle word opmaak. &lt;/li&gt;
+&lt;li&gt;MSWord: Verwijderd worden: specifieke tags. Behouden blijven: fonts en tekstgrootte. &lt;/li&gt;
+&lt;li&gt;MSWordGeenFont: Verwijderd worden: specifieke tags. Behouden blijft: tekstgrootte. &lt;/li&gt;
+&lt;li&gt;MSWordVerwijder alles: Verwijderd wordt: alle Word opmaak. &lt;/li&gt;
 &lt;li&gt;Css: Verwijdert CSS styles bij plakken. &lt;/li&gt;
 &lt;li&gt;Font: Verwijdert Font tags bij plakken. &lt;/li&gt;
 &lt;li&gt;Span: Verwijdert Span tags bij plakken.&lt;/li&gt;
