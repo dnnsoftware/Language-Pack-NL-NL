@@ -19,7 +19,7 @@
     <value>Koppel met een bestaand account</value>
   </data>
   <data name="AssociationFailed.Text" xml:space="preserve">
-    <value>Fout tijdens het koppelem de identiteit van de gebruiker. Onthoud dat de gebruikersnamen en wachtwoorden hoofdlettergevoelig zijn.</value>
+    <value>Fout tijdens het koppelen met de identiteit van de gebruiker. Onthoud dat de gebruikersnamen en wachtwoorden hoofdlettergevoelig zijn.</value>
   </data>
   <data name="AuthenticatedHelp.Text" xml:space="preserve">
     <value>Je bent succesvol geauthenticeerd. Je identiteit is echter geen bekende gebruiker van deze website. Je kunt óf je identiteit koppelen met een bestaand account, of registreren met een nieuw account.</value>
@@ -61,19 +61,19 @@
     <value>Voer je verificatiecode in</value>
   </data>
   <data name="FailedToRemoveAccount.Text" xml:space="preserve">
-    <value>&lt;div&gt;Dit account kon niet worden verwijderd. Neem contact op met de site administrator en laat weren dat je account verwijderd moet worden.&lt;/div&gt;</value>
+    <value>Dit account kon niet worden verwijderd. Neem contact op met de site administrator en laat weren dat je account verwijderd moet worden.</value>
   </data>
   <data name="InvalidCode.Text" xml:space="preserve">
     <value>Ongeldige verificatiecode</value>
   </data>
   <data name="IPAddressBanned.Text" xml:space="preserve">
-    <value>Je kunt niet inloggen op de website vanaf dit IP-adres.</value>
+    <value>Je kunt niet inloggen op deze website vanaf dit IP-adres.</value>
   </data>
   <data name="LoginFailed.Text" xml:space="preserve">
-    <value>Het inloggen is mislukt, Let op: wachtwoorden zijn hoofdlettergevoelig</value>
+    <value>Het inloggen is mislukt. Let op: wachtwoorden zijn hoofdlettergevoelig.</value>
   </data>
   <data name="MustConsent.Text" xml:space="preserve">
-    <value>&lt;div&gt;Je moet met de gebruikersovereenkomst instemmen om verder te kunnen.&lt;/div&gt;</value>
+    <value>Je moet met de gebruikersovereenkomst instemmen om verder te kunnen.</value>
   </data>
   <data name="PasswordExpired.Text" xml:space="preserve">
     <value>Je wachtwoord is verlopen op {0}. Wijzig je wachtwoord alvorens door te gaan.</value>
