@@ -43,10 +43,10 @@
     <value>Voeg een module aan de pagina toe</value>
   </data>
   <data name="Prompt_AddModule_FlagModuleName.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
-    <value>Naam van de desktopmodule die toegevoegd moet worden. Dit moet een unieke naam zijn</value>
+    <value>Naam van de desktopmodule die toegevoegd moet worden. Dit moet een unieke naam zijn.</value>
   </data>
   <data name="Prompt_AddModule_FlagModuleTitle.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
-    <value>Specifieer de titel van de module op de pagina</value>
+    <value>Specifieer de titel van de module op de pagina.</value>
   </data>
   <data name="Prompt_AddModule_FlagPageId.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>ID van de pagina waarop de module wordt toegevoegd.</value>
@@ -59,28 +59,28 @@
     &lt;code class="block"&gt;add-module --name "Html" --pageid 23 --pane TopPane&lt;/code&gt;</value>
   </data>
   <data name="Prompt_AddModuleError.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
-    <value>Er trad een fout op tijdens het toevoegen van de module. Kijk naar de DNN gebeurtenislog voor details.</value>
+    <value>Er trad een fout op tijdens het toevoegen van de module. Kijk in de DNN gebeurtenislog voor details.</value>
   </data>
   <data name="Prompt_ClearCache_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
-    <value>Maakt de server cache leeg en laadt de pagina opnieuw</value>
+    <value>Maakt de server cache leeg en laad de pagina opnieuw.</value>
   </data>
   <data name="Prompt_ClearCache_Error.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
-    <value>Er trad een fout op bij het leegmaken van de cache</value>
+    <value>Er trad een fout op bij het leegmaken van de cache.</value>
   </data>
   <data name="Prompt_ClearCache_Success.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
     <value>Cache leeggemaakt</value>
   </data>
   <data name="Prompt_ClearHistory_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
-    <value>Verwijder de historie van commando's in de huidige sessie</value>
+    <value>Verwijder de historie van commando's in de huidige sessie.</value>
   </data>
   <data name="Prompt_ClearLog_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
-    <value>Maakt de Eventlog van de huidige site leeg </value>
+    <value>Maakt de Event log van de huidige site leeg .</value>
   </data>
   <data name="Prompt_ClearLog_Error.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
-    <value>Er trad een fout op bij het leegmaken van de Eventlog van de huidige site</value>
+    <value>Er trad een fout op bij het leegmaken van de Event log van de huidige site.</value>
   </data>
   <data name="Prompt_ClearLog_Success.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
-    <value>Eventlog leeggemaakt</value>
+    <value>Event log leeggemaakt</value>
   </data>
   <data name="Prompt_Cls_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
     <value>Maakt de Prompt console leeg. &lt;code&gt;cls&lt;/code&gt; is een verkorte keuze voor &lt;a href="#clear-screen" class="dnn-prompt-cmd-insert"&gt;&lt;code&gt;clear-screen&lt;/code&gt;&lt;/a&gt;</value>
@@ -91,7 +91,7 @@
   &lt;h3&gt;Prompt Commando's&lt;/h3&gt;
   &lt;p&gt;
 Zoals met de meeste
-    Zoals bij de meeste opdrachtregelinterfaces, hoe meer opdrachten u onthoudt, hoe efficiënter u kunt zijn. Inzicht in de redenering achter &lt;em&gt;hoe&lt;/em dan ook Prompt-opdrachten worden benoemd en gestructureerd, waardoor het veel gemakkelijker wordt om ze te leren en te internaliseren.
+    Zoals bij de meeste opdrachtregelinterfaces, hoe meer opdrachten u onthoudt, hoe efficiënter u kunt zijn. Inzicht in de redenering achter &lt;em&gt;hoe&lt;/em&gt; dan ook Prompt-opdrachten worden benoemd en gestructureerd, waardoor het veel gemakkelijker wordt om ze te leren en te internaliseren.
   &lt;/p&gt;
   &lt;ol&gt;
     &lt;li&gt;
@@ -113,7 +113,7 @@ Zoals met de meeste
     &lt;thead&gt;
     &lt;tr&gt;
       &lt;th&gt;Actie&lt;/th&gt;
-      &lt;th&gt;BEschrijving&lt;/th&gt;
+      &lt;th&gt;Beschrijving&lt;/th&gt;
     &lt;/tr&gt;
     &lt;/thead&gt;
     &lt;tbody&gt;
@@ -219,8 +219,8 @@ Zoals met de meeste
   </data>
   <data name="Prompt_CommandHelpSyntax.Text" xml:space="preserve" lastModified="2021-09-05 19:25:01">
     <value>&lt;section class="dnn-prompt-inline-help"&gt;
-  &lt;h3&gt;Basic Syntax&lt;/h3&gt;
-  &lt;p&gt;&lt;em&gt;Prompt&lt;em&gt; werkt op een manier die lijkt op een Terminal, Bash-shell, Windows CMD-shell of Powershell. Je voert een opdracht in en klikt op &lt;code&gt;ENTER&lt;/code&gt; en de computer reageert met een resultaat. Voor zeer eenvoudige opdrachten zoals &lt;code&gt;help&lt;/code&gt; of &lt;code&gt;list-modules&lt;/code&gt; is dat alles wat je nodig hebt. Voor sommige opdrachten zijn echter mogelijk aanvullende gegevens vereist of kun je aanvullende opties bieden.
+  &lt;h3&gt;Basis Syntax&lt;/h3&gt;
+  &lt;p&gt;&lt;em&gt;Prompt&lt;/em&gt; werkt op een manier die lijkt op een Terminal, Bash-shell, Windows CMD-shell of Powershell. Je voert een opdracht in en klikt op &lt;code&gt;ENTER&lt;/code&gt; en de computer reageert met een resultaat. Voor zeer eenvoudige opdrachten zoals &lt;code&gt;help&lt;/code&gt; of &lt;code&gt;list-modules&lt;/code&gt; is dat alles wat je nodig hebt. Voor sommige opdrachten zijn echter mogelijk aanvullende gegevens vereist of kun je aanvullende opties bieden.
   &lt;/p&gt;
   &lt;p&gt;
     Een doel of context opgeven voor een opdracht: Voor opdrachten die werken op een object zoals een gebruiker of waarvoor een context zoals een pagina vereist is, geef je die informatie gewoon op na de opdracht. Als je bijvoorbeeld de gebruiker &lt;em&gt;jsmith&lt;/em&gt; wilt vinden met de opdracht &lt;code&gt;get-user&lt;/code&gt;, typ je: &lt;code&gt;get-user jsmith&lt;/code&gt; gevolgd door de &lt;code&gt;ENTER&lt;/code&gt; om deze in te dienen. Als je vlaggen opgeeft (zie volgende alinea), moeten deze komen na het doel/de context van de opdracht.
@@ -251,13 +251,13 @@ Zoals met de meeste
     <value>Kan geen helptekst vinden voor dat commando</value>
   </data>
   <data name="Prompt_CopyModule_Description.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
-    <value>Kopiëert de module naar een specifieke pagina</value>
+    <value>Kopiëert de module naar een specifieke pagina.</value>
   </data>
   <data name="Prompt_CopyModule_FlagId.Text" xml:space="preserve" lastModified="2020-09-30 16:58:26">
     <value>Specificeert de Module ID van de module die gekopieerd moet worden. Specificeer de ID waarde als eerste argument.</value>
   </data>
   <data name="Prompt_CopyModule_FlagIncludesettings.Text" xml:space="preserve" lastModified="2020-09-30 16:58:26">
-    <value>Indien WAAR, dan kopieert Prompt de settings van de bronmodule naar de gekopieerde module</value>
+    <value>Indien WAAR, dan kopieert Prompt de settings van de bronmodule naar de gekopieerde module.</value>
   </data>
   <data name="Prompt_CopyModule_FlagPageId.Text" xml:space="preserve" lastModified="2020-09-30 16:58:26">
     <value>De pagina ID van de pagina die de module bevat die je wilt kopieëren.</value>
@@ -266,7 +266,7 @@ Zoals met de meeste
     <value>Geef het paginadeel op waar de module gekopieerd moet worden. Als deze niet wordt opgegeven, wordt het ContentPane gebruikt.</value>
   </data>
   <data name="Prompt_CopyModule_FlagToPageId.Text" xml:space="preserve" lastModified="2020-10-13 13:24:14">
-    <value>De pagina ID van de doelpagina waar je de module naartoe wilt kopieëren.</value>
+    <value>De pagina ID van de doelpagina waar je de module naartoe wilt kopiëren.</value>
   </data>
   <data name="Prompt_Default.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>Standaard</value>
@@ -331,7 +331,7 @@ Zoals met de meeste
     <value>Je hebt geen autorisatie om toegang te krijgen tot deze functionaliteit.</value>
   </data>
   <data name="Prompt_GetModule_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:41:04">
-    <value>Haalt details over één module op een opgegeven pagina op</value>
+    <value>Haalt details over één module op een opgegeven pagina op.</value>
   </data>
   <data name="Prompt_GetModule_FlagId.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
     <value>Hiermee geeft u expliciet de module-ID van de module op die moet worden opgehaald. Het gebruik van de vlag is niet vereist. U kunt eenvoudig de ID-waarde opgeven als het eerste argument.</value>
@@ -475,7 +475,7 @@ Zoals met de meeste
     <value>De pagina-ID van de doelpagina. De pagina waarnaar u de module wilt kopiëren.</value>
   </data>
   <data name="Prompt_NoModule.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
-    <value>Geen module gevinden met id {0|/</value>
+    <value>Geen module gevinden met id {0}</value>
   </data>
   <data name="Prompt_NoModules.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
     <value>Geen modules gevonden.</value>
@@ -511,7 +511,7 @@ Zoals met de meeste
     <value>Vereist</value>
   </data>
   <data name="Prompt_RestartApplication_Description.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
-    <value>Initiëert een herstart van de applicaite en herlaadt de pagina</value>
+    <value>Initiëert een herstart van de applicaite en herlaad de pagina</value>
   </data>
   <data name="Prompt_ServerError.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
     <value>De server is heeft een probeem ervaren waardoor de bewerking niet kon worden uitgevoerd. Probeer het later nog een keer.</value>
@@ -531,295 +531,45 @@ Zoals met de meeste
   <data name="Prompt_UserRestart.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
     <value>De gebruiker heeft een applicatieherstart gestart.</value>
   </data>
-  <data name="Prompt_AddModule_ResultHtml.Text">
-    <value>&lt;h4&gt;Module toevoegen aan pagina&lt;/h4&gt;
-    &lt;code class="block"&gt;add-module --name "Html" --pageid 23 --pane TopPane&lt;/code&gt;</value>
+  <data name="Prompt_UserRestart_Error.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Er is een fout opgetreden tijdens een poging om de toepassing opnieuw op te starten.</value>
+  </data>
+  <data name="Prompt_UserRestart_Success.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Toepassing opnieuw gestart</value>
   </data>
   <data name="Prompt_ClearCache_ResultHtml.Text">
     <value>   &lt;code class="block"&gt;
       clear-cache
     &lt;/code&gt;
-    &lt;h4&gt;Resultaat&lt;/h4&gt;
+    &lt;h4&gt;Resultaten&lt;/h4&gt;
     &lt;table class="command-result-tbl"&gt;
       &lt;tr&gt;&lt;td&gt;Cache geleegd&lt;/td&gt;&lt;/tr&gt;
-      &lt;tr&gt;&lt;td&gt;Herladen in 3 seconden&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;Herladen over 3 seconden&lt;/td&gt;&lt;/tr&gt;
     &lt;/table&gt;</value>
   </data>
   <data name="Prompt_ClearLog_ResultHtml.Text">
     <value>&lt;code class="block"&gt;
       clear-log
     &lt;/code&gt;
-    &lt;h4&gt;Resultaat&lt;/h4&gt;
+    &lt;h4&gt;Resultaten&lt;/h4&gt;
     &lt;table class="command-result-tbl"&gt;
       &lt;tr&gt;&lt;td&gt;&lt;em&gt;[Event Log Cleared]&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;
     &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_CommandHelpLearn.Text">
-    <value>&lt;section class="dnn-prompt-inline-help"&gt;
-
-  &lt;h3&gt;Prompt Commando's begrijpen&lt;/h3&gt;
-  &lt;p&gt;
-    Zoals bij de meeste opdrachtregelinterfaces, geldt dat hoe meer opdrachten u onthoudt, hoe efficiënter u kunt zijn. Als u de redenering begrijpt achter &lt;em&gt;hoe&lt;/em&gt; promptopdrachten worden benoemd en gestructureerd, wordt het veel gemakkelijker om ze te leren en te internaliseren.
-  &lt;/p&gt;
-  &lt;ol&gt;
-    &lt;li&gt;
-      &lt;strong&gt;Prompt is niet hoofdlettergevoelig&lt;/strong&gt;. Dat betekent dat u opdrachtnamen in kleine letters, hoofdletters of hoofdletters en namen van optievlaggen kunt gebruiken. Dit is typerend voor de meeste opdrachtregels en we vinden dat het het gemakkelijker maakt om het dagelijks te gebruiken.
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;strong&gt;Opdrachten zijn 1 woord of 2 woorden gescheiden door een enkel streepje (-) en geen spaties&lt;/strong&gt;.
-    &lt;/li&gt;
-    &lt;li&gt;
-      &lt;strong&gt;Opdrachten van één woord:&lt;/strong&gt; deze zijn over het algemeen gereserveerd voor opdrachten die interageren met de Prompt-console zelf of de browser. Met andere woorden, de meeste van deze opdrachten vinden plaats in de browser. Enkele voorbeelden zijn: &lt;code&gt;cls&lt;/code&gt; die het consolescherm leegmaakt en &lt;code&gt;reload&lt;/code&gt; die de browser vertelt om de pagina opnieuw te laden. Er zijn ook opdrachten van twee woorden die werken
-      aan de clientzijde, zoals &lt;code&gt;clear-history&lt;/code&gt; (hoewel er een snelkoppeling is voor clear-history: &lt;code&gt;clh&lt;/code&gt;&lt;/li&gt;
-    &lt;li&gt;
-      &lt;strong&gt;Twee-Woorden Commando's:&lt;/strong&gt; Deze commando's volgen het formaat &lt;code&gt;action-component&lt;/code&gt;&amp;mdash;een actie gevolgd door een enkel streepje gevolgd door een component of object waarop de actie werkt.
-    &lt;/li&gt;
-  &lt;/ol&gt;
-
-  &lt;h4&gt;Algemene acties&lt;/h4&gt;
-  &lt;p&gt;Dit is geen volledige lijst van alle acties, maar dekt de meeste wel...&lt;/p&gt;
-
-  &lt;table class="table"&gt;
-    &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Actie&lt;/th&gt;
-      &lt;th&gt;Beschrijving&lt;/th&gt;
-    &lt;/tr&gt;
-    &lt;/thead&gt;
-    &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td class="mono"&gt;list&lt;/td&gt;
-      &lt;td&gt;
-        Haalt een lijst met objecten op. De veronderstelling is dat twee of meer objecten worden geretourneerd, dus het componentgedeelte van de opdracht is meervoud:&lt;br&gt;
-        &lt;code&gt;lijst-pagina's&lt;/code&gt; NIET &lt;code&gt;lijst-pagina&lt;/code&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class="mono"&gt;get&lt;/td&gt;
-      &lt;td&gt;
-        Zal een enkel object ophalen. Als het commando meerdere objecten oplevert, wordt alleen het eerste gevonden object opgehaald. Aangezien deze opdracht op een enkel item werkt, is de component enkelvoud en niet meervoud:&lt;br&gt;
-        &lt;code&gt;get-page&lt;/code&gt; NIET &lt;code&gt;get-pages&lt;/code&gt;
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class="mono"&gt;new&lt;/td&gt;
-      &lt;td&gt;
-        Maakt een nieuw object aan. We hebben het woord &lt;code&gt;nieuw&lt;/code&gt; gekozen omdat het minder typen vereist dan 'maken' en het nauwkeuriger is dan 'toevoegen', wat inhoudt dat je iets aan iets anders toevoegt.
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class="mono"&gt;add&lt;/td&gt;
-      &lt;td&gt;
-        Voegt iets toe aan iets anders. Dit moet niet worden verward met &lt;code&gt;new&lt;/code&gt; die &lt;em&gt;maakt&lt;/em&gt; een nieuw object. Overweeg &lt;code&gt;add-roles&lt;/code&gt; en &lt;code&gt;new-role&lt;/code&gt;. De eerste wordt gebruikt om een ​​of meer beveiligingsrollen aan een gebruiker toe te voegen (d.w.z. een rol toe te voegen aan de lijst met rollen die de gebruiker al heeft), terwijl de laatste opdracht een nieuwe beveiligingsrol in het DNN-systeem creëert .
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class="mono"&gt;set&lt;/td&gt;
-      &lt;td&gt;
-        Wijzigt een object. Dit kan 'update' betekenen of (voor de eerste keer) een waarde instellen. We hebben het woord 'set' niet alleen gekozen omdat het kort en gemakkelijk te typen is, maar ook omdat het in meer scenario's nauwkeuriger is. 'Bijwerken' houdt in dat u een waarde wijzigt die al is ingesteld, maar minder nauwkeurig is als u voor de eerste keer een waarde instelt. En hebben we al gezegd dat 'set' half zo lang is als 'update'?
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class="mono"&gt;delete&lt;/td&gt;
-      &lt;td&gt;
-        Verwijdert een object. De resultaten van deze actie zijn contextafhankelijk. Als DNN een prullenbakvoorziening biedt, zoals voor pagina's en gebruikers, dan stuurt de opdracht het object naar die prullenbak, zodat het later kan worden hersteld. Als een dergelijke voorziening niet aanwezig is, wordt het object permanent verwijderd.
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class="mono"&gt;restore&lt;/td&gt;
-      &lt;td&gt;
-        Als een object eerder is verwijderd en DNN voorziet in een recyclevoorziening voor het object, dan zal dit het object herstellen.
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class="mono"&gt;purge&lt;/td&gt;
-      &lt;td&gt;
-        Als het object eerder is verwijderd en DNN voorziet in een recyclefunctie voor het object, dan zal deze opdracht het object permanent verwijderen. De gebruikersinterface van DNN noemt dit meestal 'verwijderen', maar we waren van mening dat 'zuiveren' de actie nauwkeuriger weerspiegelde.
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;/tbody&gt;
-  &lt;/table&gt;
-
-  &lt;h4&gt;Algemene componenten&lt;/h4&gt;
-  &lt;p&gt;De meeste componenten zouden bekend moeten zijn voor elke gebruiker met beheerderservaring met DNN. Hieronder staan ​​de meest voorkomende:&lt;/p&gt;
-  &lt;p&gt;Een opmerking over meervoudige versus enkelvoudige componenten: wanneer een opdracht 1 of meer items kan bevatten, zal de component meervoud zijn. &lt;code&gt;list-modules&lt;/code&gt;, bijvoorbeeld. Wanneer de opdracht is ontworpen om een ​​enkel object of het eerste object te retourneren, dan zal de component enkelvoud zijn zoals in &lt;code&gt;get-module&lt;/code&gt;&lt;/p&gt;
-
-
-
-  &lt;table class="table"&gt;
-    &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Onderdeel&lt;/th&gt;
-      &lt;th&gt;Beschrijving&lt;/th&gt;
-    &lt;/tr&gt;
-    &lt;/thead&gt;
-    &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td class="mono"&gt;user/users&lt;/td&gt;
-      &lt;td&gt;
-        Een DNN-gebruiker.
-      &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class="mono"&gt;page/pages&lt;/td&gt;
-      &lt;td&gt;Een pagina op de site. OPMERKING: Om historische redenen verwijst DNN naar pagina's &lt;em&gt;intern&lt;/em&gt; als tabbladen, terwijl de gebruikersinterface van DNN ernaar verwijst als pagina's. We hebben ervoor gekozen om 'pagina' te gebruiken, maar u ziet mogelijk verwijzingen naar Tab of TabID die worden geretourneerd door paginagerelateerde opdrachten. Voor de doeleinden van Prompt moet u alleen 'pagina' gebruiken, maar u moet begrijpen dat 'pagina' en 'tabblad' synoniem zijn. &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class="mono"&gt;role/roles&lt;/td&gt;
-      &lt;td&gt;Een DNN-beveiligingsrol.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class="mono"&gt;task/tasks&lt;/td&gt;
-      &lt;td&gt;Een taak is een DNN Scheduler Item of Scheduled Task. We gebruiken het woord taak vanwege de beknoptheid ervan.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class="mono"&gt;portal/portals&lt;/td&gt;
-      &lt;td&gt;Een DNN-site of -portaal.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td class="mono"&gt;module/modules&lt;/td&gt;
-      &lt;td&gt;Een DNN-module. Afhankelijk van het commando kan dit een moduledefinitie of module-instantie zijn.&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;/tbody&gt;
-  &lt;/table&gt;
-
-  &lt;h4&gt;Zie ook&lt;/h4&gt;
-  &lt;a data-cmd="help syntaxis" class="dnn-prompt-cmd-insert" href="#"&gt;Basissyntaxis&lt;/a&gt;
-  &lt;a data-cmd="help" class="dnn-prompt-cmd-insert" href="#"&gt;Lijst met prompt-opdrachten&lt;/a&gt;
-
-&lt;/section&gt;</value>
-  </data>
-  <data name="Prompt_CommandHelpSyntax.Text">
-    <value>&lt;section class="dnn-prompt-inline-help"&gt;
-  &lt;h3&gt;Basissyntaxis&lt;/h3&gt;
-  &lt;p&gt;
-    &lt;em&gt;Prompt&lt;/em&gt; werkt op een manier die vergelijkbaar is met een Terminal, Bash-shell, Windows CMD-shell of Powershell. U voert een opdracht in en drukt op &lt;code&gt;ENTER&lt;/code&gt; en de computer reageert met een resultaat. Voor heel eenvoudige commando's zoals &lt;code&gt;help&lt;/code&gt; of &lt;code&gt;list-modules&lt;/code&gt; is dat alles wat je nodig hebt. Voor sommige opdrachten kunnen echter aanvullende gegevens nodig zijn of u kunt aanvullende opties opgeven.
-  &lt;/p&gt;
-  &lt;p&gt;
-    Een doel of context voor een opdracht specificeren: voor opdrachten die werken op een object zoals een gebruiker, of die een context zoals een pagina vereisen, geeft u die informatie gewoon op na de opdracht. Als u bijvoorbeeld de gebruiker &lt;em&gt;jsmith&lt;/em&gt; wilt vinden met de opdracht &lt;code&gt;get-user&lt;/code&gt;, typt u: &lt;code&gt;get-user jsmith&lt;/code&gt; gevolgd door de &lt;code&gt; ENTER&lt;/code&gt; toets om het in te dienen. Als u vlaggen opgeeft (zie volgende paragraaf), moeten deze &lt;em&gt;altijd komen na&lt;/em&gt; het doel/de context van het commando.
-  &lt;/p&gt;
-  &lt;p&gt;
-    Opties voor opdrachten specificeren: voor sommige opdrachten zijn nog meer gegevens nodig of kunt u optionele configuratie-informatie opgeven. In &lt;em&gt;Prompt&lt;/em&gt; noemen we dit &amp;quot;vlaggen&amp;quot;. Deze moeten &lt;em&gt;na&lt;/em&gt; elk doel/context komen dat nodig is voor het commando (zie bovenstaande paragraaf) en &lt;em&gt;moeten&lt;/em&gt; worden voorafgegaan door twee koppeltekens of streepjes (&lt;code&gt;--&lt;/code&gt; ). Er mogen geen spaties tussen de streepjes staan ​​en er mag geen spatie zijn tussen de streepjes en de naam van de vlag. Als dan vlag een waarde vereist, voeg je die toe na de vlag.
-  &lt;/p&gt;
-  &lt;p&gt;
-    Neem als voorbeeld van het gebruik van vlaggen de opdracht &lt;code&gt;get-user&lt;/code&gt;. Standaard geeft u de gebruikersnaam op van de gebruiker die u wilt vinden. U kunt echter ook zoeken op hun e-mailadres. In dat geval zou u de vlag &lt;code&gt;--email&lt;/code&gt; gebruiken. Hier is hoe je het zou gebruiken:
-  &lt;/p&gt;
-  &lt;code class="block"&gt;
-    get-user --e-mail jsmith@sample.com
-  &lt;/code&gt;
-  &lt;p&gt;
-    Als de waarde van een vlag meer dan één woord is, plaats deze dan tussen dubbele aanhalingstekens, zoals:
-  &lt;/p&gt;
-  &lt;code class="block"&gt;
-    set-page --title "Mijn pagina"
-  &lt;/code&gt;
-
-  &lt;h4&gt;Zie ook&lt;/h4&gt;
-  &lt;a data-cmd="help learn" class="dnn-prompt-cmd-insert" href="#"&gt;Leer promptopdrachten&lt;/a&gt;
-  &lt;a data-cmd="help" class="dnn-prompt-cmd-insert" href="#"&gt;Lijst met prompt-opdrachten&lt;/a&gt;
-
-
-&lt;/section&gt;</value>
-  </data>
   <data name="Prompt_CopyModule_ResultHtml.Text">
-    <value>&lt;h4&gt;Kopieer een module van de ene pagina naar de andere&lt;/h4&gt;
-    &lt;p&gt;Deze opdracht maakt een kopie van de module met module-ID 358 op de pagina met pagina-ID van 71 en plaatst die kopie op de pagina met een pagina-ID van 75&lt;/p&gt;
-    &lt;code class="block"&gt;copy-module 358 --pageid 71 --topageid 75&lt;/code&gt;
-
-    &lt;h4&gt;Resultaten&lt;/h4&gt;
-    &lt;table class="command-result-tbl"&gt;
-      &lt;tr&gt;
-        &lt;td&gt;ModuleId&lt;/td&gt;
-        &lt;td&gt;:&lt;/td&gt;
-        &lt;td&gt;358&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Titel&lt;/td&gt;
-        &lt;td&gt;:&lt;/td&gt;
-        &lt;td&gt;Mijn module&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Modulenaam&lt;/td&gt;
-        &lt;td&gt;:&lt;/td&gt;
-        &lt;td&gt;DNN_HTML&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;FriendlyName&lt;/td&gt;
-        &lt;td&gt;:&lt;/td&gt;
-        &lt;td&gt;HTML&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;ModuleDefId&lt;/td&gt;
-        &lt;td&gt;:&lt;/td&gt;
-        &lt;td&gt;120&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;TabModuleId&lt;/td&gt;
-        &lt;td&gt;:&lt;/td&gt;
-        &lt;td&gt;107&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;AddedToPages&lt;/td&gt;
-        &lt;td&gt;:&lt;/td&gt;
-        &lt;td&gt;71, 75&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td colspan="3"&gt;De module is met succes gekopieerd.&lt;/td&gt;
-      &lt;/tr&gt;
-    &lt;/table&gt;</value>
-  </data>
-  <data name="Prompt_DeleteModule_Description.Text">
-    <value>Verwijdert een module op een specifieke pagina zacht. De module wordt naar de DNN Prullenbak gestuurd. Dit zal geen modules verwijderen of moduledefinities beïnvloeden.</value>
-  </data>
-  <data name="Prompt_DeleteModule_FlagId.Text">
-    <value>Specificeert expliciet de module-ID van de module die moet worden opgehaald. Het gebruik van de vlag is niet verplicht. U kunt eenvoudig de ID-waarde als eerste argument opgeven.</value>
-  </data>
-  <data name="Prompt_DeleteModule_FlagPageId.Text">
-    <value>Specificeert de Pagina ID van de pagina waarop de te verwijderen module zich bevindt.</value>
-  </data>
-  <data name="Prompt_DeleteModule_ResultHtml.Text">
-    <value>&lt;h4&gt;Module-exemplaar verwijderen en naar de Prullenbak sturen&lt;/h4&gt;
-     &lt;p&gt;Hiermee wordt een module-instantie op een specifieke pagina verwijderd en naar de DNN-prullenbak gestuurd&lt;/p&gt;
-     &lt;code class="block"&gt;delete-module 345 --pageid 42&lt;/code&gt;</value>
-  </data>
-  <data name="Prompt_Echo_Description.Text">
-    <value>Geeft het eerste ontvangen argument terug</value>
-  </data>
-  <data name="Prompt_Echo_Nothing.Text">
-    <value>Niets om terug te geven</value>
-  </data>
-  <data name="Prompt_Echo_ResultHtml.Text">
-    <value>&lt;h4&gt;&lt;/h4&gt;</value>
-  </data>
-  <data name="Prompt_Exit_Description.Text">
-    <value>Sluit de promptconsole af.</value>
-  </data>
-  <data name="Prompt_FlagIsRequired.Text">
-    <value>'[0]' is verplicht.</value>
-  </data>
-  <data name="Prompt_GeneralCategory.Text">
-    <value>Algemene commando's</value>
-  </data>
-  <data name="Prompt_GetHost__NoArgs.Text">
-    <value>De opdracht get-host accepteert geen argumenten of vlaggen.</value>
-  </data>
-  <data name="Prompt_GetHost_Description.Text">
-    <value>Haalt informatie op over de DNN-installatie</value>
-  </data>
-  <data name="Prompt_GetHost_OkMessage.Text">
-    <value>get-host opdracht succesvol uitgevoerd.</value>
+    <value>&lt;h4&gt;Een module van de ene pagina naar de andere kopiëren&lt;/h4&gt;     &lt;p&gt;Deze opdracht maakt een kopie van de module met module-id 358 op de pagina met pagina-id van 71 en plaatst die kopie op de pagina met een pagina-id van 75&lt;/p&gt;     &lt;code class="block"&gt;copy-module 358 --pageid 71 --topageid 75&lt;/code&gt;      &lt;h4&gt;Results&lt;/h4&gt;     &lt;table class="command-result-tbl"&gt;       &lt;tr&gt;         &lt;td&gt;ModuleId&lt;/td&gt;         &lt;td&gt;:&lt;/td&gt;         &lt;td&gt;358&lt;/td&gt;       &lt;/tr&gt;       &lt;tr&gt;         &lt;td&gt;Titel&lt;/td&gt;         &lt;td&gt;:&lt;/td&gt;         &lt;td&gt;Mijn module&lt;/td&gt;       &lt;/tr&gt;       &lt;tr&gt;         &lt;td&gt;Modulenaam&lt;/td&gt;         &lt;td&gt;:&lt;/td&gt;         &lt;td&gt;DNN_HTML&lt;/td&gt;       &lt;/tr&gt;       &lt;tr&gt;         &lt;td&gt;Gebruiksvriendelijke naam&lt;/td&gt;         &lt;td&gt;:&lt;/td&gt;         &lt;td&gt;HTML&lt;/td&gt;       &lt;/tr&gt;       &lt;tr&gt;         &lt;td&gt;ModuleDefId&lt;/td&gt;         &lt;td&gt;:&lt;/td&gt;         &lt;td&gt;120&lt;/td&gt;       &lt;/tr&gt;       &lt;tr&gt;         &lt;td&gt;TabModuleId&lt;/td&gt;         &lt;td&gt;:&lt;/td&gt;         &lt;td&gt;107&lt;/td&gt;       &lt;/tr&gt;       &lt;tr&gt;         &lt;td&gt;Toegevoegd aan pagina's&lt;/td&gt;         &lt;td&gt;:&lt;/td&gt;         &lt;td&gt;71, 75&lt;/td&gt;       &lt;/tr&gt;       &lt;tr&gt;         &lt;td colspan="3"&gt;De module met succes gekopieerd.&lt;/td&gt;       &lt;/tr&gt;     &lt;/table&gt;</value>
   </data>
   <data name="Prompt_GetHost_ResultHtml.Text">
-    <value>&lt;h4&gt;Informatie krijgen over de huidige DNN-installatie&lt;/h4&gt;
+    <value>&lt;h4&gt;Informatie opvragen over de huidige DNN-installatie&lt;/h4&gt;
   &lt;code class="block"&gt;
     get-host
   &lt;/code&gt;
-  &lt;h4&gt;Resultaten&lt;/h4&gt;
+  &lt;h4&gt;Results&lt;/h4&gt;
   &lt;table class="command-result-tbl"&gt;
     &lt;tr&gt;
       &lt;td&gt;Product&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
-      &lt;td&gt;DNN-platform&lt;/td&gt;
+      &lt;td&gt;DNN Platform&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Versie&lt;/td&gt;
@@ -829,7 +579,7 @@ Zoals met de meeste
     &lt;tr&gt;
       &lt;td&gt;Upgrade beschikbaar&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
-      &lt;td&gt;waar&lt;/td&gt;
+      &lt;td&gt;true&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Framework&lt;/td&gt;
@@ -837,12 +587,12 @@ Zoals met de meeste
       &lt;td&gt;4.6&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;IP-adres&lt;/td&gt;
+      &lt;td&gt;IP Adres&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
       &lt;td&gt;fe80::a952:8263:d357:ab90%5&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Machtigingen&lt;/td&gt;
+      &lt;td&gt;Permissies&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
       &lt;td&gt;ReflectionPermission, WebPermission, AspNetHostingPermission&lt;/td&gt;
     &lt;/tr&gt;
@@ -869,7 +619,7 @@ Zoals met de meeste
     &lt;tr&gt;
       &lt;td&gt;Thema&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
-      &lt;td&gt;Gravity (2-Kol)&lt;/td&gt;
+      &lt;td&gt;Gravity (2-Col)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Container&lt;/td&gt;
@@ -877,9 +627,9 @@ Zoals met de meeste
       &lt;td&gt;Gravity (Title_h2)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Thema bewerken&lt;/td&gt;
+      &lt;td&gt;EditThema&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
-      &lt;td&gt;Gravity (2-Kol)&lt;/td&gt;
+      &lt;td&gt;Gravity (2-Col)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;EditContainer&lt;/td&gt;
@@ -893,29 +643,14 @@ Zoals met de meeste
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_GetHost_Unauthorized.Text">
-    <value>U bent niet gemachtigd om toegang te krijgen tot deze functionaliteit.</value>
-  </data>
-  <data name="Prompt_GetModule_Description.Text">
-    <value>Haalt details op over een enkele module op een gespecificeerde pagina</value>
-  </data>
-  <data name="Prompt_GetModule_FlagId.Text">
-    <value>Specificeert expliciet de module-ID van de module die moet worden opgehaald. Het gebruik van de vlag is niet verplicht. U kunt eenvoudig de ID-waarde als eerste argument opgeven.</value>
-  </data>
-  <data name="Prompt_GetModule_FlagPageId.Text">
-    <value>De pagina-ID van de pagina die de module bevat.</value>
-  </data>
-  <data name="Prompt_GetModule_Result.Text">
-    <value>Module '{0}' is gevonden op pagina '{1}'.</value>
-  </data>
   <data name="Prompt_GetModule_ResultHtml.Text">
-    <value>&lt;h4&gt;Informatie krijgen over een specifieke module&lt;/h4&gt;
-        &lt;p&gt;De onderstaande code haalt de details op voor een module waarvan de Module-ID 345 is op een pagina 48&lt;/p&gt;
+    <value>&lt;h4&gt;Get Information on a Specific Module&lt;/h4&gt;
+        &lt;p&gt;The code below retrieves the details for a module whose Module ID is 345 on a page 48&lt;/p&gt;
         &lt;code class="block"&gt;get-module 359 --pageid 48&lt;/code&gt;
-        &lt;p&gt;De volgende versie is een meer expliciete versie van de bovenstaande code, maar doet hetzelfde op pagina 48.&lt;/p&gt;
+        &lt;p&gt;The following version is a more explicit version of the code above, but does the same thing  on a page 48.&lt;/p&gt;
         &lt;code class="block"&gt;get-module --id 359 --pageid 48&lt;/code&gt;
 
-        &lt;h4&gt;Resultaten&lt;/h4&gt;
+        &lt;h4&gt;Results&lt;/h4&gt;
         &lt;table class="command-result-tbl"&gt;
             &lt;tr&gt;
                 &lt;td&gt;ModuleId&lt;/td&gt;
@@ -923,12 +658,12 @@ Zoals met de meeste
                 &lt;td&gt;359&lt;/td&gt;
             &lt;/tr&gt;
             &lt;tr&gt;
-                &lt;td&gt;Titel&lt;/td&gt;
+                &lt;td&gt;Title&lt;/td&gt;
                 &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;Navigatie&lt;/td&gt;
+                &lt;td&gt;Navigation&lt;/td&gt;
             &lt;/tr&gt;
             &lt;tr&gt;
-                &lt;td&gt;Modulenaam&lt;/td&gt;
+                &lt;td&gt;ModuleName&lt;/td&gt;
                 &lt;td&gt;:&lt;/td&gt;
                 &lt;td&gt;Console&lt;/td&gt;
             &lt;/tr&gt;
@@ -955,26 +690,17 @@ Zoals met de meeste
         &lt;/table&gt;</value>
   </data>
   <data name="Prompt_GetPortal_Description.Text">
-    <value>Haalt basisinformatie op over de huidige portal of opgegeven portal</value>
+    <value>Haalt basisinformatie op over de huidige portal of opgegeven portal.</value>
   </data>
   <data name="Prompt_GetPortal_FlagId.Text">
-    <value>Portal-ID om informatie te krijgen. Alleen de host kan informatie krijgen over andere portals dan de huidige.</value>
-  </data>
-  <data name="Prompt_GetPortal_Found.Text">
-    <value>Portaal '{0}' is gevonden.</value>
-  </data>
-  <data name="Prompt_GetPortal_NoArgs.Text">
-    <value>De opdracht get-portal accepteert geen argumenten of vlaggen.</value>
-  </data>
-  <data name="Prompt_GetPortal_NotFound.Text">
-    <value>Kan geen portal vinden met ID van '{0}'</value>
+    <value>PortalID om informatie te krijgen. Alleen de host kan informatie krijgen over andere portals dan de huidige.</value>
   </data>
   <data name="Prompt_GetPortal_ResultHtml.Text">
-    <value>&lt;h4&gt;Ontvang informatie over de huidige portal&lt;/h4&gt;
+    <value>&lt;h4&gt;Get Information on Current Portal&lt;/h4&gt;
   &lt;code class="block"&gt;
     get-portal
   &lt;/code&gt;
-  &lt;h4&gt;Resultaten&lt;/h4&gt;
+  &lt;h4&gt;Results&lt;/h4&gt;
   &lt;table class="command-result-tbl"&gt;
     &lt;tr&gt;
       &lt;td&gt;PortalId&lt;/td&gt;
@@ -982,7 +708,7 @@ Zoals met de meeste
       &lt;td&gt;0&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Portalnaam&lt;/td&gt;
+      &lt;td&gt;PortalName&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
       &lt;td&gt;dnnsoftware.com&lt;/td&gt;
     &lt;/tr&gt;
@@ -992,9 +718,9 @@ Zoals met de meeste
       &lt;td&gt;-1&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Registratiemodus&lt;/td&gt;
+      &lt;td&gt;RegistrationMode&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
-      &lt;td&gt;Geverifieerd&lt;/td&gt;
+      &lt;td&gt;Verified&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;DefaultPortalAlias&lt;/td&gt;
@@ -1007,19 +733,19 @@ Zoals met de meeste
       &lt;td&gt;34&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Gebruikersaantal&lt;/td&gt;
+      &lt;td&gt;UserCount&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
       &lt;td&gt;5&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;SiteThema&lt;/td&gt;
+      &lt;td&gt;SiteTheme&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
-      &lt;td&gt;Xcillion (binnen)&lt;/td&gt;
+      &lt;td&gt;Xcillion (Inner)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;BeheerderThema&lt;/td&gt;
+      &lt;td&gt;AdminTheme&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
-      &lt;td&gt;Xcillion (beheerder)&lt;/td&gt;
+      &lt;td&gt;Xcillion (Admin)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Container&lt;/td&gt;
@@ -1032,24 +758,18 @@ Zoals met de meeste
       &lt;td&gt;Xcillion (Title_h2)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Taal&lt;/td&gt;
+      &lt;td&gt;Language&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
-      &lt;td&gt;nl-NL&lt;/td&gt;
+      &lt;td&gt;en-US&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/table&gt;</value>
-  </data>
-  <data name="Prompt_GetSite_Description.Text">
-    <value>Haalt basisinformatie op over de huidige portal of opgegeven portal</value>
-  </data>
-  <data name="Prompt_GetSite_FlagId.Text">
-    <value>Site-ID om informatie te krijgen. Alleen de host kan informatie krijgen over andere portals dan de huidige.</value>
   </data>
   <data name="Prompt_GetSite_ResultHtml.Text">
-    <value>&lt;h4&gt;Ontvang informatie over de huidige portal&lt;/h4&gt;
+    <value>&lt;h4&gt;Get Information on Current Portal&lt;/h4&gt;
   &lt;code class="block"&gt;
     get-portal
   &lt;/code&gt;
-  &lt;h4&gt;Resultaten&lt;/h4&gt;
+  &lt;h4&gt;Results&lt;/h4&gt;
   &lt;table class="command-result-tbl"&gt;
     &lt;tr&gt;
       &lt;td&gt;PortalId&lt;/td&gt;
@@ -1057,7 +777,7 @@ Zoals met de meeste
       &lt;td&gt;0&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Portalnaam&lt;/td&gt;
+      &lt;td&gt;PortalName&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
       &lt;td&gt;dnnsoftware.com&lt;/td&gt;
     &lt;/tr&gt;
@@ -1067,9 +787,9 @@ Zoals met de meeste
       &lt;td&gt;-1&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Registratiemodus&lt;/td&gt;
+      &lt;td&gt;RegistrationMode&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
-      &lt;td&gt;Geverifieerd&lt;/td&gt;
+      &lt;td&gt;Verified&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;DefaultPortalAlias&lt;/td&gt;
@@ -1082,19 +802,19 @@ Zoals met de meeste
       &lt;td&gt;34&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Gebruikersaantal&lt;/td&gt;
+      &lt;td&gt;UserCount&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
       &lt;td&gt;5&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;SiteThema&lt;/td&gt;
+      &lt;td&gt;SiteTheme&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
-      &lt;td&gt;Xcillion (binnen)&lt;/td&gt;
+      &lt;td&gt;Xcillion (Inner)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;BeheerderThema&lt;/td&gt;
+      &lt;td&gt;AdminTheme&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
-      &lt;td&gt;Xcillion (beheerder)&lt;/td&gt;
+      &lt;td&gt;Xcillion (Admin)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Container&lt;/td&gt;
@@ -1107,128 +827,59 @@ Zoals met de meeste
       &lt;td&gt;Xcillion (Title_h2)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;Taal&lt;/td&gt;
+      &lt;td&gt;Language&lt;/td&gt;
       &lt;td&gt;:&lt;/td&gt;
-      &lt;td&gt;nl-NL&lt;/td&gt;
+      &lt;td&gt;en-US&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/table&gt;</value>
-  </data>
-  <data name="Prompt_Help_Command.Text">
-    <value>Commando</value>
-  </data>
-  <data name="Prompt_Help_Commands.Text">
-    <value>Commando's</value>
-  </data>
-  <data name="Prompt_Help_Description.Text">
-    <value>Beschrijving</value>
-  </data>
-  <data name="Prompt_Help_Learn.Text">
-    <value>Promptcommando's leren</value>
-  </data>
-  <data name="Prompt_Help_ListOfAvailableMsg.Text">
-    <value>Hier is een lijst met beschikbare opdrachten voor Prompt.</value>
-  </data>
-  <data name="Prompt_Help_PromptCommands.Text">
-    <value>Prompt Commando'ss</value>
-  </data>
-  <data name="Prompt_Help_SeeAlso.Text">
-    <value>Zie ook</value>
-  </data>
-  <data name="Prompt_Help_Syntax.Text">
-    <value>Overzicht/Basic Syntax</value>
-  </data>
-  <data name="Prompt_HostCategory.Text">
-    <value>Host Commando's</value>
-  </data>
-  <data name="Prompt_ListCommands__H_Category.Text">
-    <value>Categorie</value>
-  </data>
-  <data name="Prompt_ListCommands_Description.Text">
-    <value>Geeft een overzicht van alle commando's.</value>
-  </data>
-  <data name="Prompt_ListCommands_Error.Text">
-    <value>Er is een fout opgetreden bij het weergeven van de opdrachten.</value>
-  </data>
-  <data name="Prompt_ListCommands_Found.Text">
-    <value>{0} opdrachten gevonden.</value>
-  </data>
-  <data name="Prompt_ListCommands_H_Description.Text">
-    <value>Beschrijving</value>
-  </data>
-  <data name="Prompt_ListCommands_H_Name.Text">
-    <value>Naam</value>
-  </data>
-  <data name="Prompt_ListCommands_H_Version.Text">
-    <value>Versie</value>
   </data>
   <data name="Prompt_ListCommands_ResultHtml.Text">
     <value>&lt;h4&gt;&lt;/h4&gt;</value>
   </data>
-  <data name="Prompt_ListModules_Description.Text">
-    <value>Haalt een lijst met modules op op basis van de zoekcriteria</value>
-  </data>
-  <data name="Prompt_ListModules_FlagDeleted.Text">
-    <value>Indien opgegeven, vindt de opdracht alle module-instanties in de portal die zich in de Prullenbak bevinden (als &lt;span class="mono"&gt;--deleted&lt;/span&gt; waar is), of alle module-instanties &lt;em&gt;niet&lt;/ em&gt; in de Prullenbak (als &lt;span class="mono"&gt;--deleted&lt;/span&gt; onwaar is). Als de vlag is opgegeven maar er geen waarde wordt gegeven, wordt deze standaard ingesteld op &lt;span class="mono"&gt;true&lt;/span&gt;. Deze vlag kan worden gebruikt met &lt;span class="mono"&gt;--name&lt;/span&gt; en &lt;span class="mono"&gt;--title&lt;/span&gt; om de resultaten verder te verfijnen.</value>
-  </data>
-  <data name="Prompt_ListModules_FlagMax.Text">
-    <value>Paginagrootte voor de pagina. Maximaal 500.</value>
-  </data>
-  <data name="Prompt_ListModules_FlagModuleName.Text">
-    <value>De naam van de module waarnaar moet worden gezocht. Dit accepteert het jokerteken (*) om gedeeltelijke zoekopdrachten uit te voeren. De modulenaam is niet hetzelfde als de beschrijvende naam van de module of de titel van de module. Om de modulenaam te vinden, &lt;code&gt;list-modules&lt;/code&gt; op een pagina die de module bevat. Zoekopdrachten zijn niet hoofdlettergevoelig</value>
-  </data>
-  <data name="Prompt_ListModules_FlagModuleTitle.Text">
-    <value>De titel van de module waarnaar moet worden gezocht. Dit accepteert tijdelijke aanduidingen met jokertekens (*) die 0 of meer tekens vertegenwoordigen. Zoekopdrachten zijn niet hoofdlettergevoelig.</value>
-  </data>
-  <data name="Prompt_ListModules_FlagPage.Text">
-    <value>Paginanummer om records weer te geven.</value>
-  </data>
-  <data name="Prompt_ListModules_FlagPageId.Text">
-    <value>Indien opgegeven, toont de opdracht alleen modules van de opgegeven pagina. Het gebruik van de vlag is niet verplicht. U kunt eenvoudig de ID-waarde als eerste argument opgeven.</value>
-  </data>
   <data name="Prompt_ListModules_ResultHtml.Text">
-    <value>&lt;h4&gt;Maak een lijst van modules in het huidige portaal&lt;/h4&gt;
-        &lt;code class="block"&gt;lijst-modules&lt;/code&gt;
+    <value>&lt;h4&gt;List Modules in the Current Portal&lt;/h4&gt;
+        &lt;code class="block"&gt;list-modules&lt;/code&gt;
 
-        &lt;h4&gt;Lijst modules op specifieke pagina&lt;/h4&gt;
-        &lt;code class="block"&gt;lijst-modules 72&lt;/code&gt;
+        &lt;h4&gt;List Modules on Specific Page&lt;/h4&gt;
+        &lt;code class="block"&gt;list-modules 72&lt;/code&gt;
 
-        &lt;h4&gt;Lijst modules gefilterd op modulenaam&lt;/h4&gt;
-        &lt;p&gt;Hiermee worden alle XMod- en XMod Pro-modules in de huidige portal geretourneerd&lt;/p&gt;
-        &lt;code class="block"&gt;lijst-modules --name XMod*&lt;/code&gt;
+        &lt;h4&gt;List Modules Filtered by Module Name&lt;/h4&gt;
+        &lt;p&gt;This will return all XMod and XMod Pro modules in the current portal&lt;/p&gt;
+        &lt;code class="block"&gt;list-modules --name XMod*&lt;/code&gt;
 
-        &lt;h4&gt;Lijst modules op een specifieke pagina gefilterd op modulenaam&lt;/h4&gt;
-        &lt;p&gt;Hiermee worden alle XMod- en XMod Pro-modules op de pagina geretourneerd met een Page/TabId van 72&lt;/p&gt;
-        &lt;code class="block"&gt;lijst-modules 72 --name XMod*&lt;/code&gt;
+        &lt;h4&gt;List Modules on a Specific Page Filtered by Module Name&lt;/h4&gt;
+        &lt;p&gt;This will return all XMod and XMod Pro modules on the page with a Page/TabId of 72&lt;/p&gt;
+        &lt;code class="block"&gt;list-modules 72 --name XMod*&lt;/code&gt;
 
-        &lt;h4&gt;Lijst alle modules gefilterd op naam en titel&lt;/h4&gt;
-        &lt;p&gt;Hiermee worden alle modules in de portal geretourneerd waarvan de modulenaam begint met Site &lt;strong&gt;en&lt;/strong&gt; Titel begint met Configure.&lt;/p&gt;
-        &lt;code class="block"&gt;list-modules --title Configureren* --name Site*&lt;/code&gt;
-        &lt;h4&gt;Retourneren&lt;/h4&gt;
+        &lt;h4&gt;List All Modules Filtered on Name and Title&lt;/h4&gt;
+        &lt;p&gt;This will return all modules in the portal whose Module Name starts with Site &lt;strong&gt;and&lt;/strong&gt; Title starts with Configure.&lt;/p&gt;
+        &lt;code class="block"&gt;list-modules --title Configure* --name Site*&lt;/code&gt;
+        &lt;h4&gt;Returns&lt;/h4&gt;
         &lt;table class="command-result-tbl"&gt;
             &lt;thead&gt;
                 &lt;tr&gt;
                     &lt;th&gt;ModuleId&lt;/th&gt;
-                    &lt;th&gt;Titel&lt;/th&gt;
-                    &lt;th&gt;Modulenaam&lt;/th&gt;
+                    &lt;th&gt;Title&lt;/th&gt;
+                    &lt;th&gt;ModuleName&lt;/th&gt;
                     &lt;th&gt;FriendlyName&lt;/th&gt;
                     &lt;th&gt;ModuleDefId&lt;/th&gt;
                     &lt;th&gt;TabModuleId&lt;/th&gt;
-                    &lt;th&gt;ToegevoegdToPages&lt;/th&gt;
+                    &lt;th&gt;AddedToPages&lt;/th&gt;
                 &lt;/tr&gt;
             &lt;/thead&gt;
             &lt;tbody&gt;
                 &lt;tr&gt;
                     &lt;td&gt;394&lt;/td&gt;
-                    &lt;td&gt;Portaalinstellingen, pagina-ontwerp configureren en een sjabloon toepassen...&lt;/td&gt;
+                    &lt;td&gt;Configure portal settings, page design and apply a template...&lt;/td&gt;
                     &lt;td&gt;SiteWizard&lt;/td&gt;
-                    &lt;td&gt;Sitewizard&lt;/td&gt;
+                    &lt;td&gt;Site Wizard&lt;/td&gt;
                     &lt;td&gt;88&lt;/td&gt;
                     &lt;td&gt;86&lt;/td&gt;
                     &lt;td&gt;64&lt;/td&gt;
                 &lt;/tr&gt;
                 &lt;tr&gt;
                     &lt;td&gt;395&lt;/td&gt;
-                    &lt;td&gt;Configureer de sitemap voor verzending naar veelvoorkomende zoekmachines&lt;/td&gt;
+                    &lt;td&gt;Configure the sitemap for submission to common search engines&lt;/td&gt;
                     &lt;td&gt;Sitemap&lt;/td&gt;
                     &lt;td&gt;Sitemap&lt;/td&gt;
                     &lt;td&gt;106&lt;/td&gt;
@@ -1238,94 +889,85 @@ Zoals met de meeste
             &lt;/tbody&gt;
         &lt;/table&gt;
 
-        &lt;h4&gt;Lijst alle verwijderde modules in Portal&lt;/h4&gt;
-        &lt;p&gt;Hiermee worden alle modules in de DNN-prullenbak geretourneerd.&lt;/p&gt;
+        &lt;h4&gt;List All Deleted Modules in Portal&lt;/h4&gt;
+        &lt;p&gt;This will return all modules in the DNN Recycle Bin.&lt;/p&gt;
         &lt;code class="block"&gt;list-modules --deleted&lt;/code&gt;
-        &lt;h4&gt;Retourneren&lt;/h4&gt;
+        &lt;h4&gt;Returns&lt;/h4&gt;
         &lt;table class="command-result-tbl"&gt;
             &lt;thead&gt;
                 &lt;tr&gt;
                     &lt;th&gt;ModuleId&lt;/th&gt;
-                    &lt;th&gt;Titel&lt;/th&gt;
-                    &lt;th&gt;venster&lt;/th&gt;
-                    &lt;th&gt;Modulenaam&lt;/th&gt;
+                    &lt;th&gt;Title&lt;/th&gt;
+                    &lt;th&gt;Pane&lt;/th&gt;
+                    &lt;th&gt;ModuleName&lt;/th&gt;
                     &lt;th&gt;FriendlyName&lt;/th&gt;
                     &lt;th&gt;ModuleDefId&lt;/th&gt;
                     &lt;th&gt;TabModuleId&lt;/th&gt;
-                    &lt;th&gt;IsVerwijderd&lt;/th&gt;
-                    &lt;th&gt;Tab-ID&lt;/th&gt;
+                    &lt;th&gt;IsDeleted&lt;/th&gt;
+                    &lt;th&gt;TabId&lt;/th&gt;
                 &lt;/tr&gt;
             &lt;/thead&gt;
             &lt;tbody&gt;
                 &lt;tr&gt;
                     &lt;td&gt;358&lt;/td&gt;
-                    &lt;td&gt;Thuisbanner&lt;/td&gt;
+                    &lt;td&gt;Home Banner&lt;/td&gt;
                     &lt;td&gt;ContentPane&lt;/td&gt;
                     &lt;td&gt;DNN_HTML&lt;/td&gt;
                     &lt;td&gt;HTML&lt;/td&gt;
                     &lt;td&gt;120&lt;/td&gt;
                     &lt;td&gt;106&lt;/td&gt;
-                    &lt;td&gt;waar&lt;/td&gt;
+                    &lt;td&gt;true&lt;/td&gt;
                     &lt;td&gt;74&lt;/td&gt;
                 &lt;/tr&gt;
                 &lt;tr&gt;
                     &lt;td&gt;410&lt;/td&gt;
-                    &lt;td&gt;Module die is gekopieerd&lt;/td&gt;
+                    &lt;td&gt;Module that was copied&lt;/td&gt;
                     &lt;td&gt;ContentPane&lt;/td&gt;
                     &lt;td&gt;DNN_HTML&lt;/td&gt;
                     &lt;td&gt;HTML&lt;/td&gt;
                     &lt;td&gt;120&lt;/td&gt;
                     &lt;td&gt;104&lt;/td&gt;
-                    &lt;td&gt;waar&lt;/td&gt;
+                    &lt;td&gt;true&lt;/td&gt;
                     &lt;td&gt;71&lt;/td&gt;
                 &lt;/tr&gt;
             &lt;/tbody&gt;
         &lt;/table&gt;
 
-        &lt;h4&gt;Laat alle verwijderde modules zien, gefilterd op naam en titel&lt;/h4&gt;
-        &lt;p&gt;Hiermee worden alle modules in de DNN-prullenbak geretourneerd waarvan de modulenaam eindigt op &amp;quot;HTML&amp;quot; en waarvan de moduletitel &amp;quot;dat&amp;quot; bevat.&lt;/p&gt;
-        &lt;code class="block"&gt;list-modules --deleted --name *HTML --title *dat*&lt;/code&gt;
-        &lt;h4&gt;Retourneren&lt;/h4&gt;
+        &lt;h4&gt;List All Deleted Modules Filtered on Name and Title&lt;/h4&gt;
+        &lt;p&gt;This will return all modules in the DNN Recycle Bin whose Module Name ends with &amp;quot;HTML&amp;quot; and whose Module Title contains &amp;quot;that&amp;quot;.&lt;/p&gt;
+        &lt;code class="block"&gt;list-modules --deleted --name *HTML --title *that*&lt;/code&gt;
+        &lt;h4&gt;Returns&lt;/h4&gt;
         &lt;table class="command-result-tbl"&gt;
             &lt;thead&gt;
                 &lt;tr&gt;
                     &lt;th&gt;ModuleId&lt;/th&gt;
-                    &lt;th&gt;Titel&lt;/th&gt;
-                    &lt;th&gt;venster&lt;/th&gt;
-                    &lt;th&gt;Modulenaam&lt;/th&gt;
+                    &lt;th&gt;Title&lt;/th&gt;
+                    &lt;th&gt;Pane&lt;/th&gt;
+                    &lt;th&gt;ModuleName&lt;/th&gt;
                     &lt;th&gt;FriendlyName&lt;/th&gt;
                     &lt;th&gt;ModuleDefId&lt;/th&gt;
                     &lt;th&gt;TabModuleId&lt;/th&gt;
-                    &lt;th&gt;IsVerwijderd&lt;/th&gt;
-                    &lt;th&gt;Tab-ID&lt;/th&gt;
+                    &lt;th&gt;IsDeleted&lt;/th&gt;
+                    &lt;th&gt;TabId&lt;/th&gt;
                 &lt;/tr&gt;
             &lt;/thead&gt;
             &lt;tbody&gt;
                 &lt;tr&gt;
                     &lt;td&gt;410&lt;/td&gt;
-                    &lt;td&gt;Module die is gekopieerd&lt;/td&gt;
+                    &lt;td&gt;Module that was copied&lt;/td&gt;
                     &lt;td&gt;ContentPane&lt;/td&gt;
                     &lt;td&gt;DNN_HTML&lt;/td&gt;
                     &lt;td&gt;HTML&lt;/td&gt;
                     &lt;td&gt;120&lt;/td&gt;
                     &lt;td&gt;104&lt;/td&gt;
-                    &lt;td&gt;waar&lt;/td&gt;
+                    &lt;td&gt;true&lt;/td&gt;
                     &lt;td&gt;71&lt;/td&gt;
                 &lt;/tr&gt;
             &lt;/tbody&gt;
         &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_ListPortals_Description.Text">
-    <value>Haalt een lijst met portals op voor de huidige DNN-installatie</value>
-  </data>
-  <data name="Prompt_ListPortals_NoArgs.Text">
-    <value>Het list-portal commando accepteert geen argumenten of vlaggen</value>
-  </data>
   <data name="Prompt_ListPortals_ResultHtml.Text">
     <value>&lt;h4&gt;&lt;/h4&gt;</value>
-  </data>
-  <data name="Prompt_ListPortals_Results.Text">
-    <value>'{0}' Portaal{1} gevonden.</value>
   </data>
   <data name="Prompt_ListServices_ImplementationFactory.Text">
     <value>&lt;em&gt; { Factory Method } &lt;/em&gt;</value>
@@ -1337,35 +979,23 @@ Zoals met de meeste
     <value>&lt;em&gt; { None } &lt;/em&gt;</value>
   </data>
   <data name="Prompt_ListSites_Description.Text">
-    <value>Haalt een lijst met portals op voor de huidige DNN-installatie</value>
+    <value>Hiermee haalt u een lijst met portals op voor de huidige DNN-installatie</value>
   </data>
   <data name="Prompt_ListSites_ResultHtml.Text">
     <value>&lt;h4&gt;&lt;/h4&gt;</value>
   </data>
-  <data name="Prompt_ModulesCategory.Text">
-    <value>Module Commando's</value>
-  </data>
   <data name="Prompt_MoveModule_Description.Text">
-    <value>Verplaatst een module naar de opgegeven pagina</value>
+    <value>Een module naar de opgegeven pagina verplaatsen</value>
   </data>
   <data name="Prompt_MoveModule_FlagId.Text">
-    <value>Specificeert expliciet de module-ID van de te kopiëren module. Het gebruik van de vlag is niet verplicht. U kunt eenvoudig de ID-waarde als eerste argument opgeven.</value>
-  </data>
-  <data name="Prompt_MoveModule_FlagPageId.Text">
-    <value>De pagina-ID van de pagina die de module bevat die u wilt kopiëren.</value>
-  </data>
-  <data name="Prompt_MoveModule_FlagPane.Text">
-    <value>Specificeer het deelvenster waarin de module moet worden verplaatst. Als deze niet is opgegeven, wordt de module verplaatst naar ContentPane.</value>
-  </data>
-  <data name="Prompt_MoveModule_FlagToPageId.Text">
-    <value>De pagina-ID van de doelpagina. De pagina waarnaar u de module wilt kopiëren.</value>
+    <value>Geeft expliciet de module-id op van de module die moet worden gekopieerd. Het gebruik van de vlag is niet vereist. U kunt eenvoudig de ID-waarde als eerste argument opgeven.</value>
   </data>
   <data name="Prompt_MoveModule_ResultHtml.Text">
-    <value>&lt;h4&gt;Een module van de ene pagina naar de andere verplaatsen&lt;/h4&gt;
-    &lt;p&gt;Dit commando neemt de module met Module ID 358 op de pagina met Pagina ID van 71 en plaatst module op de pagina met een Pagina ID van 75&lt;/p&gt;
+    <value>&lt;h4&gt;Move a Module from One Page to Another&lt;/h4&gt;
+    &lt;p&gt;This command takes the module with Module ID 358 on the Page with Page ID of 71 and places module on the page with a Page ID of 75&lt;/p&gt;
     &lt;code class="block"&gt;move-module 358 --pageid 71 --topageid 75&lt;/code&gt;
 
-    &lt;h4&gt;Resultaten&lt;/h4&gt;
+    &lt;h4&gt;Results&lt;/h4&gt;
     &lt;table class="command-result-tbl"&gt;
       &lt;tr&gt;
         &lt;td&gt;ModuleId&lt;/td&gt;
@@ -1373,12 +1003,12 @@ Zoals met de meeste
         &lt;td&gt;358&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Titel&lt;/td&gt;
+        &lt;td&gt;Title&lt;/td&gt;
         &lt;td&gt;:&lt;/td&gt;
-        &lt;td&gt;Mijn module&lt;/td&gt;
+        &lt;td&gt;My Module&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td&gt;Modulenaam&lt;/td&gt;
+        &lt;td&gt;ModuleName&lt;/td&gt;
         &lt;td&gt;:&lt;/td&gt;
         &lt;td&gt;DNN_HTML&lt;/td&gt;
       &lt;/tr&gt;
@@ -1403,60 +1033,33 @@ Zoals met de meeste
         &lt;td&gt;71, 75&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-        &lt;td colspan="3"&gt;De module is met succes verplaatst.&lt;/td&gt;
+        &lt;td colspan="3"&gt;Successfully moved the module.&lt;/td&gt;
       &lt;/tr&gt;
     &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_PagingMessage.Text">
-    <value>Pagina {0} of {1}.</value>
-  </data>
-  <data name="Prompt_PagingMessageWithLoad.Text">
-    <value>Pagina {0} van {1}. Druk op een willekeurige toets om de volgende pagina te laden. Druk op CTRL + X om te beëindigen.</value>
-  </data>
-  <data name="Prompt_PortalCategory.Text">
-    <value>Portal Commando's</value>
-  </data>
-  <data name="Prompt_Reload_Description.Text">
-    <value>Herlaadt de huidige pagina</value>
-  </data>
   <data name="Prompt_RestartApplication_ResultHtml.Text">
-    <value>&lt;h4&gt;Resultaten&lt;/h4&gt;
-     &lt;table class="command-result-tbl"&gt;
-       &lt;tr&gt;&lt;td&gt;Applicatie opnieuw gestart&lt;/td&gt;&lt;/tr&gt;
-       &lt;tr&gt;&lt;td&gt;Opnieuw laden in 3 seconden&lt;/td&gt;&lt;/tr&gt;
-     &lt;/table&gt;</value>
-  </data>
-  <data name="Prompt_SetMode_Description.Text">
-    <value>Stelt de DNN-weergavemodus in. Dit heeft hetzelfde effect als klikken op de juiste opties in de DNN-bedieningsbalk.</value>
+    <value>&lt;h4&gt;Results&lt;/h4&gt;
+    &lt;table class="command-result-tbl"&gt;
+      &lt;tr&gt;&lt;td&gt;Application restarted&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td&gt;Reloading in 3 seconds&lt;/td&gt;&lt;/tr&gt;
+    &lt;/table&gt;</value>
   </data>
   <data name="Prompt_SetMode_FlagMode.Text">
-    <value>Een van de drie weergavemodi: &lt;code&gt;edit&lt;/code&gt;, &lt;code&gt;layout&lt;/code&gt; of &lt;code&gt;view&lt;/code&gt;. U hoeft niet op te geven
-           de vlag &lt;span class="mono"&gt;--mode&lt;/span&gt; expliciet. Typ gewoon een van de waarden voor de weergavemodus na de opdracht.</value>
+    <value>Een van de drie weergavemodi: &lt;code&gt;bewerken&lt;/code&gt;, &lt;code&gt;lay-out&lt;/code&gt; of &lt;code&gt;weergeven&lt;/code&gt;. U hoeft niet op te geven
+          de vlag &lt;span class="mono"&gt;--mode&lt;/span&gt;. Typ gewoon een van de waarden voor de weergavemodus na de opdracht.</value>
   </data>
   <data name="Prompt_SetMode_ResultHtml.Text">
     <value>&lt;div&gt;
-     &lt;h4&gt;De DNN-weergavemodus wijzigen&lt;/h4&gt;
-     &lt;code class="block"&gt;
-       lay-out in set-modus
-     &lt;/code&gt; OF
-     &lt;code class="block"&gt;
-       weergave in ingestelde modus
-     &lt;/code&gt; OF
-     &lt;code class="block"&gt;
-       set-modus bewerken
-     &lt;/code&gt;
-   &lt;/div&gt;</value>
-  </data>
-  <data name="Prompt_UserRestart_Error.Text">
-    <value>Er is een fout opgetreden bij het opnieuw opstarten van de toepassing.</value>
-  </data>
-  <data name="Prompt_UserRestart_Success.Text">
-    <value>Applicatie opnieuw gestart</value>
-  </data>
-  <data name="Prompt_UserRestart_Error.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
-    <value>Er is een fout opgetreden tijdens een poging om de toepassing opnieuw op te starten.</value>
-  </data>
-  <data name="Prompt_UserRestart_Success.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
-    <value>Toepassing opnieuw gestart</value>
+    &lt;h4&gt;Change the DNN View Mode&lt;/h4&gt;
+    &lt;code class="block"&gt;
+      set-mode layout
+    &lt;/code&gt; OR
+    &lt;code class="block"&gt;
+      set-mode view
+    &lt;/code&gt; OR
+    &lt;code class="block"&gt;
+      set-mode edit
+    &lt;/code&gt;
+  &lt;/div&gt;</value>
   </data>
 </root>
