@@ -64,10 +64,10 @@
     <value>Fout</value>
   </data>
   <data name="FileUpload.FileAlreadyExists.Error" xml:space="preserve">
-    <value>Het bestand dat je wilt uploaden bestaat al in de map</value>
+    <value>Het bestand dat je wilt uploaden bestaat al in deze map.</value>
   </data>
   <data name="FileUpload.FileIsTooLarge.Error" xml:space="preserve">
-    <value>Bestandsgrootte meer dan {0}</value>
+    <value>Bestandsgrootte is meer dan {0}</value>
   </data>
   <data name="FileUpload.FileUploadCancelled.Error" xml:space="preserve">
     <value>Upload geannuleerd</value>
@@ -109,7 +109,7 @@
     <value>Uploaden naar:</value>
   </data>
   <data name="FileUpload.UrlTooltip.Text" xml:space="preserve">
-    <value>Voer bron-URL in zoals https://website.nl/Img/Over.png</value>
+    <value>Voer bron-URL in zoals https://website.nl/Afbeeldingen/Over.png</value>
   </data>
   <data name="Folder.Text" xml:space="preserve">
     <value>Map</value>
@@ -124,10 +124,10 @@
     <value>Geen overeenkomsten</value>
   </data>
   <data name="NoPermission.Text" xml:space="preserve">
-    <value>Je bent niet bevoegd bestanden te bekijken in het bestandsysteem van deze site</value>
+    <value>Je bent niet bevoegd bestanden te bekijken in het bestandsysteem van deze site.</value>
   </data>
   <data name="Ok.Text" xml:space="preserve">
-    <value>Ok</value>
+    <value>OK</value>
   </data>
   <data name="PasswordRulesBodyText.Text" xml:space="preserve">
     <value>Bevat tenminste {0} karakters, 1 hoofdletter, 1 nummer en {1}.</value>
@@ -139,13 +139,13 @@
     <value>redelijk</value>
   </data>
   <data name="PasswordStrengthMinLength.Text" xml:space="preserve">
-    <value>-Minimum van karakters</value>
+    <value>-minimum van karakters</value>
   </data>
   <data name="PasswordStrengthStrong.Text" xml:space="preserve">
-    <value>Sterk</value>
+    <value>sterk</value>
   </data>
   <data name="PasswordStrengthWeak.Text" xml:space="preserve">
-    <value>Zwak</value>
+    <value>zwak</value>
   </data>
   <data name="PortalRoot.Text" xml:space="preserve">
     <value>Hoofdmap</value>
@@ -160,6 +160,6 @@
     <value>Bestand uploaden</value>
   </data>
   <data name="UploadError.Text" xml:space="preserve">
-    <value>Betandstype {1} is hier niet toegestaan. Toegestane bestandstypes zijn: {0}</value>
+    <value>Betandstype {1} is hier niet toegestaan. Toegestane bestandstypes zijn: {0}.</value>
   </data>
 </root>

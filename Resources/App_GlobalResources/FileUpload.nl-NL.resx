@@ -13,15 +13,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AlreadyExists.Text" xml:space="preserve">
-    <value>Het bestand bestaat reeds</value>
+    <value>Het bestand bestaat reeds.</value>
   </data>
   <data name="ErrorMessage.Text" xml:space="preserve">
-    <value>Het bestand '{0}' kon niet worden geüpload: {1}</value>
+    <value>Het bestand '{0}' kon niet worden geüpload: {1}.</value>
   </data>
   <data name="ExtensionNotAllowed.Text" xml:space="preserve">
-    <value>Deze bestandsextensie is niet toegestaan</value>
+    <value>Deze bestandsextensie is niet toegestaan.</value>
   </data>
   <data name="NoPermission.Text" xml:space="preserve">
-    <value>Onvoldoende rechten</value>
+    <value>Onvoldoende rechten.</value>
   </data>
 </root>

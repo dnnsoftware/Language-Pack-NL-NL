@@ -509,22 +509,22 @@ Verzenden compleet op:      [Custom:3]
 &lt;/html&gt;</value>
   </data>
   <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" xml:space="preserve">
-    <value>&amp;lt;div style="width:100%;"&amp;gt;&amp;lt;h5&amp;gt;[TITLE]&amp;lt;/h5&amp;gt;&amp;lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&amp;gt;
-    &amp;lt;tr&amp;gt;
-        &amp;lt;td&amp;gt;
-            &amp;lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&amp;gt;
-                &amp;lt;tr&amp;gt;
-                    &amp;lt;td&amp;gt;&amp;lt;a href="PROFILEURL"&amp;gt;&amp;lt;img src="[PROFILEPICURL]" /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;[DISPLAYNAME]&amp;lt;/td&amp;gt;
-                &amp;lt;/tr&amp;gt;
-            &amp;lt;/table&amp;gt;
-            &amp;lt;table width="350" border="0" cellspacing="0" cellpadding="8" align="left"&amp;gt;
-                &amp;lt;tr&amp;gt;
-                    &amp;lt;td&amp;gt;[CONTENT][FRIENDREQUESTACTIONS][FOLLOWREQUESTACTIONS]&amp;lt;/td&amp;gt;
-                &amp;lt;/tr&amp;gt;
-            &amp;lt;/table&amp;gt;
-        &amp;lt;/td&amp;gt;
-    &amp;lt;/tr&amp;gt;
-&amp;lt;/table&amp;gt;&amp;lt;/div&amp;gt;</value>
+    <value>&lt;div style="width:100%;"&gt;&lt;h5&gt;[TITLE]&lt;/h5&gt;&lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;a href="[PROFILEURL]"&gt;&lt;img src="[PROFILEPICURL]" /&gt;&lt;/a&gt;&lt;br/&gt;[DISPLAYNAME]&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;table width="350" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;[CONTENT][FRIENDREQUESTACTIONS][FOLLOWREQUESTACTIONS]&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" xml:space="preserve">
     <value>Beste [Profile:FullName],
@@ -1342,5 +1342,13 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
   </data>
   <data name="Write to Folder.Permission" xml:space="preserve">
     <value>Schrijf bestanden in map</value>
+  </data>
+  <data name="MESSAGE_LOGIN_INSTRUCTIONS.Text">
+    <value>
+    </value>
+  </data>
+  <data name="MESSAGE_REGISTRATION_INSTRUCTIONS.Text">
+    <value>
+    </value>
   </data>
 </root>
