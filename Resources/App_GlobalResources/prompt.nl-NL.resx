@@ -475,7 +475,7 @@ Zoals met de meeste
     <value>De pagina-ID van de doelpagina. De pagina waarnaar u de module wilt kopiëren.</value>
   </data>
   <data name="Prompt_NoModule.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
-    <value>Geen module gevinden met id {0}</value>
+    <value>Geen module gevonden met id {0}</value>
   </data>
   <data name="Prompt_NoModules.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
     <value>Geen modules gevonden.</value>
