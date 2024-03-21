@@ -250,7 +250,7 @@
     <value>Vul de tabellen of andere objecten in waar dit item van afhangt. (Eg. Gebruikers, GebruikersOnline"</value>
   </data>
   <data name="plObjectDependencies.Text" xml:space="preserve">
-    <value>Òbject afhankelijkheden</value>
+    <value>Object afhankelijkheden</value>
   </data>
   <data name="plRetainHistoryNum.Help" xml:space="preserve">
     <value>Selecteer het aantal items om te behouden in de planning geschiedenis.</value>
