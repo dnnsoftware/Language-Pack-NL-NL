@@ -76,7 +76,7 @@
     <value>Het onderliggende systeem genereert een uitzondering. Het bestand is niet gekopieerd.</value>
   </data>
   <data name="CreateValidatorException.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
-    <value>De validatie kan niet getart worden  - {0}.</value>
+    <value>De validatie kan niet gestart worden  - {0}.</value>
   </data>
   <data name="DeleteFileUnderlyingSystemError.Text" xml:space="preserve">
     <value>Het onderliggende systeem heeft een uitzondering gegenereerd. Het bestand is niet verwijderd.</value>
@@ -220,7 +220,7 @@
     <value>Om te kopen lijst is te groot. Maximale {0}, werkelijke {1}.</value>
   </data>
   <data name="NoNetworkAvailableError.Text" xml:space="preserve">
-    <value>Netwerkverbinding is nodig, maar er is geen netwerk beschikbaar.</value>
+    <value>Een netwerkverbinding is nodig, maar er is geen netwerk beschikbaar.</value>
   </data>
   <data name="PrivateMessageDisabledError.Text" xml:space="preserve">
     <value>Binnen de huidige instellingen is het voor gebruikers niet toegestaan om berichten te versturen naar andere gebruikers en/of groepen.</value>
@@ -408,4 +408,5 @@
   <data name="WriteFileToResponsePermissionsNotMet.Text" xml:space="preserve">
     <value>De juiste machtigingen ontbreken. Het bestand kan niet worden gedownload.</value>
   </data>
+
 </root>
