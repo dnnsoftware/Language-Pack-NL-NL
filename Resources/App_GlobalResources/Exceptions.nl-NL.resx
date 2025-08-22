@@ -221,6 +221,7 @@
   </data>
   <data name="NoNetworkAvailableError.Text" xml:space="preserve">
     <value>Een netwerkverbinding is nodig, maar er is geen netwerk beschikbaar.</value>
+    <value>Een netwerkverbinding is nodig, maar er is geen netwerk beschikbaar.</value>
   </data>
   <data name="PrivateMessageDisabledError.Text" xml:space="preserve">
     <value>Binnen de huidige instellingen is het voor gebruikers niet toegestaan om berichten te versturen naar andere gebruikers en/of groepen.</value>
