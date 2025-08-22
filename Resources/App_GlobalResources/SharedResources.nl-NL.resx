@@ -271,7 +271,7 @@
     <value>Er is een fout opgetreden bij het aanmaken van een map van het configuratiebestand.</value>
   </data>
   <data name="CriticalError.Error" xml:space="preserve">
-    <value>Er is een fout opgetreden.&lt;br /&gt;&lt;br /&gt;Wanneer dit uw eerste inlog klikt u  &lt;a href="/Home"&gt;hier&lt;/a&gt; om verder te gaan.</value>
+    <value>Er is een fout opgetreden.&lt;br /&gt;&lt;br /&gt;Wanneer dit uw eerste inlog klikt u &lt;a href="/Home"&gt;hier&lt;/a&gt; om verder te gaan.</value>
   </data>
   <data name="Daily.Text" xml:space="preserve">
     <value>Dagelijks</value>
@@ -1874,3 +1874,4 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
   </data>
 
 </root>
+
