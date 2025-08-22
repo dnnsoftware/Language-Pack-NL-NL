@@ -250,7 +250,7 @@
     <value>Formatteren registratie instructie</value>
   </data>
   <data name="CopyPermissionsToChildren.Text" xml:space="preserve">
-    <value>Machtigingen worden vervangen voor alle kinderen van deze pagina.&lt;br /&gt;&lt;br /&gt; Weet je zeker dat je door wilt gaan?</value>
+    <value>Machtigingen worden vervangen voor alle subpagina's van deze pagina.&lt;br /&gt;&lt;br /&gt; Weet je zeker dat je door wilt gaan?</value>
   </data>
   <data name="CreateAdminUser.Error" xml:space="preserve">
     <value>Fout bij aanmaken Sitebeheerdersaccount.</value>
@@ -1872,4 +1872,5 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value>
     </value>
   </data>
+
 </root>
