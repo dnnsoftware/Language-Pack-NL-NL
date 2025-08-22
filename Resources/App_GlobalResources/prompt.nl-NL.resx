@@ -511,7 +511,7 @@ Zoals met de meeste
     <value>Vereist</value>
   </data>
   <data name="Prompt_RestartApplication_Description.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
-    <value>Initiëert een herstart van de applicaite en herlaad de pagina</value>
+    <value>Initiëert een herstart van de applicatie en herlaad de pagina</value>
   </data>
   <data name="Prompt_ServerError.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
     <value>De server is heeft een probeem ervaren waardoor de bewerking niet kon worden uitgevoerd. Probeer het later nog een keer.</value>
@@ -1063,4 +1063,5 @@ Zoals met de meeste
   &lt;/div&gt;</value>
   </data>
 </root>
+
 
