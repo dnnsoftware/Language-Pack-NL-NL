@@ -74,7 +74,7 @@
     <value>Verwijder de historie van commando's in de huidige sessie.</value>
   </data>
   <data name="Prompt_ClearLog_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
-    <value>Maakt de Event log van de huidige site leeg .</value>
+    <value>Maakt de Event log van de huidige site leeg.</value>
   </data>
   <data name="Prompt_ClearLog_Error.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
     <value>Er trad een fout op bij het leegmaken van de Event log van de huidige site.</value>
@@ -1063,3 +1063,4 @@ Zoals met de meeste
   &lt;/div&gt;</value>
   </data>
 </root>
+
