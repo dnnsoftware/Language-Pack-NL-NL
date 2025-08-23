@@ -109,10 +109,10 @@
     <value>Beveiligingscode</value>
   </data>
   <data name="CaptchaAlt.Text" xml:space="preserve">
-    <value>CAPTCHA Afbeelding</value>
+    <value>CAPTCHA afbeelding</value>
   </data>
   <data name="CaptchaText.Text" xml:space="preserve">
-    <value>Vul de bovenstaande code hieronder in</value>
+    <value>Vul de bovenstaande code hieronder in.</value>
   </data>
   <data name="Center.Text" xml:space="preserve">
     <value>Centreren</value>
@@ -172,7 +172,7 @@
     <value>Help </value>
   </data>
   <data name="cmdNext.Help" xml:space="preserve">
-    <value>Klik om naar de volgende pagina te gaan</value>
+    <value>Klik om naar de volgende pagina te gaan.</value>
   </data>
   <data name="cmdNext.Text" xml:space="preserve">
     <value>Volgende</value>
@@ -250,10 +250,10 @@
     <value>Formatteren registratie instructie</value>
   </data>
   <data name="CopyPermissionsToChildren.Text" xml:space="preserve">
-    <value>Rechten zullen worden vervangen voor alle dochterpagina's vam deze pagina.&amp;lt;br /&amp;gt;&amp;lt;br /&amp;gt;Weet je zeker dat je door wilt gaan?</value>
+    <value>Machtigingen worden vervangen voor alle subpagina's van deze pagina.&lt;br /&gt;&lt;br /&gt; Weet je zeker dat je door wilt gaan?</value>
   </data>
   <data name="CreateAdminUser.Error" xml:space="preserve">
-    <value>Fout bij aanmaken Sitebeheerdersaccount</value>
+    <value>Fout bij aanmaken Sitebeheerdersaccount.</value>
   </data>
   <data name="CreateDir.Text" xml:space="preserve">
     <value>Map aanmaken</value>
@@ -262,16 +262,16 @@
     <value>Fout bij aanmaken website</value>
   </data>
   <data name="CreatePortalHomeFolderExists.Error" xml:space="preserve">
-    <value>De websitemap {0} is al in gebruikt.</value>
+    <value>De websitemap {0} is al in gebruik.</value>
   </data>
   <data name="CreateProfileDefinitions.Error" xml:space="preserve">
-    <value>Fout bij aanmaken profieldefinities</value>
+    <value>Fout bij aanmaken profieldefinities.</value>
   </data>
   <data name="CreatingConfiguredFolderMapping.Error" xml:space="preserve">
-    <value>Er is een fout opgetreden bij het aanmaken van een map van het config bestand</value>
+    <value>Er is een fout opgetreden bij het aanmaken van een map van het configuratiebestand.</value>
   </data>
   <data name="CriticalError.Error" xml:space="preserve">
-    <value>Er is een kritieke fout opgetreden. Kijk in het logboek voor detailinformatie.</value>
+    <value>Er is een fout opgetreden.&lt;br /&gt;&lt;br /&gt;Wanneer dit uw eerste inlog klikt u &lt;a href="/Home"&gt;hier&lt;/a&gt; om verder te gaan.</value>
   </data>
   <data name="Daily.Text" xml:space="preserve">
     <value>Dagelijks</value>
@@ -391,7 +391,7 @@
     <value>Toon lokale naam</value>
   </data>
   <data name="DNN_Reading.Text" xml:space="preserve">
-    <value>DNN bestand lezen</value>
+    <value>DNN installatiebestand lezen</value>
   </data>
   <data name="DNN_ReadingComponent.Text" xml:space="preserve">
     <value>Componentmanifest wordt gelezen</value>
@@ -637,7 +637,7 @@
     <value>Het bestand - {0} is in gebruik en kan nu niet worden verwijderd. Wacht s.v.p een paar minuten en probeer het opnieuw.</value>
   </data>
   <data name="FilePermission.Error" xml:space="preserve">
-    <value>Je bent niet gemachtigd het betreffende bestand te bekijken</value>
+    <value>Je bent niet gemachtigd het betreffende bestand te bekijken.</value>
   </data>
   <data name="FileRestricted.Text" xml:space="preserve">
     <value>{0} is een beschermd bestandstype. Toegestane bestandstypen bestaan uit ( *.{1}). Neem contact op met je hosting provider als je bestandstypes wilt uploaden die niet toegestaan zijn.</value>
@@ -796,7 +796,7 @@
     <value>Installatie succesvol</value>
   </data>
   <data name="INSTALL_Compatibility.Text" xml:space="preserve">
-    <value>Installatie afgebroken - de module die geïnstalleerd word is niet compatibel met de huidige applicatieversie (een applicatie upgrade naar versie {0 } is hiervoor noodzakelijk )</value>
+    <value>Installatie afgebroken - de module die geïnstalleerd word is niet compatibel met de huidige applicatieversie (een applicatie upgrade naar versie {0} is hiervoor noodzakelijk )</value>
   </data>
   <data name="INSTALL_Dependencies.Text" xml:space="preserve">
     <value>Installatie geannuleerd - De module heeft meer componenten nodig dan op dit moment beschikbaar zijn.</value>
@@ -844,19 +844,19 @@
     <value>Bestandsnaam is niet correct - deze mag geen ' bevatten</value>
   </data>
   <data name="InvalidFirstName.Text" xml:space="preserve">
-    <value>De opgegeven voornaam is niet correct</value>
+    <value>De opgegeven voornaam is niet correct.</value>
   </data>
   <data name="InvalidLastName.Text" xml:space="preserve">
-    <value>De opgegeven achternaam is niet correct</value>
+    <value>De opgegeven achternaam is niet correct.</value>
   </data>
   <data name="InvalidPassword.Text" xml:space="preserve">
     <value>Het opgegeven wachtwoord is ongeldig. Geef een geldig wachtwoord in. Wachtwoorden moeten ten minste [PasswordLength] tekens lang zijn en ten minste [NoneAlphabet] niet-alfanumerieke tekens bevatten. en mag niet overeenkomen met de gebruikersnaam.</value>
   </data>
   <data name="InvalidPasswordAnswer.Text" xml:space="preserve">
-    <value>Er moet een antwoord op de wachtwoord vraag opgegeven worden</value>
+    <value>Er moet een antwoord op de wachtwoord vraag opgegeven worden.</value>
   </data>
   <data name="InvalidPasswordQuestion.Text" xml:space="preserve">
-    <value>Er moet een wachtwoordvraag opgegeven worden</value>
+    <value>Er moet een wachtwoordvraag opgegeven worden.</value>
   </data>
   <data name="InvalidQuestion.Text" xml:space="preserve">
     <value>De opgegeven vraag is niet correct. Voer alstublieft een correcte vraag in.</value>
@@ -895,7 +895,7 @@
     <value>Laatste</value>
   </data>
   <data name="LastPortal.Text" xml:space="preserve">
-    <value>De laatste website in applicatie kan niet verwijderd worden</value>
+    <value>De laatste website in applicatie kan niet verwijderd worden.</value>
   </data>
   <data name="Left.Text" xml:space="preserve">
     <value>Links</value>
@@ -982,7 +982,7 @@
     <value>module </value>
   </data>
   <data name="LOG.LangPack.Provider" xml:space="preserve">
-    <value>module</value>
+    <value>provider</value>
   </data>
   <data name="LOG.LangPack.SavedFile" xml:space="preserve">
     <value>Taalbestand {0} bewaard in hulpbronpakket.</value>
@@ -1018,19 +1018,19 @@
     <value>Waarschuwing</value>
   </data>
   <data name="LOG.PAWriter.CreateArchive" xml:space="preserve">
-    <value>Bestanden toevoegen aan Private Assembly: {0}</value>
+    <value>Bestanden toevoegen aan de Module Package: {0}</value>
   </data>
   <data name="LOG.PAWriter.CreateManifest" xml:space="preserve">
     <value>Manifest bestand aanmaken. {0}</value>
   </data>
   <data name="LOG.PAWriter.CreateZipFile" xml:space="preserve">
-    <value>Private Assembly Aanmaken: {0}</value>
+    <value>Module Package maken: {0}</value>
   </data>
   <data name="LOG.PAWriter.ERROR.SavingFile" xml:space="preserve">
-    <value>Er is een fout opgetreden bij het opslaan van een bestand in de Private Assembly: {0}</value>
+    <value>Er is een fout opgetreden bij het opslaan van een bestand in de Module Package: {0}</value>
   </data>
   <data name="LOG.PAWriter.SavedFile" xml:space="preserve">
-    <value>Bestand {0} opgeslagen in Private Assembly.</value>
+    <value>Bestand {0} opgeslagen in Module Package</value>
   </data>
   <data name="Maximize.Text" xml:space="preserve">
     <value>Maximaliseren</value>
@@ -1078,7 +1078,7 @@
     <value>Module Control Type ontbreekt</value>
   </data>
   <data name="MODULE_FriendlyNameMissing.Text" xml:space="preserve">
-    <value>Module gebruiksvriendelijk naam ontbreekt</value>
+    <value>Module gebruiksvriendelijke naam ontbreekt</value>
   </data>
   <data name="MODULE_HostAdded.Text" xml:space="preserve">
     <value>Module toegevoegd aan Applicatiebeheerpagina {0}.</value>
@@ -1147,7 +1147,7 @@
     <value>Maand</value>
   </data>
   <data name="MonthAgo.Text" xml:space="preserve">
-    <value>{0} maand geleden</value>
+    <value>{0} maand(en) geleden</value>
   </data>
   <data name="Monthly.Text" xml:space="preserve">
     <value>maandelijks</value>
@@ -1156,7 +1156,7 @@
     <value>maanden</value>
   </data>
   <data name="MonthsAgo.Text" xml:space="preserve">
-    <value>{0} maanden geleden</value>
+    <value>{0} maand(en) geleden</value>
   </data>
   <data name="MyFolderName.Text" xml:space="preserve">
     <value>Mijn map</value>
@@ -1261,7 +1261,7 @@
     <value>Ingesloten object is content pane</value>
   </data>
   <data name="PaneToken.Text" xml:space="preserve">
-    <value>Symbool is content pane</value>
+    <value>Token is content pane</value>
   </data>
   <data name="Password.Text" xml:space="preserve">
     <value>Wachtwoord:</value>
@@ -1464,7 +1464,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value>Zoeken</value>
   </data>
   <data name="SEARCH_NoLink.Text" xml:space="preserve">
-    <value>[Geen link beschikbaar]</value>
+    <value>[geen link beschikbaar]</value>
   </data>
   <data name="Second.Text" xml:space="preserve">
     <value>Tweede</value>
@@ -1641,7 +1641,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value>Fout openen [{0}:{1}], {0} is een onbekende databron.</value>
   </data>
   <data name="TokenReplaceUnknownProperty.Text" xml:space="preserve">
-    <value>Onbekende Property</value>
+    <value>Onbekende eigenschap</value>
   </data>
   <data name="TranslateModule.Confirm" xml:space="preserve">
     <value>Weet je zeker dat je deze module als vertaald wilt markeren?</value>
@@ -1695,7 +1695,7 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
     <value>URL: </value>
   </data>
   <data name="URLPROVIDER_NameMissing.Text" xml:space="preserve">
-    <value>UrlProvider naam mist</value>
+    <value>UrlProvider naam ontbreekt</value>
   </data>
   <data name="URLPROVIDER_ReadSuccess.Text" xml:space="preserve">
     <value>UrlProvider Manifest laden succesvol</value>
@@ -1844,4 +1844,34 @@ Als je deze toevoeging verwacht, negeer dan deze e-mail; anders wordt een onmidd
   <data name="Yes.Text" xml:space="preserve">
     <value>Ja</value>
   </data>
+  <data name="DefaultWorkflowState1.OnDiscardMessageBody">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState1.OnDiscardMessageSubject">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState3.OnCompleteMessageBody">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState3.OnCompleteMessageSubject">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState3.OnDiscardMessageBody">
+    <value>
+    </value>
+  </data>
+  <data name="DefaultWorkflowState3.OnDiscardMessageSubject">
+    <value>
+    </value>
+  </data>
+  <data name="File.Text">
+    <value>
+    </value>
+  </data>
+
 </root>
+
