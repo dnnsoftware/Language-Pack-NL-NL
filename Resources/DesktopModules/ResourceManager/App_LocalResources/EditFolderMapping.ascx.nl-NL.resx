@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>{0} Type map</value>
+  </data>
+  <data name="ControlTitle_editfoldermapping.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>Wijzig mapkoppeling</value>
+  </data>
+  <data name="Description.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>Gebruik deze dialoog om een nieuw maptype te definiëren</value>
+  </data>
+  <data name="DuplicateMappingName.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>Een mapkoppeling met de dezelfde naam bestaat al. De wijziging is niet opgeslagen.</value>
+  </data>
+  <data name="FolderProviderLabel.Help" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>Selecteer een "Folderprovider" die gebruikt moet worden</value>
+  </data>
+  <data name="FolderProviderLabel.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>Folderprovider</value>
+  </data>
+  <data name="FolderProviderSettings.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>Instellingen Folderprovider</value>
+  </data>
+  <data name="FolderProviderValidator.ErrorMessage" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>Een Folderprovider is vereist</value>
+  </data>
+  <data name="GeneralSettings.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>Algemene instellingen</value>
+  </data>
+  <data name="NameLabel.Help" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>Geef de naam van de mapkoppeling</value>
+  </data>
+  <data name="NameLabel.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>Naam</value>
+  </data>
+  <data name="NameValidator.ErrorMessage" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>De naam is vereist</value>
+  </data>
+  <data name="RequiredFields.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>Geeft de vereiste velden op</value>
+  </data>
+  <data name="SelectFolderProvider.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>- Selecteer een Folderprovider -</value>
+  </data>
+  <data name="SyncWarning.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>Nadat het maptype is gewijzigd, worden alle folders gesynchroniseerd met dit type. Dit kost enige tijd, afhankelijk van het aantal mappen dat gesynchroniseerd moet worden.</value>
+  </data>
+  <data name="Update.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
+    <value>Werk bij</value>
+  </data>
+</root>
