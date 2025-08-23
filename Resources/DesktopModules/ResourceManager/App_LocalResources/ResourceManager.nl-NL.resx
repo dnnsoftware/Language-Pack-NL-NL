@@ -1,110 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
-    Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
-    associated with the data types.
-    
-    Example:
-    
-    ... ado.net/XML headers & schema ...
-    <resheader name="resmimetype">text/microsoft-resx</resheader>
-    <resheader name="version">2.0</resheader>
-    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-        <value>[base64 mime encoded serialized .NET Framework object]</value>
-    </data>
-    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-        <comment>This is a comment</comment>
-    </data>
-                
-    There are any number of "resheader" rows that contain simple 
-    name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
-    mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
-    extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
-    read any of the formats listed below.
-    
-    mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-            : and then encoded with base64 encoding.
-    
-    mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-            : and then encoded with base64 encoding.
-
-    mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
-            : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.
-    -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -112,327 +7,210 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddAsset.Text" xml:space="preserve">
-    <value>Item toevoegen</value>
+  <data name="AddAsset.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
+    <value>Voeg bestand toe</value>
   </data>
-  <data name="AddFolder.Text" xml:space="preserve">
-    <value>Map toevoegen</value>
+  <data name="AddFolder.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
+    <value>Voeg map toe</value>
   </data>
-  <data name="AssetsPanelEmpty_Subtitle.Text" xml:space="preserve">
-    <value>Gebruik de bovenstaande gereedschappen om een item toe te voegen of een map te maken</value>
+  <data name="AddFolderType.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
+    <value>Voeg maptype toe</value>
   </data>
-  <data name="AssetsPanelEmpty_Title.Text" xml:space="preserve">
-    <value>Deze Map is leeg</value>
+  <data name="AssetsPanelEmpty_Subtitle.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
+    <value>Gebruik de bovenstaande gereedschappen om een bestand of map toe te voegen</value>
   </data>
-  <data name="Cancel.Text" xml:space="preserve">
+  <data name="AssetsPanelEmpty_Title.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
+    <value>De map is leeg</value>
+  </data>
+  <data name="AssetsPanelNoSearchResults.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
+    <value>Geen resultaten gevonden</value>
+  </data>
+  <data name="Cancel.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
     <value>Annuleren</value>
   </data>
-  <data name="Close.Text" xml:space="preserve">
+  <data name="Close.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
     <value>Sluiten</value>
   </data>
-  <data name="Database.Text" xml:space="preserve">
-    <value>Database</value>
+  <data name="Created.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
+    <value>Gemaakt</value>
   </data>
-  <data name="FileAlreadyExistsMessage.Text" xml:space="preserve">
-    <value>Het bestand dat je wilt uploaden, bevindt zich al in deze map.</value>
-  </data>
-  <data name="FileUploadedMessage.Text" xml:space="preserve">
-    <value>Bestand geüpload</value>
-  </data>
-  <data name="FileUploadStoppedMessage.Text" xml:space="preserve">
-    <value>Het uploaden van bestanden is gestopt</value>
-  </data>
-  <data name="FolderNamePlaceholder.Text" xml:space="preserve">
-    <value>Voer Mapnaam in</value>
-  </data>
-  <data name="FolderNameRequiredMessage.Text" xml:space="preserve">
-    <value>De Mapnaam is verplicht</value>
-  </data>
-  <data name="FolderParent.Text" xml:space="preserve">
-    <value>Bovenliggende map</value>
-  </data>
-  <data name="FolderTypeRequiredMessage.Text" xml:space="preserve">
-    <value>Het maptype is verplicht</value>
-  </data>
-  <data name="Name.Text" xml:space="preserve">
-    <value>Naam</value>
-  </data>
-  <data name="Save.Text" xml:space="preserve">
-    <value>Opslaan</value>
-  </data>
-  <data name="Secure.Text" xml:space="preserve">
-    <value>Beveiligd</value>
-  </data>
-  <data name="Standard.Text" xml:space="preserve">
-    <value>Standaard</value>
-  </data>
-  <data name="Type.Text" xml:space="preserve">
-    <value>Type</value>
-  </data>
-  <data name="UserHasNoPermissionToDeleteFolder.Error" xml:space="preserve">
-    <value>De gebruiker is niet gemachtigd om de map te verwijderen.</value>
-  </data>
-  <data name="UserHasNoPermissionToDownload.Error" xml:space="preserve">
-    <value>De gebruiker heeft geen toestemming om dit bestand te downloaden.</value>
-  </data>
-  <data name="FileUploadPanelMessage.Text" xml:space="preserve">
-    <value>Een bestand slepen en neerzetten of een optie selecteren</value>
-  </data>
-  <data name="AssetsPanelNoSearchResults.Text" xml:space="preserve">
-    <value>Je zoekopdracht heeft geen resultaten opgeleverd</value>
-  </data>
-  <data name="SearchInputPlaceholder.Text" xml:space="preserve">
-    <value>Zoek bestanden</value>
-  </data>
-  <data name="Search.Text" xml:space="preserve">
-    <value>Zoeken</value>
-  </data>
-  <data name="UrlCopiedMessage.Text" xml:space="preserve">
-    <value>URL gekopieerd naar klembord</value>
-  </data>
-  <data name="Created.Text" xml:space="preserve">
-    <value>gemaakt</value>
-  </data>
-  <data name="Description.Text" xml:space="preserve">
-    <value>Beschrijving</value>
-  </data>
-  <data name="LastModified.Text" xml:space="preserve">
-    <value>Laatst gewijzigd</value>
-  </data>
-  <data name="Size.Text" xml:space="preserve">
-    <value>Grootte</value>
-  </data>
-  <data name="Title.Text" xml:space="preserve">
-    <value>Titel</value>
-  </data>
-  <data name="URL.Text" xml:space="preserve">
-    <value>URL</value>
-  </data>
-  <data name="ItemNameRequiredMessage.Text" xml:space="preserve">
-    <value>Naam is verplicht</value>
-  </data>
-  <data name="UserHasNoPermissionToReadFileProperties.Error" xml:space="preserve">
-    <value>De gebruiker is niet gemachtigd om bestandseigenschappen te lezen.</value>
-  </data>
-  <data name="GenericErrorMessage.Text" xml:space="preserve">
-    <value>Er trad een fout op</value>
-  </data>
-  <data name="ItemSavedMessage.Text" xml:space="preserve">
-    <value>Item opgeslagen</value>
-  </data>
-  <data name="FolderType.Text" xml:space="preserve">
-    <value>Folder Type</value>
-  </data>
-  <data name="CreatedOnDate.Text" xml:space="preserve">
+  <data name="CreatedOnDate.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
     <value>Gemaakt op</value>
   </data>
-  <data name="ItemName.Text" xml:space="preserve">
-    <value>Item naam</value>
+  <data name="Database.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
+    <value>Database</value>
   </data>
-  <data name="LastModifiedOnDate.Text" xml:space="preserve">
-    <value>Datum laatst gewijzigd</value>
+  <data name="DeleteFileDialogHeader.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
+    <value>Bevestig verwijderen</value>
   </data>
-  <data name="FileSizeErrorMessage.Text" xml:space="preserve">
-    <value> is te groot. De maximaal toegestane bestandsgrootte is </value>
+  <data name="DeleteFileDialogMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
+    <value>Weet je zeker dat het bestand verwijderd kan worden?</value>
   </data>
-  <data name="UserHasNoPermissionToDeleteFile.Error" xml:space="preserve">
-    <value>De gebruiker heeft geen toestemming om het bestand te verwijderen.</value>
+  <data name="DeleteFolderDialogHeader.Text" xml:space="preserve" lastModified="2021-09-01 13:14:56">
+    <value>Bevestig verwijderen</value>
   </data>
-  <data name="UserHasNoPermissionToManageFileProperties.Error" xml:space="preserve">
-    <value>De gebruiker is niet gemachtigd om bestandseigenschappen te beheren.</value>
+  <data name="DeleteFolderDialogMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
+    <value>Weet je zeker dat de map verwijderd kan worden?</value>
   </data>
-  <data name="UserHasNoPermissionToManageFolder.Error" xml:space="preserve">
-    <value>De gebruiker is niet gemachtigd om deze map te beheren.</value>
+  <data name="Description.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
+    <value>Beschrijving</value>
   </data>
-  <data name="NoFolderSelected.Text" xml:space="preserve">
-    <value>Geen map geselecteerd</value>
+  <data name="DisabledForAnonymousUsersMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
+    <value>Niet beschikbaar voor anonieme gebruikers</value>
   </data>
-  <data name="SearchFolder.Text" xml:space="preserve">
-    <value>Doorzoek map</value>
+  <data name="EditFolderType.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
+    <value>Wijzig maptype</value>
   </data>
-  <data name="DisabledForAnonymousUsersMessage.Text" xml:space="preserve">
-    <value>Uitgeschakeld voor anonieme gebruikers.</value>
+  <data name="FileAlreadyExistsMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
+    <value>Het bestand dat je wilt uploaden bestaat al in de map</value>
   </data>
-  <data name="UserHasNoPermissionToAddFolders.Error" xml:space="preserve">
-    <value>De gebruiker is niet gemachtigd om nieuwe mappen toe te voegen.</value>
+  <data name="FileSizeErrorMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
+    <value> is te groot. De maximum toegelaten bestandsgrootte is</value>
   </data>
-  <data name="GroupIconCantBeDeleted.Error" xml:space="preserve">
-    <value>Het groepspictogrambestand kan niet worden verwijderd.</value>
+  <data name="FileUploadedMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
+    <value>Bestand geupload.</value>
   </data>
-  <data name="InvalidExtensionMessage.Text" xml:space="preserve">
-    <value> is niet van een type dat mag worden geüpload</value>
+  <data name="FileUploadPanelMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
+    <value>Sleep en laat een bestands los of selecteer een optie</value>
   </data>
-  <data name="Refresh.Text" xml:space="preserve">
-    <value>Ververs</value>
+  <data name="FileUploadStoppedMessage.Text" xml:space="preserve" lastModified="2021-09-02 19:11:03">
+    <value>Uploaden bestand gestopt</value>
   </data>
-  <data name="Sync.Text" xml:space="preserve">
-    <value>Sync</value>
+  <data name="FolderNamePlaceholder.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
+    <value>Geef mapnaam</value>
   </data>
-  <data name="SyncThisFolder.Text" xml:space="preserve">
-    <value>Sync deze map</value>
+  <data name="FolderNameRequiredMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
+    <value>De mapnaam is vereist</value>
   </data>
-  <data name="SyncThisFolderAndSubfolders.Text" xml:space="preserve">
-    <value>Sync deze map &amp; submappen</value>
-  </data>
-  <data name="ManageFolderTypes.Text" xml:space="preserve">
-    <value>Beheer Maptypen</value>
-  </data>
-  <data name="AddFolderType.Text" xml:space="preserve">
-    <value>Maptype toevoegen</value>
-  </data>
-  <data name="FolderProvider.Text" xml:space="preserve">
-    <value>Map provider</value>
-  </data>
-  <data name="FolderTypeDefinitions.Text" xml:space="preserve">
-    <value>Maptype definities</value>
-  </data>
-  <data name="EditFolderType.Text" xml:space="preserve">
-    <value>Bewerk Maptype</value>
-  </data>
-  <data name="RemoveFolderType.Text" xml:space="preserve">
-    <value>Verwijder maptype</value>
-  </data>
-  <data name="RemoveFolderTypeDialogBody.Text" xml:space="preserve">
-    <value>Weet je zeker dat je dit maptype wilt verwijderen?</value>
-  </data>
-  <data name="RemoveFolderTypeDialogHeader.Text" xml:space="preserve">
-    <value>Verwijder maptype</value>
-  </data>
-  <data name="MoveItems.Text" xml:space="preserve">
-    <value>Verplaats item(s)</value>
-  </data>
-  <data name="NewLocation.Text" xml:space="preserve">
-    <value>Nieuwe locatie</value>
-  </data>
-  <data name="SortField_ItemName.Text" xml:space="preserve">
-    <value>Naam</value>
-  </data>
-  <data name="SortField_LastModifiedOnDate.Text" xml:space="preserve">
-    <value>Bewerkt op</value>
-  </data>
-  <data name="SortField_Size.Text" xml:space="preserve">
-    <value>Grootte</value>
-  </data>
-  <data name="SortField_ParentFolder.Text" xml:space="preserve">
+  <data name="FolderParent.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
     <value>Bovenliggende map</value>
   </data>
-  <data name="SortField_CreatedOnDate.Text" xml:space="preserve">
-    <value>Aanmaakdatum</value>
+  <data name="FolderProvider.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
+    <value>Folderprovider</value>
   </data>
-  <data name="Sort.Text" xml:space="preserve">
-    <value>Sorteer</value>
+  <data name="FolderType.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
+    <value>Maptype</value>
   </data>
-  <data name="Items.Text" xml:space="preserve">
-    <value>Items</value>
+  <data name="FolderTypeDefinitions.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
+    <value>Maptype definitie</value>
   </data>
-  <data name="MappedPath.Text" xml:space="preserve">
-    <value>Gekoppeld pad</value>
+  <data name="FolderTypeRequiredMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Het maptype is vereist</value>
   </data>
-  <data name="Edit.Text" xml:space="preserve">
-    <value>Bewerk</value>
+  <data name="GenericErrorMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Er is een fout opgetreden.</value>
   </data>
-  <data name="RolePermissions.Text" xml:space="preserve">
-    <value>Rol machtigingen</value>
+  <data name="GroupIconCantBeDeleted.Error" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>De groepsicon kan niet worden verwijderd</value>
   </data>
-  <data name="UserPermissions.Text" xml:space="preserve">
-    <value>Gebruikersmachtigingen</value>
+  <data name="InvalidExtensionMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value> is geen type waarvoor uploaden is toegestaan</value>
   </data>
-  <data name="FolderId.Text" xml:space="preserve">
-    <value>Map ID</value>
+  <data name="ItemName.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Naam van het item</value>
   </data>
-  <data name="General.Text" xml:space="preserve">
-    <value>Algemeen</value>
+  <data name="ItemNameRequiredMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>De naam is vereist</value>
   </data>
-  <data name="Permissions.Text" xml:space="preserve">
-    <value>Rechten</value>
+  <data name="ItemSavedMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Item opgeslagen.</value>
   </data>
-  <data name="FileId.Text" xml:space="preserve">
-    <value>Bestands-ID</value>
+  <data name="LastModified.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Laatste keer gewijzigd</value>
   </data>
-  <data name="ConfirmDeleteMessage.Text" xml:space="preserve">
-    <value>Weet je zeker dat je de geselecteerde items wilt verwijderen?</value>
+  <data name="LastModifiedOnDate.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Gewijzigd op</value>
   </data>
-  <data name="ConfirmMoveMessage.Text" xml:space="preserve">
-    <value>Weet je zeker dat je de geselecteerde items wilt verplaatsen?</value>
+  <data name="ManageFolderTypes.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Beheer maptypes</value>
   </data>
-  <data name="ConfirmUnlinkMessage.Text" xml:space="preserve">
-    <value>Weet u zeker dat je de volgende mappen wilt ontkoppelen?</value>
+  <data name="MoveItem.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Verplaats item</value>
   </data>
-  <data name="Delete.Text" xml:space="preserve">
-    <value>Verwijder</value>
+  <data name="Name.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Naam</value>
   </data>
-  <data name="DeleteItems.Text" xml:space="preserve">
-    <value>Verwijder Items</value>
+  <data name="NewLocation.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Nieuwe locatie</value>
   </data>
-  <data name="DeletingItems.Text" xml:space="preserve">
-    <value>Items aan het verwijderen</value>
+  <data name="NoFolderSelected.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Geen map geselecteerd</value>
   </data>
-  <data name="Files.Text" xml:space="preserve">
-    <value>Bestanden</value>
+  <data name="Refresh.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Verversen</value>
   </data>
-  <data name="Folders.Text" xml:space="preserve">
-    <value>Mappen</value>
+  <data name="RemoveFolderType.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Verwijder maptype</value>
   </data>
-  <data name="Move.Text" xml:space="preserve">
-    <value>Verplaats</value>
+  <data name="RemoveFolderTypeDialogBody.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Weet je zeker dat je dit maptype wilt verwijderen?</value>
   </data>
-  <data name="MovingItems.Text" xml:space="preserve">
-    <value>Items aan het verplaatsen</value>
+  <data name="RemoveFolderTypeDialogHeader.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Verwijder maptype</value>
   </data>
-  <data name="No.Text" xml:space="preserve">
-    <value>Nee</value>
+  <data name="Save.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Opslaan</value>
   </data>
-  <data name="SelectDestinationFolder.Text" xml:space="preserve">
-    <value>Selecteer de doelmap</value>
+  <data name="Search.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Zoeken</value>
   </data>
-  <data name="Unlink.Text" xml:space="preserve">
-    <value>Ontkoppelen</value>
+  <data name="SearchFolder.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Zoek map</value>
   </data>
-  <data name="UnlinkFolders.Text" xml:space="preserve">
-    <value>Ontkoppel map(pen)</value>
+  <data name="SearchInputPlaceholder.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Zoek bestand</value>
   </data>
-  <data name="UnlinkingFolders.Text" xml:space="preserve">
-    <value>Mappen ontkoppelen</value>
+  <data name="Secure.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Beveiligd</value>
   </data>
-  <data name="Yes.Text" xml:space="preserve">
-    <value>Ja</value>
+  <data name="Size.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Grootte</value>
   </data>
-  <data name="CopyUrl.Text" xml:space="preserve">
-    <value>URL kopiëren</value>
+  <data name="Standard.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Standaard</value>
   </data>
-  <data name="StatusBarMessage.Text" xml:space="preserve">
-    <value>Toont {0} van {1} items</value>
+  <data name="SyncThisFolder.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Synchroniseer deze map</value>
   </data>
-  <data name="Download.Text" xml:space="preserve">
-    <value>Download</value>
+  <data name="SyncThisFolderAndSubfolders.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Synchroniseer deze map en submappen</value>
   </data>
-  <data name="Upload.Text" xml:space="preserve">
-    <value>Upload</value>
+  <data name="Title.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Titel</value>
   </data>
-  <data name="ExtractUploads.Text" xml:space="preserve">
-    <value> ZIP-bestanden uitpakken na uploaden</value>
+  <data name="Type.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>Type</value>
   </data>
-  <data name="Overwrite.Text" xml:space="preserve">
-    <value>Overschrijven</value>
+  <data name="URL.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
+    <value>URL</value>
   </data>
-  <data name="EditFolderMappings.Text" xml:space="preserve">
-    <value>Bewerk Map toewijzingen</value>
+  <data name="UrlCopiedMessage.Text" xml:space="preserve" lastModified="2021-09-01 13:14:56">
+    <value>URL naar klembord gekopieerd</value>
   </data>
-  <data name="GlobalAssets.Text" xml:space="preserve">
-    <value>Globale items</value>
+  <data name="UserHasNoPermissionToAddFolders.Error" xml:space="preserve" lastModified="2021-09-01 12:59:10">
+    <value>De gebruiker heeft geen rechten om mappen toe te voegen.</value>
   </data>
-  <data name="GroupAssets.Text" xml:space="preserve">
-    <value>{0} items</value>
+  <data name="UserHasNoPermissionToDeleteFile.Error" xml:space="preserve" lastModified="2021-09-01 12:59:10">
+    <value>De gebruiker heeft geen rechten om dit bestand te verwijderen.</value>
   </data>
-  <data name="SiteAssets.Text" xml:space="preserve">
-    <value>Site items</value>
+  <data name="UserHasNoPermissionToDeleteFolder.Error" xml:space="preserve" lastModified="2021-09-01 12:59:10">
+    <value>De gebruiker heeft geen rechten om deze map te verwijderen.</value>
   </data>
-  <data name="UserAssets.Text" xml:space="preserve">
-    <value>{0} Items</value>
+  <data name="UserHasNoPermissionToDownload.Error" xml:space="preserve" lastModified="2021-09-01 12:59:10">
+    <value>De gebruiker heeft geen rechten om het bestand te downloaden</value>
+  </data>
+  <data name="UserHasNoPermissionToManageFileProperties.Error" xml:space="preserve" lastModified="2021-09-01 12:59:10">
+    <value>De gebruiker heeft geen rechten om de bestandseigenschappen te wijzigen.</value>
+  </data>
+  <data name="UserHasNoPermissionToManageFolder.Error" xml:space="preserve" lastModified="2021-09-01 12:59:10">
+    <value>De gebruiker heeft geen rechten om de map te beheren</value>
+  </data>
+  <data name="UserHasNoPermissionToReadFileProperties.Error" xml:space="preserve" lastModified="2021-09-01 12:59:10">
+    <value>De gebruiker heeft geen rechten om de bestandseigenschappenm te zien</value>
   </data>
 </root>
