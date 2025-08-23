@@ -16,7 +16,7 @@
     <value>{0} Type map</value>
   </data>
   <data name="ControlTitle_editfoldermapping.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
-    <value>WIjzig mapkoppeling</value>
+    <value>Wijzig mapkoppeling</value>
   </data>
   <data name="Description.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
     <value>Gebruik deze dialoog om een nieuw maptype te definiëren</value>
@@ -25,16 +25,16 @@
     <value>Een mapkoppeling met de dezelfde naam bestaat al. De wijziging is niet opgeslagen.</value>
   </data>
   <data name="FolderProviderLabel.Help" xml:space="preserve" lastModified="2021-09-01 11:43:27">
-    <value>Selecteer een "folderprovider" die gebruikt moet worden</value>
+    <value>Selecteer een "Folderprovider" die gebruikt moet worden</value>
   </data>
   <data name="FolderProviderLabel.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
     <value>Folderprovider</value>
   </data>
   <data name="FolderProviderSettings.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
-    <value>Instellingen folderprovider</value>
+    <value>Instellingen Folderprovider</value>
   </data>
   <data name="FolderProviderValidator.ErrorMessage" xml:space="preserve" lastModified="2021-09-01 11:43:27">
-    <value>Een folderprovider is vereist</value>
+    <value>Een Folderprovider is vereist</value>
   </data>
   <data name="GeneralSettings.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
     <value>Algemene instellingen</value>
@@ -49,10 +49,10 @@
     <value>De naam is vereist</value>
   </data>
   <data name="RequiredFields.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
-    <value>Geeft de vereiste velden aan</value>
+    <value>Geeft de vereiste velden op</value>
   </data>
   <data name="SelectFolderProvider.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
-    <value>- Selecteer een folderprovider -</value>
+    <value>- Selecteer een Folderprovider -</value>
   </data>
   <data name="SyncWarning.Text" xml:space="preserve" lastModified="2021-09-01 11:43:27">
     <value>Nadat het maptype is gewijzigd, worden alle folders gesynchroniseerd met dit type. Dit kost enige tijd, afhankelijk van het aantal mappen dat gesynchroniseerd moet worden.</value>

@@ -211,6 +211,6 @@
     <value>De gebruiker heeft geen rechten om de map te beheren</value>
   </data>
   <data name="UserHasNoPermissionToReadFileProperties.Error" xml:space="preserve" lastModified="2021-09-01 12:59:10">
-    <value>De gebruiker heeft geen rechten om de bestandseigenschappenm te zien</value>
+    <value>De gebruiker heeft geen rechten om de bestandseigenschappen te zien</value>
   </data>
 </root>
