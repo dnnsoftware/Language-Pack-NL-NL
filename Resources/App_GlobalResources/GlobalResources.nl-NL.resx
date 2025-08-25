@@ -263,7 +263,7 @@
   <data name="EMAIL_AFFILIATE_NOTIFICATION_BODY.Text" xml:space="preserve">
     <value>Beste [Custom:0],
 
-Je account voor het [Portal:PortalName] affiliatie programma is aangemaakt.
+Je account voor het [Portal:PortalName] partnerprogramma is aangemaakt.
 Gebruik de volgende URL om te linken naar onze site:
 
 [Custom:1]
@@ -547,7 +547,7 @@ Met vriendelijke groet,
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" xml:space="preserve">
     <value>Beste [User:DisplayName],
 
-Je hebt een wachtwoord reset link aangevraagd van [Portal:PortalName]. Je account staat klaar voor goedkeuring.
+Je hebt een wachtwoord-resetlink aangevraagd van [Portal:PortalName]. Je account staat klaar voor goedkeuring.
 
 Het wachtwoord kan worden gereset nadat het account is goedgekeurd.
 
@@ -1301,8 +1301,8 @@ SOFTWARE.&lt;/p&gt;</value>
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_BODY.Text">
     <value>
 De volgende gebruiker heeft een Wachtwoord Reset Token opgevraagd van [Portal:PortalName], maar de gebruiker wacht nog op goedkeuring.
-User Name: [User:UserName]
-Display Name: [User:DisplayName]
+Gebruikersnaam: [User:UserName]
+Weergavenaam: [User:DisplayName]
 
 Beoordeel deze gebruiker. Wanneer u de gebruiker goedkeurt moet u een (nieuwe) wachtwoord reset e-mail sturen.
     </value>
@@ -1311,3 +1311,4 @@ Beoordeel deze gebruiker. Wanneer u de gebruiker goedkeurt moet u een (nieuwe) w
     <value>[Portal:PortalName] Wachtwoord reset opgevraagd door deze NIET goedgekeurde gebruiker: [User:Username]</value>
   </data>
 </root>
+
