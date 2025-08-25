@@ -1300,14 +1300,14 @@ SOFTWARE.&lt;/p&gt;</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_BODY.Text">
     <value>
-The following user has requested a Password Reset Token from [Portal:PortalName], but the user account is pending approval.
+De volgende gebruiker heeft een Wachtwoord Reset Token opgevraagd van [Portal:PortalName], maar de gebruiker wacht nog op goedkeuring.
 User Name: [User:UserName]
 Display Name: [User:DisplayName]
 
-After reviewing this user, if the account is authorized, resend the user a password reset email.
+Beoordeel deze gebruiker. Wanneer u de gebruiker goedkeurt moet u een (nieuwe) wachtwoord reset e-mail sturen.
     </value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_SUBJECT.Text">
-    <value>[Portal:PortalName] Password Reminder requested for unapproved User [User:Username]</value>
+    <value>[Portal:PortalName] Wachtwoord reset opgevraagd door deze NIET goedgekeurde gebruiker: [User:Username]</value>
   </data>
 </root>
