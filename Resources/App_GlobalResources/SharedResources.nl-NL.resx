@@ -1129,7 +1129,7 @@
     <value>Fout bij laden module</value>
   </data>
   <data name="ModuleLoadWarning.Text" xml:space="preserve">
-    <value>Eén of meer van de modules op deze pagina kon niet geladen worden. Dit probleem kan van tijdelijke aard zijn. Probeer de pagina te verversen (in de meeste browsers kun je dat doen door de toets F5 kort in te drukken). Als het probleem blijft bestaan, neem dan contact op met de &lt;a href="mailto:{0}"&gt;site administrator&lt;/a&gt; know.</value>
+    <value>Eén of meer van de modules op deze pagina kon niet geladen worden. Dit probleem kan van tijdelijke aard zijn. Probeer de pagina te verversen (in de meeste browsers kun je dat doen door de toets F5 kort in te drukken). Als het probleem blijft bestaan, neem dan contact op met de &lt;a href="mailto:{0}"&gt;site administrator&lt;/a&gt;.</value>
   </data>
   <data name="ModuleNotIntended.Text" xml:space="preserve">
     <value>Deze module is alleen bedoeld voor gebruik op een pagina die is gedefinieerd als de profielpagina van de site.</value>
