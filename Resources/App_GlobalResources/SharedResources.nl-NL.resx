@@ -958,7 +958,7 @@
     <value>Aanmaken/bijwerken van de taalinstellingen</value>
   </data>
   <data name="LOG.LangPack.Job.DeserializeManifest" xml:space="preserve">
-    <value>Manifest bestand deserisaliseren.</value>
+    <value>Manifest bestand deserialiseren.</value>
   </data>
   <data name="LOG.LangPack.Job.LoadFiles" xml:space="preserve">
     <value>Taalbestanden decomprimeren</value>
