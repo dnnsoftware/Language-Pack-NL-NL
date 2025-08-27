@@ -34,7 +34,7 @@
     <value>Ten minste {0} karakters</value>
   </data>
   <data name="CriteriaAtLeastNSpecialChars.Text" xml:space="preserve">
-    <value>Ten minste {0} alphanumerieke karakters</value>
+    <value>Ten minste {0} speciale karakters</value>
   </data>
   <data name="CriteriaValidationExpression.Text" xml:space="preserve">
     <value>Validatie expressie: {0}</value>
@@ -139,7 +139,7 @@
     <value>redelijk</value>
   </data>
   <data name="PasswordStrengthMinLength.Text" xml:space="preserve">
-    <value>-minimum van karakters</value>
+    <value>-minimum aantal karakters</value>
   </data>
   <data name="PasswordStrengthStrong.Text" xml:space="preserve">
     <value>sterk</value>
@@ -160,6 +160,6 @@
     <value>Bestand uploaden</value>
   </data>
   <data name="UploadError.Text" xml:space="preserve">
-    <value>Betandstype {1} is hier niet toegestaan. Toegestane bestandstypes zijn: {0}.</value>
+    <value>Bestandstype {1} is hier niet toegestaan. Toegestane bestandstypes zijn: {0}.</value>
   </data>
 </root>
