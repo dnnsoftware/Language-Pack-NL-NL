@@ -22,7 +22,7 @@
     <value>Fout tijdens het koppelen met de identiteit van de gebruiker. Onthoud dat de gebruikersnamen en wachtwoorden hoofdlettergevoelig zijn.</value>
   </data>
   <data name="AuthenticatedHelp.Text" xml:space="preserve">
-    <value>Je bent succesvol geauthenticeerd. Je identiteit is echter geen bekende gebruiker van deze website. Je kunt óf je identiteit koppelen met een bestaand account, of registreren met een nieuw account.</value>
+    <value>Je bent succesvol geauthenticeerd. Je identiteit is echter geen bekende gebruiker van deze website. Je kunt je identiteit koppelen met een bestaand account of registreren met een nieuw account.</value>
   </data>
   <data name="AuthenticatedTitle.Text" xml:space="preserve">
     <value>Geauthenticeerd</value>
@@ -40,7 +40,7 @@
     <value>Wachtwoord opvragen</value>
   </data>
   <data name="cmdProceed.Text" xml:space="preserve">
-    <value>Ga toch door (Verander wachtwoord later)</value>
+    <value>Ga toch door (verander wachtwoord later)</value>
   </data>
   <data name="cmdRegister.Text" xml:space="preserve">
     <value>Registreren</value>
@@ -76,19 +76,19 @@
     <value>Je moet met de gebruikersovereenkomst instemmen om verder te kunnen.</value>
   </data>
   <data name="PasswordExpired.Text" xml:space="preserve">
-    <value>Je wachtwoord is verlopen op {0}. Wijzig je wachtwoord alvorens door te gaan.</value>
+    <value>Je wachtwoord is verlopen op {0}. Wijzig je wachtwoord voordat je verder gaat.</value>
   </data>
   <data name="PasswordExpiring.Text" xml:space="preserve">
-    <value>Je wachtwoord verloopt op {0}. Wijzig je wachtwoord alvorens door te gaan.</value>
+    <value>Je wachtwoord verloopt op {0}. Wijzig je wachtwoord voordat je verder gaat.</value>
   </data>
   <data name="PasswordInvalid.Text" xml:space="preserve">
-    <value>Je moet een geldig wachtwoord opgeven. Neem contact op met de beheerder van de website als je niet bekend bent met de eisen die aan wachtwoorden gesteld worden.</value>
+    <value>Je moet een geldig wachtwoord opgeven. Neem contact op met de beheerder van de website wanneer je niet bekend bent met de eisen die aan wachtwoorden gesteld worden.</value>
   </data>
   <data name="PasswordMismatch.Text" xml:space="preserve">
     <value>De ingevulde wachtwoorden komen niet met elkaar overeen.</value>
   </data>
   <data name="PasswordMissing.Text" xml:space="preserve">
-    <value>Je moet je huidige wachtwoord opgeven alvorens het te kunnen veranderen.</value>
+    <value>Je moet je huidige wachtwoord opgeven voordat je het kunt veranderen.</value>
   </data>
   <data name="PasswordNotDifferent.Text" xml:space="preserve">
     <value>Het nieuwe wachtwoord is hetzelfde als het oude wachtwoord. Kies een ander wachtwoord.</value>
@@ -97,7 +97,7 @@
     <value>Het wachtwoord is verzonden naar je e-mailadres.</value>
   </data>
   <data name="PasswordUpdate.Text" xml:space="preserve">
-    <value>Pas je wachtwoord aan alvorens door te gaan.</value>
+    <value>Wijzig je wachtwoord voordat je verder gaat.</value>
   </data>
   <data name="plToken.Help" xml:space="preserve">
     <value>Een unieke code die gebruikt wordt om een gebruiker te identificeren.</value>
@@ -112,7 +112,7 @@
     <value>Type:</value>
   </data>
   <data name="ProfileUpdate.Text" xml:space="preserve">
-    <value>Werk je profiel bij alvorens door te gaan.</value>
+    <value>Werk je profiel bij voordat je verder gaat.</value>
   </data>
   <data name="RegisterTitle.Text" xml:space="preserve">
     <value>Registreer een nieuw account</value>
@@ -121,7 +121,7 @@
     <value>Blijf ingelogd</value>
   </data>
   <data name="UserLockedOut.Text" xml:space="preserve">
-    <value>Dit account is gedeactiveerd vanwege te veel inlogpogingen. Wacht {0} minuten voordat je het nogmaals probeert. Als je je wachtwoord bent vergeten, gebruik dan de "wachtwoord vergeten" optie voordat je contact op neemt met de beheerder van deze website.</value>
+    <value>Dit account is tijdelijk geblokkeerd vanwege te veel inlogpogingen. Wacht {0} minuten voordat je het nog een keer probeert. Als je je wachtwoord bent vergeten, gebruik dan de "wachtwoord vergeten" optie voordat je contact op neemt met de beheerder van deze website.</value>
   </data>
   <data name="UserLockedOut_ContactAdmin.Text" xml:space="preserve">
     <value>Dit account is vergrendeld na teveel mislukte login pogingen. Neem contact op met de sitebeheerder.</value>
