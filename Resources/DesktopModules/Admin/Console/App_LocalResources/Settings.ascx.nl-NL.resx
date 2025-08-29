@@ -13,34 +13,34 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AllowResize.Help" xml:space="preserve">
-    <value>Selecteer deze optie toe te staan dat gebruikers de grootte van de iconen kunnen aanpassen.</value>
+    <value>Selecteer deze optie om toe te staan dat gebruikers de grootte van de iconen kunnen aanpassen.</value>
   </data>
   <data name="AllowResize.Text" xml:space="preserve">
     <value>Icoongrootte aanpassen toestaan</value>
   </data>
   <data name="AllowViewChange.Help" xml:space="preserve">
-    <value>Het switchen tussen de gedetailleerde en simpele weergave toestaan.</value>
+    <value>Het schakelen tussen de gedetailleerde en simpele weergave toestaan.</value>
   </data>
   <data name="AllowViewChange.Text" xml:space="preserve">
-    <value>Wijzigen weergave toestaan</value>
+    <value>Weergave wijzigen toestaan</value>
   </data>
   <data name="ConsoleWidth.Help" xml:space="preserve">
-    <value>Deze waarde leeg laten om de iconen horizontaal te laten uitbreiden. Stel deze waarde in om de breedte van het console te minimaliseren. Voorbeeld: stel deze waarde in op 400 voor 2 kolommen met iconen.</value>
+    <value>Deze waarde leeg laten om de iconen horizontaal te laten uitlijnen. Stel deze waarde in om de breedte van het console te minimaliseren. Voorbeeld: stel deze waarde in op 400 voor 2 kolommen met iconen.</value>
   </data>
   <data name="ConsoleWidth.Text" xml:space="preserve">
     <value>Breedte</value>
   </data>
   <data name="ControlTitle_settings.Text" xml:space="preserve">
-    <value>Console Instellingen</value>
+    <value>Console instellingen</value>
   </data>
   <data name="DefaultSize.Help" xml:space="preserve">
     <value>Stel de grootte van het icoon vast.</value>
   </data>
   <data name="DefaultSize.Text" xml:space="preserve">
-    <value>Standaard Icoon Grootte</value>
+    <value>Standaard icoon grootte</value>
   </data>
   <data name="DefaultView.Help" xml:space="preserve">
-    <value>Bepaal de standaard weergave. Simpele weergave zal iconen tonen met een de pagina beschrijving als tooltip. Gedetailleerde weergave zal een lijst met beschrijvingen voor elk item tonen.</value>
+    <value>Bepaal de standaardweergave. Simpele weergave zal iconen tonen met een de pagina beschrijving als tooltip. Gedetailleerde weergave zal een lijst met beschrijvingen voor elk item tonen.</value>
   </data>
   <data name="DefaultView.Text" xml:space="preserve">
     <value>Standaardweergave</value>
@@ -67,7 +67,7 @@
     <value>Selecteer deze optie om niet zichtbare pagina's op te nemen in de weergave.</value>
   </data>
   <data name="IncludeHiddenPages.Text" xml:space="preserve">
-    <value>Verborgen pagina's meenemen</value>
+    <value>Verborgen pagina's opnemen</value>
   </data>
   <data name="IncludeParent.Help" xml:space="preserve">
     <value>Schakel dit selectievakje in om ook de bovenliggende pagina mee te nemen in de weergave.</value>
@@ -86,10 +86,10 @@
   </data>
   <data name="ModuleHelp.Text" xml:space="preserve">
     <value>&lt;p&gt;The console module toont dochterpagina's als iconen en links, of als categorieën om te ondersteunen bij het navigeren. Deze module heeft vier verschillende weergavemodi:
-&lt;ul&gt;&lt;li&gt;kleine iconen met details als tooltip (Kleine iconen, Eenvouidige weergave)&lt;/li&gt;
-&lt;li&gt;grote iconen met details als tooltips (Grote Iconen, Eenvouidige weergave)&lt;/li&gt;
-&lt;li&gt;kleine iconen met details (Kleine iconen, Gedetailleeerde weergave)&lt;/li&gt;
-&lt;li&gt;grote iconen met details (Grote iconen, Gedetailleeerde weergave)&lt;/li&gt;
+&lt;ul&gt;&lt;li&gt;kleine iconen met details als tooltip (Kleine iconen, eenvoudige weergave)&lt;/li&gt;
+&lt;li&gt;grote iconen met details als tooltips (Grote iconen, eenvoudige weergave)&lt;/li&gt;
+&lt;li&gt;kleine iconen met details (Kleine iconen, gedetailleerde weergave)&lt;/li&gt;
+&lt;li&gt;grote iconen met details (Grote iconen, gedetailleerde weergave)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
 &lt;h3&gt;Pagina instellingen voor de module:&lt;/h3&gt;
@@ -127,7 +127,7 @@
     <value>Eigenaar</value>
   </data>
   <data name="ParentTab.Help" xml:space="preserve">
-    <value>Een pagina selecteren betekent dat alle sub-pagina's voor de pagina zullen worden getoond. Laat dit veld leeg om alle sub-pagina's voor de huidige pagina te tonen. </value>
+    <value>Een pagina selecteren betekent dat alle subpagina's voor de pagina zullen worden getoond. Laat dit veld leeg om alle subpagina's voor de huidige pagina te tonen. </value>
   </data>
   <data name="ParentTab.Text" xml:space="preserve">
     <value>Toon subpagina's van</value>
