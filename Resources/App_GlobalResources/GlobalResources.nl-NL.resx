@@ -180,7 +180,7 @@
     <value>{0} wil vrienden worden</value>
   </data>
   <data name="ApplicationUpgrades.Text" xml:space="preserve">
-    <value>Applicatie Upgrades</value>
+    <value>Applicatie upgrades</value>
   </data>
   <data name="AspNetHostingPermission.Text" xml:space="preserve">
     <value>Deze bestandsextensie vereist Full Trust.</value>
@@ -198,7 +198,7 @@
     <value>Knop</value>
   </data>
   <data name="BannerType.MicroButton.String" xml:space="preserve">
-    <value>MicroKnop</value>
+    <value>Microknop</value>
   </data>
   <data name="BannerType.Script.String" xml:space="preserve">
     <value>Script</value>
@@ -243,7 +243,7 @@
     <value>Vertaling ongedaan maken</value>
   </data>
   <data name="DraggingHintText.Text" xml:space="preserve">
-    <value>Beweeg de muis over de drop zone.</value>
+    <value>Beweeg de muis over de dropzone.</value>
   </data>
   <data name="DragModuleHint.Text" xml:space="preserve">
     <value>Versleep deze module naar een nieuwe locatie</value>
@@ -263,7 +263,7 @@
   <data name="EMAIL_AFFILIATE_NOTIFICATION_BODY.Text" xml:space="preserve">
     <value>Beste [Custom:0],
 
-Je  account voor het {Portal:PortalName] affiliatie programma is aangemaakt.
+Je account voor het [Portal:PortalName] partnerprogramma is aangemaakt.
 Gebruik de volgende URL om te linken naar onze site:
 
 [Custom:1]
@@ -325,7 +325,7 @@ Verzenden compleet op:      [Custom:3]
 {0}]</value>
   </data>
   <data name="EMAIL_BulkMailStart_Body.Text" xml:space="preserve">
-    <value>Gebruiker {1} heeft bulkmail '{0}' ingediend gericht aan {2} ontvangers. Lees het verzendcapaciteit rapport voor mislukte berichten en de afzenders inbak voor teruggekomen berichten.</value>
+    <value>Gebruiker {1} heeft bulkmail '{0}' ingediend gericht aan {2} ontvangers. Lees het verzendrapport voor mislukte berichten en de afzenders in de inbox voor teruggekomen berichten.</value>
   </data>
   <data name="EMAIL_BulkMailStart_Subject.Text" xml:space="preserve">
     <value>Bulkmail '{0}' ingediend</value>
@@ -509,32 +509,32 @@ Verzenden compleet op:      [Custom:3]
 &lt;/html&gt;</value>
   </data>
   <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" xml:space="preserve">
-    <value>&amp;lt;div style="width:100%;"&amp;gt;&amp;lt;h5&amp;gt;[TITLE]&amp;lt;/h5&amp;gt;&amp;lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&amp;gt;
-    &amp;lt;tr&amp;gt;
-        &amp;lt;td&amp;gt;
-            &amp;lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&amp;gt;
-                &amp;lt;tr&amp;gt;
-                    &amp;lt;td&amp;gt;&amp;lt;a href="PROFILEURL"&amp;gt;&amp;lt;img src="[PROFILEPICURL]" /&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;br/&amp;gt;[DISPLAYNAME]&amp;lt;/td&amp;gt;
-                &amp;lt;/tr&amp;gt;
-            &amp;lt;/table&amp;gt;
-            &amp;lt;table width="350" border="0" cellspacing="0" cellpadding="8" align="left"&amp;gt;
-                &amp;lt;tr&amp;gt;
-                    &amp;lt;td&amp;gt;[CONTENT][FRIENDREQUESTACTIONS][FOLLOWREQUESTACTIONS]&amp;lt;/td&amp;gt;
-                &amp;lt;/tr&amp;gt;
-            &amp;lt;/table&amp;gt;
-        &amp;lt;/td&amp;gt;
-    &amp;lt;/tr&amp;gt;
-&amp;lt;/table&amp;gt;&amp;lt;/div&amp;gt;</value>
+    <value>&lt;div style="width:100%;"&gt;&lt;h5&gt;[TITLE]&lt;/h5&gt;&lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;a href="[PROFILEURL]"&gt;&lt;img src="[PROFILEPICURL]" /&gt;&lt;/a&gt;&lt;br/&gt;[DISPLAYNAME]&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;table width="350" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;[CONTENT][FRIENDREQUESTACTIONS][FOLLOWREQUESTACTIONS]&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;</value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" xml:space="preserve">
-    <value>Beste [Profile:FullName],
+    <value>Beste [Profile:DisplayName],
 
-Je hebt je wachtwoordherstel aangevraagd van de [Portal:PortalName] website.
+Je hebt een wachtwoordherstel aangevraagd van de [Portal:PortalName] website.
 
 Website Addres: [Portal:URL]
 Gebruikersnaam: [User:Username]
 
-Link naar wachtwoord reset pagina:  [Portal:PASSWORDREMINDERURL]?ctl=PasswordReset&amp;amp;resetToken=[Membership:PasswordResetToken]
+Link naar de wachtwoord reset pagina:  [Portal:PASSWORDREMINDERURL]?ctl=PasswordReset&amp;amp;resetToken=[Membership:PasswordResetToken]
 
 Met vriendelijke groet,
 [Portal:PortalName]
@@ -547,7 +547,7 @@ Met vriendelijke groet,
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" xml:space="preserve">
     <value>Beste [User:DisplayName],
 
-Je hebt een wachtwoord reset link aangevraad van [Portal:PortalName], Je account staat klaar voor goedkeuring.
+Je hebt een wachtwoord-resetlink aangevraagd van [Portal:PortalName]. Je account staat klaar voor goedkeuring.
 
 Het wachtwoord kan worden gereset nadat het account is goedgekeurd.
 
@@ -562,7 +562,7 @@ Met vriendelijk groet,
   <data name="EMAIL_PASSWORD_UPDATED_BODY.Text" xml:space="preserve">
     <value>Geachte [User:DisplayName], 
 	
-	Je wachtwoord voor [Portal:PortalName] is veranderd. 
+	Je wachtwoord voor [Portal:PortalName] is gewijzigd. 
 	
 	Neem contact op met de sitebeheerder op het volgende e-mailadres - [Portal:Email]
 	
@@ -573,7 +573,7 @@ Met vriendelijk groet,
     <value>[Portal:PortalName] Wachtwoord bijgewerkt</value>
   </data>
   <data name="EMAIL_PORTAL_SIGNUP_BODY.Text" xml:space="preserve">
-    <value>Beste [User:FullName],
+    <value>Beste [User:DisplayName],
 
 Je site is aangemaakt. Lees alstublieft de volgend informatie zorgvuldig door, en archiveer dit bericht voor eventueel toekomstig gebruik.
 
@@ -593,7 +593,7 @@ Dank voor het gebruik van onze diensten
     <value>[Host:HostTitle] Aanmelding Demo Website</value>
   </data>
   <data name="EMAIL_PROFILE_UPDATED_BODY.Text" xml:space="preserve">
-    <value>Beste [Profile:FullName],
+    <value>Beste [Profile:DisplayName],
 
 Je profiel voor  de [Portal:PortalName] site is succesvol bijgewerkt.
 
@@ -605,7 +605,7 @@ Met vriendelijke groet,
     <value>[Portal:PortalName] Profiel bijgewerkt</value>
   </data>
   <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text" xml:space="preserve">
-    <value>Beste [User:FullName],
+    <value>Beste [User:DisplayName],
 
 De toegangsrollen van je gebruikersaccount voor de [Portal:PortalName] website zijn recentelijk aangepast, en bevat nu ook deze rol:
 
@@ -622,7 +622,7 @@ Dank voor het in ons gestelde vertrouwen,
     <value>[Portal:PortalName] Gebruikersaccount aangepast</value>
   </data>
   <data name="EMAIL_ROLE_UNASSIGNMENT_BODY.Text" xml:space="preserve">
-    <value>Beste [User:FullName],
+    <value>Beste [User:DisplayName],
 
 De toegang van je gebruikersaccount voor de [Portal:PortalName] site is recentelijk aangepast, en bevat nu NIET meer deze rol:
 
@@ -640,7 +640,7 @@ Dank voor het in ons gestelde vertrouwen,
   <data name="EMAIL_ROLE_UPDATE_BODY.Text" xml:space="preserve">
     <value>Geachte [User:DisplayName],
 
-Je account bij [Portal:PortalName] is recentelijk bijgewerkt om toegang tot de volgende rol aan te passen:
+Je account bij [Portal:PortalName] is recent bijgewerkt. De toegang tot de volgende rol is aangepast:
 
 Rol: [Custom:0]
 Beschrijving: [Custom:1]
@@ -658,16 +658,16 @@ Dank voor het in ons gestelde vertrouwen,
     <value>[Host:HostTitle] SMTP Configuratie Test</value>
   </data>
   <data name="EMAIL_SOCIAL_FOLLOWREQUESTACTIONS.Text" xml:space="preserve">
-    <value>&amp;lt;p&amp;gt;&amp;lt;a href="{0}"&amp;gt;Ga terug&amp;lt;/a&amp;gt; | &amp;lt;a href="{1}"&amp;gt;Profiel weergeven&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</value>
+    <value>&lt;p&gt;&lt;a href="{0}"&gt;Terug volgen&lt;/a&gt; | &lt;a href="{1}"&gt;Profiel bekijken&lt;/a&gt;&lt;/p&gt;</value>
   </data>
   <data name="EMAIL_SOCIAL_FRIENDREQUESTACTIONS.Text" xml:space="preserve">
-    <value>&amp;lt;p&amp;gt;&amp;lt;a href="{0}"&amp;gt;Accepteren&amp;lt;/a&amp;gt; | &amp;lt;a href="{1}"&amp;gt;Profiel weergeven&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</value>
+    <value>&lt;p&gt;&lt;a href="{0}"&gt;Accepteren&lt;/a&gt; | &lt;a href="{1}"&gt;Profiel bekijken&lt;/a&gt;&lt;/p&gt;</value>
   </data>
   <data name="EMAIL_SUBJECT_FORMAT.Text" xml:space="preserve">
     <value>Nieuw bericht van {0}</value>
   </data>
   <data name="EMAIL_USER_AUTHORIZED_BODY.Text" xml:space="preserve">
-    <value>Beste  [User:DisplayName], 
+    <value>Beste [User:DisplayName], 
 
 Bedankt voor je registratie op [Portal:PortalName]. Je registratie is goedgekeurd en je account is nu actief. 
 
@@ -679,20 +679,19 @@ Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" xml:space="preserve">
-    <value>Registratie is goedgekeurd voor  [Portal:URL]</value>
+    <value>Registratie is goedgekeurd voor [Portal:URL]</value>
   </data>
   <data name="EMAIL_USER_LOCKOUT_BODY.Text" xml:space="preserve">
-    <value>Er is een poging gedaan om met een afgesloten gebruikersaccount in te loggen ( gebruikersnaam: [Custom:0] ) op [Date:Current]. 
+    <value>Er is een poging gedaan om met een afgesloten gebruikersaccount in te loggen (gebruikersnaam: [Custom:0]) op [Date:Current]. 
 
 Wellicht wil je dit verder onderzoeken...
 
-Met vriendelijke groet,,
+Met vriendelijke groet,
 
-[Portal:PortalName]
-</value>
+[Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_LOCKOUT_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Gebruikersaccount afgesloten</value>
+    <value>[Portal:PortalName] - Gebruikersaccount afgesloten</value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_BODY.Text" xml:space="preserve">
     <value>Datum: [Date:Current]
@@ -700,10 +699,10 @@ Weergave naam: [User:DisplayName]
 Email: [User:Email]</value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+    <value>[Portal:PortalName] - Nieuwe gebruikersregistratie</value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text" xml:space="preserve">
-    <value>Beste  [User:DisplayName],
+    <value>Beste [User:DisplayName],
 
 Dank voor je registratie voor de [Portal:PortalName] website. Lees de volgende informatie aandachtig en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
 
@@ -717,7 +716,7 @@ Dank voor het in ons gestelde vertrouwen,
 </value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_PRIVATE_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+    <value>[Portal:PortalName] - Nieuwe gebruikersregistratie</value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_PUBLIC_BODY.Text" xml:space="preserve">
     <value>Beste [User:DisplayName],
@@ -733,10 +732,10 @@ Dank voor het in ons gestelde vertrouwen,
 [Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_PUBLIC_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+    <value>[Portal:PortalName] - Nieuwe gebruikersregistratie</value>
   </data>
   <data name="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text" xml:space="preserve">
-    <value>Beste [User:FullName],
+    <value>Beste [User:DisplayName],
 
 Je bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
 
@@ -760,24 +759,24 @@ Dank voor het in ons gestelde vertrouwen,
   <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" xml:space="preserve">
     <value>Beste [User:DisplayName],
 
-Je account voor [Portal:PortalName] Is niet meer geauthoriseerd. 
+Je account voor [Portal:PortalName] is niet meer geautoriseerd.
 
 Website Adres: [Portal:URL]
 Gebruikersnaam: [User:UserName]
 
-Mocht je vragen hebben, neem contact op met de websitebeheerder bia  [Portal:Email]
+Mocht je vragen hebben, neem contact op met de websitebeheerder via [Portal:Email]
 
-Met vriendelijke groet,[
-Portal:PortalName]</value>
+Met vriendelijke groet,
+[Portal:PortalName]</value>
   </data>
   <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" xml:space="preserve">
-    <value>Je account is niet langer geauthoriseerd voor [Portal:URL]</value>
+    <value>Je account is niet langer geautoriseerd voor [Portal:URL]</value>
   </data>
   <data name="EMAIL_USER_UNREGISTER_BODY.Text" xml:space="preserve">
     <value>Datum: [Date:Current]
 Voornaam: [Profile:FirstName]
 Achternaam: [Profile:LastName]
-Street: [Profile:Street]
+Straat: [Profile:Street]
 Huisnummer: [Profile:Unit]
 Postcode: [Profile:PostalCode]
 Plaats: [Profile:City]
@@ -859,25 +858,26 @@ Met vriendelijke groet,
   <data name="License.Text" xml:space="preserve">
     <value>&lt;h2&gt;The MIT License (MIT)&lt;/h2&gt;
 
-&lt;h3&gt;Copyright (c) .NET Foundation and Contributors&lt;/h3&gt;
-&lt;p&gt;All Rights Reserved&lt;/p&gt;
+&lt;h3&gt;Copyright (c) .NET Foundation en bijdragers&lt;/h3&gt;
+&lt;p&gt;Alle rechten voorbehouden&lt;/p&gt;
 
-&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:&lt;/p&gt;
+&lt;p&gt;Hierbij wordt gratis toestemming verleend aan iedereen die een kopie 
+van deze software en bijbehorende documentatiebestanden (de "Software") verkrijgt, 
+om zonder beperking met de Software om te gaan, 
+inclusief maar niet beperkt tot de rechten om de Software te gebruiken, 
+kopiëren, wijzigen, samenvoegen, publiceren, distribueren, sublicentiëren en/of verkopen, 
+en om personen aan wie de Software wordt geleverd toe te staan dit te doen, 
+onder de volgende voorwaarden:&lt;/p&gt;
 
-&lt;p&gt;The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.&lt;/p&gt;
+&lt;p&gt;De bovenstaande copyrightvermelding en deze toestemmingsverklaring moeten in alle
+kopieën of substantiële delen van de Software worden opgenomen.&lt;/p&gt;
 
-&lt;p&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+&lt;p&gt;DE SOFTWARE WORDT GELEVERD "AS IS", ZONDER ENIGE GARANTIE VAN ENIGE SOORT, EXPRES OF
+IMPLIED, INCLUSIEF MAAR NIET BEPERKT TOT DE GARANTIES VAN VERKOOPBAARHEID,
+GESCHIKTHEID VOOR EEN BEPAALD DOEL EN INBREUK. IN GEEN GEVAL ZULLEN DE
+AUTEURS OF AUTEURSRECHTHOUDERS AANSPRAKELIJK ZIJN VOOR ENIGE CLAIM, SCHADE OF ANDERE
+AANSPRAKELIJKHEID, HETZIJ IN EEN ACTIE VAN CONTRACT, ONRECHTMATIGE DAAD OF ANDERSZINS, DIE VOORTVLOEIT UIT,
+UIT OF IN VERBAND MET DE SOFTWARE OF HET GEBRUIK OF ANDERE HANDELINGEN IN DE
 SOFTWARE.&lt;/p&gt;</value>
   </data>
   <data name="Localize.Action" xml:space="preserve">
@@ -897,286 +897,233 @@ SOFTWARE.&lt;/p&gt;</value>
   </data>
   <data name="MESSAGE_PORTAL_PRIVACY.Text" xml:space="preserve">
     <value>&lt;div align="left"&gt;
-        &lt;p&gt;[Portal:PortalName] is committed to protecting your privacy and developing technology
-        that gives you the most powerful and safe online experience. This Statement of Privacy
-        applies to the [Portal:PortalName] site and governs data collection and usage.
-        By using the [Portal:PortalName] site, you consent to the data practices described
-        in this statement.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;Collection of your Personal Information&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] collects personally identifiable information, such as your email
-        address, name, home or work address or telephone number. [Portal:PortalName] also
-        collects anonymous demographic information, which is not unique to you, such as
-        your ZIP code, age, gender, preferences, interests and favorites.&lt;/p&gt;
-        &lt;p&gt;There is also information about your computer hardware and software that is automatically
-        collected by [Portal:PortalName]. This information can include: your IP address,
-        browser type, domain names, access times and referring website addresses. This
-        information is used by [Portal:PortalName] for the operation of the service, to
-        maintain quality of the service, and to provide general statistics regarding use
-        of the [Portal:PortalName] site.&lt;/p&gt;
-        &lt;p&gt;Please keep in mind that if you directly disclose personally identifiable information
-        or personally sensitive data through [Portal:PortalName] public message boards,
-        this information may be collected and used by others. Note: [Portal:PortalName]
-        does not read any of your private online communications.&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] encourages you to review the privacy statements of Web sites
-        you choose to link to from [Portal:PortalName] so that you can understand how those
-        Web sites collect, use and share your information. [Portal:PortalName] is not responsible
-        for the privacy statements or other content on Web sites outside of the [Portal:PortalName]
-        and [Portal:PortalName] family of Web sites.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;Use of your Personal Information&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] collects and uses your personal information to operate the [Portal:PortalName]
-        Web site and deliver the services you have requested. [Portal:PortalName] also uses
-        your personally identifiable information to inform you of other products or services
-        available from [Portal:PortalName] and its affiliates. [Portal:PortalName] may also
-        contact you via surveys to conduct research about your opinion of current services
-        or of potential new services that may be offered.&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] does not sell, rent or lease its customer lists to third parties.
-        [Portal:PortalName] may, from time to time, contact you on behalf of external business
-        partners about a particular offering that may be of interest to you. In those cases,
-        your unique personally identifiable information (e-mail, name, address, telephone
-        number) is not transferred to the third party. In addition, [Portal:PortalName]
-        may share data with trusted partners to help us perform statistical analysis, send
-        you email or postal mail, provide customer support, or arrange for deliveries. All
-        such third parties are prohibited from using your personal information except to
-        provide these services to [Portal:PortalName], and they are required to maintain
-        the confidentiality of your information.&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] does not use or disclose sensitive personal information, such
-        as race, religion, or political affiliations, without your explicit consent.&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] keeps track of the Web sites and pages our customers visit within
-        [Portal:PortalName], in order to determine what [Portal:PortalName] services are
-        the most popular. This data is used to deliver customized content and advertising
-        within [Portal:PortalName] to customers whose behavior indicates that they are interested
-        in a particular subject area.&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] Web sites will disclose your personal information, without notice,
-        only if required to do so by law or in the good faith belief that such action is
-        necessary to: (a) conform to the edicts of the law or comply with legal process
-        served on [Portal:PortalName] or the site; (b) protect and defend the rights or
-        property of [Portal:PortalName]; and, (c) act under exigent circumstances to protect
-        the personal safety of users of [Portal:PortalName], or the public.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;Use of Cookies&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;The [Portal:PortalName] Web site use "cookies" to help you personalize your online
-        experience. A cookie is a text file that is placed on your hard disk by a Web page
-        server. Cookies cannot be used to run programs or deliver viruses to your computer.
-        Cookies are uniquely assigned to you, and can only be read by a web server in the
-        domain that issued the cookie to you.&lt;/p&gt;
-        &lt;p&gt;One of the primary purposes of cookies is to provide a convenience feature to save
-        you time. The purpose of a cookie is to tell the Web server that you have returned
-        to a specific page. For example, if you personalize [Portal:PortalName] pages, or
-        register with [Portal:PortalName] site or services, a cookie helps [Portal:PortalName]
-        to recall your specific information on subsequent visits. This simplifies the process
-        of recording your personal information, such as billing addresses, shipping addresses,
-        and so on. When you return to the same [Portal:PortalName] Web site, the information
-        you previously provided can be retrieved, so you can easily use the [Portal:PortalName]
-        features that you customized.&lt;/p&gt;
-        &lt;p&gt;You have the ability to accept or decline cookies. Most Web browsers automatically
-        accept cookies, but you can usually modify your browser setting to decline cookies
-        if you prefer. If you choose to decline cookies, you may not be able to fully experience
-        the interactive features of the [Portal:PortalName] services or Web sites you visit.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;Security of your Personal Information&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] secures your personal information from unauthorized access,
-        use or disclosure. [Portal:PortalName] secures the personally identifiable information
-        you provide on computer servers in a controlled, secure environment, protected from
-        unauthorized access, use or disclosure. When personal information (such as a credit
-        card number) is transmitted to other Web sites, it is protected through the use
-        of encryption, such as the Secure Socket Layer (SSL) protocol.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;Changes to this Statement&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] will occasionally update this Statement of Privacy to reflect
-company and customer feedback. [Portal:PortalName] encourages you to periodically
-        review this Statement to be informed of how [Portal:PortalName] is protecting your
-        information.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;Contact Information&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] welcomes your comments regarding this Statement of Privacy.
-        If you believe that [Portal:PortalName] has not adhered to this Statement, please
-        contact [Portal:PortalName] at &lt;a href="mailto:[Portal:Email]"&gt;[Portal:Email]&lt;/a&gt;.
-        We will use commercially reasonable efforts to promptly determine and remedy the
-        problem.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] zet zich in voor het beschermen van je privacy en het ontwikkelen van technologie
+        die je de meest krachtige en veilige online ervaring biedt. Deze privacyverklaring
+        is van toepassing op de [Portal:PortalName] site en regelt het verzamelen en gebruik van gegevens.
+        Door gebruik te maken van de [Portal:PortalName] site, ga je akkoord met de gegevensverwerking zoals
+        beschreven in deze verklaring.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Verzameling van je persoonlijke informatie&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] verzamelt persoonlijk identificeerbare informatie, 
+        zoals je e-mailadres, naam, huis- of werkadres of telefoonnummer. 
+        [Portal:PortalName] verzamelt ook anonieme demografische informatie, die niet uniek is voor jou, 
+        zoals je postcode, leeftijd, geslacht, voorkeuren, interesses en favorieten.&lt;/p&gt;
+        &lt;p&gt;Er is ook informatie over je computerhardware en -software die automatisch
+        wordt verzameld door [Portal:PortalName]. Deze informatie kan omvatten: je IP-adres,
+        browsertype, domeinnamen, toegangstijden en verwijzende website-adressen. Deze
+        informatie wordt door [Portal:PortalName] gebruikt voor de werking van de service, om
+        de kwaliteit van de service te waarborgen en om algemene statistieken over het gebruik
+        van de [Portal:PortalName] site.&lt;/p&gt;
+        &lt;p&gt;Houd er rekening mee dat als je persoonlijk identificeerbare informatie
+        of persoonlijk gevoelige gegevens openbaar maakt via [Portal:PortalName] openbare
+        message boards, deze informatie door anderen kan worden verzameld en gebruikt. Opmerking: [Portal:PortalName]
+        leest geen van je privé online communicatie.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] moedigt je aan om de privacyverklaringen van websites
+        die je kiest om naar te linken vanuit [Portal:PortalName] te bekijken, zodat je kunt begrijpen hoe die
+        websites je informatie verzamelen, gebruiken en delen. [Portal:PortalName] is niet verantwoordelijk
+        voor de privacyverklaringen of andere inhoud op websites buiten de [Portal:PortalName]
+        en [Portal:PortalName] familie van websites.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Gebruik van je Persoonlijke Informatie&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] verzamelt en gebruikt je persoonlijke informatie om de [Portal:PortalName]
+        website te beheren en de diensten te leveren die je hebt aangevraagd. [Portal:PortalName] gebruikt ook
+        je persoonlijk identificeerbare informatie om je te informeren over andere producten of diensten
+        die beschikbaar zijn van [Portal:PortalName] en zijn gelieerde ondernemingen. [Portal:PortalName] kan ook
+        contact met je opnemen via enquêtes om onderzoek te doen naar je mening over huidige diensten
+        of over potentiële nieuwe diensten die mogelijk worden aangeboden.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] verkoopt, verhuurt of leaset zijn klantenlijsten niet aan derden.
+        [Portal:PortalName] kan je af en toe contacteren namens externe zakelijke
+        partners over een bepaalde aanbieding die mogelijk interessant voor je is. In die gevallen
+        wordt je unieke persoonlijk identificeerbare informatie (e-mail, naam, adres, telefoonnummer)
+        niet overgedragen aan de derde partij. Bovendien kan [Portal:PortalName]
+        gegevens delen met vertrouwde partners om ons te helpen bij het uitvoeren van statistische analyses, je
+        e-mail of post te sturen, klantenondersteuning te bieden of leveringen te regelen. Al deze
+        derden zijn verboden om je persoonlijke informatie te gebruiken, behalve om
+        deze diensten aan [Portal:PortalName] te verlenen, en zij zijn verplicht om de
+        vertrouwelijkheid van je informatie te waarborgen.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] gebruikt of onthult geen gevoelige persoonlijke informatie, zoals
+        ras, religie of politieke overtuigingen, zonder jouw expliciete toestemming.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] houdt bij welke websites en pagina's onze klanten bezoeken binnen
+        [Portal:PortalName], om te bepalen welke [Portal:PortalName] diensten het populairst zijn.
+        Deze gegevens worden gebruikt om gepersonaliseerde inhoud en advertenties te leveren
+        binnen [Portal:PortalName] aan klanten wiens gedrag aangeeft dat ze geïnteresseerd zijn
+        in een bepaald onderwerp.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] Web sites zullen je persoonlijke informatie, zonder kennisgeving,
+        alleen vrijgeven indien dit wettelijk vereist is of te goeder trouw wordt geloofd dat een dergelijke actie
+        noodzakelijk is om: (a) te voldoen aan de bepalingen van de wet of te voldoen aan juridische procedures
+        die zijn ingediend tegen [Portal:PortalName] of de site; (b) de rechten of
+        eigendommen van [Portal:PortalName] te beschermen en te verdedigen; en, (c) te handelen onder dringende omstandigheden om
+        de persoonlijke veiligheid van gebruikers van [Portal:PortalName], of het publiek, te beschermen.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Gebruik van Cookies&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;De [Portal:PortalName] website maakt gebruik van "cookies" om je online
+        ervaring te personaliseren. Een cookie is een tekstbestand dat op je harde schijf wordt geplaatst door een webpagina
+        server. Cookies kunnen niet worden gebruikt om programma's uit te voeren of virussen naar je computer te verzenden.
+        Cookies zijn uniek aan jou toegewezen en kunnen alleen worden gelezen door een webserver in het domein dat de cookie aan jou heeft uitgegeven.&lt;/p&gt;
+        &lt;p&gt;Een van de belangrijkste doeleinden van cookies is om een gebruiksgemak functie te bieden om
+        je tijd te besparen. Het doel van een cookie is om de webserver te vertellen dat je bent teruggekeerd
+        naar een specifieke pagina. Bijvoorbeeld, als je [Portal:PortalName] pagina's personaliseert, of
+        je registreert bij [Portal:PortalName] site of diensten, helpt een cookie [Portal:PortalName]
+        om je specifieke informatie bij volgende bezoeken te onthouden. Dit vereenvoudigt het proces
+        van het vastleggen van je persoonlijke informatie, zoals factuuradressen, verzendadressen,
+        enzovoort. Wanneer je terugkeert naar dezelfde [Portal:PortalName] website, kan de informatie
+        die je eerder hebt opgegeven, worden opgehaald, zodat je eenvoudig de [Portal:PortalName]
+        functies kunt gebruiken die je hebt aangepast.&lt;/p&gt;
+        &lt;p&gt;Je hebt de mogelijkheid om cookies te accepteren of te weigeren. De meeste webbrowsers
+        accepteren automatisch cookies, maar je kunt meestal je browserinstellingen wijzigen om cookies
+        te weigeren als je dat wilt. Als je ervoor kiest om cookies te weigeren, kun je mogelijk niet
+        volledig profiteren van de interactieve functies van de [Portal:PortalName] services of
+        websites die je bezoekt.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Beveiliging van je Persoonlijke Informatie&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] beveiligt je persoonlijke informatie tegen ongeautoriseerde toegang,
+        gebruik of openbaarmaking. [Portal:PortalName] beveiligt de persoonlijk identificeerbare informatie
+        die je op computerservers verstrekt in een gecontroleerde, veilige omgeving, beschermd tegen
+        ongeautoriseerde toegang, gebruik of openbaarmaking. Wanneer persoonlijke informatie (zoals een credit
+        cardnummer) naar andere websites wordt verzonden, wordt deze beschermd door middel van
+        encryptie, zoals het Secure Socket Layer (SSL) protocol.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Wijzigingen in deze Verklaring&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] zal af en toe deze Privacyverklaring bijwerken om
+        feedback van klanten en bedrijven weer te geven. [Portal:PortalName] moedigt je aan om
+        deze Verklaring periodiek te bekijken om op de hoogte te blijven van hoe [Portal:PortalName] je
+        informatie beschermt.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Contactinformatie&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] verwelkomt je opmerkingen over deze Privacyverklaring.
+        Als je gelooft dat [Portal:PortalName] zich niet aan deze Verklaring heeft gehouden, neem dan
+        contact op met [Portal:PortalName] via &lt;a href="mailto:[Portal:Email]"&gt;[Portal:Email]&lt;/a&gt;.
+        We zullen commercieel redelijke inspanningen leveren om het probleem snel te identificeren en op te lossen.&lt;/p&gt;
     &lt;/div&gt;</value>
   </data>
   <data name="MESSAGE_PORTAL_TERMS.Text" xml:space="preserve">
     <value>&lt;div align="left"&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;AGREEMENT BETWEEN USER AND [Portal:PortalName]&lt;/span&gt;&lt;p&gt;
-        &lt;p&gt;The [Portal:PortalName] Web Site is comprised of various Web pages operated by [Portal:PortalName].&lt;/p&gt;
-        &lt;p&gt;The [Portal:PortalName] Web Site is offered to you conditioned on your acceptance
-        without modification of the terms, conditions, and notices contained herein. Your
-        use of the [Portal:PortalName] Web Site constitutes your agreement to all such terms,
-        conditions, and notices.&lt;p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;MODIFICATION OF THESE TERMS OF USE&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] reserves the right to change the terms, conditions, and notices
-        under which the [Portal:PortalName] Web Site is offered, including but not limited
-        to the charges associated with the use of the [Portal:PortalName] Web Site.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;LINKS TO THIRD PARTY SITES&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;The [Portal:PortalName] Web Site may contain links to other Web Sites ("Linked Sites").
-        The Linked Sites are not under the control of [Portal:PortalName] and [Portal:PortalName]
-        is not responsible for the contents of any Linked Site, including without limitation
-        any link contained in a Linked Site, or any changes or updates to a Linked Site.
-        [Portal:PortalName] is not responsible for webcasting or any other form of transmission
-        received from any Linked Site. [Portal:PortalName] is providing these links to you
-        only as a convenience, and the inclusion of any link does not imply endorsement
-        by [Portal:PortalName] of the site or any association with its operators.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;NO UNLAWFUL OR PROHIBITED USE&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;As a condition of your use of the [Portal:PortalName] Web Site, you warrant to [Portal:PortalName]
-        that you will not use the [Portal:PortalName] Web Site for any purpose that is unlawful
-        or prohibited by these terms, conditions, and notices. You may not use the [Portal:PortalName]
-        Web Site in any manner which could damage, disable, overburden, or impair the [Portal:PortalName]
-        Web Site or interfere with any other party's use and enjoyment of the [Portal:PortalName]
-        Web Site. You may not obtain or attempt to obtain any materials or information through
-        any means not intentionally made available or provided for through the [Portal:PortalName]
-        Web Sites.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;USE OF COMMUNICATION SERVICES&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;The [Portal:PortalName] Web Site may contain bulletin board services, chat areas,
-        news groups, forums, communities, personal web pages, calendars, and/or other message
-        or communication facilities designed to enable you to communicate with the public
-        at large or with a group (collectively, "Communication Services"), you agree to
-        use the Communication Services only to post, send and receive messages and material
-        that are proper and related to the particular Communication Service. By way of example,
-        and not as a limitation, you agree that when using a Communication Service, you
-        will not:&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;OVEREENKOMST TUSSEN GEBRUIKER EN [Portal:PortalName]&lt;/span&gt;&lt;p&gt;
+        &lt;p&gt;De [Portal:PortalName] website bestaat uit verschillende webpagina's die worden beheerd door [Portal:PortalName].&lt;/p&gt;
+        &lt;p&gt;De [Portal:PortalName] website wordt aan jou aangeboden op voorwaarde dat je de voorwaarden, bepalingen en kennisgevingen die hierin zijn opgenomen, zonder wijziging accepteert. 
+        Jouw gebruik van de [Portal:PortalName] website vormt jouw akkoord met al deze voorwaarden, bepalingen en kennisgevingen.&lt;p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;WIJZIGING VAN DEZE GEBRUIKSVOORWAARDEN&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] behoudt zich het recht voor om de voorwaarden, bepalingen en kennisgevingen
+        waaronder de [Portal:PortalName] website wordt aangeboden, te wijzigen, inclusief maar niet beperkt
+        tot de kosten die verbonden zijn aan het gebruik van de [Portal:PortalName] website.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;LINKS NAAR SITES VAN DERDE PARTIJEN&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;De [Portal:PortalName] website kan links bevatten naar andere websites ("gelinkte sites").
+        De gelinkte sites vallen niet onder de controle van [Portal:PortalName] en [Portal:PortalName]
+        is niet verantwoordelijk voor de inhoud van enige gelinkte site, inclusief maar niet beperkt tot
+        enige link die in een gelinkte site is opgenomen, of enige wijzigingen of updates van een gelinkte site.
+        [Portal:PortalName] is niet verantwoordelijk voor webcasting of enige andere vorm van transmissie
+        ontvangen van een gelinkte site. [Portal:PortalName] biedt deze links alleen aan als een
+        gemak, en de opname van een link impliceert geen goedkeuring door [Portal:PortalName] van de site
+        of enige associatie met de exploitanten ervan.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;GEEN ONWETTELIJK OF VERBODEN GEBRUIK&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;Als voorwaarde voor jouw gebruik van de [Portal:PortalName] website, waarborg je aan [Portal:PortalName]
+        dat je de [Portal:PortalName] website niet zult gebruiken voor enig doel dat onwettig
+        of verboden is door deze voorwaarden, bepalingen en kennisgevingen. Je mag de [Portal:PortalName]
+        website niet gebruiken op een manier die de [Portal:PortalName]
+        website zou kunnen beschadigen, uitschakelen, overbelasten of verstoren, of de gebruik en het genot van de [Portal:PortalName]
+        website door een andere partij zou kunnen verstoren. Je mag geen materialen of informatie verkrijgen of proberen te verkrijgen via
+        een wijze die niet bewust beschikbaar is gesteld of voorzien via de [Portal:PortalName]
+        websites.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;GEBRUIK VAN COMMUNICATIEDIENSTEN&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;De [Portal:PortalName] website kan bulletin board services, chatgebieden,
+        nieuwsgroepen, forums, gemeenschappen, persoonlijke webpagina's, agenda's en/of andere berichten
+        of communicatiefaciliteiten bevatten die zijn ontworpen om je in staat te stellen te communiceren met het publiek
+        in het algemeen of met een groep (gezamenlijk, "Communicatiediensten"). Je stemt ermee in
+        de Communicatiediensten alleen te gebruiken om berichten en materialen te plaatsen, verzenden en ontvangen
+        die gepast zijn en verband houden met de specifieke Communicatiedienst. Bij wijze van voorbeeld,
+        en niet als beperking, stem je ermee in dat wanneer je een Communicatiedienst gebruikt, je
+        niet zult:&lt;/p&gt;
 &lt;ul&gt;
-            &lt;li&gt;Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such
-                as rights of privacy and publicity) of others.&lt;/li&gt;
-            &lt;li&gt;Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory,
-                infringing, obscene, indecent or unlawful topic, name, material or information.&lt;/li&gt;
-            &lt;li&gt;Upload files that contain software or other material protected by intellectual property
-                laws (or by rights of privacy of publicity) unless you own or control the rights
-                thereto or have received all necessary consents.&lt;/li&gt;
-            &lt;li&gt;Upload files that contain viruses, corrupted files, or any other similar software
-                or programs that may damage the operation of another's computer.&lt;/li&gt;
-            &lt;li&gt;Advertise or offer to sell or buy any goods or services for any business purpose,
-                unless such Communication Service specifically allows such messages.&lt;/li&gt;
-            &lt;li&gt;Conduct or forward surveys, contests, pyramid schemes or chain letters.&lt;/li&gt;
-            &lt;li&gt;Download any file posted by another user of a Communication Service that you know,
-                or reasonably should know, cannot be legally distributed in such manner.&lt;/li&gt;
-            &lt;li&gt;Falsify or delete any author attributions, legal or other proper notices or proprietary
-                designations or labels of the origin or source of software or other material contained
-                in a file that is uploaded.&lt;/li&gt;
-            &lt;li&gt;Restrict or inhibit any other user from using and enjoying the Communication Services.&lt;/li&gt;
-            &lt;li&gt;Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.&lt;/li&gt;
-            &lt;li&gt;Harvest or otherwise collect information about others, including e-mail addresses, without their consent.&lt;/li&gt;
-            &lt;li&gt;Violate any applicable laws or regulations.&lt;/li&gt;
+  &lt;li&gt;Belasteren, misbruiken, lastigvallen, stalken, bedreigen of anderszins de wettelijke rechten (zoals privacy- en publiciteitsrechten) van anderen schenden.&lt;/li&gt;
+  &lt;li&gt;Ongepaste, grove, lasterlijke, inbreukmakende, obscene, onfatsoenlijke of onwettige onderwerpen, namen, materialen of informatie publiceren, plaatsen, uploaden, verspreiden of distribueren.&lt;/li&gt;
+  &lt;li&gt;Bestanden uploaden die software of ander materiaal bevatten dat beschermd is door intellectuele eigendomsrechten (of door privacy- of publiciteitsrechten), tenzij je de rechten bezit of beheert of alle benodigde toestemmingen hebt verkregen.&lt;/li&gt;
+  &lt;li&gt;Bestanden uploaden die virussen, beschadigde bestanden of andere soortgelijke software of programma's bevatten die schade kunnen toebrengen aan de werking van de computer van een ander.&lt;/li&gt;
+  &lt;li&gt;Adverteren of aanbieden om goederen of diensten te verkopen of kopen voor zakelijke doeleinden, tenzij dergelijke berichten specifiek zijn toegestaan door de betreffende Communicatiedienst.&lt;/li&gt;
+  &lt;li&gt;Enquêtes, wedstrijden, piramidespelen of kettingbrieven uitvoeren of doorsturen.&lt;/li&gt;
+  &lt;li&gt;Bestanden downloaden die door een andere gebruiker van een Communicatiedienst zijn geplaatst waarvan je weet, of redelijkerwijs zou moeten weten, dat ze niet legaal op die manier mogen worden verspreid.&lt;/li&gt;
+  &lt;li&gt;Auteursvermeldingen, wettelijke of andere juiste kennisgevingen of eigendomslabels of aanduidingen van de oorsprong of bron van software of ander materiaal in een geüpload bestand vervalsen of verwijderen.&lt;/li&gt;
+  &lt;li&gt;Andere gebruikers beperken of hinderen in het gebruik en genot van de Communicatiediensten.&lt;/li&gt;
+  &lt;li&gt;Enige gedragscode of andere richtlijnen overtreden die van toepassing kunnen zijn op een bepaalde Communicatiedienst.&lt;/li&gt;
+  &lt;li&gt;Gegevens verzamelen of anderszins informatie over anderen, waaronder e-mailadressen, verzamelen zonder hun toestemming.&lt;/li&gt;
+  &lt;li&gt;Enige toepasselijke wet- of regelgeving overtreden.&lt;/li&gt;
 &lt;/ul&gt;
-        &lt;p&gt;[Portal:PortalName] has no obligation to monitor the Communication Services. However,
-        [Portal:PortalName] reserves the right to review materials posted to a Communication
-        Service and to remove any materials in its sole discretion. [Portal:PortalName]
-        reserves the right to terminate your access to any or all of the Communication Services
-        at any time without notice for any reason whatsoever.&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] reserves the right at all times to disclose any information
-        as necessary to satisfy any applicable law, regulation, legal process or governmental
-        request, or to edit, refuse to post or to remove any information or materials, in
-        whole or in part, in [Portal:PortalName]'s sole discretion.&lt;/p&gt;
-        &lt;p&gt;Always use caution when giving out any personally identifying information about
-        yourself or your children in any Communication Service. [Portal:PortalName] does
-        not control or endorse the content, messages or information found in any Communication
-        Service and, therefore, [Portal:PortalName] specifically disclaims any liability
-        with regard to the Communication Services and any actions resulting from your participation
-        in any Communication Service. Managers and hosts are not authorized [Portal:PortalName]
-        spokespersons, and their views do not necessarily reflect those of [Portal:PortalName].&lt;/p&gt;
-        &lt;p&gt;Materials uploaded to a Communication Service may be subject to posted limitations
-        on usage, reproduction and/or dissemination. You are responsible for adhering to
-        such limitations if you download the materials.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;MATERIALS PROVIDED TO [Portal:PortalName] OR POSTED AT ANY [Portal:PortalName]
-            WEB SITE&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] does not claim ownership of the materials you provide to [Portal:PortalName]
-        (including feedback and suggestions) or post, upload, input or submit to any [Portal:PortalName]
-        Web Site or its associated services (collectively "Submissions"). However, by posting,
-        uploading, inputting, providing or submitting your Submission you are granting [Portal:PortalName],
-        its affiliated companies and necessary sublicensees permission to use your Submission
-        in connection with the operation of their Internet businesses including, without
-        limitation, the rights to: copy, distribute, transmit, publicly display, publicly
-        perform, reproduce, edit, translate and reformat your Submission; and to publish
-        your name in connection with your Submission.&lt;/p&gt;
-        &lt;p&gt;No compensation will be paid with respect to the use of your Submission, as provided
-        herein. [Portal:PortalName] is under no obligation to post or use any Submission
-        you may provide and may remove any Submission at any time in [Portal:PortalName]'s
-        sole discretion.&lt;/p&gt;
-        &lt;p&gt;By posting, uploading, inputting, providing or submitting your Submission you warrant
-        and represent that you own or otherwise control all of the rights to your Submission
-        as described in this section including, without limitation, all the rights necessary
-        for you to provide, post, upload, input or submit the Submissions.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;LIABILITY DISCLAIMER&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;THE INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES INCLUDED IN OR AVAILABLE THROUGH
-        THE [Portal:PortalName] WEB SITE MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL ERRORS.
-        CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN. [Portal:PortalName] AND/OR
-        ITS SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR CHANGES IN THE [Portal:PortalName] WEB
-        SITE AT ANY TIME. ADVICE RECEIVED VIA THE [Portal:PortalName] WEB SITE SHOULD NOT
-        BE RELIED UPON FOR PERSONAL, MEDICAL, LEGAL OR FINANCIAL DECISIONS AND YOU SHOULD
-        CONSULT AN APPROPRIATE PROFESSIONAL FOR SPECIFIC ADVICE TAILORED TO YOUR SITUATION.&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] AND/OR ITS SUPPLIERS MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY,
-        RELIABILITY, AVAILABILITY, TIMELINESS, AND ACCURACY OF THE INFORMATION, SOFTWARE,
-        PRODUCTS, SERVICES AND RELATED GRAPHICS CONTAINED ON THE [Portal:PortalName] WEB
-        SITE FOR ANY PURPOSE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ALL SUCH
-        INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS ARE PROVIDED "AS
-        IS" WITHOUT WARRANTY OR CONDITION OF ANY KIND. [Portal:PortalName] AND/OR ITS SUPPLIERS
-        HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THIS INFORMATION, SOFTWARE,
-        PRODUCTS, SERVICES AND RELATED GRAPHICS, INCLUDING ALL IMPLIED WARRANTIES OR CONDITIONS
-        OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.&lt;/p&gt;
-        &lt;p&gt;TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL [Portal:PortalName]
-        AND/OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL,
-        CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER INCLUDING, WITHOUT LIMITATION, DAMAGES
-        FOR LOSS OF USE, DATA OR PROFITS, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE
-        USE OR PERFORMANCE OF THE [Portal:PortalName] WEB SITE, WITH THE DELAY OR INABILITY
-        TO USE THE [Portal:PortalName] WEB SITE OR RELATED SERVICES, THE PROVISION OF OR
-        FAILURE TO PROVIDE SERVICES, OR FOR ANY INFORMATION, SOFTWARE, PRODUCTS, SERVICES
-        AND RELATED GRAPHICS OBTAINED THROUGH THE [Portal:PortalName] WEB SITE, OR OTHERWISE
-        ARISING OUT OF THE USE OF THE [Portal:PortalName] WEB SITE, WHETHER BASED ON CONTRACT,
-        TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, EVEN IF [Portal:PortalName] OR
-        ANY OF ITS SUPPLIERS HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. BECAUSE SOME
-        STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL
-        OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IF YOU ARE DISSATISFIED
-        WITH ANY PORTION OF THE [Portal:PortalName] WEB SITE, OR WITH ANY OF THESE TERMS
-        OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE [Portal:PortalName]
-        WEB SITE.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] is niet verplicht om de Communicatiediensten te monitoren. Echter,
+        [Portal:PortalName] behoudt zich het recht voor om geplaatste materialen in een Communicatiedienst
+        te beoordelen en naar eigen inzicht te verwijderen. [Portal:PortalName]
+        behoudt zich het recht voor om je toegang tot één of alle Communicatiediensten
+        op elk moment zonder kennisgeving en om welke reden dan ook te beëindigen.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] behoudt zich te allen tijde het recht voor om informatie openbaar te maken
+        indien dit nodig is om te voldoen aan toepasselijke wet- of regelgeving, juridische procedures of overheidsverzoeken,
+        of om informatie of materialen geheel of gedeeltelijk te bewerken, te weigeren te plaatsen of te verwijderen,
+        naar eigen inzicht van [Portal:PortalName].&lt;/p&gt;
+        &lt;p&gt;Wees altijd voorzichtig met het verstrekken van persoonlijk identificeerbare informatie over
+        jezelf of je kinderen in een Communicatiedienst. [Portal:PortalName] heeft geen controle over en onderschrijft
+        de inhoud, berichten of informatie die in een Communicatiedienst wordt gevonden niet, en daarom wijst
+        [Portal:PortalName] uitdrukkelijk elke aansprakelijkheid af met betrekking tot de Communicatiediensten en
+        alle acties die voortvloeien uit je deelname aan een Communicatiedienst. Managers en hosts zijn geen
+        geautoriseerde woordvoerders van [Portal:PortalName], en hun standpunten weerspiegelen niet noodzakelijkerwijs
+        die van [Portal:PortalName].&lt;/p&gt;
+        &lt;p&gt;Materialen die worden geüpload naar een Communicatiedienst kunnen onderhevig zijn aan gepubliceerde beperkingen
+        op gebruik, reproductie en/of verspreiding. Je bent verantwoordelijk voor het naleven van
+        dergelijke beperkingen als je de materialen downloadt.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;MATERIALEN AANGELEVERD AAN [Portal:PortalName] OF GEPLAATST OP ENIGE [Portal:PortalName]
+            WEBSITE&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] claimt geen eigendom van de materialen die je aanlevert aan [Portal:PortalName]
+        (inclusief feedback en suggesties) of plaatst, uploadt, invoert of indient op enige [Portal:PortalName]
+        website of bijbehorende diensten (gezamenlijk "Inzendingen"). Door het plaatsen,
+        uploaden, invoeren, aanleveren of indienen van je Inzending geef je [Portal:PortalName],
+        haar gelieerde bedrijven en noodzakelijke sublicentiehouders toestemming om je Inzending te gebruiken
+        in verband met de exploitatie van hun internetactiviteiten, inclusief maar niet beperkt tot
+        de rechten om: je Inzending te kopiëren, distribueren, verzenden, openbaar weer te geven, openbaar
+        uit te voeren, te reproduceren, te bewerken, te vertalen en te herformatteren; en om je naam te publiceren
+        in verband met je Inzending.&lt;/p&gt;
+        &lt;p&gt;Er wordt geen vergoeding betaald met betrekking tot het gebruik van je Inzending, zoals hierin
+        bepaald. [Portal:PortalName] is niet verplicht om enige Inzending te plaatsen of te gebruiken
+        die je aanlevert en kan elke Inzending op elk moment naar eigen inzicht van [Portal:PortalName]
+        verwijderen.&lt;/p&gt;
+        &lt;p&gt;Door het plaatsen, uploaden, invoeren, aanleveren of indienen van je Inzending verklaar
+        en garandeer je dat je alle rechten op je Inzending bezit of anderszins beheert zoals beschreven in deze sectie,
+        inclusief maar niet beperkt tot alle rechten die nodig zijn om de Inzendingen aan te leveren, te plaatsen,
+        te uploaden, in te voeren of in te dienen.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;DISCLAIMER AANSPRAKELIJKHEID&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;DE INFORMATIE, SOFTWARE, PRODUCTEN EN DIENSTEN DIE IN OF VIA DE [Portal:PortalName] WEBSITE
+        BESCHIKBAAR ZIJN, KUNNEN ONNAUWKEURIGHEDEN OF TYPOGRAFISCHE FOUTEN BEVATTEN.
+        ER WORDEN PERIODIEK WIJZIGINGEN AANGEBRACHT IN DE INFORMATIE HIERIN. [Portal:PortalName] EN/OF
+        HAAR LEVERANCIERS KUNNEN VERBETERINGEN EN/OF WIJZIGINGEN AANBRENGEN IN DE [Portal:PortalName] WEBSITE
+        OP ELK MOMENT. ADVIES ONTVANGEN VIA DE [Portal:PortalName] WEBSITE MOET NIET WORDEN VERTROUWD VOOR
+        PERSOONLIJKE, MEDISCHE, JURIDISCHE OF FINANCIËLE BESLISSINGEN EN JE DIENT EEN GESCHIKTE
+        PROFESSIONAL TE RAADPLEGEN VOOR SPECIFIEK ADVIES OP MAAT VOOR JOUW SITUATIE.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] EN/OF HAAR LEVERANCIERS DOEN GEEN UITSPRAKEN OVER DE GESCHIKTHEID,
+        BETROUWBAARHEID, BESCHIKBAARHEID, TIJDIGHEID EN NAUWKEURIGHEID VAN DE INFORMATIE, SOFTWARE,
+        PRODUCTEN, DIENSTEN EN GERELATEERDE GRAFISCHE ELEMENTEN OP DE [Portal:PortalName] WEBSITE VOOR
+        ENIG DOEL. VOOR ZOVER TOEGESTAAN DOOR TOEPASSELIJK RECHT WORDEN AL DEZE INFORMATIE, SOFTWARE,
+        PRODUCTEN, DIENSTEN EN GERELATEERDE GRAFISCHE ELEMENTEN GELEVERD "AS IS" ZONDER ENIGE GARANTIE
+        OF VOORWAARDE VAN WELKE AARD DAN OOK. [Portal:PortalName] EN/OF HAAR LEVERANCIERS WIJZEN HIERBIJ
+        ALLE GARANTIES EN VOORWAARDEN AF MET BETREKKING TOT DEZE INFORMATIE, SOFTWARE, PRODUCTEN,
+        DIENSTEN EN GERELATEERDE GRAFISCHE ELEMENTEN, INCLUSIEF ALLE IMPLICIETE GARANTIES OF VOORWAARDEN
+        VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL, EIGENDOM EN NIET-INBREUK.&lt;/p&gt;
+        &lt;p&gt;VOOR ZOVER TOEGESTAAN DOOR TOEPASSELIJK RECHT, ZAL [Portal:PortalName] EN/OF HAAR LEVERANCIERS
+        IN GEEN GEVAL AANSPRAKELIJK ZIJN VOOR ENIGE DIRECTE, INDIRECTE, PUNITIEVE, INCIDENTELE, SPECIALE,
+        GEVOLGSCHADE OF ENIGE SCHADE WAT DAN OOK, INCLUSIEF MAAR NIET BEPERKT TOT SCHADE VOOR VERLIES VAN
+        GEBRUIK, GEGEVENS OF WINST, VOORTKOMEND UIT OF OP ENIGE WIJZE VERBONDEN MET HET GEBRUIK OF DE
+        PRESTATIES VAN DE [Portal:PortalName] WEBSITE, MET DE VERTRAGING OF ONMOGELIJKHEID OM DE
+        [Portal:PortalName] WEBSITE OF GERELATEERDE DIENSTEN TE GEBRUIKEN, HET VERLENEN OF HET NIET VERLENEN
+        VAN DIENSTEN, OF VOOR ENIGE INFORMATIE, SOFTWARE, PRODUCTEN, DIENSTEN EN GERELATEERDE GRAFISCHE
+        ELEMENTEN VERKREGEN VIA DE [Portal:PortalName] WEBSITE, OF ANDERSZINS VOORTKOMEND UIT HET GEBRUIK
+        VAN DE [Portal:PortalName] WEBSITE, ONGEACHT OF DIT IS GEBASEERD OP CONTRACT, ONRECHTMATIGE DAAD,
+        NALATIGHEID, STRIKTE AANSPRAKELIJKHEID OF ANDERSZINS, ZELFS ALS [Portal:PortalName] OF EEN VAN HAAR
+        LEVERANCIERS OP DE HOOGTE IS GESTELD VAN DE MOGELIJKHEID VAN SCHADE. OMDAT SOMMIGE STATEN/JURISDICTIES
+        DE UITSLUITING OF BEPERKING VAN AANSPRAKELIJKHEID VOOR GEVOLGSCHADE OF INCIDENTELE SCHADE NIET TOESTAAN,
+        KAN DE BOVENSTAANDE BEPERKING NIET OP JOU VAN TOEPASSING ZIJN. ALS JE NIET TEVREDEN BENT MET ENIG
+        DEEL VAN DE [Portal:PortalName] WEBSITE, OF MET ENIGE VAN DEZE GEBRUIKSVOORWAARDEN, IS JE ENIGE EN
+        UITSLUITENDE RECHTSMIDDEL HET STOPPEN VAN HET GEBRUIK VAN DE [Portal:PortalName] WEBSITE.&lt;/p&gt;
         &lt;p&gt;SERVICE CONTACT : [Portal:Email]&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;TERMINATION/ACCESS RESTRICTION&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] reserves the right, in its sole discretion, to terminate your
-        access to the [Portal:PortalName] Web Site and the related services or any portion
-        thereof at any time, without notice. GENERAL To the maximum extent permitted by
-        law, this agreement is governed by the laws of the State of Washington, U.S.A. and
-        you hereby consent to the exclusive jurisdiction and venue of courts in San Mateo County,
-        California, U.S.A. in all disputes arising out of or relating to the use of the
-        [Portal:PortalName] Web Site. Use of the [Portal:PortalName] Web Site is unauthorized
-        in any jurisdiction that does not give effect to all provisions of these terms and
-        conditions, including without limitation this paragraph. You agree that no joint
-        venture, partnership, employment, or agency relationship exists between you and
-        [Portal:PortalName] as a result of this agreement or use of the [Portal:PortalName]
-        Web Site. [Portal:PortalName]'s performance of this agreement is subject to existing
-        laws and legal process, and nothing contained in this agreement is in derogation
-        of [Portal:PortalName]'s right to comply with governmental, court and law enforcement
-        requests or requirements relating to your use of the [Portal:PortalName] Web Site
-        or information provided to or gathered by [Portal:PortalName] with respect to such
-        use. If any part of this agreement is determined to be invalid or unenforceable
-        pursuant to applicable law including, but not limited to, the warranty disclaimers
-        and liability limitations set forth above, then the invalid or unenforceable provision
-        will be deemed superseded by a valid, enforceable provision that most closely matches
-        the intent of the original provision and the remainder of the agreement shall continue
-        in effect. Unless otherwise specified herein, this agreement constitutes the entire
-        agreement between the user and [Portal:PortalName] with respect to the [Portal:PortalName]
-        Web Site and it supersedes all prior or contemporaneous communications and proposals,
-        whether electronic, oral or written, between the user and [Portal:PortalName] with
-        respect to the [Portal:PortalName] Web Site. A printed version of this agreement
-        and of any notice given in electronic form shall be admissible in judicial or administrative
-        proceedings based upon or relating to this agreement to the same extent an d subject
-        to the same conditions as other business documents and records originally generated
-        and maintained in printed form. It is the express wish to the parties that this
-        agreement and all related documents be drawn up in English.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;COPYRIGHT AND TRADEMARK NOTICES:&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;All contents of the [Portal:PortalName] Web Site are: [Portal:FooterText] and/or
-        its suppliers. All rights reserved.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;TRADEMARKS&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;The names of actual companies and products mentioned herein may be the trademarks
-        of their respective owners.&lt;/p&gt;
-        &lt;p&gt;The example companies, organizations, products, people and events depicted herein
-        are fictitious. No association with any real company, organization, product, person,
-        or event is intended or should be inferred.&lt;/p&gt;
-        &lt;p&gt;Any rights not expressly granted herein are reserved.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;NOTICES AND PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;Pursuant to Title 17, United States Code, Section 512(c)(2), notifications of claimed
-        copyright infringement under United States copyright law should be sent to Service
-        Provider's Designated Agent. ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE
-        WILL RECEIVE NO RESPONSE. See Notice and Procedure for Making Claims of Copyright
-        Infringement.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;BEËINDIGING/TOEGANGSBEPERKING&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] behoudt zich het recht voor, naar eigen goeddunken, om je toegang tot de [Portal:PortalName] website en de gerelateerde diensten of enig deel daarvan op elk moment zonder kennisgeving te beëindigen. ALGEMEEN Voor zover maximaal toegestaan door de wet, wordt deze overeenkomst beheerst door de wetten van de staat Washington, VS, en stem je ermee in dat de exclusieve jurisdictie en locatie van rechtbanken in San Mateo County, Californië, VS, van toepassing zijn op alle geschillen die voortvloeien uit of verband houden met het gebruik van de [Portal:PortalName] website. Gebruik van de [Portal:PortalName] website is niet toegestaan in enig rechtsgebied dat geen uitvoering geeft aan alle bepalingen van deze voorwaarden, inclusief maar niet beperkt tot deze paragraaf. Je stemt ermee in dat er geen joint venture, partnerschap, dienstverband of agentuurrelatie bestaat tussen jou en [Portal:PortalName] als gevolg van deze overeenkomst of het gebruik van de [Portal:PortalName] website. De uitvoering van deze overeenkomst door [Portal:PortalName] is onderworpen aan bestaande wetten en juridische procedures, en niets in deze overeenkomst doet afbreuk aan het recht van [Portal:PortalName] om te voldoen aan overheids-, gerechtelijke en wetshandhavingsverzoeken of vereisten met betrekking tot jouw gebruik van de [Portal:PortalName] website of informatie die aan [Portal:PortalName] is verstrekt of verzameld met betrekking tot dergelijk gebruik. Indien enig deel van deze overeenkomst ongeldig of onafdwingbaar wordt verklaard volgens toepasselijk recht, inclusief maar niet beperkt tot de hierboven uiteengezette garantie-uitsluitingen en aansprakelijkheidsbeperkingen, zal de ongeldige of onafdwingbare bepaling worden vervangen door een geldige, afdwingbare bepaling die het meest overeenkomt met de bedoeling van de oorspronkelijke bepaling en blijft de rest van de overeenkomst van kracht. Tenzij anders vermeld hierin, vormt deze overeenkomst de volledige overeenkomst tussen de gebruiker en [Portal:PortalName] met betrekking tot de [Portal:PortalName] website en vervangt deze alle eerdere of gelijktijdige communicatie en voorstellen, elektronisch, mondeling of schriftelijk, tussen de gebruiker en [Portal:PortalName] met betrekking tot de [Portal:PortalName] website. Een gedrukte versie van deze overeenkomst en van elke kennisgeving die in elektronische vorm is gegeven, is toelaatbaar in gerechtelijke of administratieve procedures die gebaseerd zijn op of verband houden met deze overeenkomst, in dezelfde mate en onder dezelfde voorwaarden als andere zakelijke documenten en dossiers die oorspronkelijk in gedrukte vorm zijn gegenereerd en bewaard. Het is de uitdrukkelijke wens van de partijen dat deze overeenkomst en alle gerelateerde documenten in het Engels worden opgesteld.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;AUTEURSRECHT EN HANDELSMERKEN:&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;Alle inhoud van de [Portal:PortalName] website is: [Portal:FooterText] en/of haar leveranciers. Alle rechten voorbehouden.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;HANDELSMERKEN&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;De namen van feitelijke bedrijven en producten die hierin worden genoemd, kunnen handelsmerken zijn van hun respectievelijke eigenaren.&lt;/p&gt;
+        &lt;p&gt;De voorbeeldbedrijven, organisaties, producten, personen en gebeurtenissen die hierin worden afgebeeld, zijn fictief. Geen enkele associatie met een echt bedrijf, organisatie, product, persoon of gebeurtenis is bedoeld of mag worden afgeleid.&lt;/p&gt;
+        &lt;p&gt;Alle rechten die hierin niet uitdrukkelijk zijn verleend, zijn voorbehouden.&lt;/p&gt;
     &lt;/div&gt;</value>
   </data>
   <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text" xml:space="preserve">
-    <value>Om je wachtwoord op te kunnen vragen moet je jouw gebruikersnaam opgeven, en een antwoord op de wachtwoord vraag.</value>
+    <value>Om je wachtwoord op te kunnen vragen moet je jouw gebruikersnaam opgeven en een antwoord op de wachtwoord vraag.</value>
   </data>
   <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text" xml:space="preserve">
     <value>Verifieer je e-mailadreswijziging door je wachtwoord opnieuw in te voeren.</value>
@@ -1227,7 +1174,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Geen fouten opgetreden tijdens versturen</value>
   </data>
   <data name="NoLoginControl.Text" xml:space="preserve">
-    <value>Je bent naar deze standaard inlogpagina omgeleid omdat deze website geen geldige Login Module bevat, of omdat de machtigingen niet juist zijn ingesteld.</value>
+    <value>Je bent naar deze standaard inlogpagina omgeleid omdat deze website geen geldige Login Module bevat, of omdat de machtigingen onjuist zijn ingesteld.</value>
   </data>
   <data name="NoSitesForThisInstallation.Error" xml:space="preserve">
     <value>Er bestaan op dit moment geen sites voor deze installatie.</value>
@@ -1254,16 +1201,16 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Heeft relatie verwijderd {0} : ID {1}</value>
   </data>
   <data name="Relationship_Updated.Text" xml:space="preserve">
-    <value>Geüpdate Relatie: {0}</value>
+    <value>Bijgewerkte relatie: {0}</value>
   </data>
   <data name="RelationshipType_Added.Text" xml:space="preserve">
-    <value>RelatieType Toegevoegd: {0}</value>
+    <value>Relatietype toegevoegd: {0}</value>
   </data>
   <data name="RelationshipType_Deleted.Text" xml:space="preserve">
-    <value>RelatieType Verwijderd {0} : ID {1}</value>
+    <value>Relatietype verwijderd {0} : ID {1}</value>
   </data>
   <data name="RelationshipType_Updated.Text" xml:space="preserve">
-    <value>Geüpdate RelatieType: {0}</value>
+    <value>Bijgewerkte relatietype: {0}</value>
   </data>
   <data name="Return.Text" xml:space="preserve">
     <value>Terug naar website</value>
@@ -1284,16 +1231,16 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
     <value>Op dit moment wordt er een installatie uitgevoerd. Probeer het op een later moment nogmaals.</value>
   </data>
   <data name="TokenReplaceRestrictedProperty.Text" xml:space="preserve">
-    <value>Fout bij toegang tot [{0}:{1}], toegang tot {1} is afgeschermd voor databron {0}.</value>
+    <value>Fout bij toegang tot [{0}:{1}]: De toegang tot {1} is afgeschermd voor databron {0}.</value>
   </data>
   <data name="TokenReplaceUnknownObject.Text" xml:space="preserve">
-    <value>Fout bij toegang tot [{0}:{1}], {0} is een onbekend object token.</value>
+    <value>Fout bij toegang tot [{0}:{1}]: {0} is een onbekend object token.</value>
   </data>
   <data name="TokenReplaceUnknownProperty.Text" xml:space="preserve">
-    <value>Fout bij toegang tot [{0}:{1}], {1} is onbekend voor databron {0}.</value>
+    <value>Fout bij toegang tot [{0}:{1}]: {1} is onbekend voor databron {0}.</value>
   </data>
   <data name="TrackClicks.Text" xml:space="preserve">
-    <value>Het aantal keer dat link is aangeklikt bijhouden.</value>
+    <value>Het aantal keer dat de link is aangeklikt bijhouden.</value>
   </data>
   <data name="Translate.Action" xml:space="preserve">
     <value>Markeer als vertaald</value>
@@ -1343,4 +1290,25 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
   <data name="Write to Folder.Permission" xml:space="preserve">
     <value>Schrijf bestanden in map</value>
   </data>
+  <data name="MESSAGE_LOGIN_INSTRUCTIONS.Text">
+    <value>
+    </value>
+  </data>
+  <data name="MESSAGE_REGISTRATION_INSTRUCTIONS.Text">
+    <value>
+    </value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_BODY.Text">
+    <value>
+De volgende gebruiker heeft een Wachtwoord Reset Token opgevraagd van [Portal:PortalName], maar de gebruiker wacht nog op goedkeuring.
+Gebruikersnaam: [User:UserName]
+Weergavenaam: [User:DisplayName]
+
+Beoordeel deze gebruiker. Wanneer u de gebruiker goedkeurt moet u een (nieuwe) wachtwoord reset e-mail sturen.
+    </value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_SUBJECT.Text">
+    <value>[Portal:PortalName] Wachtwoord reset opgevraagd door deze NIET goedgekeurde gebruiker: [User:Username]</value>
+  </data>
 </root>
+

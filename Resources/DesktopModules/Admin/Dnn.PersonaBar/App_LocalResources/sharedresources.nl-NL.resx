@@ -55,13 +55,13 @@
     <value>Een onbekende fout is opgetreden. Controleer de admin logs voor meer informatie.</value>
   </data>
   <data name="Hour.Text" xml:space="preserve">
-    <value>Uur</value>
+    <value>uur</value>
   </data>
   <data name="HourAgo.Text" xml:space="preserve">
     <value>{0} uur geleden</value>
   </data>
   <data name="Hours.Text" xml:space="preserve">
-    <value>Uren</value>
+    <value>uren</value>
   </data>
   <data name="HoursAgo.Text" xml:space="preserve">
     <value>{0} uren geleden</value>
@@ -70,34 +70,34 @@
     <value>kort geleden</value>
   </data>
   <data name="LongTimeAgo.Text" xml:space="preserve">
-    <value>Lang geleden</value>
+    <value>lang geleden</value>
   </data>
   <data name="Minute.Text" xml:space="preserve">
-    <value>Minuut</value>
+    <value>minuut</value>
   </data>
   <data name="MinuteAgo.Text" xml:space="preserve">
     <value>{0} minuut geleden</value>
   </data>
   <data name="Minutes.Text" xml:space="preserve">
-    <value>Minuten</value>
+    <value>minuten</value>
   </data>
   <data name="MinutesAgo.Text" xml:space="preserve">
     <value>{0} minuten geleden</value>
   </data>
   <data name="Month.Text" xml:space="preserve">
-    <value>Maand</value>
+    <value>maand</value>
   </data>
   <data name="MonthAgo.Text" xml:space="preserve">
     <value>{0} maand geleden</value>
   </data>
   <data name="Months.Text" xml:space="preserve">
-    <value>Maanden</value>
+    <value>maanden</value>
   </data>
   <data name="MonthsAgo.Text" xml:space="preserve">
     <value>{0} maanden geleden</value>
   </data>
   <data name="Never.Text" xml:space="preserve">
-    <value>Nooit</value>
+    <value>nooit</value>
   </data>
   <data name="Promp_MainFlagIsRequired.Text" xml:space="preserve">
     <value>De '[0]' is vereist. Gebruik de markering - [1] of geef deze door als het eerste argument achter de naam van de opdracht.</value>
@@ -121,13 +121,13 @@
     <value>Home</value>
   </data>
   <data name="Second.Text" xml:space="preserve">
-    <value>Seconde</value>
+    <value>seconde</value>
   </data>
   <data name="SecondAgo.Text" xml:space="preserve">
     <value>{0} seconde geleden</value>
   </data>
   <data name="Seconds.Text" xml:space="preserve">
-    <value>Seconden</value>
+    <value>seconden</value>
   </data>
   <data name="SecondsAgo.Text" xml:space="preserve">
     <value>{0} seconden geleden</value>
@@ -157,13 +157,13 @@
     <value>{0} weken geleden</value>
   </data>
   <data name="Year.Text" xml:space="preserve">
-    <value>Jaar</value>
+    <value>jaar</value>
   </data>
   <data name="YearAgo.Text" xml:space="preserve">
     <value>{0} jaar geleden</value>
   </data>
   <data name="Years.Text" xml:space="preserve">
-    <value>Jaren</value>
+    <value>jaren</value>
   </data>
   <data name="YearsAgo.Text" xml:space="preserve">
     <value>{0} jaren geleden</value>

@@ -1,0 +1,967 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CommandNotFound.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Commando '{0}' niet gevonden</value>
+  </data>
+  <data name="CommandOptionText.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>{0} of {1}</value>
+  </data>
+  <data name="DidYouMean.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Bedoel je '{0}'?</value>
+  </data>
+  <data name="Help_Default.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Standaard</value>
+  </data>
+  <data name="Help_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Beschrijving</value>
+  </data>
+  <data name="Help_Flag.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Vlag</value>
+  </data>
+  <data name="Help_Options.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Opties</value>
+  </data>
+  <data name="Help_Required.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Vereist</value>
+  </data>
+  <data name="Help_Type.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Type</value>
+  </data>
+  <data name="Prompt_AddModule_Description.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Voeg een module aan de pagina toe</value>
+  </data>
+  <data name="Prompt_AddModule_FlagModuleName.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Naam van de desktopmodule die toegevoegd moet worden. Dit moet een unieke naam zijn.</value>
+  </data>
+  <data name="Prompt_AddModule_FlagModuleTitle.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Specifieer de titel van de module op de pagina.</value>
+  </data>
+  <data name="Prompt_AddModule_FlagPageId.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>ID van de pagina waaraan de module wordt toegevoegd.</value>
+  </data>
+  <data name="Prompt_AddModule_FlagPane.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Specifieer het deelvenster waar de module moet worden neergezet. Als dit niet wordt opgegeven, dan wordt de ContentPane gebruikt</value>
+  </data>
+  <data name="Prompt_AddModule_ResultHtml.Text" xml:space="preserve" lastModified="2021-09-04 19:41:04">
+    <value>&lt;h4&gt;Voeg een module toe aan een pagina&lt;/h4&gt;
+    &lt;code class="block"&gt;add-module --name "Html" --pageid 23 --pane TopPane&lt;/code&gt;</value>
+  </data>
+  <data name="Prompt_AddModuleError.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>Er trad een fout op tijdens het toevoegen van de module. Kijk in de DNN gebeurtenislog voor details.</value>
+  </data>
+  <data name="Prompt_ClearCache_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Maakt de server cache leeg en laadt de pagina opnieuw.</value>
+  </data>
+  <data name="Prompt_ClearCache_Error.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Er trad een fout op bij het leegmaken van de cache.</value>
+  </data>
+  <data name="Prompt_ClearCache_Success.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Cache is leeggemaakt</value>
+  </data>
+  <data name="Prompt_ClearHistory_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Verwijdert de historie van commando's in de huidige sessie.</value>
+  </data>
+  <data name="Prompt_ClearLog_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Maakt de Event log van de huidige site leeg.</value>
+  </data>
+  <data name="Prompt_ClearLog_Error.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Er trad een fout op bij het leegmaken van de Eventlog van de huidige site.</value>
+  </data>
+  <data name="Prompt_ClearLog_Success.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Eventlog is leeggemaakt</value>
+  </data>
+  <data name="Prompt_Cls_Description.Text" xml:space="preserve" lastModified="2020-10-13 13:18:06">
+    <value>Maakt de Prompt console leeg. &lt;code&gt;cls&lt;/code&gt; is een verkorte keuze voor &lt;a href="#clear-screen" class="dnn-prompt-cmd-insert"&gt;&lt;code&gt;clear-screen&lt;/code&gt;&lt;/a&gt;</value>
+  </data>
+  <data name="Prompt_CommandHelpLearn.Text" xml:space="preserve" lastModified="2021-09-04 19:39:06">
+    <value>Leer meer over Prompt commando's</value>
+  </data>
+  <data name="Prompt_CommandNotFound.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Kan geen helptekst vinden voor dat commando</value>
+  </data>
+  <data name="Prompt_CopyModule_Description.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Kopiëert de module naar een specifieke pagina.</value>
+  </data>
+  <data name="Prompt_CopyModule_FlagId.Text" xml:space="preserve" lastModified="2020-09-30 16:58:26">
+    <value>Specificeert de Module ID van de module die gekopieerd moet worden. Specificeer de ID waarde als eerste argument.</value>
+  </data>
+  <data name="Prompt_CopyModule_FlagIncludesettings.Text" xml:space="preserve" lastModified="2020-09-30 16:58:26">
+    <value>Indien WAAR, dan kopieert Prompt de settings van de bronmodule naar de gekopieerde module.</value>
+  </data>
+  <data name="Prompt_CopyModule_FlagPageId.Text" xml:space="preserve" lastModified="2020-09-30 16:58:26">
+    <value>De pagina ID van de pagina die de module bevat die je wilt kopieëren.</value>
+  </data>
+  <data name="Prompt_CopyModule_FlagPane.Text" xml:space="preserve" lastModified="2020-10-13 13:24:14">
+    <value>Geef het paginadeel op waar de module gekopieerd moet worden. Als deze niet wordt opgegeven, wordt het ContentPane gebruikt.</value>
+  </data>
+  <data name="Prompt_CopyModule_FlagToPageId.Text" xml:space="preserve" lastModified="2020-10-13 13:24:14">
+    <value>De pagina ID van de doelpagina waar je de module naartoe wilt kopiëren.</value>
+  </data>
+  <data name="Prompt_Default.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Standaard</value>
+  </data>
+  <data name="Prompt_DeleteModule_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:41:04">
+    <value>Hiermee verwijder je een module op een specifieke pagina. De module wordt naar de DNN Prullenbak gestuurd. Hierdoor worden modules niet verwijderd of worden moduledefinities niet beïnvloed.</value>
+  </data>
+  <data name="Prompt_DeleteModule_FlagId.Text" xml:space="preserve" lastModified="2021-09-04 19:41:04">
+    <value>Hiermee geef je expliciet de module-ID van de module op die moet worden opgehaald. Het gebruik van de vlag is niet vereist. Je kunt eenvoudig de ID-waarde opgeven als het eerste argument.</value>
+  </data>
+  <data name="Prompt_DeleteModule_FlagPageId.Text" xml:space="preserve" lastModified="2021-09-04 19:41:04">
+    <value>Hiermee geef je de pagina-ID op van de pagina waarop de module die moet worden verwijderd zich bevindt.</value>
+  </data>
+  <data name="Prompt_DeleteModule_ResultHtml.Text" xml:space="preserve" lastModified="2021-09-04 19:41:04">
+    <value>&lt;h4&gt;Verwijder een module instantie naar de prullenbak&lt;/h4&gt;
+    &lt;p&gt;Hiermee wordt een module-exemplaar op een specifieke pagina verwijderd en naar de DNN-prullenbak verzonden&lt;/p&gt;
+    &lt;code class="block"&gt;delete-module 345 --pageid 42&lt;/code&gt;</value>
+  </data>
+  <data name="Prompt_Description.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Omschrijving</value>
+  </data>
+  <data name="Prompt_DesktopModuleNotFound.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>Het is niet mogelijk een desktopmodule met de naam '{0}' te vinden voor deze site.</value>
+  </data>
+  <data name="Prompt_Echo_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:49:49">
+    <value>Geeft het eerste ontvangen argument terug </value>
+  </data>
+  <data name="Prompt_Echo_Nothing.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Niets om terug te geven</value>
+  </data>
+  <data name="Prompt_Echo_ResultHtml.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>&lt;h4&gt;&lt;/h4&gt;</value>
+  </data>
+  <data name="Prompt_ErrorWhileCopying.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Er trad een fout op bij het kopiëren van de module. Kijk in de site gebeurtenislog voor de details.</value>
+  </data>
+  <data name="Prompt_ErrorWhileMoving.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Er trad een fout op bij het verpaatsen van de module. Kijk in de site gebeurtenislog voor de details.</value>
+  </data>
+  <data name="Prompt_Exit_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:49:49">
+    <value>Hiermee wordt de promptconsole afgesloten.</value>
+  </data>
+  <data name="Prompt_FailedtoDeleteModule.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Er trad een fout op bij het verwijderen van de module. Kijk in de site gebeurtenislog voor de details.</value>
+  </data>
+  <data name="Prompt_FlagIsRequired.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>'[0]' is vereist.</value>
+  </data>
+  <data name="Prompt_GeneralCategory.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Algemene commando's</value>
+  </data>
+  <data name="Prompt_GetHost__NoArgs.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>De opdracht get-host neemt geen argumenten of vlaggen aan.</value>
+  </data>
+  <data name="Prompt_GetHost_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:49:49">
+    <value>Haalt informatie op over de DNN-installatie</value>
+  </data>
+  <data name="Prompt_GetHost_OkMessage.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>get-host opdracht met succes uitgevoerd.</value>
+  </data>
+  <data name="Prompt_GetHost_Unauthorized.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Je hebt geen autorisatie om toegang te krijgen tot deze functionaliteit.</value>
+  </data>
+  <data name="Prompt_GetModule_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:41:04">
+    <value>Haalt details over één module op een opgegeven pagina op.</value>
+  </data>
+  <data name="Prompt_GetModule_FlagId.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>Hiermee geef je expliciet de module-ID van de module op die moet worden opgehaald. Het gebruik van de vlag is niet vereist. Je kunt eenvoudig de ID-waarde opgeven als het eerste argument.</value>
+  </data>
+  <data name="Prompt_GetModule_FlagPageId.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>De pagina-ID van de pagina die de module bevat.</value>
+  </data>
+  <data name="Prompt_GetModule_Result.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>Module '{0}' is gevonden op pagina '{1}'.</value>
+  </data>
+  <data name="Prompt_GetPortal_Found.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Portal '{0}' is gevonden.</value>
+  </data>
+  <data name="Prompt_GetPortal_NoArgs.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>De opdracht get-portal kent geen argumenten of vlaggen.</value>
+  </data>
+  <data name="Prompt_GetPortal_NotFound.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Kon geen site vinden met ID van '{0}'</value>
+  </data>
+  <data name="Prompt_GetSite_Description.Text" xml:space="preserve" lastModified="2021-09-05 19:25:01">
+    <value>Haalt basisinformatie op over de huidige site of opgegeven site</value>
+  </data>
+  <data name="Prompt_GetSite_FlagId.Text" xml:space="preserve" lastModified="2021-09-05 19:25:01">
+    <value>Site-ID om informatie te krijgen. Alleen een applicatiebeheerder kan informatie krijgen van andere sites dan de huidige.</value>
+  </data>
+  <data name="Prompt_Help_Command.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Commando</value>
+  </data>
+  <data name="Prompt_Help_Commands.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Commando's</value>
+  </data>
+  <data name="Prompt_Help_Description.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Beschrijving</value>
+  </data>
+  <data name="Prompt_Help_Learn.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Prompt commando's leren</value>
+  </data>
+  <data name="Prompt_Help_ListOfAvailableMsg.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Hier is een lijst met beschikbare opdrachten voor Prompt.</value>
+  </data>
+  <data name="Prompt_Help_PromptCommands.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Prompt commando's</value>
+  </data>
+  <data name="Prompt_Help_SeeAlso.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Zie ook</value>
+  </data>
+  <data name="Prompt_Help_Syntax.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Overzicht/basis syntax</value>
+  </data>
+  <data name="Prompt_HostCategory.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Applicatiebeheerder commando's</value>
+  </data>
+  <data name="Prompt_InsufficientPermissions.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Je hebt onvoldoende rechten om deze bewerking uit te voeren.</value>
+  </data>
+  <data name="Prompt_InvalidData.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Je hebt incorrecte data opgegeven, deze kan niet worden verwerkt.</value>
+  </data>
+  <data name="Prompt_InvalidSyntax.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Ongeldige syntax.</value>
+  </data>
+  <data name="Prompt_ListCommands__H_Category.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Categorie</value>
+  </data>
+  <data name="Prompt_ListCommands_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:49:49">
+    <value>Toont alle opdrachten.</value>
+  </data>
+  <data name="Prompt_ListCommands_Error.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Er is een fout opgetreden tijdens een poging om de opdrachten weer te geven.</value>
+  </data>
+  <data name="Prompt_ListCommands_Found.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Er zijn {0} commando's gevonden.</value>
+  </data>
+  <data name="Prompt_ListCommands_H_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Beschrijving</value>
+  </data>
+  <data name="Prompt_ListCommands_H_Name.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Naam</value>
+  </data>
+  <data name="Prompt_ListCommands_H_Version.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Versie</value>
+  </data>
+  <data name="Prompt_ListModules_Description.Text" xml:space="preserve" lastModified="2021-09-05 19:25:01">
+    <value>Haalt een lijst met modules op op basis van de zoekcriteria</value>
+  </data>
+  <data name="Prompt_ListModules_FlagDeleted.Text" xml:space="preserve" lastModified="2021-09-05 19:25:01">
+    <value>Indien opgegeven, vindt de opdracht alle module-exemplaren in de site die zich in de prullenbak bevinden (if &lt;span class="mono"&gt;--deleted&lt;/span&gt; is true), or all module instances &lt;em&gt;not&lt;/em&gt; in the Recycle Bin (if &lt;span class="mono"&gt;--deleted&lt;/span&gt; Als de vlag is opgegeven, maar er geen waarde wordt opgegeven, wordt deze standaard true. Deze vlag kan worden gebruikt met --name en --title om de resultaten verder te verfijnen.</value>
+  </data>
+  <data name="Prompt_ListModules_FlagMax.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>Paginagrootte voor de pagina. Max is 500.</value>
+  </data>
+  <data name="Prompt_ListModules_FlagModuleName.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>De naam van de module waarnaar moet worden gezocht. Hiermee wordt het jokerteken (*) aanvaard om gedeeltelijke zoekopdrachten uit te voeren. De modulenaam is niet hetzelfde als de beschrijvende naam van de module of de titel van de module. Als je de modulenaam wilt vinden, &lt;code&gt;list-modules&lt;/code&gt; op een pagina met de module. Zoekopdrachten zijn hoofdletterongevoelig.</value>
+  </data>
+  <data name="Prompt_ListModules_FlagModuleTitle.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>De titel van de module waarnaar moet worden gezocht. Dit accepteert jokerteken (*) tijdelijke aanduidingen die 0 of meer tekens vertegenwoordigen. Zoekopdrachten zijn hoofdletterongevoelig.</value>
+  </data>
+  <data name="Prompt_ListModules_FlagPage.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>Paginanummer om records weer te geven.</value>
+  </data>
+  <data name="Prompt_ListModules_FlagPageId.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>Als deze opdracht is opgegeven, worden alleen modules van de opgegeven pagina weergegeven. Het gebruik van de vlag is niet vereist. Je kunt eenvoudig de ID-waarde opgeven als het eerste argument.</value>
+  </data>
+  <data name="Prompt_ListPortals_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:49:49">
+    <value>Haalt een lijst met sites op voor de huidige DNN-installatie</value>
+  </data>
+  <data name="Prompt_ListPortals_NoArgs.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>De opdracht list-portal neemt geen argumenten of vlaggen aan</value>
+  </data>
+  <data name="Prompt_ListPortals_Results.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>'{0}' Site {1} gevonden.</value>
+  </data>
+  <data name="Prompt_ListServices_Unauthorized.Text" xml:space="preserve" lastModified="2020-09-30 16:58:26">
+    <value>Je bent niet geautoriseerd om deze functionaliteit te gebruiken.</value>
+  </data>
+  <data name="Prompt_ModuleAdded.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>Toevoegen van {0} nieuwe module {1} is gelukt</value>
+  </data>
+  <data name="Prompt_ModuleCopied.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>De module is succesvol gekopieerd</value>
+  </data>
+  <data name="Prompt_ModuleDeleted.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>De module is succesvol verwijderd</value>
+  </data>
+  <data name="Prompt_ModuleMoved.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>De module is succesvol verplaatst</value>
+  </data>
+  <data name="Prompt_ModuleNotFound.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Kan de module met id {0} op pagina {1} niet vinden</value>
+  </data>
+  <data name="Prompt_ModulesCategory.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Module commando's</value>
+  </data>
+  <data name="Prompt_MoveModule_FlagPageId.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>De pagina-ID van de pagina met de module die je wilt kopiëren.</value>
+  </data>
+  <data name="Prompt_MoveModule_FlagPane.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>Geef het deelvenster op waarin de module moet worden verplaatst. Indien niet opgegeven, wordt de module verplaatst naar ContentPane.</value>
+  </data>
+  <data name="Prompt_MoveModule_FlagToPageId.Text" xml:space="preserve" lastModified="2021-09-04 19:43:44">
+    <value>De pagina-ID van de doelpagina. De pagina waarnaar je de module wilt kopiëren.</value>
+  </data>
+  <data name="Prompt_NoModule.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Geen module gevonden met id {0}</value>
+  </data>
+  <data name="Prompt_NoModules.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Geen modules gevonden.</value>
+  </data>
+  <data name="Prompt_NoModulesAdded.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>Er zijn geen modules toegevoegd</value>
+  </data>
+  <data name="Prompt_NotAuthorized.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Je bent niet gemachtigd om deze bron te benaderen. Misschien ben je automatisch uitgelogd?</value>
+  </data>
+  <data name="Prompt_NotImplemented.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Deze functionaliteit is nog niet geïmplementeerd</value>
+  </data>
+  <data name="Prompt_Options.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Opties</value>
+  </data>
+  <data name="Prompt_PageNotFound.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Kan de doelpagina niet laden. Geen pagina in de site gevonden met ID '{0}'</value>
+  </data>
+  <data name="Prompt_PagingMessage.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Pagina {0} van {1}.</value>
+  </data>
+  <data name="Prompt_PagingMessageWithLoad.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Pagina {0} van {1}. Druk op een willekeurige toets om de volgende pagina te laden. Druk op Ctrl + X om te eindigen.</value>
+  </data>
+  <data name="Prompt_PortalCategory.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Site commando's</value>
+  </data>
+  <data name="Prompt_Reload_Description.Text" xml:space="preserve" lastModified="2021-09-05 19:28:13">
+    <value>Laadt de huidige pagina opnieuw</value>
+  </data>
+  <data name="Prompt_Required.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Vereist</value>
+  </data>
+  <data name="Prompt_RestartApplication_Description.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Initiëert een herstart van de applicatie en herlaadt de pagina</value>
+  </data>
+  <data name="Prompt_ServerError.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>De server heeft een probleem ervaren waardoor de bewerking niet kon worden uitgevoerd. Probeer het later nog een keer.</value>
+  </data>
+  <data name="Prompt_SessionTimedOut.Text" xml:space="preserve" lastModified="2020-09-29 11:46:46">
+    <value>Je sessie heeft misschien een time-out. Log opnieuw in.</value>
+  </data>
+  <data name="Prompt_SetMode_Description.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Hiermee stel je de DNN-weergavemodus in. Dit heeft hetzelfde effect als klikken op de juiste opties in de DNN-besturingsbalk.</value>
+  </data>
+  <data name="Prompt_SourceAndTargetPagesAreSame.Text" xml:space="preserve" lastModified="2020-09-29 11:55:47">
+    <value>De bron pagina ID en de doelpagina ID moet verschillen.</value>
+  </data>
+  <data name="Prompt_Type.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>Soort</value>
+  </data>
+  <data name="Prompt_UserRestart.Text" xml:space="preserve" lastModified="2020-09-29 12:04:04">
+    <value>De gebruiker heeft een applicatieherstart gestart.</value>
+  </data>
+  <data name="Prompt_UserRestart_Error.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>Er is een fout opgetreden tijdens een poging om de toepassing opnieuw op te starten.</value>
+  </data>
+  <data name="Prompt_UserRestart_Success.Text" xml:space="preserve" lastModified="2021-09-04 19:47:25">
+    <value>De toepassing is opnieuw gestart</value>
+  </data>
+  <data name="Prompt_ClearCache_ResultHtml.Text">
+    <value>   &lt;code class="block"&gt;
+      clear-cache
+    &lt;/code&gt;
+    &lt;h4 _msttexthash="160251" _msthash="3"&gt;Resultaten&lt;/h4&gt;
+    &lt;table class="command-result-tbl"&gt;
+      &lt;tbody&gt;&lt;tr&gt;&lt;td _msttexthash="180557" _msthash="4"&gt;Cache gewist&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td _msttexthash="402142" _msthash="5"&gt;Herladen in 3 seconden&lt;/td&gt;&lt;/tr&gt;
+    &lt;/tbody&gt;&lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_ClearLog_ResultHtml.Text">
+    <value>&lt;code class="block"&gt;
+      clear-log
+    &lt;/code&gt;
+    &lt;h4 _msttexthash="160251" _msthash="6"&gt;Resultaten&lt;/h4&gt;
+    &lt;table class="command-result-tbl"&gt;
+      &lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;em&gt;[Event Log Cleared]&lt;/em&gt;&lt;/td&gt;&lt;/tr&gt;
+    &lt;/tbody&gt;&lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_CommandHelpSyntax.Text">
+    <value>&lt;section class="dnn-prompt-inline-help"&gt;
+  &lt;h3 _msttexthash="235352" _msthash="7"&gt;Basis Syntaxis&lt;/h3&gt;
+  &lt;p&gt;
+    &lt;font _mstmutation="1" _msttexthash="68375177" _msthash="8"&gt;&lt;em _mstmutation="1" _istranslated="1"&gt;Prompt&lt;/em&gt; werkt op een manier die vergelijkbaar is met een Terminal, Bash-shell, Windows CMD-shell of Powershell. Je voert een opdracht in en drukt op en de computer reageert met een resultaat. Voor heel eenvoudige commando's zoals of , dat is alles wat je nodig hebt. Voor sommige opdrachten zijn echter mogelijk aanvullende gegevens vereist of kun je extra opties bieden. &lt;/font&gt;&lt;code&gt;ENTER&lt;/code&gt;&lt;code&gt;help&lt;/code&gt;&lt;code&gt;list-modules&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;font _mstmutation="1" _msttexthash="106605395" _msthash="9"&gt; Een doel of context voor een opdracht opgeven: voor opdrachten die worden uitgevoerd op een object zoals een gebruiker, of waarvoor een context zoals een pagina nodig is, geef je die informatie gewoon op na de opdracht. Als je bijvoorbeeld de gebruiker &lt;em _mstmutation="1" _istranslated="1"&gt;jsmith&lt;/em&gt; wilt vinden met behulp van de opdracht, typ je: gevolgd door de sleutel om deze in te dienen. Als je vlaggen opgeeft (zie de volgende paragraaf), moeten deze &lt;em _mstmutation="1" _istranslated="1"&gt;altijd na&lt;/em&gt; het doel/de context van het commando komen. &lt;/font&gt;&lt;code&gt;get-user&lt;/code&gt;&lt;code&gt;get-user jsmith&lt;/code&gt;&lt;code&gt;ENTER&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;font _mstmutation="1" _msttexthash="134135729" _msthash="10"&gt; Opties voor opdrachten opgeven: Voor sommige opdrachten zijn nog meer gegevens vereist of kun je optionele configuratie-informatie opgeven. In &lt;em _mstmutation="1" _istranslated="1"&gt;Prompt&lt;/em&gt; noemen we deze 'vlaggen'. Deze moeten &lt;em _mstmutation="1" _istranslated="1"&gt;komen na&lt;/em&gt; elk doel/context die nodig is voor het commando (zie bovenstaande paragraaf) en &lt;em _mstmutation="1" _istranslated="1"&gt;moeten&lt;/em&gt; worden voorafgegaan door twee koppeltekens of streepjes (). Er mogen geen spaties zijn tussen de streepjes en er mag geen spaties zijn tussen de streepjes en de naam van de vlag. Als de vlag een waarde vereist, voeg je die toe na de vlag. &lt;/font&gt;&lt;code&gt;--&lt;/code&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;font _mstmutation="1" _msttexthash="31424523" _msthash="11"&gt; Als voorbeeld van het gebruik van vlaggen neem je de opdracht. Standaard geef je de gebruikersnaam op van de gebruiker die je wilt zoeken. Je kunt echter ook zoeken op hun e-mailadres. In dat geval zou je de vlag gebruiken. Hier is hoe je het zou gebruiken: &lt;/font&gt;&lt;code&gt;get-user&lt;/code&gt;&lt;code&gt;--email&lt;/code&gt;&lt;/p&gt;
+  &lt;code class="block"&gt;
+    get-user --email jsmith@sample.com
+  &lt;/code&gt;
+  &lt;p _msttexthash="6807151" _msthash="12"&gt; Als de waarde van een vlag meer dan één woord is, sluit deze dan tussen dubbele aanhalingstekens in, zoals hier: &lt;/p&gt;
+  &lt;code class="block"&gt;
+    set-page --title "Mijn pagina"
+  &lt;/code&gt;
+
+  &lt;h4 _msttexthash="77922" _msthash="13"&gt;Zie ook&lt;/h4&gt;
+  &lt;font _mstmutation="1" _msttexthash="852007" _msthash="14"&gt;&lt;a data-cmd="help learn" class="dnn-prompt-cmd-insert" href="#" _mstmutation="1" _istranslated="1"&gt;Lijst met promptopdrachten leren&lt;/a&gt;&lt;/font&gt;
+
+&lt;/section&gt;</value>
+  </data>
+  <data name="Prompt_CopyModule_ResultHtml.Text">
+    <value>&lt;h4 _msttexthash="1565252" _msthash="15"&gt;Kopieer een module van de ene pagina naar de andere&lt;/h4&gt;
+    &lt;p _msttexthash="13659477" _msthash="16"&gt;Met deze opdracht wordt een kopie gemaakt van de module met module-ID 358 op de pagina met pagina-ID 71 en wordt die kopie op de pagina met een pagina-ID van 75 geplaatst&lt;/p&gt;
+    &lt;code class="block"&gt;copy-module 358 --pageid 71 --topageid 75&lt;/code&gt;
+
+    &lt;h4 _msttexthash="160251" _msthash="17"&gt;Resultaten&lt;/h4&gt;
+    &lt;table class="command-result-tbl"&gt;
+      &lt;tbody&gt;&lt;tr&gt;
+        &lt;td _msttexthash="107198" _msthash="18"&gt;ModuleId&lt;/td&gt;
+        &lt;td _msttexthash="5278" _msthash="19"&gt;:&lt;/td&gt;
+        &lt;td _msttexthash="16705" _msthash="20"&gt;358&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td _msttexthash="60710" _msthash="21"&gt;Titel&lt;/td&gt;
+        &lt;td _msttexthash="5278" _msthash="22"&gt;:&lt;/td&gt;
+        &lt;td _msttexthash="157794" _msthash="23"&gt;Mijn module&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td _msttexthash="154492" _msthash="24"&gt;Modulenaam&lt;/td&gt;
+        &lt;td _msttexthash="5278" _msthash="25"&gt;:&lt;/td&gt;
+        &lt;td _msttexthash="86021" _msthash="26"&gt;DNN_HTML&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td _msttexthash="313001" _msthash="27"&gt;Vriendelijke naam&lt;/td&gt;
+        &lt;td _msttexthash="5278" _msthash="28"&gt;:&lt;/td&gt;
+        &lt;td _msttexthash="34177" _msthash="29"&gt;HTML&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td _msttexthash="163709" _msthash="30"&gt;ModuleDefId&lt;/td&gt;
+        &lt;td _msttexthash="5278" _msthash="31"&gt;:&lt;/td&gt;
+        &lt;td _msttexthash="15275" _msthash="32"&gt;120&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td _msttexthash="167089" _msthash="33"&gt;TabModuleId&lt;/td&gt;
+        &lt;td _msttexthash="5278" _msthash="34"&gt;:&lt;/td&gt;
+        &lt;td _msttexthash="15886" _msthash="35"&gt;107&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td _msttexthash="447031" _msthash="36"&gt;ToegevoegdAanPagina's&lt;/td&gt;
+        &lt;td _msttexthash="5278" _msthash="37"&gt;:&lt;/td&gt;
+        &lt;td _msttexthash="29978" _msthash="38"&gt;71, 75&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td colspan="3" _msttexthash="865735" _msthash="39"&gt;De module is succesvol gekopieerd.&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;&lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_GetHost_ResultHtml.Text">
+    <value>&lt;h4 _msttexthash="1589419" _msthash="40"&gt;Krijg informatie over de huidige DNN-installatie&lt;/h4&gt;
+  &lt;code class="block"&gt;
+    get-host
+  &lt;/code&gt;
+  &lt;h4 _msttexthash="160251" _msthash="41"&gt;Resultaten&lt;/h4&gt;
+  &lt;table class="command-result-tbl"&gt;
+    &lt;tbody&gt;&lt;tr&gt;
+      &lt;td _msttexthash="96902" _msthash="42"&gt;Product&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="43"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="193323" _msthash="44"&gt;DNN-platform&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="77389" _msthash="45"&gt;Versie&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="46"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="72384" _msthash="47"&gt;9.0.0.1002&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="367458" _msthash="48"&gt;UpgradeBeschikbaar&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="49"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="47086" _msthash="50"&gt;waar&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="58045" _msthash="51"&gt;Kader&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="52"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="15834" _msthash="53"&gt;4.6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="102921" _msthash="54"&gt;IP-adres&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="55"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="389259" _msthash="56"&gt;FE80::A952:8263:D357:AB90%5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="202618" _msthash="57"&gt;Machtigingen&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="58"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="2750280" _msthash="59"&gt;ReflectionPermission, WebPermission, AspNetHostingPermission&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="92859" _msthash="60"&gt;Ligging&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="61"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="227357" _msthash="62"&gt;dnnprompt.com&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="60710" _msthash="63"&gt;Titel&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="64"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="84721" _msthash="65"&gt;DNN Corp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="133744" _msthash="66"&gt;Naamgever&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="67"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="656279" _msthash="68"&gt;http://www.dnnsoftware.com&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="68185" _msthash="69"&gt;E-mail&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="70"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="483899" _msthash="71"&gt;support@dnnprompt.com&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="58318" _msthash="72"&gt;Thema&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="73"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="373282" _msthash="74"&gt;Zwaartekracht (2-Col)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="135044" _msthash="75"&gt;Container&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="76"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="499577" _msthash="77"&gt;Zwaartekracht (Title_h2)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="230191" _msthash="78"&gt;Thema bewerken&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="79"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="373282" _msthash="80"&gt;Zwaartekracht (2-Col)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="351169" _msthash="81"&gt;Container bewerken&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="82"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="499577" _msthash="83"&gt;Zwaartekracht (Title_h2)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="180817" _msthash="84"&gt;PortalCount&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="85"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="4459" _msthash="86"&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;&lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_GetModule_ResultHtml.Text">
+    <value>&lt;h4 _msttexthash="1463137" _msthash="87"&gt;Informatie krijgen over een specifieke module&lt;/h4&gt;
+        &lt;p _msttexthash="4759820" _msthash="88"&gt;De onderstaande code haalt de details op voor een module waarvan de module-ID 345 is op pagina 48&lt;/p&gt;
+        &lt;code class="block"&gt;get-module 359 --pageid 48&lt;/code&gt;
+        &lt;p _msttexthash="5877014" _msthash="89"&gt;De volgende versie is een meer expliciete versie van de code hierboven, maar doet hetzelfde op pagina 48.&lt;/p&gt;
+        &lt;code class="block"&gt;get-module --id 359 --pageid 48&lt;/code&gt;
+
+        &lt;h4 _msttexthash="160251" _msthash="90"&gt;Resultaten&lt;/h4&gt;
+        &lt;table class="command-result-tbl"&gt;
+            &lt;tbody&gt;&lt;tr&gt;
+                &lt;td _msttexthash="107198" _msthash="91"&gt;ModuleId&lt;/td&gt;
+                &lt;td _msttexthash="5278" _msthash="92"&gt;:&lt;/td&gt;
+                &lt;td _msttexthash="16822" _msthash="93"&gt;359&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td _msttexthash="60710" _msthash="94"&gt;Titel&lt;/td&gt;
+                &lt;td _msttexthash="5278" _msthash="95"&gt;:&lt;/td&gt;
+                &lt;td _msttexthash="132912" _msthash="96"&gt;Navigatie&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td _msttexthash="154492" _msthash="97"&gt;Modulenaam&lt;/td&gt;
+                &lt;td _msttexthash="5278" _msthash="98"&gt;:&lt;/td&gt;
+                &lt;td _msttexthash="118547" _msthash="99"&gt;Troosten&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td _msttexthash="313001" _msthash="100"&gt;Vriendelijke naam&lt;/td&gt;
+                &lt;td _msttexthash="5278" _msthash="101"&gt;:&lt;/td&gt;
+                &lt;td _msttexthash="118547" _msthash="102"&gt;Troosten&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td _msttexthash="163709" _msthash="103"&gt;ModuleDefId&lt;/td&gt;
+                &lt;td _msttexthash="5278" _msthash="104"&gt;:&lt;/td&gt;
+                &lt;td _msttexthash="15301" _msthash="105"&gt;102&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td _msttexthash="167089" _msthash="106"&gt;TabModuleId&lt;/td&gt;
+                &lt;td _msttexthash="5278" _msthash="107"&gt;:&lt;/td&gt;
+                &lt;td _msttexthash="10556" _msthash="108"&gt;48&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td _msttexthash="447031" _msthash="109"&gt;ToegevoegdAanPagina's&lt;/td&gt;
+                &lt;td _msttexthash="5278" _msthash="110"&gt;:&lt;/td&gt;
+                &lt;td _msttexthash="86996" _msthash="111"&gt;42, 46, 47, 48&lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/tbody&gt;&lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_GetPortal_Description.Text">
+    <value>Haalt basisinformatie op over het huidige portaal of het opgegeven portaal</value>
+  </data>
+  <data name="Prompt_GetPortal_FlagId.Text">
+    <value>Portal-ID om informatie op te halen. Alleen de host kan informatie krijgen over andere portals dan de huidige.</value>
+  </data>
+  <data name="Prompt_GetPortal_ResultHtml.Text">
+    <value>&lt;h4 _msttexthash="1224418" _msthash="114"&gt;Krijg informatie over het huidige portaal&lt;/h4&gt;
+  &lt;code class="block"&gt;
+    get-portal
+  &lt;/code&gt;
+  &lt;h4 _msttexthash="160251" _msthash="115"&gt;Resultaten&lt;/h4&gt;
+  &lt;table class="command-result-tbl"&gt;
+    &lt;tbody&gt;&lt;tr&gt;
+      &lt;td _msttexthash="131066" _msthash="116"&gt;Portaal-ID&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="117"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="4368" _msthash="118"&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="94497" _msthash="119"&gt;Portaal&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="120"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="280189" _msthash="121"&gt;dnnsoftware.com&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="130078" _msthash="122"&gt;CdfVersie&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="123"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="9191" _msthash="124"&gt;-1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="280917" _msthash="125"&gt;Registratie Mode&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="126"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="202228" _msthash="127"&gt;Geverifieerd&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="436579" _msthash="128"&gt;StandaardPortalAlias&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="129"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="280189" _msthash="130"&gt;dnnsoftware.com&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="239720" _msthash="131"&gt;Aantal pagina's&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="132"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="10049" _msthash="133"&gt;34&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="320411" _msthash="134"&gt;Aantal gebruikers&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="135"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="4823" _msthash="136"&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="129233" _msthash="137"&gt;SiteThema&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="138"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="287547" _msthash="139"&gt;Xcillion (binnen)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="247780" _msthash="140"&gt;Beheerder Thema&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="141"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="373438" _msthash="142"&gt;Xcillion (Beheerder)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="135044" _msthash="143"&gt;Container&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="144"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="371826" _msthash="145"&gt;Xcillion (GeenTitel)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="254007" _msthash="146"&gt;AdminContainer&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="147"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="327210" _msthash="148"&gt;Xcillion (Title_h2)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="43121" _msthash="149"&gt;Taal&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="150"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="47515" _msthash="151"&gt;nl-NL&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;&lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_GetSite_ResultHtml.Text">
+    <value>&lt;h4 _msttexthash="1224418" _msthash="152"&gt;Krijg informatie over het huidige portaal&lt;/h4&gt;
+  &lt;code class="block"&gt;
+    get-portal
+  &lt;/code&gt;
+  &lt;h4 _msttexthash="160251" _msthash="153"&gt;Resultaten&lt;/h4&gt;
+  &lt;table class="command-result-tbl"&gt;
+    &lt;tbody&gt;&lt;tr&gt;
+      &lt;td _msttexthash="131066" _msthash="154"&gt;Portaal-ID&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="155"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="4368" _msthash="156"&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="94497" _msthash="157"&gt;Portaal&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="158"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="280189" _msthash="159"&gt;dnnsoftware.com&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="130078" _msthash="160"&gt;CdfVersie&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="161"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="9191" _msthash="162"&gt;-1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="280917" _msthash="163"&gt;Registratie Mode&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="164"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="202228" _msthash="165"&gt;Geverifieerd&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="436579" _msthash="166"&gt;StandaardPortalAlias&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="167"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="280189" _msthash="168"&gt;dnnsoftware.com&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="239720" _msthash="169"&gt;Aantal pagina's&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="170"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="10049" _msthash="171"&gt;34&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="320411" _msthash="172"&gt;Aantal gebruikers&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="173"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="4823" _msthash="174"&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="129233" _msthash="175"&gt;SiteThema&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="176"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="287547" _msthash="177"&gt;Xcillion (binnen)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="247780" _msthash="178"&gt;Beheerder Thema&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="179"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="373438" _msthash="180"&gt;Xcillion (Beheerder)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="135044" _msthash="181"&gt;Container&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="182"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="371826" _msthash="183"&gt;Xcillion (GeenTitel)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="254007" _msthash="184"&gt;AdminContainer&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="185"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="327210" _msthash="186"&gt;Xcillion (Title_h2)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td _msttexthash="43121" _msthash="187"&gt;Taal&lt;/td&gt;
+      &lt;td _msttexthash="5278" _msthash="188"&gt;:&lt;/td&gt;
+      &lt;td _msttexthash="47515" _msthash="189"&gt;nl-NL&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;&lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_ListCommands_ResultHtml.Text">
+    <value>&lt;h4&gt;&lt;/h4&gt;</value>
+  </data>
+  <data name="Prompt_ListModules_ResultHtml.Text">
+    <value>&lt;h4 _msttexthash="1166789" _msthash="190"&gt;Modules in het huidige portaal weergeven&lt;/h4&gt;
+        &lt;code class="block"&gt;list-modules&lt;/code&gt;
+
+        &lt;h4 _msttexthash="1100281" _msthash="191"&gt;Modules op specifieke pagina weergeven&lt;/h4&gt;
+        &lt;code class="block"&gt;list-modules 72&lt;/code&gt;
+
+        &lt;h4 _msttexthash="1736410" _msthash="192"&gt;Modules weergeven die zijn gefilterd op modulenaam&lt;/h4&gt;
+        &lt;p _msttexthash="4053842" _msthash="193"&gt;Hiermee worden alle XMod- en XMod Pro-modules in het huidige portaal geretourneerd&lt;/p&gt;
+        &lt;code class="block"&gt;list-modules --name XMod*&lt;/code&gt;
+
+        &lt;h4 _msttexthash="2893085" _msthash="194"&gt;Modules op een specifieke pagina weergeven, gefilterd op modulenaam&lt;/h4&gt;
+        &lt;p _msttexthash="3522532" _msthash="195"&gt;Dit geeft alle XMod en XMod Pro modules terug op de pagina met een Page/TabId van 72&lt;/p&gt;
+        &lt;code class="block"&gt;list-modules 72 --name XMod*&lt;/code&gt;
+
+        &lt;h4 _msttexthash="2030639" _msthash="196"&gt;Maak een lijst van alle modules gefilterd op naam en titel&lt;/h4&gt;
+        &lt;p _msttexthash="9308884" _msthash="197"&gt;Hiermee worden alle modules in de portal geretourneerd waarvan de modulenaam begint met site &lt;strong _istranslated="1"&gt;en&lt;/strong&gt; de titel begint met configureren.&lt;/p&gt;
+        &lt;code class="block"&gt;list-modules --title Configure* --name Site*&lt;/code&gt;
+        &lt;h4 _msttexthash="186498" _msthash="198"&gt;Retourneert&lt;/h4&gt;
+        &lt;table class="command-result-tbl"&gt;
+            &lt;thead&gt;
+                &lt;tr&gt;
+                    &lt;th _msttexthash="107198" _msthash="199"&gt;ModuleId&lt;/th&gt;
+                    &lt;th _msttexthash="60710" _msthash="200"&gt;Titel&lt;/th&gt;
+                    &lt;th _msttexthash="154492" _msthash="201"&gt;Modulenaam&lt;/th&gt;
+                    &lt;th _msttexthash="313001" _msthash="202"&gt;Vriendelijke naam&lt;/th&gt;
+                    &lt;th _msttexthash="163709" _msthash="203"&gt;ModuleDefId&lt;/th&gt;
+                    &lt;th _msttexthash="167089" _msthash="204"&gt;TabModuleId&lt;/th&gt;
+                    &lt;th _msttexthash="447031" _msthash="205"&gt;ToegevoegdAanPagina's&lt;/th&gt;
+                &lt;/tr&gt;
+            &lt;/thead&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td _msttexthash="16653" _msthash="206"&gt;394&lt;/td&gt;
+                    &lt;td _msttexthash="3503071" _msthash="207"&gt;Configureer portaalinstellingen, pagina-ontwerp en pas een sjabloon toe...&lt;/td&gt;
+                    &lt;td _msttexthash="155298" _msthash="208"&gt;SiteWizard&lt;/td&gt;
+                    &lt;td _msttexthash="299416" _msthash="209"&gt;Wizard voor sites&lt;/td&gt;
+                    &lt;td _msttexthash="10920" _msthash="210"&gt;88&lt;/td&gt;
+                    &lt;td _msttexthash="10712" _msthash="211"&gt;86&lt;/td&gt;
+                    &lt;td _msttexthash="10322" _msthash="212"&gt;64&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td _msttexthash="16770" _msthash="213"&gt;395&lt;/td&gt;
+                    &lt;td _msttexthash="3128905" _msthash="214"&gt;Configureer de sitemap voor indiening bij veelgebruikte zoekmachines&lt;/td&gt;
+                    &lt;td _msttexthash="94822" _msthash="215"&gt;Sitemap&lt;/td&gt;
+                    &lt;td _msttexthash="94822" _msthash="216"&gt;Sitemap&lt;/td&gt;
+                    &lt;td _msttexthash="15769" _msthash="217"&gt;106&lt;/td&gt;
+                    &lt;td _msttexthash="10816" _msthash="218"&gt;87&lt;/td&gt;
+                    &lt;td _msttexthash="10426" _msthash="219"&gt;65&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;h4 _msttexthash="1963585" _msthash="220"&gt;Maak een lijst van alle verwijderde modules in de portal&lt;/h4&gt;
+        &lt;p _msttexthash="2546570" _msthash="221"&gt;Hiermee worden alle modules in de DNN-Prullenbak geretourneerd.&lt;/p&gt;
+        &lt;code class="block"&gt;list-modules --deleted&lt;/code&gt;
+        &lt;h4 _msttexthash="186498" _msthash="222"&gt;Retourneert&lt;/h4&gt;
+        &lt;table class="command-result-tbl"&gt;
+            &lt;thead&gt;
+                &lt;tr&gt;
+                    &lt;th _msttexthash="107198" _msthash="223"&gt;ModuleId&lt;/th&gt;
+                    &lt;th _msttexthash="60710" _msthash="224"&gt;Titel&lt;/th&gt;
+                    &lt;th _msttexthash="45240" _msthash="225"&gt;Is er&lt;/th&gt;
+                    &lt;th _msttexthash="154492" _msthash="226"&gt;Modulenaam&lt;/th&gt;
+                    &lt;th _msttexthash="313001" _msthash="227"&gt;Vriendelijke naam&lt;/th&gt;
+                    &lt;th _msttexthash="163709" _msthash="228"&gt;ModuleDefId&lt;/th&gt;
+                    &lt;th _msttexthash="167089" _msthash="229"&gt;TabModuleId&lt;/th&gt;
+                    &lt;th _msttexthash="128375" _msthash="230"&gt;IsDeleted&lt;/th&gt;
+                    &lt;th _msttexthash="52988" _msthash="231"&gt;TabId&lt;/th&gt;
+                &lt;/tr&gt;
+            &lt;/thead&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td _msttexthash="16705" _msthash="232"&gt;358&lt;/td&gt;
+                    &lt;td _msttexthash="176605" _msthash="233"&gt;Thuis Banner&lt;/td&gt;
+                    &lt;td _msttexthash="348478" _msthash="234"&gt;Deelvenster Inhoud&lt;/td&gt;
+                    &lt;td _msttexthash="86021" _msthash="235"&gt;DNN_HTML&lt;/td&gt;
+                    &lt;td _msttexthash="34177" _msthash="236"&gt;HTML&lt;/td&gt;
+                    &lt;td _msttexthash="15275" _msthash="237"&gt;120&lt;/td&gt;
+                    &lt;td _msttexthash="15769" _msthash="238"&gt;106&lt;/td&gt;
+                    &lt;td _msttexthash="47086" _msthash="239"&gt;waar&lt;/td&gt;
+                    &lt;td _msttexthash="10413" _msthash="240"&gt;74&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td _msttexthash="15444" _msthash="241"&gt;410&lt;/td&gt;
+                    &lt;td _msttexthash="488189" _msthash="242"&gt;Module die is gekopieerd&lt;/td&gt;
+                    &lt;td _msttexthash="348478" _msthash="243"&gt;Deelvenster Inhoud&lt;/td&gt;
+                    &lt;td _msttexthash="86021" _msthash="244"&gt;DNN_HTML&lt;/td&gt;
+                    &lt;td _msttexthash="34177" _msthash="245"&gt;HTML&lt;/td&gt;
+                    &lt;td _msttexthash="15275" _msthash="246"&gt;120&lt;/td&gt;
+                    &lt;td _msttexthash="15535" _msthash="247"&gt;104&lt;/td&gt;
+                    &lt;td _msttexthash="47086" _msthash="248"&gt;waar&lt;/td&gt;
+                    &lt;td _msttexthash="10101" _msthash="249"&gt;71&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+
+        &lt;h4 _msttexthash="2947958" _msthash="250"&gt;Maak een lijst van alle verwijderde modules gefilterd op naam en titel&lt;/h4&gt;
+        &lt;p _msttexthash="10706969" _msthash="251"&gt;Hiermee worden alle modules in de DNN-Prullenbak geretourneerd waarvan de modulenaam eindigt op 'HTML' en waarvan de moduletitel 'dat' bevat.&lt;/p&gt;
+        &lt;code class="block"&gt;list-modules --deleted --name *HTML --title *that*&lt;/code&gt;
+        &lt;h4 _msttexthash="186498" _msthash="252"&gt;Retourneert&lt;/h4&gt;
+        &lt;table class="command-result-tbl"&gt;
+            &lt;thead&gt;
+                &lt;tr&gt;
+                    &lt;th _msttexthash="107198" _msthash="253"&gt;ModuleId&lt;/th&gt;
+                    &lt;th _msttexthash="60710" _msthash="254"&gt;Titel&lt;/th&gt;
+                    &lt;th _msttexthash="45240" _msthash="255"&gt;Is er&lt;/th&gt;
+                    &lt;th _msttexthash="154492" _msthash="256"&gt;Modulenaam&lt;/th&gt;
+                    &lt;th _msttexthash="313001" _msthash="257"&gt;Vriendelijke naam&lt;/th&gt;
+                    &lt;th _msttexthash="163709" _msthash="258"&gt;ModuleDefId&lt;/th&gt;
+                    &lt;th _msttexthash="167089" _msthash="259"&gt;TabModuleId&lt;/th&gt;
+                    &lt;th _msttexthash="128375" _msthash="260"&gt;IsDeleted&lt;/th&gt;
+                    &lt;th _msttexthash="52988" _msthash="261"&gt;TabId&lt;/th&gt;
+                &lt;/tr&gt;
+            &lt;/thead&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td _msttexthash="15444" _msthash="262"&gt;410&lt;/td&gt;
+                    &lt;td _msttexthash="488189" _msthash="263"&gt;Module die is gekopieerd&lt;/td&gt;
+                    &lt;td _msttexthash="348478" _msthash="264"&gt;Deelvenster Inhoud&lt;/td&gt;
+                    &lt;td _msttexthash="86021" _msthash="265"&gt;DNN_HTML&lt;/td&gt;
+                    &lt;td _msttexthash="34177" _msthash="266"&gt;HTML&lt;/td&gt;
+                    &lt;td _msttexthash="15275" _msthash="267"&gt;120&lt;/td&gt;
+                    &lt;td _msttexthash="15535" _msthash="268"&gt;104&lt;/td&gt;
+                    &lt;td _msttexthash="47086" _msthash="269"&gt;waar&lt;/td&gt;
+                    &lt;td _msttexthash="10101" _msthash="270"&gt;71&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_ListPortals_ResultHtml.Text">
+    <value>&lt;h4&gt;&lt;/h4&gt;</value>
+  </data>
+  <data name="Prompt_ListServices_ImplementationFactory.Text">
+    <value>&lt;em&gt; { Factory Method } &lt;/em&gt;</value>
+  </data>
+  <data name="Prompt_ListServices_ImplementationInstance.Text">
+    <value>&lt;em&gt; { Specific Instance } &lt;/em&gt;</value>
+  </data>
+  <data name="Prompt_ListServices_None.Text">
+    <value>&lt;em&gt; { None } &lt;/em&gt;</value>
+  </data>
+  <data name="Prompt_ListSites_Description.Text">
+    <value>Haalt een lijst met portals op voor de huidige DNN-installatie</value>
+  </data>
+  <data name="Prompt_ListSites_ResultHtml.Text">
+    <value>&lt;h4&gt;&lt;/h4&gt;</value>
+  </data>
+  <data name="Prompt_MoveModule_Description.Text">
+    <value>Verplaatst een module naar de opgegeven pagina</value>
+  </data>
+  <data name="Prompt_MoveModule_FlagId.Text">
+    <value>Specificeert expliciet de module-ID van de module die moet worden gekopieerd. Het gebruik van de vlag is niet vereist. Je kunt eenvoudig de ID-waarde als eerste argument opgeven.</value>
+  </data>
+  <data name="Prompt_MoveModule_ResultHtml.Text">
+    <value>&lt;h4 _msttexthash="1860469" _msthash="274"&gt;Een module van de ene pagina naar de andere verplaatsen&lt;/h4&gt;
+    &lt;p _msttexthash="12079873" _msthash="275"&gt;Met deze opdracht wordt de module met module-ID 358 op de pagina met pagina-ID 71 geplaatst en wordt de module op de pagina met een pagina-ID van 75 geplaatst&lt;/p&gt;
+    &lt;code class="block"&gt;move-module 358 --pageid 71 --topageid 75&lt;/code&gt;
+
+    &lt;h4 _msttexthash="160251" _msthash="276"&gt;Resultaten&lt;/h4&gt;
+    &lt;table class="command-result-tbl"&gt;
+      &lt;tbody&gt;&lt;tr&gt;
+        &lt;td _msttexthash="107198" _msthash="277"&gt;ModuleId&lt;/td&gt;
+        &lt;td _msttexthash="5278" _msthash="278"&gt;:&lt;/td&gt;
+        &lt;td _msttexthash="16705" _msthash="279"&gt;358&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td _msttexthash="60710" _msthash="280"&gt;Titel&lt;/td&gt;
+        &lt;td _msttexthash="5278" _msthash="281"&gt;:&lt;/td&gt;
+        &lt;td _msttexthash="157794" _msthash="282"&gt;Mijn module&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td _msttexthash="154492" _msthash="283"&gt;Modulenaam&lt;/td&gt;
+        &lt;td _msttexthash="5278" _msthash="284"&gt;:&lt;/td&gt;
+        &lt;td _msttexthash="86021" _msthash="285"&gt;DNN_HTML&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td _msttexthash="313001" _msthash="286"&gt;Vriendelijke naam&lt;/td&gt;
+        &lt;td _msttexthash="5278" _msthash="287"&gt;:&lt;/td&gt;
+        &lt;td _msttexthash="34177" _msthash="288"&gt;HTML&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td _msttexthash="163709" _msthash="289"&gt;ModuleDefId&lt;/td&gt;
+        &lt;td _msttexthash="5278" _msthash="290"&gt;:&lt;/td&gt;
+        &lt;td _msttexthash="15275" _msthash="291"&gt;120&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td _msttexthash="167089" _msthash="292"&gt;TabModuleId&lt;/td&gt;
+        &lt;td _msttexthash="5278" _msthash="293"&gt;:&lt;/td&gt;
+        &lt;td _msttexthash="15886" _msthash="294"&gt;107&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td _msttexthash="447031" _msthash="295"&gt;ToegevoegdAanPagina's&lt;/td&gt;
+        &lt;td _msttexthash="5278" _msthash="296"&gt;:&lt;/td&gt;
+        &lt;td _msttexthash="29978" _msthash="297"&gt;71, 75&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td colspan="3" _msttexthash="881439" _msthash="298"&gt;De module is succesvol verplaatst.&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;&lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_RestartApplication_ResultHtml.Text">
+    <value>&lt;h4 _msttexthash="160251" _msthash="0"&gt;Resultaten&lt;/h4&gt;
+    &lt;table class="command-result-tbl"&gt;
+      &lt;tbody&gt;&lt;tr&gt;&lt;td _msttexthash="714896" _msthash="1"&gt;Applicatie opnieuw opgestart&lt;/td&gt;&lt;/tr&gt;
+      &lt;tr&gt;&lt;td _msttexthash="402142" _msthash="2"&gt;Herladen in 3 seconden&lt;/td&gt;&lt;/tr&gt;
+    &lt;/tbody&gt;&lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_SetMode_FlagMode.Text">
+    <value>&lt;font _mstmutation="1" _msttexthash="608049" _msthash="301"&gt;Een van de drie weergavemodi&lt;/font&gt;: &lt;code&gt;edit&lt;/code&gt;, &lt;code&gt;layout&lt;/code&gt;, or &lt;code&gt;view&lt;/code&gt;. &lt;font _mstmutation="1" _msttexthash="7234123" _msthash="302"&gt;U hoeft niet op te geven
+ de &lt;span class="mono" _mstmutation="1" _istranslated="1"&gt;--mode&lt;/span&gt; vlag expliciet. Typ gewoon een van de waarden voor de weergavemodus na de opdracht.&lt;/font&gt;</value>
+  </data>
+  <data name="Prompt_SetMode_ResultHtml.Text">
+    <value>&lt;div&gt;
+    &lt;h4 _msttexthash="734331" _msthash="305"&gt;De DNN-weergavemodus wijzigen&lt;/h4&gt;
+    &lt;code class="block"&gt;
+      set-mode layout
+    &lt;/code&gt; OF&lt;code class="block"&gt;&amp;nbsp;set-mode view
+    &lt;/code&gt; OF&lt;code class="block"&gt;&amp;nbsp;set-mode edit
+    &lt;/code&gt;
+  &lt;/div&gt;</value>
+  </data>
+</root>

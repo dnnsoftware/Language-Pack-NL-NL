@@ -45,18 +45,6 @@
   <data name="Database.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
     <value>Database</value>
   </data>
-  <data name="DeleteFileDialogHeader.Text" xml:space="preserve" lastModified="2021-09-01 12:44:13">
-    <value>Bevestig verwijderen</value>
-  </data>
-  <data name="DeleteFileDialogMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
-    <value>Weet je zeker dat het bestand verwijderd kan worden?</value>
-  </data>
-  <data name="DeleteFolderDialogHeader.Text" xml:space="preserve" lastModified="2021-09-01 13:14:56">
-    <value>Bevestig verwijderen</value>
-  </data>
-  <data name="DeleteFolderDialogMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
-    <value>Weet je zeker dat de map verwijderd kan worden?</value>
-  </data>
   <data name="Description.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
     <value>Beschrijving</value>
   </data>
@@ -73,7 +61,7 @@
     <value> is te groot. De maximum toegelaten bestandsgrootte is</value>
   </data>
   <data name="FileUploadedMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
-    <value>Bestand geupload.</value>
+    <value>Bestand geüpload.</value>
   </data>
   <data name="FileUploadPanelMessage.Text" xml:space="preserve" lastModified="2021-09-01 12:52:27">
     <value>Sleep en laat een bestands los of selecteer een optie</value>
@@ -128,9 +116,6 @@
   </data>
   <data name="ManageFolderTypes.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
     <value>Beheer maptypes</value>
-  </data>
-  <data name="MoveItem.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
-    <value>Verplaats item</value>
   </data>
   <data name="Name.Text" xml:space="preserve" lastModified="2021-09-01 12:57:25">
     <value>Naam</value>
@@ -211,6 +196,147 @@
     <value>De gebruiker heeft geen rechten om de map te beheren</value>
   </data>
   <data name="UserHasNoPermissionToReadFileProperties.Error" xml:space="preserve" lastModified="2021-09-01 12:59:10">
-    <value>De gebruiker heeft geen rechten om de bestandseigenschappenm te zien</value>
+    <value>De gebruiker heeft geen rechten om de bestandseigenschappen te zien</value>
+  </data>
+  <data name="CollapseFolders.Text">
+    <value>Mappen samenvouwen</value>
+  </data>
+  <data name="ConfirmDeleteMessage.Text">
+    <value>Weet je zeker dat je de geselecteerde items wilt verwijderen?</value>
+  </data>
+  <data name="ConfirmMoveMessage.Text">
+    <value>Weet je zeker dat je de geselecteerde items wilt verplaatsen?</value>
+  </data>
+  <data name="ConfirmUnlinkMessage.Text">
+    <value>Weet je zeker dat je deze mappen wilt unlinken?</value>
+  </data>
+  <data name="CopyUrl.Text">
+    <value>Kopieer URL</value>
+  </data>
+  <data name="Delete.Text">
+    <value>Verwijderen</value>
+  </data>
+  <data name="DeleteItems.Text">
+    <value>Verwijder items</value>
+  </data>
+  <data name="DeletingItems.Text">
+    <value>Items verwijderen</value>
+  </data>
+  <data name="Download.Text">
+    <value>Downloaden</value>
+  </data>
+  <data name="Edit.Text">
+    <value>Bewerken</value>
+  </data>
+  <data name="EditFolderMappings.Text">
+    <value>Folder Mappings bewerken</value>
+  </data>
+  <data name="ExpandFolders.Text">
+    <value>Mappen uitvouwen</value>
+  </data>
+  <data name="ExtractUploads.Text">
+    <value>Geüploade ZIP files uitpakken</value>
+  </data>
+  <data name="FileId.Text">
+    <value>Bestands ID</value>
+  </data>
+  <data name="Files.Text">
+    <value>Bestanden</value>
+  </data>
+  <data name="FolderId.Text">
+    <value>Map ID</value>
+  </data>
+  <data name="Folders.Text">
+    <value>Mappen</value>
+  </data>
+  <data name="General.Text">
+    <value>Algemeen</value>
+  </data>
+  <data name="GlobalAssets.Text">
+    <value>Globale bestanden</value>
+  </data>
+  <data name="GroupAssets.Text">
+    <value>{0} bestanden</value>
+  </data>
+  <data name="Items.Text">
+    <value>Items</value>
+  </data>
+  <data name="MappedPath.Text">
+    <value>Mapped Path</value>
+  </data>
+  <data name="Move.Text">
+    <value>Verplaatsen</value>
+  </data>
+  <data name="MoveItems.Text">
+    <value>Verplaatse items</value>
+  </data>
+  <data name="MovingItems.Text">
+    <value>Items verplaatsen</value>
+  </data>
+  <data name="No.Text">
+    <value>Nee</value>
+  </data>
+  <data name="OpenFile.Text">
+    <value>Open</value>
+  </data>
+  <data name="Overwrite.Text">
+    <value>Overschrijven</value>
+  </data>
+  <data name="Permissions.Text">
+    <value>Machtigingen</value>
+  </data>
+  <data name="RolePermissions.Text">
+    <value>Rolmachtigingen</value>
+  </data>
+  <data name="SelectDestinationFolder.Text">
+    <value>Selecteer de doelmap</value>
+  </data>
+  <data name="SiteAssets.Text">
+    <value>Site bestanden</value>
+  </data>
+  <data name="Sort.Text">
+    <value>Sorteer</value>
+  </data>
+  <data name="SortField_CreatedOnDate.Text">
+    <value>Gemaakt op</value>
+  </data>
+  <data name="SortField_ItemName.Text">
+    <value>Naam</value>
+  </data>
+  <data name="SortField_LastModifiedOnDate.Text">
+    <value>Bewerkt op</value>
+  </data>
+  <data name="SortField_ParentFolder.Text">
+    <value>Bovenliggende map</value>
+  </data>
+  <data name="SortField_Size.Text">
+    <value>Grootte</value>
+  </data>
+  <data name="StatusBarMessage.Text">
+    <value>{0} of {1} worden weergegeven</value>
+  </data>
+  <data name="Sync.Text">
+    <value>Sync</value>
+  </data>
+  <data name="Unlink.Text">
+    <value>Unlink</value>
+  </data>
+  <data name="UnlinkFolders.Text">
+    <value>Ontkoppel map(pen)</value>
+  </data>
+  <data name="UnlinkingFolders.Text">
+    <value>Mappen ontkoppelen</value>
+  </data>
+  <data name="Upload.Text">
+    <value>Uploaden</value>
+  </data>
+  <data name="UserAssets.Text">
+    <value>{0} bestanden</value>
+  </data>
+  <data name="UserPermissions.Text">
+    <value>Gebruikersmachtigingen</value>
+  </data>
+  <data name="Yes.Text">
+    <value>Ja</value>
   </data>
 </root>

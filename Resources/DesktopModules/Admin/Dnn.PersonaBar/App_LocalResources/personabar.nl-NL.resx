@@ -31,7 +31,7 @@
     <value>Tekst moet minstens {0} karakters hebben</value>
   </data>
   <data name="err_MinLessThanMax.Text" xml:space="preserve">
-    <value>De Min. Waarde moet minder zijn dan de Max. Waarde</value>
+    <value>De minimum waarde moet kleiner zijn dan de maximum waarde.</value>
   </data>
   <data name="err_NoLargerThanExp.Text" xml:space="preserve">
     <value>Reputatie punten kunnen niet groter zijn dan ervaring punten</value>
@@ -46,13 +46,13 @@
     <value>{0} bezit geen bestanden.</value>
   </data>
   <data name="err_Number.Text" xml:space="preserve">
-    <value>Enkel nummers zijn toegestaan</value>
+    <value>Alleen cijfers zijn toegestaan</value>
   </data>
   <data name="err_OneActionNeeded.Text" xml:space="preserve">
-    <value>Minstens een actie is nodig</value>
+    <value>Minstens één actie is nodig</value>
   </data>
   <data name="err_PositiveNumber.Text" xml:space="preserve">
-    <value>Enkel positieve aantallen zijn toegestaan</value>
+    <value>Alleen positieve aantallen zijn toegestaan</value>
   </data>
   <data name="err_Required.Text" xml:space="preserve">
     <value>Tekst is vereist</value>
@@ -206,5 +206,20 @@
   </data>
   <data name="UpgradeLicense.Text" xml:space="preserve">
     <value>[ Upgrade naar Evoq ]</value>
+  </data>
+  <data name="Critical.Text">
+    <value>kritiek</value>
+  </data>
+  <data name="DisableEditBar.Help">
+    <value>Deze DNN-installatie heeft een alternatieve bewerkingsbalk.</value>
+  </data>
+  <data name="DisableEditBar.Text">
+    <value>De bewerkingsbalk is uitgeschakeld. </value>
+  </data>
+  <data name="LatestVersion.Text">
+    <value>Laatste versie</value>
+  </data>
+  <data name="Update.Text">
+    <value>Update</value>
   </data>
 </root>
