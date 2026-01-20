@@ -1,6 +1,6 @@
 <dotnetnuke type="Package" version="5.0">
 	<packages>
-		<package name="Core_nl-NL" type="CoreLanguagePack" version="09.10.01">
+		<package name="Core_nl-NL" type="CoreLanguagePack" version="09.13.09">
 			<friendlyName>DNN Core Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -378,7 +378,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DDRMenu_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="DDRMenu_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>DDR Menu Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -406,7 +406,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DigitalAssetsManagement_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="DigitalAssetsManagement_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>Digital Asset Management Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -462,7 +462,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="ResourceManager_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="ResourceManager_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>ResourceManager Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -498,7 +498,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNN_HTML_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="DNN_HTML_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>HTML Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -542,7 +542,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Journal_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="Journal_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>Journal Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -578,7 +578,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Modules.MemberDirectory_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="DotNetNuke.Modules.MemberDirectory_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>Member Directory Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -606,7 +606,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Modules.CoreMessaging_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="DotNetNuke.Modules.CoreMessaging_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>Message Center Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -634,7 +634,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNNCorp.RazorHost_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="DNNCorp.RazorHost_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>Razor Host Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -674,7 +674,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Social Groups_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="Social Groups_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>Social Groups Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -714,7 +714,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DefaultAuthentication_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="DefaultAuthentication_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>Default Authentication Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -742,7 +742,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.EditBar.UI_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="Dnn.EditBar.UI_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>Dnn.EditBar.UI Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -782,7 +782,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.PersonaBar.UI_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="Dnn.PersonaBar.UI_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>Dnn.PersonaBar.UI Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -901,7 +901,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="SiteExportImport_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="SiteExportImport_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>Site Export Import Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -924,7 +924,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.AzureConnector_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="Dnn.AzureConnector_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>Dnn Azure Connector Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -948,7 +948,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNN.Connectors.GoogleAnalytics_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="DNN.Connectors.GoogleAnalytics_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>Dnn Google Anlytics Connector Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -971,7 +971,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNN.Connectors.GoogleTagManager_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="DNN.Connectors.GoogleTagManager_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>Dnn Google TagManager Connector Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -994,7 +994,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="AspNetClientCapabilityProvider_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="AspNetClientCapabilityProvider_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>DNN ASP.NET Client Capability Provider Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -1017,7 +1017,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Providers.FolderProviders_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="DotNetNuke.Providers.FolderProviders_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>DNN Folder Providers Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
@@ -1040,7 +1040,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNNConnect.CKEditorProvider_nl-NL" type="ExtensionLanguagePack" version="09.10.01">
+		<package name="DNNConnect.CKEditorProvider_nl-NL" type="ExtensionLanguagePack" version="09.13.09">
 			<friendlyName>DNN Connect CKEditor Provider Nederlands (Nederland)</friendlyName>
 			<description>Dutch (Netherlands) core language pack for DNN Platform.</description>
 			<iconFile/>
