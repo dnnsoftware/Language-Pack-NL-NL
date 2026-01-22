@@ -11,6 +11,7 @@
 !.gitignore
 !.editorconfig
 !readme.md
+!TRANSLATION_*.md
 !.gitkeep
 !*/
 
