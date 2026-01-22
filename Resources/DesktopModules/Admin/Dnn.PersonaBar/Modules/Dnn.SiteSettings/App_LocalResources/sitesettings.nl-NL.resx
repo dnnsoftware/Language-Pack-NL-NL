@@ -592,7 +592,7 @@
     <value>Originele naam</value>
   </data>
   <data name="nav_SiteSettings.Text" xml:space="preserve">
-    <value>Site Instellingen</value>
+    <value>Site instellingen</value>
   </data>
   <data name="NeutralCulture.Text" xml:space="preserve">
     <value>Neutrale cultuur</value>
@@ -700,7 +700,7 @@
     <value>Vink dit vakje aan om sitebeheerders toe te staan om content lokalisatie in te schakelen voor hun site. </value>
   </data>
   <data name="plEnableContentLocalization.Text" xml:space="preserve">
-    <value>Toestaan content lokalisatie</value>
+    <value>Content lokalisatie toestaan</value>
   </data>
   <data name="plFavIcon.Help" xml:space="preserve">
     <value>De geselecteerde favicon zal worden toegepast op alle pagina's van de site.</value>
@@ -724,7 +724,7 @@
     <value>De lokatie die gebruikt wordt voor het opslaan van bestanden op deze site.</value>
   </data>
   <data name="plHomeDirectory.Text" xml:space="preserve">
-    <value>Site map</value>
+    <value>Sitemap</value>
   </data>
   <data name="plHomeTabId.Help" xml:space="preserve">
     <value>De homepagina van je site.</value>
@@ -901,10 +901,10 @@
     <value>Deze instelling bepaalt hoe de site reageert op URL's die gedefinieerd zijn als alias, maar niet de standaard alias zijn. Canoniek (de alias URL wordt behandeld als Canonieke URL), Doosturen (Doorsturen naar standaard alias) of Geen (Geen extra actie wordt ondernomen).</value>
   </data>
   <data name="portalAliasModeButtonListLabel.Text" xml:space="preserve">
-    <value>Site Alias Mapping methode</value>
+    <value>Site alias mapping methode</value>
   </data>
   <data name="PortalSkins.Text" xml:space="preserve">
-    <value>Site Thema's</value>
+    <value>Site thema's</value>
   </data>
   <data name="Primary.Header" xml:space="preserve">
     <value>PRIMAIR</value>
@@ -934,7 +934,7 @@
     <value>Selecteer data type voor dit veld</value>
   </data>
   <data name="ProfilePropertyDefinition_DataType.Required" xml:space="preserve">
-    <value>Data type is vereist.</value>
+    <value>Datatype is vereist.</value>
   </data>
   <data name="ProfilePropertyDefinition_DataType.Text" xml:space="preserve">
     <value>Datatype</value>
@@ -943,7 +943,7 @@
     <value>Geef optioneel een standaard waarde voor deze entiteit.</value>
   </data>
   <data name="ProfilePropertyDefinition_DefaultValue.Text" xml:space="preserve">
-    <value>Standaard waarde</value>
+    <value>Standaardwaarde</value>
   </data>
   <data name="ProfilePropertyDefinition_DefaultVisibility.Help" xml:space="preserve">
     <value>Je kunt de standaard zichtbaarheid van de profielentiteit instellen. Dit is de initiele waarde van de zichtbaarheid en wordt toegepast als de gebruiker het niet aanpast bij het bewerken van het profiel.</value>
@@ -979,7 +979,7 @@
     <value>Veldnaam</value>
   </data>
   <data name="ProfilePropertyDefinition_ReadOnly.Help" xml:space="preserve">
-    <value>Alleen lezen profielvelden kunnen worden bewerkt door de sitebeheerder, maar zijn enkel lezen voor de gebruiker.</value>
+    <value>Alleen lezen profielvelden kunnen worden bewerkt door de sitebeheerder, maar zijn enkel te lezen voor de gebruiker.</value>
   </data>
   <data name="ProfilePropertyDefinition_ReadOnly.Text" xml:space="preserve">
     <value>Alleen lezen</value>
@@ -1042,13 +1042,13 @@
     <value>Her-indexeer content</value>
   </data>
   <data name="ReindexHostContent.Text" xml:space="preserve">
-    <value>Herindexeer Applicatiecontent</value>
+    <value>Herindexeer applicatiecontent</value>
   </data>
   <data name="Required.Header" xml:space="preserve">
     <value>Vereist</value>
   </data>
   <data name="RequiredTextBox.Text" xml:space="preserve">
-    <value>De vereiste lengte moet een geheel getal zijn, groter dan of gelijk aan 0. Als je een TekstBox veld gebruikt, dan moet de vereiste lengte groter zijn dan 0.</value>
+    <value>De vereiste lengte moet een geheel getal zijn, groter dan of gelijk aan 0. Als je een Tekstbox veld gebruikt, dan moet de vereiste lengte groter zijn dan 0.</value>
   </data>
   <data name="Reset.Text" xml:space="preserve">
     <value>Reset</value>
@@ -1120,31 +1120,31 @@
     <value>Sitealias</value>
   </data>
   <data name="SiteAliasCreateSuccess.Text" xml:space="preserve">
-    <value>De Sitealias is toegevoegd.</value>
+    <value>De sitealias is toegevoegd.</value>
   </data>
   <data name="SiteAliasDeletedWarning.Text" xml:space="preserve">
-    <value>Weet je zeker dat je de Sitealias wilt verwijderen?</value>
+    <value>Weet je zeker dat je de sitealias wilt verwijderen?</value>
   </data>
   <data name="SiteAliasDeleteError.Text" xml:space="preserve">
-    <value>Kon Sitealias niet verwijderen. Probeer later nog eens.</value>
+    <value>Kon sitealias niet verwijderen. Probeer later nog eens.</value>
   </data>
   <data name="SiteAliasDeleteSuccess.Text" xml:space="preserve">
-    <value>De Sitealias is verwijderd.</value>
+    <value>De sitealias is verwijderd.</value>
   </data>
   <data name="SiteAliases.Text" xml:space="preserve">
     <value>SITEALIASSEN</value>
   </data>
   <data name="SiteAliasUpdateSuccess.Text" xml:space="preserve">
-    <value>De site alias is bijgewerkt</value>
+    <value>De sitealias is bijgewerkt</value>
   </data>
   <data name="siteDefaultLabel.Help" xml:space="preserve">
-    <value>Selecteer de standaard taal hier. Als de taal niet is ingeschakeld, dan zal het automatisch worden ingeschakeld. De standaard taal kan niet worden gewijzigd zodra de Content Lokalisatie is ingeschakeld. </value>
+    <value>Selecteer de standaardtaal hier. Als de taal niet is ingeschakeld, dan zal het automatisch worden ingeschakeld. De standaard taal kan niet worden gewijzigd zodra de Content Lokalisatie is ingeschakeld. </value>
   </data>
   <data name="siteDefaultLabel.Text" xml:space="preserve">
     <value>Site standaard</value>
   </data>
   <data name="SiteSelectionLabel.Text" xml:space="preserve">
-    <value>BEWERKEN SITE</value>
+    <value>SITE BEWERKEN</value>
   </data>
   <data name="SiteTemplates.Text" xml:space="preserve">
     <value>Site sjablonen</value>
@@ -1174,7 +1174,7 @@
     <value>Wordt al gebruikt in een andere synoniemengroep.</value>
   </data>
   <data name="systemDefaultLabel.Help" xml:space="preserve">
-    <value>De Systeem standaardtaal is de taal die de applicatie gebruikt als er geen andere taal beschikbaar is. Het is de ultieme terugval.</value>
+    <value>De systeem standaardtaal is de taal die de applicatie gebruikt als er geen andere taal beschikbaar is. Het is de ultieme terugval.</value>
   </data>
   <data name="systemDefaultLabel.Text" xml:space="preserve">
     <value>Systeemstandaard</value>
@@ -1243,7 +1243,7 @@
     <value>VERTAALD</value>
   </data>
   <data name="TranslatePageContent.Text" xml:space="preserve">
-    <value>Vertaal paginacontent</value>
+    <value>Vertaal pagina-inhoud</value>
   </data>
   <data name="TranslationProgressBarText.Text" xml:space="preserve">
     <value>[number] nieuwe pagina's worden gemaakt voor elke taal. Wacht totdat je gelokaliseerde pagina's worden gegenereerd.</value>
@@ -1252,7 +1252,7 @@
     <value>VERTALERS</value>
   </data>
   <data name="translatorsLabel.Help" xml:space="preserve">
-    <value>De geselecteerde rollen zullen expliciet Bewerkrechten worden verleend aan alle nieuwe pagina's en gelokaliseerde modules voor deze taal.</value>
+    <value>De geselecteerde rollen zullen expliciet bewerkrechten worden verleend aan alle nieuwe pagina's en gelokaliseerde modules voor deze taal.</value>
   </data>
   <data name="UnassignPrimary.Text" xml:space="preserve">
     <value>Primaire alias uitschakelen</value>
@@ -1321,7 +1321,7 @@
     <value>Weergave volgorde is bijgewerkt.</value>
   </data>
   <data name="ViewPage.Text" xml:space="preserve">
-    <value>[Bekijk Pagina ]</value>
+    <value>[Bekijk Pagina]</value>
   </data>
   <data name="Visible.Header" xml:space="preserve">
     <value>Zichtbaar</value>

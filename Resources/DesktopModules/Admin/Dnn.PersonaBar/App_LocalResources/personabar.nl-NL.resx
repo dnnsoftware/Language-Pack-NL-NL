@@ -28,7 +28,7 @@
     <value>Alleen een geldig e-mailadres is toegestaan</value>
   </data>
   <data name="err_Minimum.Text" xml:space="preserve">
-    <value>Tekst moet minstens {0} karakters hebben</value>
+    <value>De tekst moet minstens {0} karakters hebben</value>
   </data>
   <data name="err_MinLessThanMax.Text" xml:space="preserve">
     <value>De minimum waarde moet kleiner zijn dan de maximum waarde.</value>
@@ -37,10 +37,10 @@
     <value>Reputatie punten kunnen niet groter zijn dan ervaring punten</value>
   </data>
   <data name="err_NonDecimalNumber.Text" xml:space="preserve">
-    <value>Decimale aantallen zijn niet toegestaan</value>
+    <value>Decimale getallen zijn niet toegestaan</value>
   </data>
   <data name="err_NonNegativeNumber.Text" xml:space="preserve">
-    <value>Negatieve aantallen zijn niet toegestaan</value>
+    <value>Negatieve getallen zijn niet toegestaan</value>
   </data>
   <data name="err_NoUserFolder.Text" xml:space="preserve">
     <value>{0} bezit geen bestanden.</value>
@@ -52,7 +52,7 @@
     <value>Minstens één actie is nodig</value>
   </data>
   <data name="err_PositiveNumber.Text" xml:space="preserve">
-    <value>Alleen positieve aantallen zijn toegestaan</value>
+    <value>Alleen positieve getallen zijn toegestaan</value>
   </data>
   <data name="err_Required.Text" xml:space="preserve">
     <value>Tekst is vereist</value>
@@ -70,13 +70,13 @@
     <value>Wanneer vergrendeld, wordt het pictogram blauw en blijf je in de bewerkingsmodus, zelfs wanneer je naar andere pagina's navigeert.</value>
   </data>
   <data name="LockEditMode.Text" xml:space="preserve">
-    <value>Klik om de Bewerkmodus te vergrendelen.</value>
+    <value>Klik om de bewerkmodus te vergrendelen.</value>
   </data>
   <data name="nav_Accounts.Text" xml:space="preserve">
     <value>Accounts</value>
   </data>
   <data name="nav_Analytics.Text" xml:space="preserve">
-    <value>Analyses</value>
+    <value>Analizes</value>
   </data>
   <data name="nav_Content.Text" xml:space="preserve">
     <value>Inhoud</value>
@@ -85,7 +85,7 @@
     <value>Dashboards</value>
   </data>
   <data name="nav_DocCenter.Text" xml:space="preserve">
-    <value>Doc Centrum</value>
+    <value>Documentatiecentrum</value>
   </data>
   <data name="nav_Edit.Text" xml:space="preserve">
     <value>Bewerken</value>
@@ -202,7 +202,7 @@
     <value>Wanneer ontgrendeld, verlaat je de bewerkmodus telkens wanneer je naar een andere pagina navigeert of je wijzigingen voltooit.</value>
   </data>
   <data name="UnlockEditMode.Text" xml:space="preserve">
-    <value>Klik om de Bewerkmodus te ontgrendelen.</value>
+    <value>Klik om de bewerkmodus te ontgrendelen.</value>
   </data>
   <data name="UpgradeLicense.Text" xml:space="preserve">
     <value>[ Upgrade naar Evoq ]</value>
@@ -214,7 +214,7 @@
     <value>Deze DNN-installatie heeft een alternatieve bewerkingsbalk.</value>
   </data>
   <data name="DisableEditBar.Text">
-    <value>De bewerkingsbalk is uitgeschakeld. </value>
+    <value>De bewerkingsbalk is uitgeschakeld.</value>
   </data>
   <data name="LatestVersion.Text">
     <value>Laatste versie</value>
