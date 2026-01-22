@@ -127,10 +127,10 @@
     <value>Je licentie is succesvol verwijderd.</value>
   </data>
   <data name="Success.LicenseDeactivatedContactServerErr" xml:space="preserve">
-    <value>Je licentie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan je factuur als verbinding naar licentieserver mislukt. Als je een productielijcentie moet activeren, contacteer technische ondersteuning.</value>
+    <value>Je licentie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan je factuur als verbinding naar licentieserver mislukt. Als je een productielicentie moet activeren, contacteer technische ondersteuning.</value>
   </data>
   <data name="Success.LicenseDeactivatedNoActivationIncrease" xml:space="preserve">
-    <value>Je licentie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan factuur. Als je een productielijcentie moet activeren, contacteer technische ondersteuning.</value>
+    <value>Je licentie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan factuur. Als je een productielicentie moet activeren, contacteer technische ondersteuning.</value>
   </data>
   <data name="Success.LicenseRenewed" xml:space="preserve">
     <value>Je licentie is succesvol vernieuwd.</value>
@@ -139,13 +139,13 @@
     <value>Staging Licensie is succesvol geactiveerd.</value>
   </data>
   <data name="Success.TestLicenseActivated" xml:space="preserve">
-    <value>Test licensie is succesvol geactiveerd</value>
+    <value>De proeflicentie is succesvol geactiveerd</value>
   </data>
   <data name="Success.TrialActivation" xml:space="preserve">
     <value>Je verlengde proeflicentie is succesvol geïnstalleerd.</value>
   </data>
   <data name="Success.TrialExtensionRequest" xml:space="preserve">
-    <value>Je proeflicentieverlengingsverzoek is ingediend. Je ontvangt binnen 1 werkdag een e-mail met instructies voor het verlengen van je licentie. Als je vragen hebt over de proeflicentieverlengingen, bel DNN Corp. verkoopafdeling op 01-650-288-3150.</value>
+    <value>Je proeflicentieverlengingsverzoek is ingediend. Je ontvangt binnen 1 werkdag een e-mail met instructies voor het verlengen van je licentie.</value>
   </data>
   <data name="WebLicenseList.url" xml:space="preserve">
     <value>https://www.dnnsoftware.com/Support/Success-Network/License-Management</value>
