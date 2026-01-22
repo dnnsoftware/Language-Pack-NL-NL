@@ -91,7 +91,7 @@
     <value>Bulk pagina instellingen</value>
   </data>
   <data name="BulkPagesLabel.Text" xml:space="preserve">
-    <value>Eén pagina per regel, voorafgaand met "&gt;"om hiërarchie te creeëren.</value>
+    <value>Eén pagina per regel, voorafgaand met "&gt;" om hiërarchie te creëren.</value>
   </data>
   <data name="BulkPagesToAdd.Text" xml:space="preserve">
     <value>Pagina's in bulk toevoegen</value>
@@ -583,7 +583,7 @@
     <value>Dit veld is vereist</value>
   </data>
   <data name="NoThemes.Text" xml:space="preserve">
-    <value>Uw site heeft geen thema's</value>
+    <value>Je site heeft geen thema's</value>
   </data>
   <data name="NoThemeSelectedForContainers.Text" xml:space="preserve">
     <value>Selecteer een thema om containers te laden</value>

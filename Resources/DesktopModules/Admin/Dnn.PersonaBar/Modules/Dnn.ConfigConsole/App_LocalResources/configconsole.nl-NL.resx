@@ -40,7 +40,7 @@
     <value>Configuratie beheer</value>
   </data>
   <data name="ERROR_ConfigurationFormat.Text" xml:space="preserve">
-    <value>Uw configuratie bestand is geen geldig XML bestand. Corrigeer het formaat probleem en probeer opnieuw. {0}</value>
+    <value>Je configuratiebestand is geen geldig XML-bestand. Corrigeer het formaat probleem en probeer opnieuw. {0}</value>
   </data>
   <data name="ERROR_Merge.Text" xml:space="preserve">
     <value>Het systeem heeft een fout ontdekt bij het toepassen van de speciefieke configuratie wijzigingen. Herzie de evenement log voor fout details.</value>
