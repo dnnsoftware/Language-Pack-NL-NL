@@ -322,10 +322,10 @@
     <value>Wachtwoord beheer</value>
   </data>
   <data name="PasswordResetFailed.Text" xml:space="preserve">
-    <value>Je nieuwe wachtwoord is niet geaccepteerd voor beveiligingsredenen. Vul een wachtwoord in dat je nog niet eerder heeft gebruikt en dat lang en complex genoeg is om aan de vereisten van de site's wachtwoord complexiteit te voldoen.</value>
+    <value>Je nieuwe wachtwoord is niet geaccepteerd om beveiligingsredenen. Vul een wachtwoord in dat je nog niet eerder heeft gebruikt en dat lang en complex genoeg is om aan de vereisten van de site's wachtwoord complexiteit te voldoen.</value>
   </data>
   <data name="PasswordResetFailed_PasswordInHistory.Text" xml:space="preserve">
-    <value>Je nieuwe wachtwoord is niet geaccepteerd door beveiligingsredenen. Kies een wachtwoord dat nog niet eerder is gebruikt.</value>
+    <value>Je nieuwe wachtwoord is niet geaccepteerd om beveiligingsredenen. Kies een wachtwoord dat nog niet eerder is gebruikt.</value>
   </data>
   <data name="PasswordSent.Text" xml:space="preserve">
     <value>Als de gebruikersnaam correct was, ontvang je een e-mail moeten met een link om je wachtwoord te resetten.</value>
