@@ -1,117 +1,77 @@
 <h2>Release notes voor het nl-NL Taalpakket</h2>
-<p>
-Allereerst bedanken we iedereen in de community voor de Pull Requests die zijn aangeleverd en/of voor het melden van problemen. We hebben daar dankbaar gebruik gemaakt bij het samenstellen van het nl_NL taalpakket voor deze release van DNN. Word ook actief community member en draag bij aan DNNPlatform voor het Nederlandse taalgebied. Ga naar <a href="https://github.com/dnnsoftware/Language-Pack-NL-NL" target="_blank">Language Pack nl-NL</a> op GitHub.
-</p>
-<p>&nbsp;</p>
-<hr />
-<p>&nbsp;</p>
+<p>Allereerst bedanken we iedereen in de community voor de Pull Requests die zijn aangeleverd en/of voor het melden van problemen. We hebben daar dankbaar gebruik gemaakt bij het samenstellen van het nl_NL taalpakket voor deze release van DNN. Word ook actief community member en draag bij aan DNNPlatform voor het Nederlandse taalgebied. Ga naar <a href="https://github.com/dnnsoftware/Language-Pack-NL-NL" target="_blank" rel="noopener">Language Pack nl-NL</a> op GitHub.</p>
+<hr>
+<h3>Language Pack versie nl-NL 09.13.10</h3>
+<p>Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:</p>
+<ul>
+<li style="margin-left: 20px;">Verbeteringen om te komen tot een consistentere vertaling en aanspreektoon.</li>
+</ul>
+<h3>Language Pack versie nl-NL 09.13.09</h3>
+<p>Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:</p>
+<ul>
+<li style="margin-left: 20px;">Aanvullen van de vertaling van Prompt</li>
+<li style="margin-left: 20px;">Ontbrekende installatie regels voor enkele nieuwe nl-NL.esx bestanden aan .dnn manifest toegevoegd</li>
+<li style="margin-left: 20px;">Correctie van tikfouten</li>
+<li style="margin-left: 20px;">Aanvullen enkele nog niet vertaalde teksten</li>
+</ul>
 <div>
 <h3>Language Pack versie nl-NL 09.10.01</h3>
-<p>
-Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:
-</p> 
+<p>Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:</p>
 <ul>
-<li style="margin-left:20px;">
-Aanvullen van de vertaling van Prompt
-</li>
-<li style="margin-left:20px;">
-Ontbrekende installatie regels voor enkele nieuwe nl-NL.esx bestanden aan .dnn manifest toegevoegd
-</li>
-<li style="margin-left:20px;">
-Correctie van tikfouten
-</li>
-<li style="margin-left:20px;">
-Aanvullen enkele nog niet vertaalde teksten
-</li>
+<li style="margin-left: 20px;">Aanvullen van de vertaling van Prompt</li>
+<li style="margin-left: 20px;">Ontbrekende installatie regels voor enkele nieuwe nl-NL.esx bestanden aan .dnn manifest toegevoegd</li>
+<li style="margin-left: 20px;">Correctie van tikfouten</li>
+<li style="margin-left: 20px;">Aanvullen enkele nog niet vertaalde teksten</li>
 </ul>
 <p>&nbsp;</p>
-<hr />
+<hr>
 <p>&nbsp;</p>
 </div>
 <div>
 <h3>Language Pack versie nl-NL 09.10.00</h3>
-<p>
-Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:
-</p> 
+<p>Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:</p>
 <ul>
-<li style="margin-left:20px;">
-Toevoegen van vertaling van de ResourceManager
-</li>
-<li style="margin-left:20px;">
-Vertaling Google TagManager
-</li>
-<li style="margin-left:20px;">
-Aanvullen van de vertaling van Prompt
-</li>
-<li style="margin-left:20px;">
-Correctie van tikfouten
-</li>
-<li style="margin-left:20px;">
-Verwijderen van niet meer gebruikte tekstelementen
-</li>
+<li style="margin-left: 20px;">Toevoegen van vertaling van de ResourceManager</li>
+<li style="margin-left: 20px;">Vertaling Google TagManager</li>
+<li style="margin-left: 20px;">Aanvullen van de vertaling van Prompt</li>
+<li style="margin-left: 20px;">Correctie van tikfouten</li>
+<li style="margin-left: 20px;">Verwijderen van niet meer gebruikte tekstelementen</li>
 </ul>
 <p>&nbsp;</p>
-<hr />
+<hr>
 <p>&nbsp;</p>
 </div>
 <div>
 <h3>Language Pack versie nl-NL 09.07.02</h3>
-<p>
-Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:
-</p> 
+<p>Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:</p>
 <ul>
-<li style="margin-left:20px;">
-Toevoegen van nieuwe DNN 09.07.02 tekstelementen
-</li>
-<li style="margin-left:20px;">
-Verbeteren van de teksten van de security
-</li>
+<li style="margin-left: 20px;">Toevoegen van nieuwe DNN 09.07.02 tekstelementen</li>
+<li style="margin-left: 20px;">Verbeteren van de teksten van de security</li>
 </ul>
 </div>
 <p>&nbsp;</p>
 <div>
 <h3>Language Pack versie nl-NL 09.07.00</h3>
-<p>
-Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:
-</p> 
+<p>Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:</p>
 <ul>
-<li style="margin-left:20px;">
-Toevoegen van nieuwe DNN 09.07.00 tekstelementen
-</li>
-<li style="margin-left:20px;">
-Verbeteren van de teksten van de registratie, profiel, paginabeheer
-</li>
+<li style="margin-left: 20px;">Toevoegen van nieuwe DNN 09.07.00 tekstelementen</li>
+<li style="margin-left: 20px;">Verbeteren van de teksten van de registratie, profiel, paginabeheer</li>
 </ul>
 </div>
 <p>&nbsp;</p>
 <h3>Language Pack versie nl-NL 09.06.02</h3>
-<p>
-Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:
-</p> 
+<p>Belangrijkste verbeteringen in deze release van het nl-NL taalpakket:</p>
 <ul>
-<li style="margin-left:20px;">
-Toevoegen van nieuwe DNN 09.06.02 tekstelementen
-</li>
-<li style="margin-left:20px;">
-Het wjzigen van U/Uw naar Je/Jouw in alle teksten
-</li>
-<li style="margin-left:20px;">
-Het volledig stroomlijnen van alle Nederlandse vertalingen aan de hand van de afgesproken standaard termen en vertalingen. <br />Zie de <a href="https://github.com/dnnsoftware/Language-Pack-NL-NL/blob/develop/.github/COMMON_TERMS.md" target="_blank">standaard Nederlandse termen</a>
-</li>
+<li style="margin-left: 20px;">Toevoegen van nieuwe DNN 09.06.02 tekstelementen</li>
+<li style="margin-left: 20px;">Het wjzigen van U/Uw naar Je/Jouw in alle teksten</li>
+<li style="margin-left: 20px;">Het volledig stroomlijnen van alle Nederlandse vertalingen aan de hand van de afgesproken standaard termen en vertalingen. <br>Zie de <a href="https://github.com/dnnsoftware/Language-Pack-NL-NL/blob/develop/.github/COMMON_TERMS.md" target="_blank" rel="noopener">standaard Nederlandse termen</a></li>
 </ul>
 <p>&nbsp;</p>
 <div>
 <h3>Language Pack versie nl-NL 09.06.01</h3>
-<p>
-Belangrijkste verbetering in deze release van het nl-NL taalpakket:
-</p>
+<p>Belangrijkste verbetering in deze release van het nl-NL taalpakket:</p>
 <ul>
-<li style="margin-left:20px;">
-Het up to date brengen van alle vertalingen met DNN Platform 9.6.1
-</li>
-<li style="margin-left:20px;">
-Het inrichten van een GitHub repository voor het verwerken opmerkingen en verbeteringen.
-</li>
+<li style="margin-left: 20px;">Het up to date brengen van alle vertalingen met DNN Platform 9.6.1</li>
+<li style="margin-left: 20px;">Het inrichten van een GitHub repository voor het verwerken opmerkingen en verbeteringen.</li>
 </ul>
 </div>
-	
