@@ -870,7 +870,7 @@
     <value>Bijwerken</value>
   </data>
   <data name="UpdateSuccess.Text" xml:space="preserve">
-    <value>Uw wijzigingen zijn opgeslagen.</value>
+    <value>Je wijzigingen zijn opgeslagen.</value>
   </data>
   <data name="ViewLog.Header" xml:space="preserve">
     <value>Log</value>
