@@ -583,7 +583,7 @@
     <value>Dit veld is vereist</value>
   </data>
   <data name="NoThemes.Text" xml:space="preserve">
-    <value>Uw site heeft geen thema's</value>
+    <value>Je site heeft geen thema's</value>
   </data>
   <data name="NoThemeSelectedForContainers.Text" xml:space="preserve">
     <value>Selecteer een thema om containers te laden</value>

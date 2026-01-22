@@ -49,7 +49,7 @@
     <value>Verbinding met licensie server mislukt. Je bent niet in staat om automatisch licensies te activeren en vernieuwen. Je kunt handmatige activatie gebruiken om een licensie te activeren. &lt;br /&gt;&lt;br /&gt; Voor licensie vernieuwing contacteer &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
   </data>
   <data name="Error.ContactServer.deactivate" xml:space="preserve">
-    <value>Uw licensie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen terug naar je invoice als verbinding naar licensie server mislukt. Contacteer Technisch Support voor licensie activatie.</value>
+    <value>Je licentie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen terug naar je factuur als verbinding naar licentieserver mislukt. Contacteer technische ondersteuning voor licentie activatie.</value>
   </data>
   <data name="Error.ContactServer.renew" xml:space="preserve">
     <value>Niet in staat om Licensie te vernieuwen. Verbinding naar licensie server mislukt. Probeer later nog eens of contacteer &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;</value>
@@ -124,16 +124,16 @@
     <value>Productie Licensie is succesvol geactiveerd</value>
   </data>
   <data name="Success.LicenseDeactivated" xml:space="preserve">
-    <value>Uw licensie is succesvol verwijderd.</value>
+    <value>Je licentie is succesvol verwijderd.</value>
   </data>
   <data name="Success.LicenseDeactivatedContactServerErr" xml:space="preserve">
-    <value>Uw licensie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan je invoice als verbinding naar licensie server mislukt. Als je een productie licensie moet activeren, contacteer Technisch Support.</value>
+    <value>Je licentie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan je factuur als verbinding naar licentieserver mislukt. Als je een productielijcentie moet activeren, contacteer technische ondersteuning.</value>
   </data>
   <data name="Success.LicenseDeactivatedNoActivationIncrease" xml:space="preserve">
-    <value>Uw licensie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan invoice. Als je een productielicensie moet activeren, contacteer Technisch Support.</value>
+    <value>Je licentie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan factuur. Als je een productielijcentie moet activeren, contacteer technische ondersteuning.</value>
   </data>
   <data name="Success.LicenseRenewed" xml:space="preserve">
-    <value>Uw licensie is succesvol vernieuwd.</value>
+    <value>Je licentie is succesvol vernieuwd.</value>
   </data>
   <data name="Success.StagingLicenseActivated" xml:space="preserve">
     <value>Staging Licensie is succesvol geactiveerd.</value>
@@ -142,10 +142,10 @@
     <value>Test licensie is succesvol geactiveerd</value>
   </data>
   <data name="Success.TrialActivation" xml:space="preserve">
-    <value>Uw verlengde proef licensie is succesvol geïnstalleerd.</value>
+    <value>Je verlengde proeflicentie is succesvol geïnstalleerd.</value>
   </data>
   <data name="Success.TrialExtensionRequest" xml:space="preserve">
-    <value>Uw proeflicensieverlengingsverzoek is ingediend. Je ontvangt binnen 1 werkdag een e-mail met instructies voor het verlengen van je licensie. Als je vragen hebt over de proeflicensieverlengingen, bel DNN Corp. Sales Dept. op 01-650-288-3150.</value>
+    <value>Je proeflicentieverlengingsverzoek is ingediend. Je ontvangt binnen 1 werkdag een e-mail met instructies voor het verlengen van je licentie. Als je vragen hebt over de proeflicentieverlengingen, bel DNN Corp. verkoopafdeling op 01-650-288-3150.</value>
   </data>
   <data name="WebLicenseList.url" xml:space="preserve">
     <value>https://www.dnnsoftware.com/Support/Success-Network/License-Management</value>

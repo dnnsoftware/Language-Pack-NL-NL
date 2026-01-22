@@ -112,7 +112,7 @@
     <value>Er is een fout opgetreden bij het versturen van het site exporteer verzoek. Probeer het opnieuw.</value>
   </data>
   <data name="ExportRequestSubmitted" xml:space="preserve">
-    <value>Uw data export staat klaar in de wachtrij, en zal spoedig starten.</value>
+    <value>Je data export staat klaar in de wachtrij, en zal spoedig starten.</value>
   </data>
   <data name="ExportSettings.Text" xml:space="preserve">
     <value>Exporteer Instellingen</value>
@@ -142,7 +142,7 @@
     <value>Er is een fout opgetreden bij het versturen van het site importeer verzoek. Probeer het opnieuw.</value>
   </data>
   <data name="ImportRequestSubmitted" xml:space="preserve">
-    <value>Uw data import staat klaar in de wachtrij, en zal spoedig starten.</value>
+    <value>Je data import staat klaar in de wachtrij, en zal spoedig starten.</value>
   </data>
   <data name="ImportSummary.Text" xml:space="preserve">
     <value>Import overzicht</value>
