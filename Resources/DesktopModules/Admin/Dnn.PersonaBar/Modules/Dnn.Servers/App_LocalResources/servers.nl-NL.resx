@@ -382,7 +382,7 @@
     <value>Fout bij het laden van SMTP-server-tabblad</value>
   </data>
   <data name="GlobalSettings.Text" xml:space="preserve">
-    <value>Dit zijn globale instellingen. Wijzigingen in de instellingen zijn van invloed op al uw sites.</value>
+    <value>Dit zijn globale instellingen. Wijzigingen in de instellingen zijn van invloed op al jouw sites.</value>
   </data>
   <data name="GlobalSmtpHostSetting.Text" xml:space="preserve">
     <value>Globaal</value>
@@ -783,7 +783,7 @@ Weet je zeker dat je het versienummer voor je site wilt verhogen?</value>
     <value>Bestand kopiëren voltooid</value>
   </data>
   <data name="Upgrading.Help" xml:space="preserve">
-    <value>Een ogenblik geduld terwijl we de upgrade van uw server voorbereiden.</value>
+    <value>Een ogenblik geduld terwijl we de upgrade van jouw server voorbereiden.</value>
   </data>
   <data name="Upgrading.Text" xml:space="preserve">
     <value>Upgraden...</value>
