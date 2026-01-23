@@ -1,4 +1,4 @@
-﻿﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
@@ -178,28 +178,28 @@
     <value>De bewerking kan niet worden voltooid.</value>
   </data>
   <data name="MoveFolderUnderlyingSystemError.Text" xml:space="preserve">
-    <value>Het onderliggende systeem gooide een uitzondering. De move-bewerking kan niet worden voltooid. Een handmatige mapsynchronisatie kan nodig zijn.</value>
+    <value>Het onderliggende systeem gooide een uitzondering. De verplaats-bewerking kan niet worden voltooid. Een handmatige mapsynchronisatie kan nodig zijn.</value>
   </data>
   <data name="MsgAttachmentsNotAllowed.Text" xml:space="preserve">
     <value>Bijlagen zijn niet toegestaan.</value>
   </data>
   <data name="MsgBodyRequiredError.Text" xml:space="preserve">
-    <value>De Body kan niet null of leeg zijn.</value>
+    <value>De inhoud kan niet null of leeg zijn.</value>
   </data>
   <data name="MsgEmptyToListFoundError.Text" xml:space="preserve">
     <value>Lege lijst gevonden bij het analyseren van gebruiker en rollen lijst.</value>
   </data>
   <data name="MsgMessageOrRecipientNotFound.Text" xml:space="preserve">
-    <value>Bericht is niet gevonden of ontvanger is niet aanwezig voor het bericht.</value>
+    <value>Het bericht is niet gevonden of ontvanger is niet aanwezig voor het bericht.</value>
   </data>
   <data name="MsgMessageRequiredError.Text" xml:space="preserve">
     <value>Het bericht kan niet leeg zijn.</value>
   </data>
   <data name="MsgOnlyHostOrAdminOrUserInGroupCanSendToRoleError.Text" xml:space="preserve">
-    <value>Alleen Host gebuikers, website administratoren of gebruikers in de groep kunnen berichten sturen per rol.</value>
+    <value>Alleen Host gebuikers, website administrators of gebruikers in de groep kunnen berichten sturen per rol.</value>
   </data>
   <data name="MsgRecipientLimitExceeded.Text" xml:space="preserve">
-    <value>Maximale ontvanger limiet bereikt. Geadresseerden uit lijst verwijderen.</value>
+    <value>De maximale ontvangerslimiet is bereikt. Verwijder enkele ontvangers uit de lijst.</value>
   </data>
   <data name="MsgRolesOrUsersRequiredError.Text" xml:space="preserve">
     <value>Zowel gebruikers als rollen kunnen niet null of leeg-lijsten.</value>
@@ -217,7 +217,7 @@
     <value>Berichten kunnen niet worden verzonden als Minimum Interval tussen twee berichten door dezelfde gebruiker niet is.</value>
   </data>
   <data name="MsgToListTooBigError.Text" xml:space="preserve">
-    <value>Om te kopen lijst is te groot. Maximale {0}, werkelijke {1}.</value>
+    <value>De ingediende lijst is te lang. Maximale {0}, werkelijke {1}.</value>
   </data>
   <data name="NoNetworkAvailableError.Text" xml:space="preserve">
     <value>Een netwerkverbinding is nodig, maar er is geen netwerk beschikbaar.</value>
@@ -346,7 +346,7 @@
     <value>De gebruiker heeft niet de juiste rechten om deze map te mogen bewerken.</value>
   </data>
   <data name="UserRelationshipBlockedError.Text" xml:space="preserve">
-    <value>Doelgroep gebruiker '{0}' heeft een Geblokkeerde relatie ' {1} 'van de doelgebruiker ' {2}'.</value>
+    <value>Doelgroep gebruiker '{0}' heeft een geblokkeerde relatie ' {1} 'van de doelgebruiker ' {2}'.</value>
   </data>
   <data name="UserRelationshipDoesNotExistError.Text" xml:space="preserve">
     <value>UserRelationshipID '{0}' bestaat niet.</value>
@@ -358,7 +358,7 @@
     <value>Portaal ID '{0} ' van de initiatiefnemende gebruiker verschilt van Portal-ID ' {1}' van de doelgebruiker.</value>
   </data>
   <data name="UserRelationshipForSameUsersError.Text" xml:space="preserve">
-    <value>Initiatiefnemende en Target-gebruikers niet kunnen hebben dezelfde UserID '{0}'.</value>
+    <value>Initiatiefnemende en doelgebruiker kunnen niet hetzelfde UserID '{0}' hebben.</value>
   </data>
   <data name="ValueCannotBeNegative.Text" xml:space="preserve">
     <value>Het argument '{0}' kan niet negatief zijn.</value>

@@ -1,4 +1,4 @@
-﻿﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
@@ -164,9 +164,6 @@
   <data name="503.Error" xml:space="preserve">
     <value>{0} - 503 Service niet beschikbaar</value>
   </data>
-  <data name="ActivatingLicense.Text" xml:space="preserve">
-    <value>Licentie activeren</value>
-  </data>
   <data name="AddFollowerRequestBody.Text" xml:space="preserve">
     <value>Je wordt nu gevolgd door {0}</value>
   </data>
@@ -228,7 +225,7 @@
     <value>Verversen</value>
   </data>
   <data name="CustomUrlPathCleaned.Error" xml:space="preserve">
-    <value>De ingevoerde pagina URL bevat ongeldige karakters welke niet gebruikt kunnen worden binnen een URL of ongeldig zijn voor gebruikt binnen een URL. Deze karakters zijn verwijderd. Klik op "Bijwerken" om de aangepaste URL op te slaan. &amp;lt;br&amp;gt; [Note: de lijst met ongeldige tekens is als volgt: &amp;lt;&amp;gt;\?:&amp;amp;=+|%#]</value>
+    <value>De ingevoerde pagina-URL bevat tekens die niet in een URL mogen worden gebruikt of die ongeldig zijn voor een URL. Deze tekens zijn verwijderd. Klik nogmaals op de knop 'Bijwerken' om de gewijzigde URL te accepteren.&lt;br&gt;[OPMERKING: De lijst met ongeldige tekens is als volgt: &lt;&gt;\?:&amp;=+|%# ]</value>
   </data>
   <data name="DefaultStopwordGroup.Text" xml:space="preserve">
     <value>en,zijn,maar,voor,in,niet,zoals,dat,de,hun,dan,daar,deze,dit,was,zal,met</value>
@@ -590,7 +587,7 @@ Dank voor het gebruik van onze diensten
 </value>
   </data>
   <data name="EMAIL_PORTAL_SIGNUP_SUBJECT.Text" xml:space="preserve">
-    <value>[Host:HostTitle] Aanmelding Demo Website</value>
+    <value>[Host:HostTitle] Aanmelding Demo website</value>
   </data>
   <data name="EMAIL_PROFILE_UPDATED_BODY.Text" xml:space="preserve">
     <value>Beste [Profile:DisplayName],
@@ -652,10 +649,10 @@ Dank voor het in ons gestelde vertrouwen,
 </value>
   </data>
   <data name="EMAIL_ROLE_UPDATE_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Gebruikersaccount Bijgewerkt</value>
+    <value>[Portal:PortalName] Gebruikersaccount bijgewerkt</value>
   </data>
   <data name="EMAIL_SMTP_TEST_SUBJECT.Text" xml:space="preserve">
-    <value>[Host:HostTitle] SMTP Configuratie Test</value>
+    <value>[Host:HostTitle] SMTP Configuratietest</value>
   </data>
   <data name="EMAIL_SOCIAL_FOLLOWREQUESTACTIONS.Text" xml:space="preserve">
     <value>&lt;p&gt;&lt;a href="{0}"&gt;Terug volgen&lt;/a&gt; | &lt;a href="{1}"&gt;Profiel bekijken&lt;/a&gt;&lt;/p&gt;</value>
@@ -881,7 +878,7 @@ UIT OF IN VERBAND MET DE SOFTWARE OF HET GEBRUIK OF ANDERE HANDELINGEN IN DE
 SOFTWARE.&lt;/p&gt;</value>
   </data>
   <data name="Localize.Action" xml:space="preserve">
-    <value>Vertaal</value>
+    <value>Vertalen</value>
   </data>
   <data name="LogClicks.Text" xml:space="preserve">
     <value>Aanmelden van de gebruiker, de datum en de tijd voor elke klik</value>
@@ -1309,5 +1306,89 @@ Beoordeel deze gebruiker. Wanneer u de gebruiker goedkeurt moet u een (nieuwe) w
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_SUBJECT.Text">
     <value>[Portal:PortalName] Wachtwoord reset opgevraagd door deze NIET goedgekeurde gebruiker: [User:Username]</value>
+  </data>
+  <data name="Administrators.Role">
+    <value>Administrators</value>
+  </data>
+  <data name="Administrators.RoleDescription">
+    <value>Beheerders hebben toegang tot alle inhoud van deze site, kunnen deze wijzigen en alle site-instellingen beheren. Ze kunnen de toegang van gebruikers tot de site beheren en ook andere beheerders aansturen. Dit gebruikerstype kan geen systeemwijzigingen aanbrengen of bevoorrechte beheertaken uitvoeren die supergebruikers wel kunnen.</value>
+  </data>
+  <data name="All Users.Role">
+    <value>Iedereen</value>
+  </data>
+  <data name="All Users.RoleDescription">
+    <value>Dit is een door het platform beheerde rol (d.w.z. u kunt geen gebruikers aan deze rol toevoegen of verwijderen). Deze rol vertegenwoordigt ELKE bezoeker van de website, ongeacht hun inlog-/accountstatus.</value>
+  </data>
+  <data name="CompleteStateBody.Text">
+    <value>Pagina '{0}' bevindt zich in de status '{1}' en wacht op beoordeling en goedkeuring.</value>
+  </data>
+  <data name="CompleteStateSubject.Text">
+    <value>Pagina goedkeuring</value>
+  </data>
+  <data name="CompleteWorkflowBody.Text">
+    <value>Pagina '{0}' is gepubliceerd en is nu live.</value>
+  </data>
+  <data name="CompleteWorkflowSubject.Text">
+    <value>Pagina gepubliceerd</value>
+  </data>
+  <data name="Content Editors.Role">
+    <value>Contentredacteuren</value>
+  </data>
+  <data name="Content Editors.RoleDescription">
+    <value>Contentredacteuren mogen content op deze site toevoegen en wijzigen. De exacte functionaliteit hangt af van wat de modules op deze site ondersteunen.</value>
+  </data>
+  <data name="Content Managers.Role">
+    <value>Contentbeheerders</value>
+  </data>
+  <data name="Content Managers.RoleDescription">
+    <value>Contentbeheerders kunnen bepalen wat er op de website wordt weergegeven. Ze kunnen wijzigen welke contentredacteuren hebben bijgedragen en beslissen of deze wel of niet wordt gepubliceerd. De exacte functionaliteit hangt af van wat de modules op deze site ondersteunen.</value>
+  </data>
+  <data name="DiscardStateBody.Text">
+    <value>De bewerkingen voor pagina '{0}' zijn afgewezen en deze bevindt zich nu in status '{1}'.</value>
+  </data>
+  <data name="DiscardStateSubject.Text">
+    <value>Pagina afgewezen</value>
+  </data>
+  <data name="DiscardWorkflowBody.Text">
+    <value>Bewerkingen voor pagina '{0}' zijn verwijderd.</value>
+  </data>
+  <data name="DiscardWorkflowSubject.Text">
+    <value>Pagina verwijderd</value>
+  </data>
+  <data name="Registered Users.Role">
+    <value>Geregistreerde gebruikers</value>
+  </data>
+  <data name="Registered Users.RoleDescription">
+    <value>Alle gebruikers die een account op deze site hebben en (indien verificatie is geactiveerd) zijn geverifieerd.</value>
+  </data>
+  <data name="StartWorkflowBody.Text">
+    <value>Pagina '{0}' bevindt zich in de status '{1}' en wacht op verzending.</value>
+  </data>
+  <data name="StartWorkflowSubject.Text">
+    <value>Pagina ingediend</value>
+  </data>
+  <data name="Subscribers.Role">
+    <value>Abonnees</value>
+  </data>
+  <data name="Subscribers.RoleDescription">
+    <value>Abonnees geven toestemming om via e-mail door deze website te worden gecontacteerd. Gebruikers kunnen zich hiervoor afmelden en zo zelf bepalen hoe ze dit doen.</value>
+  </data>
+  <data name="Superuser.Role">
+    <value>Supergebruikers</value>
+  </data>
+  <data name="Superuser.RoleDescription">
+    <value>Supergebruikers (soms ook wel hostgebruikers genoemd) hebben "host"-toegang tot de site, wat betekent dat ze alle inhoud van alle sites binnen deze installatie kunnen openen en wijzigen. Dit omvat het toevoegen en verwijderen van beheerders en andere supergebruikers. Ze kunnen ook taken op systeemniveau uitvoeren, zoals het wissen van de cache, het herstarten van de applicatie, het beheren van configuratiebestanden en het configureren van algemene instellingen.</value>
+  </data>
+  <data name="Unauthenticated Users.Role">
+    <value>Niet-geauthenticeerde gebruikers</value>
+  </data>
+  <data name="Unauthenticated Users.RoleDescription">
+    <value>Dit is een door het platform beheerde rol (d.w.z. u kunt geen gebruikers aan deze rol toewijzen). Deze rol is bedoeld om gebruikers aan te duiden die niet zijn ingelogd.</value>
+  </data>
+  <data name="Unverified Users.Role">
+    <value>Niet-geverifieerde gebruikers</value>
+  </data>
+  <data name="Unverified Users.RoleDescription">
+    <value>Als deze site accountverificatie gebruikt, behoort elke gebruiker die zich registreert eerst tot deze rol en niet tot de categorie 'geregistreerde gebruikers'. Zodra de gebruiker is geverifieerd (afhankelijk van de instelling, door op een e-maillink te klikken of door een beheerder), behoort de gebruiker niet langer tot deze rol en wordt hij of zij een gewone 'geregistreerde gebruiker'.</value>
   </data>
 </root>
