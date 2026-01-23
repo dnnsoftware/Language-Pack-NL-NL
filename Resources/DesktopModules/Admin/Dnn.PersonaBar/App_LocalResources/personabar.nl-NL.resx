@@ -28,7 +28,7 @@
     <value>Alleen een geldig e-mailadres is toegestaan</value>
   </data>
   <data name="err_Minimum.Text" xml:space="preserve">
-    <value>De tekst moet minstens {0} karakters hebben</value>
+    <value>Tekst moet minstens {0} tekens hebben</value>
   </data>
   <data name="err_MinLessThanMax.Text" xml:space="preserve">
     <value>De minimum waarde moet kleiner zijn dan de maximum waarde.</value>
@@ -76,7 +76,7 @@
     <value>Accounts</value>
   </data>
   <data name="nav_Analytics.Text" xml:space="preserve">
-    <value>Analizes</value>
+    <value>Analyses</value>
   </data>
   <data name="nav_Content.Text" xml:space="preserve">
     <value>Inhoud</value>
@@ -127,7 +127,7 @@
     <value>Acties</value>
   </data>
   <data name="permissiongrid.Add Content.Text" xml:space="preserve">
-    <value>Content toevoegen</value>
+    <value>Inhoud toevoegen</value>
   </data>
   <data name="permissiongrid.Add User.Text" xml:space="preserve">
     <value>Gebruiker toevoegen</value>
@@ -175,7 +175,7 @@
     <value>Navigeren</value>
   </data>
   <data name="permissiongrid.Select Role.Text" xml:space="preserve">
-    <value>Selecteer Rol</value>
+    <value>Selecteer rol</value>
   </data>
   <data name="permissiongrid.Type-roles.Text" xml:space="preserve">
     <value>Rollen</value>
@@ -202,10 +202,7 @@
     <value>Wanneer ontgrendeld, verlaat je de bewerkmodus telkens wanneer je naar een andere pagina navigeert of je wijzigingen voltooit.</value>
   </data>
   <data name="UnlockEditMode.Text" xml:space="preserve">
-    <value>Klik om de bewerkmodus te ontgrendelen.</value>
-  </data>
-  <data name="UpgradeLicense.Text" xml:space="preserve">
-    <value>[ Upgrade naar Evoq ]</value>
+    <value>Klik om de Bewerkmodus te ontgrendelen.</value>
   </data>
   <data name="Critical.Text">
     <value>kritiek</value>
@@ -214,12 +211,12 @@
     <value>Deze DNN-installatie heeft een alternatieve bewerkingsbalk.</value>
   </data>
   <data name="DisableEditBar.Text">
-    <value>De bewerkingsbalk is uitgeschakeld.</value>
+    <value>De bewerkingsbalk is uitgeschakeld. </value>
   </data>
   <data name="LatestVersion.Text">
     <value>Laatste versie</value>
   </data>
   <data name="Update.Text">
-    <value>Update</value>
+    <value>Bijwerken</value>
   </data>
 </root>

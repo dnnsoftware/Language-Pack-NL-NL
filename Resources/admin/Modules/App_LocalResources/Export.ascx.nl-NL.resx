@@ -1,51 +1,78 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <resheader name="resmimetype">
+  <xsd:schema id="root" xmlns="" xmlns:xsd="https://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="ResMimeType">
     <value>text/microsoft-resx</value>
   </resheader>
-  <resheader name="version">
-    <value>2.0</value>
+  <resheader name="Version">
+    <value>1.0.0.0</value>
   </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <resheader name="Reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <resheader name="Writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cmdExport.Text" xml:space="preserve">
-    <value>Exporteren</value>
-  </data>
-  <data name="ControlTitle_exportmodule.Text" xml:space="preserve">
-    <value>Module exporteren</value>
-  </data>
-  <data name="Error.Text" xml:space="preserve">
-    <value>Er is een fout opgetreden tijdens het exporteren</value>
-  </data>
-  <data name="ExportNotSupported.Text" xml:space="preserve">
-    <value>De geselecteerde module biedt geen ondersteuning voor het exporteren van inhoud</value>
-  </data>
-  <data name="ModuleHelp.Text" xml:space="preserve">
-    <value>Beheerders kunnen de inhoud van deze module exporteren.</value>
-  </data>
-  <data name="NoContent.Text" xml:space="preserve">
-    <value>De geselecteerde module heeft geen inhoud.</value>
-  </data>
-  <data name="plFile.Help" xml:space="preserve">
-    <value>Vul een export bestandsnaam in.</value>
-  </data>
-  <data name="plFile.Text" xml:space="preserve">
-    <value>Bestand</value>
-  </data>
-  <data name="plFolder.Help" xml:space="preserve">
-    <value>Selecteer de export map.</value>
-  </data>
-  <data name="plFolder.Text" xml:space="preserve">
+  <data name="plFolder.Text">
     <value>Map</value>
   </data>
-  <data name="Root.Text" xml:space="preserve">
-    <value>Beginmap</value>
+  <data name="plFolder.Help">
+    <value>Selecteer de map om het bestand naar te exporteren.</value>
   </data>
-  <data name="Validation.Text" xml:space="preserve">
-    <value>Je moet een map en een bestandsnaam specificeren om te kunnen exporteren</value>
+  <data name="plFile.Text">
+    <value>Bestand</value>
+  </data>
+  <data name="plFile.Help">
+    <value>Voer een naam in voor het geëxporteerde bestand.</value>
+  </data>
+  <data name="cmdExport.Text">
+    <value>Exporteren</value>
+  </data>
+  <data name="ControlTitle_exportmodule.Text">
+    <value>Exportmodule</value>
+  </data>
+  <data name="ModuleHelp.Text">
+    <value>&lt;h1&gt;Exportmodule&lt;/h1&gt;&lt;p&gt;Beheerders kunnen inhoud voor de opgegeven module exporteren.&lt;/p&gt;</value>
+  </data>
+  <data name="NoContent.Text">
+    <value>De opgegeven module bevat geen inhoud.</value>
+  </data>
+  <data name="ExportNotSupported.Text">
+    <value>De opgegeven module ondersteunt het exporteren van inhoud niet.</value>
+  </data>
+  <data name="Error.Text">
+    <value>Er is een fout opgetreden tijdens het exporteren.</value>
+  </data>
+  <data name="Validation.Text">
+    <value>U moet een map en bestand opgeven voor export.</value>
+  </data>
+  <data name="Root.Text">
+    <value>Root</value>
   </data>
 </root>

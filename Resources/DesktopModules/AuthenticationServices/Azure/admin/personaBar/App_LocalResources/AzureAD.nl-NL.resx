@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="nav_AzureAD.Text" xml:space="preserve">
+    <value>Microsoft Entra ID</value>
+  </data>
+  <data name="No.Text" xml:space="preserve">
+    <value>Nee</value>
+  </data>
+  <data name="SettingsError.Text" xml:space="preserve">
+    <value>Kon de instellingen niet bijwerken. Probeer het later opnieuw.</value>
+  </data>
+  <data name="SettingsRestoreWarning.Text" xml:space="preserve">
+    <value>Weet je zeker dat je je wijzigingen wilt annuleren?</value>
+  </data>
+  <data name="SettingsUpdateSuccess.Text" xml:space="preserve">
+    <value>De instellingen zijn bijgewerkt.</value>
+  </data>
+  <data name="Yes.Text" xml:space="preserve">
+    <value>Ja</value>
+  </data>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Annuleren</value>
+  </data>
+  <data name="lblTenantId.Error" xml:space="preserve">
+    <value>Je moet de Microsoft Tenant ID opgeven</value>
+  </data>
+  <data name="lblTenantId.Help" xml:space="preserve">
+    <value>Microsoft tenant ID. Voor single-tenant apps kan dit zijn: de guid van je directory; de directorynaam in het formaat mijnbedrijf.onmicrosoft.com; de standaard aangepaste domeinnaam die wordt gebruikt in de tenant, bijv. mijnbedrijf.com. Voor multi-tenant scenario's typt u "common" om de provider het gemeenschappelijke autorisatie-eindpunt te laten gebruiken.</value>
+  </data>
+  <data name="lblTenantId.Text" xml:space="preserve">
+    <value>Tenant ID</value>
+  </data>
+  <data name="lblAppId.Error" xml:space="preserve">
+    <value>Je moet je applicatie-ID opgeven</value>
+  </data>
+  <data name="lblAppId.Help" xml:space="preserve">
+    <value>De unieke identifier voor de applicatie</value>
+  </data>
+  <data name="lblAppId.Text" xml:space="preserve">
+    <value>App ID</value>
+  </data>
+  <data name="lblAppSecret.Error" xml:space="preserve">
+    <value>Je moet een geheime sleutel opgeven</value>
+  </data>
+  <data name="lblAppSecret.Help" xml:space="preserve">
+    <value>Geheime sleutel</value>
+  </data>
+  <data name="lblAppSecret.Text" xml:space="preserve">
+    <value>Geheim</value>
+  </data>
+  <data name="lblAutoRedirect.Help" xml:space="preserve">
+    <value>Indien ingeschakeld, zal de inlogpagina automatisch doorverwijzen naar de Microsoft Entra ID inlogpagina</value>
+  </data>
+  <data name="lblAutoRedirect.Text" xml:space="preserve">
+    <value>Automatisch doorverwijzen</value>
+  </data>
+  <data name="lblEnabled.Help" xml:space="preserve">
+    <value>Schakelt de Microsoft Entra ID authenticatieprovider in voor deze portal</value>
+  </data>
+  <data name="lblEnabled.Text" xml:space="preserve">
+    <value>Ingeschakeld</value>
+  </data>
+  <data name="lblDirectory.Text" xml:space="preserve">
+    <value>Directory</value>
+  </data>
+  <data name="lblProviderCredentials.Text" xml:space="preserve">
+    <value>Provider referenties</value>
+  </data>
+  <data name="lblTabDescription.Text" xml:space="preserve">
+    <value>De Microsoft Entra ID Provider is een authenticatieprovider voor DNN Platform die Microsoft Entra ID OAuth2 authenticatie gebruikt om gebruikers te authenticeren.</value>
+  </data>
+  <data name="SaveSettings.Text" xml:space="preserve">
+    <value>Instellingen opslaan</value>
+  </data>
+  <data name="AadClaim.Header.Text" xml:space="preserve">
+    <value>Entra ID Claim</value>
+  </data>
+  <data name="AadExtension.Header.Text" xml:space="preserve">
+    <value>Entra ID Extensie</value>
+  </data>
+  <data name="AadProperty.Header.Text" xml:space="preserve">
+    <value>Entra ID Claim</value>
+  </data>
+  <data name="AadRole.Header.Text" xml:space="preserve">
+    <value>Entra ID rol</value>
+  </data>
+  <data name="AdvancedSettings.Text" xml:space="preserve">
+    <value>Geavanceerde instellingen</value>
+  </data>
+  <data name="cmdAddProfileMapping.Text" xml:space="preserve">
+    <value>Mapping toevoegen</value>
+  </data>
+  <data name="cmdAddRoleMapping.Text" xml:space="preserve">
+    <value>Mapping toevoegen</value>
+  </data>
+  <data name="DnnProfileProperty.Header.Text" xml:space="preserve">
+    <value>DNN Profiel eigenschap</value>
+  </data>
+  <data name="DnnProperty.Header.Text" xml:space="preserve">
+    <value>DNN eigenschap</value>
+  </data>
+  <data name="DnnRole.Header.Text" xml:space="preserve">
+    <value>DNN rol</value>
+  </data>
+  <data name="ErrorMappingDuplicated.Text" xml:space="preserve">
+    <value>Dit item is al gekoppeld</value>
+  </data>
+  <data name="ErrorProfileMappingDuplicated.Text" xml:space="preserve">
+    <value>Deze eigenschap is al gekoppeld</value>
+  </data>
+  <data name="ErrorUserMappingDuplicated.Text" xml:space="preserve">
+    <value>Deze eigenschap is al gekoppeld</value>
+  </data>
+  <data name="GeneralSettings.Text" xml:space="preserve">
+    <value>Algemene instellingen</value>
+  </data>
+  <data name="InvalidAadClaimName.Text" xml:space="preserve">
+    <value>Je moet een geldige Entra ID claimnaam opgeven</value>
+  </data>
+  <data name="InvalidAadPropertyName.Text" xml:space="preserve">
+    <value>Ongeldige Entra ID eigenschapsnaam</value>
+  </data>
+  <data name="InvalidAadRoleName.Text" xml:space="preserve">
+    <value>Ongeldige Entra ID rolnaam</value>
+  </data>
+  <data name="lblAADAppClientId.Error" xml:space="preserve">
+    <value>Je moet de applicatie-ID opgeven</value>
+  </data>
+  <data name="lblAADAppClientId.Help" xml:space="preserve">
+    <value>De applicatie-ID (wordt gebruikt om gebruikersgegevens te synchroniseren)</value>
+  </data>
+  <data name="lblAADAppClientId.Text" xml:space="preserve">
+    <value>Applicatie ID</value>
+  </data>
+  <data name="lblAADAppSecret.Error" xml:space="preserve">
+    <value>Je moet de applicatiesleutel opgeven</value>
+  </data>
+  <data name="lblAADAppSecret.Help" xml:space="preserve">
+    <value>Een geldige sleutel voor de applicatie</value>
+  </data>
+  <data name="lblAADAppSecret.Text" xml:space="preserve">
+    <value>Applicatiesleutel</value>
+  </data>
+  <data name="lblAadClaimName.Help" xml:space="preserve">
+    <value>De Entra ID claimnaam</value>
+  </data>
+  <data name="lblAadClaimName.Text" xml:space="preserve">
+    <value>Entra ID Claim*</value>
+  </data>
+  <data name="lblAadExtensionName.Help" xml:space="preserve">
+    <value>De Entra ID extensienaam</value>
+  </data>
+  <data name="lblAadExtensionName.Text" xml:space="preserve">
+    <value>Entra ID extensie</value>
+  </data>
+  <data name="lblAadPropertyName.Help" xml:space="preserve">
+    <value>Dit is de Entra ID eigenschap waarmee de DNN eigenschap wordt gekoppeld.</value>
+  </data>
+  <data name="lblAadPropertyName.Text" xml:space="preserve">
+    <value>Entra ID eigenschap</value>
+  </data>
+  <data name="lblAadRoleName.Text" xml:space="preserve">
+    <value>Entra ID rol*</value>
+  </data>
+  <data name="lblAADSettings.Text" xml:space="preserve">
+    <value>Graph Client</value>
+  </data>
+  <data name="lblAPIResource.Text" xml:space="preserve">
+    <value>API Resource</value>
+  </data>
+  <data name="lblAPIResourceDesc.Text" xml:space="preserve">
+    <value>Als je de uitgegeven tokens gaat gebruiken om toegang te krijgen tot een externe WebAPI die Microsoft Entra ID autorisatie gebruikt, kun je de App ID URI en scopes opgeven die door de WebAPI worden gevalideerd</value>
+  </data>
+  <data name="lblAppIdUri.Help" xml:space="preserve">
+    <value>De App ID URI van de externe WebAPI, verkregen uit de Azure portal (bijv. https://mijntenant.onmicrosoft.com/mijnapi/)</value>
+  </data>
+  <data name="lblAppIdUri.Text" xml:space="preserve">
+    <value>App ID URI</value>
+  </data>
+  <data name="lblAudiences.Help" xml:space="preserve">
+    <value>Voer de doelgroepen in om JWT tokens te valideren, gescheiden door komma's. Als dit leeg wordt gelaten, wordt standaard de applicatie-ID gebruikt.</value>
+  </data>
+  <data name="lblAudiences.Text" xml:space="preserve">
+    <value>Doelgroepen</value>
+  </data>
+  <data name="lblDnnProfilePropertyName.Help" xml:space="preserve">
+    <value>De DNN profieleigenschap die je wilt koppelen aan een Entra ID claim</value>
+  </data>
+  <data name="lblDnnProfilePropertyName.Text" xml:space="preserve">
+    <value>DNN profieleigenschap*</value>
+  </data>
+  <data name="lblDnnPropertyName.Help" xml:space="preserve">
+    <value>Dit is de DNN eigenschap die wordt gekoppeld aan een Entra ID eigenschap</value>
+  </data>
+  <data name="lblDnnPropertyName.Text" xml:space="preserve">
+    <value>DNN eigenschap</value>
+  </data>
+  <data name="lblDnnRoleName.Help" xml:space="preserve">
+    <value>De DNN rol die je wilt koppelen aan een Entra ID rol</value>
+  </data>
+  <data name="lblDnnRoleName.Text" xml:space="preserve">
+    <value>DNN rol*</value>
+  </data>
+  <data name="lblDnnUserPropertyName.Help" xml:space="preserve">
+    <value>De DNN gebruikerseigenschap die je wilt koppelen aan een Entra ID claim</value>
+  </data>
+  <data name="lblDnnUserPropertyName.Text" xml:space="preserve">
+    <value>DNN gebruikerseigenschap*</value>
+  </data>
+  <data name="lblGraphClient.Help" xml:space="preserve">
+    <value>Een Tenant ID, een applicatie-ID en een applicatiegeheim zijn nodig om de Microsoft Graph API te gebruiken. Standaard worden de waarden gebruikt die zijn ingevoerd in Algemene instellingen, maar u kunt ook andere waarden opgeven.</value>
+  </data>
+  <data name="lblGroupNamePrefixEnabled.Help" xml:space="preserve">
+    <value>Schakelt het toevoegen van het voorvoegsel "Azure-" in voor alle groepsnamen afkomstig van Microsoft Entra.</value>
+  </data>
+  <data name="lblGroupNamePrefixEnabled.Text" xml:space="preserve">
+    <value>Groepsnamen voorzien van voorvoegsel</value>
+  </data>
+  <data name="lblNamePrefixes.Help" xml:space="preserve">
+    <value>Standaard bevatten alle gebruikers en groepen afkomstig van Microsoft Entra het voorvoegsel "Azure-". De volgende twee opties stellen u in staat om het toevoegen van dat voorvoegsel uit te schakelen</value>
+  </data>
+  <data name="lblNamePrefixes.Text" xml:space="preserve">
+    <value>Naam voorvoegsels</value>
+  </data>
+  <data name="lblPortalId.Text" xml:space="preserve">
+    <value>Portal ID</value>
+  </data>
+  <data name="lblProfilePropertiesMapping.Text" xml:space="preserve">
+    <value>GEBRUIKERSPROFIELEIGENSCHAPPEN MAPPING</value>
+  </data>
+  <data name="lblProfileSyncEnabled.Help" xml:space="preserve">
+    <value>Schakelt de profielsynchronisatie in voor deze portal</value>
+  </data>
+  <data name="lblProfileSyncEnabled.Text" xml:space="preserve">
+    <value>Profielsynchronisatie</value>
+  </data>
+  <data name="lblRedirectUri.Help" xml:space="preserve">
+    <value>Indien opgegeven, de doorverwijzings-URI na een succesvolle login. Standaard (leeg) wordt de gebruiker doorverwezen naar de pagina die de login doorverwijzing heeft gestart.</value>
+  </data>
+  <data name="lblRedirectUri.Text" xml:space="preserve">
+    <value>Doorverwijzings URI</value>
+  </data>
+  <data name="lblRedirectUri.Error" xml:space="preserve">
+    <value>Je moet een volledige, geldige HTTPS of localhost URL opgeven</value>
+  </data>
+  <data name="lblOnErrorUri.Help" xml:space="preserve">
+    <value>Indien opgegeven, wordt de gebruiker bij een Microsoft Entra authenticatiefout doorverwezen naar deze URL in plaats van de standaard DNN inlogpagina te tonen.</value>
+  </data>
+  <data name="lblOnErrorUri.Text" xml:space="preserve">
+    <value>Bij authenticatiefout URI</value>
+  </data>
+  <data name="lblRolesMapping.Text" xml:space="preserve">
+    <value>ROLLENMAPPING</value>
+  </data>
+  <data name="lblRoleSyncEnabled.Help" xml:space="preserve">
+    <value>Schakelt de rolsynchronisatie in voor deze portal</value>
+  </data>
+  <data name="lblRoleSyncEnabled.Text" xml:space="preserve">
+    <value>Rolsynchronisatie</value>
+  </data>
+  <data name="lblScopes.Help" xml:space="preserve">
+    <value>De scopes gescheiden door spaties, die worden opgenomen in de uitgegeven tokens, om te worden gevalideerd door de externe WebAPI (bijv. "read write")</value>
+  </data>
+  <data name="lblScopes.Text" xml:space="preserve">
+    <value>Scopes</value>
+  </data>
+  <data name="lblSynchronization.Text" xml:space="preserve">
+    <value>Synchronisatie</value>
+  </data>
+  <data name="lblSynchronizationDesc.Text" xml:space="preserve">
+    <value>Het synchronisatieproces kan automatisch rollen, gebruikers en profielen van je Microsoft Entra tenant synchroniseren naar je DNN portal. Dit kan de loginprestaties beïnvloeden.</value>
+  </data>
+  <data name="lblTabDescription.Text1" xml:space="preserve">
+    <value>De Microsoft Entra ID Provider is een authenticatieprovider voor DNN Platform die Microsoft Entra ID OAuth2 authenticatie gebruikt om gebruikers te authenticeren.</value>
+  </data>
+  <data name="lblTokenValidation.Help" xml:space="preserve">
+    <value>Deze provider ondersteunt JWT autorisatie. Je kunt een JWT token rechtstreeks van de Microsoft Entra API verkrijgen met je gewenste doelgroepen, en vervolgens een DNN WebAPI controller aanroepen. Hieronder kun je verschillende instellingen opgeven om uitgegeven tokens te valideren.</value>
+  </data>
+  <data name="lblTokenValidation.Text" xml:space="preserve">
+    <value>Token validatie</value>
+  </data>
+  <data name="lblUseGlobalSettings.Help" xml:space="preserve">
+    <value>Indien ingeschakeld, worden alle instellingen toegepast op alle portals in deze installatie. Alleen supergebruikers kunnen deze instelling bewerken</value>
+  </data>
+  <data name="lblUseGlobalSettings.Text" xml:space="preserve">
+    <value>Algemene instellingen gebruiken</value>
+  </data>
+  <data name="lblUsernamePrefixEnabled.Help" xml:space="preserve">
+    <value>Schakelt het toevoegen van het voorvoegsel "Azure-" in voor alle gebruikersnamen afkomstig van Microsoft Entra.</value>
+  </data>
+  <data name="lblUsernamePrefixEnabled.Text" xml:space="preserve">
+    <value>Gebruikersnamen voorzien van voorvoegsel</value>
+  </data>
+  <data name="lblUsersMapping.Text" xml:space="preserve">
+    <value>GEBRUIKERSEIGENSCHAPPEN MAPPINGS</value>
+  </data>
+  <data name="MappingDeletedWarning.Text" xml:space="preserve">
+    <value>Weet je zeker dat je deze mapping wilt verwijderen?&lt;br/&gt;Microsoft Entra gebruikers blijven in de DNN rol</value>
+  </data>
+  <data name="MappingDeleteSuccess.Text" xml:space="preserve">
+    <value>Mapping succesvol verwijderd</value>
+  </data>
+  <data name="Mappings.Text" xml:space="preserve">
+    <value>Mappings</value>
+  </data>
+  <data name="MappingUpdateSuccess.Text" xml:space="preserve">
+    <value>Mapping succesvol opgeslagen</value>
+  </data>
+  <data name="NamePrefixesWarningMessage.Text" xml:space="preserve">
+    <value>Waarschuwing: Als deze instellingen wijzigen, worden alle gebruikers die al zijn gesynchroniseerd opnieuw gesynchroniseerd met hun nieuwe gebruikersnamen na de volgende login, waarbij de oude in het systeem blijven.</value>
+  </data>
+  <data name="ProfileMappingDeletedWarning.Text" xml:space="preserve">
+    <value>Weet je zeker dat je deze mapping wilt verwijderen?</value>
+  </data>
+  <data name="TabRoleMappings.Text" xml:space="preserve">
+    <value>Rollenmappings</value>
+  </data>
+  <data name="TabUserMappings.Text" xml:space="preserve">
+    <value>Gebruikersmappings</value>
+  </data>
+  <data name="TabUserProfileMappings.Text" xml:space="preserve">
+    <value>Gebruikersprofielmappings</value>
+  </data>
+  <data name="lblAutoAuthorize.Help" xml:space="preserve">
+    <value>Indien ingeschakeld, automatisch gebruikers autoriseren na inloggen, onafhankelijk van de portal gebruikersregistratie-instellingen</value>
+  </data>
+  <data name="lblAutoAuthorize.Text" xml:space="preserve">
+    <value>Gebruikers automatisch autoriseren na inloggen</value>
+  </data>
+  <data name="lblAadRoleName.Help" xml:space="preserve">
+    <value>De Microsoft Entra rolnaam om te koppelen</value>
+  </data>
+  <data name="TabSynchronization.Text" xml:space="preserve">
+    <value>Synchronisatie</value>
+  </data>
+  <data name="TabMore.Text" xml:space="preserve">
+    <value>Meer</value>
+  </data>
+  <data name="lblAuthorizationCode.Text" xml:space="preserve">
+    <value>Autorisatiecode</value>
+  </data>
+  <data name="lblAuthorizationCodePrompt.Text" xml:space="preserve">
+    <value>Prompt</value>
+  </data>
+  <data name="lblAuthorizationCodePrompt.Help" xml:space="preserve">
+    <value>Geeft het type gebruikersinteractie aan dat vereist is. Het standaardgedrag is om ofwel de enige huidige gebruiker in te loggen, de accountkiezer te tonen als er meerdere gebruikers zijn, of de inlogpagina te tonen als er geen gebruikers zijn ingelogd.
+&lt;br/&gt;
+&lt;b&gt;[login]&lt;/b&gt; dwingt de gebruiker om hun inloggegevens in te voeren bij dat verzoek, waardoor single-sign on wordt tenietgedaan.
+&lt;br/&gt;
+&lt;b&gt;[none]&lt;/b&gt; is het tegenovergestelde. Het zorgt ervoor dat de gebruiker geen interactieve prompt krijgt. Als het verzoek niet stilletjes kan worden voltooid met single-sign on, retourneert het Microsoft identity platform een interaction_required fout.
+&lt;br/&gt;
+&lt;b&gt;[consent]&lt;/b&gt; activeert het OAuth toestemmingsdialoogvenster nadat de gebruiker is ingelogd, waarbij de gebruiker wordt gevraagd om toestemming te geven aan de app.
+&lt;br/&gt;
+&lt;b&gt;[select_account]&lt;/b&gt; onderbreekt single sign-on en biedt een accountselectie-ervaring met alle accounts in de sessie of een onthouden account of een optie om een ander account te gebruiken.</value>
+  </data>
+  <data name="lblAuthorizationCodeDomainHint.Text" xml:space="preserve">
+    <value>Domeinhint</value>
+  </data>
+  <data name="lblAuthorizationCodeDomainHint.Help" xml:space="preserve">
+    <value>Indien opgenomen, slaat de app het op e-mail gebaseerde detectieproces over dat de gebruiker doorloopt op de inlogpagina, wat leidt tot een iets meer gestroomlijnde gebruikerservaring.</value>
+  </data>
+  <data name="lblPromptBlank" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="lblPromptLogin" xml:space="preserve">
+    <value>login</value>
+  </data>
+  <data name="lblPromptNone" xml:space="preserve">
+    <value>none</value>
+  </data>
+  <data name="lblPromptConsent" xml:space="preserve">
+    <value>consent</value>
+  </data>
+  <data name="lblPromptSelectAccount" xml:space="preserve">
+    <value>select_account</value>
+  </data>
+  <data name="PromptBlank" xml:space="preserve">
+    <value />
+  </data>
+  <data name="PromptLogin" xml:space="preserve">
+    <value>login</value>
+  </data>
+  <data name="PromptNone" xml:space="preserve">
+    <value>none</value>
+  </data>
+  <data name="PromptConsent" xml:space="preserve">
+    <value>consent</value>
+  </data>
+  <data name="PromptSelectAccount" xml:space="preserve">
+    <value>select_account</value>
+  </data>
+  <data name="lblUserSyncEnabled.Help" xml:space="preserve">
+    <value>Schakelt de gebruikerssynchronisatie in voor deze portal</value>
+  </data>
+  <data name="lblUserSyncEnabled.Text" xml:space="preserve">
+    <value>Gebruikerssynchronisatie</value>
+  </data>
+  <data name="lblAutoMatchExistingUsers.Help" xml:space="preserve">
+    <value>Indien ingeschakeld, zal bij inloggen met Microsoft Entra door een gebruikersnaam op te geven die identiek is aan een bestaande gebruiker aangemaakt in DNN, die gebruiker automatisch worden gekoppeld aan de Microsoft Entra gebruiker.</value>
+  </data>
+  <data name="lblAutoMatchExistingUsers.Text" xml:space="preserve">
+    <value>Bestaande gebruikers automatisch koppelen</value>
+  </data>
+  <data name="lblUseCustomParameters.Help" xml:space="preserve">
+    <value>Indien ingeschakeld, gebruikt de Microsoft Graph API de waarden die in dit gedeelte zijn opgegeven. Anders worden de waarden gebruikt die zijn opgegeven in Algemene instellingen.</value>
+  </data>
+  <data name="lblUseCustomParameters.Text" xml:space="preserve">
+    <value>Aangepaste parameters gebruiken</value>
+  </data>
+</root>
