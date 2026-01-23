@@ -250,7 +250,7 @@
     <value>Modulenaam:</value>
   </data>
   <data name="plNewTabs.Help" xml:space="preserve" lastModified="2015-12-30 06:19:44">
-    <value>Schakel dit vakje in om de module alleen toe te voegen aan nieuwe pagina's. Deze optie is  alleen beschikbaar voor website beheerders.</value>
+    <value>Schakel dit vakje in om de module alleen toe te voegen aan nieuwe pagina's. Deze optie is  alleen beschikbaar voor sitebeheerders.</value>
   </data>
   <data name="plNewTabs.Text" xml:space="preserve">
     <value>Alleen aan nieuwe pagina's toevoegen?</value>
