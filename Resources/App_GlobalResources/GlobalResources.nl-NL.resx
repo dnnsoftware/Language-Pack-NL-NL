@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
@@ -1311,4 +1311,3 @@ Beoordeel deze gebruiker. Wanneer u de gebruiker goedkeurt moet u een (nieuwe) w
     <value>[Portal:PortalName] Wachtwoord reset opgevraagd door deze NIET goedgekeurde gebruiker: [User:Username]</value>
   </data>
 </root>
-
