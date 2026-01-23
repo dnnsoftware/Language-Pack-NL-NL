@@ -118,298 +118,298 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ErrorPages.Text" xml:space="preserve">
-    <value>You must select at least one page to be exported.</value>
+    <value>Je moet ten minste één pagina selecteren om te exporteren.</value>
   </data>
   <data name="nav_Pages.Text" xml:space="preserve">
-    <value>Pages</value>
+    <value>Pagina's</value>
   </data>
   <data name="SiteDetails_Pages.Text" xml:space="preserve">
-    <value>Pages</value>
+    <value>Pagina's</value>
   </data>
   <data name="Description.Label" xml:space="preserve">
-    <value>Description</value>
+    <value>Beschrijving</value>
   </data>
   <data name="HomeDirectory.Label" xml:space="preserve">
-    <value>Home Directory</value>
+    <value>Hoofdmap</value>
   </data>
   <data name="Title.Label" xml:space="preserve">
-    <value>Title</value>
+    <value>Titel</value>
   </data>
   <data name="Delete.Text" xml:space="preserve">
-    <value>Delete</value>
+    <value>Verwijderen</value>
   </data>
   <data name="Edit.Text" xml:space="preserve">
-    <value>Edit</value>
+    <value>Bewerken</value>
   </data>
   <data name="Settings.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>Instellingen</value>
   </data>
   <data name="View.Text" xml:space="preserve">
-    <value>View</value>
+    <value>Bekijken</value>
   </data>
   <data name="Hidden.Text" xml:space="preserve">
-    <value>Page is hidden in menu</value>
+    <value>Pagina is verborgen in menu</value>
   </data>
   <data name="Cancel.Text" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Annuleren</value>
   </data>
   <data name="Continue.Text" xml:space="preserve">
-    <value>Continue</value>
+    <value>Doorgaan</value>
   </data>
   <data name="OnlyAddedSomeMissingLanguagesWarning.Text" xml:space="preserve">
-    <value>Done adding missing languages. Only languages belonging to the parent page were added.</value>
+    <value>Klaar met toevoegen van ontbrekende talen. Alleen talen die bij de bovenliggende pagina horen zijn toegevoegd.</value>
   </data>
   <data name="UpdateLocalizationWarning.Text" xml:space="preserve">
-    <value>Updating localization might take a few minutes depending on the number of modules. Please wait until the process finishes completely.</value>
+    <value>Het bijwerken van de lokalisatie kan enkele minuten duren, afhankelijk van het aantal modules. Wacht totdat het proces volledig is voltooid.</value>
   </data>
   <data name="UpdateLocalizationSuccess.Text" xml:space="preserve">
-    <value>Done!</value>
+    <value>Klaar!</value>
   </data>
   <data name="DragPageTooltip.Text" xml:space="preserve">
-    <value>Drag Page into Location</value>
+    <value>Sleep pagina naar locatie</value>
   </data>
   <data name="DragInvalid.Text" xml:space="preserve">
-    <value>You can't drag a page as a child of itself.</value>
+    <value>Je kunt een pagina niet als subpagina van zichzelf slepen.</value>
   </data>
   <data name="DeletePageConfirm.Text" xml:space="preserve">
-    <value>&lt;p&gt;Please confirm you wish to delete this page.&lt;/p&gt;</value>
+    <value>&lt;p&gt;Bevestig dat je deze pagina wilt verwijderen.&lt;/p&gt;</value>
   </data>
   <data name="Pending.Text" xml:space="preserve">
-    <value>Please drag the page into the desired location.</value>
+    <value>Sleep de pagina naar de gewenste locatie.</value>
   </data>
   <data name="Search.Text" xml:space="preserve">
-    <value>Search</value>
+    <value>Zoeken</value>
   </data>
   <data name="page_name_tooltip" xml:space="preserve">
-    <value>Page Name</value>
+    <value>Paginanaam</value>
   </data>
   <data name="page_title_tooltip" xml:space="preserve">
-    <value>Page Title</value>
+    <value>Paginatitel</value>
   </data>
   <data name="AnErrorOccurred.Text" xml:space="preserve">
-    <value>An error has occurred.</value>
+    <value>Er is een fout opgetreden.</value>
   </data>
   <data name="DeleteModuleConfirm.Text" xml:space="preserve">
-    <value>Are you sure you want to delete the module "[MODULETITLE]" from this page?</value>
+    <value>Weet je zeker dat je de module "[MODULETITLE]" van deze pagina wilt verwijderen?</value>
   </data>
   <data name="SitemapPriority.Text" xml:space="preserve">
-    <value>Sitemap Priority</value>
+    <value>Sitemap prioriteit</value>
   </data>
   <data name="SitemapPriority_tooltip.Text" xml:space="preserve">
-    <value>Enter the desired priority (between 0 and 1.0). This helps determine how this page is ranked in Google with respect to other pages on your site (0.5 is the default).</value>
+    <value>Voer de gewenste prioriteit in (tussen 0 en 1.0). Dit helpt bepalen hoe deze pagina wordt gerangschikt in Google ten opzichte van andere pagina's op uw site (0.5 is de standaard).</value>
   </data>
   <data name="PageHeaderTags.Text" xml:space="preserve">
-    <value>Page Header Tags</value>
+    <value>Pagina header tags</value>
   </data>
   <data name="PageHeaderTags_tooltip.Text" xml:space="preserve">
-    <value>Enter any tags (i.e. META tags) that should be rendered in the "HEAD" tag of the HTML for this page.</value>
+    <value>Voer tags in (bijv. META tags) die moeten worden weergegeven in de "HEAD" tag van de HTML voor deze pagina.</value>
   </data>
   <data name="AddUrl.Text" xml:space="preserve">
-    <value>Add URL</value>
+    <value>URL toevoegen</value>
   </data>
   <data name="UrlsForThisPage.Text" xml:space="preserve">
-    <value>URLs for this page</value>
+    <value>URL's voor deze pagina</value>
   </data>
   <data name="Url.Text" xml:space="preserve">
     <value>URL</value>
   </data>
   <data name="UrlType.Text" xml:space="preserve">
-    <value>URL Type</value>
+    <value>URL type</value>
   </data>
   <data name="GeneratedBy.Text" xml:space="preserve">
-    <value>Generated By</value>
+    <value>Gegenereerd door</value>
   </data>
   <data name="None.Text" xml:space="preserve">
-    <value>None</value>
+    <value>Geen</value>
   </data>
   <data name="Include.Text" xml:space="preserve">
-    <value>Include</value>
+    <value>Opnemen</value>
   </data>
   <data name="Exclude.Text" xml:space="preserve">
-    <value>Exclude</value>
+    <value>Uitsluiten</value>
   </data>
   <data name="Security.Text" xml:space="preserve">
-    <value>Security</value>
+    <value>Beveiliging</value>
   </data>
   <data name="SecureConnection.Text" xml:space="preserve">
-    <value>Secure Connection</value>
+    <value>Beveiligde verbinding</value>
   </data>
   <data name="SecureConnection_tooltip.Text" xml:space="preserve">
-    <value>Specify whether or not this page should be forced to use a secure connection (SSL). This option will only be enabled if the administrator has Enabled SSL in the site settings.</value>
+    <value>Geef aan of deze pagina moet worden gedwongen een beveiligde verbinding (SSL) te gebruiken. Deze optie is alleen ingeschakeld als de beheerder SSL heeft ingeschakeld in de site-instellingen.</value>
   </data>
   <data name="AllowIndexing.Text" xml:space="preserve">
-    <value>Allow Indexing</value>
+    <value>Indexeren toestaan</value>
   </data>
   <data name="AllowIndexing_tooltip.Text" xml:space="preserve">
-    <value>This setting controls whether a page should be indexed by search crawlers. It uses the INDEX/NOINDEX values for ROBOTS meta tag.</value>
+    <value>Deze instelling bepaalt of een pagina moet worden geïndexeerd door zoekcrawlers. Het gebruikt de INDEX/NOINDEX waarden voor de ROBOTS meta tag.</value>
   </data>
   <data name="CacheSettings.Text" xml:space="preserve">
-    <value>Cache Settings</value>
+    <value>Cache-instellingen</value>
   </data>
   <data name="OutputCacheProvider.Text" xml:space="preserve">
-    <value>Output Cache Provider</value>
+    <value>Output cache provider</value>
   </data>
   <data name="OutputCacheProvider_tooltip.Text" xml:space="preserve">
-    <value>Select the provider to use for this page.</value>
+    <value>Selecteer de provider die voor deze pagina moet worden gebruikt.</value>
   </data>
   <data name="CacheDuration.Text" xml:space="preserve">
-    <value>Cache Duration (seconds)</value>
+    <value>Cache duur (seconden)</value>
   </data>
   <data name="CacheDuration_tooltip.Text" xml:space="preserve">
-    <value>Enter the duration (in seconds) to cache the page for. This must be an integer.</value>
+    <value>Voer de duur (in seconden) in om de pagina in de cache op te slaan. Dit moet een geheel getal zijn.</value>
   </data>
   <data name="IncludeExcludeParams.Text" xml:space="preserve">
-    <value>Include / Exclude Params by default</value>
+    <value>Parameters opnemen / uitsluiten standaard</value>
   </data>
   <data name="IncludeExcludeParams_tooltip.Text" xml:space="preserve">
-    <value>If set to INCLUDE, all querystring parameter value variations will result in a new item in the output cache. If set to EXCLUDE, querystring parameters will not be used to vary the cached page.</value>
+    <value>Als ingesteld op OPNEMEN, zullen alle querystring parameterwaardevariaties resulteren in een nieuw item in de output cache. Als ingesteld op UITSLUITEN, zullen querystring parameters niet worden gebruikt om de gecachte pagina te variëren.</value>
   </data>
   <data name="IncludeParamsInCacheValidation.Text" xml:space="preserve">
-    <value>Include Params In Cache Validation</value>
+    <value>Parameters opnemen in cache validatie</value>
   </data>
   <data name="IncludeParamsInCacheValidation_tooltip.Text" xml:space="preserve">
-    <value>A list of querystring parameter names (separated by commas) to be INCLUDED in the variations of cached pages. This setting is only valid when the default above is set to EXCLUDE querystring parameters from cached page variations.</value>
+    <value>Een lijst van querystring parameternamen (gescheiden door komma's) die moeten worden OPGENOMEN in de variaties van gecachte pagina's. Deze instelling is alleen geldig wanneer de standaardinstelling hierboven is ingesteld op UITSLUITEN van querystring parameters uit gecachte paginariaties.</value>
   </data>
   <data name="ExcludeParamsInCacheValidation.Text" xml:space="preserve">
-    <value>Exclude Params In Cache Validation</value>
+    <value>Parameters uitsluiten in cache validatie</value>
   </data>
   <data name="ExcludeParamsInCacheValidation_tooltip.Text" xml:space="preserve">
-    <value>A list of querystring parameter names (separated by commas) to be EXCLUDED from the variations of cached pages. This setting is only valid when the default above is set to INCLUDE querystring parameters from cached page variations.</value>
+    <value>Een lijst van querystring parameternamen (gescheiden door komma's) die moeten worden UITGESLOTEN van de variaties van gecachte pagina's. Deze instelling is alleen geldig wanneer de standaardinstelling hierboven is ingesteld op OPNEMEN van querystring parameters uit gecachte paginariaties.</value>
   </data>
   <data name="VaryByLimit.Text" xml:space="preserve">
-    <value>Vary By Limit</value>
+    <value>Varieer per limiet</value>
   </data>
   <data name="VaryByLimit_tooltip.Text" xml:space="preserve">
-    <value>Enter the maximum number of variations to cache for this page. This must be an integer. (Note, this feature prevents potential denial of service attacks.)</value>
+    <value>Voer het maximum aantal variaties in om voor deze pagina in de cache op te slaan. Dit moet een geheel getal zijn. (Let op: deze functie voorkomt potentiële denial of service aanvallen.)</value>
   </data>
   <data name="ModulesOnThisPage.Text" xml:space="preserve">
-    <value>Modules on this page</value>
+    <value>Modules op deze pagina</value>
   </data>
   <data name="NoModules.Text" xml:space="preserve">
-    <value>This page does not have any modules.</value>
+    <value>Deze pagina heeft geen modules.</value>
   </data>
   <data name="Advanced.Text" xml:space="preserve">
-    <value>Advanced</value>
+    <value>Geavanceerd</value>
   </data>
   <data name="Appearance.Text" xml:space="preserve">
-    <value>Appearance</value>
+    <value>Weergave</value>
   </data>
   <data name="CopyAppearanceToDescendantPages.Text" xml:space="preserve">
-    <value>Copy Appearance to Descendant Pages</value>
+    <value>Weergave kopiëren naar onderliggende pagina's</value>
   </data>
   <data name="CopyPermissionsToDescendantPages.Text" xml:space="preserve">
-    <value>Copy Permissions to Descendant Pages</value>
+    <value>Rechten kopiëren naar onderliggende pagina's</value>
   </data>
   <data name="Layout.Text" xml:space="preserve">
     <value>Layout</value>
   </data>
   <data name="PageContainer.Text" xml:space="preserve">
-    <value>Page Container</value>
+    <value>Pagina container</value>
   </data>
   <data name="PageStyleSheet.Text" xml:space="preserve">
-    <value>Page Stylesheet</value>
+    <value>Pagina stylesheet</value>
   </data>
   <data name="PageTheme.Text" xml:space="preserve">
-    <value>Page Theme</value>
+    <value>Pagina thema</value>
   </data>
   <data name="PageThemeTooltip.Text" xml:space="preserve">
-    <value>The selected theme will be applied to this page.</value>
+    <value>Het geselecteerde thema wordt toegepast op deze pagina.</value>
   </data>
   <data name="PageLayoutTooltip.Text" xml:space="preserve">
-    <value>The selected layout will be applied to this page.</value>
+    <value>De geselecteerde layout wordt toegepast op deze pagina.</value>
   </data>
   <data name="PageContainerTooltip.Text" xml:space="preserve">
-    <value>The selected container will be applied to all modules on this page.</value>
+    <value>De geselecteerde container wordt toegepast op alle modules op deze pagina.</value>
   </data>
   <data name="PreviewThemeLayoutAndContainer.Text" xml:space="preserve">
-    <value>Preview Theme Layout and Container</value>
+    <value>Voorbeeld van thema layout en container</value>
   </data>
   <data name="NotEmptyNameError.Text" xml:space="preserve">
-    <value>This field is required</value>
+    <value>Dit veld is verplicht</value>
   </data>
   <data name="AddPage.Text" xml:space="preserve">
-    <value>Add Page</value>
+    <value>Pagina toevoegen</value>
   </data>
   <data name="PageSettings.Text" xml:space="preserve">
-    <value>Page Settings</value>
+    <value>Pagina-instellingen</value>
   </data>
   <data name="AddMultiplePages.Text" xml:space="preserve">
-    <value>Add Multiple Pages</value>
+    <value>Meerdere pagina's toevoegen</value>
   </data>
   <data name="AdvancedFilters.Text" xml:space="preserve">
-    <value>Advanced Filters</value>
+    <value>Geavanceerde filters</value>
   </data>
   <data name="Clear.Text" xml:space="preserve">
-    <value>Clear</value>
+    <value>Wissen</value>
   </data>
   <data name="Apply.Text" xml:space="preserve">
-    <value>Apply</value>
+    <value>Toepassen</value>
   </data>
   <data name="NameTooltip.Text" xml:space="preserve">
-    <value>This is the name of the Page. The text you enter will be displayed in the menu system.</value>
+    <value>Dit is de naam van de pagina. De tekst die u invoert wordt weergegeven in het menusysteem.</value>
   </data>
   <data name="DisplayInMenu.Text" xml:space="preserve">
-    <value>Display in Menu</value>
+    <value>Weergeven in menu</value>
   </data>
   <data name="DisplayInMenuTooltip.Text" xml:space="preserve">
-    <value>You have the choice on whether or not to include the page in the main navigation menu. If a page is not included in the menu, you can still link to it based on its page URL.</value>
+    <value>Je kunt kiezen of je de pagina wel of niet wilt opnemen in het hoofdnavigatiemenu. Als een pagina niet in het menu is opgenomen, kun je er nog steeds naar linken op basis van de pagina-URL.</value>
   </data>
   <data name="Name.Text" xml:space="preserve">
-    <value>Name</value>
+    <value>Naam</value>
   </data>
   <data name="EnableScheduling.Text" xml:space="preserve">
-    <value>Enable Scheduling</value>
+    <value>Planning inschakelen</value>
   </data>
   <data name="EnableSchedulingTooltip.Text" xml:space="preserve">
-    <value>Enable scheduling for this page.</value>
+    <value>Planning voor deze pagina inschakelen.</value>
   </data>
   <data name="StartDate.Text" xml:space="preserve">
-    <value>Start Date</value>
+    <value>Startdatum</value>
   </data>
   <data name="EndDate.Text" xml:space="preserve">
-    <value>End Date</value>
+    <value>Einddatum</value>
   </data>
   <data name="TitleTooltip.Text" xml:space="preserve">
-    <value>Enter a title for the page. The title will be displayed in the browser window title. For SEO it is recommended to use 50 - 60 characters</value>
+    <value>Voer een titel in voor de pagina. De titel wordt weergegeven in de browsertitel. Voor SEO wordt aanbevolen om 50 - 60 tekens te gebruiken</value>
   </data>
   <data name="Keywords.Text" xml:space="preserve">
-    <value>Keywords</value>
+    <value>Zoekwoorden</value>
   </data>
   <data name="Tags.Text" xml:space="preserve">
     <value>Tags</value>
   </data>
   <data name="ExistingPage.Text" xml:space="preserve">
-    <value>Existing Page</value>
+    <value>Bestaande pagina</value>
   </data>
   <data name="ExistingPageTooltip.Text" xml:space="preserve">
-    <value>Redirect to an existing page on your site.</value>
+    <value>Doorverwijzen naar een bestaande pagina op je site.</value>
   </data>
   <data name="ExternalUrl.Text" xml:space="preserve">
     <value>URL</value>
   </data>
   <data name="ExternalUrlTooltip.Text" xml:space="preserve">
-    <value>Redirect to an absolute or relative URL.</value>
+    <value>Doorverwijzen naar een absolute of relatieve URL.</value>
   </data>
   <data name="PermanentRedirect.Text" xml:space="preserve">
-    <value>Permanent Redirect</value>
+    <value>Permanente doorverwijzing</value>
   </data>
   <data name="PermanentRedirectTooltip.Text" xml:space="preserve">
-    <value>Check this box if you want to notify the client that this page should be considered as permanently moved. This would allow SearchEngines to modify their URLs to directly link to the resource. This is ignored if the LinkType is None.</value>
+    <value>Vink dit vakje aan als je de client wilt melden dat deze pagina als permanent verplaatst moet worden beschouwd. Dit zou zoekmachines in staat stellen hun URL's aan te passen om rechtstreeks naar de bron te linken. Dit wordt genegeerd als het LinkType None is.</value>
   </data>
   <data name="OpenLinkInNewWindow.Text" xml:space="preserve">
-    <value>Open Link In New Window</value>
+    <value>Link openen in nieuw venster</value>
   </data>
   <data name="OpenLinkInNewWindowTooltip.Text" xml:space="preserve">
-    <value>Open Link in New Browser Window</value>
+    <value>Link openen in nieuw browservenster</value>
   </data>
   <data name="Save.Text" xml:space="preserve">
-    <value>Save</value>
+    <value>Opslaan</value>
   </data>
   <data name="Details.Text" xml:space="preserve">
     <value>Details</value>
   </data>
   <data name="Permissions.Text" xml:space="preserve">
-    <value>Permissions</value>
+    <value>Rechten</value>
   </data>
   <data name="Modules.Text" xml:space="preserve">
     <value>Modules</value>
@@ -418,1435 +418,1749 @@
     <value>S.E.O.</value>
   </data>
   <data name="More.Text" xml:space="preserve">
-    <value>More</value>
+    <value>Meer</value>
   </data>
   <data name="Created.Text" xml:space="preserve">
-    <value>Created</value>
+    <value>Aangemaakt</value>
   </data>
   <data name="CreatedValue.Text" xml:space="preserve">
-    <value>[CREATEDDATE] by [CREATEDUSER]</value>
+    <value>[CREATEDDATE] door [CREATEDUSER]</value>
   </data>
   <data name="PageParent.Text" xml:space="preserve">
-    <value>Page Parent</value>
+    <value>Bovenliggende pagina</value>
   </data>
   <data name="Status.Text" xml:space="preserve">
     <value>Status</value>
   </data>
   <data name="PageType.Text" xml:space="preserve">
-    <value>Page Type</value>
+    <value>Paginatype</value>
   </data>
   <data name="PageId.Text" xml:space="preserve">
-    <value>Page ID</value>
+    <value>Pagina-ID</value>
   </data>
   <data name="Standard.Text" xml:space="preserve">
-    <value>Standard</value>
+    <value>Standaard</value>
   </data>
   <data name="Existing.Text" xml:space="preserve">
-    <value>Existing</value>
+    <value>Bestaand</value>
   </data>
   <data name="File.Text" xml:space="preserve">
-    <value>File</value>
+    <value>Bestand</value>
   </data>
   <data name="PageStyleSheetTooltip.Text" xml:space="preserve">
-    <value>A stylesheet that will only be loaded for this page. The file must be located in the home directory or a sub folder of the current website.</value>
+    <value>Een stylesheet die alleen voor deze pagina wordt geladen. Het bestand moet zich bevinden in de hoofdmap of een submap van de huidige website.</value>
   </data>
   <data name="SetPageContainer.Text" xml:space="preserve">
-    <value>set page container</value>
+    <value>pagina container instellen</value>
   </data>
   <data name="SetPageLayout.Text" xml:space="preserve">
-    <value>set page layout</value>
+    <value>pagina layout instellen</value>
   </data>
   <data name="SetPageTheme.Text" xml:space="preserve">
-    <value>set page theme</value>
+    <value>pagina thema instellen</value>
   </data>
   <data name="BackToPages.Text" xml:space="preserve">
-    <value>Back to page</value>
+    <value>Terug naar pagina</value>
   </data>
   <data name="ChangesNotSaved.Text" xml:space="preserve">
-    <value>Changes have not been saved</value>
+    <value>Wijzigingen zijn niet opgeslagen</value>
   </data>
   <data name="Pages_Seo_GeneratedByAutomatic.Text" xml:space="preserve">
-    <value>Automatic</value>
+    <value>Automatisch</value>
   </data>
   <data name="CopyAppearanceToDescendantPagesSuccess.Text" xml:space="preserve">
-    <value>Appearance has been copied to descendant pages successfully</value>
+    <value>Weergave is succesvol gekopieerd naar onderliggende pagina's</value>
   </data>
   <data name="CopyPermissionsToDescendantPagesSuccess.Text" xml:space="preserve">
-    <value>Permissions have been copied to descendant pages successfully</value>
+    <value>Rechten zijn succesvol gekopieerd naar onderliggende pagina's</value>
   </data>
   <data name="DeletePageModuleSuccess.Text" xml:space="preserve">
-    <value>Module "[MODULETITLE]" has been deleted successfully</value>
+    <value>Module "[MODULETITLE]" is succesvol verwijderd</value>
   </data>
   <data name="BulkPageSettings.Text" xml:space="preserve">
-    <value>Bulk page settings</value>
+    <value>Bulk pagina-instellingen</value>
   </data>
   <data name="BulkPagesToAdd.Text" xml:space="preserve">
-    <value>Bulk pages to add</value>
+    <value>Bulk pagina's om toe te voegen</value>
   </data>
   <data name="AddPages.Text" xml:space="preserve">
-    <value>Add Page(s)</value>
+    <value>Pagina('s) toevoegen</value>
   </data>
   <data name="ValidatePages.Text" xml:space="preserve">
-    <value>Validate Page(s)</value>
+    <value>Pagina('s) valideren</value>
   </data>
   <data name="NoContainers.Text" xml:space="preserve">
-    <value>This Theme does not have any Containers</value>
+    <value>Dit thema heeft geen containers</value>
   </data>
   <data name="NoLayouts.Text" xml:space="preserve">
-    <value>This Theme does not have any Layouts</value>
+    <value>Dit thema heeft geen layouts</value>
   </data>
   <data name="NoThemes.Text" xml:space="preserve">
-    <value>Your site does not have any Themes</value>
+    <value>Je site heeft geen thema's</value>
   </data>
   <data name="NoThemeSelectedForContainers.Text" xml:space="preserve">
-    <value>Please, select a theme to load containers</value>
+    <value>Selecteer een thema om containers te laden</value>
   </data>
   <data name="NoThemeSelectedForLayouts.Text" xml:space="preserve">
-    <value>Please, select a theme to load layouts</value>
+    <value>Selecteer een thema om layouts te laden</value>
   </data>
   <data name="PleaseSelectLayoutContainer.Text" xml:space="preserve">
-    <value>Please, you must select a layout and a container to perform this operation.</value>
+    <value>Je moet een layout en een container selecteren om deze bewerking uit te voeren.</value>
   </data>
   <data name="CancelWithoutSaving.Text" xml:space="preserve">
-    <value>Are you sure you want to close? Changes have been made and will be lost. Do you wish to continue? </value>
+    <value>Weet je zeker dat je wilt sluiten? Er zijn wijzigingen aangebracht die verloren gaan. Wil je doorgaan? </value>
   </data>
   <data name="PathDuplicateWithAlias.Text" xml:space="preserve">
-    <value>There is already a page with the same name, {0} at the same URL path {1}.</value>
+    <value>Er is al een pagina met dezelfde naam, {0} op hetzelfde URL-pad {1}.</value>
   </data>
   <data name="PathDuplicateWithPage.Text" xml:space="preserve">
-    <value>There is already a page with the same URL path {0}.</value>
+    <value>Er is al een pagina met hetzelfde URL-pad {0}.</value>
   </data>
   <data name="TabExists.Text" xml:space="preserve">
-    <value>The Page Name you chose is already being used for another page at the same level of the page hierarchy.</value>
+    <value>De paginanaam die je hebt gekozen wordt al gebruikt voor een andere pagina op hetzelfde niveau van de paginahiërarchie.</value>
   </data>
   <data name="TabRecycled.Text" xml:space="preserve">
-    <value>A page with this name exists in the Recycle Bin.  To restore this page use the Recycle Bin.</value>
+    <value>Een pagina met deze naam bestaat in de prullenbak. Gebruik de prullenbak om deze pagina te herstellen.</value>
   </data>
   <data name="BulkPagesLabel.Text" xml:space="preserve">
-    <value>One page per line, prepended with "&gt;" to create hierarchy</value>
+    <value>Eén pagina per regel, voorafgegaan door "&gt;" om hiërarchie te creëren</value>
   </data>
   <data name="BulkPageResponseTotalMessage.Text" xml:space="preserve">
-    <value>[PAGES_CREATED] of [PAGES_TOTAL] pages were created.</value>
+    <value>[PAGES_CREATED] van [PAGES_TOTAL] pagina's zijn aangemaakt.</value>
   </data>
   <data name="System.Text" xml:space="preserve">
-    <value>System</value>
+    <value>Systeem</value>
   </data>
   <data name="EmptyTabName.Text" xml:space="preserve">
-    <value>Tab Name is Empty</value>
+    <value>Paginanaam is leeg</value>
   </data>
   <data name="InvalidTabName.Text" xml:space="preserve">
-    <value>{0} is an invalid Page Title.</value>
+    <value>{0} is een ongeldige paginatitel.</value>
   </data>
   <data name="CustomUrlPathCleaned.Error" xml:space="preserve">
-    <value>The Page URL entered contains characters which cannot be used in a URL or are illegal characters for a URL.   These characters have been removed.  Click the Update button again to accept the modified URL.</value>
+    <value>De ingevoerde pagina-URL bevat tekens die niet kunnen worden gebruikt in een URL of illegale tekens zijn voor een URL. Deze tekens zijn verwijderd. Klik opnieuw op de knop Bijwerken om de gewijzigde URL te accepteren.</value>
   </data>
   <data name="CustomUrlPortalAlias.Error" xml:space="preserve">
-    <value>Please select a valid site alias for this custom URL.</value>
+    <value>Selecteer een geldige site-alias voor deze aangepaste URL.</value>
   </data>
   <data name="DuplicateUrl.Error" xml:space="preserve">
-    <value>The URL is a duplicate of an existing URL.</value>
+    <value>De URL is een duplicaat van een bestaande URL.</value>
   </data>
   <data name="InvalidRequest.Error" xml:space="preserve">
-    <value>The request is invalid</value>
+    <value>Het verzoek is ongeldig</value>
   </data>
   <data name="Pages_Seo_QueryString.Help" xml:space="preserve">
-    <value>Add an optional Querystring to the Redirect URL to match on a URL with a Path and any matching Querystring parameters. The Querystring is the segment of the URL to the right of the first ? in the URL. e.g. example.com/url-to-redirect?id=123</value>
+    <value>Voeg een optionele querystring toe aan de doorverwijzings-URL om overeen te komen met een URL met een pad en eventuele overeenkomende querystring-parameters. De querystring is het segment van de URL rechts van het eerste ? in de URL. bijv. example.com/url-to-redirect?id=123</value>
   </data>
   <data name="Pages_Seo_QueryString.Text" xml:space="preserve">
-    <value>Query String</value>
+    <value>Query string</value>
   </data>
   <data name="Pages_Seo_SelectedAliasUsage.Help" xml:space="preserve">
-    <value>If the selected site alias is different from the primary site alias, select the usage option.</value>
+    <value>Als de geselecteerde site-alias verschilt van de primaire site-alias, selecteer dan de gebruiksoptie.</value>
   </data>
   <data name="Pages_Seo_SelectedAliasUsage.Text" xml:space="preserve">
-    <value>Selected Site Alias Usage</value>
+    <value>Geselecteerd site-alias gebruik</value>
   </data>
   <data name="Pages_Seo_SelectedAliasUsageOptionPageAndChildPages.Text" xml:space="preserve">
-    <value>Page and Child Pages</value>
+    <value>Pagina en onderliggende pagina's</value>
   </data>
   <data name="Pages_Seo_SelectedAliasUsageOptionSameAsParent.Text" xml:space="preserve">
-    <value>Same as Parent Page</value>
+    <value>Hetzelfde als bovenliggende pagina</value>
   </data>
   <data name="Pages_Seo_SelectedAliasUsageOptionThisPageOnly.Text" xml:space="preserve">
-    <value>This page only</value>
+    <value>Alleen deze pagina</value>
   </data>
   <data name="Pages_Seo_SiteAlias.Help" xml:space="preserve">
-    <value>Select the alias for the page to use a specific alias.</value>
+    <value>Selecteer de alias voor de pagina om een specifieke alias te gebruiken.</value>
   </data>
   <data name="Pages_Seo_SiteAlias.Text" xml:space="preserve">
-    <value>Site Alias</value>
+    <value>Site-alias</value>
   </data>
   <data name="Pages_Seo_UrlPath.Help" xml:space="preserve">
-    <value>Specify the path for the URL. Do not enter http:// or the site alias.</value>
+    <value>Geef het pad voor de URL op. Voer geen http:// of de site-alias in.</value>
   </data>
   <data name="Pages_Seo_UrlPath.Text" xml:space="preserve">
-    <value>URL Path</value>
+    <value>URL-pad</value>
   </data>
   <data name="Pages_Seo_UrlType.Help" xml:space="preserve">
-    <value>Select 'Active' or 'Redirect'. Active means the URL will be used as the URL for the page, and will return a HTTP status code of 200. 'Redirect' means the entered URL will be redirected to the Active URL for the current page.</value>
+    <value>Selecteer 'Actief' of 'Doorverwijzen'. Actief betekent dat de URL wordt gebruikt als de URL voor de pagina en een HTTP-statuscode van 200 retourneert. 'Doorverwijzen' betekent dat de ingevoerde URL wordt doorverwezen naar de actieve URL voor de huidige pagina.</value>
   </data>
   <data name="Pages_Seo_UrlType.Text" xml:space="preserve">
-    <value>URL Type</value>
+    <value>URL-type</value>
   </data>
   <data name="UrlPathNotUnique.Error" xml:space="preserve">
-    <value>The submitted URL is not available.  If you wish to accept the suggested alternative, please click Save.</value>
+    <value>De ingediende URL is niet beschikbaar. Als je het voorgestelde alternatief wilt accepteren, klik je op Opslaan.</value>
   </data>
   <data name="Pages_Seo_DeleteWarningMessage.Text" xml:space="preserve">
-    <value>Are you sure you want to remove this URL?</value>
+    <value>Weet je zeker dat je deze URL wilt verwijderen?</value>
   </data>
   <data name="NoneSpecified.Text" xml:space="preserve">
-    <value>&lt; None Specified &gt; </value>
+    <value>&lt; Niet opgegeven &gt; </value>
   </data>
   <data name="CannotCopyPermissionsToDescendantPages.Text" xml:space="preserve">
-    <value>You do not have permission to copy permissions to descendant pages</value>
+    <value>Je hebt geen toestemming om rechten naar onderliggende pagina's te kopiëren</value>
   </data>
   <data name="SaveAsTemplate.Text" xml:space="preserve">
-    <value>Save as Template</value>
+    <value>Opslaan als sjabloon</value>
   </data>
   <data name="BackToPageSettings.Text" xml:space="preserve">
-    <value>Back to page settings</value>
+    <value>Terug naar pagina-instellingen</value>
   </data>
   <data name="DuplicatePage.Text" xml:space="preserve">
-    <value>Duplicate Page</value>
+    <value>Pagina dupliceren</value>
   </data>
   <data name="BranchParent.Text" xml:space="preserve">
-    <value>Branch Parent</value>
+    <value>Tak bovenliggend</value>
   </data>
   <data name="ModuleSettings.Text" xml:space="preserve">
-    <value>Module Settings</value>
+    <value>Module-instellingen</value>
   </data>
   <data name="TopPage.Text" xml:space="preserve">
-    <value>Top Page</value>
+    <value>Toppagina</value>
   </data>
   <data name="Folder.Text" xml:space="preserve">
-    <value>Folder</value>
+    <value>Map</value>
   </data>
   <data name="TemplateName.Text" xml:space="preserve">
-    <value>Template Name</value>
+    <value>Sjabloonnaam</value>
   </data>
   <data name="IncludeContent.Text" xml:space="preserve">
-    <value>Include Content</value>
+    <value>Inhoud opnemen</value>
   </data>
   <data name="FolderTooltip.Text" xml:space="preserve">
-    <value>Select the export folder where the template will be saved.</value>
+    <value>Selecteer de exportmap waar de sjabloon wordt opgeslagen.</value>
   </data>
   <data name="TemplateNameTooltip.Text" xml:space="preserve">
-    <value>Enter a name for the page template.</value>
+    <value>Voer een naam in voor de paginasjabloon.</value>
   </data>
   <data name="TemplateDescriptionTooltip.Text" xml:space="preserve">
-    <value>Enter a description of this template.</value>
+    <value>Voer een beschrijving van deze sjabloon in.</value>
   </data>
   <data name="IncludeContentTooltip.Text" xml:space="preserve">
-    <value>Check this box to include the module content.</value>
+    <value>Vink dit vakje aan om de module-inhoud op te nemen.</value>
   </data>
   <data name="SearchFolders.Text" xml:space="preserve">
-    <value>Search Folders</value>
+    <value>Mappen zoeken</value>
   </data>
   <data name="ExportedMessage.Text" xml:space="preserve">
-    <value>The page template has been created to {0}</value>
+    <value>De paginasjabloon is aangemaakt in {0}</value>
   </data>
   <data name="MakeNeutral.ErrorMessage" xml:space="preserve">
-    <value>Page cannot be converted to a neutral culture, because there are child pages.</value>
+    <value>Pagina kan niet worden geconverteerd naar een neutrale cultuur omdat er onderliggende pagina's zijn.</value>
   </data>
   <data name="Detached.Text" xml:space="preserve">
-    <value>Detached {0}</value>
+    <value>Losgekoppeld {0}</value>
   </data>
   <data name="ModuleDeleted.Text" xml:space="preserve">
-    <value>This module is deleted, and exists in the recycle bin.</value>
+    <value>Deze module is verwijderd en bevindt zich in de prullenbak.</value>
   </data>
   <data name="ModuleInfo.Text" xml:space="preserve">
-    <value>Module: {0}&lt;br/&gt;ModuleTitle: {1}&lt;br/&gt;Pane: {2}</value>
+    <value>Module: {0}&lt;br/&gt;ModuleTitel: {1}&lt;br/&gt;Paneel: {2}</value>
   </data>
   <data name="ModuleInfoForNonAdmins.Text" xml:space="preserve">
-    <value>You do not have enough permissions to edit the title of this module.</value>
+    <value>Je hebt onvoldoende rechten om de titel van deze module te bewerken.</value>
   </data>
   <data name="NotTranslated.Text" xml:space="preserve">
-    <value>Not translated {0}</value>
+    <value>Niet vertaald {0}</value>
   </data>
   <data name="Reference.Text" xml:space="preserve">
-    <value>Reference {0}</value>
+    <value>Referentie {0}</value>
   </data>
   <data name="ReferenceDefault.Text" xml:space="preserve">
-    <value>Reference Default Language {0}</value>
+    <value>Referentie standaardtaal {0}</value>
   </data>
   <data name="Translated.Text" xml:space="preserve">
-    <value>Translated {0}</value>
+    <value>Vertaald {0}</value>
   </data>
   <data name="Default.Text" xml:space="preserve">
-    <value>[Default Language]</value>
+    <value>[Standaardtaal]</value>
   </data>
   <data name="NotActive.Text" xml:space="preserve">
-    <value>[Language is not Active]</value>
+    <value>[Taal is niet actief]</value>
   </data>
   <data name="TranslationMessageConfirmMessage.Error" xml:space="preserve">
-    <value>Something went wrong notifying the Translators.</value>
+    <value>Er is iets misgegaan bij het waarschuwen van de vertalers.</value>
   </data>
   <data name="TranslationMessageConfirmMessage.Text" xml:space="preserve">
-    <value>Translators successfully notified.</value>
+    <value>Vertalers succesvol gewaarschuwd.</value>
   </data>
   <data name="NewContentMessage.Body" xml:space="preserve">
-    <value>The following page has new content ready for translation&lt;br/&gt;Page: &lt;a href='{1}'&gt;{0}&lt;/a&gt;&lt;br/&gt;{2}</value>
+    <value>De volgende pagina heeft nieuwe inhoud die klaar is voor vertaling&lt;br/&gt;Pagina: &lt;a href='{1}'&gt;{0}&lt;/a&gt;&lt;br/&gt;{2}</value>
   </data>
   <data name="NewContentMessage.Subject" xml:space="preserve">
-    <value>New Content Ready for Translation</value>
+    <value>Nieuwe inhoud klaar voor vertaling</value>
   </data>
   <data name="MakePagesTranslatable.Text" xml:space="preserve">
-    <value>Make Page Translatable</value>
+    <value>Pagina vertaalbaar maken</value>
   </data>
   <data name="MakePageNeutral.Text" xml:space="preserve">
-    <value>Make Page Neutral</value>
+    <value>Pagina neutraal maken</value>
   </data>
   <data name="Site.Text" xml:space="preserve">
     <value>Site</value>
   </data>
   <data name="BadTemplate.Text" xml:space="preserve">
-    <value>The page template is not a valid xml document.  Please select a different template and try again.</value>
+    <value>De paginasjabloon is geen geldig xml-document. Selecteer een andere sjabloon en probeer het opnieuw.</value>
   </data>
   <data name="AddMissingLanguages.Text" xml:space="preserve">
-    <value>Add Missing Languages</value>
+    <value>Ontbrekende talen toevoegen</value>
   </data>
   <data name="NotifyTranslators.Text" xml:space="preserve">
-    <value>Notify Translators</value>
+    <value>Vertalers waarschuwen</value>
   </data>
   <data name="UpdateLocalization.Text" xml:space="preserve">
-    <value>Update Localization</value>
+    <value>Lokalisatie bijwerken</value>
   </data>
   <data name="NeutralPageText.Text" xml:space="preserve">
-    <value>This is a "Language Neutral" page, which means that the page will be visible in every language of the site. Language Neutral pages cannot be translated.</value>
+    <value>Dit is een "taalneutrale" pagina, wat betekent dat de pagina zichtbaar is in elke taal van de site. Taalneutrale pagina's kunnen niet worden vertaald.</value>
   </data>
   <data name="NeutralPageClickButton.Text" xml:space="preserve">
-    <value>To change this to a translatable page, click the button here.</value>
+    <value>Om dit te wijzigen in een vertaalbare pagina, klik je hier op de knop.</value>
   </data>
   <data name="SharedModule.Text" xml:space="preserve">
-    <value>Shared: true</value>
+    <value>Gedeeld: waar</value>
   </data>
   <data name="IsNotSharedModule.Text" xml:space="preserve">
-    <value>Shared: false</value>
+    <value>Gedeeld: onwaar</value>
   </data>
   <data name="NotifyModalHeader.Text" xml:space="preserve">
-    <value>Send a notification to translators</value>
+    <value>Stuur een melding naar vertalers</value>
   </data>
   <data name="NotifyModalPlaceholder.Text" xml:space="preserve">
-    <value>Enter a message to send to translators</value>
+    <value>Voer een bericht in om naar vertalers te sturen</value>
   </data>
   <data name="CopyModule.Text" xml:space="preserve">
-    <value>Copy Module</value>
+    <value>Module kopiëren</value>
   </data>
   <data name="TranslatedCheckbox.Text" xml:space="preserve">
-    <value>Translated</value>
+    <value>Vertaald</value>
   </data>
   <data name="PublishedCheckbox.Text" xml:space="preserve">
-    <value>Published</value>
+    <value>Gepubliceerd</value>
   </data>
   <data name="MakeNeutralWarning.Text" xml:space="preserve">
-    <value>This will delete all translated version of the page. Only the default culture version of the page will remain. Are you sure you want to do this?</value>
+    <value>Dit zal alle vertaalde versies van de pagina verwijderen. Alleen de standaardcultuurversie van de pagina blijft behouden. Weet u zeker dat u dit wilt doen?</value>
   </data>
   <data name="PageUpdatedMessage.Text" xml:space="preserve">
-    <value>Page updated successfully</value>
+    <value>Pagina succesvol bijgewerkt</value>
   </data>
   <data name="PageDeletedMessage.Text" xml:space="preserve">
-    <value>Page deleted successfully</value>
+    <value>Pagina succesvol verwijderd</value>
   </data>
   <data name="DisableLink.Text" xml:space="preserve">
-    <value>Disable Page</value>
+    <value>Pagina uitschakelen</value>
   </data>
   <data name="DisableLink_tooltip.Text" xml:space="preserve">
-    <value>If the page is disabled it cannot be clicked in any navigation menu. This option is used to provide place-holders for child menu items.</value>
+    <value>Als de pagina is uitgeschakeld, kan er niet op worden geklikt in een navigatiemenu. Deze optie wordt gebruikt om tijdelijke aanduidingen te bieden voor onderliggende menu-items.</value>
   </data>
   <data name="Description.Text" xml:space="preserve">
-    <value>Description</value>
+    <value>Beschrijving</value>
   </data>
   <data name="Title.Text" xml:space="preserve">
-    <value>Title</value>
+    <value>Titel</value>
   </data>
   <data name="AddRole.Text" xml:space="preserve">
-    <value>Add</value>
+    <value>Toevoegen</value>
   </data>
   <data name="AddRolePlaceHolder.Text" xml:space="preserve">
-    <value>Begin typing to add a role</value>
+    <value>Begin met typen om een rol toe te voegen</value>
   </data>
   <data name="AddUser.Text" xml:space="preserve">
-    <value>Add</value>
+    <value>Toevoegen</value>
   </data>
   <data name="AddUserPlaceHolder.Text" xml:space="preserve">
-    <value>Begin typing to add a user</value>
+    <value>Begin met typen om een gebruiker toe te voegen</value>
   </data>
   <data name="AllGroups.Text" xml:space="preserve">
-    <value>[All Roles]</value>
+    <value>[Alle rollen]</value>
   </data>
   <data name="EditTab.Text" xml:space="preserve">
-    <value>Edit</value>
+    <value>Bewerken</value>
   </data>
   <data name="EmptyRole.Text" xml:space="preserve">
-    <value>Add a role to set permissions by role</value>
+    <value>Voeg een rol toe om rechten per rol in te stellen</value>
   </data>
   <data name="EmptyUser.Text" xml:space="preserve">
-    <value>Add a user to set permissions by user</value>
+    <value>Voeg een gebruiker toe om rechten per gebruiker in te stellen</value>
   </data>
   <data name="FilterByGroup.Text" xml:space="preserve">
-    <value>Filter By Group:</value>
+    <value>Filteren op groep:</value>
   </data>
   <data name="GlobalGroups.Text" xml:space="preserve">
-    <value>[Global Roles]</value>
+    <value>[Globale rollen]</value>
   </data>
   <data name="PermissionsByRole.Text" xml:space="preserve">
-    <value>PERMISSIONS BY ROLE</value>
+    <value>RECHTEN PER ROL</value>
   </data>
   <data name="PermissionsByUser.Text" xml:space="preserve">
-    <value>PERMISSIONS BY USER</value>
+    <value>RECHTEN PER GEBRUIKER</value>
   </data>
   <data name="Role.Text" xml:space="preserve">
-    <value>Role</value>
+    <value>Rol</value>
   </data>
   <data name="Status_Hidden.Text" xml:space="preserve">
-    <value>Hidden</value>
+    <value>Verborgen</value>
   </data>
   <data name="Status_Visible.Text" xml:space="preserve">
-    <value>Visible</value>
+    <value>Zichtbaar</value>
   </data>
   <data name="Status_Disabled.Text" xml:space="preserve">
-    <value>Disabled</value>
+    <value>Uitgeschakeld</value>
   </data>
   <data name="User.Text" xml:space="preserve">
-    <value>User</value>
+    <value>Gebruiker</value>
   </data>
   <data name="SiteDefault.Text" xml:space="preserve">
-    <value>Site Default</value>
+    <value>Site standaard</value>
   </data>
   <data name="ClearPageCache.Text" xml:space="preserve">
-    <value>Clear Cache - This Page</value>
+    <value>Cache wissen - Deze pagina</value>
   </data>
   <data name="lblCachedItemCount.Text" xml:space="preserve">
-    <value>Current Cache Count: {0} variations for this page</value>
+    <value>Huidig aantal in cache: {0} variaties voor deze pagina</value>
   </data>
   <data name="cacheDuration.ErrorMessage" xml:space="preserve">
-    <value>Cache Duration must be an integer.</value>
+    <value>Cache duur moet een geheel getal zijn.</value>
   </data>
   <data name="cacheMaxVaryByCount.ErrorMessage" xml:space="preserve">
-    <value>Vary By Limit must be an integer.</value>
+    <value>Varieer per limiet moet een geheel getal zijn.</value>
   </data>
   <data name="addTagsPlaceholder.Text" xml:space="preserve">
-    <value>Add Tags</value>
+    <value>Tags toevoegen</value>
   </data>
   <data name="On.Text" xml:space="preserve">
-    <value>On</value>
+    <value>Aan</value>
   </data>
   <data name="Off.Text" xml:space="preserve">
-    <value>Off</value>
+    <value>Uit</value>
   </data>
   <data name="ParentPage.Text" xml:space="preserve">
-    <value>Parent Page</value>
+    <value>Bovenliggende pagina</value>
   </data>
   <data name="MethodPermissionDenied.Text" xml:space="preserve">
-    <value>The user is not allowed to access this method.</value>
+    <value>De gebruiker mag deze methode niet gebruiken.</value>
   </data>
   <data name="Prompt_PageNotFound.Text" xml:space="preserve">
-    <value>Page not found.</value>
+    <value>Pagina niet gevonden.</value>
   </data>
   <data name="Prompt_PageFound.Text" xml:space="preserve">
-    <value>Page found.</value>
+    <value>Pagina gevonden.</value>
   </data>
   <data name="Prompt_InvalidPageId.Text" xml:space="preserve">
-    <value>You must specify a valid number for Page ID</value>
+    <value>U moet een geldig nummer opgeven voor pagina-ID</value>
   </data>
   <data name="Prompt_NoPageId.Text" xml:space="preserve">
-    <value>No valid Page ID specified</value>
+    <value>Geen geldige pagina-ID opgegeven</value>
   </data>
   <data name="Prompt_ParameterRequired.Text" xml:space="preserve">
-    <value>Either Page Id or Page Name with flag --name should be specified.</value>
+    <value>Ofwel pagina-ID of paginanaam met vlag --name moet worden opgegeven.</value>
   </data>
   <data name="Prompt_IfSpecifiedMustHaveValue.Text" xml:space="preserve">
-    <value>If you specify the --{0} flag, it must be set to True or False.</value>
+    <value>Als je de vlag --{0} opgeeft, moet deze op True of False worden ingesteld.</value>
   </data>
   <data name="Prompt_ParentIdNotNumeric.Text" xml:space="preserve">
-    <value>When specifying --{0}, you must supply a valid numeric Page (Tab) ID</value>
+    <value>Bij het opgeven van --{0} moet u een geldig numeriek pagina (tab) ID opgeven</value>
   </data>
   <data name="Prompt_NoPages.Text" xml:space="preserve">
-    <value>No pages found.</value>
+    <value>Geen pagina's gevonden.</value>
   </data>
   <data name="Prompt_InvalidParentId.Text" xml:space="preserve">
-    <value>The --{0} flag's value must be a valid Page (Tab) ID;.</value>
+    <value>De waarde van de vlag --{0} moet een geldig pagina (tab) ID zijn.</value>
   </data>
   <data name="PageNotFound.Text" xml:space="preserve">
-    <value>Page doesn't exists.</value>
+    <value>Pagina bestaat niet.</value>
   </data>
   <data name="Prompt_PageCreated.Text" xml:space="preserve">
-    <value>The page has been created</value>
+    <value>De pagina is aangemaakt</value>
   </data>
   <data name="Prompt_PageCreateFailed.Text" xml:space="preserve">
-    <value>Unable to create the new page</value>
+    <value>Kan de nieuwe pagina niet aanmaken</value>
   </data>
   <data name="Prompt_FlagRequired.Text" xml:space="preserve">
-    <value>--{0} is required.</value>
+    <value>--{0} is verplicht.</value>
   </data>
   <data name="Prompt_TrueFalseRequired.Text" xml:space="preserve">
-    <value>You must pass True or False for the --{0} flag.</value>
+    <value>U moet waar of onwaar doorgeven voor de vlag --{0}.</value>
   </data>
   <data name="Prompt_UnableToFindSpecified.Text" xml:space="preserve">
-    <value>Unable to find page specified for --{0} '{1}'.</value>
+    <value>Kan de opgegeven pagina niet vinden voor --{0} '{1}'.</value>
   </data>
   <data name="Prompt_FlagMatch.Text" xml:space="preserve">
-    <value>The --{0} flag value cannot be the same as the page you are trying to update</value>
+    <value>De waarde van de vlag --{0} kan niet hetzelfde zijn als de pagina die je probeert bij te werken</value>
   </data>
   <data name="Prompt_NothingToUpdate.Text" xml:space="preserve">
-    <value>Nothing to Update! Tell what to update with flags like --{0} --{1} --{2} --{3}, etc.</value>
-  </data>
-  <data name="Prompt_DeletePage_Description.Text" xml:space="preserve">
-    <value>Deletes a page within the portal and sends it to the Recycle Bin. For added safety, this method will not allow deletion of pages with children, Host pages, or pages in the //Admin path.</value>
-  </data>
-  <data name="Prompt_DeletePage_FlagId.Text" xml:space="preserve">
-    <value>Explicitly specifies the Page ID to delete. Use of the flag name is not required. You can simply provide the ID value as the first argument. Required if &lt;span class="mono"&gt;--parentid&lt;/span&gt; is not specified.</value>
-  </data>
-  <data name="Prompt_DeletePage_FlagName.Text" xml:space="preserve">
-    <value>The name (not title) of the page to delete.</value>
-  </data>
-  <data name="Prompt_DeletePage_FlagParentId.Text" xml:space="preserve">
-    <value>The Page/Tab ID of the page's parent in the page hierarchy. Required only if --name is specified as delete parameter and page is not at root.</value>
-  </data>
-  <data name="Prompt_DeletePage_ResultHtml.Text" xml:space="preserve">
-    <value>&lt;div&gt;
-    &lt;h4&gt;Delete Page By Page ID&lt;/h4&gt;
-    &lt;code class="block"&gt;
-      delete-page 999
-    &lt;/code&gt;
-
-    &lt;h4&gt;Delete Page by name under another parent&lt;/h4&gt;
-    &lt;p&gt;NOTE: At this time, Prompt will not allow you to delete any pages that have children&lt;/p&gt;
-    &lt;code class="block"&gt;
-      delete-page --name "test" --parentid 999
-    &lt;/code&gt;
-  &lt;/div&gt;</value>
-  </data>
-  <data name="Prompt_GetPage_Description.Text" xml:space="preserve">
-    <value>&lt;p class="lead"&gt;Provides information on the specified page.&lt;/p&gt;
-    &lt;blockquote&gt;
-        &lt;strong&gt;Pages vs. Tabs&lt;/strong&gt;: For historical reasons, DNN
-        internally refers to pages as &amp;quot;tabs&amp;quot;. So, whenever you see a reference to &lt;em&gt;tab&lt;/em&gt;
-        or &lt;em&gt;page&lt;/em&gt;, remember that they are equivalent. Values returned from Prompt will usually
-        use DNN's internal naming conventions (hence &lt;em&gt;tab&lt;/em&gt;), though Prompt's own syntax will usually use the word &lt;em&gt;page&lt;/em&gt; instead of &lt;em&gt;tab&lt;/em&gt;.
-    &lt;/blockquote&gt;</value>
-  </data>
-  <data name="Prompt_GetPage_FlagId.Text" xml:space="preserve">
-    <value>Explicitly specifies the Page ID to retrieve. Use of the flag is not required. You can simply provide the ID value as the first argument.</value>
-  </data>
-  <data name="Prompt_GetPage_FlagName.Text" xml:space="preserve">
-    <value>The name (not title) of the page.</value>
-  </data>
-  <data name="Prompt_GetPage_FlagParentId.Text" xml:space="preserve">
-    <value>The Page/Tab ID of the page's parent in the page hierarchy. Required only if --name is specified as get parameter and page is not at root.</value>
-  </data>
-  <data name="Prompt_GetPage_ResultHtml.Text" xml:space="preserve">
-    <value>&lt;div&gt;
-        &lt;h4&gt;Get Page By Page (Tab) ID&lt;/h4&gt;
-        &lt;code class="block"&gt;
-            get-page &lt;em&gt;pageId&lt;/em&gt;
-        &lt;/code&gt;
-
-        &lt;h4&gt;Get Page by Page Name&lt;/h4&gt;
-        &lt;p&gt;
-            NOTE: You cannot retrieve Host pages using this method as it only retrieves pages within a portal. Host pages technically live outside the portal. You can, however, retrieve them using the page's ID (TabID in DNN parlance).
-        &lt;/p&gt;
-        &lt;code class="block"&gt;get-page --name Home&lt;/code&gt;
-        &lt;table class="command-result-tbl"&gt;
-            &lt;tr&gt;&lt;td&gt;TabId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;345&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Home&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Title&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;My Website Home&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Theme&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;[G]Skins/Aperture/default.ascx&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Path&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//Home&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;IncludeInMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Url&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Keywords&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;DNN, KnowBetter, Prompt&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Description&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Gnome, gnome on the range....&lt;/td&gt;&lt;/tr&gt;
-        &lt;/table&gt;
-
-        &lt;h4&gt;Get Page by Page Name and Parent&lt;/h4&gt;
-
-        &lt;code class="block"&gt;get-page --name "Page 1a" --parentid 71&lt;/code&gt;
-        &lt;table class="command-result-tbl"&gt;
-            &lt;tr&gt;&lt;td&gt;TabId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;72&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Page 1a&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Title&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Page 1a&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;71&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Theme&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Path&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//Page1//Page1a&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;IncludeInMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Url&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Keywords&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;Description&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Page 1 is my parent. I'm Page 1a&lt;/td&gt;&lt;/tr&gt;
-        &lt;/table&gt;
-    &lt;/div&gt;</value>
-  </data>
-  <data name="Prompt_Goto_Description.Text" xml:space="preserve">
-    <value>Navigates to the specified page within the DNN portal</value>
-  </data>
-  <data name="Prompt_Goto_FlagId.Text" xml:space="preserve">
-    <value>Specify the Page (Tab) ID of the page to which you want to navigate. Explicit use of the &lt;span class="mono"&gt;--id&lt;/span&gt; flag is not needed. Simply pass in the Page ID as the first argument after the command name</value>
-  </data>
-  <data name="Prompt_Goto_FlagName.Text" xml:space="preserve">
-    <value>The name (not title) of the page.</value>
-  </data>
-  <data name="Prompt_Goto_FlagParentId.Text" xml:space="preserve">
-    <value>The Page/Tab ID of the page's parent in the page hierarchy. Required only if --name is specified as goto parameter and page is not at root.</value>
-  </data>
-  <data name="Prompt_Goto_ResultHtml.Text" xml:space="preserve">
-    <value>&lt;div&gt;
-    &lt;h4&gt;Navigate to A Page Within the Site&lt;/h4&gt;
-    &lt;p&gt;This command navigates the browser to a page with the Page ID of 74&lt;/p&gt;
-    &lt;code class="block"&gt;
-      goto 74
-    &lt;/code&gt;
-  &lt;/div&gt;</value>
-  </data>
-  <data name="Prompt_ListPages_Description.Text" xml:space="preserve">
-    <value>&lt;p class="lead"&gt;Retrieves a list of pages based on the specified criteria&lt;/p&gt;
-    &lt;blockquote&gt;
-        &lt;strong&gt;Pages vs. Tabs&lt;/strong&gt;: For historical reasons, DNN
-        internally refers to pages as &amp;quot;tabs&amp;quot;. So, whenever you see a reference to &lt;em&gt;tab&lt;/em&gt;
-        or &lt;em&gt;page&lt;/em&gt;, remember that they are equivalent. Values returned from Prompt will usually
-        use DNN's internal naming conventions (hence &lt;em&gt;tab&lt;/em&gt;), though Prompt's own syntax will usually use the word &lt;em&gt;page&lt;/em&gt; instead of &lt;em&gt;tab&lt;/em&gt;.
-    &lt;/blockquote&gt;</value>
-  </data>
-  <data name="Prompt_ListPages_FlagDeleted.Text" xml:space="preserve">
-    <value>If &lt;span class="mono"&gt;true&lt;/span&gt;, only pages that have been deleted (i.e. in DNN's Recycle Bin) will be returned. If &lt;span class="mono"&gt;false&lt;/span&gt; then only pages that have not been deleted will be returned. If the flag is specified but has no value, then &lt;span class="mono"&gt;true&lt;/span&gt; is assumed. If the flag is not specified, both deleted and non-deleted pages will be returned.</value>
-  </data>
-  <data name="Prompt_ListPages_FlagName.Text" xml:space="preserve">
-    <value>Retrieve only pages whose name matches the expression. Can use the asterisk wildcard (&lt;span class="mono"&gt;*&lt;/span&gt;) to match 0 or more characters.</value>
-  </data>
-  <data name="Prompt_ListPages_FlagParentId.Text" xml:space="preserve">
-    <value>The Page ID (Tab ID) of the parent page whose child pages you'd like to retrieve. If the first argument is a valid Page ID, you do not need to explicitly use the --parentid flag</value>
-  </data>
-  <data name="Prompt_ListPages_FlagPath.Text" xml:space="preserve">
-    <value>Retrieve only pages whose path matches the expression. Can use the asterisk wildcard (&lt;span class="mono"&gt;*&lt;/span&gt;) to match 0 or more characters.</value>
-  </data>
-  <data name="Prompt_ListPages_FlagSkin.Text" xml:space="preserve">
-    <value>Retrieve only pages whose skin matches the expression. Can use the asterisk wildcard (&lt;span class="mono"&gt;*&lt;/span&gt;) to match 0 or more characters.</value>
-  </data>
-  <data name="Prompt_ListPages_FlagTitle.Text" xml:space="preserve">
-    <value>Retrieve only pages whose title matches the expression. Can use the asterisk wildcard (&lt;span class="mono"&gt;*&lt;/span&gt;) to match 0 or more characters.</value>
-  </data>
-  <data name="Prompt_ListPages_ResultHtml.Text" xml:space="preserve">
-    <value>&lt;div&gt;
-        &lt;h4&gt;List All Pages in Current Portal&lt;/h4&gt;
-        &lt;code class="block"&gt;
-            list-pages
-        &lt;/code&gt;
-        &lt;table class="command-result-tbl"&gt;
-            &lt;thead&gt;
-                &lt;tr&gt;
-                    &lt;th&gt;TabId&lt;/th&gt;
-                    &lt;th&gt;Name&lt;/th&gt;
-                    &lt;th&gt;Title&lt;/th&gt;
-                    &lt;th&gt;ParentId&lt;/th&gt;
-                    &lt;th&gt;Theme&lt;/th&gt;
-                    &lt;th&gt;Path&lt;/th&gt;
-                    &lt;th&gt;IncludeInMenu&lt;/th&gt;
-                    &lt;th&gt;IsDeleted&lt;/th&gt;
-                &lt;/tr&gt;
-            &lt;/thead&gt;
-            &lt;tbody&gt;
-                &lt;tr&gt;
-                    &lt;td&gt;41&lt;/td&gt;
-                    &lt;td&gt;Home&lt;/td&gt;
-                    &lt;td&gt;Home 3&lt;/td&gt;
-                    &lt;td&gt;-1&lt;/td&gt;
-                    &lt;td&gt;[G]Skins/Aperture/default.ascx&lt;/td&gt;
-                    &lt;td&gt;//Home&lt;/td&gt;
-                    &lt;td&gt;true&lt;/td&gt;
-                    &lt;td&gt;false&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td&gt;71&lt;/td&gt;
-                    &lt;td&gt;Page 1&lt;/td&gt;
-                    &lt;td&gt;&lt;/td&gt;
-                    &lt;td&gt;-1&lt;/td&gt;
-                    &lt;td&gt;&lt;/td&gt;
-                    &lt;td&gt;//Page1&lt;/td&gt;
-                    &lt;td&gt;true&lt;/td&gt;
-                    &lt;td&gt;true&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td&gt;42&lt;/td&gt;
-                    &lt;td&gt;Activity Feed&lt;/td&gt;
-                    &lt;td&gt;Activity Feed&lt;/td&gt;
-                    &lt;td&gt;-1&lt;/td&gt;
-                    &lt;td&gt;&lt;/td&gt;
-                    &lt;td&gt;//ActivityFeed&lt;/td&gt;
-                    &lt;td&gt;false&lt;/td&gt;
-                    &lt;td&gt;false&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td colspan="7"&gt;...&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td colspan="7"&gt;33 pages found&lt;/td&gt;
-                &lt;/tr&gt;
-            &lt;/tbody&gt;
-        &lt;/table&gt;
-
-        &lt;h4&gt;List Child Pages of Parent Page&lt;/h4&gt;
-        &lt;code class="block"&gt;
-            list-pages 43
-        &lt;/code&gt;
-        OR
-        &lt;code class="block"&gt;
-            list-pages --parentid 43
-        &lt;/code&gt;
-        &lt;table class="command-result-tbl"&gt;
-            &lt;thead&gt;
-                &lt;tr&gt;
-                    &lt;th&gt;TabId&lt;/th&gt;
-                    &lt;th&gt;Name&lt;/th&gt;
-                    &lt;th&gt;Title&lt;/th&gt;
-                    &lt;th class="bg-info"&gt;ParentId&lt;/th&gt;
-                    &lt;th&gt;Theme&lt;/th&gt;
-                    &lt;th&gt;Path&lt;/th&gt;
-                    &lt;th&gt;IncludeInMenu&lt;/th&gt;
-                    &lt;th&gt;IsDeleted&lt;/th&gt;
-                &lt;/tr&gt;
-            &lt;/thead&gt;
-            &lt;tbody&gt;
-                &lt;tr&gt;
-                    &lt;td&gt;49&lt;/td&gt;
-                    &lt;td&gt;Site Settings&lt;/td&gt;
-                    &lt;td&gt;Site Settings&lt;/td&gt;
-                    &lt;td class="bg-info"&gt;43&lt;/td&gt;
-                    &lt;td&gt;&lt;/td&gt;
-                    &lt;td&gt;//Admin//SiteSettings&lt;/td&gt;
-                    &lt;td&gt;true&lt;/td&gt;
-                    &lt;td&gt;false&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td&gt;50&lt;/td&gt;
-                    &lt;td&gt;Extensions&lt;/td&gt;
-                    &lt;td&gt;Extensions&lt;/td&gt;
-                    &lt;td class="bg-info"&gt;43&lt;/td&gt;
-                    &lt;td&gt;&lt;/td&gt;
-                    &lt;td&gt;//Admin//Extensions&lt;/td&gt;
-                    &lt;td&gt;true&lt;/td&gt;
-                    &lt;td&gt;false&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td&gt;51&lt;/td&gt;
-                    &lt;td&gt;Security Roles&lt;/td&gt;
-                    &lt;td&gt;Security Roles&lt;/td&gt;
-                    &lt;td class="bg-info"&gt;43&lt;/td&gt;
-                    &lt;td&gt;&lt;/td&gt;
-                    &lt;td&gt;//Admin//SecurityRoles&lt;/td&gt;
-                    &lt;td&gt;true&lt;/td&gt;
-                    &lt;td&gt;false&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td colspan="7"&gt;...&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td colspan="7"&gt;18 pages found&lt;/td&gt;
-                &lt;/tr&gt;
-            &lt;/tbody&gt;
-        &lt;/table&gt;
-
-        &lt;h4&gt;List All Pages in the Recycle Bin&lt;/h4&gt;
-        &lt;code class="block"&gt;
-            list-pages --deleted
-        &lt;/code&gt;
-        OR
-        &lt;code class="block"&gt;
-            list-pages --deleted true
-        &lt;/code&gt;
-        &lt;table class="command-result-tbl"&gt;
-            &lt;thead&gt;
-                &lt;tr&gt;
-                    &lt;th&gt;TabId&lt;/th&gt;
-                    &lt;th&gt;Name&lt;/th&gt;
-                    &lt;th&gt;Title&lt;/th&gt;
-                    &lt;th&gt;ParentId&lt;/th&gt;
-                    &lt;th&gt;Theme&lt;/th&gt;
-                    &lt;th&gt;Path&lt;/th&gt;
-                    &lt;th&gt;IncludeInMenu&lt;/th&gt;
-                    &lt;th&gt;IsDeleted&lt;/th&gt;
-                &lt;/tr&gt;
-            &lt;/thead&gt;
-            &lt;tbody&gt;
-                &lt;tr&gt;
-                    &lt;td&gt;71&lt;/td&gt;
-                    &lt;td&gt;Page 1&lt;/td&gt;
-                    &lt;td&gt;&lt;/td&gt;
-                    &lt;td&gt;-1&lt;/td&gt;
-                    &lt;td&gt;&lt;/td&gt;
-                    &lt;td&gt;//Page1&lt;/td&gt;
-                    &lt;td&gt;true&lt;/td&gt;
-                    &lt;td class="bg-info"&gt;true&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td colspan="7"&gt;1 page found&lt;/td&gt;
-                &lt;/tr&gt;
-            &lt;/tbody&gt;
-        &lt;/table&gt;
-
-        &lt;h4&gt;List All &amp;quot;Management&amp;quot; Pages on the Admin Menu&lt;/h4&gt;
-        &lt;code class="block"&gt;
-            list-pages --path //Admin//*Management*
-        &lt;/code&gt;
-        &lt;table class="command-result-tbl"&gt;
-            &lt;thead&gt;
-                &lt;tr&gt;
-                    &lt;th&gt;TabId&lt;/th&gt;
-                    &lt;th&gt;Name&lt;/th&gt;
-                    &lt;th&gt;Title&lt;/th&gt;
-                    &lt;th&gt;ParentId&lt;/th&gt;
-                    &lt;th&gt;Theme&lt;/th&gt;
-                    &lt;th&gt;Path&lt;/th&gt;
-                    &lt;th&gt;IncludeInMenu&lt;/th&gt;
-                    &lt;th&gt;IsDeleted&lt;/th&gt;
-                &lt;/tr&gt;
-            &lt;/thead&gt;
-            &lt;tbody&gt;
-                &lt;tr&gt;
-                    &lt;td&gt;53&lt;/td&gt;
-                    &lt;td&gt;File Management&lt;/td&gt;
-                    &lt;td&gt;File Management&lt;/td&gt;
-                    &lt;td&gt;43&lt;/td&gt;
-                    &lt;td&gt;&lt;/td&gt;
-                    &lt;td&gt;&lt;span class="bg-info"&gt;//Admin//&lt;/span&gt;File&lt;span class="bg-info"&gt;Management&lt;/span&gt;&lt;/td&gt;
-                    &lt;td&gt;true&lt;/td&gt;
-                    &lt;td&gt;false&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td&gt;55&lt;/td&gt;
-                    &lt;td&gt;Site Redirection Management&lt;/td&gt;
-                    &lt;td&gt;&lt;/td&gt;
-                    &lt;td&gt;43&lt;/td&gt;
-                    &lt;td&gt;&lt;/td&gt;
-                    &lt;td&gt;&lt;span class="bg-info"&gt;//Admin//&lt;/span&gt;SiteRedirection&lt;span class="bg-info"&gt;Management&lt;/span&gt;&lt;/td&gt;
-                    &lt;td&gt;true&lt;/td&gt;
-                    &lt;td&gt;false&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td&gt;56&lt;/td&gt;
-                    &lt;td&gt;Device Preview Management&lt;/td&gt;
-                    &lt;td&gt;&lt;/td&gt;
-                    &lt;td&gt;43&lt;/td&gt;
-                    &lt;td&gt;&lt;/td&gt;
-                    &lt;td&gt;&lt;span class="bg-info"&gt;//Admin//&lt;/span&gt;DevicePreview&lt;span class="bg-info"&gt;Management&lt;/span&gt;&lt;/td&gt;
-                    &lt;td&gt;true&lt;/td&gt;
-                    &lt;td&gt;false&lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td colspan="7"&gt;3 pages found&lt;/td&gt;
-                &lt;/tr&gt;
-            &lt;/tbody&gt;
-        &lt;/table&gt;
-
-    &lt;/div&gt;</value>
-  </data>
-  <data name="Prompt_ListRoles_FlagMax.Text" xml:space="preserve">
-    <value>Page Size for the page. Max is 500.</value>
-  </data>
-  <data name="Prompt_ListRoles_FlagPage.Text" xml:space="preserve">
-    <value>Page number to show records.</value>
-  </data>
-  <data name="Prompt_ListRoles_FlagVisible.Text" xml:space="preserve">
-    <value>If &lt;span class="mono"&gt;true&lt;/span&gt;, only pages that are visible in the navigation menu will be returned. If &lt;span class="mono"&gt;false&lt;/span&gt; then only pages that hidden will be returned. If the flag is specified but has no value, then &lt;span class="mono"&gt;true&lt;/span&gt; is assumed. If the flag is not specified, both visible and hidden pages will be returned.</value>
-  </data>
-  <data name="Prompt_NewPage_Description.Text" xml:space="preserve">
-    <value>Creates a new page within the portal</value>
-  </data>
-  <data name="Prompt_NewPage_FlagDescription.Text" xml:space="preserve">
-    <value>The description to use for the page</value>
-  </data>
-  <data name="Prompt_NewPage_FlagKeywords.Text" xml:space="preserve">
-    <value>Keywords to use for the page</value>
-  </data>
-  <data name="Prompt_NewPage_FlagName.Text" xml:space="preserve">
-    <value>The name to use for the page. The &lt;code&gt;--name&lt;/code&gt; flag does not have to be explicitly declared if the first argument is a string and not a flag.</value>
-  </data>
-  <data name="Prompt_NewPage_FlagParentId.Text" xml:space="preserve">
-    <value>If you want this to be the child of a page, specify that page's ID as the &lt;span class="mono"&gt;--parentid&lt;/span&gt;</value>
-  </data>
-  <data name="Prompt_NewPage_FlagTitle.Text" xml:space="preserve">
-    <value>The display title to use for the page</value>
-  </data>
-  <data name="Prompt_NewPage_FlagUrl.Text" xml:space="preserve">
-    <value>A custom URL to use for the page. If not specified, the &lt;span class="mono"&gt;--name&lt;/span&gt; is used by DNN when creating the URL</value>
-  </data>
-  <data name="Prompt_NewPage_FlagVisible.Text" xml:space="preserve">
-    <value>If true, the page will be visible in the site's navigation menu</value>
-  </data>
-  <data name="Prompt_NewPage_ResultHtml.Text" xml:space="preserve">
-    <value>&lt;div&gt;
-    &lt;h4&gt;Create a New Page (Minimum Syntax)&lt;/h4&gt;
-    &lt;h5&gt;Implicitly Use &lt;span class="mono"&gt;--name&lt;/span&gt; flag&lt;/h5&gt;
-    &lt;code class="block"&gt;
-      new-page "My New Page"
-    &lt;/code&gt;
-    &lt;h5&gt;Explicitly Use &lt;span class="mono"&gt;--name&lt;/span&gt; flag&lt;/h5&gt;
-    &lt;code class="block"&gt;
-      new-page --name "My New Page"
-    &lt;/code&gt;
-
-    &lt;table class="command-result-tbl"&gt;
-      &lt;tr&gt;
-        &lt;td&gt;TabId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;78&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Name&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;My New Page&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Title&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Theme&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Path&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//MyNewPage&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;IncludeInMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Url&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Keywords&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Description&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-    &lt;/table&gt;
-
-    &lt;h4&gt;Create a Child Page with Additional Options&lt;/h4&gt;
-    &lt;code class="block"&gt;
-      new-page --name "My Sub Page" --parentid 78 --title "This is the sub page title" --keywords "sample, sub-page, prompt, KnowBetter"
-    &lt;/code&gt;
-
-    &lt;table class="command-result-tbl"&gt;
-      &lt;tr&gt;
-        &lt;td&gt;TabId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;79&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Name&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;My Sub Page&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Title&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;This is the sub page title&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;78&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Theme&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Path&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//MyNewPage//MySubPage&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;IncludeInMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Url&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Keywords&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;sample, sub-page, prompt, KnowBetter&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-        &lt;td&gt;Description&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-    &lt;/table&gt;
-
-  &lt;/div&gt;</value>
-  </data>
-  <data name="Prompt_SetPage_Description.Text" xml:space="preserve">
-    <value>Sets or updates properties of the specified page</value>
-  </data>
-  <data name="Prompt_SetPage_FlagDescription.Text" xml:space="preserve">
-    <value>The description to use for the page</value>
-  </data>
-  <data name="Prompt_SetPage_FlagId.Text" xml:space="preserve">
-    <value>The ID of the page you want to update.</value>
-  </data>
-  <data name="Prompt_SetPage_FlagKeywords.Text" xml:space="preserve">
-    <value>Keywords to use for the page</value>
-  </data>
-  <data name="Prompt_SetPage_FlagName.Text" xml:space="preserve">
-    <value>The name to use for the page</value>
-  </data>
-  <data name="Prompt_SetPage_FlagParentId.Text" xml:space="preserve">
-    <value>If you want this to be the child of a page, specify that page's ID as the &lt;span class="mono"&gt;--parentid&lt;/span&gt;</value>
-  </data>
-  <data name="Prompt_SetPage_FlagTitle.Text" xml:space="preserve">
-    <value>The display title to use for the page</value>
-  </data>
-  <data name="Prompt_SetPage_FlagUrl.Text" xml:space="preserve">
-    <value>A custom URL to use for the page. If not specified, the &lt;span class="mono"&gt;--name&lt;/span&gt; is used by DNN when creating the URL</value>
-  </data>
-  <data name="Prompt_SetPage_FlagVisible.Text" xml:space="preserve">
-    <value>If true, the page will be visible in the site's navigation menu</value>
-  </data>
-  <data name="Prompt_SetPage_ResultHtml.Text" xml:space="preserve">
-    <value>&lt;div&gt;
-        &lt;h4&gt;Update Properties of a Page&lt;/h4&gt;
-        &lt;code class="block"&gt;
-            set-page 78 --title "My New Page Title" --name Page78
-        &lt;/code&gt;
-
-        &lt;table class="command-result-tbl"&gt;
-            &lt;tr&gt;
-                &lt;td&gt;TabId&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;78&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Name&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;Page25&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Title&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;My New Page Title&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;ParentId&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;-1&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Container&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;null&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Theme&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Path&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;//MyNewPage&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;IncludeInMenu&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;true&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Url&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Keywords&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Description&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-        &lt;/table&gt;
-
-        &lt;h4&gt;Change the Parent of a Page&lt;/h4&gt;
-        &lt;code class="block"&gt;
-            set-page --id 72 --parentid 79
-        &lt;/code&gt;
-
-        &lt;table class="command-result-tbl"&gt;
-            &lt;tr&gt;
-                &lt;td&gt;TabId&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;72&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Name&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;Page2&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Title&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;Page 2&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;ParentId&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td class="bg-info"&gt;79&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Container&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;null&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Theme&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Path&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td class="bg-info"&gt;//Page3//Page2&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;IncludeInMenu&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;true&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Url&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Keywords&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;sample, sub-page, prompt, KnowBetter&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Description&lt;/td&gt;
-                &lt;td&gt;:&lt;/td&gt;
-                &lt;td&gt;&lt;/td&gt;
-            &lt;/tr&gt;
-        &lt;/table&gt;
-
-    &lt;/div&gt;</value>
+    <value>Niets om bij te werken! Geef aan wat je wilt bijwerken met vlaggen zoals --{0} --{1} --{2} --{3}, enz.</value>
   </data>
   <data name="Prompt_PagesCategory.Text" xml:space="preserve">
-    <value>Page Commands</value>
+    <value>Pagina-opdrachten</value>
   </data>
   <data name="NoPermissionAddPage.Text" xml:space="preserve">
-    <value>You don't have permission to add a page.</value>
+    <value>Je hebt geen rechten om een pagina toe te voegen.</value>
   </data>
   <data name="NoPermissionEditPage.Text" xml:space="preserve">
-    <value>You don't have permission to edit this page</value>
+    <value>Je hebt geen rechten om deze pagina te bewerken</value>
   </data>
   <data name="NoPermissionCopyPage.Text" xml:space="preserve">
-    <value>You don't have permission to copy this page.</value>
+    <value>Je hebt geen rechten om deze pagina te kopiëren.</value>
   </data>
   <data name="NoPermissionManagePage.Text" xml:space="preserve">
-    <value>You don't have permissions to manage the page</value>
+    <value>Je hebt geen rechten om de pagina te beheren</value>
   </data>
   <data name="NoPermissionViewPage.Text" xml:space="preserve">
-    <value>You don't have permission to view the page</value>
+    <value>Je hebt geen rechten om de pagina te bekijken</value>
   </data>
   <data name="NoPermissionDeletePage.Text" xml:space="preserve">
-    <value>You don't have permission to delete the page.</value>
+    <value>Je hebt geen rechten om de pagina te verwijderen.</value>
   </data>
   <data name="CannotDeleteSpecialPage.Text" xml:space="preserve">
-    <value>You cannot delete a special page.</value>
+    <value>Je kunt geen speciale pagina verwijderen.</value>
   </data>
   <data name="ModuleCopyType.New" xml:space="preserve">
-    <value>New</value>
+    <value>Nieuw</value>
   </data>
   <data name="ModuleCopyType.Copy" xml:space="preserve">
-    <value>Copy</value>
+    <value>Kopiëren</value>
   </data>
   <data name="ModuleCopyType.Reference" xml:space="preserve">
-    <value>Reference</value>
+    <value>Referentie</value>
   </data>
   <data name="FilterByModifiedDateText.Text" xml:space="preserve">
-    <value>Filter by Modified Date Range</value>
+    <value>Filteren op gewijzigd datumbereik</value>
   </data>
   <data name="FilterbyPageTypeText.Text" xml:space="preserve">
-    <value>Filter by Page Type</value>
+    <value>Filteren op paginatype</value>
   </data>
   <data name="FilterbyPublishStatusText.Text" xml:space="preserve">
-    <value>Filter by Publish Status</value>
+    <value>Filteren op publicatiestatus</value>
   </data>
   <data name="lblDraft.Text" xml:space="preserve">
-    <value>Draft</value>
+    <value>Concept</value>
   </data>
   <data name="lblGeneralFilters.Text" xml:space="preserve">
-    <value>GENERAL FILTERS</value>
+    <value>ALGEMENE FILTERS</value>
   </data>
   <data name="lblNone.Text" xml:space="preserve">
-    <value>None</value>
+    <value>Geen</value>
   </data>
   <data name="lblPagesFound.Text" xml:space="preserve">
-    <value>PAGES FOUND.</value>
+    <value>PAGINA'S GEVONDEN.</value>
   </data>
   <data name="lblPublished.Text" xml:space="preserve">
-    <value>Published</value>
+    <value>Gepubliceerd</value>
   </data>
   <data name="lblTagFilters.Text" xml:space="preserve">
     <value>TAG FILTERS</value>
   </data>
   <data name="lblCollapseAll.Text" xml:space="preserve">
-    <value>COLLAPSE ALL</value>
+    <value>ALLES INKLAPPEN</value>
   </data>
   <data name="lblExpandAll.Text" xml:space="preserve">
-    <value>EXPAND ALL</value>
+    <value>ALLES UITVOUWEN</value>
   </data>
   <data name="NoPageSelected.Text" xml:space="preserve">
-    <value>No page is currently selected.</value>
+    <value>Er is momenteel geen pagina geselecteerd.</value>
   </data>
   <data name="PageCreatedMessage.Text" xml:space="preserve">
-    <value>Page created successfully</value>
+    <value>Pagina succesvol aangemaakt</value>
   </data>
   <data name="lblDateRange.Text" xml:space="preserve">
-    <value>Date Range</value>
+    <value>Datumbereik</value>
   </data>
   <data name="lblFromDate.Text" xml:space="preserve">
-    <value>From Date</value>
+    <value>Vanaf datum</value>
   </data>
   <data name="lblPageFound.Text" xml:space="preserve">
-    <value>Page Found</value>
+    <value>Pagina gevonden</value>
   </data>
   <data name="lblPublishDate.Text" xml:space="preserve">
-    <value>Publish Date</value>
+    <value>Publicatiedatum</value>
   </data>
   <data name="lblPublishStatus.Text" xml:space="preserve">
-    <value>Publish Status</value>
+    <value>Publicatiestatus</value>
   </data>
   <data name="lblAll.Text" xml:space="preserve">
-    <value>All</value>
+    <value>Alle</value>
   </data>
   <data name="lblFile.Text" xml:space="preserve">
-    <value>File</value>
+    <value>Bestand</value>
   </data>
   <data name="lblNormal.Text" xml:space="preserve">
-    <value>Standard</value>
+    <value>Standaard</value>
   </data>
   <data name="lblUrl.Text" xml:space="preserve">
     <value>URL</value>
   </data>
   <data name="lblModifiedDate.Text" xml:space="preserve">
-    <value>Modified Date</value>
+    <value>Gewijzigd op</value>
   </data>
   <data name="NoPageFound.Text" xml:space="preserve">
-    <value>No page found.</value>
+    <value>Geen pagina gevonden.</value>
   </data>
   <data name="PagesSearchHeader.Text" xml:space="preserve">
-    <value>Page Search Results</value>
+    <value>Pagina zoekresultaten</value>
   </data>
   <data name="TagsInstructions.Text" xml:space="preserve">
-    <value>Begin typing to filter by tags.</value>
+    <value>Begin met typen om te filteren op tags.</value>
   </data>
   <data name="ModifiedDateRange.Text" xml:space="preserve">
-    <value>Modified Date Range</value>
+    <value>Gewijzigd datumbereik</value>
   </data>
   <data name="BrowseAction.Text" xml:space="preserve">
-    <value>Press {save|[ENTER]} to save, or {cancel|[ESC]} to cancel</value>
+    <value>Druk op {opslaan|[ENTER]} om op te slaan, of {annuleren|[ESC]} om te annuleren</value>
   </data>
   <data name="BrowseButton.Text" xml:space="preserve">
-    <value>Browse File System</value>
+    <value>Bestandssysteem doorbladeren</value>
   </data>
   <data name="DefaultImageTitle.Text" xml:space="preserve">
-    <value>Image</value>
+    <value>Afbeelding</value>
   </data>
   <data name="DragDefault.Text" xml:space="preserve">
-    <value>Drag and Drop a File or Select an Option</value>
+    <value>Sleep een bestand of selecteer een optie</value>
   </data>
   <data name="DragOver.Text" xml:space="preserve">
-    <value>Drag and Drop a File</value>
+    <value>Sleep een bestand</value>
   </data>
   <data name="LinkButton.Text" xml:space="preserve">
-    <value>Enter URL Link</value>
+    <value>Voer URL-link in</value>
   </data>
   <data name="LinkInputAction.Text" xml:space="preserve">
-    <value>Press {save|[ENTER]} to save, or {cancel|[ESC]} to cancel</value>
+    <value>Druk op {opslaan|[ENTER]} om op te slaan, of {annuleren|[ESC]} om te annuleren</value>
   </data>
   <data name="LinkInputPlaceholder.Text" xml:space="preserve">
-    <value>http://example.com/imagename.jpg</value>
+    <value>http://voorbeeld.com/afbeeldingnaam.jpg</value>
   </data>
   <data name="LinkInputTitle.Text" xml:space="preserve">
-    <value>URL Link</value>
+    <value>URL-link</value>
   </data>
   <data name="NotSpecified.Text" xml:space="preserve">
-    <value>&lt;None Specified&gt;</value>
+    <value>&lt;Niet opgegeven&gt;</value>
   </data>
   <data name="SearchFilesPlaceHolder.Text" xml:space="preserve">
-    <value>Search Files...</value>
+    <value>Bestanden zoeken...</value>
   </data>
   <data name="SearchFoldersPlaceHolder.Text" xml:space="preserve">
-    <value>Search Folders...</value>
+    <value>Mappen zoeken...</value>
   </data>
   <data name="UploadButton.Text" xml:space="preserve">
-    <value>Upload a File</value>
+    <value>Een bestand uploaden</value>
   </data>
   <data name="UploadComplete.Text" xml:space="preserve">
-    <value>Upload Complete</value>
+    <value>Upload voltooid</value>
   </data>
   <data name="UploadDefault.Text" xml:space="preserve">
-    <value>myImage.jpg</value>
+    <value>mijnAfbeelding.jpg</value>
   </data>
   <data name="UploadFailed.Text" xml:space="preserve">
-    <value>Upload Failed</value>
+    <value>Upload mislukt</value>
   </data>
   <data name="Uploading.Text" xml:space="preserve">
-    <value>Uploading...</value>
+    <value>Uploaden...</value>
   </data>
   <data name="WrongFormat.Text" xml:space="preserve">
-    <value>Wrong Format</value>
+    <value>Verkeerd formaat</value>
   </data>
   <data name="ExternalRedirectionUrlRequired.Text" xml:space="preserve">
-    <value>An absolute or relative URL is required.</value>
+    <value>Een absolute of relatieve URL is verplicht.</value>
   </data>
   <data name="NoPermissionViewRedirectPage.Text" xml:space="preserve">
-    <value>You don't have permission to view the redirect page.</value>
+    <value>Je hebt geen rechten om de doorverwijzingspagina te bekijken.</value>
   </data>
   <data name="TabToRedirectIsRequired.Text" xml:space="preserve">
-    <value>Page to redirect to is required.</value>
+    <value>Pagina om naar door te verwijzen is verplicht.</value>
   </data>
   <data name="ValidFileIsRequired.Text" xml:space="preserve">
-    <value>Valid file is required.</value>
+    <value>Geldig bestand is verplicht.</value>
   </data>
   <data name="BulkPageValidateResponseTotalMessage.Text" xml:space="preserve">
-    <value>[PAGES_TOTAL] pages were validated.</value>
+    <value>[PAGES_TOTAL] pagina's zijn gevalideerd.</value>
   </data>
   <data name="EditContent.Text" xml:space="preserve">
-    <value>Edit Content</value>
+    <value>Inhoud bewerken</value>
   </data>
   <data name="DeleteTranslationConfirm.Text" xml:space="preserve">
-    <value>You are about to permanently &lt;b&gt;remove&lt;/b&gt; the '&lt;b&gt;{0}&lt;/b&gt;' translation of this page. Are you sure you want to proceed?</value>
+    <value>Je staat op het punt om de vertaling '{0}' van deze pagina permanent te &lt;b&gt;verwijderen&lt;/b&gt;. Weet je zeker dat je wilt doorgaan?</value>
   </data>
   <data name="IconFile.Help" xml:space="preserve">
-    <value>The page icon is an image that may be used by your theme or menu system for each page</value>
+    <value>Het pagina-icoon is een afbeelding die door uw thema of menusysteem kan worden gebruikt voor elke pagina</value>
   </data>
   <data name="IconFile.Text" xml:space="preserve">
-    <value>Small Icon</value>
+    <value>Klein icoon</value>
   </data>
   <data name="IconFileLarge.Help" xml:space="preserve">
-    <value>The page icon is an image that may be used by your theme or menu system for each page</value>
+    <value>Het pagina-icoon is een afbeelding die door uw thema of menusysteem kan worden gebruikt voor elke pagina</value>
   </data>
   <data name="IconFileLarge.Text" xml:space="preserve">
-    <value>Large Icon</value>
+    <value>Groot icoon</value>
   </data>
   <data name="ClickToLocalizeModule_tooltip.Text" xml:space="preserve">
-    <value>Click to enable localization for this module</value>
+    <value>Klik om lokalisatie voor deze module in te schakelen</value>
   </data>
   <data name="ClickToDeLocalizeModule_tooltip.Text" xml:space="preserve">
-    <value>Click to disable localization for this module</value>
+    <value>Klik om lokalisatie voor deze module uit te schakelen</value>
   </data>
   <data name="CheckToTranslateModule_tooltip.Text" xml:space="preserve">
-    <value>Check to flag module as translated</value>
+    <value>Vink aan om module als vertaald te markeren</value>
   </data>
   <data name="UnCheckTranslatedModule_tooltip.Text" xml:space="preserve">
-    <value>Uncheck to flag module as pending translation</value>
+    <value>Vink uit om module als in afwachting van vertaling te markeren</value>
   </data>
   <data name="CheckToTranslateAllModules_tooltip.Text" xml:space="preserve">
-    <value>Check to flag all modules as translated</value>
+    <value>Vink aan om alle modules als vertaald te markeren</value>
   </data>
   <data name="UnCheckAllTranslatedModules_tooltip.Text" xml:space="preserve">
-    <value>Uncheck to flag all modules as pending translation</value>
+    <value>Vink uit om alle modules als in afwachting van vertaling te markeren</value>
   </data>
   <data name="ClickToLocalizeAllModules_tooltip.Text" xml:space="preserve">
-    <value>Click to localize all modules</value>
+    <value>Klik om alle modules te lokaliseren</value>
   </data>
   <data name="ClickToDeLocalizeAllModules_tooltip.Text" xml:space="preserve">
-    <value>Click to disable localization for all modules</value>
+    <value>Klik om lokalisatie voor alle modules uit te schakelen</value>
   </data>
   <data name="CheckToTransalePage_tooltip.Text" xml:space="preserve">
-    <value>Check to flag this page as translated for this language</value>
+    <value>Vink aan om deze pagina als vertaald voor deze taal te markeren</value>
   </data>
   <data name="UnCheckTransaledPage_tooltip.Text" xml:space="preserve">
-    <value>Uncheck to flag this page as pending translation for this language</value>
+    <value>Vink uit om deze pagina als in afwachting van vertaling voor deze taal te markeren</value>
   </data>
   <data name="CheckToPublishPage_tooltip.Text" xml:space="preserve">
-    <value>Check to flag this page as published for this language</value>
+    <value>Vink aan om deze pagina als gepubliceerd voor deze taal te markeren</value>
   </data>
   <data name="UnCheckPublishedPage_tooltip.Text" xml:space="preserve">
-    <value>Uncheck to flag this page as pending publishing for this language</value>
+    <value>Vink uit om deze pagina als in afwachting van publicatie voor deze taal te markeren</value>
   </data>
   <data name="LocalizedSharedModule_tooltip.Text" xml:space="preserve">
-    <value>This is a localized shared module</value>
+    <value>Dit is een gelokaliseerde gedeelde module</value>
   </data>
   <data name="NoParentTabName.Text" xml:space="preserve">
-    <value>No parent page supplied</value>
+    <value>Geen bovenliggende pagina opgegeven</value>
   </data>
   <data name="FilterByPublishDateText.Text" xml:space="preserve">
-    <value>Filter by Publish Date</value>
+    <value>Filteren op publicatiedatum</value>
   </data>
   <data name="FilterbyWorkflowText.Text" xml:space="preserve">
-    <value>Filter by Workflow</value>
+    <value>Filteren op werkstroom</value>
   </data>
   <data name="WorkflowTitle.Text" xml:space="preserve">
-    <value>Workflow</value>
+    <value>Werkstroom</value>
   </data>
   <data name="WorkflowSettings.Text" xml:space="preserve">
-    <value>Workflow Settings</value>
+    <value>Werkstroominstellingen</value>
   </data>
   <data name="EnabledVersioning" xml:space="preserve">
-    <value>Enable Versioning</value>
+    <value>Versiebeheer inschakelen</value>
   </data>
   <data name="EnabledVersioning_tooltip" xml:space="preserve">
-    <value>When enabled, DNN will create a new version of the published page during editing and retain several older versions in the history.</value>
+    <value>Indien ingeschakeld, zal DNN een nieuwe versie van de gepubliceerde pagina maken tijdens het bewerken en meerdere oudere versies in de geschiedenis bewaren.</value>
   </data>
   <data name="WorkflowEnabled" xml:space="preserve">
-    <value>Enable Content Workflow</value>
+    <value>Inhoudswerkstroom inschakelen</value>
   </data>
   <data name="WorkflowEnabled_tooltip" xml:space="preserve">
-    <value>When enabled, DNN will enforce the selected content workflow during the publishing process of page edits.</value>
+    <value>Indien ingeschakeld, zal DNN de geselecteerde inhoudswerkstroom afdwingen tijdens het publicatieproces van paginabewerkingen.</value>
   </data>
   <data name="PermissionViewTab.Text" xml:space="preserve">
-    <value>View</value>
+    <value>Bekijken</value>
   </data>
   <data name="PermissionViewTabDescription.Text" xml:space="preserve">
-    <value>Allows viewing the page.</value>
+    <value>Staat het bekijken van de pagina toe.</value>
   </data>
   <data name="PermissionAdd.Text" xml:space="preserve">
-    <value>Add</value>
+    <value>Toevoegen</value>
   </data>
   <data name="PermissionAddDescription.Text" xml:space="preserve">
-    <value>Allows adding child pages.</value>
+    <value>Staat het toevoegen van onderliggende pagina's toe.</value>
   </data>
   <data name="PermissionContent.Text" xml:space="preserve">
-    <value>Content</value>
+    <value>Inhoud</value>
   </data>
   <data name="PermissionContentDescription.Text" xml:space="preserve">
-    <value>Allows editing the content of the page.</value>
+    <value>Staat het bewerken van de inhoud van de pagina toe.</value>
   </data>
   <data name="PermissionCopy.Text" xml:space="preserve">
-    <value>Copy</value>
+    <value>Kopiëren</value>
   </data>
   <data name="PermissionCopyDescription.Text" xml:space="preserve">
-    <value>Allows copying the page.</value>
+    <value>Staat het kopiëren van de pagina toe.</value>
   </data>
   <data name="PermissionDelete.Text" xml:space="preserve">
-    <value>Delete</value>
+    <value>Verwijderen</value>
   </data>
   <data name="PermissionDeleteDescription.Text" xml:space="preserve">
-    <value>Allows deleting the page.</value>
+    <value>Staat het verwijderen van de pagina toe.</value>
   </data>
   <data name="PermissionExport.Text" xml:space="preserve">
-    <value>Export</value>
+    <value>Exporteren</value>
   </data>
   <data name="PermissionExportDescription.Text" xml:space="preserve">
-    <value>Allows exporting the page.</value>
+    <value>Staat het exporteren van de pagina toe.</value>
   </data>
   <data name="PermissionImport.Text" xml:space="preserve">
-    <value>Import</value>
+    <value>Importeren</value>
   </data>
   <data name="PermissionImportDescription.Text" xml:space="preserve">
-    <value>Allows importing the page.</value>
+    <value>Staat het importeren van de pagina toe.</value>
   </data>
   <data name="PermissionManage.Text" xml:space="preserve">
-    <value>Manage</value>
+    <value>Beheren</value>
   </data>
   <data name="PermissionManageDescription.Text" xml:space="preserve">
-    <value>Allows managing the page settings except permissions.</value>
+    <value>Staat het beheren van de pagina-instellingen toe behalve rechten.</value>
   </data>
   <data name="PermissionNavigate.Text" xml:space="preserve">
-    <value>Navigate</value>
+    <value>Navigeren</value>
   </data>
   <data name="PermissionNavigateDescription.Text" xml:space="preserve">
-    <value>Allows viewing the page in navigation menus.</value>
+    <value>Staat het bekijken van de pagina in navigatiemenu's toe.</value>
   </data>
   <data name="PermissionEditTab.Text" xml:space="preserve">
-    <value>Edit</value>
+    <value>Bewerken</value>
   </data>
   <data name="PermissionEditTabDescription.Text" xml:space="preserve">
-    <value>Allows full control including adding modules and changing permissions.</value>
+    <value>Staat volledige controle toe inclusief het toevoegen van modules en het wijzigen van rechten.</value>
+  </data>
+  <data name="Prompt_DeletePage_Description.Text">
+    <value>Verwijdert een pagina binnen het portaal en verplaatst deze naar de prullenbak. Voor extra veiligheid is het met deze methode niet mogelijk om pagina's met subpagina's, hostpagina's of pagina's in het pad //Admin te verwijderen.</value>
+  </data>
+  <data name="Prompt_DeletePage_FlagId.Text">
+    <value>Specificeert expliciet de pagina-ID die verwijderd moet worden. Het gebruik van de vlagnaam is niet verplicht. U kunt eenvoudig de ID-waarde als eerste argument opgeven. Vereist als &lt;span class="mono"&gt;--parentid&lt;/span&gt; niet is gespecificeerd.</value>
+  </data>
+  <data name="Prompt_DeletePage_FlagName.Text">
+    <value>De naam (niet de titel) van de pagina die verwijderd moet worden.</value>
+  </data>
+  <data name="Prompt_DeletePage_FlagParentId.Text">
+    <value>De pagina-/tab-ID van de bovenliggende pagina in de paginahiërarchie. Vereist alleen als --name is opgegeven als verwijderingsparameter en de pagina zich niet in de root bevindt.</value>
+  </data>
+  <data name="Prompt_DeletePage_ResultHtml.Text">
+    <value>&lt;div&gt;
+&lt;h4&gt;Pagina verwijderen op pagina-ID&lt;/h4&gt;
+&lt;code class="block"&gt;
+delete-page 999
+&lt;/code&gt;
+&lt;h4&gt;Pagina verwijderen op naam onder een andere ouder&lt;/h4&gt;
+&lt;p&gt;OPMERKING: Op dit moment staat Prompt niet toe dat u pagina's verwijdert die subpagina's hebben.&lt;/p&gt;
+&lt;code class="block"&gt;
+delete-page --name "test" --parentid 999
+&lt;/code&gt;
+&lt;/div&gt;</value>
+  </data>
+  <data name="Prompt_GetPage_Description.Text">
+    <value>&lt;p class="lead"&gt;Geeft informatie over de opgegeven pagina.&lt;/p&gt;
+
+&lt;blockquote&gt;
+
+&lt;strong&gt;Pagina's versus tabbladen&lt;/strong&gt;: Om historische redenen verwijst DNN
+intern naar pagina's als "tabbladen". Dus, wanneer u een verwijzing naar &lt;em&gt;tabblad&lt;/em&gt;
+
+of &lt;em&gt;pagina&lt;/em&gt; ziet, onthoud dan dat ze equivalent zijn. Waarden die door Prompt worden geretourneerd, gebruiken meestal
+
+de interne naamgevingsconventies van DNN (vandaar &lt;em&gt;tabblad&lt;/em&gt;), hoewel de syntaxis van Prompt zelf meestal het woord &lt;em&gt;pagina&lt;/em&gt; gebruikt in plaats van &lt;em&gt;tabblad&lt;/em&gt;.
+
+&lt;/blockquote&gt;</value>
+  </data>
+  <data name="Prompt_GetPage_FlagId.Text">
+    <value>Hiermee wordt expliciet de pagina-ID opgegeven die moet worden opgehaald. Het gebruik van deze vlag is niet verplicht. U kunt de ID-waarde ook gewoon als eerste argument opgeven.</value>
+  </data>
+  <data name="Prompt_GetPage_FlagName.Text">
+    <value>De naam (niet de titel) van de pagina.</value>
+  </data>
+  <data name="Prompt_GetPage_FlagParentId.Text">
+    <value>De pagina-/tab-ID van de bovenliggende pagina in de paginahiërarchie. Vereist alleen als --name is opgegeven als GET-parameter en de pagina zich niet in de root bevindt.</value>
+  </data>
+  <data name="Prompt_GetPage_ResultHtml.Text">
+    <value>&lt;div&gt;
+
+&lt;h4&gt;Pagina ophalen op pagina-ID (tabblad-ID)&lt;/h4&gt;
+
+&lt;code class="block"&gt;
+
+get-page &lt;em&gt;pagina-ID&lt;/em&gt;
+
+&lt;/code&gt;
+
+&lt;h4&gt;Pagina ophalen op paginanaam&lt;/h4&gt;
+
+&lt;p&gt;
+
+LET OP: U kunt hostpagina's niet ophalen met deze methode, omdat deze alleen pagina's binnen een portal ophaalt. Hostpagina's bevinden zich technisch gezien buiten de portal. U kunt ze echter wel ophalen met behulp van de pagina-ID (tabblad-ID in DNN-terminologie).
+
+&lt;/p&gt;
+
+&lt;code class="block"&gt;get-page --name Home&lt;/code&gt;
+
+&lt;table class="command-result-tbl"&gt;
+
+&lt;tr&gt;&lt;td&gt;TabId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;345&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Home&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;Title&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;My Website Home&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;Thema&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;[G]Skins/Aperture/default.ascx&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;Pad&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//Home&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;InclusiefMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;URL&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;Trefwoorden&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;DNN, KnowBetter, Prompt&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;Beschrijving&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Gnome, gnome on the range....&lt;/td&gt;&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;h4&gt;Pagina ophalen op paginanaam en Ouder&lt;/h4&gt;
+
+&lt;code class="block"&gt;get-page --name "Pagina 1a" --parentid 71&lt;/code&gt;
+
+&lt;table class="command-result-tbl"&gt;
+
+&lt;tr&gt;&lt;td&gt;TabId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;72&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Naam&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Pagina 1a&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;Titel&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Pagina 1a&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;71&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;Thema&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Pad&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//Pagina1//Pagina1a&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;InclusiefMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;URL&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Trefwoorden&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Beschrijving&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Pagina 1 is mijn ouder. Ik ben Pagina 1a&lt;/td&gt;&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/div&gt;</value>
+  </data>
+  <data name="Prompt_Goto_Description.Text">
+    <value>Navigeert naar de opgegeven pagina binnen het DNN-portaal.</value>
+  </data>
+  <data name="Prompt_Goto_FlagId.Text">
+    <value>Geef de pagina-ID (tab-ID) op van de pagina waarnaar u wilt navigeren. Het expliciet gebruiken van de vlag `--id` is niet nodig. Geef de pagina-ID eenvoudigweg door als eerste argument na de opdrachtnaam.</value>
+  </data>
+  <data name="Prompt_Goto_FlagName.Text">
+    <value>De naam (niet de titel) van de pagina.</value>
+  </data>
+  <data name="Prompt_Goto_FlagParentId.Text">
+    <value>De pagina-/tab-ID van de bovenliggende pagina in de paginahiërarchie. Vereist alleen als --name is opgegeven als goto-parameter en de pagina zich niet in de root bevindt.</value>
+  </data>
+  <data name="Prompt_Goto_ResultHtml.Text">
+    <value>&lt;div&gt;
+
+&lt;h4&gt;Navigeer naar een pagina binnen de site&lt;/h4&gt;
+
+&lt;p&gt;Deze opdracht navigeert de browser naar een pagina met pagina-ID 74&lt;/p&gt;
+
+&lt;code class="block"&gt;
+
+ga naar 74
+
+&lt;/code&gt;
+
+&lt;/div&gt;</value>
+  </data>
+  <data name="Prompt_ListPages_Description.Text">
+    <value>&lt;p class="lead"&gt;Haalt een lijst met pagina's op basis van de opgegeven criteria op.&lt;/p&gt;
+
+&lt;blockquote&gt;
+
+&lt;strong&gt;Pagina's versus tabbladen&lt;/strong&gt;: Om historische redenen verwijst DNN
+intern naar pagina's als "tabbladen". Dus, wanneer u een verwijzing naar &lt;em&gt;tabblad&lt;/em&gt;
+
+of &lt;em&gt;pagina&lt;/em&gt; ziet, onthoud dan dat ze equivalent zijn. Waarden die door Prompt worden geretourneerd, gebruiken meestal
+
+de interne naamgevingsconventies van DNN (vandaar &lt;em&gt;tabblad&lt;/em&gt;), hoewel de syntaxis van Prompt zelf meestal het woord &lt;em&gt;pagina&lt;/em&gt; gebruikt in plaats van &lt;em&gt;tabblad&lt;/em&gt;.
+
+&lt;/blockquote&gt;</value>
+  </data>
+  <data name="Prompt_ListPages_FlagDeleted.Text">
+    <value>Als &lt;span class="mono"&gt;true&lt;/span&gt; is ingesteld, worden alleen pagina's geretourneerd die zijn verwijderd (d.w.z. in de prullenbak van DNN staan). Als &lt;span class="mono"&gt;false&lt;/span&gt; is ingesteld, worden alleen pagina's geretourneerd die niet zijn verwijderd. Als de vlag is opgegeven maar geen waarde heeft, wordt &lt;span class="mono"&gt;true&lt;/span&gt; aangenomen. Als de vlag niet is opgegeven, worden zowel verwijderde als niet-verwijderde pagina's geretourneerd.</value>
+  </data>
+  <data name="Prompt_ListPages_FlagName.Text">
+    <value>Haal alleen pagina's op waarvan de naam overeenkomt met de expressie. Je kunt het asterisk-jokerteken (&lt;span class="mono"&gt;*&lt;/span&gt;) gebruiken om nul of meer tekens te matchen.</value>
+  </data>
+  <data name="Prompt_ListPages_FlagParentId.Text">
+    <value>De pagina-ID (tab-ID) van de bovenliggende pagina waarvan u de subpagina's wilt ophalen. Als het eerste argument een geldige pagina-ID is, hoeft u de vlag --parentid niet expliciet te gebruiken.</value>
+  </data>
+  <data name="Prompt_ListPages_FlagPath.Text">
+    <value>Haal alleen pagina's op waarvan het pad overeenkomt met de expressie. Je kunt het asterisk-jokerteken (&lt;span class="mono"&gt;*&lt;/span&gt;) gebruiken om nul of meer tekens te matchen.</value>
+  </data>
+  <data name="Prompt_ListPages_FlagSkin.Text">
+    <value>Alleen pagina's ophalen waarvan het thema overeenkomt met de expressie. Het asterisk-jokerteken (&lt;span class="mono"&gt;*&lt;/span&gt;) kan worden gebruikt om nul of meer tekens te matchen.</value>
+  </data>
+  <data name="Prompt_ListPages_FlagTitle.Text">
+    <value>Haal alleen pagina's op waarvan de titel overeenkomt met de expressie. Je kunt het asterisk-jokerteken (&lt;span class="mono"&gt;*&lt;/span&gt;) gebruiken om nul of meer tekens te matchen.</value>
+  </data>
+  <data name="Prompt_ListPages_ResultHtml.Text">
+    <value>&lt;div&gt;
+
+&lt;h4&gt;Alle pagina's in het huidige portaal weergeven&lt;/h4&gt;
+
+&lt;code class="block"&gt;
+
+lijstpagina's
+
+&lt;/code&gt;
+
+&lt;table class="command-result-tbl"&gt;
+
+&lt;thead&gt;
+
+&lt;tr&gt;
+&lt;th&gt;Tab-ID&lt;/th&gt;
+
+&lt;th&gt;Naam&lt;/th&gt;
+
+&lt;th&gt;Titel&lt;/th&gt;
+
+&lt;th&gt;Parent-ID&lt;/th&gt;
+
+&lt;th&gt;Thema&lt;/th&gt;
+
+&lt;th&gt;Pad&lt;/th&gt;
+
+&lt;th&gt;Inclusiefmenu&lt;/th&gt;
+
+&lt;th&gt;IsVerwijderd&lt;/th&gt;
+
+&lt;/tr&gt;
+
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;41&lt;/td&gt;
+
+&lt;td&gt;Home&lt;/td&gt;
+
+&lt;td&gt;Home 3&lt;/td&gt;
+
+&lt;td&gt;-1&lt;/td&gt;
+
+&lt;td&gt;[G]Skins/Aperture/default.ascx&lt;/td&gt;
+
+&lt;td&gt;//Home&lt;/td&gt;
+&lt;td&gt;true&lt;/td&gt;
+
+&lt;td&gt;false&lt;/td&gt;
+
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;71&lt;/td&gt;
+
+&lt;td&gt;Pagina 1&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;-1&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;//Pagina1&lt;/td&gt;
+
+&lt;td&gt;true&lt;/td&gt;
+
+&lt;td&gt;true&lt;/td&gt;
+
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;42&lt;/td&gt;
+
+&lt;td&gt;Activiteitenoverzicht&lt;/td&gt;
+
+&lt;td&gt;Activiteitenoverzicht&lt;/td&gt;
+
+&lt;td&gt;-1&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;//Activiteitenoverzicht&lt;/td&gt;
+
+&lt;td&gt;false&lt;/td&gt;
+
+&lt;td&gt;false&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td colspan="7"&gt;...&lt;/td&gt;
+
+&lt;/tr&gt;
+&lt;tr&gt;
+
+&lt;td colspan="7"&gt;33 pagina's gevonden&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+
+&lt;/table&gt;
+
+&lt;h4&gt;Lijst subpagina's van de bovenliggende pagina&lt;/h4&gt;
+
+&lt;code class="block"&gt;
+
+lijst-pagina's 43
+
+&lt;/code&gt;
+
+OF
+
+&lt;code class="block"&gt;
+
+lijst-pagina's --parentid 43
+
+&lt;/code&gt;
+
+&lt;table class="command-result-tbl"&gt;
+
+&lt;thead&gt;
+
+&lt;tr&gt;
+
+&lt;th&gt;Tab-ID&lt;/th&gt;
+
+&lt;th&gt;Naam&lt;/th&gt;
+
+&lt;th&gt;Titel&lt;/th&gt;
+
+&lt;th class="bg-info"&gt;Ouder-ID&lt;/th&gt;
+
+&lt;th&gt;Thema&lt;/th&gt;
+
+&lt;th&gt;Pad&lt;/th&gt;
+
+&lt;th&gt;Inclusief in menu&lt;/th&gt;
+
+&lt;th&gt;Is verwijderd&lt;/th&gt;
+
+&lt;/tr&gt;
+
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;49&lt;/td&gt; &lt;td&gt;Site-instellingen&lt;/td&gt;
+
+&lt;td&gt;Site-instellingen&lt;/td&gt;
+
+&lt;td class="bg-info"&gt;43&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;td&gt;//Beheer//Site-instellingen&lt;/td&gt;
+
+&lt;td&gt;waar&lt;/td&gt;
+
+&lt;td&gt;onwaar&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;50&lt;/td&gt;
+
+&lt;td&gt;Extensies&lt;/td&gt;
+
+&lt;td&gt;Extensies&lt;/td&gt;
+
+&lt;td class="bg-info"&gt;43&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;td&gt;//Beheer//Extensies&lt;/td&gt;
+
+&lt;td&gt;waar&lt;/td&gt;
+
+&lt;td&gt;onwaar&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;51&lt;/td&gt;
+
+&lt;td&gt;Beveiligingsrollen&lt;/td&gt;
+
+&lt;td&gt;Beveiliging Rollen&lt;/td&gt;
+
+&lt;td class="bg-info"&gt;43&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;td&gt;//Beheer//Beveiligingsrollen&lt;/td&gt;
+
+&lt;td&gt;waar&lt;/td&gt;
+
+&lt;td&gt;onwaar&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td colspan="7"&gt;...&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td colspan="7"&gt;18 pagina's gevonden&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+
+&lt;/table&gt;
+
+&lt;h4&gt;Alle pagina's in de prullenbak weergeven&lt;/h4&gt;
+
+&lt;code class="block"&gt;
+
+list-pages --deleted
+
+&lt;/code&gt;
+
+&lt;code class="block"&gt;
+
+list-pages --deleted true
+
+&lt;/code&gt;
+
+&lt;table class="command-result-tbl"&gt;
+
+&lt;thead&gt;
+
+&lt;tr&gt;
+&lt;th&gt;Tab-ID&lt;/th&gt;
+&lt;th&gt;Naam&lt;/th&gt;
+
+&lt;th&gt;Titel&lt;/th&gt;
+
+&lt;th&gt;ParentId&lt;/th&gt;
+
+&lt;th&gt;Thema&lt;/th&gt;
+
+&lt;th&gt;Pad&lt;/th&gt;
+
+&lt;th&gt;InclusiefInMenu&lt;/th&gt;
+
+&lt;th&gt;IsVerwijderd&lt;/th&gt;
+
+&lt;/tr&gt;
+
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;71&lt;/td&gt;
+
+&lt;td&gt;Pagina 1&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;td&gt;-1&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;td&gt;//Pagina1&lt;/td&gt;
+
+&lt;td&gt;true&lt;/td&gt;
+
+&lt;td class="bg-info"&gt;true&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td colspan="7"&gt;1 pagina gevonden&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/tbody&gt;
+
+&lt;/table&gt;
+
+&lt;h4&gt;Alle "Beheer" weergeven&lt;/h4&gt; Pagina's in het beheerdersmenu&lt;/h4&gt;
+
+&lt;code class="block"&gt;
+
+list-pages --path /</value>
+  </data>
+  <data name="Prompt_ListRoles_FlagMax.Text">
+    <value>Paginaformaat. Maximaal 500 tekens.</value>
+  </data>
+  <data name="Prompt_ListRoles_FlagPage.Text">
+    <value>Paginanummer om de gegevens weer te geven.</value>
+  </data>
+  <data name="Prompt_ListRoles_FlagVisible.Text">
+    <value>Als &lt;span class="mono"&gt;true&lt;/span&gt; is, worden alleen pagina's weergegeven die zichtbaar zijn in het navigatiemenu. Als &lt;span class="mono"&gt;false&lt;/span&gt; is, worden alleen verborgen pagina's weergegeven. Als de vlag is opgegeven maar geen waarde heeft, wordt &lt;span class="mono"&gt;true&lt;/span&gt; aangenomen. Als de vlag niet is opgegeven, worden zowel zichtbare als verborgen pagina's weergegeven.</value>
+  </data>
+  <data name="Prompt_NewPage_Description.Text">
+    <value>Hiermee wordt een nieuwe pagina binnen het portaal aangemaakt.</value>
+  </data>
+  <data name="Prompt_NewPage_FlagDescription.Text">
+    <value>De beschrijving die voor de pagina gebruikt moet worden</value>
+  </data>
+  <data name="Prompt_NewPage_FlagKeywords.Text">
+    <value>Trefwoorden die je voor de pagina kunt gebruiken</value>
+  </data>
+  <data name="Prompt_NewPage_FlagName.Text">
+    <value>De naam die voor de pagina gebruikt moet worden. De vlag &lt;code&gt;--name&lt;/code&gt; hoeft niet expliciet te worden opgegeven als het eerste argument een tekenreeks is en geen vlag.</value>
+  </data>
+  <data name="Prompt_NewPage_FlagParentId.Text">
+    <value>Als je wilt dat dit een subpagina van een pagina is, geef dan de ID van die pagina op als de &lt;span class="mono"&gt;--parentid&lt;/span&gt;.</value>
+  </data>
+  <data name="Prompt_NewPage_FlagTitle.Text">
+    <value>De weergavetitel die voor de pagina moet worden gebruikt.</value>
+  </data>
+  <data name="Prompt_NewPage_FlagUrl.Text">
+    <value>Een aangepaste URL voor de pagina. Indien niet gespecificeerd, gebruikt DNN de &lt;span class="mono"&gt;--name&lt;/span&gt; bij het genereren van de URL.</value>
+  </data>
+  <data name="Prompt_NewPage_FlagVisible.Text">
+    <value>Indien waar, zal de pagina zichtbaar zijn in het navigatiemenu van de website.</value>
+  </data>
+  <data name="Prompt_NewPage_ResultHtml.Text">
+    <value>&lt;div&gt;
+
+&lt;h4&gt;Een nieuwe pagina maken (minimale syntaxis)&lt;/h4&gt;
+
+&lt;h5&gt;Impliciet gebruik maken van de &lt;span class="mono"&gt;--name&lt;/span&gt;-vlag&lt;/h5&gt;
+
+&lt;code class="block"&gt;
+
+new-page "Mijn nieuwe pagina"
+
+&lt;/code&gt;
+
+&lt;h5&gt;Expliciet gebruik maken van de &lt;span class="mono"&gt;--name&lt;/span&gt;-vlag&lt;/h5&gt;
+
+&lt;code class="block"&gt;
+
+new-page --name "Mijn nieuwe pagina"
+
+&lt;/code&gt;
+
+&lt;table class="command-result-tbl"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tab-ID&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;78&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Naam&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Mijn nieuwe pagina&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Titel&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Thema&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Pad&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//MyNewPage&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;IncludeInMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;URL&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Trefwoorden&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Beschrijving&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;h4&gt;Een subpagina maken met extra opties&lt;/h4&gt;
+
+&lt;code class="block"&gt;
+
+new-page --name "Mijn subpagina" --parentid 78 --title "Dit is de titel van de subpagina" --keywords "voorbeeld, subpagina, prompt, KnowBetter"
+
+&lt;/code&gt;
+
+&lt;table class="command-result-tbl"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tab-ID&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;79&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Naam&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Mijn subpagina&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Titel&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Dit is de titel van de subpagina&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;78&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Thema&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Pad&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//MijnNieuwePagina//MijnSubpagina&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;IncludeInMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Url&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Keywords&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;sample, sub-page, prompt, KnowBetter&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Description&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/div&gt;</value>
+  </data>
+  <data name="Prompt_SetPage_Description.Text">
+    <value>Hiermee worden de eigenschappen van de opgegeven pagina ingesteld of bijgewerkt.</value>
+  </data>
+  <data name="Prompt_SetPage_FlagDescription.Text">
+    <value>De beschrijving die voor de pagina gebruikt moet worden</value>
+  </data>
+  <data name="Prompt_SetPage_FlagId.Text">
+    <value>De ID van de pagina die u wilt bijwerken.</value>
+  </data>
+  <data name="Prompt_SetPage_FlagKeywords.Text">
+    <value>Trefwoorden die je voor de pagina kunt gebruiken</value>
+  </data>
+  <data name="Prompt_SetPage_FlagName.Text">
+    <value>De naam die voor de pagina gebruikt moet worden</value>
+  </data>
+  <data name="Prompt_SetPage_FlagParentId.Text">
+    <value>Als je wilt dat dit een subpagina van een pagina is, geef dan de ID van die pagina op als de &lt;span class="mono"&gt;--parentid&lt;/span&gt;.</value>
+  </data>
+  <data name="Prompt_SetPage_FlagTitle.Text">
+    <value>De weergavetitel die voor de pagina moet worden gebruikt.</value>
+  </data>
+  <data name="Prompt_SetPage_FlagUrl.Text">
+    <value>Een aangepaste URL voor de pagina. Indien niet gespecificeerd, gebruikt DNN de &lt;span class="mono"&gt;--name&lt;/span&gt; bij het genereren van de URL.</value>
+  </data>
+  <data name="Prompt_SetPage_FlagVisible.Text">
+    <value>Indien waar, zal de pagina zichtbaar zijn in het navigatiemenu van de website.</value>
+  </data>
+  <data name="Prompt_SetPage_ResultHtml.Text">
+    <value>&lt;div&gt;
+
+&lt;h4&gt;Eigenschappen van een pagina bijwerken&lt;/h4&gt;
+
+&lt;code class="block"&gt;
+
+set-page 78 --title "Mijn nieuwe paginatitel" --name Page78
+
+&lt;/code&gt;
+
+&lt;table class="command-result-tbl"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tab-ID&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;78&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Naam&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;Pagina25&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Titel&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;Mijn nieuwe paginatitel&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Parent-ID&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;-1&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Container&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;null&lt;/td&gt;
+
+&lt;/tr&gt;
+&lt;tr&gt;
+
+&lt;td&gt;Thema&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Pad&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;//MijnNieuwePagina&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;InclusiefMenu&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;true&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;URL&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Trefwoorden&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt; &lt;td&gt;Beschrijving&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;h4&gt;De ouder van een pagina wijzigen&lt;/h4&gt;
+
+&lt;code class="block"&gt;
+
+set-page --id 72 --parentid 79
+
+&lt;/code&gt;
+
+&lt;table class="command-result-tbl"&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Tab-ID&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;72&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Naam&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;Pagina2&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Titel&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;Pagina 2&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Ouder-ID&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td class="bg-info"&gt;79&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Container&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;null&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Thema&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Pad&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td class="bg-info"&gt;//Pagina3//Pagina2&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;InclusiefMenu&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;true&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;URL&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt; &lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Trefwoorden&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;voorbeeld, subpagina, prompt, KnowBetter&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;tr&gt;
+
+&lt;td&gt;Beschrijving&lt;/td&gt;
+
+&lt;td&gt;:&lt;/td&gt;
+
+&lt;td&gt;&lt;/td&gt;
+
+&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/div&gt;</value>
   </data>
 </root>
