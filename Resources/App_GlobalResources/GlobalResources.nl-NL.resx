@@ -490,7 +490,7 @@ Verzenden compleet op:      [Custom:3]
                             &lt;tr&gt;
                                 &lt;td align="center"&gt;
                                     &lt;p&gt;Copyright [Year] &lt;a href="[SITEURL]"&gt;[PORTALNAME]&lt;/a&gt; Alle rechten voorbehouden.&lt;/p&gt;
-                                    &lt;p&gt;Wanneer je in de toekomst geen e-mails meer wilt ontvangen, dan kunt u hier &lt;a href="[UNSUBSCRIBEURL]"&gt;uitschrijven&lt;/a&gt;.&lt;/p&gt;
+                                    &lt;p&gt;Wanneer je in de toekomst geen e-mails meer wilt ontvangen, dan kun je hier &lt;a href="[UNSUBSCRIBEURL]"&gt;uitschrijven&lt;/a&gt;.&lt;/p&gt;
                                 &lt;/td&gt;
                             &lt;/tr&gt;
                         &lt;/table&gt;
@@ -1301,7 +1301,7 @@ De volgende gebruiker heeft een Wachtwoord Reset Token opgevraagd van [Portal:Po
 Gebruikersnaam: [User:UserName]
 Weergavenaam: [User:DisplayName]
 
-Beoordeel deze gebruiker. Wanneer u de gebruiker goedkeurt moet u een (nieuwe) wachtwoord reset e-mail sturen.
+Beoordeel deze gebruiker. Wanneer je de gebruiker goedkeurt moet je een (nieuwe) wachtwoord reset e-mail sturen.
     </value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_SUBJECT.Text">
@@ -1317,7 +1317,7 @@ Beoordeel deze gebruiker. Wanneer u de gebruiker goedkeurt moet u een (nieuwe) w
     <value>Iedereen</value>
   </data>
   <data name="All Users.RoleDescription">
-    <value>Dit is een door het platform beheerde rol (d.w.z. u kunt geen gebruikers aan deze rol toevoegen of verwijderen). Deze rol vertegenwoordigt ELKE bezoeker van de website, ongeacht hun inlog-/accountstatus.</value>
+    <value>Dit is een door het platform beheerde rol (d.w.z. je kunt geen gebruikers aan deze rol toevoegen of verwijderen). Deze rol vertegenwoordigt ELKE bezoeker van de website, ongeacht hun inlog-/accountstatus.</value>
   </data>
   <data name="CompleteStateBody.Text">
     <value>Pagina '{0}' bevindt zich in de status '{1}' en wacht op beoordeling en goedkeuring.</value>
@@ -1383,7 +1383,7 @@ Beoordeel deze gebruiker. Wanneer u de gebruiker goedkeurt moet u een (nieuwe) w
     <value>Niet-geauthenticeerde gebruikers</value>
   </data>
   <data name="Unauthenticated Users.RoleDescription">
-    <value>Dit is een door het platform beheerde rol (d.w.z. u kunt geen gebruikers aan deze rol toewijzen). Deze rol is bedoeld om gebruikers aan te duiden die niet zijn ingelogd.</value>
+    <value>Dit is een door het platform beheerde rol (d.w.z. je kunt geen gebruikers aan deze rol toewijzen). Deze rol is bedoeld om gebruikers aan te duiden die niet zijn ingelogd.</value>
   </data>
   <data name="Unverified Users.Role">
     <value>Niet-geverifieerde gebruikers</value>

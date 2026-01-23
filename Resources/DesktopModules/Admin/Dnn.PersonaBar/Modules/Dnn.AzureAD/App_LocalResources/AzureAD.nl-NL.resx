@@ -325,7 +325,7 @@
     <value>DNN gebruikerseigenschap*</value>
   </data>
   <data name="lblGraphClient.Help" xml:space="preserve">
-    <value>Een Tenant ID, een Applicatie-ID en een Applicatiegeheim zijn nodig om de Microsoft Graph API te gebruiken. Standaard worden de waarden uit Algemene Instellingen gebruikt, maar u kunt ook andere opgeven.</value>
+    <value>Een Tenant ID, een Applicatie-ID en een Applicatiegeheim zijn nodig om de Microsoft Graph API te gebruiken. Standaard worden de waarden uit Algemene Instellingen gebruikt, maar je kunt ook andere opgeven.</value>
   </data>
   <data name="lblGroupNamePrefixEnabled.Help" xml:space="preserve">
     <value>Schakelt het toevoegen van het voorvoegsel "Azure-" in aan alle groepsnamen afkomstig van Microsoft Entra.</value>
@@ -334,7 +334,7 @@
     <value>Voorvoegsel groepsnamen</value>
   </data>
   <data name="lblNamePrefixes.Help" xml:space="preserve">
-    <value>Standaard bevatten alle gebruikers en groepen afkomstig van Microsoft Entra het voorvoegsel "Azure-". De volgende twee opties stellen u in staat om het toevoegen van dat voorvoegsel uit te schakelen</value>
+    <value>Standaard bevatten alle gebruikers en groepen afkomstig van Microsoft Entra het voorvoegsel "Azure-". De volgende twee opties stellen je in staat om het toevoegen van dat voorvoegsel uit te schakelen</value>
   </data>
   <data name="lblNamePrefixes.Text" xml:space="preserve">
     <value>Naamvoorvoegsels</value>
@@ -391,8 +391,8 @@
     <value>De Microsoft Entra ID Provider is een authenticatieprovider voor DNN Platform die Microsoft Entra ID OAuth2-authenticatie gebruikt om gebruikers te authenticeren.</value>
   </data>
   <data name="lblTokenValidation.Help" xml:space="preserve">
-    <value>Deze provider ondersteunt JWT-autorisatie. U kunt een JWT-token rechtstreeks verkrijgen van de Microsoft Entra API met uw gewenste doelgroepen, en vervolgens een DNN WebAPI-controller aanroepen. Hieronder 
-  kunt u verschillende instellingen opgeven om uitgegeven tokens te valideren.</value>
+    <value>Deze provider ondersteunt JWT-autorisatie. Je kunt een JWT-token rechtstreeks verkrijgen van de Microsoft Entra API met je gewenste doelgroepen, en vervolgens een DNN WebAPI-controller aanroepen. Hieronder 
+  kun je verschillende instellingen opgeven om uitgegeven tokens te valideren.</value>
   </data>
   <data name="lblTokenValidation.Text" xml:space="preserve">
     <value>Tokenvalidatie</value>

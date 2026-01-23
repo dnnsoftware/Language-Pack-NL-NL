@@ -340,7 +340,7 @@
     <value>Het veld "E-mail" moet minimaal worden opgenomen.</value>
   </data>
   <data name="NoDisplayName.Text" xml:space="preserve">
-    <value>U hebt de optie unieke weergavenaam vereisen geselecteerd, maar je hebt de weergavenaam niet opgenomen in de lijst met velden.</value>
+    <value>Je hebt de optie unieke weergavenaam vereisen geselecteerd, maar je hebt de weergavenaam niet opgenomen in de lijst met velden.</value>
   </data>
   <data name="ContainsDuplicateAddresses.Text" xml:space="preserve">
     <value>De gebruikersbasis van deze site bevat dubbele e-mailadressen. Als je e-mailadressen als gebruikersnamen wilt gebruiken, moet je eerst die invoer corrigeren.</value>
@@ -520,7 +520,7 @@
     <value>SSL URL</value>
   </data>
   <data name="plSSLURL.Help" xml:space="preserve">
-    <value>Optioneel een URL opgeven die zal worden gebruikt voor beveiligde verbindingen voor deze site. Dit is alleen nodig als u geen SSL-certificaat hebt geïnstalleerd voor uw standaard site-URL. Een voorbeeld zou een gedeeld hostingaccount zijn waar de host u een Gedeelde SSL-URL verstrekt.</value>
+    <value>Optioneel een URL opgeven die zal worden gebruikt voor beveiligde verbindingen voor deze site. Dit is alleen nodig als je geen SSL-certificaat hebt geïnstalleerd voor je standaard site-URL. Een voorbeeld zou een gedeeld hostingaccount zijn waar de host je een Gedeelde SSL-URL verstrekt.</value>
   </data>
   <data name="plSTDURL.Text" xml:space="preserve">
     <value>Standaard URL</value>
@@ -580,7 +580,7 @@
     <value>Kon instellingen niet bijwerken. Probeer het later opnieuw.</value>
   </data>
   <data name="OtherSettingsRestoreWarning.Text" xml:space="preserve">
-    <value>Weet u zeker dat u uw wijzigingen wilt annuleren?</value>
+    <value>Weet je zeker dat je je wijzigingen wilt annuleren?</value>
   </data>
   <data name="Bulletins.Text" xml:space="preserve">
     <value>Bulletins</value>
@@ -739,7 +739,7 @@
     <value>Geen superuser heeft een wachtwoord ouder dan 6 maanden.</value>
   </data>
   <data name="CheckUnexpectedExtensionsFailure.Text" xml:space="preserve">
-    <value>Een asp- of php-extensie is gevonden - deze kunnen onschadelijk zijn, maar geven soms aan dat een site is gecompromitteerd en dat deze bestanden hulpmiddelen zijn. We raden u aan deze bestanden zorgvuldig te evalueren.</value>
+    <value>Een asp- of php-extensie is gevonden - deze kunnen onschadelijk zijn, maar geven soms aan dat een site is gecompromitteerd en dat deze bestanden hulpmiddelen zijn. We raden je aan deze bestanden zorgvuldig te evalueren.</value>
   </data>
   <data name="CheckUnexpectedExtensionsReason.Text" xml:space="preserve">
     <value>DNN is een asp.net webapplicatie. Onder normale omstandigheden mogen andere servertoepassingsextensies zoals asp en php niet in gebruik zijn.</value>
@@ -791,7 +791,7 @@
     <value>Controleren of default.aspx of default.aspx.cs bestanden zijn gewijzigd</value>
   </data>
   <data name="CheckDefaultPageFailure.Text" xml:space="preserve">
-    <value>De standaardpagina('s) zijn gewijzigd. We raden u aan deze bestanden zorgvuldig te evalueren, ze kunnen zijn gewijzigd door een hacker en kunnen kwaadaardige code bevatten. Het is het beste om deze bestanden te vergelijken met die van een standaardinstallatie van uw product. Zorg ervoor dat de DNN-versie van uw huidige site overeenkomt met de standaardsite vóór vergelijking. Verwijder de kwaadaardige code of herstel deze bestanden uit de standaardinstallatie.</value>
+    <value>De standaardpagina('s) zijn gewijzigd. We raden je aan deze bestanden zorgvuldig te evalueren, ze kunnen zijn gewijzigd door een hacker en kunnen kwaadaardige code bevatten. Het is het beste om deze bestanden te vergelijken met die van een standaardinstallatie van je product. Zorg ervoor dat de DNN-versie van je huidige site overeenkomt met de standaardsite vóór vergelijking. Verwijder de kwaadaardige code of herstel deze bestanden uit de standaardinstallatie.</value>
   </data>
   <data name="CheckDefaultPageReason.Text" xml:space="preserve">
     <value>DNN gebruikt default.aspx om alles te laden, dus alle verzoeken laden dit bestand wanneer de gebruiker door de site bladert. Als iemand dit bestand wijzigt, kan dit een enorm risico vormen.</value>
@@ -1004,7 +1004,7 @@
     <value>Verborgen bestanden controleren</value>
   </data>
   <data name="CheckHiddenSystemFilesReason.Text" xml:space="preserve">
-    <value>Hackers kunnen rootkits uploaden naar de website, ze markeren ze als systeembestand of verborgen in het bestandssysteem, dan kunt u deze bestanden niet zien in bestandsverkenner.</value>
+    <value>Hackers kunnen rootkits uploaden naar de website, ze markeren ze als systeembestand of verborgen in het bestandssysteem, dan kun je deze bestanden niet zien in bestandsverkenner.</value>
   </data>
   <data name="CheckHiddenSystemFilesSuccess.Text" xml:space="preserve">
     <value>Er zijn geen bestanden gemarkeerd als systeembestand of verborgen in de websitemap.</value>
@@ -1109,7 +1109,7 @@
     <value>Alle pagina's van de site zijn ingesteld om beveiligd te zijn</value>
   </data>
   <data name="SslSetAllPagesSecure.Confirm" xml:space="preserve">
-    <value>Wilt u alle pagina's van deze site instellen om alleen toegankelijk te zijn via https?</value>
+    <value>Wil je alle pagina's van deze site instellen om alleen toegankelijk te zijn via https?</value>
   </data>
   <data name="TabApiTokens.Text" xml:space="preserve">
     <value>API Tokens</value>
@@ -1124,7 +1124,7 @@
     <value>Verloopt</value>
   </data>
   <data name="Revoke.Confirm" xml:space="preserve">
-    <value>Wilt u dit token intrekken? Merk op dat dit niet ongedaan kan worden gemaakt.</value>
+    <value>Wil je dit token intrekken? Merk op dat dit niet ongedaan kan worden gemaakt.</value>
   </data>
   <data name="Revoke.Text" xml:space="preserve">
     <value>Intrekken</value>
@@ -1217,7 +1217,7 @@
     <value>Bereik</value>
   </data>
   <data name="ApiTokenCreated.Text" xml:space="preserve">
-    <value>Dit is het API-token. Zorg ervoor dat u dit kopieert naar een veilige plaats. Het wordt niet meer getoond.</value>
+    <value>Dit is het API-token. Zorg ervoor dat je dit kopieert naar een veilige plaats. Het wordt niet meer getoond.</value>
   </data>
   <data name="ApiTokensDisabled.Help" xml:space="preserve">
     <value>API-tokens zijn uitgeschakeld op deze installatie. De systeembeheerder moet dit inschakelen in de web.config.</value>

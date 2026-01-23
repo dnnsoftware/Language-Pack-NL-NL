@@ -142,7 +142,7 @@
     <value>Je moet de Microsoft Tenant ID opgeven</value>
   </data>
   <data name="lblTenantId.Help" xml:space="preserve">
-    <value>Microsoft tenant ID. Voor single-tenant apps kan dit zijn: de guid van je directory; de directorynaam in het formaat mijnbedrijf.onmicrosoft.com; de standaard aangepaste domeinnaam die wordt gebruikt in de tenant, bijv. mijnbedrijf.com. Voor multi-tenant scenario's typt u "common" om de provider het gemeenschappelijke autorisatie-eindpunt te laten gebruiken.</value>
+    <value>Microsoft tenant ID. Voor single-tenant apps kan dit zijn: de guid van je directory; de directorynaam in het formaat mijnbedrijf.onmicrosoft.com; de standaard aangepaste domeinnaam die wordt gebruikt in de tenant, bijv. mijnbedrijf.com. Voor multi-tenant scenario's typ je "common" om de provider het gemeenschappelijke autorisatie-eindpunt te laten gebruiken.</value>
   </data>
   <data name="lblTenantId.Text" xml:space="preserve">
     <value>Tenant ID</value>
@@ -325,12 +325,12 @@
     <value>DNN gebruikerseigenschap*</value>
   </data>
   <data name="lblGraphClient.Help" xml:space="preserve">
-    <value>Een Tenant ID, een applicatie-ID en een applicatiegeheim zijn nodig om de Microsoft Graph API te gebruiken. Standaard worden de waarden gebruikt die zijn ingevoerd in Algemene instellingen, maar u kunt ook andere waarden opgeven.</value>
+    <value>Een Tenant ID, een applicatie-ID en een applicatiegeheim zijn nodig om de Microsoft Graph API te gebruiken. Standaard worden de waarden gebruikt die zijn ingevoerd in Algemene instellingen, maar kunt ook andere waarden opgeven.</value>
   </data>
   <data name="lblGroupNamePrefixEnabled.Help" xml:space="preserve">
     <value>Schakelt het toevoegen van het voorvoegsel "Azure-" in voor alle groepsnamen afkomstig van Microsoft Entra.</value>
   </data>
-  <data name="lblGroupNamePrefixEnabled.Text" xml:space="preserve">
+  <data name="lbu lGroupNamePrefixEnabled.Text" xml:space="preserve">
     <value>Groepsnamen voorzien van voorvoegsel</value>
   </data>
   <data name="lblNamePrefixes.Help" xml:space="preserve">

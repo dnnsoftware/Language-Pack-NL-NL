@@ -20,7 +20,7 @@
     <value>Account informatie</value>
   </data>
   <data name="BestPractices.Text" xml:space="preserve">
-    <value>Je staat op het punt je website te upgraden naar een recentere versie van de applicatie. Het regelmatig toepassen van upgrades is de beste manier om de integriteit van uw investering en de beveiliging van uw gebruikers en assets te waarborgen. Voordat u doorgaat met het geautomatiseerde upgradeproces, zorg ervoor dat:
+    <value>Je staat op het punt je website te upgraden naar een recentere versie van de applicatie. Het regelmatig toepassen van upgrades is de beste manier om de integriteit van uw investering en de beveiliging van uw gebruikers en assets te waarborgen. Voordat je doorgaat met het geautomatiseerde upgradeproces, zorg ervoor dat:
 &lt;ul&gt;
 &lt;li&gt;je plannen hebt gemaakt om dit proces eerst in een staging-omgeving te proberen
 &lt;li&gt;je je huidige installatiekenmerken hebt gedocumenteerd, inclusief onderzoek naar de compatibiliteit van eventuele modules van derden die je mogelijk gebruikt

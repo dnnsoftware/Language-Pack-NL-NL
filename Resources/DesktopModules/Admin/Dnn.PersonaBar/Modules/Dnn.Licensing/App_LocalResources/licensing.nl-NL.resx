@@ -99,7 +99,7 @@
     <value>Licentieactivering mislukt. De hostserver {0} heeft al een {1} licentie.</value>
   </data>
   <data name="Error.ContactServer.activate" xml:space="preserve">
-    <value>Kan de licentie niet activeren. De verbinding met licentieserver mislukt. Probeer het later opnieuw of gebruik handmatige activering. Neem contact op met Technische Ondersteuning als u problemen blijft ervaren.</value>
+    <value>Kan de licentie niet activeren. De verbinding met licentieserver mislukt. Probeer het later opnieuw of gebruik handmatige activering. Neem contact op met Technische Ondersteuning als je problemen blijft ervaren.</value>
   </data>
   <data name="Error.ContactServer.canrenew" xml:space="preserve">
     <value>Verbinding met licentieserver mislukt. Je kunt licenties niet automatisch activeren of vernieuwen. Je kunt handmatige activering gebruiken om een licentie te activeren.&lt;br /&gt;&lt;br /&gt;
@@ -113,7 +113,7 @@ Kan activering niet terug toevoegen aan je factuur omdat verbinding met licentie
     <value>Kan licentie niet vernieuwen. Verbinding met licentieserver mislukt. Probeer het later opnieuw of neem contact op met &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;</value>
   </data>
   <data name="Error.ACT1.Text" xml:space="preserve">
-    <value>Licentieactivering mislukt. De opgegeven licentiegegevens komen niet overeen met een geldige licentie.&lt;br /&gt;&lt;br /&gt;Verifieer uw licentiegegevens op &lt;a href="{0}" target="_blank"&gt;uw licentiepagina op dnnsoftware.com&lt;/a&gt; en probeer het opnieuw. Neem contact op met Technische Ondersteuning als u problemen blijft ervaren.</value>
+    <value>Licentieactivering mislukt. De opgegeven licentiegegevens komen niet overeen met een geldige licentie.&lt;br /&gt;&lt;br /&gt;Verifieer je licentiegegevens op &lt;a href="{0}" target="_blank"&gt;je licentiepagina op dnnsoftware.com&lt;/a&gt; en probeer het opnieuw. Neem contact op met Technische Ondersteuning als je problemen blijft ervaren.</value>
   </data>
   <data name="Error.ACT2.Text" xml:space="preserve">
     <value>Licentieactivering mislukt. Productieactivering voor {0} is in gebruik.</value>
@@ -152,10 +152,10 @@ Kan activering niet terug toevoegen aan je factuur omdat verbinding met licentie
     <value>Uw licentie is succesvol verwijderd.</value>
   </data>
   <data name="Success.LicenseDeactivatedContactServerErr" xml:space="preserve">
-    <value>Uw licentie is verwijderd.&lt;br /&gt;&lt;br /&gt;Kan activering niet terug toevoegen aan uw factuur omdat verbinding met licentieserver mislukt. Neem contact op met Technische Ondersteuning als u moet activeren als productielicentie.</value>
+    <value>Uw licentie is verwijderd.&lt;br /&gt;&lt;br /&gt;Kan activering niet terug toevoegen aan uw factuur omdat verbinding met licentieserver mislukt. Neem contact op met Technische Ondersteuning als je moet activeren als productielicentie.</value>
   </data>
   <data name="Success.LicenseDeactivatedNoActivationIncrease" xml:space="preserve">
-    <value>Uw licentie is verwijderd.&lt;br /&gt;&lt;br /&gt;Kan activering niet terug toevoegen aan de factuur. Neem contact op met Technische Ondersteuning als u moet activeren als productielicentie.</value>
+    <value>Uw licentie is verwijderd.&lt;br /&gt;&lt;br /&gt;Kan activering niet terug toevoegen aan de factuur. Neem contact op met Technische Ondersteuning als je moet activeren als productielicentie.</value>
   </data>
   <data name="Success.LicenseRenewed" xml:space="preserve">
     <value>Uw licentie is succesvol vernieuwd.</value>
@@ -170,7 +170,7 @@ Kan activering niet terug toevoegen aan je factuur omdat verbinding met licentie
     <value>Uw verlengde proeflicentie is succesvol geïnstalleerd.</value>
   </data>
   <data name="Success.TrialExtensionRequest" xml:space="preserve">
-    <value>Uw aanvraag voor verlenging van de proeflicentie is ingediend. U ontvangt binnen 1 werkdag een e-mail met instructies voor het verlengen van uw licentie. Neem bij vragen over proeflicentieverlengingen contact op met de verkoopafdeling van DNN Corp. op 650-288-3150.</value>
+    <value>Uw aanvraag voor verlenging van de proeflicentie is ingediend. Je ontvangt binnen 1 werkdag een e-mail met instructies voor het verlengen van je licentie. Neem bij vragen over proeflicentieverlengingen contact op met de verkoopafdeling van DNN Corp. op 650-288-3150.</value>
   </data>
   <data name="Intro.Header" xml:space="preserve">
     <value>DNN Platform</value>
@@ -194,6 +194,6 @@ Kan activering niet terug toevoegen aan je factuur omdat verbinding met licentie
     <value>DE DOCUMENTATIE</value>
   </data>
   <data name="Docs" xml:space="preserve">
-    <value>DNN Docs is ook open source! Leer hoe u aan de slag gaat met DNN, volg stapsgewijze tutorials en duik zelfs in de API-documentatie.</value>
+    <value>DNN Docs is ook open source! Leer hoe je aan de slag gaat met DNN, volg stapsgewijze tutorials en duik zelfs in de API-documentatie.</value>
   </data>
 </root>

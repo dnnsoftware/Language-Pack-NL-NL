@@ -346,7 +346,7 @@
     <value>Toepassen</value>
   </data>
   <data name="NameTooltip.Text" xml:space="preserve">
-    <value>Dit is de naam van de pagina. De tekst die u invoert wordt weergegeven in het menusysteem.</value>
+    <value>Dit is de naam van de pagina. De tekst die je invoert wordt weergegeven in het menusysteem.</value>
   </data>
   <data name="DisplayInMenu.Text" xml:space="preserve">
     <value>Weergeven in menu</value>
@@ -739,7 +739,7 @@
     <value>Gepubliceerd</value>
   </data>
   <data name="MakeNeutralWarning.Text" xml:space="preserve">
-    <value>Dit zal alle vertaalde versies van de pagina verwijderen. Alleen de standaardcultuurversie van de pagina blijft behouden. Weet u zeker dat u dit wilt doen?</value>
+    <value>Dit zal alle vertaalde versies van de pagina verwijderen. Alleen de standaardcultuurversie van de pagina blijft behouden. Weet je zeker dat je dit wilt doen?</value>
   </data>
   <data name="PageUpdatedMessage.Text" xml:space="preserve">
     <value>Pagina succesvol bijgewerkt</value>
@@ -847,7 +847,7 @@
     <value>Pagina gevonden.</value>
   </data>
   <data name="Prompt_InvalidPageId.Text" xml:space="preserve">
-    <value>U moet een geldig nummer opgeven voor pagina-ID</value>
+    <value>Je moet een geldig nummer opgeven voor pagina-ID</value>
   </data>
   <data name="Prompt_NoPageId.Text" xml:space="preserve">
     <value>Geen geldige pagina-ID opgegeven</value>
@@ -859,7 +859,7 @@
     <value>Als je de vlag --{0} opgeeft, moet deze op True of False worden ingesteld.</value>
   </data>
   <data name="Prompt_ParentIdNotNumeric.Text" xml:space="preserve">
-    <value>Bij het opgeven van --{0} moet u een geldig numeriek pagina (tab) ID opgeven</value>
+    <value>Bij het opgeven van --{0} moet je een geldig numeriek pagina (tab) ID opgeven</value>
   </data>
   <data name="Prompt_NoPages.Text" xml:space="preserve">
     <value>Geen pagina's gevonden.</value>
@@ -880,7 +880,7 @@
     <value>--{0} is verplicht.</value>
   </data>
   <data name="Prompt_TrueFalseRequired.Text" xml:space="preserve">
-    <value>U moet waar of onwaar doorgeven voor de vlag --{0}.</value>
+    <value>Je moet waar of onwaar doorgeven voor de vlag --{0}.</value>
   </data>
   <data name="Prompt_UnableToFindSpecified.Text" xml:space="preserve">
     <value>Kan de opgegeven pagina niet vinden voor --{0} '{1}'.</value>
@@ -1222,7 +1222,7 @@
     <value>Verwijdert een pagina binnen het portaal en verplaatst deze naar de prullenbak. Voor extra veiligheid is het met deze methode niet mogelijk om pagina's met subpagina's, hostpagina's of pagina's in het pad //Admin te verwijderen.</value>
   </data>
   <data name="Prompt_DeletePage_FlagId.Text">
-    <value>Specificeert expliciet de pagina-ID die verwijderd moet worden. Het gebruik van de vlagnaam is niet verplicht. U kunt eenvoudig de ID-waarde als eerste argument opgeven. Vereist als &lt;span class="mono"&gt;--parentid&lt;/span&gt; niet is gespecificeerd.</value>
+    <value>Specificeert expliciet de pagina-ID die verwijderd moet worden. Het gebruik van de vlagnaam is niet verplicht. Je kunt eenvoudig de ID-waarde als eerste argument opgeven. Vereist als &lt;span class="mono"&gt;--parentid&lt;/span&gt; niet is gespecificeerd.</value>
   </data>
   <data name="Prompt_DeletePage_FlagName.Text">
     <value>De naam (niet de titel) van de pagina die verwijderd moet worden.</value>
@@ -1237,7 +1237,7 @@
 delete-page 999
 &lt;/code&gt;
 &lt;h4&gt;Pagina verwijderen op naam onder een andere ouder&lt;/h4&gt;
-&lt;p&gt;OPMERKING: Op dit moment staat Prompt niet toe dat u pagina's verwijdert die subpagina's hebben.&lt;/p&gt;
+&lt;p&gt;OPMERKING: Op dit moment staat Prompt niet toe dat je pagina's verwijdert die subpagina's hebben.&lt;/p&gt;
 &lt;code class="block"&gt;
 delete-page --name "test" --parentid 999
 &lt;/code&gt;
@@ -1249,7 +1249,7 @@ delete-page --name "test" --parentid 999
 &lt;blockquote&gt;
 
 &lt;strong&gt;Pagina's versus tabbladen&lt;/strong&gt;: Om historische redenen verwijst DNN
-intern naar pagina's als "tabbladen". Dus, wanneer u een verwijzing naar &lt;em&gt;tabblad&lt;/em&gt;
+intern naar pagina's als "tabbladen". Dus, wanneer je een verwijzing naar &lt;em&gt;tabblad&lt;/em&gt;
 
 of &lt;em&gt;pagina&lt;/em&gt; ziet, onthoud dan dat ze equivalent zijn. Waarden die door Prompt worden geretourneerd, gebruiken meestal
 
@@ -1258,7 +1258,7 @@ de interne naamgevingsconventies van DNN (vandaar &lt;em&gt;tabblad&lt;/em&gt;),
 &lt;/blockquote&gt;</value>
   </data>
   <data name="Prompt_GetPage_FlagId.Text">
-    <value>Hiermee wordt expliciet de pagina-ID opgegeven die moet worden opgehaald. Het gebruik van deze vlag is niet verplicht. U kunt de ID-waarde ook gewoon als eerste argument opgeven.</value>
+    <value>Hiermee wordt expliciet de pagina-ID opgegeven die moet worden opgehaald. Het gebruik van deze vlag is niet verplicht. Je kunt de ID-waarde ook gewoon als eerste argument opgeven.</value>
   </data>
   <data name="Prompt_GetPage_FlagName.Text">
     <value>De naam (niet de titel) van de pagina.</value>
@@ -1281,7 +1281,7 @@ get-page &lt;em&gt;pagina-ID&lt;/em&gt;
 
 &lt;p&gt;
 
-LET OP: U kunt hostpagina's niet ophalen met deze methode, omdat deze alleen pagina's binnen een portal ophaalt. Hostpagina's bevinden zich technisch gezien buiten de portal. U kunt ze echter wel ophalen met behulp van de pagina-ID (tabblad-ID in DNN-terminologie).
+LET OP: Je kunt hostpagina's niet ophalen met deze methode, omdat deze alleen pagina's binnen een portal ophaalt. Hostpagina's bevinden zich technisch gezien buiten de portal. Je kunt ze echter wel ophalen met behulp van de pagina-ID (tabblad-ID in DNN-terminologie).
 
 &lt;/p&gt;
 
@@ -1343,7 +1343,7 @@ LET OP: U kunt hostpagina's niet ophalen met deze methode, omdat deze alleen pag
     <value>Navigeert naar de opgegeven pagina binnen het DNN-portaal.</value>
   </data>
   <data name="Prompt_Goto_FlagId.Text">
-    <value>Geef de pagina-ID (tab-ID) op van de pagina waarnaar u wilt navigeren. Het expliciet gebruiken van de vlag `--id` is niet nodig. Geef de pagina-ID eenvoudigweg door als eerste argument na de opdrachtnaam.</value>
+    <value>Geef de pagina-ID (tab-ID) op van de pagina waarnaar je wilt navigeren. Het expliciet gebruiken van de vlag `--id` is niet nodig. Geef de pagina-ID eenvoudigweg door als eerste argument na de opdrachtnaam.</value>
   </data>
   <data name="Prompt_Goto_FlagName.Text">
     <value>De naam (niet de titel) van de pagina.</value>
@@ -1372,7 +1372,7 @@ ga naar 74
 &lt;blockquote&gt;
 
 &lt;strong&gt;Pagina's versus tabbladen&lt;/strong&gt;: Om historische redenen verwijst DNN
-intern naar pagina's als "tabbladen". Dus, wanneer u een verwijzing naar &lt;em&gt;tabblad&lt;/em&gt;
+intern naar pagina's als "tabbladen". Dus, wanneer je een verwijzing naar &lt;em&gt;tabblad&lt;/em&gt;
 
 of &lt;em&gt;pagina&lt;/em&gt; ziet, onthoud dan dat ze equivalent zijn. Waarden die door Prompt worden geretourneerd, gebruiken meestal
 
@@ -1387,7 +1387,7 @@ de interne naamgevingsconventies van DNN (vandaar &lt;em&gt;tabblad&lt;/em&gt;),
     <value>Haal alleen pagina's op waarvan de naam overeenkomt met de expressie. Je kunt het asterisk-jokerteken (&lt;span class="mono"&gt;*&lt;/span&gt;) gebruiken om nul of meer tekens te matchen.</value>
   </data>
   <data name="Prompt_ListPages_FlagParentId.Text">
-    <value>De pagina-ID (tab-ID) van de bovenliggende pagina waarvan u de subpagina's wilt ophalen. Als het eerste argument een geldige pagina-ID is, hoeft u de vlag --parentid niet expliciet te gebruiken.</value>
+    <value>De pagina-ID (tab-ID) van de bovenliggende pagina waarvan je de subpagina's wilt ophalen. Als het eerste argument een geldige pagina-ID is, hoef je de vlag --parentid niet expliciet te gebruiken.</value>
   </data>
   <data name="Prompt_ListPages_FlagPath.Text">
     <value>Haal alleen pagina's op waarvan het pad overeenkomt met de expressie. Je kunt het asterisk-jokerteken (&lt;span class="mono"&gt;*&lt;/span&gt;) gebruiken om nul of meer tekens te matchen.</value>
@@ -1900,7 +1900,7 @@ new-page --name "Mijn subpagina" --parentid 78 --title "Dit is de titel van de s
     <value>De beschrijving die voor de pagina gebruikt moet worden</value>
   </data>
   <data name="Prompt_SetPage_FlagId.Text">
-    <value>De ID van de pagina die u wilt bijwerken.</value>
+    <value>De ID van de pagina die je wilt bijwerken.</value>
   </data>
   <data name="Prompt_SetPage_FlagKeywords.Text">
     <value>Trefwoorden die je voor de pagina kunt gebruiken</value>

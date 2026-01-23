@@ -139,7 +139,7 @@
     <value>Extra e-mailadressen</value>
   </data>
   <data name="plEmail.Help" xml:space="preserve">
-    <value>U kunt e-mailadressen toevoegen, gescheiden door een ";".</value>
+    <value>Je kunt e-mailadressen toevoegen, gescheiden door een ";".</value>
   </data>
   <data name="plFrom.Text" xml:space="preserve">
     <value>Van</value>
@@ -223,7 +223,7 @@
     <value>Verzendactie</value>
   </data>
   <data name="plSendAction.Help" xml:space="preserve">
-    <value>Selecteer hoe e-mails moeten worden verzonden - Synchroon - e-mails worden onmiddellijk verzonden - je kunt niet terugkeren naar de applicatie totdat dit is voltooid of Asynchroon - e-mails worden verzonden als achtergrondtaak - u kunt andere taken blijven uitvoeren terwijl dit wordt voltooid.</value>
+    <value>Selecteer hoe e-mails moeten worden verzonden - Synchroon - e-mails worden onmiddellijk verzonden - je kunt niet terugkeren naar de applicatie totdat dit is voltooid of Asynchroon - e-mails worden verzonden als achtergrondtaak - je kunt andere taken blijven uitvoeren terwijl dit wordt voltooid.</value>
   </data>
   <data name="Synchronous.Text" xml:space="preserve">
     <value>Synchroon</value>
@@ -231,7 +231,7 @@
   <data name="Asynchronous.Text" xml:space="preserve">
     <value>Asynchroon</value>
   </data>
-  <data name="cmdSend.Text" xml:space="preserve">
+  <data name="cmdSend.Text" xml:space="preserve"
     <value>E-mail verzenden</value>
   </data>
   <data name="ControlTitle_.Text" xml:space="preserve">

@@ -295,7 +295,7 @@
     <value>Host-GUID:</value>
   </data>
   <data name="plProduct.Help" xml:space="preserve">
-    <value>De applicatie die u gebruikt</value>
+    <value>De applicatie die je gebruikt</value>
   </data>
   <data name="plProduct.Text" xml:space="preserve">
     <value>Product:</value>
@@ -418,7 +418,7 @@
     <value>SMTP SSL inschakelen:</value>
   </data>
   <data name="plSMTPMode.Help" xml:space="preserve">
-    <value>Hostmodus gebruikt alle SMTP-instellingen die op applicatieniveau zijn ingesteld. Op siteniveau kunt u uw eigen SMTP-server, poort en authenticatiemethode selecteren.</value>
+    <value>Hostmodus gebruikt alle SMTP-instellingen die op applicatieniveau zijn ingesteld. Op siteniveau kun je je eigen SMTP-server, poort en authenticatiemethode selecteren.</value>
   </data>
   <data name="plSMTPMode.Text" xml:space="preserve">
     <value>SMTP-servermodus:</value>
@@ -550,7 +550,7 @@
     <value>Cachingprovider</value>
   </data>
   <data name="PerformanceTab_ClientResourceManagementInfo.Text" xml:space="preserve">
-    <value>De Super User bepaalt het standaard gedrag van Client Resource Management, maar u kunt ervoor kiezen om uw site anders te configureren. De instellingen op hostniveau zijn momenteel als volgt ingesteld:</value>
+    <value>De Super User bepaalt het standaard gedrag van Client Resource Management, maar je kunt ervoor kiezen om je site anders te configureren. De instellingen op hostniveau zijn momenteel als volgt ingesteld:</value>
   </data>
   <data name="PerformanceTab_ClientResourceManagementTitle.Text" xml:space="preserve">
     <value>Client Resource Management</value>
@@ -613,9 +613,9 @@
     <value>Waarschuwing: Geheugenpaginastatuspersistentie kan Ajax-problemen veroorzaken.</value>
   </data>
   <data name="PerformanceTab_PortalVersionConfirmMessage.Text" xml:space="preserve">
-    <value>Deze actie dwingt alle sitebezoekers om nieuwe versies van CSS- en JavaScript-bestanden te downloaden. U moet dit alleen doen als u zeker weet dat de bestanden zijn gewijzigd en u wilt dat deze wijzigingen worden weergegeven in de browser van de klant.
+    <value>Deze actie dwingt alle sitebezoekers om nieuwe versies van CSS- en JavaScript-bestanden te downloaden. Je moet dit alleen doen als je zeker weet dat de bestanden zijn gewijzigd en je wilt dat deze wijzigingen worden weergegeven in de browser van de klant.
 
-Weet u zeker dat u het versienummer voor uw site wilt verhogen?</value>
+Weet je zeker dat je het versienummer voor je site wilt verhogen?</value>
   </data>
   <data name="PerformanceTab_PortalVersionConfirmNo.Text" xml:space="preserve">
     <value>Nee</value>

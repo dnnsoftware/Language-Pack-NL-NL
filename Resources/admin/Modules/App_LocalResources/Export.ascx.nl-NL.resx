@@ -70,7 +70,7 @@
     <value>Er is een fout opgetreden tijdens het exporteren.</value>
   </data>
   <data name="Validation.Text">
-    <value>U moet een map en bestand opgeven voor export.</value>
+    <value>Je moet een map en bestand opgeven voor export.</value>
   </data>
   <data name="Root.Text">
     <value>Hoofdmap</value>

@@ -226,7 +226,7 @@
     <value>Binnen de huidige instellingen is het voor gebruikers niet toegestaan om berichten te versturen naar andere gebruikers en/of groepen.</value>
   </data>
   <data name="ProfileService_UpdateVanityUrl.Error" xml:space="preserve" lastModified="2020-06-27 14:41:54">
-    <value>Er is een error fout tijdens het updaten van de profiel URL. Als u deze melding blijft zien, neem dan contact op met u site beheerder.</value>
+    <value>Er is een error fout tijdens het updaten van de profiel URL. Als je deze melding blijft zien, neem dan contact op met je sitebeheerder.</value>
   </data>
   <data name="PropertyCannotBeEmpty.Text" xml:space="preserve" lastModified="2020-06-27 14:41:54">
     <value>De eigenschap'{1}' van object '{0}' kan niet leeg zijn (aantal = 0).</value>
@@ -394,7 +394,7 @@
     <value>Workflow status kan niet worden verplaatst</value>
   </data>
   <data name="WorkflowStateInUsageException.Text" xml:space="preserve" lastModified="2020-05-12 12:27:23">
-    <value>U kunt een workflow status die in gebruik is, niet verwijderen.</value>
+    <value>Je kunt een workflow status die in gebruik is, niet verwijderen.</value>
   </data>
   <data name="WorkflowStateNameAlreadyExistsException.Text" xml:space="preserve">
     <value>Er bestaat al een workflow met deze naam.</value>
