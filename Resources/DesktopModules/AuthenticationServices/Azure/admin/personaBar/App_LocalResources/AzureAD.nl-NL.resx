@@ -477,7 +477,7 @@
     <value>Indien opgenomen, slaat de app het op e-mail gebaseerde detectieproces over dat de gebruiker doorloopt op de inlogpagina, wat leidt tot een iets meer gestroomlijnde gebruikerservaring.</value>
   </data>
   <data name="lblPromptBlank" xml:space="preserve">
-    <value> </value>
+    <value></value>
   </data>
   <data name="lblPromptLogin" xml:space="preserve">
     <value>login</value>

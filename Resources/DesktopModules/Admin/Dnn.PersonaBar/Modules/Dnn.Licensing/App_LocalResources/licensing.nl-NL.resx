@@ -149,16 +149,16 @@ Kan activering niet terug toevoegen aan je factuur omdat verbinding met licentie
     <value>Productielicentie is succesvol geactiveerd</value>
   </data>
   <data name="Success.LicenseDeactivated" xml:space="preserve">
-    <value>Uw licentie is succesvol verwijderd.</value>
+    <value>Jouw licentie is succesvol verwijderd.</value>
   </data>
   <data name="Success.LicenseDeactivatedContactServerErr" xml:space="preserve">
-    <value>Uw licentie is verwijderd.&lt;br /&gt;&lt;br /&gt;Kan activering niet terug toevoegen aan uw factuur omdat verbinding met licentieserver mislukt. Neem contact op met Technische Ondersteuning als je moet activeren als productielicentie.</value>
+    <value>Jouw licentie is verwijderd.&lt;br /&gt;&lt;br /&gt;Kan activering niet terug toevoegen aan jouw factuur omdat verbinding met licentieserver mislukt. Neem contact op met Technische Ondersteuning als je moet activeren als productielicentie.</value>
   </data>
   <data name="Success.LicenseDeactivatedNoActivationIncrease" xml:space="preserve">
-    <value>Uw licentie is verwijderd.&lt;br /&gt;&lt;br /&gt;Kan activering niet terug toevoegen aan de factuur. Neem contact op met Technische Ondersteuning als je moet activeren als productielicentie.</value>
+    <value>Jouw licentie is verwijderd.&lt;br /&gt;&lt;br /&gt;Kan activering niet terug toevoegen aan de factuur. Neem contact op met Technische Ondersteuning als je moet activeren als productielicentie.</value>
   </data>
   <data name="Success.LicenseRenewed" xml:space="preserve">
-    <value>Uw licentie is succesvol vernieuwd.</value>
+    <value>Jouw licentie is succesvol vernieuwd.</value>
   </data>
   <data name="Success.StagingLicenseActivated" xml:space="preserve">
     <value>Staginglicentie is succesvol geactiveerd</value>
@@ -167,10 +167,10 @@ Kan activering niet terug toevoegen aan je factuur omdat verbinding met licentie
     <value>Testlicentie is succesvol geactiveerd</value>
   </data>
   <data name="Success.TrialActivation" xml:space="preserve">
-    <value>Uw verlengde proeflicentie is succesvol geïnstalleerd.</value>
+    <value>Jouw verlengde proeflicentie is succesvol geïnstalleerd.</value>
   </data>
   <data name="Success.TrialExtensionRequest" xml:space="preserve">
-    <value>Uw aanvraag voor verlenging van de proeflicentie is ingediend. Je ontvangt binnen 1 werkdag een e-mail met instructies voor het verlengen van je licentie. Neem bij vragen over proeflicentieverlengingen contact op met de verkoopafdeling van DNN Corp. op 650-288-3150.</value>
+    <value>Jouw aanvraag voor verlenging van de proeflicentie is ingediend. Je ontvangt binnen 1 werkdag een e-mail met instructies voor het verlengen van je licentie. Neem bij vragen over proeflicentieverlengingen contact op met de verkoopafdeling van DNN Corp. op 650-288-3150.</value>
   </data>
   <data name="Intro.Header" xml:space="preserve">
     <value>DNN Platform</value>

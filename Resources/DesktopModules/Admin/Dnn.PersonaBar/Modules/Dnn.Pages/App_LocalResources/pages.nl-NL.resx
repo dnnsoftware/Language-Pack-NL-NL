@@ -196,7 +196,7 @@
     <value>Sitemap prioriteit</value>
   </data>
   <data name="SitemapPriority_tooltip.Text" xml:space="preserve">
-    <value>Voer de gewenste prioriteit in (tussen 0 en 1.0). Dit helpt bepalen hoe deze pagina wordt gerangschikt in Google ten opzichte van andere pagina's op uw site (0.5 is de standaard).</value>
+    <value>Voer de gewenste prioriteit in (tussen 0 en 1.0). Dit helpt bepalen hoe deze pagina wordt gerangschikt in Google ten opzichte van andere pagina's op jouw site (0.5 is de standaard).</value>
   </data>
   <data name="PageHeaderTags.Text" xml:space="preserve">
     <value>Pagina header tags</value>
@@ -1081,13 +1081,13 @@
     <value>Je staat op het punt om de vertaling '{0}' van deze pagina permanent te &lt;b&gt;verwijderen&lt;/b&gt;. Weet je zeker dat je wilt doorgaan?</value>
   </data>
   <data name="IconFile.Help" xml:space="preserve">
-    <value>Het pagina-icoon is een afbeelding die door uw thema of menusysteem kan worden gebruikt voor elke pagina</value>
+    <value>Het pagina-icoon is een afbeelding die door jouw thema of menusysteem kan worden gebruikt voor elke pagina</value>
   </data>
   <data name="IconFile.Text" xml:space="preserve">
     <value>Klein icoon</value>
   </data>
   <data name="IconFileLarge.Help" xml:space="preserve">
-    <value>Het pagina-icoon is een afbeelding die door uw thema of menusysteem kan worden gebruikt voor elke pagina</value>
+    <value>Het pagina-icoon is een afbeelding die door jouw thema of menusysteem kan worden gebruikt voor elke pagina</value>
   </data>
   <data name="IconFileLarge.Text" xml:space="preserve">
     <value>Groot icoon</value>

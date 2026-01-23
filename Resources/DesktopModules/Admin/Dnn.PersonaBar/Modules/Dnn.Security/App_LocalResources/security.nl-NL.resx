@@ -697,7 +697,7 @@
     <value>Achternaam</value>
   </data>
   <data name="ScannerExplanation.Text" xml:space="preserve">
-    <value></value>
+    <value>Deze scanner controleert de beveiliging van jouw website op mogelijke kwetsbaarheden.</value>
   </data>
   <data name="Username.Header" xml:space="preserve">
     <value>Gebruikersnaam</value>
@@ -842,7 +842,7 @@
     <value>Hackers kunnen toegang krijgen tot schijven/mappen buiten de website</value>
   </data>
   <data name="CheckDiskAccessReason.Text" xml:space="preserve">
-    <value>De gebruiker waaronder uw website draait heeft toegang tot schijven en mappen buiten de websitelocatie. Een hacker kan toegang krijgen tot deze bestanden en kan lezen, schrijven of beide activiteiten uitvoeren.</value>
+    <value>De gebruiker waaronder jouw website draait heeft toegang tot schijven en mappen buiten de websitelocatie. Een hacker kan toegang krijgen tot deze bestanden en kan lezen, schrijven of beide activiteiten uitvoeren.</value>
   </data>
   <data name="CheckDiskAccessSuccess.Text" xml:space="preserve">
     <value>Hackers kunnen geen toegang krijgen tot schijven/mappen buiten de website</value>
@@ -863,13 +863,13 @@
     <value>Tabbladinstellingen</value>
   </data>
   <data name="ModifiedSettingsExplaination.Text" xml:space="preserve">
-    <value></value>
+    <value>Toont recent gewijzigde instellingen op module-, pagina- en siteniveau.</value>
   </data>
   <data name="ModifiedFilesExplaination.Text" xml:space="preserve">
-    <value></value>
+    <value>Toont recent gewijzigde bestanden in jouw systeem om verdachte activiteiten te identificeren.</value>
   </data>
   <data name="ModifiedFilesLoadWarning.Text" xml:space="preserve">
-    <value>Tool zal alle bestanden in uw systeem opsommen om de recent gewijzigde bestanden te tonen. Dit kan even duren op een site met veel bestanden.</value>
+    <value>Tool zal alle bestanden in jouw systeem opsommen om de recent gewijzigde bestanden te tonen. Dit kan even duren op een site met veel bestanden.</value>
   </data>
   <data name="CheckPasswordFormatName.Text" xml:space="preserve">
     <value>Wachtwoordformaatinstelling controleren</value>

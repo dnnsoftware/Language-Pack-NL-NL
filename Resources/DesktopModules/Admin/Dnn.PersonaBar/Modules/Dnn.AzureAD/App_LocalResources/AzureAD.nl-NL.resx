@@ -385,7 +385,7 @@
     <value>Synchronisatie</value>
   </data>
   <data name="lblSynchronizationDesc.Text" xml:space="preserve">
-    <value>Het synchronisatieproces kan automatisch rollen, gebruikers en profielen synchroniseren van uw Microsoft Entra tenant naar uw DNN portal. Dit kan de inlogprestaties beïnvloeden.</value>
+    <value>Het synchronisatieproces kan automatisch rollen, gebruikers en profielen synchroniseren van jouw Microsoft Entra tenant naar jouw DNN portal. Dit kan de inlogprestaties beïnvloeden.</value>
   </data>
   <data name="lblTabDescription.Text1" xml:space="preserve">
     <value>De Microsoft Entra ID Provider is een authenticatieprovider voor DNN Platform die Microsoft Entra ID OAuth2-authenticatie gebruikt om gebruikers te authenticeren.</value>
@@ -478,7 +478,7 @@
     <value>Indien opgenomen, slaat de app het op e-mail gebaseerde detectieproces over dat de gebruiker doorloopt op de inlogpagina, wat leidt tot een iets gestroomlijnde gebruikerservaring.</value>
   </data>
   <data name="lblPromptBlank" xml:space="preserve">
-    <value> </value>
+    <value></value>
   </data>
   <data name="lblPromptLogin" xml:space="preserve">
     <value>login</value>
