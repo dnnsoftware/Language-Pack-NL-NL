@@ -91,7 +91,7 @@
     <value>Deze module is toegevoegd aan de volgende pagina's:</value>
   </data>
   <data name="isShareableLabel.Help" xml:space="preserve">
-    <value>Vink deze optie aan als u deze module wilt delen over meerdere websites.</value>
+    <value>Vink deze optie aan als je deze module wilt delen over meerdere websites.</value>
   </data>
   <data name="isShareableLabel.Text" xml:space="preserve">
     <value>Is deelbaar?</value>
@@ -154,13 +154,13 @@
     <value>Uitlijning:</value>
   </data>
   <data name="plAllModules.Help" xml:space="preserve">
-    <value>Selecteer deze optie als u wilt dat de pagina-instellingen voor deze module worden toegepast op alle bestaande modules in de site. Deze optie is  alleen beschikbaar voor Portaal beheerders en superusers.</value>
+    <value>Selecteer deze optie als je wilt dat de pagina-instellingen voor deze module worden toegepast op alle bestaande modules in de site. Deze optie is  alleen beschikbaar voor sitebeheerders en applicatiebeheerders.</value>
   </data>
   <data name="plAllModules.Text" xml:space="preserve" lastModified="2015-12-30 06:19:44">
     <value>Op alle modules toepassen</value>
   </data>
   <data name="plAllTabs.Help" xml:space="preserve" lastModified="2015-12-30 04:14:30">
-    <value>Vink deze optie aan als u wilt dat deze module op dezelfde plaats op alle pagina's binnen de website weergeven moet worden.</value>
+    <value>Vink deze optie aan als je wilt dat deze module op dezelfde plaats op alle pagina's binnen de website weergeven moet worden.</value>
   </data>
   <data name="plAllTabs.Text" xml:space="preserve" lastModified="2015-12-30 06:19:44">
     <value>Module weergeven op alle pagina's</value>
@@ -184,7 +184,7 @@
     <value>Kleur:</value>
   </data>
   <data name="plDefault.Help" xml:space="preserve" lastModified="2015-12-30 06:19:44">
-    <value>Selecteer deze optie als u wilt dat de pagina-instellingen voor deze module worden gebruikt als de standaard instellingen bij het toevoegen van nieuwe modules. Deze optie is alleen beschikbaar voor website beheerders.</value>
+    <value>Selecteer deze optie als je wilt dat de pagina-instellingen voor deze module worden gebruikt als de standaard instellingen bij het toevoegen van nieuwe modules. Deze optie is alleen beschikbaar voor websitebeheerders.</value>
   </data>
   <data name="plDefault.Text" xml:space="preserve" lastModified="2015-12-30 04:14:30">
     <value>Instellen als Standaard Instellingen</value>
@@ -196,19 +196,19 @@
     <value>Afdrukken toestaan</value>
   </data>
   <data name="plDisplaySyndicate.Help" xml:space="preserve">
-    <value>Vink deze optie aan als u RSS beschikbaar wilt maken voor deze module</value>
+    <value>Vink deze optie aan als je RSS beschikbaar wilt maken voor deze module</value>
   </data>
   <data name="plDisplaySyndicate.Text" xml:space="preserve" lastModified="2015-12-30 06:19:44">
     <value>Syndicatie toestaan</value>
   </data>
   <data name="plDisplayTitle.Help" xml:space="preserve" lastModified="2015-12-30 06:19:44">
-    <value>Vink deze optie aan als u de module container wilt laten weergeven.</value>
+    <value>Vink deze optie aan als je de module container wilt laten weergeven.</value>
   </data>
   <data name="plDisplayTitle.Text" xml:space="preserve" lastModified="2015-12-30 04:14:30">
     <value>Container weergeven</value>
   </data>
   <data name="plEndDate.Help" xml:space="preserve">
-    <value>Voer een einddatum in voor weergave van deze module. Na deze datum wordt de module automatisch verborgen. U kunt de kalender popup gebruiken om een datum te selecteren.</value>
+    <value>Voer een einddatum in voor weergave van deze module. Na deze datum wordt de module automatisch verborgen. Je kunt de kalenderpopup gebruiken om een datum te selecteren.</value>
   </data>
   <data name="plEndDate.Text" xml:space="preserve">
     <value>Einddatum:</value>
@@ -262,7 +262,7 @@
     <value>Bevoegdheden:</value>
   </data>
   <data name="plStartDate.Help" xml:space="preserve">
-    <value>Voer een begindatum in voor weergave van deze module. Vóór deze datum wordt de module automatisch verborgen. U kunt de kalender pop-up gebruiken om een datum te selecteren.</value>
+    <value>Voer een begindatum in voor weergave van deze module. Vóór deze datum wordt de module automatisch verborgen. Je kunt de kalenderpopup gebruiken om een datum te selecteren.</value>
   </data>
   <data name="plStartDate.Text" xml:space="preserve">
     <value>Begindatum:</value>
@@ -304,7 +304,7 @@
     <value>Web Slice Verloopt</value>
   </data>
   <data name="plWebSliceTitle.Help" xml:space="preserve">
-    <value>Geef een titel op voor de Web Slice - indien u dit leeg laat zal de titel van de module worden gebruikt.</value>
+    <value>Geef een titel op voor de Web Slice - indien je dit leeg laat zal de titel van de module worden gebruikt.</value>
   </data>
   <data name="plWebSliceTitle.Text" xml:space="preserve">
     <value>Titel Web Slice</value>

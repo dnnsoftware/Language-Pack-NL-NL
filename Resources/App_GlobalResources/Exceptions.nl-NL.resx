@@ -91,13 +91,13 @@
     <value>De entiteit van type '{0}' is niet geldig.</value>
   </data>
   <data name="ErrorCreatingBusinessControllerClass.Text" xml:space="preserve">
-    <value>Fout bij het creeëren van de BusinessControllerClass '{0}' van module ({1}) id=({2}) in tab ({3}) en portaal ({4})</value>
+    <value>Fout bij het creëren van de BusinessControllerClass '{0}' van module ({1}) id=({2}) op pagina ({3}) en site ({4})</value>
   </data>
   <data name="ErrorMessageCannotBeNullOrEmpty.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
     <value>Zowel de foutcode als de Foutmelding kunnen niet NULL of leeg zijn.</value>
   </data>
   <data name="FieldDefinitionInvalidDeadLoop.Text" xml:space="preserve" lastModified="2015-12-30 02:35:53">
-    <value>Het is niet mogelijk om een veld aan te maken met naam {0} omdat dit een oneindige omleidingslus creeërt.</value>
+    <value>Het is niet mogelijk om een veld aan te maken met naam {0} omdat dit een oneindige omleidingslus creëert.</value>
   </data>
   <data name="FileLockedOutOfPublishPeriodError.Text" xml:space="preserve">
     <value>Bestand geblokkeerd. Het bestand kan niet worden bijgewerkt omdat het zich niet binnen een geldige start en einddatum bevindt voor publicatie.</value>
@@ -220,7 +220,6 @@
     <value>Om te kopen lijst is te groot. Maximale {0}, werkelijke {1}.</value>
   </data>
   <data name="NoNetworkAvailableError.Text" xml:space="preserve">
-    <value>Een netwerkverbinding is nodig, maar er is geen netwerk beschikbaar.</value>
     <value>Een netwerkverbinding is nodig, maar er is geen netwerk beschikbaar.</value>
   </data>
   <data name="PrivateMessageDisabledError.Text" xml:space="preserve">
@@ -411,3 +410,4 @@
   </data>
 
 </root>
+

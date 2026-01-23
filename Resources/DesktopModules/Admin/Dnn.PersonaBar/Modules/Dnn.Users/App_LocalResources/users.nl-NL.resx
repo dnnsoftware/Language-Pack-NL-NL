@@ -70,7 +70,7 @@
     <value>Deze site is geconfigureerd om te vereisen dat gebruikers Vraag en antwoord invullen om wachtwoordherinneringen te ontvangen. Deze configuratie is onverenigbaar met sitebeheerders die gebruikers toevoegen en is daarom uitgeschakeld voor deze site. </value>
   </data>
   <data name="CannotChangePassword.Text" xml:space="preserve">
-    <value>Uw configuratie vereist de gebruiker om een Vraag en Antwoord in te vullen voor een wachtwoordherinnering. Wanneer deze instelling is toegepast zullen sitebeheerders niet in staat zijn om het wachtwoord van een gebruiker te veranderen, daarom is deze mogelijheid uitgeschakeld voor deze site. </value>
+    <value>Je configuratie vereist de gebruiker om een Vraag en Antwoord in te vullen voor een wachtwoordherinnering. Wanneer deze instelling is toegepast zullen sitebeheerders niet in staat zijn om het wachtwoord van een gebruiker te veranderen, daarom is deze mogelijheid uitgeschakeld voor deze site. </value>
   </data>
   <data name="ChangePassword.Text" xml:space="preserve">
     <value>Wijzig wachtwoord</value>
@@ -322,10 +322,10 @@
     <value>Wachtwoord beheer</value>
   </data>
   <data name="PasswordResetFailed.Text" xml:space="preserve">
-    <value>Je nieuwe wachtwoord is niet geaccepteerd voor beveiligingsredenen. Vul een wachtwoord in dat je nog niet eerder heeft gebruikt en dat lang en complex genoeg is om aan de vereisten van de site's wachtwoord complexiteit te voldoen.</value>
+    <value>Je nieuwe wachtwoord is niet geaccepteerd om beveiligingsredenen. Vul een wachtwoord in dat je nog niet eerder heeft gebruikt en dat lang en complex genoeg is om aan de vereisten van de site's wachtwoord complexiteit te voldoen.</value>
   </data>
   <data name="PasswordResetFailed_PasswordInHistory.Text" xml:space="preserve">
-    <value>Uw nieuwe wachtwoord is niet geaccepteerd door beveiligingsredenen. Kies een wachtwoord dat nog niet eerder is gebruikt.</value>
+    <value>Je nieuwe wachtwoord is niet geaccepteerd om beveiligingsredenen. Kies een wachtwoord dat nog niet eerder is gebruikt.</value>
   </data>
   <data name="PasswordSent.Text" xml:space="preserve">
     <value>Als de gebruikersnaam correct was, ontvang je een e-mail moeten met een link om je wachtwoord te resetten.</value>
