@@ -1245,16 +1245,11 @@ delete-page --name "test" --parentid 999
   </data>
   <data name="Prompt_GetPage_Description.Text">
     <value>&lt;p class="lead"&gt;Geeft informatie over de opgegeven pagina.&lt;/p&gt;
-
 &lt;blockquote&gt;
-
 &lt;strong&gt;Pagina's versus tabbladen&lt;/strong&gt;: Om historische redenen verwijst DNN
 intern naar pagina's als "tabbladen". Dus, wanneer je een verwijzing naar &lt;em&gt;tabblad&lt;/em&gt;
-
 of &lt;em&gt;pagina&lt;/em&gt; ziet, onthoud dan dat ze equivalent zijn. Waarden die door Prompt worden geretourneerd, gebruiken meestal
-
 de interne naamgevingsconventies van DNN (vandaar &lt;em&gt;tabblad&lt;/em&gt;), hoewel de syntaxis van Prompt zelf meestal het woord &lt;em&gt;pagina&lt;/em&gt; gebruikt in plaats van &lt;em&gt;tabblad&lt;/em&gt;.
-
 &lt;/blockquote&gt;</value>
   </data>
   <data name="Prompt_GetPage_FlagId.Text">
@@ -1268,75 +1263,43 @@ de interne naamgevingsconventies van DNN (vandaar &lt;em&gt;tabblad&lt;/em&gt;),
   </data>
   <data name="Prompt_GetPage_ResultHtml.Text">
     <value>&lt;div&gt;
-
 &lt;h4&gt;Pagina ophalen op pagina-ID (tabblad-ID)&lt;/h4&gt;
-
 &lt;code class="block"&gt;
-
 get-page &lt;em&gt;pagina-ID&lt;/em&gt;
-
 &lt;/code&gt;
-
 &lt;h4&gt;Pagina ophalen op paginanaam&lt;/h4&gt;
-
 &lt;p&gt;
-
 LET OP: Je kunt hostpagina's niet ophalen met deze methode, omdat deze alleen pagina's binnen een portal ophaalt. Hostpagina's bevinden zich technisch gezien buiten de portal. Je kunt ze echter wel ophalen met behulp van de pagina-ID (tabblad-ID in DNN-terminologie).
-
 &lt;/p&gt;
-
 &lt;code class="block"&gt;get-page --name Home&lt;/code&gt;
-
 &lt;table class="command-result-tbl"&gt;
-
 &lt;tr&gt;&lt;td&gt;TabId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;345&lt;/td&gt;&lt;/tr&gt;
-
 &lt;tr&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Home&lt;/td&gt;&lt;/tr&gt;
-
 &lt;tr&gt;&lt;td&gt;Title&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;My Website Home&lt;/td&gt;&lt;/tr&gt;
-
 &lt;tr&gt;&lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;&lt;/tr&gt;
-
 &lt;tr&gt;&lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;&lt;/tr&gt;
-
 &lt;tr&gt;&lt;td&gt;Thema&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;[G]Skins/Aperture/default.ascx&lt;/td&gt;&lt;/tr&gt;
-
 &lt;tr&gt;&lt;td&gt;Pad&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//Home&lt;/td&gt;&lt;/tr&gt;
-
 &lt;tr&gt;&lt;td&gt;InclusiefMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;&lt;/tr&gt;
-
 &lt;tr&gt;&lt;td&gt;URL&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
-
 &lt;tr&gt;&lt;td&gt;Trefwoorden&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;DNN, KnowBetter, Prompt&lt;/td&gt;&lt;/tr&gt;
-
 &lt;tr&gt;&lt;td&gt;Beschrijving&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Gnome, gnome on the range....&lt;/td&gt;&lt;/tr&gt;
-
 &lt;/table&gt;
-
 &lt;h4&gt;Pagina ophalen op paginanaam en Ouder&lt;/h4&gt;
-
 &lt;code class="block"&gt;get-page --name "Pagina 1a" --parentid 71&lt;/code&gt;
-
 &lt;table class="command-result-tbl"&gt;
-
 &lt;tr&gt;&lt;td&gt;TabId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;72&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Naam&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Pagina 1a&lt;/td&gt;&lt;/tr&gt;
-
 &lt;tr&gt;&lt;td&gt;Titel&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Pagina 1a&lt;/td&gt;&lt;/tr&gt;
-
 &lt;tr&gt;&lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;71&lt;/td&gt;&lt;/tr&gt;
-
 &lt;tr&gt;&lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;&lt;/tr&gt;
-
 &lt;tr&gt;&lt;td&gt;Thema&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Pad&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//Pagina1//Pagina1a&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;InclusiefMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;URL&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Trefwoorden&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;&lt;td&gt;Beschrijving&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Pagina 1 is mijn ouder. Ik ben Pagina 1a&lt;/td&gt;&lt;/tr&gt;
-
 &lt;/table&gt;
-
 &lt;/div&gt;</value>
   </data>
   <data name="Prompt_Goto_Description.Text">
@@ -1353,31 +1316,20 @@ LET OP: Je kunt hostpagina's niet ophalen met deze methode, omdat deze alleen pa
   </data>
   <data name="Prompt_Goto_ResultHtml.Text">
     <value>&lt;div&gt;
-
 &lt;h4&gt;Navigeer naar een pagina binnen de site&lt;/h4&gt;
-
 &lt;p&gt;Deze opdracht navigeert de browser naar een pagina met pagina-ID 74&lt;/p&gt;
-
 &lt;code class="block"&gt;
-
 ga naar 74
-
 &lt;/code&gt;
-
 &lt;/div&gt;</value>
   </data>
   <data name="Prompt_ListPages_Description.Text">
     <value>&lt;p class="lead"&gt;Haalt een lijst met pagina's op basis van de opgegeven criteria op.&lt;/p&gt;
-
 &lt;blockquote&gt;
-
 &lt;strong&gt;Pagina's versus tabbladen&lt;/strong&gt;: Om historische redenen verwijst DNN
 intern naar pagina's als "tabbladen". Dus, wanneer je een verwijzing naar &lt;em&gt;tabblad&lt;/em&gt;
-
 of &lt;em&gt;pagina&lt;/em&gt; ziet, onthoud dan dat ze equivalent zijn. Waarden die door Prompt worden geretourneerd, gebruiken meestal
-
 de interne naamgevingsconventies van DNN (vandaar &lt;em&gt;tabblad&lt;/em&gt;), hoewel de syntaxis van Prompt zelf meestal het woord &lt;em&gt;pagina&lt;/em&gt; gebruikt in plaats van &lt;em&gt;tabblad&lt;/em&gt;.
-
 &lt;/blockquote&gt;</value>
   </data>
   <data name="Prompt_ListPages_FlagDeleted.Text">
@@ -1400,297 +1352,159 @@ de interne naamgevingsconventies van DNN (vandaar &lt;em&gt;tabblad&lt;/em&gt;),
   </data>
   <data name="Prompt_ListPages_ResultHtml.Text">
     <value>&lt;div&gt;
-
 &lt;h4&gt;Alle pagina's in het huidige portaal weergeven&lt;/h4&gt;
-
 &lt;code class="block"&gt;
-
 lijstpagina's
-
 &lt;/code&gt;
-
 &lt;table class="command-result-tbl"&gt;
-
 &lt;thead&gt;
-
 &lt;tr&gt;
 &lt;th&gt;Tab-ID&lt;/th&gt;
-
 &lt;th&gt;Naam&lt;/th&gt;
-
 &lt;th&gt;Titel&lt;/th&gt;
-
 &lt;th&gt;Parent-ID&lt;/th&gt;
-
 &lt;th&gt;Thema&lt;/th&gt;
-
 &lt;th&gt;Pad&lt;/th&gt;
-
 &lt;th&gt;Inclusiefmenu&lt;/th&gt;
-
 &lt;th&gt;IsVerwijderd&lt;/th&gt;
-
 &lt;/tr&gt;
-
 &lt;/thead&gt;
-
 &lt;tbody&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;41&lt;/td&gt;
-
 &lt;td&gt;Home&lt;/td&gt;
-
 &lt;td&gt;Home 3&lt;/td&gt;
-
 &lt;td&gt;-1&lt;/td&gt;
-
 &lt;td&gt;[G]Skins/Aperture/default.ascx&lt;/td&gt;
-
 &lt;td&gt;//Home&lt;/td&gt;
 &lt;td&gt;true&lt;/td&gt;
-
 &lt;td&gt;false&lt;/td&gt;
-
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;71&lt;/td&gt;
-
 &lt;td&gt;Pagina 1&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;-1&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;//Pagina1&lt;/td&gt;
-
 &lt;td&gt;true&lt;/td&gt;
-
 &lt;td&gt;true&lt;/td&gt;
-
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;42&lt;/td&gt;
-
 &lt;td&gt;Activiteitenoverzicht&lt;/td&gt;
-
 &lt;td&gt;Activiteitenoverzicht&lt;/td&gt;
-
 &lt;td&gt;-1&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;//Activiteitenoverzicht&lt;/td&gt;
-
 &lt;td&gt;false&lt;/td&gt;
-
 &lt;td&gt;false&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td colspan="7"&gt;...&lt;/td&gt;
-
 &lt;/tr&gt;
 &lt;tr&gt;
-
 &lt;td colspan="7"&gt;33 pagina's gevonden&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;/tbody&gt;
-
 &lt;/table&gt;
-
 &lt;h4&gt;Lijst subpagina's van de bovenliggende pagina&lt;/h4&gt;
-
 &lt;code class="block"&gt;
-
 lijst-pagina's 43
-
 &lt;/code&gt;
-
 OF
-
 &lt;code class="block"&gt;
-
 lijst-pagina's --parentid 43
-
 &lt;/code&gt;
-
 &lt;table class="command-result-tbl"&gt;
-
 &lt;thead&gt;
-
 &lt;tr&gt;
-
 &lt;th&gt;Tab-ID&lt;/th&gt;
-
 &lt;th&gt;Naam&lt;/th&gt;
-
 &lt;th&gt;Titel&lt;/th&gt;
-
 &lt;th class="bg-info"&gt;Ouder-ID&lt;/th&gt;
-
 &lt;th&gt;Thema&lt;/th&gt;
-
 &lt;th&gt;Pad&lt;/th&gt;
-
 &lt;th&gt;Inclusief in menu&lt;/th&gt;
-
 &lt;th&gt;Is verwijderd&lt;/th&gt;
-
 &lt;/tr&gt;
-
 &lt;/thead&gt;
-
 &lt;tbody&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;49&lt;/td&gt; &lt;td&gt;Site-instellingen&lt;/td&gt;
-
 &lt;td&gt;Site-instellingen&lt;/td&gt;
-
 &lt;td class="bg-info"&gt;43&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt;
-
 &lt;td&gt;//Beheer//Site-instellingen&lt;/td&gt;
-
 &lt;td&gt;waar&lt;/td&gt;
-
 &lt;td&gt;onwaar&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;50&lt;/td&gt;
-
 &lt;td&gt;Extensies&lt;/td&gt;
-
 &lt;td&gt;Extensies&lt;/td&gt;
-
 &lt;td class="bg-info"&gt;43&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt;
-
 &lt;td&gt;//Beheer//Extensies&lt;/td&gt;
-
 &lt;td&gt;waar&lt;/td&gt;
-
 &lt;td&gt;onwaar&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;51&lt;/td&gt;
-
 &lt;td&gt;Beveiligingsrollen&lt;/td&gt;
-
 &lt;td&gt;Beveiliging Rollen&lt;/td&gt;
-
 &lt;td class="bg-info"&gt;43&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt;
-
 &lt;td&gt;//Beheer//Beveiligingsrollen&lt;/td&gt;
-
 &lt;td&gt;waar&lt;/td&gt;
-
 &lt;td&gt;onwaar&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td colspan="7"&gt;...&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td colspan="7"&gt;18 pagina's gevonden&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;/tbody&gt;
-
 &lt;/table&gt;
-
 &lt;h4&gt;Alle pagina's in de prullenbak weergeven&lt;/h4&gt;
-
 &lt;code class="block"&gt;
-
 list-pages --deleted
-
 &lt;/code&gt;
-
 &lt;code class="block"&gt;
-
 list-pages --deleted true
-
 &lt;/code&gt;
-
 &lt;table class="command-result-tbl"&gt;
-
 &lt;thead&gt;
-
 &lt;tr&gt;
 &lt;th&gt;Tab-ID&lt;/th&gt;
 &lt;th&gt;Naam&lt;/th&gt;
-
 &lt;th&gt;Titel&lt;/th&gt;
-
 &lt;th&gt;ParentId&lt;/th&gt;
-
 &lt;th&gt;Thema&lt;/th&gt;
-
 &lt;th&gt;Pad&lt;/th&gt;
-
 &lt;th&gt;InclusiefInMenu&lt;/th&gt;
-
 &lt;th&gt;IsVerwijderd&lt;/th&gt;
-
 &lt;/tr&gt;
-
 &lt;/thead&gt;
-
 &lt;tbody&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;71&lt;/td&gt;
-
 &lt;td&gt;Pagina 1&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt;
-
 &lt;td&gt;-1&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt;
-
 &lt;td&gt;//Pagina1&lt;/td&gt;
-
 &lt;td&gt;true&lt;/td&gt;
-
 &lt;td class="bg-info"&gt;true&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td colspan="7"&gt;1 pagina gevonden&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;/tbody&gt;
-
 &lt;/table&gt;
-
 &lt;h4&gt;Alle "Beheer" weergeven&lt;/h4&gt; Pagina's in het beheerdersmenu&lt;/h4&gt;
-
 &lt;code class="block"&gt;
-
 list-pages --path /</value>
   </data>
   <data name="Prompt_ListRoles_FlagMax.Text">
@@ -1728,169 +1542,89 @@ list-pages --path /</value>
   </data>
   <data name="Prompt_NewPage_ResultHtml.Text">
     <value>&lt;div&gt;
-
 &lt;h4&gt;Een nieuwe pagina maken (minimale syntaxis)&lt;/h4&gt;
-
 &lt;h5&gt;Impliciet gebruik maken van de &lt;span class="mono"&gt;--name&lt;/span&gt;-vlag&lt;/h5&gt;
-
 &lt;code class="block"&gt;
-
 new-page "Mijn nieuwe pagina"
-
 &lt;/code&gt;
-
 &lt;h5&gt;Expliciet gebruik maken van de &lt;span class="mono"&gt;--name&lt;/span&gt;-vlag&lt;/h5&gt;
-
 &lt;code class="block"&gt;
-
 new-page --name "Mijn nieuwe pagina"
-
 &lt;/code&gt;
-
 &lt;table class="command-result-tbl"&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Tab-ID&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;78&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Naam&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Mijn nieuwe pagina&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;Titel&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Thema&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Pad&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//MyNewPage&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;IncludeInMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;URL&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Trefwoorden&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Beschrijving&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;/table&gt;
-
 &lt;h4&gt;Een subpagina maken met extra opties&lt;/h4&gt;
-
 &lt;code class="block"&gt;
-
 new-page --name "Mijn subpagina" --parentid 78 --title "Dit is de titel van de subpagina" --keywords "voorbeeld, subpagina, prompt, KnowBetter"
-
 &lt;/code&gt;
-
 &lt;table class="command-result-tbl"&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Tab-ID&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;79&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;Naam&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Mijn subpagina&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Titel&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;Dit is de titel van de subpagina&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;ParentId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;78&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Container&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;null&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Thema&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Pad&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;//MijnNieuwePagina//MijnSubpagina&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;IncludeInMenu&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;true&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Url&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Keywords&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;sample, sub-page, prompt, KnowBetter&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Description&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;/table&gt;
-
 &lt;/div&gt;</value>
   </data>
   <data name="Prompt_SetPage_Description.Text">
@@ -1922,245 +1656,126 @@ new-page --name "Mijn subpagina" --parentid 78 --title "Dit is de titel van de s
   </data>
   <data name="Prompt_SetPage_ResultHtml.Text">
     <value>&lt;div&gt;
-
 &lt;h4&gt;Eigenschappen van een pagina bijwerken&lt;/h4&gt;
-
 &lt;code class="block"&gt;
-
 set-page 78 --title "Mijn nieuwe paginatitel" --name Page78
-
 &lt;/code&gt;
-
 &lt;table class="command-result-tbl"&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Tab-ID&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;78&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Naam&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;Pagina25&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Titel&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;Mijn nieuwe paginatitel&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Parent-ID&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;-1&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
 &lt;td&gt;Container&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;null&lt;/td&gt;
-
 &lt;/tr&gt;
 &lt;tr&gt;
-
 &lt;td&gt;Thema&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Pad&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;//MijnNieuwePagina&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;InclusiefMenu&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;true&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;URL&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Trefwoorden&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt; &lt;td&gt;Beschrijving&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;/table&gt;
-
 &lt;h4&gt;De ouder van een pagina wijzigen&lt;/h4&gt;
-
 &lt;code class="block"&gt;
-
 set-page --id 72 --parentid 79
-
 &lt;/code&gt;
-
 &lt;table class="command-result-tbl"&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Tab-ID&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;72&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Naam&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;Pagina2&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Titel&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;Pagina 2&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Ouder-ID&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td class="bg-info"&gt;79&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Container&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;null&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Thema&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Pad&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td class="bg-info"&gt;//Pagina3//Pagina2&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;InclusiefMenu&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;true&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;URL&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt; &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Trefwoorden&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;voorbeeld, subpagina, prompt, KnowBetter&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;tr&gt;
-
 &lt;td&gt;Beschrijving&lt;/td&gt;
-
 &lt;td&gt;:&lt;/td&gt;
-
 &lt;td&gt;&lt;/td&gt;
-
 &lt;/tr&gt;
-
 &lt;/table&gt;
-
 &lt;/div&gt;</value>
   </data>
 </root>
