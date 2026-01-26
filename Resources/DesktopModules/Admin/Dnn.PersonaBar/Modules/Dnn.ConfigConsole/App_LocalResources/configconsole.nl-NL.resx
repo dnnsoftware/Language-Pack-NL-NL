@@ -28,7 +28,7 @@
     <value>XML samenvoegscript uploaden</value>
   </data>
   <data name="ConfigConsole.Text" xml:space="preserve">
-    <value>Configuratie beheer</value>
+    <value>Configuratiebeheer</value>
   </data>
   <data name="ConfigFilesTab.Text" xml:space="preserve">
     <value>Configuratie bestanden</value>
@@ -37,7 +37,7 @@
     <value>Bestanden</value>
   </data>
   <data name="ControlTitle_.Text" xml:space="preserve">
-    <value>Configuratie beheer</value>
+    <value>Configuratiebeheer</value>
   </data>
   <data name="ERROR_ConfigurationFormat.Text" xml:space="preserve">
     <value>Je configuratiebestand is geen geldig XML-bestand. Corrigeer het formaat probleem en probeer opnieuw. {0}</value>
@@ -64,13 +64,13 @@
     <value>Scripts samenvoegen</value>
   </data>
   <data name="nav_ConfigConsole.Text" xml:space="preserve">
-    <value>Configuratie beheer</value>
+    <value>Configuratiebeheer</value>
   </data>
   <data name="plConfig.Text" xml:space="preserve">
-    <value>Configuratie bestand</value>
+    <value>Configuratiebestand</value>
   </data>
   <data name="plConfigHelp.Text" xml:space="preserve">
-    <value>- Selecteer een config bestand om te bewerken -</value>
+    <value>- Selecteer een configuratiebestand om te bewerken -</value>
   </data>
   <data name="plScript.Text" xml:space="preserve">
     <value>Script samenvoegen</value>
@@ -85,7 +85,7 @@
     <value>Ja</value>
   </data>
   <data name="SaveConfirm.Text" xml:space="preserve">
-    <value>Weet je zeker dat je wijzingen aan dit configuratiebestand wilt opslaan?</value>
+    <value>Weet je zeker dat je wijzigingen aan dit configuratiebestand wilt opslaan?</value>
   </data>
   <data name="SaveWarning.Text" xml:space="preserve">
     <value>Het wijzigingen van de web.config zorgt ervoor dat je site zal herladen en kan de prestaties van de site doen afnemen tijdens het herladen van de applicatie door de webserver. Wil je doorgaan?</value>

@@ -181,7 +181,7 @@
     <value>Terug</value>
   </data>
   <data name="cmdStop.Text" xml:space="preserve">
-    <value>Stop</value>
+    <value>Stoppen</value>
   </data>
   <data name="cmdUpdate.Text" xml:space="preserve">
     <value>Bijwerken</value>
@@ -1339,7 +1339,7 @@
     <value>&lt;strong&gt; Een e-mail met je gegevens is verstuurd naar de beheerder van site voor verificatie. Zodra je aanmelding is goedgekeurd zal er een e-mail worden verzonden naar je e-mail adres. in de tussentijd kun je verder browsen op de website door de popup te sluiten.&lt;/strong&gt;</value>
   </data>
   <data name="PrivateMembership.Text" xml:space="preserve">
-    <value>&lt;strong&gt;* Opmerking: &lt;/strong&gt; Lidmaatschap van deze website is privé. Als je account informatie is ingediend, zal de website beheerder in kennis gesteld en je aanvraag zal worden onderworpen aan een screening procedure. Als je aanvraag wordt goedgekeurd, ontvang je een melding van je toegang tot de website. </value>
+    <value>&lt;strong&gt;* Opmerking: &lt;/strong&gt; Lidmaatschap van deze website is privé. Als je account informatie is ingediend, zal de sitebeheerder in kennis gesteld en je aanvraag zal worden onderworpen aan een screening procedure. Als je aanvraag wordt goedgekeurd, ontvang je een melding van je toegang tot de website. </value>
   </data>
   <data name="ProcessObject.Text" xml:space="preserve">
     <value>Verwerken ingesloten object</value>

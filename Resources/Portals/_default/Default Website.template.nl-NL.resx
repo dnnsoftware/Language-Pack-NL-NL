@@ -28,7 +28,7 @@
     <value>Copyright [year] Mijn Website</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Content.Text" xml:space="preserve">
-    <value>Helaas, de pagina die je probeert op te vragen kan niet gevonden worden en is misschien verwijderd, of de naam is gewijzigd of is tijdelijk niet beschikbaar. Ga terug naar de home pagina en begin daar opnieuw. Neem contact op met de website beheerder als het probleem weer optreedt en je niet kunt vinden waar je naar op zoek bent.</value>
+    <value>Helaas, de pagina die je probeert op te vragen kan niet gevonden worden en is misschien verwijderd, of de naam is gewijzigd of is tijdelijk niet beschikbaar. Ga terug naar de home pagina en begin daar opnieuw. Neem contact op met de sitebeheerder als het probleem weer optreedt en je niet kunt vinden waar je naar op zoek bent.</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Title.Text" xml:space="preserve">
     <value>De pagina kan niet worden gevonden.</value>
@@ -109,17 +109,14 @@
     <value>De Voorbeeld Organisatie B.V.</value>
   </data>
   <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.1.Text" xml:space="preserve">
-    <value>
-Zomaareenstraat 123
+    <value>Zomaareenstraat 123
 1234 AA EENSTAD</value>
   </data>
   <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.2.Text" xml:space="preserve">
-    <value>
-Telefoon: 012-3456789</value>
+    <value>Telefoon: 012-3456789</value>
   </data>
   <data name="Tab.ActivityFeed.FooterRightPane.Module.Content.3.Text" xml:space="preserve">
-    <value>
-Fax: 012-1234567</value>
+    <value>Fax: 012-1234567</value>
   </data>
   <data name="Tab.ActivityFeed.FooterRightPane.Module.Title.Text" xml:space="preserve">
     <value>Neem contact op</value>

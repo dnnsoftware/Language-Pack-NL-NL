@@ -97,7 +97,7 @@
     <value>Achternaam</value>
   </data>
   <data name="ManageProfile.Action" xml:space="preserve">
-    <value>Profiel eigenschappen beheren</value>
+    <value>Profieleigenschappen beheren</value>
   </data>
   <data name="MiddleName.Text" xml:space="preserve">
     <value>Tweede naam</value>
