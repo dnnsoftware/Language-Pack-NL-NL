@@ -951,12 +951,12 @@
     &lt;/tbody&gt;&lt;/table&gt;</value>
   </data>
   <data name="Prompt_SetMode_FlagMode.Text">
-    <value>&lt;font _mstmutation="1" _msttexthash="608049" _msthash="301"&gt;Een van de drie weergavemodi&lt;/font&gt;: &lt;code&gt;edit&lt;/code&gt;, &lt;code&gt;layout&lt;/code&gt;, or &lt;code&gt;view&lt;/code&gt;. &lt;font _mstmutation="1" _msttexthash="7234123" _msthash="302"&gt;U hoeft niet op te geven
+    <value>&lt;font _mstmutation="1" _msttexthash="608049" _msthash="301"&gt;Een van de drie weergavemodi&lt;/font&gt;: &lt;code&gt;edit&lt;/code&gt;, &lt;code&gt;layout&lt;/code&gt;, or &lt;code&gt;view&lt;/code&gt;. &lt;font _mstmutation="1" _msttexthash="7234123" _msthash="302"&gt;hoeft niet op te geven
  de &lt;span class="mono" _mstmutation="1" _istranslated="1"&gt;--mode&lt;/span&gt; vlag expliciet. Typ gewoon een van de waarden voor de weergavemodus na de opdracht.&lt;/font&gt;</value>
   </data>
   <data name="Prompt_SetMode_ResultHtml.Text">
     <value>&lt;div&gt;
-    &lt;h4 _msttexthash="734331" _msthash="305"&gt;De DNN-weergavemodus wijzigen&lt;/h4&gt;
+    &lt;h4 _msttexthash="734331" _msthash="305"&gt;De DNN-weergavemodus wijzigen&lt;/h4&gt;U 
     &lt;code class="block"&gt;
       set-mode layout
     &lt;/code&gt; OF&lt;code class="block"&gt;&amp;nbsp;set-mode view

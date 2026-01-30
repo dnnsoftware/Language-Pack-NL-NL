@@ -19,7 +19,7 @@
     <value>Indexering toestaan</value>
   </data>
   <data name="Appearance.Text" xml:space="preserve">
-    <value>Basis Instellingen</value>
+    <value>Basis instellingen</value>
   </data>
   <data name="Bind.Text" xml:space="preserve">
     <value>Koppelen</value>
@@ -28,7 +28,7 @@
     <value>Geef de duur (in seconden) op voor de cache van deze pagina. Dit moet een integer zijn.</value>
   </data>
   <data name="CacheDuration.Text" xml:space="preserve">
-    <value>Duur van de Cache (seconden)</value>
+    <value>Duur van de cache (seconden)</value>
   </data>
   <data name="CacheDurationWarning.Text" xml:space="preserve">
     <value>Deze module heeft de aanbeveling om caching uit te schakelen (selecteer GEEN bij de Output Cache Provider in de onderstaande lijst). Cache inschakelen voor deze module is niet aanbevolen en kan er voor zorgen dat deze module stale data toont.</value>
@@ -43,7 +43,7 @@
     <value>Output Cache Provider</value>
   </data>
   <data name="CacheSettings.Text" xml:space="preserve">
-    <value>Cache Instellingen</value>
+    <value>Cache instellingen</value>
   </data>
   <data name="ContainerPreview.Text" xml:space="preserve">
     <value>Vooruitblik</value>
@@ -55,13 +55,13 @@
     <value>{0} Instellingen</value>
   </data>
   <data name="CreateBoundCopies.Text" xml:space="preserve">
-    <value>Maak Gekoppelde Kopieën</value>
+    <value>Maak gekoppelde kopieën</value>
   </data>
   <data name="cultureLabel.Help" xml:space="preserve">
     <value>De taal voor deze module</value>
   </data>
   <data name="cultureLabel.Text" xml:space="preserve">
-    <value>Module Taal:</value>
+    <value>Moduletaal:</value>
   </data>
   <data name="CustomSettings.Text" xml:space="preserve">
     <value>{0} Instellingen</value>
@@ -70,22 +70,22 @@
     <value>Klik op deze link om deze versie van de module in de oorspronkelijke taal te zien</value>
   </data>
   <data name="defaultCultureLabel.Text" xml:space="preserve">
-    <value>Standaar Cultuur:</value>
+    <value>Standaardcultuur:</value>
   </data>
   <data name="edit.Text" xml:space="preserve">
     <value>Wijzigen</value>
   </data>
   <data name="ExpandAll.Text" xml:space="preserve">
-    <value>Alle Uitvouwen</value>
+    <value>Alle uitvouwen</value>
   </data>
   <data name="GeneralDetails.Text" xml:space="preserve">
-    <value>Basis Instellingen</value>
+    <value>Basis instellingen</value>
   </data>
   <data name="InheritPermissions.Text" xml:space="preserve">
-    <value>Erf weergave bevoegdheden van pagina</value>
+    <value>Erf weergavebevoegdheden van de pagina</value>
   </data>
   <data name="InstalledOn.Help" xml:space="preserve">
-    <value>Geef de pagina's weer waarop deze module is geplaatst. Een bestaande module kan aan andere pagina's worden toegevoegd d.m.v. de "Gebruik Bestaande Module" feature. Deze lijst zal alleen pagina's weergeven indien de module is toegevoegd middels de "Gebruik Bestaande Module" feature.</value>
+    <value>Geef de pagina's weer waarop deze module is geplaatst. Een bestaande module kan aan andere pagina's worden toegevoegd d.m.v. de "Gebruik bestaande module" feature. Deze lijst zal alleen pagina's weergeven indien de module is toegevoegd middels de "Gebruik bestaande module" feature.</value>
   </data>
   <data name="InstalledOn.Text" xml:space="preserve">
     <value>Deze module is toegevoegd aan de volgende pagina's:</value>
@@ -106,7 +106,7 @@
     <value>Deze module is niet toegevoegd aan andere pagina's.</value>
   </data>
   <data name="LocalizedModules.Text" xml:space="preserve">
-    <value>Module Vertaling</value>
+    <value>Modulevertaling</value>
   </data>
   <data name="ModuleExists.Text" xml:space="preserve">
     <value>Deze module bestaat al op de doel pagina (het kan ook in de prullenmand zitten), en slechts één instance van een module kan op een pagina bestaan.</value>
@@ -130,13 +130,13 @@
     <value>Deze module instantie is niet aan enig andere pagina toegevoegd.</value>
   </data>
   <data name="OtherSettings.Text" xml:space="preserve">
-    <value>Geavanceerde Instellingen</value>
+    <value>Geavanceerde instellingen</value>
   </data>
   <data name="Page.Header" xml:space="preserve">
     <value>Pagina</value>
   </data>
   <data name="PageSettings.Text" xml:space="preserve">
-    <value>Pagina Instellingen</value>
+    <value>Pagina instellingen</value>
   </data>
   <data name="Permissions.Text" xml:space="preserve">
     <value>Machtigingen</value>
@@ -145,7 +145,7 @@
     <value>Vink deze optie om het bericht te verbergen dat aan de bovenzijde van de module vermeldt dat de module alleen zichtbaar is voor beheerders is.</value>
   </data>
   <data name="plAdminBorder.Text" xml:space="preserve" lastModified="2020-06-27 14:40:23">
-    <value>Verberg bericht Beheerder</value>
+    <value>Verberg beheerdersbericht</value>
   </data>
   <data name="plAlign.Help" xml:space="preserve" lastModified="2015-12-30 04:14:30">
     <value>Kies de uitlijning van de module content.</value>
@@ -187,7 +187,7 @@
     <value>Selecteer deze optie als je wilt dat de pagina-instellingen voor deze module worden gebruikt als de standaard instellingen bij het toevoegen van nieuwe modules. Deze optie is alleen beschikbaar voor websitebeheerders.</value>
   </data>
   <data name="plDefault.Text" xml:space="preserve" lastModified="2015-12-30 04:14:30">
-    <value>Instellen als Standaard Instellingen</value>
+    <value>Instellen als standaard instellingen</value>
   </data>
   <data name="plDisplayPrint.Help" xml:space="preserve">
     <value>Vink deze optie aan als het mogelijk is deze module af te drukken (het printer symbool wordt dan, mits mogelijk binnen de skin, weergegeven)</value>
@@ -247,10 +247,10 @@
     <value>Een unieke identificatie voor deze module op de pagina. Deze kan worden gebruikt door WEB API callers om de inhoud van de tab en de module te kunnen bepalen.</value>
   </data>
   <data name="plMoniker.Text" xml:space="preserve" lastModified="2018-07-18 13:17:08">
-    <value>Module Moniker:</value>
+    <value>Modulenaam:</value>
   </data>
   <data name="plNewTabs.Help" xml:space="preserve" lastModified="2015-12-30 06:19:44">
-    <value>Schakel dit vakje in om de module alleen toe te voegen aan nieuwe pagina's. Deze optie is  alleen beschikbaar voor website beheerders.</value>
+    <value>Schakel dit vakje in om de module alleen toe te voegen aan nieuwe pagina's. Deze optie is  alleen beschikbaar voor sitebeheerders.</value>
   </data>
   <data name="plNewTabs.Text" xml:space="preserve">
     <value>Alleen aan nieuwe pagina's toevoegen?</value>
@@ -291,35 +291,11 @@
   <data name="plVisibility.Text" xml:space="preserve">
     <value>Zichtbaarheid:</value>
   </data>
-  <data name="plWebSlice.Help" xml:space="preserve">
-    <value>Aanvinken om van deze module een IE8 Web Slice te maken.</value>
-  </data>
-  <data name="plWebSlice.Text" xml:space="preserve" lastModified="2015-12-30 06:19:44">
-    <value>Is een Web Slice</value>
-  </data>
-  <data name="plWebSliceExpiry.Help" xml:space="preserve">
-    <value>Geef een datum op wanneer de Web Slice zal verlopen - indien leeg gelaten zal de einddatum van de module worden gebruikt</value>
-  </data>
-  <data name="plWebSliceExpiry.Text" xml:space="preserve">
-    <value>Web Slice Verloopt</value>
-  </data>
-  <data name="plWebSliceTitle.Help" xml:space="preserve">
-    <value>Geef een titel op voor de Web Slice - indien je dit leeg laat zal de titel van de module worden gebruikt.</value>
-  </data>
-  <data name="plWebSliceTitle.Text" xml:space="preserve">
-    <value>Titel Web Slice</value>
-  </data>
-  <data name="plWebSliceTTL.Help" xml:space="preserve">
-    <value>Geef de Time to Live (TTL) in minuten op voor deze Web Slice. Indien leeg gelaten zal de standaard cache tijd worden gebruikt  (geconverteerd naar minuten)</value>
-  </data>
-  <data name="plWebSliceTTL.Text" xml:space="preserve" lastModified="2020-07-31 12:11:44">
-    <value>Webslice TTL:</value>
-  </data>
   <data name="PreviewNoSelectionMessage.Text" xml:space="preserve">
     <value>Gelieve een container te selecteren om een vooruitblik te kunnen zien.</value>
   </data>
   <data name="Security.Text" xml:space="preserve">
-    <value>Geavanceerde Instellingen</value>
+    <value>Geavanceerde instellingen</value>
   </data>
   <data name="Site.Header" xml:space="preserve">
     <value>Site</value>
@@ -334,13 +310,13 @@
     <value>Markeer als niet-vertaald</value>
   </data>
   <data name="valBorder.ErrorMessage" xml:space="preserve">
-    <value>Ongeldige Rand (moet een getal tussen 0 en 9 zijn)</value>
+    <value>Ongeldige rand (moet een getal tussen 0 en 9 zijn)</value>
   </data>
   <data name="valCacheTime.ErrorMessage" xml:space="preserve">
-    <value>Ongeldige Cache Time</value>
+    <value>Ongeldige cacheduur</value>
   </data>
   <data name="valEndDate.ErrorMessage" xml:space="preserve">
-    <value>Ongeldige Einddatum</value>
+    <value>Ongeldige einddatum</value>
   </data>
   <data name="valEndDate2.ErrorMessage" xml:space="preserve">
     <value>Einddatum moet na startdatum liggen</value>
@@ -348,10 +324,16 @@
   <data name="valStartDate.ErrorMessage" xml:space="preserve">
     <value>Ongeldige startdatum</value>
   </data>
-  <data name="valWebSliceExpiry.ErrorMessage" xml:space="preserve">
-    <value>Ongeldige Vervaldatum</value>
+  <data name="JavaScriptInFooter.Text">
+    <value>JavaScript is niet toegestaan ​​in de voettekst van modules.</value>
   </data>
-  <data name="valWebSliceTTL.ErrorMessage" xml:space="preserve">
-    <value>Ongeldige TTL - waarde moet een getal zijn</value>
+  <data name="JavaScriptInHeader.Text">
+    <value>JavaScript is niet toegestaan ​​in de header van modules.</value>
+  </data>
+  <data name="plModuleId.Help">
+    <value>Geeft de ID van de module weer.</value>
+  </data>
+  <data name="plModuleId.Text">
+    <value>Module Id</value>
   </data>
 </root>

@@ -79,7 +79,7 @@
     <value>E-mailadres:</value>
   </data>
   <data name="ProfileProperties_Facebook.Help" xml:space="preserve">
-    <value>Een link naar jou Facebook profiel met een format beginnend met facebook.com/</value>
+    <value>Een link naar jouw Facebook profiel met een format beginnend met facebook.com/</value>
   </data>
   <data name="ProfileProperties_Facebook.Required" xml:space="preserve">
     <value>Facebook is vereist</value>
@@ -106,7 +106,7 @@
     <value>Voornaam:</value>
   </data>
   <data name="ProfileProperties_GooglePlus.Help" xml:space="preserve">
-    <value>Een link naar jou Google+ profiel met een format beginnend met plus.google.com/</value>
+    <value>Een link naar jouw Google+ profiel met een format beginnend met plus.google.com/</value>
   </data>
   <data name="ProfileProperties_GooglePlus.Required" xml:space="preserve">
     <value>Google+ is vereist</value>
@@ -133,7 +133,7 @@
     <value>Achternaam:</value>
   </data>
   <data name="ProfileProperties_LinkedIn.Help" xml:space="preserve">
-    <value>Een link naar jou LinkedIn profiel met een format beginnend met www.linkedin.com/ or [land].linkedin.com</value>
+    <value>Een link naar jouw LinkedIn profiel met een format beginnend met www.linkedin.com/ or [land].linkedin.com</value>
   </data>
   <data name="ProfileProperties_LinkedIn.Required" xml:space="preserve">
     <value>LinkedIn is vereist.</value>
@@ -256,7 +256,7 @@
     <value>Tijdzone:</value>
   </data>
   <data name="ProfileProperties_Twitter.Help" xml:space="preserve">
-    <value>Een link naar jou Twitter profiel beginnende met een format beginnend met twitter.com/</value>
+    <value>Een link naar jouw X-profiel beginnende met een format beginnend met x.com/</value>
   </data>
   <data name="ProfileProperties_Twitter.Required" xml:space="preserve">
     <value>Twitter is vereist.</value>
