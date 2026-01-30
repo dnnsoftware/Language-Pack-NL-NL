@@ -231,7 +231,7 @@
   <data name="Asynchronous.Text" xml:space="preserve">
     <value>Asynchroon</value>
   </data>
-  <data name="cmdSend.Text" xml:space="preserve"
+  <data name="cmdSend.Text" xml:space="preserve">
     <value>E-mail verzenden</value>
   </data>
   <data name="ControlTitle_.Text" xml:space="preserve">
