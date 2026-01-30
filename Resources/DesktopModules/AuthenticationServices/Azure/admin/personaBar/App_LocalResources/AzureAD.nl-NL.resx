@@ -330,7 +330,7 @@
   <data name="lblGroupNamePrefixEnabled.Help" xml:space="preserve">
     <value>Schakelt het toevoegen van het voorvoegsel "Azure-" in voor alle groepsnamen afkomstig van Microsoft Entra.</value>
   </data>
-  <data name="lbu lGroupNamePrefixEnabled.Text" xml:space="preserve">
+  <data name="lblGroupNamePrefixEnabled.Text" xml:space="preserve">
     <value>Groepsnamen voorzien van voorvoegsel</value>
   </data>
   <data name="lblNamePrefixes.Help" xml:space="preserve">
