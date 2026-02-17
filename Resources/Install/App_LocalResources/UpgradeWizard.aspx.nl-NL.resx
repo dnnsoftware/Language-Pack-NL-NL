@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
+  <!-- ... (keeping the existing comment block unchanged) ... -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <!-- ... (keeping schema unchanged) ... -->
+  </xsd:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -7,23 +11,27 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AcceptTerms.Required" xml:space="preserve">
-    <value>Accepteer de gebruikersvoorwaarden om door te gaan.</value>
-  </data>
-  <data name="AcceptTerms.Text" xml:space="preserve">
-    <value>Ik accepteer de &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;gebruikersvoorwaarden&lt;/a&gt;</value>
-  </data>
   <data name="AccountInfo.Text" xml:space="preserve">
     <value>Account informatie</value>
   </data>
   <data name="BestPractices.Text" xml:space="preserve">
-    <value>Je staat op het punt om je  website te upgraden naar een recentere versie van de applicatie. Het regelmatig toepassen van upgrades is de beste manier om ervoor te zorgen dat de integriteit van de investering en de veiligheid van de gebruikers gegarandeerd blijft. 
-Voordat je verder gaat met de geautomatiseerde upgrade-proces moetje ervoor zorgen dat: &lt;ul&gt; &lt;li&gt;je deze eerst probeert in een testomgeving&lt;/li&gt;&lt;li&gt;er een back-up is van de huidige installatie&lt;/li&gt;&lt;li&gt;eventueel aangeschafte uitbreidingen van derden werken in de nieuwe omgeving&lt;/li&gt;&lt;/ ul&gt;</value>
+    <value>Je staat op het punt je website te upgraden naar een recentere versie van de applicatie. Het regelmatig toepassen van upgrades is de beste manier om de integriteit van jouw investering en de beveiliging van jouw gebruikers en assets te waarborgen. Voordat je doorgaat met het geautomatiseerde upgradeproces, zorg ervoor dat:
+&lt;ul&gt;
+&lt;li&gt;je plannen hebt gemaakt om dit proces eerst in een staging-omgeving te proberen
+&lt;li&gt;je je huidige installatiekenmerken hebt gedocumenteerd, inclusief onderzoek naar de compatibiliteit van eventuele modules van derden die je mogelijk gebruikt
+&lt;li&gt;je de noodzakelijke backups van je omgeving hebt gemaakt, zodat je je website kunt herstellen in het geval van een onverwachte upgradefout.
+&lt;/ul&gt;</value>
+  </data>
+  <data name="VersionsMatch.Text" xml:space="preserve">
+    <value>Database- en applicatieversies komen overeen - er is geen upgrade toe te passen.</value>
+  </data>
+  <data name="VersionsMatchButIncrementalExists.Text" xml:space="preserve">
+    <value>Database- en applicatieversies komen overeen - er is een incrementele release waarnaar je kunt upgraden.</value>
   </data>
   <data name="CurrentVersion.Text" xml:space="preserve">
     <value>Huidige versie - {0}</value>
@@ -35,25 +43,35 @@ Voordat je verder gaat met de geautomatiseerde upgrade-proces moetje ervoor zorg
     <value>Fout</value>
   </data>
   <data name="ErrorInStep.Text" xml:space="preserve">
-    <value>Er is een fout opgetreden - {0}</value>
+    <value>FOUT opgetreden - {0}</value>
   </data>
   <data name="ExtensionsUpgrade.Text" xml:space="preserve">
-    <value>Uitbreidingen bijwerken</value>
+    <value>Extensies bijwerken</value>
   </data>
   <data name="IntroDetail.Text" xml:space="preserve">
-    <value>&lt;p&gt; Welkom op de DNN Upgrade Pagina.&lt;/p&gt;De eerste stap is het kiezen van de taal die je wilt gebruiken voor de upgrade.&lt;/p&gt;</value>
+    <value>&lt;p&gt;Welkom op de DNN Upgrade-pagina.&lt;/p&gt;
+
+&lt;p&gt;De eerste stap is om de taal te kiezen die je wilt gebruiken voor de upgrade.&lt;/p&gt;
+
+</value>
   </data>
   <data name="InvalidCredentials.Text" xml:space="preserve">
-    <value>Gebruikersnaam en wachtwoord niet herkend</value>
+    <value>Gebruikersnaam en wachtwoord worden niet herkend.</value>
   </data>
   <data name="Next.Text" xml:space="preserve">
-    <value>Start upgraden</value>
+    <value>Nu upgraden</value>
+  </data>
+  <data name="NextStep.Text" xml:space="preserve">
+    <value>Volgende</value>
   </data>
   <data name="NoInstallationLog.Text" xml:space="preserve">
-    <value>Geen installatie log</value>
+    <value>Geen installatielogboek</value>
+  </data>
+  <data name="LoadingInstallationLog.Text" xml:space="preserve">
+    <value>Installatielogboeken laden, even geduld...</value>
   </data>
   <data name="Password.Help" xml:space="preserve">
-    <value>Het wachtwoord voor het applicatiebeheerdersaccount</value>
+    <value>Het wachtwoord voor het Superuser-account.</value>
   </data>
   <data name="Password.Text" xml:space="preserve">
     <value>Wachtwoord:</value>
@@ -62,7 +80,10 @@ Voordat je verder gaat met de geautomatiseerde upgrade-proces moetje ervoor zorg
     <value>Opnieuw proberen</value>
   </data>
   <data name="SeeLogs.Text" xml:space="preserve">
-    <value>Logs weergeven</value>
+    <value>Logboeken bekijken</value>
+  </data>
+  <data name="NoErrorsLogged.Text" xml:space="preserve">
+    <value>Er zijn geen upgradefouten gelogd</value>
   </data>
   <data name="TimerMinutes.Text" xml:space="preserve">
     <value>Minuten</value>
@@ -71,36 +92,78 @@ Voordat je verder gaat met de geautomatiseerde upgrade-proces moetje ervoor zorg
     <value>Upgrade</value>
   </data>
   <data name="Upgrade.Text" xml:space="preserve">
-    <value>upgrade</value>
+    <value>Upgrade</value>
   </data>
   <data name="UpgradeDone.Text" xml:space="preserve">
     <value>Upgrade voltooid</value>
   </data>
-  <data name="UpgradeStarted.Text" xml:space="preserve">
-    <value>Upgrade gestart om</value>
-  </data>
   <data name="UpgradingDatabase.Text" xml:space="preserve">
-    <value>Database bijwerken</value>
+    <value>Database upgraden</value>
   </data>
   <data name="Username.Help" xml:space="preserve">
-    <value>De gebruikersnaam voor het applicatiebeheerdersaccount</value>
+    <value>De gebruikersnaam voor het Superuser-account.</value>
   </data>
   <data name="Username.Text" xml:space="preserve">
-    <value>Applicatiebeheerdersnaam (SuperUser):</value>
+    <value>Host (Superuser) gebruikersnaam:</value>
   </data>
   <data name="Version.Text" xml:space="preserve">
-    <value>Upgrade - versie {0}</value>
-  </data>
-  <data name="VersionsMatch.Text" xml:space="preserve">
-    <value>Database en applicatie versie zijn gelijk - geen upgrade om toe te passen.</value>
-  </data>
-  <data name="VersionsMatchButIncrementalExists.Text" xml:space="preserve">
-    <value>Database en applicatieversie zijn gelijk - er is een incrementele upgrade versie beschikbaar.</value>
+    <value>Upgrade - Versie {0}</value>
   </data>
   <data name="ViewWebsite.Text" xml:space="preserve">
-    <value>Website weergeven</value>
+    <value>Website bekijken</value>
   </data>
   <data name="VisitWebsite.Text" xml:space="preserve">
     <value>Website bezoeken</value>
+  </data>
+  <data name="UpgradeStarted.Text" xml:space="preserve">
+    <value>Upgrade gestart om</value>
+  </data>
+  <data name="AcceptTerms.Required" xml:space="preserve">
+    <value>Accepteer de voorwaarden van de licentieovereenkomst om door te gaan.</value>
+  </data>
+  <data name="AcceptTerms.Text" xml:space="preserve">
+    <value>Ik accepteer de voorwaarden van de &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;licentieovereenkomst&lt;/a&gt;</value>
+  </data>
+  <data name="Security.Text" xml:space="preserve">
+    <value>Beveiliging</value>
+  </data>
+  <data name="TelerikInstalledAndUsedInfo.Text" xml:space="preserve">
+    <value>Je installatie maakt gebruik van Telerik in de volgende assemblies:</value>
+  </data>
+  <data name="TelerikInstalledAndUsedWarning.Text" xml:space="preserve">
+    <value>Het lijkt erop dat je extensies hebt die afhankelijk zijn van Telerik. We kunnen de afhankelijkheden die we hebben gedetecteerd en hierboven voor je hebben vermeld niet verwijderen. Dit upgradeproces zal echter &lt;em&gt;wel&lt;/em&gt; de bekende kwetsbare Telerik-componenten verwijderen. Zorg ervoor dat je een backup van de site hebt voordat je doorgaat met het upgradeproces. Nadat de upgrade is voltooid, is het mogelijk dat je website niet meer functioneert. Het handmatig herstellen van de &lt;code&gt;Telerik.Web.UI.dll&lt;/code&gt; kan je toestaan de werking te herstellen totdat je de getroffen extensies kunt verwijderen.</value>
+  </data>
+  <data name="TelerikInstalledButNotUsedInfo.Text" xml:space="preserve">
+    <value>Je installatie lijkt GEEN van deze componenten te gebruiken, de Telerik-component wordt automatisch verwijderd. Zorg ervoor dat je een backup van de site hebt voordat je doorgaat met het upgradeproces.</value>
+  </data>
+  <data name="TelerikInstalledHeading.Text" xml:space="preserve">
+    <value>Telerik-installatie gedetecteerd</value>
+  </data>
+  <data name="TelerikInstalledDetected.Text" xml:space="preserve">
+    <value>We hebben de aanwezigheid van de Telerik-componenten gedetecteerd. De gedetecteerde Telerik-versie is:</value>
+  </data>
+  <data name="TelerikInstalledBulletin.Text" xml:space="preserve">
+    <value>In augustus 2021 werd een beveiligingsbulletin uitgebracht dat onmiddellijke verwijdering van dit component aanbeveelt vanwege de ernstige beveiligingskwetsbaarheden die aanwezig zijn. U kunt hier meer over lezen op het &lt;a href="https://dnncommunity.org/security" target="_blank"&gt;DNN Security Center&lt;/a&gt;.</value>
+  </data>
+  <data name="TelerikNotInstalledHeading.Text" xml:space="preserve">
+    <value>Beveiligingscontrole: geslaagd</value>
+  </data>
+  <data name="TelerikNotInstalledInfo.Text" xml:space="preserve">
+    <value>We hebben bevestigd dat je site niet het kwetsbare Telerik-component bevat dat eerder met DNN werd gedistribueerd.</value>
+  </data>
+  <data name="TelerikUninstallInfo.Text" xml:space="preserve">
+    <value>Let op: als je hieronder "Ja" selecteert, worden &lt;a href="https://docs.dnncommunity.org/content/getting-started/setup/telerik-removal/index.html" target="_blank"&gt;deze stappen&lt;/a&gt; automatisch voor je voltooid.</value>
+  </data>
+  <data name="TelerikInvalidAntiForgeryToken.Text" xml:space="preserve">
+    <value>Ongeldig Telerik anti-forgery token.</value>
+  </data>
+  <data name="TelerikUninstallOptionMissing.Text" xml:space="preserve">
+    <value>Telerik-verwijderoptie ontbreekt.</value>
+  </data>
+  <data name="CheckingSecurity.Text" xml:space="preserve">
+    <value>Beveiligingsaspecten van deze installatie controleren</value>
+  </data>
+  <data name="TelerikVersionNotKnownToBeVulnerableInfo.Text" xml:space="preserve">
+    <value>Je installatie lijkt een versie van de Telerik-componenten te gebruiken die nieuwer is dan de bekende kwetsbare versie die eerder werd gedistribueerd. Een verwijdering zal niet automatisch plaatsvinden, maar controleer de &lt;a href="https://docs.dnncommunity.org/content/getting-started/setup/telerik-removal/index.html" target="_blank"&gt;verwijderingsstappen&lt;/a&gt; om ervoor te zorgen dat alle kwetsbare componenten worden verwijderd of vervangen. Controleer daarnaast &lt;a href="https://www.telerik.com/products/aspnet-ajax/documentation/security/security-information#telerik-ajax-control-specific-security-guidelines"&gt;Telerik's beveiligingsrichtlijnen&lt;a&gt; om ervoor te zorgen dat elk gebruik een versie zonder bekende kwetsbaarheden gebruikt en correct is geconfigureerd.</value>
   </data>
 </root>

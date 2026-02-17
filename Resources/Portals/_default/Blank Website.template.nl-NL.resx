@@ -28,7 +28,7 @@
     <value>Copyright [year] Mijn Website</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Content.Text" xml:space="preserve">
-    <value>Helaas, de pagina die je probeert op te vragen kan niet gevonden worden en is misschien verwijderd, of de naam is gewijzigd of is tijdelijk niet beschikbaar. Ga terug naar de home pagina en begin daar opnieuw. Neem contact op met de website beheerder als het probleem weer optreedt en je niet kunt vinden waar je naar op zoek bent.</value>
+    <value>Helaas, de pagina die je probeert op te vragen kan niet gevonden worden en is misschien verwijderd, of de naam is gewijzigd of is tijdelijk niet beschikbaar. Ga terug naar de home pagina en begin daar opnieuw. Neem contact op met de sitebeheerder als het probleem weer optreedt en je niet kunt vinden waar je naar op zoek bent.</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Title.Text" xml:space="preserve">
     <value>Pagina is niet gevonden.</value>

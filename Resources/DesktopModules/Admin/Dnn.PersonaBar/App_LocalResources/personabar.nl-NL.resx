@@ -28,7 +28,7 @@
     <value>Alleen een geldig e-mailadres is toegestaan</value>
   </data>
   <data name="err_Minimum.Text" xml:space="preserve">
-    <value>Tekst moet minstens {0} karakters hebben</value>
+    <value>Tekst moet minstens {0} tekens hebben</value>
   </data>
   <data name="err_MinLessThanMax.Text" xml:space="preserve">
     <value>De minimum waarde moet kleiner zijn dan de maximum waarde.</value>
@@ -37,10 +37,10 @@
     <value>Reputatie punten kunnen niet groter zijn dan ervaring punten</value>
   </data>
   <data name="err_NonDecimalNumber.Text" xml:space="preserve">
-    <value>Decimale aantallen zijn niet toegestaan</value>
+    <value>Decimale getallen zijn niet toegestaan</value>
   </data>
   <data name="err_NonNegativeNumber.Text" xml:space="preserve">
-    <value>Negatieve aantallen zijn niet toegestaan</value>
+    <value>Negatieve getallen zijn niet toegestaan</value>
   </data>
   <data name="err_NoUserFolder.Text" xml:space="preserve">
     <value>{0} bezit geen bestanden.</value>
@@ -52,7 +52,7 @@
     <value>Minstens één actie is nodig</value>
   </data>
   <data name="err_PositiveNumber.Text" xml:space="preserve">
-    <value>Alleen positieve aantallen zijn toegestaan</value>
+    <value>Alleen positieve getallen zijn toegestaan</value>
   </data>
   <data name="err_Required.Text" xml:space="preserve">
     <value>Tekst is vereist</value>
@@ -70,7 +70,7 @@
     <value>Wanneer vergrendeld, wordt het pictogram blauw en blijf je in de bewerkingsmodus, zelfs wanneer je naar andere pagina's navigeert.</value>
   </data>
   <data name="LockEditMode.Text" xml:space="preserve">
-    <value>Klik om de Bewerkmodus te vergrendelen.</value>
+    <value>Klik om de bewerkmodus te vergrendelen.</value>
   </data>
   <data name="nav_Accounts.Text" xml:space="preserve">
     <value>Accounts</value>
@@ -85,7 +85,7 @@
     <value>Dashboards</value>
   </data>
   <data name="nav_DocCenter.Text" xml:space="preserve">
-    <value>Doc Centrum</value>
+    <value>Documentatiecentrum</value>
   </data>
   <data name="nav_Edit.Text" xml:space="preserve">
     <value>Bewerken</value>
@@ -127,7 +127,7 @@
     <value>Acties</value>
   </data>
   <data name="permissiongrid.Add Content.Text" xml:space="preserve">
-    <value>Content toevoegen</value>
+    <value>Inhoud toevoegen</value>
   </data>
   <data name="permissiongrid.Add User.Text" xml:space="preserve">
     <value>Gebruiker toevoegen</value>
@@ -175,7 +175,7 @@
     <value>Navigeren</value>
   </data>
   <data name="permissiongrid.Select Role.Text" xml:space="preserve">
-    <value>Selecteer Rol</value>
+    <value>Selecteer rol</value>
   </data>
   <data name="permissiongrid.Type-roles.Text" xml:space="preserve">
     <value>Rollen</value>
@@ -204,9 +204,6 @@
   <data name="UnlockEditMode.Text" xml:space="preserve">
     <value>Klik om de Bewerkmodus te ontgrendelen.</value>
   </data>
-  <data name="UpgradeLicense.Text" xml:space="preserve">
-    <value>[ Upgrade naar Evoq ]</value>
-  </data>
   <data name="Critical.Text">
     <value>kritiek</value>
   </data>
@@ -220,6 +217,6 @@
     <value>Laatste versie</value>
   </data>
   <data name="Update.Text">
-    <value>Update</value>
+    <value>Bijwerken</value>
   </data>
 </root>

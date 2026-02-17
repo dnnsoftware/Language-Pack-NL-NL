@@ -1,5 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
+  <!-- [Schema and headers remain unchanged] -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -7,150 +54,146 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="nav_Licensing.Text" xml:space="preserve">
+    <value>Over</value>
+  </data>
+  <data name="LicenseType.Header" xml:space="preserve">
+    <value>Licentietype</value>
+  </data>
+  <data name="InvoiceNumber.Header" xml:space="preserve">
+    <value>Factuurnummer</value>
+  </data>
+  <data name="WebServer.Header" xml:space="preserve">
+    <value>Webserver</value>
+  </data>
   <data name="Activated.Header" xml:space="preserve">
     <value>Geactiveerd</value>
   </data>
-  <data name="Community" xml:space="preserve">
-    <value>Er is een levendige en actieve DNN Community. Bezoek ons en neem deel aan activiteiten en evenementen. Krijg hulp, bespreek projecten en blijf op de hoogte van de ontwikkelingen.</value>
-  </data>
-  <data name="Community.Header" xml:space="preserve">
-    <value>DE COMMUNITY</value>
-  </data>
-  <data name="Docs" xml:space="preserve">
-    <value>Ongeacht je vragen, DNN's nieuwe" Doc Center" is de plaats om naar toe te gaan voor antwoorden, tutorials en product assistentie.</value>
-  </data>
-  <data name="Docs.Header" xml:space="preserve">
-    <value>DOCUMENTATIE CENTER</value>
-  </data>
-  <data name="Error.ACT1.Text" xml:space="preserve">
-    <value>Licensieactivatie mislukt. De ingevoerde licensie details matchen niet met een geldige licensie. &lt;br /&gt;&lt;br /&gt; Controleer je licensie details op  &lt;a href="{0}" target="_blank"&gt; je licensie pagina op dnnsoftware.com&lt;/a&gt; en probeer opnieuw. Als je problemen blijft houden, contacteer Technisch Support.</value>
-  </data>
-  <data name="Error.ACT2.Text" xml:space="preserve">
-    <value>Licensie activatie mislukt. Productie activatie voor {0} is in gebruik.</value>
-  </data>
-  <data name="Error.ACT3.Text" xml:space="preserve">
-    <value>Je hebt het limiet van activeringen overschreden voor dit klant adres.</value>
-  </data>
-  <data name="Error.ACT4.Text" xml:space="preserve">
-    <value>Licensie activatie mislukt. Productie activatie voor {0} is in gebruik.</value>
-  </data>
-  <data name="Error.ACT6.Text" xml:space="preserve">
-    <value>Licensieactivatie mislukt. Je service periode voor deze licensie is verlopen op {0:d}. Contacteer &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
-  </data>
-  <data name="Error.ContactServer.activate" xml:space="preserve">
-    <value>Niet in staat om licensie te activeren. Verbinding naar licensie server mislukt. Probeer later nog eens of gebruik handmatige activatie. Als je problemen blijft houden, contacteer Technisch Support.</value>
-  </data>
-  <data name="Error.ContactServer.canrenew" xml:space="preserve">
-    <value>Verbinding met licensie server mislukt. Je bent niet in staat om automatisch licensies te activeren en vernieuwen. Je kunt handmatige activatie gebruiken om een licensie te activeren. &lt;br /&gt;&lt;br /&gt; Voor licensie vernieuwing contacteer &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
-  </data>
-  <data name="Error.ContactServer.deactivate" xml:space="preserve">
-    <value>Je licentie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen terug naar je factuur als verbinding naar licentieserver mislukt. Contacteer technische ondersteuning voor licentie activatie.</value>
-  </data>
-  <data name="Error.ContactServer.renew" xml:space="preserve">
-    <value>Niet in staat om Licensie te vernieuwen. Verbinding naar licensie server mislukt. Probeer later nog eens of contacteer &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;</value>
-  </data>
-  <data name="Error.DEA1.Text" xml:space="preserve">
-    <value>Verwijder licensie mislukt. De licensie is niet gevonden.</value>
-  </data>
-  <data name="Error.ExpiredLicense" xml:space="preserve">
-    <value>Licensieactivatie mislukt. Je licensie is verlopen op {0:d}. Check je licensies op &lt;a href="{1}" target="_blank"&gt;your licenses page on dnnsoftware.com&lt;/a&gt;. Log in using the account you received when you first bought the product.</value>
-  </data>
-  <data name="Error.LicenseAlreadyExists" xml:space="preserve">
-    <value>Licensie Activation mislukt. De host server {0} heeft al {1} licensie.</value>
-  </data>
-  <data name="Error.Unknown" xml:space="preserve">
-    <value>Niet in staat om aanvraag te verwerken, probeer later nog eens.</value>
-  </data>
-  <data name="Error.Unknown.Activation" xml:space="preserve">
-    <value>Niet in staat om aanvraag te verwerken, probeer later nog eens of gebruik handmatige activatie.</value>
-  </data>
   <data name="Expires.Header" xml:space="preserve">
-    <value>VERVALT</value>
-  </data>
-  <data name="GitHub" xml:space="preserve">
-    <value>&lt;div&gt;Het Open Source DNNlatform project is volledig beschikbaar op GitHub. Bezoek ons en raak betrokken. Meld problemen, geef terugkoppeling en draag bij aan de ontwikkeling van het platform&lt;/div&gt;</value>
-  </data>
-  <data name="GitHub.Header" xml:space="preserve">
-    <value>THE CODE</value>
-  </data>
-  <data name="Intro" xml:space="preserve">
-    <value>DNN® (voorheen DotNetNuke® ) is het leidende Open Source content management platform (CMS) in het Microsoft ecosysteem. DNN wordt gebruikt om professionele website te maken, social intranets, community sites, extranets en meer.&lt;/div&gt;&lt;div&gt;DNNPlatform is meer dan 8 milhoen keer gedownload en kent een activieve commuity van meer dan 1 miljoen leden.</value>
-  </data>
-  <data name="Intro.Header" xml:space="preserve">
-    <value>DNN Platform</value>
-  </data>
-  <data name="InvoiceNumber.Header" xml:space="preserve">
-    <value>FACTUURNUMMER</value>
+    <value>Verloopt</value>
   </data>
   <data name="LicenseType.Development" xml:space="preserve">
     <value>Ontwikkeling</value>
   </data>
-  <data name="LicenseType.Failover" xml:space="preserve">
-    <value>Failover</value>
-  </data>
-  <data name="LicenseType.Header" xml:space="preserve">
-    <value>LICENTIETYPE</value>
-  </data>
   <data name="LicenseType.Production" xml:space="preserve">
     <value>Productie</value>
+  </data>
+  <data name="LicenseType.Failover" xml:space="preserve">
+    <value>Failover</value>
   </data>
   <data name="LicenseType.Staging" xml:space="preserve">
     <value>Staging</value>
   </data>
   <data name="LicenseType.Test" xml:space="preserve">
-    <value>Testen</value>
+    <value>Test</value>
   </data>
-  <data name="nav_Licensing.Text" xml:space="preserve">
-    <value>Over</value>
+  <data name="Error.Unknown.Activation" xml:space="preserve">
+    <value>Kan aanvraag niet verwerken. Probeer het later opnieuw of gebruik handmatige activering.</value>
   </data>
-  <data name="NoLicense.Header" xml:space="preserve">
-    <value>Je hebt (nog) geen EVOQ licensies...</value>
+  <data name="Error.LicenseAlreadyExists" xml:space="preserve">
+    <value>Licentieactivering mislukt. De hostserver {0} heeft al een {1} licentie.</value>
   </data>
-  <data name="NoLicense.Text" xml:space="preserve">
-    <value>Upgrade naar EVOQ hieronder om toegang te krijgen tot professionele features op je sites.</value>
+  <data name="Error.ContactServer.activate" xml:space="preserve">
+    <value>Kan de licentie niet activeren. De verbinding met licentieserver mislukt. Probeer het later opnieuw of gebruik handmatige activering. Neem contact op met Technische Ondersteuning als je problemen blijft ervaren.</value>
   </data>
-  <data name="Success.DevLicenseActivated" xml:space="preserve">
-    <value>Ontwikkeling licensie is succesvol geactiveerd.</value>
+  <data name="Error.ContactServer.canrenew" xml:space="preserve">
+    <value>Verbinding met licentieserver mislukt. Je kunt licenties niet automatisch activeren of vernieuwen. Je kunt handmatige activering gebruiken om een licentie te activeren.&lt;br /&gt;&lt;br /&gt;
+Neem voor licentievernieuwing contact op met &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
   </data>
-  <data name="Success.FailoverLicenseActivated" xml:space="preserve">
-    <value>Failover Licensie is succesvol geactiveerd</value>
+  <data name="Error.ContactServer.deactivate" xml:space="preserve">
+    <value>Je licentie is verwijderd.&lt;br /&gt;&lt;br /&gt;
+Kan activering niet terug toevoegen aan je factuur omdat verbinding met licentieserver mislukt. Neem contact op met Technische Ondersteuning voor licentieactivering.</value>
   </data>
-  <data name="Success.LicenseActivated" xml:space="preserve">
-    <value>Productie Licensie is succesvol geactiveerd</value>
+  <data name="Error.ContactServer.renew" xml:space="preserve">
+    <value>Kan licentie niet vernieuwen. Verbinding met licentieserver mislukt. Probeer het later opnieuw of neem contact op met &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;</value>
   </data>
-  <data name="Success.LicenseDeactivated" xml:space="preserve">
-    <value>Je licentie is succesvol verwijderd.</value>
+  <data name="Error.ACT1.Text" xml:space="preserve">
+    <value>Licentieactivering mislukt. De opgegeven licentiegegevens komen niet overeen met een geldige licentie.&lt;br /&gt;&lt;br /&gt;Verifieer je licentiegegevens op &lt;a href="{0}" target="_blank"&gt;je licentiepagina op dnnsoftware.com&lt;/a&gt; en probeer het opnieuw. Neem contact op met Technische Ondersteuning als je problemen blijft ervaren.</value>
   </data>
-  <data name="Success.LicenseDeactivatedContactServerErr" xml:space="preserve">
-    <value>Je licentie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan je factuur als verbinding naar licentieserver mislukt. Als je een productielicentie moet activeren, contacteer technische ondersteuning.</value>
+  <data name="Error.ACT2.Text" xml:space="preserve">
+    <value>Licentieactivering mislukt. Productieactivering voor {0} is in gebruik.</value>
   </data>
-  <data name="Success.LicenseDeactivatedNoActivationIncrease" xml:space="preserve">
-    <value>Je licentie is verwijderd. &lt;br /&gt;&lt;br /&gt; Niet in staat om activatie toe te voegen aan factuur. Als je een productielicentie moet activeren, contacteer technische ondersteuning.</value>
+  <data name="Error.ACT3.Text" xml:space="preserve">
+    <value>Je hebt de limiet van activeringen vanaf dit clientadres overschreden</value>
   </data>
-  <data name="Success.LicenseRenewed" xml:space="preserve">
-    <value>Je licentie is succesvol vernieuwd.</value>
+  <data name="Error.ACT4.Text" xml:space="preserve">
+    <value>Licentieactivering mislukt. Productieactivering voor {0} is in gebruik.</value>
   </data>
-  <data name="Success.StagingLicenseActivated" xml:space="preserve">
-    <value>Staging Licensie is succesvol geactiveerd.</value>
+  <data name="Error.ACT6.Text" xml:space="preserve">
+    <value>Licentieactivering mislukt. Je serviceperiode voor deze licentie is verlopen op {0:d}. Neem contact op met &lt;a href="mailto:customercare@dnnsoftware.com"&gt;customercare@dnnsoftware.com&lt;/a&gt;.</value>
   </data>
-  <data name="Success.TestLicenseActivated" xml:space="preserve">
-    <value>De proeflicentie is succesvol geactiveerd</value>
-  </data>
-  <data name="Success.TrialActivation" xml:space="preserve">
-    <value>Je verlengde proeflicentie is succesvol geïnstalleerd.</value>
-  </data>
-  <data name="Success.TrialExtensionRequest" xml:space="preserve">
-    <value>Je proeflicentieverlengingsverzoek is ingediend. Je ontvangt binnen 1 werkdag een e-mail met instructies voor het verlengen van je licentie.</value>
+  <data name="Error.DEA1.Text" xml:space="preserve">
+    <value>Licentie verwijderen mislukt. De licentie is niet gevonden.</value>
   </data>
   <data name="WebLicenseList.url" xml:space="preserve">
-    <value>https://www.dnnsoftware.com/Support/Success-Network/License-Management</value>
+    <value>http://www.dnnsoftware.com/Support/Success-Network/License-Management</value>
   </data>
-  <data name="WebServer.Header" xml:space="preserve">
-    <value>WEB SERVER</value>
+  <data name="Error.Unknown" xml:space="preserve">
+    <value>Kan de aanvraag niet verwerken. Probeer het later opnieuw.</value>
+  </data>
+  <data name="Error.ExpiredLicense" xml:space="preserve">
+    <value>Licentieactivering mislukt. Je licentie is verlopen op {0:d}. Controleer je licenties op &lt;a href="{1}" target="_blank"&gt;je licentiepagina op dnnsoftware.com&lt;/a&gt;. Log in met het account dat je ontving toen je het product voor het eerst kocht.</value>
+  </data>
+  <data name="Success.DevLicenseActivated" xml:space="preserve">
+    <value>Ontwikkellicentie is succesvol geactiveerd.</value>
+  </data>
+  <data name="Success.FailoverLicenseActivated" xml:space="preserve">
+    <value>Failoverlicentie is succesvol geactiveerd</value>
+  </data>
+  <data name="Success.LicenseActivated" xml:space="preserve">
+    <value>Productielicentie is succesvol geactiveerd</value>
+  </data>
+  <data name="Success.LicenseDeactivated" xml:space="preserve">
+    <value>Jouw licentie is succesvol verwijderd.</value>
+  </data>
+  <data name="Success.LicenseDeactivatedContactServerErr" xml:space="preserve">
+    <value>Jouw licentie is verwijderd.&lt;br /&gt;&lt;br /&gt;Kan activering niet terug toevoegen aan jouw factuur omdat verbinding met licentieserver mislukt. Neem contact op met Technische Ondersteuning als je moet activeren als productielicentie.</value>
+  </data>
+  <data name="Success.LicenseDeactivatedNoActivationIncrease" xml:space="preserve">
+    <value>Jouw licentie is verwijderd.&lt;br /&gt;&lt;br /&gt;Kan activering niet terug toevoegen aan de factuur. Neem contact op met Technische Ondersteuning als je moet activeren als productielicentie.</value>
+  </data>
+  <data name="Success.LicenseRenewed" xml:space="preserve">
+    <value>Jouw licentie is succesvol vernieuwd.</value>
+  </data>
+  <data name="Success.StagingLicenseActivated" xml:space="preserve">
+    <value>Staginglicentie is succesvol geactiveerd</value>
+  </data>
+  <data name="Success.TestLicenseActivated" xml:space="preserve">
+    <value>Testlicentie is succesvol geactiveerd</value>
+  </data>
+  <data name="Success.TrialActivation" xml:space="preserve">
+    <value>Jouw verlengde proeflicentie is succesvol geïnstalleerd.</value>
+  </data>
+  <data name="Success.TrialExtensionRequest" xml:space="preserve">
+    <value>Jouw aanvraag voor verlenging van de proeflicentie is ingediend. Je ontvangt binnen 1 werkdag een e-mail met instructies voor het verlengen van je licentie. Neem bij vragen over proeflicentieverlengingen contact op met de verkoopafdeling van DNN Corp. op 650-288-3150.</value>
+  </data>
+  <data name="Intro.Header" xml:space="preserve">
+    <value>DNN Platform</value>
+  </data>
+  <data name="Intro" xml:space="preserve">
+    <value>DNN® (voorheen DotNetNuke®) is het toonaangevende open source webcontentmanagementsysteem (CMS) in het Microsoft-ecosysteem. Het product wordt gebruikt om professioneel ogende en gebruiksvriendelijke commerciële websites, sociale intranetten, communityportals of partnerextranetten te bouwen. DNN-sites met dynamische inhoud van alle soorten zijn eenvoudig te implementeren en bij te werken. Het DNN Platform is meer dan 8 miljoen keer gedownload en wordt wereldwijd gebruikt voor meer dan 750.000 websites. Een community van meer dan 1 miljoen leden vormt een krachtig ondersteuningsnetwerk.</value>
+  </data>
+  <data name="GitHub.Header" xml:space="preserve">
+    <value>DE CODE</value>
+  </data>
+  <data name="GitHub" xml:space="preserve">
+    <value>Het open source DNN Platform-project wordt beheerd op GitHub. Bezoek ons daar en doe mee. Meld problemen, geef waardevolle feedback en lever een bijdrage.</value>
+  </data>
+  <data name="Community.Header" xml:space="preserve">
+    <value>DE COMMUNITY</value>
+  </data>
+  <data name="Community" xml:space="preserve">
+    <value>De DNN Community is actief en levendig. Bezoek ons en doe mee aan de activiteiten. Krijg hulp, bespreek projecten en blijf op de hoogte van alle geweldige dingen die anderen doen.</value>
+  </data>
+  <data name="Docs.Header" xml:space="preserve">
+    <value>DE DOCUMENTATIE</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>DNN Docs is ook open source! Leer hoe je aan de slag gaat met DNN, volg stapsgewijze tutorials en duik zelfs in de API-documentatie.</value>
   </data>
 </root>

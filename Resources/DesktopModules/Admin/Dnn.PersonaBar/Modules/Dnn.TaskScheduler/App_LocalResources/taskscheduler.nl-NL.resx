@@ -604,7 +604,7 @@
   &lt;/table&gt;</value>
   </data>
   <data name="Prompt_ScheduleFlagRequired.Text" xml:space="preserve">
-    <value>You must specify the scheduled item's ID using the --{0} flag or by passing the number as the first argument.\n</value>
+    <value>Je moet de ID van het geplande item opgeven met behulp van de vlag --{0} of door het nummer als eerste argument door te geven.</value>
   </data>
   <data name="Prompt_SchedulerCategory.Text" xml:space="preserve">
     <value>Planner commando's</value>
