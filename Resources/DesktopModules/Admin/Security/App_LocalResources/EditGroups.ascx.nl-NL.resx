@@ -19,8 +19,7 @@
     <value>Er bestaat al een rolgroep met dezelfde naam. De nieuwe groep is niet toegevoegd.</value>
   </data>
   <data name="ModuleHelp.Text" xml:space="preserve">
-    <value>
-      Over het bewerken van rolgroepen
+    <value>Over het bewerken van rolgroepen
       Via deze module kunnen toegangsrollen in groepen worden onderverdeeld. Het gebruik van rolgroepen wordt aangeraden indien er veel toegangrollen zijn.
     </value>
   </data>
