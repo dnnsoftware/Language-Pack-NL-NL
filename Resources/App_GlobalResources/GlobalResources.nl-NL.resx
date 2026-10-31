@@ -12,1258 +12,1258 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="//AboutUs.String" xml:space="preserve">
-    <value>Over ons</value>
-  </data>
-  <data name="//AboutUs//StyleGuide.String" xml:space="preserve">
-    <value>Stijlgids</value>
-  </data>
-  <data name="//ActivityFeed.String" xml:space="preserve">
-    <value>Activiteitenoverzicht</value>
-  </data>
-  <data name="//ActivityFeed//Friends.String" xml:space="preserve">
-    <value>Vrienden</value>
-  </data>
-  <data name="//ActivityFeed//Messages.String" xml:space="preserve">
-    <value>Berichten</value>
-  </data>
-  <data name="//ActivityFeed//MyProfile.String" xml:space="preserve">
-    <value>Mijn profiel</value>
-  </data>
-  <data name="//Admin.String" xml:space="preserve">
-    <value>Website</value>
-  </data>
-  <data name="//Admin//FileManagement.String" xml:space="preserve">
-    <value>Bestandsbeheer</value>
-  </data>
-  <data name="//ContactUs.String" xml:space="preserve">
-    <value>Neem contact met ons op</value>
-  </data>
-  <data name="//Home.String" xml:space="preserve">
-    <value>Home</value>
-  </data>
-  <data name="//Host.String" xml:space="preserve">
-    <value>Applicatie</value>
-  </data>
-  <data name="//Host//FileManagement.String" xml:space="preserve">
-    <value>Bestandsbeheer</value>
-  </data>
-  <data name="//Host//HTMLEditorManager.String" xml:space="preserve">
-    <value>Beheer HTML Editor</value>
-  </data>
-  <data name="//Modules.Text" xml:space="preserve">
-    <value>Modules</value>
-  </data>
-  <data name="//NewsPromotions.String" xml:space="preserve">
-    <value>Nieuws en promoties</value>
-  </data>
-  <data name="//OurProducts.String" xml:space="preserve">
-    <value>Onze producten</value>
-  </data>
-  <data name="//Pages.Text" xml:space="preserve">
-    <value>Pagina's</value>
-  </data>
-  <data name="//SearchResults.String" xml:space="preserve">
-    <value>Zoekresultaten</value>
-  </data>
-  <data name="//Tools.Text" xml:space="preserve">
-    <value>Gereedschap</value>
-  </data>
-  <data name="//UserProfile.String" xml:space="preserve">
-    <value>Gebruikersprofiel</value>
-  </data>
-  <data name="403_3.Error" xml:space="preserve">
-    <value>&lt;div style="height: 100%; width: 90%;"&gt; &lt;h3&gt;DNN-configuratiefout&lt;/h3&gt; &lt;p&gt;{0}&lt;/p&gt; &lt;p&gt;Uw DNN-installatie lijkt een probleem te hebben met de beveiligingsinstellingen (hoogstwaarschijnlijk machtigingen). DNN biedt uitgebreide mogelijkheden voor het uploaden van bestanden voor content, modules en thema's. Deze functies vereisen aangepaste beveiligingsinstellingen, zodat de applicatie bestanden op uw website kan aanmaken en verwijderen.&lt;/p&gt; &lt;p&gt;Ga op uw webserver naar de hoofdmap van de website (standaard C:\DotNetNuke) met Windows Verkenner. Klik met de rechtermuisknop op de map en selecteer 'Delen en beveiliging' in het pop-upmenu. Selecteer het tabblad 'Beveiliging'. Voeg het juiste gebruikersaccount toe en stel de juiste machtigingen in voor de ASP.Net-gebruiker, zoals gespecificeerd in de geavanceerde instellingen van de IIS-toepassingsgroep die uw website host.&lt;/p&gt;&lt;ul style="text-align: left; list-style-type: none; list-style-position: outside;"&gt; &lt;li&gt;&lt;strong&gt;Als u een benoemd account gebruikt, zoals het ingebouwde "NT AUTHORITY\NETWORK SERVICE"&lt;/strong&gt;&lt;br/&gt; &lt;ol style="list-style-type: circle;"&gt; &lt;li&gt;Het gebruikersaccount moet lees-, schrijf-, lees- en uitvoer- en wijzigingsmachtiging hebben.&lt;/li&gt; &lt;/ol&gt; &lt;br/&gt; &lt;/li&gt; &lt;li&gt;&lt;strong&gt;Als u "ApplicationPoolIdentity" gebruikt (aanbevolen)&lt;/strong&gt;&lt;br/&gt; &lt;ol style="list-style-type: circle;"&gt; &lt;li&gt;Het gebruikersaccount IIS AppPool\[AppPool Name] (vervang [AppPool Name] door de echte naam van de IIS-toepassingsgroep) moet lees-, schrijf-, lees- en uitvoer- en wijzigingsmachtiging hebben, met deze toestemming.&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;img alt="Afbeelding die laat zien dat de beveiligingsinstellingen voor de hoofdmap van de website moeten zijn ingesteld op Lezen, Schrijven en Wijzigingsbeheer voor een benoemd account." src="images/403-3.gif"&gt;&lt;/p&gt;&lt;/div&gt;</value>
-  </data>
-  <data name="404.Error" xml:space="preserve">
-    <value>&lt;div style="height: 100%; width: 90%;"&gt;
-
-&lt;p style="color:red; font-weight:bold;"&gt;Domeinnaam {0} bestaat niet in de database&lt;/p&gt;
-
-&lt;p&gt;Dit systeem ondersteunt meerdere websites vanuit één database/codebasis. Dit wordt bereikt door de URL van het verzoek van de clientbrowser om te zetten naar een geldige rij in de Portals-databasetabel.&lt;/p&gt; De volgende stappen beschrijven het proces:&lt;/p&gt;
-
-&lt;ol style="text-align: left; list-style-type: decimal; list-style-position: outside;"&gt;
-
-&lt;li&gt;&lt;strong&gt;Webserververwerking&lt;/strong&gt;&lt;br /&gt;
-
-&lt;ul style="list-style-type: disc;"&gt;
-
-&lt;li&gt;Wanneer een webserver een verzoek ontvangt van een clientbrowser, vergelijkt deze de bestandsextensie van de doel-URL met de in IIS gedefinieerde toepassingsextensietoewijzingen.&lt;/li&gt;
-
-&lt;li&gt;Op basis van de overeenkomst stuurt IIS het verzoek vervolgens door naar het gedefinieerde uitvoerbare pad (aspnet_isapi.dll in het geval van ASP.NET-verzoeken).&lt;/li&gt;
-
-&lt;li&gt;De aspnet_isapi.dll-engine verwerkt het verzoek in een geordende reeks gebeurtenissen, beginnend met Application_BeginRequest.&lt;/li&gt;
-
-&lt;/ul&gt;
-
-&lt;/li&gt;
-
-&lt;li&gt;&lt;strong&gt;HttpModule.URLRewrite OnBeginRequest (UrlRewriteModule.vb)&lt;/strong&gt;&lt;br /&gt;
-
-&lt;ul style="list-style-type: disc;"&gt;
-
-&lt;li&gt;De URL van het verzoek wordt geparseerd op basis van het teken "/"&lt;/li&gt;
-
-&lt;li&gt;Een domeinnaam wordt samengesteld met behulp van elk van de relevante geparseerde URL-segmenten.&lt;br /&gt;
-
-&lt;br /&gt;
-
-Voorbeelden:&lt;br /&gt;
-
-URL: https://www.domain.com/default.aspx = Domeinnaam: www.domain.com&lt;br /&gt;
-
-URL: https://209.75.24.131/default.aspx = Domeinnaam: 209.75.24.131&lt;br /&gt;
-
-URL: https://localhost/DotNetNuke/default.aspx = Domeinnaam: localhost/DotNetNuke&lt;br /&gt;
-
-URL: https://www.domain.com/virtualdirectory/default.aspx = Domeinnaam: www.domain.com/virtualdirectory&lt;br /&gt;
-
-URL: https://www.domain.com/directory/default.aspx = Domeinnaam: www.domain.com/directory&lt;br /&gt;
-
-&lt;br /&gt;
-
-&lt;/li&gt;
-
-&lt;li&gt;Met behulp van de domeinnaam raadpleegt de applicatie de database (tabel PortalAlias ​​- kolom HTTPAlias) om een ​​overeenkomend record te vinden.&lt;br /&gt;
-
-&lt;br /&gt;
-
-Opmerking: Als u de applicatie op een externe server installeert, moet u de waarde van het veld HTTPAlias ​​in tabel PortalAlias ​​voor het record met de juiste PortalID aanpassen volgens de hierboven gedefinieerde regels.&lt;/li&gt;
-
-&lt;/ul&gt;
-
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</value>
+  <data name="//AboutUs.String" xml:space="preserve">
+    <value>Over ons</value>
+  </data>
+  <data name="//AboutUs//StyleGuide.String" xml:space="preserve">
+    <value>Stijlgids</value>
+  </data>
+  <data name="//ActivityFeed.String" xml:space="preserve">
+    <value>Activiteitenoverzicht</value>
+  </data>
+  <data name="//ActivityFeed//Friends.String" xml:space="preserve">
+    <value>Vrienden</value>
+  </data>
+  <data name="//ActivityFeed//Messages.String" xml:space="preserve">
+    <value>Berichten</value>
+  </data>
+  <data name="//ActivityFeed//MyProfile.String" xml:space="preserve">
+    <value>Mijn profiel</value>
+  </data>
+  <data name="//Admin.String" xml:space="preserve">
+    <value>Website</value>
+  </data>
+  <data name="//Admin//FileManagement.String" xml:space="preserve">
+    <value>Bestandsbeheer</value>
+  </data>
+  <data name="//ContactUs.String" xml:space="preserve">
+    <value>Neem contact met ons op</value>
+  </data>
+  <data name="//Home.String" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="//Host.String" xml:space="preserve">
+    <value>Applicatie</value>
+  </data>
+  <data name="//Host//FileManagement.String" xml:space="preserve">
+    <value>Bestandsbeheer</value>
+  </data>
+  <data name="//Host//HTMLEditorManager.String" xml:space="preserve">
+    <value>Beheer HTML Editor</value>
+  </data>
+  <data name="//Modules.Text" xml:space="preserve">
+    <value>Modules</value>
+  </data>
+  <data name="//NewsPromotions.String" xml:space="preserve">
+    <value>Nieuws en promoties</value>
+  </data>
+  <data name="//OurProducts.String" xml:space="preserve">
+    <value>Onze producten</value>
+  </data>
+  <data name="//Pages.Text" xml:space="preserve">
+    <value>Pagina's</value>
+  </data>
+  <data name="//SearchResults.String" xml:space="preserve">
+    <value>Zoekresultaten</value>
+  </data>
+  <data name="//Tools.Text" xml:space="preserve">
+    <value>Gereedschap</value>
+  </data>
+  <data name="//UserProfile.String" xml:space="preserve">
+    <value>Gebruikersprofiel</value>
+  </data>
+  <data name="403_3.Error" xml:space="preserve">
+    <value>&lt;div style="height: 100%; width: 90%;"&gt; &lt;h3&gt;DNN-configuratiefout&lt;/h3&gt; &lt;p&gt;{0}&lt;/p&gt; &lt;p&gt;Uw DNN-installatie lijkt een probleem te hebben met de beveiligingsinstellingen (hoogstwaarschijnlijk machtigingen). DNN biedt uitgebreide mogelijkheden voor het uploaden van bestanden voor content, modules en thema's. Deze functies vereisen aangepaste beveiligingsinstellingen, zodat de applicatie bestanden op uw website kan aanmaken en verwijderen.&lt;/p&gt; &lt;p&gt;Ga op uw webserver naar de hoofdmap van de website (standaard C:\DotNetNuke) met Windows Verkenner. Klik met de rechtermuisknop op de map en selecteer 'Delen en beveiliging' in het pop-upmenu. Selecteer het tabblad 'Beveiliging'. Voeg het juiste gebruikersaccount toe en stel de juiste machtigingen in voor de ASP.Net-gebruiker, zoals gespecificeerd in de geavanceerde instellingen van de IIS-toepassingsgroep die uw website host.&lt;/p&gt;&lt;ul style="text-align: left; list-style-type: none; list-style-position: outside;"&gt; &lt;li&gt;&lt;strong&gt;Als u een benoemd account gebruikt, zoals het ingebouwde "NT AUTHORITY\NETWORK SERVICE"&lt;/strong&gt;&lt;br/&gt; &lt;ol style="list-style-type: circle;"&gt; &lt;li&gt;Het gebruikersaccount moet lees-, schrijf-, lees- en uitvoer- en wijzigingsmachtiging hebben.&lt;/li&gt; &lt;/ol&gt; &lt;br/&gt; &lt;/li&gt; &lt;li&gt;&lt;strong&gt;Als u "ApplicationPoolIdentity" gebruikt (aanbevolen)&lt;/strong&gt;&lt;br/&gt; &lt;ol style="list-style-type: circle;"&gt; &lt;li&gt;Het gebruikersaccount IIS AppPool\[AppPool Name] (vervang [AppPool Name] door de echte naam van de IIS-toepassingsgroep) moet lees-, schrijf-, lees- en uitvoer- en wijzigingsmachtiging hebben, met deze toestemming.&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;img alt="Afbeelding die laat zien dat de beveiligingsinstellingen voor de hoofdmap van de website moeten zijn ingesteld op Lezen, Schrijven en Wijzigingsbeheer voor een benoemd account." src="images/403-3.gif"&gt;&lt;/p&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="404.Error" xml:space="preserve">
+    <value>&lt;div style="height: 100%; width: 90%;"&gt;
+
+&lt;p style="color:red; font-weight:bold;"&gt;Domeinnaam {0} bestaat niet in de database&lt;/p&gt;
+
+&lt;p&gt;Dit systeem ondersteunt meerdere websites vanuit één database/codebasis. Dit wordt bereikt door de URL van het verzoek van de clientbrowser om te zetten naar een geldige rij in de Portals-databasetabel.&lt;/p&gt; De volgende stappen beschrijven het proces:&lt;/p&gt;
+
+&lt;ol style="text-align: left; list-style-type: decimal; list-style-position: outside;"&gt;
+
+&lt;li&gt;&lt;strong&gt;Webserververwerking&lt;/strong&gt;&lt;br /&gt;
+
+&lt;ul style="list-style-type: disc;"&gt;
+
+&lt;li&gt;Wanneer een webserver een verzoek ontvangt van een clientbrowser, vergelijkt deze de bestandsextensie van de doel-URL met de in IIS gedefinieerde toepassingsextensietoewijzingen.&lt;/li&gt;
+
+&lt;li&gt;Op basis van de overeenkomst stuurt IIS het verzoek vervolgens door naar het gedefinieerde uitvoerbare pad (aspnet_isapi.dll in het geval van ASP.NET-verzoeken).&lt;/li&gt;
+
+&lt;li&gt;De aspnet_isapi.dll-engine verwerkt het verzoek in een geordende reeks gebeurtenissen, beginnend met Application_BeginRequest.&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/li&gt;
+
+&lt;li&gt;&lt;strong&gt;HttpModule.URLRewrite OnBeginRequest (UrlRewriteModule.vb)&lt;/strong&gt;&lt;br /&gt;
+
+&lt;ul style="list-style-type: disc;"&gt;
+
+&lt;li&gt;De URL van het verzoek wordt geparseerd op basis van het teken "/"&lt;/li&gt;
+
+&lt;li&gt;Een domeinnaam wordt samengesteld met behulp van elk van de relevante geparseerde URL-segmenten.&lt;br /&gt;
+
+&lt;br /&gt;
+
+Voorbeelden:&lt;br /&gt;
+
+URL: https://www.domain.com/default.aspx = Domeinnaam: www.domain.com&lt;br /&gt;
+
+URL: https://209.75.24.131/default.aspx = Domeinnaam: 209.75.24.131&lt;br /&gt;
+
+URL: https://localhost/DotNetNuke/default.aspx = Domeinnaam: localhost/DotNetNuke&lt;br /&gt;
+
+URL: https://www.domain.com/virtualdirectory/default.aspx = Domeinnaam: www.domain.com/virtualdirectory&lt;br /&gt;
+
+URL: https://www.domain.com/directory/default.aspx = Domeinnaam: www.domain.com/directory&lt;br /&gt;
+
+&lt;br /&gt;
+
+&lt;/li&gt;
+
+&lt;li&gt;Met behulp van de domeinnaam raadpleegt de applicatie de database (tabel PortalAlias ​​- kolom HTTPAlias) om een ​​overeenkomend record te vinden.&lt;br /&gt;
+
+&lt;br /&gt;
+
+Opmerking: Als u de applicatie op een externe server installeert, moet u de waarde van het veld HTTPAlias ​​in tabel PortalAlias ​​voor het record met de juiste PortalID aanpassen volgens de hierboven gedefinieerde regels.&lt;/li&gt;
+
+&lt;/ul&gt;
+
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</value>
   </data>
-  <data name="500.Error" xml:space="preserve">
-    <value>{0}</value>
+  <data name="500.Error" xml:space="preserve">
+    <value>{0}</value>
   </data>
-  <data name="503.Error" xml:space="preserve">
-    <value>{0} - 503 Service niet beschikbaar</value>
+  <data name="503.Error" xml:space="preserve">
+    <value>{0} - 503 Service niet beschikbaar</value>
   </data>
-  <data name="AddFollowerRequestBody.Text" xml:space="preserve">
-    <value>Je wordt nu gevolgd door {0}</value>
+  <data name="AddFollowerRequestBody.Text" xml:space="preserve">
+    <value>Je wordt nu gevolgd door {0}</value>
   </data>
-  <data name="AddFollowerRequestSubject.Text" xml:space="preserve">
-    <value>{0} volgt je nu</value>
+  <data name="AddFollowerRequestSubject.Text" xml:space="preserve">
+    <value>{0} volgt je nu</value>
   </data>
-  <data name="AddFriendRequestBody.Text" xml:space="preserve">
-    <value>{0} wil vrienden worden met jou</value>
+  <data name="AddFriendRequestBody.Text" xml:space="preserve">
+    <value>{0} wil vrienden worden met jou</value>
   </data>
-  <data name="AddFriendRequestSubject.Text" xml:space="preserve">
-    <value>{0} wil vrienden worden</value>
+  <data name="AddFriendRequestSubject.Text" xml:space="preserve">
+    <value>{0} wil vrienden worden</value>
   </data>
-  <data name="ApplicationUpgrades.Text" xml:space="preserve">
-    <value>Applicatie upgrades</value>
+  <data name="ApplicationUpgrades.Text" xml:space="preserve">
+    <value>Applicatie upgrades</value>
   </data>
-  <data name="AspNetHostingPermission.Text" xml:space="preserve">
-    <value>Deze bestandsextensie vereist Full Trust.</value>
-  </data>
-  <data name="Authentication.String" xml:space="preserve">
-    <value>Authenticatie</value>
-  </data>
-  <data name="BannerType.Banner.String" xml:space="preserve">
-    <value>Banner</value>
-  </data>
-  <data name="BannerType.Block.String" xml:space="preserve">
-    <value>Blok</value>
-  </data>
-  <data name="BannerType.Button.String" xml:space="preserve">
-    <value>Knop</value>
-  </data>
-  <data name="BannerType.MicroButton.String" xml:space="preserve">
-    <value>Microknop</value>
-  </data>
-  <data name="BannerType.Script.String" xml:space="preserve">
-    <value>Script</value>
-  </data>
-  <data name="BannerType.Skyscraper.String" xml:space="preserve">
-    <value>Wolkenkrabber</value>
-  </data>
-  <data name="BannerType.Text.String" xml:space="preserve">
-    <value>Tekst</value>
-  </data>
-  <data name="Browse Folder.Permission" xml:space="preserve">
-    <value>Bladeren door bestanden in map</value>
-  </data>
-  <data name="Can Deploy.Permission" xml:space="preserve">
-    <value>Module inzetten</value>
-  </data>
-  <data name="cc_dismiss.Text" xml:space="preserve">
-    <value>Begrepen!</value>
-  </data>
-  <data name="cc_link.Text" xml:space="preserve">
-    <value>Meer informatie</value>
-  </data>
-  <data name="cc_message.Text" xml:space="preserve">
-    <value>Deze website gebruikt cookies voor de best mogelijke gebruikerservaring.</value>
-  </data>
-  <data name="ClearCache.Action" xml:space="preserve">
-    <value>Verversen</value>
-  </data>
-  <data name="CustomUrlPathCleaned.Error" xml:space="preserve">
-    <value>De ingevoerde pagina-URL bevat tekens die niet in een URL mogen worden gebruikt of die ongeldig zijn voor een URL. Deze tekens zijn verwijderd. Klik nogmaals op de knop 'Bijwerken' om de gewijzigde URL te accepteren.&lt;br&gt;[OPMERKING: De lijst met ongeldige tekens is als volgt: &lt;&gt;\?:&amp;=+|%# ]</value>
-  </data>
-  <data name="DefaultStopwordGroup.Text" xml:space="preserve">
-    <value>en,zijn,maar,voor,in,niet,zoals,dat,de,hun,dan,daar,deze,dit,was,zal,met</value>
-  </data>
-  <data name="DefaultSynonymGroup.Text" xml:space="preserve">
-    <value>dnn,dotnetnuke</value>
-  </data>
-  <data name="DeleteModule.Action" xml:space="preserve">
-    <value>Verwijderen</value>
-  </data>
-  <data name="DeLocalize.Action" xml:space="preserve">
-    <value>Vertaling ongedaan maken</value>
-  </data>
-  <data name="DraggingHintText.Text" xml:space="preserve">
-    <value>Beweeg de muis over de dropzone.</value>
-  </data>
-  <data name="DragModuleHint.Text" xml:space="preserve">
-    <value>Versleep deze module naar een nieuwe locatie</value>
-  </data>
-  <data name="DropModuleHint.Text" xml:space="preserve">
-    <value>Laat de muisknop los om de module hier te plaatsen.</value>
-  </data>
-  <data name="DropModuleTarget.Text" xml:space="preserve">
-    <value>Plaats module hier</value>
-  </data>
-  <data name="Edit Tab.Permission" xml:space="preserve">
-    <value>Pagina bewerken</value>
-  </data>
-  <data name="Edit.Permission" xml:space="preserve">
-    <value>Module bewerken</value>
-  </data>
-  <data name="EMAIL_AFFILIATE_NOTIFICATION_BODY.Text" xml:space="preserve">
-    <value>Beste [Custom:0],
-
-Je account voor het [Portal:PortalName] partnerprogramma is aangemaakt.
-Gebruik de volgende URL om te linken naar onze site:
-
-[Custom:1]
-Hartelijk dank,
-
-[Portal:PortalName]</value>
-  </data>
-  <data name="EMAIL_AFFILIATE_NOTIFICATION_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Affiliatie bevestiging</value>
-  </data>
-  <data name="EMAIL_BANNER_NOTIFICATION_BODY.Text" xml:space="preserve">
-    <value>Banner: [Custom:0]
-Omschrijving: [Custom:1]
-Afbeelding: [Custom:2]
-CPM/Kosten: [Custom:3]
-Aantal weergaves: [Custom:4]
-Startdatum: [Custom:5]
-Einddatum: [Custom:6]
-Aantal keer bekeken: [Custom:7]
-Aantal doorkliks: [Custom:8]</value>
-  </data>
-  <data name="EMAIL_BANNER_NOTIFICATION_SUBJECT.Text" xml:space="preserve">
-    <value>[Custom:0]</value>
-  </data>
-  <data name="EMAIL_BODY_FORMAT.Text" xml:space="preserve">
-    <value>Onderwerp: {0}
-    
-{1}
-
-Gelieve deze e-mail niet te beantwoorden.</value>
-  </data>
-  <data name="EMAIL_BulkMailConf_Html_Body.Text" xml:space="preserve">
-    <value>&amp;lt;h1&amp;gt;Nieuwsbrief verzendrapport&amp;lt;/h1&amp;gt;
-    Verzenden gestart op: [Custom:0]&amp;lt;br /&amp;gt;
-    Aantal ontvangers: [Custom:1]&amp;lt;br /&amp;gt;
-    E-mailberichten: [Custom:2]&amp;lt;br /&amp;gt;
-    Verzenden compleet op: [Custom:3]&amp;lt;br /&amp;gt;
-    [Custom:4|Aantal fouten: {0}&amp;lt;br /&amp;gt;]
-    &amp;lt;br /&amp;gt;
-    Status Report: &amp;lt;br /&amp;gt;
-           &amp;lt;pre&amp;gt;[Custom:5]&amp;lt;/pre&amp;gt;
-    [Custom:6|&amp;lt;hr /&amp;gt;&amp;lt;strong&amp;gt;Ontvangers:&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;{0}]</value>
-  </data>
-  <data name="EMAIL_BulkMailConf_Subject.Text" xml:space="preserve">
-    <value>Nieuwsbrief verzendrapport voor '{0}'.</value>
-  </data>
-  <data name="EMAIL_BulkMailConf_Text_Body.Text" xml:space="preserve">
-    <value>Verzenden gestart op:       [Custom:0]
-Aantal ontvangers:          [Custom:1]
-Email berichten:            [Custom:2]
-Verzenden compleet op:      [Custom:3]
-
-[Custom:4|Aantal fouten:    {0}
-]Status Report:
-[Custom:5]
---------------------------------
-[Custom:6|Ontvangers:
-===========
-{0}]</value>
-  </data>
-  <data name="EMAIL_BulkMailStart_Body.Text" xml:space="preserve">
-    <value>Gebruiker {1} heeft bulkmail '{0}' ingediend gericht aan {2} ontvangers. Lees het verzendrapport voor mislukte berichten en de afzenders in de inbox voor teruggekomen berichten.</value>
-  </data>
-  <data name="EMAIL_BulkMailStart_Subject.Text" xml:space="preserve">
-    <value>Bulkmail '{0}' ingediend</value>
-  </data>
-  <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text" xml:space="preserve">
-    <value>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
-&lt;html xmlns="https://www.w3.org/1999/xhtml"&gt;
-&lt;head&gt;
-    &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&gt;
-    &lt;style type="text/css"&gt;
-            /* Reset Styles */
-        html, body{height:100%;width:100%;}
-        body{
-            margin:0; padding:0;
-            font-family:sans-serif;
-            font-size:0.83em;
-            color:#333;
-        }
-        img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
-        table td{border-collapse:collapse;}
-        p{margin: 0 0 1.6em 0;}
-        a{color:#417CD3;}
-        #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
-        body{ background-color:#fafafa; }
-
-        #templateContainer{
-            border: 1px solid #eeeeee;
-            box-shadow: 0px 0px 3px 0px #eee;
-        }
-
-            /* Pre Header Styles */
-        .preheaderContent{
-            padding:15px 0 5px 0;
-            font-size:0.9em;
-            color:#999;
-        }
-        .headerContent {background-color:#bbb;}
-        .headerContent a{display:block;}
-        .headerContent img{ margin-bottom:0;}
-
-            /* Sub Header Styles */
-        #templateSubHeader{ color:#ffffff; }
-        #templateSubHeader td{ padding:5px 20px; }
-
-            /* Template Footer Styles */
-        .footerContent table td{
-            padding-top:20px;
-            border-top:1px solid #ddd;
-            font-size:0.8em;
-        }
-
-            /* Body Template Footer Styles */
-        #bodyTemplateFooter{
-            padding:15px 0 5px 0;
-            font-size:0.9em;
-            color:#999;
-        }
-    &lt;/style&gt;
-&lt;/head&gt;
-
-&lt;body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"&gt;
-&lt;table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" id="backgroundTable"&gt;
-    &lt;tr&gt;
-        &lt;td align="center" valign="top"&gt;
-            &lt;!-- // Begin Template Preheader \\ --&gt;
-            &lt;table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="600"&gt;
-                &lt;tr align="right"&gt;
-                    &lt;td valign="top" class="preheaderContent" style="border-top:5px solid #417CD3;"&gt;
-
-                        &lt;!-- // Begin Module: Standard Preheader \ --&gt;
-                        &lt;table border="0" cellpadding="0" cellspacing="0" &gt;
-                            &lt;tr&gt;
-                                &lt;td align="right"&gt;
-                                    &lt;p&gt;Problemen met de weergave? &lt;a href="[NOTIFICATIONURL]"&gt;&lt;span&gt;Klik hier om het bericht online te bekijken.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-                                &lt;/td&gt;
-                            &lt;/tr&gt;
-                        &lt;/table&gt;
-                        &lt;!-- // End Module: Standard Preheader \ --&gt;
-                    &lt;/td&gt;
-                &lt;/tr&gt;
-            &lt;/table&gt;
-            &lt;!-- // End Template Preheader \\ --&gt;
-            &lt;!-- // Begin Template body \\ --&gt;
-            &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border:1px solid #eeeeee; " &gt;
-                &lt;tr &gt;
-                    &lt;td align="center" valign="top"&gt;
-                        &lt;!-- // Begin Template Header \\ --&gt;
-                        &lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateHeader"&gt;
-                            &lt;tr&gt;
-                                &lt;td class="headerContent"&gt;
-                                    &lt;a href="[SITEURL]"&gt;
-                                        &lt;!--&lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" /&gt;--&gt;
-                                        &lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" width="200" /&gt;
-                                    &lt;/a&gt;
-
-                                &lt;/td&gt;
-                            &lt;/tr&gt;
-                        &lt;/table&gt;
-                        &lt;!-- // End Template Header \\ --&gt;
-                    &lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr &gt;
-                    &lt;td align="center" valign="top"&gt;
-                        &lt;!-- // Begin Template Sub Header \\ --&gt;
-                        &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateSubHeader"&gt;
-                            &lt;tr&gt;
-                                &lt;td class="subHeaderContent" bgcolor="#417CD3" width="66%" align="left"&gt;
-                                    &lt;h2 style="color:#fff; font-weight:100; font-size:24px;"&gt;Notificaties&lt;/h2&gt;
-                                &lt;/td&gt;&lt;!--close subHeaderContent--&gt;
-                                &lt;td width="33%" bgcolor="#417CD3" align="right"&gt;
-                                    &lt;p style="color:#fff;"&gt;&lt;/p&gt;
-                                &lt;/td&gt;
-                            &lt;/tr&gt;
-                        &lt;/table&gt;
-                        &lt;!-- // End Template Sub Header \\ --&gt;
-                    &lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td align="center" valign="top" bgcolor="#ffffff"&gt;
-                        &lt;!-- // Begin Template Body \\ --&gt;
-                        &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody"&gt;
-                            &lt;tr&gt;
-                                &lt;td valign="top" class="bodyContent"&gt;
-                                    &lt;!-- // Begin Module: Standard Content \\ --&gt;
-                                    &lt;table border="0" cellpadding="30" cellspacing="0" width="100%"&gt;
-                                        &lt;tr&gt;
-                                            &lt;td valign="top"&gt;
-                                                [MESSAGEBODY]
-                                            &lt;/td&gt;
-                                        &lt;/tr&gt;
-                                    &lt;/table&gt;
-                                    &lt;!-- // End Module: Standard Content \\ --&gt;
-                                &lt;/td&gt;
-                            &lt;/tr&gt;
-                        &lt;/table&gt;
-                        &lt;!-- // End Template Body \\ --&gt;
-                    &lt;/td&gt;
-                &lt;/tr&gt;
-                &lt;tr&gt;
-                    &lt;td align="center" valign="top"&gt;
-                        &lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateFooter"&gt;
-                            &lt;tr&gt;
-                                &lt;td valign="top" class="footerContent"&gt;
-                                    &lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
-                                        &lt;tr&gt;
-                                            &lt;td align="center"&gt;
-                                                &lt;a href="[UNSUBSCRIBEURL]" &gt; Beheer je lidmaatschappen&lt;/a&gt; &amp;nbsp; |  &amp;nbsp;&lt;a href="[NOTIFICATIONURL]" &gt; Online bekijken&lt;/a&gt;
-                                            &lt;/td&gt;
-                                        &lt;/tr&gt;
-                                    &lt;/table&gt;
-                                &lt;/td&gt;
-                            &lt;/tr&gt;
-                        &lt;/table&gt;
-                    &lt;/td&gt;
-                &lt;/tr&gt;
-            &lt;/table&gt;&lt;!-- // End Template Body \\ --&gt;
-            &lt;!-- // Begin Template footer \\ --&gt;
-            &lt;table border="0" cellpadding="0" cellspacing="0" id="bodyTemplateFooter" width="600"&gt;
-                &lt;tr&gt;
-                    &lt;td valign="top" class="bodyFooterContent"&gt;
-
-                        &lt;!-- // Begin Module: Standard Preheader \ --&gt;
-                        &lt;table border="0" cellpadding="0" cellspacing="0" align="center" &gt;
-
-                            &lt;tr&gt;
-                                &lt;td align="center"&gt;
-                                    &lt;p&gt;Copyright [Year] &lt;a href="[SITEURL]"&gt;[PORTALNAME]&lt;/a&gt; Alle rechten voorbehouden.&lt;/p&gt;
-                                    &lt;p&gt;Wanneer je in de toekomst geen e-mails meer wilt ontvangen, dan kun je hier &lt;a href="[UNSUBSCRIBEURL]"&gt;uitschrijven&lt;/a&gt;.&lt;/p&gt;
-                                &lt;/td&gt;
-                            &lt;/tr&gt;
-                        &lt;/table&gt;
-                        &lt;!-- // End Module: Standard Preheader \ --&gt;
-                    &lt;/td&gt;
-                &lt;/tr&gt;
-            &lt;/table&gt;
-            &lt;!-- // End Template footer \\ --&gt;
-        &lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;&lt;!-- wrapper table --&gt;
-&lt;/body&gt;
-&lt;/html&gt;</value>
-  </data>
-  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" xml:space="preserve">
-    <value>&lt;div style="width:100%;"&gt;&lt;h5&gt;[TITLE]&lt;/h5&gt;&lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&gt;
-    &lt;tr&gt;
-        &lt;td&gt;
-            &lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
-                &lt;tr&gt;
-                    &lt;td&gt;&lt;a href="[PROFILEURL]"&gt;&lt;img src="[PROFILEPICURL]" /&gt;&lt;/a&gt;&lt;br/&gt;[DISPLAYNAME]&lt;/td&gt;
-                &lt;/tr&gt;
-            &lt;/table&gt;
-            &lt;table width="350" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
-                &lt;tr&gt;
-                    &lt;td&gt;[CONTENT][FRIENDREQUESTACTIONS][FOLLOWREQUESTACTIONS]&lt;/td&gt;
-                &lt;/tr&gt;
-            &lt;/table&gt;
-        &lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;&lt;/div&gt;</value>
-  </data>
-  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" xml:space="preserve">
-    <value>Beste [Profile:DisplayName],
-
-Je hebt een wachtwoordherstel aangevraagd van de [Portal:PortalName] website.
-
-Website Addres: [Portal:URL]
-Gebruikersnaam: [User:Username]
-
-Link naar de wachtwoord reset pagina:  [Portal:PASSWORDREMINDERURL]?ctl=PasswordReset&amp;amp;resetToken=[Membership:PasswordResetToken]
-
-Met vriendelijke groet,
-[Portal:PortalName]
-
-*NB: Als je geen wachtwoordherstel hebt aangevraagd, dan kun je dit bericht negeren.</value>
-  </data>
-  <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Wachtwoord opvragen</value>
-  </data>
-  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
-
-Je hebt een wachtwoord-resetlink aangevraagd van [Portal:PortalName]. Je account staat klaar voor goedkeuring.
-
-Het wachtwoord kan worden gereset nadat het account is goedgekeurd.
-
-Met vriendelijk groet,
-[Portal:PortalName]
-
-*Opmerking: Als je geen wachtwoord reset link hebt aangevraagd, verwijder dan dit bericht.</value>
-  </data>
-  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] wachtwoordherinnering</value>
-  </data>
-  <data name="EMAIL_PASSWORD_UPDATED_BODY.Text" xml:space="preserve">
-    <value>Geachte [User:DisplayName], 
-	
-	Je wachtwoord voor [Portal:PortalName] is gewijzigd. 
-	
-	Neem contact op met de sitebeheerder op het volgende e-mailadres - [Portal:Email]
-	
-	Met vriendelijke groet,
-[Portal:PortalName]</value>
-  </data>
-  <data name="EMAIL_PASSWORD_UPDATED_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Wachtwoord bijgewerkt</value>
-  </data>
-  <data name="EMAIL_PORTAL_SIGNUP_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
-
-Je site is aangemaakt. Lees alstublieft de volgend informatie zorgvuldig door, en archiveer dit bericht voor eventueel toekomstig gebruik.
-
-Website Adres: [Portal:URL]
-Gebruikersnaam: [Membership:UserName]
-Wachtwoord: [Membership:Password]
-Verificatiecode: [User:VerificationCode]
-
-Maak gebruik van de gelegenheid om de site nu te bezoeken en maak zo goed mogelijk gebruik van de mogelijkheden!
-
-Dank voor het gebruik van onze diensten
-
-[Host:HostTitle]
-</value>
-  </data>
-  <data name="EMAIL_PORTAL_SIGNUP_SUBJECT.Text" xml:space="preserve">
-    <value>[Host:HostTitle] Aanmelding Demo website</value>
-  </data>
-  <data name="EMAIL_PROFILE_UPDATED_BODY.Text" xml:space="preserve">
-    <value>Beste [Profile:DisplayName],
-
-Je profiel voor  de [Portal:PortalName] site is succesvol bijgewerkt.
-
-Met vriendelijke groet,
-[Portal:PortalName]
-</value>
-  </data>
-  <data name="EMAIL_PROFILE_UPDATED_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Profiel bijgewerkt</value>
-  </data>
-  <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
-
-De toegangsrollen van je gebruikersaccount voor de [Portal:PortalName] website zijn recentelijk aangepast, en bevat nu ook deze rol:
-
-Rol: [Custom:0]
-Beschrijving: [Custom:1]
-Ingangsdatum: [Custom:2]
-Verloopdatum: [Custom:3]
-
-Dank voor het in ons gestelde vertrouwen,
-[Portal:PortalName]
-</value>
-  </data>
-  <data name="EMAIL_ROLE_ASSIGNMENT_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Gebruikersaccount aangepast</value>
-  </data>
-  <data name="EMAIL_ROLE_UNASSIGNMENT_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
-
-De toegang van je gebruikersaccount voor de [Portal:PortalName] site is recentelijk aangepast, en bevat nu NIET meer deze rol:
-
-Rol: [Custom:0]
-Beschrijving: [Custom:1]
-Dank je voor het in ons gestelde vertrouwen,
-[Portal:PortalName]
-
-Dank voor het in ons gestelde vertrouwen,
-[Portal:PortalName]</value>
-  </data>
-  <data name="EMAIL_ROLE_UNASSIGNMENT_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Gebruikersaccount aangepast</value>
-  </data>
-  <data name="EMAIL_ROLE_UPDATE_BODY.Text" xml:space="preserve">
-    <value>Geachte [User:DisplayName],
-
-Je account bij [Portal:PortalName] is recent bijgewerkt. De toegang tot de volgende rol is aangepast:
-
-Rol: [Custom:0]
-Beschrijving: [Custom:1]
-Datum Ingang: [Custom:2]
-Datum Verlopen: [Custom:3]
-
-Dank voor het in ons gestelde vertrouwen,
-[Portal:PortalName]
-</value>
-  </data>
-  <data name="EMAIL_ROLE_UPDATE_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Gebruikersaccount bijgewerkt</value>
-  </data>
-  <data name="EMAIL_SMTP_TEST_SUBJECT.Text" xml:space="preserve">
-    <value>[Host:HostTitle] SMTP Configuratietest</value>
-  </data>
-  <data name="EMAIL_SOCIAL_FOLLOWREQUESTACTIONS.Text" xml:space="preserve">
-    <value>&lt;p&gt;&lt;a href="{0}"&gt;Terug volgen&lt;/a&gt; | &lt;a href="{1}"&gt;Profiel bekijken&lt;/a&gt;&lt;/p&gt;</value>
-  </data>
-  <data name="EMAIL_SOCIAL_FRIENDREQUESTACTIONS.Text" xml:space="preserve">
-    <value>&lt;p&gt;&lt;a href="{0}"&gt;Accepteren&lt;/a&gt; | &lt;a href="{1}"&gt;Profiel bekijken&lt;/a&gt;&lt;/p&gt;</value>
-  </data>
-  <data name="EMAIL_SUBJECT_FORMAT.Text" xml:space="preserve">
-    <value>Nieuw bericht van {0}</value>
-  </data>
-  <data name="EMAIL_USER_AUTHORIZED_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName], 
-
-Bedankt voor je registratie op [Portal:PortalName]. Je registratie is goedgekeurd en je account is nu actief. 
-
-Website Adres:  [Portal:URL] 
-Gebruikersnaam:  [User:UserName] 
-
-Dank voor het in ons gestelde vertrouwen,
-
-[Portal:PortalName]</value>
-  </data>
-  <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" xml:space="preserve">
-    <value>Registratie is goedgekeurd voor [Portal:URL]</value>
-  </data>
-  <data name="EMAIL_USER_LOCKOUT_BODY.Text" xml:space="preserve">
-    <value>Er is een poging gedaan om met een afgesloten gebruikersaccount in te loggen (gebruikersnaam: [Custom:0]) op [Date:Current]. 
-
-Wellicht wil je dit verder onderzoeken...
-
-Met vriendelijke groet,
-
-[Portal:PortalName]</value>
-  </data>
-  <data name="EMAIL_USER_LOCKOUT_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] - Gebruikersaccount afgesloten</value>
-  </data>
-  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_BODY.Text" xml:space="preserve">
-    <value>Datum: [Date:Current]
-Weergavenaam: [User:DisplayName]
-Email: [User:Email]</value>
-  </data>
-  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] - Nieuwe gebruikersregistratie</value>
-  </data>
-  <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
-
-Dank voor je registratie voor de [Portal:PortalName] website. Lees de volgende informatie aandachtig en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
-
-Website Adres: [Portal:URL]
-Gebruikersnaam: [User:UserName]
-
-Je accountgegevens zullen worden gecontroleerd door de sitebeheerder, je ontvangt een bericht als je account geactiveerd is.
-
-Dank voor het in ons gestelde vertrouwen,
-[Portal:PortalName]
-</value>
-  </data>
-  <data name="EMAIL_USER_REGISTRATION_PRIVATE_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] - Nieuwe gebruikersregistratie</value>
-  </data>
-  <data name="EMAIL_USER_REGISTRATION_PUBLIC_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
-
-Je bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
-
-Website Adres: [Portal:URL]
-Gebruikersnaam: [User:UserName]
-
-Je bent van harte welkom!
-
-Dank voor het in ons gestelde vertrouwen,
-[Portal:PortalName]</value>
-  </data>
-  <data name="EMAIL_USER_REGISTRATION_PUBLIC_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] - Nieuwe gebruikersregistratie</value>
-  </data>
-  <data name="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
-
-Je bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
-
-Website Adres: [Portal:URL]
-Gebruikersnaam: [Membership:UserName]
-Wachtwoord: [Membership:Password]
-Verificatiecode: [User:VerificationCode]
-
-Je kunt de volgende link gebruiken om de registratie af te ronden: 
-
-https://[Portal:URL]/default.aspx?ctl=Login&amp;amp;username=[Membership:UserName]&amp;amp;verificationcode=[User:VerificationCode]
-
-Je bent van harte welkom!
-
-Dank voor het in ons gestelde vertrouwen,
-[Portal:PortalName]</value>
-  </data>
-  <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Nieuwe gebruikersregistratie</value>
-  </data>
-  <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
-
-Je account voor [Portal:PortalName] is niet meer geautoriseerd.
-
-Website Adres: [Portal:URL]
-Gebruikersnaam: [User:UserName]
-
-Mocht je vragen hebben, neem contact op met de websitebeheerder via [Portal:Email]
-
-Met vriendelijke groet,
-[Portal:PortalName]</value>
-  </data>
-  <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" xml:space="preserve">
-    <value>Je account is niet langer geautoriseerd voor [Portal:URL]</value>
-  </data>
-  <data name="EMAIL_USER_UNREGISTER_BODY.Text" xml:space="preserve">
-    <value>Datum: [Date:Current]
-Voornaam: [Profile:FirstName]
-Achternaam: [Profile:LastName]
-Straat: [Profile:Street]
-Huisnummer: [Profile:Unit]
-Postcode: [Profile:PostalCode]
-Plaats: [Profile:City]
-Regio/Provincie: [Profile:Region]
-Land: [Profile:Country]
-Telefoon: [Profile:Telephone]
-E-mail: [Membership:Email]
-</value>
-  </data>
-  <data name="EMAIL_USER_UNREGISTER_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Gebruikersregistratie geannuleerd</value>
-  </data>
-  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_BODY.Text" xml:space="preserve">
-    <value>Beste [User:DisplayName],
-
-Je hebt je wachtwoord gewijzigd op [Portal:PortalName].
-
-Gebruik de volgende informatie om in te loggen:
-
-Website Adres: [Portal:URL]
-Naam Gebruiker :   [User:Username]
-
-Met vriendelijke groet,
-[Portal:PortalName]</value>
-  </data>
-  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Wachtwoord bijgewerkt</value>
-  </data>
-  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_BODY.Text" xml:space="preserve">
-    <value>Datum: [Custom:0]
-Naam Verkoper: [Custom:1]
-Voornaam: [Custom:2]
-Achternaam: [Custom:3]
-Straat: [Custom:5]
-Huisnummer: [Custom:4]
-Postcode: [Custom:9]
-Plaats: [Custom:6]
-Regio: [Custom:7]
-Land: [Custom:8]
-Telefoon: [Custom:10]
-Fax: [Custom:11]
-GSM: [Custom:12]
-E-mail: [Custom:13]
-Website: [Custom:14]</value>
-  </data>
-  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Aanmelding voor verkoper</value>
-  </data>
-  <data name="EMAIL_VENDOR_REGISTRATION_BODY.Text" xml:space="preserve">
-    <value>Beste [Custom:0] [Custom:1],
-
-Je bedrijf is succesvol geregistreerd bij de [Portal:PortalName] website.
-
-Met vriendelijke groet,
-
-[Portal.PortalName]</value>
-  </data>
-  <data name="EMAIL_VENDOR_REGISTRATION_SUBJECT.Text" xml:space="preserve">
-    <value>[Portal:PortalName] Aanmelding voor verkoper</value>
-  </data>
-  <data name="EnglishName.Text" xml:space="preserve">
-    <value>Engelse naam</value>
-  </data>
-  <data name="Error.Text" xml:space="preserve">
-    <value>Er is een fout opgetreden.</value>
-  </data>
-  <data name="ExecutingScript.Text" xml:space="preserve">
-    <value>Script uitvoeren</value>
-  </data>
-  <data name="ExportModule.Action" xml:space="preserve">
-    <value>Inhoud exporteren</value>
-  </data>
-  <data name="GeneralUpgrades.Text" xml:space="preserve">
-    <value>Uitvoeren van algemene upgrades</value>
-  </data>
-  <data name="ImportModule.Action" xml:space="preserve">
-    <value>Inhoud importeren</value>
-  </data>
-  <data name="License.Text" xml:space="preserve">
-    <value>&lt;h2&gt;The MIT License (MIT)&lt;/h2&gt;
-
-&lt;h3&gt;Copyright (c) .NET Foundation en bijdragers&lt;/h3&gt;
-&lt;p&gt;Alle rechten voorbehouden&lt;/p&gt;
-
-&lt;p&gt;Hierbij wordt gratis toestemming verleend aan iedereen die een kopie 
-van deze software en bijbehorende documentatiebestanden (de "Software") verkrijgt, 
-om zonder beperking met de Software om te gaan, 
-inclusief maar niet beperkt tot de rechten om de Software te gebruiken, 
-kopiëren, wijzigen, samenvoegen, publiceren, distribueren, sublicentiëren en/of verkopen, 
-en om personen aan wie de Software wordt geleverd toe te staan dit te doen, 
-onder de volgende voorwaarden:&lt;/p&gt;
-
-&lt;p&gt;De bovenstaande copyrightvermelding en deze toestemmingsverklaring moeten in alle
-kopieën of substantiële delen van de Software worden opgenomen.&lt;/p&gt;
-
-&lt;p&gt;DE SOFTWARE WORDT GELEVERD "AS IS", ZONDER ENIGE GARANTIE VAN ENIGE SOORT, EXPRES OF
-IMPLIED, INCLUSIEF MAAR NIET BEPERKT TOT DE GARANTIES VAN VERKOOPBAARHEID,
-GESCHIKTHEID VOOR EEN BEPAALD DOEL EN INBREUK. IN GEEN GEVAL ZULLEN DE
-AUTEURS OF AUTEURSRECHTHOUDERS AANSPRAKELIJK ZIJN VOOR ENIGE CLAIM, SCHADE OF ANDERE
-AANSPRAKELIJKHEID, HETZIJ IN EEN ACTIE VAN CONTRACT, ONRECHTMATIGE DAAD OF ANDERSZINS, DIE VOORTVLOEIT UIT,
-UIT OF IN VERBAND MET DE SOFTWARE OF HET GEBRUIK OF ANDERE HANDELINGEN IN DE
-SOFTWARE.&lt;/p&gt;</value>
-  </data>
-  <data name="Localize.Action" xml:space="preserve">
-    <value>Vertalen</value>
-  </data>
-  <data name="LogClicks.Text" xml:space="preserve">
-    <value>Aanmelden van de gebruiker, de datum en de tijd voor elke klik</value>
-  </data>
-  <data name="LogEnd.Text" xml:space="preserve">
-    <value>Einde</value>
-  </data>
-  <data name="LogStart.Text" xml:space="preserve">
-    <value>Start</value>
-  </data>
-  <data name="Manage.Text" xml:space="preserve">
-    <value>Beheren</value>
-  </data>
-  <data name="MESSAGE_PORTAL_PRIVACY.Text" xml:space="preserve">
-    <value>&lt;div align="left"&gt;
-        &lt;p&gt;[Portal:PortalName] zet zich in voor het beschermen van je privacy en het ontwikkelen van technologie
-        die je de meest krachtige en veilige online ervaring biedt. Deze privacyverklaring
-        is van toepassing op de [Portal:PortalName] site en regelt het verzamelen en gebruik van gegevens.
-        Door gebruik te maken van de [Portal:PortalName] site, ga je akkoord met de gegevensverwerking zoals
-        beschreven in deze verklaring.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;Verzameling van je persoonlijke informatie&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] verzamelt persoonlijk identificeerbare informatie, 
-        zoals je e-mailadres, naam, huis- of werkadres of telefoonnummer. 
-        [Portal:PortalName] verzamelt ook anonieme demografische informatie, die niet uniek is voor jou, 
-        zoals je postcode, leeftijd, geslacht, voorkeuren, interesses en favorieten.&lt;/p&gt;
-        &lt;p&gt;Er is ook informatie over je computerhardware en -software die automatisch
-        wordt verzameld door [Portal:PortalName]. Deze informatie kan omvatten: je IP-adres,
-        browsertype, domeinnamen, toegangstijden en verwijzende website-adressen. Deze
-        informatie wordt door [Portal:PortalName] gebruikt voor de werking van de service, om
-        de kwaliteit van de service te waarborgen en om algemene statistieken over het gebruik
-        van de [Portal:PortalName] site.&lt;/p&gt;
-        &lt;p&gt;Houd er rekening mee dat als je persoonlijk identificeerbare informatie
-        of persoonlijk gevoelige gegevens openbaar maakt via [Portal:PortalName] openbare
-        message boards, deze informatie door anderen kan worden verzameld en gebruikt. Opmerking: [Portal:PortalName]
-        leest geen van je privé online communicatie.&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] moedigt je aan om de privacyverklaringen van websites
-        die je kiest om naar te linken vanuit [Portal:PortalName] te bekijken, zodat je kunt begrijpen hoe die
-        websites je informatie verzamelen, gebruiken en delen. [Portal:PortalName] is niet verantwoordelijk
-        voor de privacyverklaringen of andere inhoud op websites buiten de [Portal:PortalName]
-        en [Portal:PortalName] familie van websites.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;Gebruik van je Persoonlijke Informatie&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] verzamelt en gebruikt je persoonlijke informatie om de [Portal:PortalName]
-        website te beheren en de diensten te leveren die je hebt aangevraagd. [Portal:PortalName] gebruikt ook
-        je persoonlijk identificeerbare informatie om je te informeren over andere producten of diensten
-        die beschikbaar zijn van [Portal:PortalName] en zijn gelieerde ondernemingen. [Portal:PortalName] kan ook
-        contact met je opnemen via enquêtes om onderzoek te doen naar je mening over huidige diensten
-        of over potentiële nieuwe diensten die mogelijk worden aangeboden.&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] verkoopt, verhuurt of leaset zijn klantenlijsten niet aan derden.
-        [Portal:PortalName] kan je af en toe contacteren namens externe zakelijke
-        partners over een bepaalde aanbieding die mogelijk interessant voor je is. In die gevallen
-        wordt je unieke persoonlijk identificeerbare informatie (e-mail, naam, adres, telefoonnummer)
-        niet overgedragen aan de derde partij. Bovendien kan [Portal:PortalName]
-        gegevens delen met vertrouwde partners om ons te helpen bij het uitvoeren van statistische analyses, je
-        e-mail of post te sturen, klantenondersteuning te bieden of leveringen te regelen. Al deze
-        derden zijn verboden om je persoonlijke informatie te gebruiken, behalve om
-        deze diensten aan [Portal:PortalName] te verlenen, en zij zijn verplicht om de
-        vertrouwelijkheid van je informatie te waarborgen.&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] gebruikt of onthult geen gevoelige persoonlijke informatie, zoals
-        ras, religie of politieke overtuigingen, zonder jouw expliciete toestemming.&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] houdt bij welke websites en pagina's onze klanten bezoeken binnen
-        [Portal:PortalName], om te bepalen welke [Portal:PortalName] diensten het populairst zijn.
-        Deze gegevens worden gebruikt om gepersonaliseerde inhoud en advertenties te leveren
-        binnen [Portal:PortalName] aan klanten wiens gedrag aangeeft dat ze geïnteresseerd zijn
-        in een bepaald onderwerp.&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] Web sites zullen je persoonlijke informatie, zonder kennisgeving,
-        alleen vrijgeven indien dit wettelijk vereist is of te goeder trouw wordt geloofd dat een dergelijke actie
-        noodzakelijk is om: (a) te voldoen aan de bepalingen van de wet of te voldoen aan juridische procedures
-        die zijn ingediend tegen [Portal:PortalName] of de site; (b) de rechten of
-        eigendommen van [Portal:PortalName] te beschermen en te verdedigen; en, (c) te handelen onder dringende omstandigheden om
-        de persoonlijke veiligheid van gebruikers van [Portal:PortalName], of het publiek, te beschermen.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;Gebruik van Cookies&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;De [Portal:PortalName] website maakt gebruik van "cookies" om je online
-        ervaring te personaliseren. Een cookie is een tekstbestand dat op je harde schijf wordt geplaatst door een webpagina
-        server. Cookies kunnen niet worden gebruikt om programma's uit te voeren of virussen naar je computer te verzenden.
-        Cookies zijn uniek aan jou toegewezen en kunnen alleen worden gelezen door een webserver in het domein dat de cookie aan jou heeft uitgegeven.&lt;/p&gt;
-        &lt;p&gt;Een van de belangrijkste doeleinden van cookies is om een gebruiksgemak functie te bieden om
-        je tijd te besparen. Het doel van een cookie is om de webserver te vertellen dat je bent teruggekeerd
-        naar een specifieke pagina. Bijvoorbeeld, als je [Portal:PortalName] pagina's personaliseert, of
-        je registreert bij [Portal:PortalName] site of diensten, helpt een cookie [Portal:PortalName]
-        om je specifieke informatie bij volgende bezoeken te onthouden. Dit vereenvoudigt het proces
-        van het vastleggen van je persoonlijke informatie, zoals factuuradressen, verzendadressen,
-        enzovoort. Wanneer je terugkeert naar dezelfde [Portal:PortalName] website, kan de informatie
-        die je eerder hebt opgegeven, worden opgehaald, zodat je eenvoudig de [Portal:PortalName]
-        functies kunt gebruiken die je hebt aangepast.&lt;/p&gt;
-        &lt;p&gt;Je hebt de mogelijkheid om cookies te accepteren of te weigeren. De meeste webbrowsers
-        accepteren automatisch cookies, maar je kunt meestal je browserinstellingen wijzigen om cookies
-        te weigeren als je dat wilt. Als je ervoor kiest om cookies te weigeren, kun je mogelijk niet
-        volledig profiteren van de interactieve functies van de [Portal:PortalName] services of
-        websites die je bezoekt.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;Beveiliging van je Persoonlijke Informatie&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] beveiligt je persoonlijke informatie tegen ongeautoriseerde toegang,
-        gebruik of openbaarmaking. [Portal:PortalName] beveiligt de persoonlijk identificeerbare informatie
-        die je op computerservers verstrekt in een gecontroleerde, veilige omgeving, beschermd tegen
-        ongeautoriseerde toegang, gebruik of openbaarmaking. Wanneer persoonlijke informatie (zoals een credit
-        cardnummer) naar andere websites wordt verzonden, wordt deze beschermd door middel van
-        encryptie, zoals het Secure Socket Layer (SSL) protocol.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;Wijzigingen in deze Verklaring&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] zal af en toe deze Privacyverklaring bijwerken om
-        feedback van klanten en bedrijven weer te geven. [Portal:PortalName] moedigt je aan om
-        deze Verklaring periodiek te bekijken om op de hoogte te blijven van hoe [Portal:PortalName] je
-        informatie beschermt.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;Contactinformatie&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] verwelkomt je opmerkingen over deze Privacyverklaring.
-        Als je gelooft dat [Portal:PortalName] zich niet aan deze Verklaring heeft gehouden, neem dan
-        contact op met [Portal:PortalName] via &lt;a href="mailto:[Portal:Email]"&gt;[Portal:Email]&lt;/a&gt;.
-        We zullen commercieel redelijke inspanningen leveren om het probleem snel te identificeren en op te lossen.&lt;/p&gt;
-    &lt;/div&gt;</value>
-  </data>
-  <data name="MESSAGE_PORTAL_TERMS.Text" xml:space="preserve">
-    <value>&lt;div align="left"&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;OVEREENKOMST TUSSEN GEBRUIKER EN [Portal:PortalName]&lt;/span&gt;&lt;p&gt;
-        &lt;p&gt;De [Portal:PortalName] website bestaat uit verschillende webpagina's die worden beheerd door [Portal:PortalName].&lt;/p&gt;
-        &lt;p&gt;De [Portal:PortalName] website wordt aan jou aangeboden op voorwaarde dat je de voorwaarden, bepalingen en kennisgevingen die hierin zijn opgenomen, zonder wijziging accepteert. 
-        Jouw gebruik van de [Portal:PortalName] website vormt jouw akkoord met al deze voorwaarden, bepalingen en kennisgevingen.&lt;p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;WIJZIGING VAN DEZE GEBRUIKSVOORWAARDEN&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] behoudt zich het recht voor om de voorwaarden, bepalingen en kennisgevingen
-        waaronder de [Portal:PortalName] website wordt aangeboden, te wijzigen, inclusief maar niet beperkt
-        tot de kosten die verbonden zijn aan het gebruik van de [Portal:PortalName] website.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;LINKS NAAR SITES VAN DERDE PARTIJEN&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;De [Portal:PortalName] website kan links bevatten naar andere websites ("gelinkte sites").
-        De gelinkte sites vallen niet onder de controle van [Portal:PortalName] en [Portal:PortalName]
-        is niet verantwoordelijk voor de inhoud van enige gelinkte site, inclusief maar niet beperkt tot
-        enige link die in een gelinkte site is opgenomen, of enige wijzigingen of updates van een gelinkte site.
-        [Portal:PortalName] is niet verantwoordelijk voor webcasting of enige andere vorm van transmissie
-        ontvangen van een gelinkte site. [Portal:PortalName] biedt deze links alleen aan als een
-        gemak, en de opname van een link impliceert geen goedkeuring door [Portal:PortalName] van de site
-        of enige associatie met de exploitanten ervan.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;GEEN ONWETTELIJK OF VERBODEN GEBRUIK&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;Als voorwaarde voor jouw gebruik van de [Portal:PortalName] website, waarborg je aan [Portal:PortalName]
-        dat je de [Portal:PortalName] website niet zult gebruiken voor enig doel dat onwettig
-        of verboden is door deze voorwaarden, bepalingen en kennisgevingen. Je mag de [Portal:PortalName]
-        website niet gebruiken op een manier die de [Portal:PortalName]
-        website zou kunnen beschadigen, uitschakelen, overbelasten of verstoren, of de gebruik en het genot van de [Portal:PortalName]
-        website door een andere partij zou kunnen verstoren. Je mag geen materialen of informatie verkrijgen of proberen te verkrijgen via
-        een wijze die niet bewust beschikbaar is gesteld of voorzien via de [Portal:PortalName]
-        websites.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;GEBRUIK VAN COMMUNICATIEDIENSTEN&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;De [Portal:PortalName] website kan bulletin board services, chatgebieden,
-        nieuwsgroepen, forums, gemeenschappen, persoonlijke webpagina's, agenda's en/of andere berichten
-        of communicatiefaciliteiten bevatten die zijn ontworpen om je in staat te stellen te communiceren met het publiek
-        in het algemeen of met een groep (gezamenlijk, "Communicatiediensten"). Je stemt ermee in
-        de Communicatiediensten alleen te gebruiken om berichten en materialen te plaatsen, verzenden en ontvangen
-        die gepast zijn en verband houden met de specifieke Communicatiedienst. Bij wijze van voorbeeld,
-        en niet als beperking, stem je ermee in dat wanneer je een Communicatiedienst gebruikt, je
-        niet zult:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Belasteren, misbruiken, lastigvallen, stalken, bedreigen of anderszins de wettelijke rechten (zoals privacy- en publiciteitsrechten) van anderen schenden.&lt;/li&gt;
-  &lt;li&gt;Ongepaste, grove, lasterlijke, inbreukmakende, obscene, onfatsoenlijke of onwettige onderwerpen, namen, materialen of informatie publiceren, plaatsen, uploaden, verspreiden of distribueren.&lt;/li&gt;
-  &lt;li&gt;Bestanden uploaden die software of ander materiaal bevatten dat beschermd is door intellectuele eigendomsrechten (of door privacy- of publiciteitsrechten), tenzij je de rechten bezit of beheert of alle benodigde toestemmingen hebt verkregen.&lt;/li&gt;
-  &lt;li&gt;Bestanden uploaden die virussen, beschadigde bestanden of andere soortgelijke software of programma's bevatten die schade kunnen toebrengen aan de werking van de computer van een ander.&lt;/li&gt;
-  &lt;li&gt;Adverteren of aanbieden om goederen of diensten te verkopen of kopen voor zakelijke doeleinden, tenzij dergelijke berichten specifiek zijn toegestaan door de betreffende Communicatiedienst.&lt;/li&gt;
-  &lt;li&gt;Enquêtes, wedstrijden, piramidespelen of kettingbrieven uitvoeren of doorsturen.&lt;/li&gt;
-  &lt;li&gt;Bestanden downloaden die door een andere gebruiker van een Communicatiedienst zijn geplaatst waarvan je weet, of redelijkerwijs zou moeten weten, dat ze niet legaal op die manier mogen worden verspreid.&lt;/li&gt;
-  &lt;li&gt;Auteursvermeldingen, wettelijke of andere juiste kennisgevingen of eigendomslabels of aanduidingen van de oorsprong of bron van software of ander materiaal in een geüpload bestand vervalsen of verwijderen.&lt;/li&gt;
-  &lt;li&gt;Andere gebruikers beperken of hinderen in het gebruik en genot van de Communicatiediensten.&lt;/li&gt;
-  &lt;li&gt;Enige gedragscode of andere richtlijnen overtreden die van toepassing kunnen zijn op een bepaalde Communicatiedienst.&lt;/li&gt;
-  &lt;li&gt;Gegevens verzamelen of anderszins informatie over anderen, waaronder e-mailadressen, verzamelen zonder hun toestemming.&lt;/li&gt;
-  &lt;li&gt;Enige toepasselijke wet- of regelgeving overtreden.&lt;/li&gt;
-&lt;/ul&gt;
-        &lt;p&gt;[Portal:PortalName] is niet verplicht om de Communicatiediensten te monitoren. Echter,
-        [Portal:PortalName] behoudt zich het recht voor om geplaatste materialen in een Communicatiedienst
-        te beoordelen en naar eigen inzicht te verwijderen. [Portal:PortalName]
-        behoudt zich het recht voor om je toegang tot één of alle Communicatiediensten
-        op elk moment zonder kennisgeving en om welke reden dan ook te beëindigen.&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] behoudt zich te allen tijde het recht voor om informatie openbaar te maken
-        indien dit nodig is om te voldoen aan toepasselijke wet- of regelgeving, juridische procedures of overheidsverzoeken,
-        of om informatie of materialen geheel of gedeeltelijk te bewerken, te weigeren te plaatsen of te verwijderen,
-        naar eigen inzicht van [Portal:PortalName].&lt;/p&gt;
-        &lt;p&gt;Wees altijd voorzichtig met het verstrekken van persoonlijk identificeerbare informatie over
-        jezelf of je kinderen in een Communicatiedienst. [Portal:PortalName] heeft geen controle over en onderschrijft
-        de inhoud, berichten of informatie die in een Communicatiedienst wordt gevonden niet, en daarom wijst
-        [Portal:PortalName] uitdrukkelijk elke aansprakelijkheid af met betrekking tot de Communicatiediensten en
-        alle acties die voortvloeien uit je deelname aan een Communicatiedienst. Managers en hosts zijn geen
-        geautoriseerde woordvoerders van [Portal:PortalName], en hun standpunten weerspiegelen niet noodzakelijkerwijs
-        die van [Portal:PortalName].&lt;/p&gt;
-        &lt;p&gt;Materialen die worden geüpload naar een Communicatiedienst kunnen onderhevig zijn aan gepubliceerde beperkingen
-        op gebruik, reproductie en/of verspreiding. Je bent verantwoordelijk voor het naleven van
-        dergelijke beperkingen als je de materialen downloadt.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;MATERIALEN AANGELEVERD AAN [Portal:PortalName] OF GEPLAATST OP ENIGE [Portal:PortalName]
-            WEBSITE&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] claimt geen eigendom van de materialen die je aanlevert aan [Portal:PortalName]
-        (inclusief feedback en suggesties) of plaatst, uploadt, invoert of indient op enige [Portal:PortalName]
-        website of bijbehorende diensten (gezamenlijk "Inzendingen"). Door het plaatsen,
-        uploaden, invoeren, aanleveren of indienen van je Inzending geef je [Portal:PortalName],
-        haar gelieerde bedrijven en noodzakelijke sublicentiehouders toestemming om je Inzending te gebruiken
-        in verband met de exploitatie van hun internetactiviteiten, inclusief maar niet beperkt tot
-        de rechten om: je Inzending te kopiëren, distribueren, verzenden, openbaar weer te geven, openbaar
-        uit te voeren, te reproduceren, te bewerken, te vertalen en te herformatteren; en om je naam te publiceren
-        in verband met je Inzending.&lt;/p&gt;
-        &lt;p&gt;Er wordt geen vergoeding betaald met betrekking tot het gebruik van je Inzending, zoals hierin
-        bepaald. [Portal:PortalName] is niet verplicht om enige Inzending te plaatsen of te gebruiken
-        die je aanlevert en kan elke Inzending op elk moment naar eigen inzicht van [Portal:PortalName]
-        verwijderen.&lt;/p&gt;
-        &lt;p&gt;Door het plaatsen, uploaden, invoeren, aanleveren of indienen van je Inzending verklaar
-        en garandeer je dat je alle rechten op je Inzending bezit of anderszins beheert zoals beschreven in deze sectie,
-        inclusief maar niet beperkt tot alle rechten die nodig zijn om de Inzendingen aan te leveren, te plaatsen,
-        te uploaden, in te voeren of in te dienen.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;DISCLAIMER AANSPRAKELIJKHEID&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;DE INFORMATIE, SOFTWARE, PRODUCTEN EN DIENSTEN DIE IN OF VIA DE [Portal:PortalName] WEBSITE
-        BESCHIKBAAR ZIJN, KUNNEN ONNAUWKEURIGHEDEN OF TYPOGRAFISCHE FOUTEN BEVATTEN.
-        ER WORDEN PERIODIEK WIJZIGINGEN AANGEBRACHT IN DE INFORMATIE HIERIN. [Portal:PortalName] EN/OF
-        HAAR LEVERANCIERS KUNNEN VERBETERINGEN EN/OF WIJZIGINGEN AANBRENGEN IN DE [Portal:PortalName] WEBSITE
-        OP ELK MOMENT. ADVIES ONTVANGEN VIA DE [Portal:PortalName] WEBSITE MOET NIET WORDEN VERTROUWD VOOR
-        PERSOONLIJKE, MEDISCHE, JURIDISCHE OF FINANCIËLE BESLISSINGEN EN JE DIENT EEN GESCHIKTE
-        PROFESSIONAL TE RAADPLEGEN VOOR SPECIFIEK ADVIES OP MAAT VOOR JOUW SITUATIE.&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] EN/OF HAAR LEVERANCIERS DOEN GEEN UITSPRAKEN OVER DE GESCHIKTHEID,
-        BETROUWBAARHEID, BESCHIKBAARHEID, TIJDIGHEID EN NAUWKEURIGHEID VAN DE INFORMATIE, SOFTWARE,
-        PRODUCTEN, DIENSTEN EN GERELATEERDE GRAFISCHE ELEMENTEN OP DE [Portal:PortalName] WEBSITE VOOR
-        ENIG DOEL. VOOR ZOVER TOEGESTAAN DOOR TOEPASSELIJK RECHT WORDEN AL DEZE INFORMATIE, SOFTWARE,
-        PRODUCTEN, DIENSTEN EN GERELATEERDE GRAFISCHE ELEMENTEN GELEVERD "AS IS" ZONDER ENIGE GARANTIE
-        OF VOORWAARDE VAN WELKE AARD DAN OOK. [Portal:PortalName] EN/OF HAAR LEVERANCIERS WIJZEN HIERBIJ
-        ALLE GARANTIES EN VOORWAARDEN AF MET BETREKKING TOT DEZE INFORMATIE, SOFTWARE, PRODUCTEN,
-        DIENSTEN EN GERELATEERDE GRAFISCHE ELEMENTEN, INCLUSIEF ALLE IMPLICIETE GARANTIES OF VOORWAARDEN
-        VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL, EIGENDOM EN NIET-INBREUK.&lt;/p&gt;
-        &lt;p&gt;VOOR ZOVER TOEGESTAAN DOOR TOEPASSELIJK RECHT, ZAL [Portal:PortalName] EN/OF HAAR LEVERANCIERS
-        IN GEEN GEVAL AANSPRAKELIJK ZIJN VOOR ENIGE DIRECTE, INDIRECTE, PUNITIEVE, INCIDENTELE, SPECIALE,
-        GEVOLGSCHADE OF ENIGE SCHADE WAT DAN OOK, INCLUSIEF MAAR NIET BEPERKT TOT SCHADE VOOR VERLIES VAN
-        GEBRUIK, GEGEVENS OF WINST, VOORTKOMEND UIT OF OP ENIGE WIJZE VERBONDEN MET HET GEBRUIK OF DE
-        PRESTATIES VAN DE [Portal:PortalName] WEBSITE, MET DE VERTRAGING OF ONMOGELIJKHEID OM DE
-        [Portal:PortalName] WEBSITE OF GERELATEERDE DIENSTEN TE GEBRUIKEN, HET VERLENEN OF HET NIET VERLENEN
-        VAN DIENSTEN, OF VOOR ENIGE INFORMATIE, SOFTWARE, PRODUCTEN, DIENSTEN EN GERELATEERDE GRAFISCHE
-        ELEMENTEN VERKREGEN VIA DE [Portal:PortalName] WEBSITE, OF ANDERSZINS VOORTKOMEND UIT HET GEBRUIK
-        VAN DE [Portal:PortalName] WEBSITE, ONGEACHT OF DIT IS GEBASEERD OP CONTRACT, ONRECHTMATIGE DAAD,
-        NALATIGHEID, STRIKTE AANSPRAKELIJKHEID OF ANDERSZINS, ZELFS ALS [Portal:PortalName] OF EEN VAN HAAR
-        LEVERANCIERS OP DE HOOGTE IS GESTELD VAN DE MOGELIJKHEID VAN SCHADE. OMDAT SOMMIGE STATEN/JURISDICTIES
-        DE UITSLUITING OF BEPERKING VAN AANSPRAKELIJKHEID VOOR GEVOLGSCHADE OF INCIDENTELE SCHADE NIET TOESTAAN,
-        KAN DE BOVENSTAANDE BEPERKING NIET OP JOU VAN TOEPASSING ZIJN. ALS JE NIET TEVREDEN BENT MET ENIG
-        DEEL VAN DE [Portal:PortalName] WEBSITE, OF MET ENIGE VAN DEZE GEBRUIKSVOORWAARDEN, IS JE ENIGE EN
-        UITSLUITENDE RECHTSMIDDEL HET STOPPEN VAN HET GEBRUIK VAN DE [Portal:PortalName] WEBSITE.&lt;/p&gt;
-        &lt;p&gt;SERVICE CONTACT : [Portal:Email]&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;BEËINDIGING/TOEGANGSBEPERKING&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] behoudt zich het recht voor, naar eigen goeddunken, om je toegang tot de [Portal:PortalName] website en de gerelateerde diensten of enig deel daarvan op elk moment zonder kennisgeving te beëindigen. ALGEMEEN Voor zover maximaal toegestaan door de wet, wordt deze overeenkomst beheerst door de wetten van de staat Washington, VS, en stem je ermee in dat de exclusieve jurisdictie en locatie van rechtbanken in San Mateo County, Californië, VS, van toepassing zijn op alle geschillen die voortvloeien uit of verband houden met het gebruik van de [Portal:PortalName] website. Gebruik van de [Portal:PortalName] website is niet toegestaan in enig rechtsgebied dat geen uitvoering geeft aan alle bepalingen van deze voorwaarden, inclusief maar niet beperkt tot deze paragraaf. Je stemt ermee in dat er geen joint venture, partnerschap, dienstverband of agentuurrelatie bestaat tussen jou en [Portal:PortalName] als gevolg van deze overeenkomst of het gebruik van de [Portal:PortalName] website. De uitvoering van deze overeenkomst door [Portal:PortalName] is onderworpen aan bestaande wetten en juridische procedures, en niets in deze overeenkomst doet afbreuk aan het recht van [Portal:PortalName] om te voldoen aan overheids-, gerechtelijke en wetshandhavingsverzoeken of vereisten met betrekking tot jouw gebruik van de [Portal:PortalName] website of informatie die aan [Portal:PortalName] is verstrekt of verzameld met betrekking tot dergelijk gebruik. Indien enig deel van deze overeenkomst ongeldig of onafdwingbaar wordt verklaard volgens toepasselijk recht, inclusief maar niet beperkt tot de hierboven uiteengezette garantie-uitsluitingen en aansprakelijkheidsbeperkingen, zal de ongeldige of onafdwingbare bepaling worden vervangen door een geldige, afdwingbare bepaling die het meest overeenkomt met de bedoeling van de oorspronkelijke bepaling en blijft de rest van de overeenkomst van kracht. Tenzij anders vermeld hierin, vormt deze overeenkomst de volledige overeenkomst tussen de gebruiker en [Portal:PortalName] met betrekking tot de [Portal:PortalName] website en vervangt deze alle eerdere of gelijktijdige communicatie en voorstellen, elektronisch, mondeling of schriftelijk, tussen de gebruiker en [Portal:PortalName] met betrekking tot de [Portal:PortalName] website. Een gedrukte versie van deze overeenkomst en van elke kennisgeving die in elektronische vorm is gegeven, is toelaatbaar in gerechtelijke of administratieve procedures die gebaseerd zijn op of verband houden met deze overeenkomst, in dezelfde mate en onder dezelfde voorwaarden als andere zakelijke documenten en dossiers die oorspronkelijk in gedrukte vorm zijn gegenereerd en bewaard. Het is de uitdrukkelijke wens van de partijen dat deze overeenkomst en alle gerelateerde documenten in het Engels worden opgesteld.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;AUTEURSRECHT EN HANDELSMERKEN:&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;Alle inhoud van de [Portal:PortalName] website is: [Portal:FooterText] en/of haar leveranciers. Alle rechten voorbehouden.&lt;/p&gt;
-        &lt;p&gt;&lt;span class="SubHead"&gt;HANDELSMERKEN&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;De namen van feitelijke bedrijven en producten die hierin worden genoemd, kunnen handelsmerken zijn van hun respectievelijke eigenaren.&lt;/p&gt;
-        &lt;p&gt;De voorbeeldbedrijven, organisaties, producten, personen en gebeurtenissen die hierin worden afgebeeld, zijn fictief. Geen enkele associatie met een echt bedrijf, organisatie, product, persoon of gebeurtenis is bedoeld of mag worden afgeleid.&lt;/p&gt;
-        &lt;p&gt;Alle rechten die hierin niet uitdrukkelijk zijn verleend, zijn voorbehouden.&lt;/p&gt;
-    &lt;/div&gt;</value>
-  </data>
-  <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text" xml:space="preserve">
-    <value>Om je wachtwoord op te kunnen vragen moet je jouw gebruikersnaam opgeven en een antwoord op de wachtwoord vraag.</value>
-  </data>
-  <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text" xml:space="preserve">
-    <value>Verifieer je e-mailadreswijziging door je wachtwoord opnieuw in te voeren.</value>
-  </data>
-  <data name="ModuleGenericActions.Action" xml:space="preserve">
-    <value>Beheer</value>
-  </data>
-  <data name="ModuleHelp.Action" xml:space="preserve">
-    <value>Help</value>
-  </data>
-  <data name="ModulePermissions.Action" xml:space="preserve">
-    <value>Machtigingen</value>
-  </data>
-  <data name="ModuleSettings.Action" xml:space="preserve">
-    <value>Instellingen</value>
-  </data>
-  <data name="ModuleSpecificActions.Action" xml:space="preserve">
-    <value>Wijzigen</value>
-  </data>
-  <data name="MoveBottom.Action" xml:space="preserve">
-    <value>Onderste</value>
-  </data>
-  <data name="MoveDown.Action" xml:space="preserve">
-    <value>Omlaag</value>
-  </data>
-  <data name="MovePane.Action" xml:space="preserve">
-    <value>Naar</value>
-  </data>
-  <data name="MoveRoot.Action" xml:space="preserve">
-    <value>Verplaats</value>
-  </data>
-  <data name="MoveTop.Action" xml:space="preserve">
-    <value>Bovenste</value>
-  </data>
-  <data name="MoveToPane.Action" xml:space="preserve">
-    <value>Naar {0}</value>
-  </data>
-  <data name="MoveUp.Action" xml:space="preserve">
-    <value>Omhoog</value>
-  </data>
-  <data name="NativeName.Text" xml:space="preserve">
-    <value>Oorspronkelijke naam</value>
-  </data>
-  <data name="NeutralCulture.Text" xml:space="preserve">
-    <value>Neutrale taal</value>
-  </data>
-  <data name="NoErrorsSending.Text" xml:space="preserve">
-    <value>Geen fouten opgetreden tijdens versturen</value>
-  </data>
-  <data name="NoLoginControl.Text" xml:space="preserve">
-    <value>Je bent naar deze standaard inlogpagina omgeleid omdat deze website geen geldige Login Module bevat, of omdat de machtigingen onjuist zijn ingesteld.</value>
-  </data>
-  <data name="NoSitesForThisInstallation.Error" xml:space="preserve">
-    <value>Er bestaan op dit moment geen sites voor deze installatie.</value>
-  </data>
-  <data name="OnlineHelp.Action" xml:space="preserve">
-    <value>Online hulp</value>
-  </data>
-  <data name="PortalLinks.Text" xml:space="preserve">
-    <value>Portaal koppelingen</value>
-  </data>
-  <data name="PrintModule.Action" xml:space="preserve">
-    <value>Afdrukken</value>
-  </data>
-  <data name="PurgeCacheUnsupported.Text" xml:space="preserve">
-    <value>Deze caching provider gebruikt the PurgeCache functionaliteit niet.</value>
-  </data>
-  <data name="ReflectionPermission.Text" xml:space="preserve">
-    <value>Deze bestandsextensie vereist reflectie rechten.</value>
-  </data>
-  <data name="Relationship_Added.Text" xml:space="preserve">
-    <value>Heeft relatie toegevoegd {0}</value>
-  </data>
-  <data name="Relationship_Deleted.Text" xml:space="preserve">
-    <value>Heeft relatie verwijderd {0} : ID {1}</value>
-  </data>
-  <data name="Relationship_Updated.Text" xml:space="preserve">
-    <value>Bijgewerkte relatie: {0}</value>
-  </data>
-  <data name="RelationshipType_Added.Text" xml:space="preserve">
-    <value>Relatietype toegevoegd: {0}</value>
-  </data>
-  <data name="RelationshipType_Deleted.Text" xml:space="preserve">
-    <value>Relatietype verwijderd {0} : ID {1}</value>
-  </data>
-  <data name="RelationshipType_Updated.Text" xml:space="preserve">
-    <value>Bijgewerkte relatietype: {0}</value>
-  </data>
-  <data name="Return.Text" xml:space="preserve">
-    <value>Terug naar website</value>
-  </data>
-  <data name="SearchCrawler Admin.String" xml:space="preserve">
-    <value>Zoekmachine beheren</value>
-  </data>
-  <data name="SiteAccessedWhileInstallationWasInProgress.Error" xml:space="preserve">
-    <value>Deze site is bezocht terwijl er een installatie of upgrade werd uitgevoerd.</value>
-  </data>
-  <data name="SkinLoadError.Text" xml:space="preserve">
-    <value>Thema {0}, kan niet worden geladen. Fout: {1}&lt;br/&gt;</value>
-  </data>
-  <data name="SyndicateModule.Action" xml:space="preserve">
-    <value>Syndicatie</value>
-  </data>
-  <data name="ThereIsAInstallationCurrentlyInProgress.Error" xml:space="preserve">
-    <value>Op dit moment wordt er een installatie uitgevoerd. Probeer het op een later moment nogmaals.</value>
-  </data>
-  <data name="TokenReplaceRestrictedProperty.Text" xml:space="preserve">
-    <value>Fout bij toegang tot [{0}:{1}]: De toegang tot {1} is afgeschermd voor databron {0}.</value>
-  </data>
-  <data name="TokenReplaceUnknownObject.Text" xml:space="preserve">
-    <value>Fout bij toegang tot [{0}:{1}]: {0} is een onbekend object token.</value>
-  </data>
-  <data name="TokenReplaceUnknownProperty.Text" xml:space="preserve">
-    <value>Fout bij toegang tot [{0}:{1}]: {1} is onbekend voor databron {0}.</value>
-  </data>
-  <data name="TrackClicks.Text" xml:space="preserve">
-    <value>Het aantal keer dat de link is aangeklikt bijhouden.</value>
-  </data>
-  <data name="Translate.Action" xml:space="preserve">
-    <value>Markeer als vertaald</value>
-  </data>
-  <data name="UnhandledError.Text" xml:space="preserve">
-    <value>Er is een niet afgehandelde fout opgetreden.</value>
-  </data>
-  <data name="UnTranslate.Action" xml:space="preserve">
-    <value>Markeer als niet vertaald</value>
-  </data>
-  <data name="UrlPathNotUnique.Error" xml:space="preserve">
-    <value>De toegevoegde URL is niet beschikbaar. Als je het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
-  </data>
-  <data name="UserRelationship_Added.Text" xml:space="preserve">
-    <value>Toegevoegde UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
-  </data>
-  <data name="UserRelationship_Deleted.Text" xml:space="preserve">
-    <value>Verwijderde UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
-  </data>
-  <data name="UserRelationship_Updated.Text" xml:space="preserve">
-    <value>Bijgewerkte UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
-  </data>
-  <data name="UserRelationshipPreference_Added.Text" xml:space="preserve">
-    <value>Toegevoegde UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
-  </data>
-  <data name="UserRelationshipPreference_Deleted.Text" xml:space="preserve">
-    <value>Verwijderde UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
-  </data>
-  <data name="UserRelationshipPreference_Updated.Text" xml:space="preserve">
-    <value>Bijgewerkte UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
-  </data>
-  <data name="View Folder.Permission" xml:space="preserve">
-    <value>Open bestanden in map</value>
-  </data>
-  <data name="View Tab.Permission" xml:space="preserve">
-    <value>Paginaweergave</value>
-  </data>
-  <data name="View.Permission" xml:space="preserve">
-    <value>Module bekijken</value>
-  </data>
-  <data name="ViewSource.Action" xml:space="preserve">
-    <value>Broncode bekijken</value>
-  </data>
-  <data name="WebPermission.Text" xml:space="preserve">
-    <value>Deze uitbreiding vereist webrechten.</value>
-  </data>
-  <data name="Write to Folder.Permission" xml:space="preserve">
-    <value>Schrijf bestanden in map</value>
+  <data name="AspNetHostingPermission.Text" xml:space="preserve">
+    <value>Deze bestandsextensie vereist Full Trust.</value>
+  </data>
+  <data name="Authentication.String" xml:space="preserve">
+    <value>Authenticatie</value>
+  </data>
+  <data name="BannerType.Banner.String" xml:space="preserve">
+    <value>Banner</value>
+  </data>
+  <data name="BannerType.Block.String" xml:space="preserve">
+    <value>Blok</value>
+  </data>
+  <data name="BannerType.Button.String" xml:space="preserve">
+    <value>Knop</value>
+  </data>
+  <data name="BannerType.MicroButton.String" xml:space="preserve">
+    <value>Microknop</value>
+  </data>
+  <data name="BannerType.Script.String" xml:space="preserve">
+    <value>Script</value>
+  </data>
+  <data name="BannerType.Skyscraper.String" xml:space="preserve">
+    <value>Wolkenkrabber</value>
+  </data>
+  <data name="BannerType.Text.String" xml:space="preserve">
+    <value>Tekst</value>
+  </data>
+  <data name="Browse Folder.Permission" xml:space="preserve">
+    <value>Bladeren door bestanden in map</value>
+  </data>
+  <data name="Can Deploy.Permission" xml:space="preserve">
+    <value>Module inzetten</value>
+  </data>
+  <data name="cc_dismiss.Text" xml:space="preserve">
+    <value>Begrepen!</value>
+  </data>
+  <data name="cc_link.Text" xml:space="preserve">
+    <value>Meer informatie</value>
+  </data>
+  <data name="cc_message.Text" xml:space="preserve">
+    <value>Deze website gebruikt cookies voor de best mogelijke gebruikerservaring.</value>
+  </data>
+  <data name="ClearCache.Action" xml:space="preserve">
+    <value>Verversen</value>
+  </data>
+  <data name="CustomUrlPathCleaned.Error" xml:space="preserve">
+    <value>De ingevoerde pagina-URL bevat tekens die niet in een URL mogen worden gebruikt of die ongeldig zijn voor een URL. Deze tekens zijn verwijderd. Klik nogmaals op de knop 'Bijwerken' om de gewijzigde URL te accepteren.&lt;br&gt;[OPMERKING: De lijst met ongeldige tekens is als volgt: &lt;&gt;\?:&amp;=+|%# ]</value>
+  </data>
+  <data name="DefaultStopwordGroup.Text" xml:space="preserve">
+    <value>en,zijn,maar,voor,in,niet,zoals,dat,de,hun,dan,daar,deze,dit,was,zal,met</value>
+  </data>
+  <data name="DefaultSynonymGroup.Text" xml:space="preserve">
+    <value>dnn,dotnetnuke</value>
+  </data>
+  <data name="DeleteModule.Action" xml:space="preserve">
+    <value>Verwijderen</value>
+  </data>
+  <data name="DeLocalize.Action" xml:space="preserve">
+    <value>Vertaling ongedaan maken</value>
+  </data>
+  <data name="DraggingHintText.Text" xml:space="preserve">
+    <value>Beweeg de muis over de dropzone.</value>
+  </data>
+  <data name="DragModuleHint.Text" xml:space="preserve">
+    <value>Versleep deze module naar een nieuwe locatie</value>
+  </data>
+  <data name="DropModuleHint.Text" xml:space="preserve">
+    <value>Laat de muisknop los om de module hier te plaatsen.</value>
+  </data>
+  <data name="DropModuleTarget.Text" xml:space="preserve">
+    <value>Plaats module hier</value>
+  </data>
+  <data name="Edit Tab.Permission" xml:space="preserve">
+    <value>Pagina bewerken</value>
+  </data>
+  <data name="Edit.Permission" xml:space="preserve">
+    <value>Module bewerken</value>
+  </data>
+  <data name="EMAIL_AFFILIATE_NOTIFICATION_BODY.Text" xml:space="preserve">
+    <value>Beste [Custom:0],
+
+Je account voor het [Portal:PortalName] partnerprogramma is aangemaakt.
+Gebruik de volgende URL om te linken naar onze site:
+
+[Custom:1]
+Hartelijk dank,
+
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_AFFILIATE_NOTIFICATION_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Affiliatie bevestiging</value>
+  </data>
+  <data name="EMAIL_BANNER_NOTIFICATION_BODY.Text" xml:space="preserve">
+    <value>Banner: [Custom:0]
+Omschrijving: [Custom:1]
+Afbeelding: [Custom:2]
+CPM/Kosten: [Custom:3]
+Aantal weergaves: [Custom:4]
+Startdatum: [Custom:5]
+Einddatum: [Custom:6]
+Aantal keer bekeken: [Custom:7]
+Aantal doorkliks: [Custom:8]</value>
+  </data>
+  <data name="EMAIL_BANNER_NOTIFICATION_SUBJECT.Text" xml:space="preserve">
+    <value>[Custom:0]</value>
+  </data>
+  <data name="EMAIL_BODY_FORMAT.Text" xml:space="preserve">
+    <value>Onderwerp: {0}
+    
+{1}
+
+Gelieve deze e-mail niet te beantwoorden.</value>
+  </data>
+  <data name="EMAIL_BulkMailConf_Html_Body.Text" xml:space="preserve">
+    <value>&amp;lt;h1&amp;gt;Nieuwsbrief verzendrapport&amp;lt;/h1&amp;gt;
+    Verzenden gestart op: [Custom:0]&amp;lt;br /&amp;gt;
+    Aantal ontvangers: [Custom:1]&amp;lt;br /&amp;gt;
+    E-mailberichten: [Custom:2]&amp;lt;br /&amp;gt;
+    Verzenden compleet op: [Custom:3]&amp;lt;br /&amp;gt;
+    [Custom:4|Aantal fouten: {0}&amp;lt;br /&amp;gt;]
+    &amp;lt;br /&amp;gt;
+    Status Report: &amp;lt;br /&amp;gt;
+           &amp;lt;pre&amp;gt;[Custom:5]&amp;lt;/pre&amp;gt;
+    [Custom:6|&amp;lt;hr /&amp;gt;&amp;lt;strong&amp;gt;Ontvangers:&amp;lt;/strong&amp;gt;&amp;lt;br /&amp;gt;{0}]</value>
+  </data>
+  <data name="EMAIL_BulkMailConf_Subject.Text" xml:space="preserve">
+    <value>Nieuwsbrief verzendrapport voor '{0}'.</value>
+  </data>
+  <data name="EMAIL_BulkMailConf_Text_Body.Text" xml:space="preserve">
+    <value>Verzenden gestart op:       [Custom:0]
+Aantal ontvangers:          [Custom:1]
+Email berichten:            [Custom:2]
+Verzenden compleet op:      [Custom:3]
+
+[Custom:4|Aantal fouten:    {0}
+]Status Report:
+[Custom:5]
+--------------------------------
+[Custom:6|Ontvangers:
+===========
+{0}]</value>
+  </data>
+  <data name="EMAIL_BulkMailStart_Body.Text" xml:space="preserve">
+    <value>Gebruiker {1} heeft bulkmail '{0}' ingediend gericht aan {2} ontvangers. Lees het verzendrapport voor mislukte berichten en de afzenders in de inbox voor teruggekomen berichten.</value>
+  </data>
+  <data name="EMAIL_BulkMailStart_Subject.Text" xml:space="preserve">
+    <value>Bulkmail '{0}' ingediend</value>
+  </data>
+  <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text" xml:space="preserve">
+    <value>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
+&lt;html xmlns="https://www.w3.org/1999/xhtml"&gt;
+&lt;head&gt;
+    &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&gt;
+    &lt;style type="text/css"&gt;
+            /* Reset Styles */
+        html, body{height:100%;width:100%;}
+        body{
+            margin:0; padding:0;
+            font-family:sans-serif;
+            font-size:0.83em;
+            color:#333;
+        }
+        img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
+        table td{border-collapse:collapse;}
+        p{margin: 0 0 1.6em 0;}
+        a{color:#417CD3;}
+        #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+        body{ background-color:#fafafa; }
+
+        #templateContainer{
+            border: 1px solid #eeeeee;
+            box-shadow: 0px 0px 3px 0px #eee;
+        }
+
+            /* Pre Header Styles */
+        .preheaderContent{
+            padding:15px 0 5px 0;
+            font-size:0.9em;
+            color:#999;
+        }
+        .headerContent {background-color:#bbb;}
+        .headerContent a{display:block;}
+        .headerContent img{ margin-bottom:0;}
+
+            /* Sub Header Styles */
+        #templateSubHeader{ color:#ffffff; }
+        #templateSubHeader td{ padding:5px 20px; }
+
+            /* Template Footer Styles */
+        .footerContent table td{
+            padding-top:20px;
+            border-top:1px solid #ddd;
+            font-size:0.8em;
+        }
+
+            /* Body Template Footer Styles */
+        #bodyTemplateFooter{
+            padding:15px 0 5px 0;
+            font-size:0.9em;
+            color:#999;
+        }
+    &lt;/style&gt;
+&lt;/head&gt;
+
+&lt;body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"&gt;
+&lt;table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" id="backgroundTable"&gt;
+    &lt;tr&gt;
+        &lt;td align="center" valign="top"&gt;
+            &lt;!-- // Begin Template Preheader \\ --&gt;
+            &lt;table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="600"&gt;
+                &lt;tr align="right"&gt;
+                    &lt;td valign="top" class="preheaderContent" style="border-top:5px solid #417CD3;"&gt;
+
+                        &lt;!-- // Begin Module: Standard Preheader \ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" &gt;
+                            &lt;tr&gt;
+                                &lt;td align="right"&gt;
+                                    &lt;p&gt;Problemen met de weergave? &lt;a href="[NOTIFICATIONURL]"&gt;&lt;span&gt;Klik hier om het bericht online te bekijken.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Module: Standard Preheader \ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;!-- // End Template Preheader \\ --&gt;
+            &lt;!-- // Begin Template body \\ --&gt;
+            &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border:1px solid #eeeeee; " &gt;
+                &lt;tr &gt;
+                    &lt;td align="center" valign="top"&gt;
+                        &lt;!-- // Begin Template Header \\ --&gt;
+                        &lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateHeader"&gt;
+                            &lt;tr&gt;
+                                &lt;td class="headerContent"&gt;
+                                    &lt;a href="[SITEURL]"&gt;
+                                        &lt;!--&lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" /&gt;--&gt;
+                                        &lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" width="200" /&gt;
+                                    &lt;/a&gt;
+
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Template Header \\ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr &gt;
+                    &lt;td align="center" valign="top"&gt;
+                        &lt;!-- // Begin Template Sub Header \\ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateSubHeader"&gt;
+                            &lt;tr&gt;
+                                &lt;td class="subHeaderContent" bgcolor="#417CD3" width="66%" align="left"&gt;
+                                    &lt;h2 style="color:#fff; font-weight:100; font-size:24px;"&gt;Notificaties&lt;/h2&gt;
+                                &lt;/td&gt;&lt;!--close subHeaderContent--&gt;
+                                &lt;td width="33%" bgcolor="#417CD3" align="right"&gt;
+                                    &lt;p style="color:#fff;"&gt;&lt;/p&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Template Sub Header \\ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td align="center" valign="top" bgcolor="#ffffff"&gt;
+                        &lt;!-- // Begin Template Body \\ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody"&gt;
+                            &lt;tr&gt;
+                                &lt;td valign="top" class="bodyContent"&gt;
+                                    &lt;!-- // Begin Module: Standard Content \\ --&gt;
+                                    &lt;table border="0" cellpadding="30" cellspacing="0" width="100%"&gt;
+                                        &lt;tr&gt;
+                                            &lt;td valign="top"&gt;
+                                                [MESSAGEBODY]
+                                            &lt;/td&gt;
+                                        &lt;/tr&gt;
+                                    &lt;/table&gt;
+                                    &lt;!-- // End Module: Standard Content \\ --&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Template Body \\ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td align="center" valign="top"&gt;
+                        &lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateFooter"&gt;
+                            &lt;tr&gt;
+                                &lt;td valign="top" class="footerContent"&gt;
+                                    &lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+                                        &lt;tr&gt;
+                                            &lt;td align="center"&gt;
+                                                &lt;a href="[UNSUBSCRIBEURL]" &gt; Beheer je lidmaatschappen&lt;/a&gt; &amp;nbsp; |  &amp;nbsp;&lt;a href="[NOTIFICATIONURL]" &gt; Online bekijken&lt;/a&gt;
+                                            &lt;/td&gt;
+                                        &lt;/tr&gt;
+                                    &lt;/table&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;&lt;!-- // End Template Body \\ --&gt;
+            &lt;!-- // Begin Template footer \\ --&gt;
+            &lt;table border="0" cellpadding="0" cellspacing="0" id="bodyTemplateFooter" width="600"&gt;
+                &lt;tr&gt;
+                    &lt;td valign="top" class="bodyFooterContent"&gt;
+
+                        &lt;!-- // Begin Module: Standard Preheader \ --&gt;
+                        &lt;table border="0" cellpadding="0" cellspacing="0" align="center" &gt;
+
+                            &lt;tr&gt;
+                                &lt;td align="center"&gt;
+                                    &lt;p&gt;Copyright [Year] &lt;a href="[SITEURL]"&gt;[PORTALNAME]&lt;/a&gt; Alle rechten voorbehouden.&lt;/p&gt;
+                                    &lt;p&gt;Wanneer je in de toekomst geen e-mails meer wilt ontvangen, dan kun je hier &lt;a href="[UNSUBSCRIBEURL]"&gt;uitschrijven&lt;/a&gt;.&lt;/p&gt;
+                                &lt;/td&gt;
+                            &lt;/tr&gt;
+                        &lt;/table&gt;
+                        &lt;!-- // End Module: Standard Preheader \ --&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;!-- // End Template footer \\ --&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;!-- wrapper table --&gt;
+&lt;/body&gt;
+&lt;/html&gt;</value>
+  </data>
+  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" xml:space="preserve">
+    <value>&lt;div style="width:100%;"&gt;&lt;h5&gt;[TITLE]&lt;/h5&gt;&lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;&lt;a href="[PROFILEURL]"&gt;&lt;img src="[PROFILEPICURL]" /&gt;&lt;/a&gt;&lt;br/&gt;[DISPLAYNAME]&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+            &lt;table width="350" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;[CONTENT][FRIENDREQUESTACTIONS][FOLLOWREQUESTACTIONS]&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;&lt;/div&gt;</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName],
+
+Je hebt een wachtwoordherstel aangevraagd van de [Portal:PortalName] website.
+
+Website: [Portal:URL]
+Gebruikersnaam: [User:Username]
+
+Link naar de wachtwoord reset pagina:  [Portal:PASSWORDREMINDERURL]?ctl=PasswordReset&amp;resetToken=[Membership:PasswordResetToken]
+
+Met vriendelijke groet,
+[Portal:PortalName]
+
+*NB: Als je geen wachtwoordherstel hebt aangevraagd, dan kun je dit bericht negeren.</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Wachtwoord opvragen</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName],
+
+Je hebt een wachtwoord-resetlink aangevraagd van [Portal:PortalName]. Je account staat klaar voor goedkeuring.
+
+Het wachtwoord kan worden gereset nadat het account is goedgekeurd.
+
+Met vriendelijke groet,
+[Portal:PortalName]
+
+*Opmerking: Als je geen wachtwoord reset link hebt aangevraagd, verwijder dan dit bericht.</value>
+  </data>
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] wachtwoordherinnering</value>
+  </data>
+  <data name="EMAIL_PASSWORD_UPDATED_BODY.Text" xml:space="preserve">
+    <value>Geachte [User:DisplayName], 
+	
+	Je wachtwoord voor [Portal:PortalName] is gewijzigd. 
+	
+	Neem contact op met de sitebeheerder op het volgende e-mailadres - [Portal:Email]
+	
+	Met vriendelijke groet,
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_PASSWORD_UPDATED_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Wachtwoord bijgewerkt</value>
+  </data>
+  <data name="EMAIL_PORTAL_SIGNUP_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName],
+
+Je site is aangemaakt. Lees alstublieft de volgend informatie zorgvuldig door, en archiveer dit bericht voor eventueel toekomstig gebruik.
+
+Website Adres: [Portal:URL]
+Gebruikersnaam: [Membership:UserName]
+Wachtwoord: [Membership:Password]
+Verificatiecode: [User:VerificationCode]
+
+Maak gebruik van de gelegenheid om de site nu te bezoeken en maak zo goed mogelijk gebruik van de mogelijkheden!
+
+Dank voor het gebruik van onze diensten
+
+[Host:HostTitle]
+</value>
+  </data>
+  <data name="EMAIL_PORTAL_SIGNUP_SUBJECT.Text" xml:space="preserve">
+    <value>[Host:HostTitle] Aanmelding Demo website</value>
+  </data>
+  <data name="EMAIL_PROFILE_UPDATED_BODY.Text" xml:space="preserve">
+    <value>Beste [Profile:DisplayName],
+
+Je profiel voor  de [Portal:PortalName] site is succesvol bijgewerkt.
+
+Met vriendelijke groet,
+[Portal:PortalName]
+</value>
+  </data>
+  <data name="EMAIL_PROFILE_UPDATED_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Profiel bijgewerkt</value>
+  </data>
+  <data name="EMAIL_ROLE_ASSIGNMENT_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName],
+
+De toegangsrollen van je gebruikersaccount voor de [Portal:PortalName] website zijn recentelijk aangepast, en bevat nu ook deze rol:
+
+Rol: [Custom:0]
+Beschrijving: [Custom:1]
+Ingangsdatum: [Custom:2]
+Verloopdatum: [Custom:3]
+
+Dank voor het in ons gestelde vertrouwen,
+[Portal:PortalName]
+</value>
+  </data>
+  <data name="EMAIL_ROLE_ASSIGNMENT_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Gebruikersaccount aangepast</value>
+  </data>
+  <data name="EMAIL_ROLE_UNASSIGNMENT_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName],
+
+De toegang van je gebruikersaccount voor de [Portal:PortalName] site is recentelijk aangepast, en bevat nu NIET meer deze rol:
+
+Rol: [Custom:0]
+Beschrijving: [Custom:1]
+Dank je voor het in ons gestelde vertrouwen,
+[Portal:PortalName]
+
+Dank voor het in ons gestelde vertrouwen,
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_ROLE_UNASSIGNMENT_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Gebruikersaccount aangepast</value>
+  </data>
+  <data name="EMAIL_ROLE_UPDATE_BODY.Text" xml:space="preserve">
+    <value>Geachte [User:DisplayName],
+
+Je account bij [Portal:PortalName] is recent bijgewerkt. De toegang tot de volgende rol is aangepast:
+
+Rol: [Custom:0]
+Beschrijving: [Custom:1]
+Datum Ingang: [Custom:2]
+Datum Verlopen: [Custom:3]
+
+Dank voor het in ons gestelde vertrouwen,
+[Portal:PortalName]
+</value>
+  </data>
+  <data name="EMAIL_ROLE_UPDATE_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Gebruikersaccount bijgewerkt</value>
+  </data>
+  <data name="EMAIL_SMTP_TEST_SUBJECT.Text" xml:space="preserve">
+    <value>[Host:HostTitle] SMTP Configuratietest</value>
+  </data>
+  <data name="EMAIL_SOCIAL_FOLLOWREQUESTACTIONS.Text" xml:space="preserve">
+    <value>&lt;p&gt;&lt;a href="{0}"&gt;Terug volgen&lt;/a&gt; | &lt;a href="{1}"&gt;Profiel bekijken&lt;/a&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="EMAIL_SOCIAL_FRIENDREQUESTACTIONS.Text" xml:space="preserve">
+    <value>&lt;p&gt;&lt;a href="{0}"&gt;Accepteren&lt;/a&gt; | &lt;a href="{1}"&gt;Profiel bekijken&lt;/a&gt;&lt;/p&gt;</value>
+  </data>
+  <data name="EMAIL_SUBJECT_FORMAT.Text" xml:space="preserve">
+    <value>Nieuw bericht van {0}</value>
+  </data>
+  <data name="EMAIL_USER_AUTHORIZED_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName], 
+
+Bedankt voor je registratie op [Portal:PortalName]. Je registratie is goedgekeurd en je account is nu actief. 
+
+Website Adres:  [Portal:URL] 
+Gebruikersnaam:  [User:UserName] 
+
+Dank voor het in ons gestelde vertrouwen,
+
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" xml:space="preserve">
+    <value>Registratie is goedgekeurd voor [Portal:URL]</value>
+  </data>
+  <data name="EMAIL_USER_LOCKOUT_BODY.Text" xml:space="preserve">
+    <value>Er is een poging gedaan om met een afgesloten gebruikersaccount in te loggen (gebruikersnaam: [Custom:0]) op [Date:Current]. 
+
+Wellicht wil je dit verder onderzoeken...
+
+Met vriendelijke groet,
+
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_LOCKOUT_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] - Gebruikersaccount afgesloten</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_BODY.Text" xml:space="preserve">
+    <value>Datum: [Date:Current]
+Weergavenaam: [User:DisplayName]
+Email: [User:Email]</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_ADMINISTRATOR_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] - Nieuwe gebruikersregistratie</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PRIVATE_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName],
+
+Dank voor je registratie voor de [Portal:PortalName] website. Lees de volgende informatie aandachtig en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
+
+Website Adres: [Portal:URL]
+Gebruikersnaam: [User:UserName]
+
+Je accountgegevens zullen worden gecontroleerd door de sitebeheerder, je ontvangt een bericht als je account geactiveerd is.
+
+Dank voor het in ons gestelde vertrouwen,
+[Portal:PortalName]
+</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PRIVATE_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] - Nieuwe gebruikersregistratie</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PUBLIC_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName],
+
+Je bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
+
+Website Adres: [Portal:URL]
+Gebruikersnaam: [User:UserName]
+
+Je bent van harte welkom!
+
+Dank voor het in ons gestelde vertrouwen,
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_PUBLIC_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] - Nieuwe gebruikersregistratie</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_VERIFIED_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName],
+
+Je bent nu geregistreerd als gebruiker van de [Portal:PortalName] website. Lees de volgende informatie aandachtig, en zorg ervoor dat je dit bericht bewaart voor eventueel toekomstig gebruik.
+
+Website Adres: [Portal:URL]
+Gebruikersnaam: [Membership:UserName]
+Wachtwoord: [Membership:Password]
+Verificatiecode: [User:VerificationCode]
+
+Je kunt de volgende link gebruiken om de registratie af te ronden: 
+
+https://[Portal:URL]/default.aspx?ctl=Login&amp;amp;username=[Membership:UserName]&amp;amp;verificationcode=[User:VerificationCode]
+
+Je bent van harte welkom!
+
+Dank voor het in ons gestelde vertrouwen,
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Nieuwe gebruikersregistratie</value>
+  </data>
+  <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName],
+
+Je account voor [Portal:PortalName] is niet meer geautoriseerd.
+
+Website Adres: [Portal:URL]
+Gebruikersnaam: [User:UserName]
+
+Mocht je vragen hebben, neem contact op met de websitebeheerder via [Portal:Email]
+
+Met vriendelijke groet,
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" xml:space="preserve">
+    <value>Je account is niet langer geautoriseerd voor [Portal:URL]</value>
+  </data>
+  <data name="EMAIL_USER_UNREGISTER_BODY.Text" xml:space="preserve">
+    <value>Datum: [Date:Current]
+Voornaam: [Profile:FirstName]
+Achternaam: [Profile:LastName]
+Straat: [Profile:Street]
+Huisnummer: [Profile:Unit]
+Postcode: [Profile:PostalCode]
+Plaats: [Profile:City]
+Regio/Provincie: [Profile:Region]
+Land: [Profile:Country]
+Telefoon: [Profile:Telephone]
+E-mail: [Membership:Email]
+</value>
+  </data>
+  <data name="EMAIL_USER_UNREGISTER_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Gebruikersregistratie geannuleerd</value>
+  </data>
+  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_BODY.Text" xml:space="preserve">
+    <value>Beste [User:DisplayName],
+
+Je hebt je wachtwoord gewijzigd op [Portal:PortalName].
+
+Gebruik de volgende informatie om in te loggen:
+
+Website Adres: [Portal:URL]
+Naam Gebruiker :   [User:Username]
+
+Met vriendelijke groet,
+[Portal:PortalName]</value>
+  </data>
+  <data name="EMAIL_USER_UPDATED_OWN_PASSWORD_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Wachtwoord bijgewerkt</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_BODY.Text" xml:space="preserve">
+    <value>Datum: [Custom:0]
+Naam Verkoper: [Custom:1]
+Voornaam: [Custom:2]
+Achternaam: [Custom:3]
+Straat: [Custom:5]
+Huisnummer: [Custom:4]
+Postcode: [Custom:9]
+Plaats: [Custom:6]
+Regio: [Custom:7]
+Land: [Custom:8]
+Telefoon: [Custom:10]
+Fax: [Custom:11]
+GSM: [Custom:12]
+E-mail: [Custom:13]
+Website: [Custom:14]</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_ADMINISTRATOR_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Aanmelding voor verkoper</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_BODY.Text" xml:space="preserve">
+    <value>Beste [Custom:0] [Custom:1],
+
+Je bedrijf is succesvol geregistreerd bij de [Portal:PortalName] website.
+
+Met vriendelijke groet,
+
+[Portal.PortalName]</value>
+  </data>
+  <data name="EMAIL_VENDOR_REGISTRATION_SUBJECT.Text" xml:space="preserve">
+    <value>[Portal:PortalName] Aanmelding voor verkoper</value>
+  </data>
+  <data name="EnglishName.Text" xml:space="preserve">
+    <value>Engelse naam</value>
+  </data>
+  <data name="Error.Text" xml:space="preserve">
+    <value>Er is een fout opgetreden.</value>
+  </data>
+  <data name="ExecutingScript.Text" xml:space="preserve">
+    <value>Script uitvoeren</value>
+  </data>
+  <data name="ExportModule.Action" xml:space="preserve">
+    <value>Inhoud exporteren</value>
+  </data>
+  <data name="GeneralUpgrades.Text" xml:space="preserve">
+    <value>Uitvoeren van algemene upgrades</value>
+  </data>
+  <data name="ImportModule.Action" xml:space="preserve">
+    <value>Inhoud importeren</value>
+  </data>
+  <data name="License.Text" xml:space="preserve">
+    <value>&lt;h2&gt;The MIT License (MIT)&lt;/h2&gt;
+
+&lt;h3&gt;Copyright (c) .NET Foundation en bijdragers&lt;/h3&gt;
+&lt;p&gt;Alle rechten voorbehouden&lt;/p&gt;
+
+&lt;p&gt;Hierbij wordt gratis toestemming verleend aan iedereen die een kopie 
+van deze software en bijbehorende documentatiebestanden (de "Software") verkrijgt, 
+om zonder beperking met de Software om te gaan, 
+inclusief maar niet beperkt tot de rechten om de Software te gebruiken, 
+kopiëren, wijzigen, samenvoegen, publiceren, distribueren, sublicentiëren en/of verkopen, 
+en om personen aan wie de Software wordt geleverd toe te staan dit te doen, 
+onder de volgende voorwaarden:&lt;/p&gt;
+
+&lt;p&gt;De bovenstaande copyrightvermelding en deze toestemmingsverklaring moeten in alle
+kopieën of substantiële delen van de Software worden opgenomen.&lt;/p&gt;
+
+&lt;p&gt;DE SOFTWARE WORDT GELEVERD "AS IS", ZONDER ENIGE GARANTIE VAN ENIGE SOORT, EXPRES OF
+IMPLIED, INCLUSIEF MAAR NIET BEPERKT TOT DE GARANTIES VAN VERKOOPBAARHEID,
+GESCHIKTHEID VOOR EEN BEPAALD DOEL EN INBREUK. IN GEEN GEVAL ZULLEN DE
+AUTEURS OF AUTEURSRECHTHOUDERS AANSPRAKELIJK ZIJN VOOR ENIGE CLAIM, SCHADE OF ANDERE
+AANSPRAKELIJKHEID, HETZIJ IN EEN ACTIE VAN CONTRACT, ONRECHTMATIGE DAAD OF ANDERSZINS, DIE VOORTVLOEIT UIT,
+UIT OF IN VERBAND MET DE SOFTWARE OF HET GEBRUIK OF ANDERE HANDELINGEN IN DE
+SOFTWARE.&lt;/p&gt;</value>
+  </data>
+  <data name="Localize.Action" xml:space="preserve">
+    <value>Vertalen</value>
+  </data>
+  <data name="LogClicks.Text" xml:space="preserve">
+    <value>Aanmelden van de gebruiker, de datum en de tijd voor elke klik</value>
+  </data>
+  <data name="LogEnd.Text" xml:space="preserve">
+    <value>Einde</value>
+  </data>
+  <data name="LogStart.Text" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="Manage.Text" xml:space="preserve">
+    <value>Beheren</value>
+  </data>
+  <data name="MESSAGE_PORTAL_PRIVACY.Text" xml:space="preserve">
+    <value>&lt;div align="left"&gt;
+        &lt;p&gt;[Portal:PortalName] zet zich in voor het beschermen van je privacy en het ontwikkelen van technologie
+        die je de meest krachtige en veilige online ervaring biedt. Deze privacyverklaring
+        is van toepassing op de [Portal:PortalName] site en regelt het verzamelen en gebruik van gegevens.
+        Door gebruik te maken van de [Portal:PortalName] site, ga je akkoord met de gegevensverwerking zoals
+        beschreven in deze verklaring.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Verzameling van je persoonlijke informatie&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] verzamelt persoonlijk identificeerbare informatie, 
+        zoals je e-mailadres, naam, huis- of werkadres of telefoonnummer. 
+        [Portal:PortalName] verzamelt ook anonieme demografische informatie, die niet uniek is voor jou, 
+        zoals je postcode, leeftijd, geslacht, voorkeuren, interesses en favorieten.&lt;/p&gt;
+        &lt;p&gt;Er is ook informatie over je computerhardware en -software die automatisch
+        wordt verzameld door [Portal:PortalName]. Deze informatie kan omvatten: je IP-adres,
+        browsertype, domeinnamen, toegangstijden en verwijzende website-adressen. Deze
+        informatie wordt door [Portal:PortalName] gebruikt voor de werking van de service, om
+        de kwaliteit van de service te waarborgen en om algemene statistieken over het gebruik
+        van de [Portal:PortalName] site.&lt;/p&gt;
+        &lt;p&gt;Houd er rekening mee dat als je persoonlijk identificeerbare informatie
+        of persoonlijk gevoelige gegevens openbaar maakt via [Portal:PortalName] openbare
+        message boards, deze informatie door anderen kan worden verzameld en gebruikt. Opmerking: [Portal:PortalName]
+        leest geen van je privé online communicatie.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] moedigt je aan om de privacyverklaringen van websites
+        die je kiest om naar te linken vanuit [Portal:PortalName] te bekijken, zodat je kunt begrijpen hoe die
+        websites je informatie verzamelen, gebruiken en delen. [Portal:PortalName] is niet verantwoordelijk
+        voor de privacyverklaringen of andere inhoud op websites buiten de [Portal:PortalName]
+        en [Portal:PortalName] familie van websites.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Gebruik van je Persoonlijke Informatie&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] verzamelt en gebruikt je persoonlijke informatie om de [Portal:PortalName]
+        website te beheren en de diensten te leveren die je hebt aangevraagd. [Portal:PortalName] gebruikt ook
+        je persoonlijk identificeerbare informatie om je te informeren over andere producten of diensten
+        die beschikbaar zijn van [Portal:PortalName] en zijn gelieerde ondernemingen. [Portal:PortalName] kan ook
+        contact met je opnemen via enquêtes om onderzoek te doen naar je mening over huidige diensten
+        of over potentiële nieuwe diensten die mogelijk worden aangeboden.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] verkoopt, verhuurt of leaset zijn klantenlijsten niet aan derden.
+        [Portal:PortalName] kan je af en toe contacteren namens externe zakelijke
+        partners over een bepaalde aanbieding die mogelijk interessant voor je is. In die gevallen
+        wordt je unieke persoonlijk identificeerbare informatie (e-mail, naam, adres, telefoonnummer)
+        niet overgedragen aan de derde partij. Bovendien kan [Portal:PortalName]
+        gegevens delen met vertrouwde partners om ons te helpen bij het uitvoeren van statistische analyses, je
+        e-mail of post te sturen, klantenondersteuning te bieden of leveringen te regelen. Al deze
+        derden zijn verboden om je persoonlijke informatie te gebruiken, behalve om
+        deze diensten aan [Portal:PortalName] te verlenen, en zij zijn verplicht om de
+        vertrouwelijkheid van je informatie te waarborgen.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] gebruikt of onthult geen gevoelige persoonlijke informatie, zoals
+        ras, religie of politieke overtuigingen, zonder jouw expliciete toestemming.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] houdt bij welke websites en pagina's onze klanten bezoeken binnen
+        [Portal:PortalName], om te bepalen welke [Portal:PortalName] diensten het populairst zijn.
+        Deze gegevens worden gebruikt om gepersonaliseerde inhoud en advertenties te leveren
+        binnen [Portal:PortalName] aan klanten wiens gedrag aangeeft dat ze geïnteresseerd zijn
+        in een bepaald onderwerp.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] Web sites zullen je persoonlijke informatie, zonder kennisgeving,
+        alleen vrijgeven indien dit wettelijk vereist is of te goeder trouw wordt geloofd dat een dergelijke actie
+        noodzakelijk is om: (a) te voldoen aan de bepalingen van de wet of te voldoen aan juridische procedures
+        die zijn ingediend tegen [Portal:PortalName] of de site; (b) de rechten of
+        eigendommen van [Portal:PortalName] te beschermen en te verdedigen; en, (c) te handelen onder dringende omstandigheden om
+        de persoonlijke veiligheid van gebruikers van [Portal:PortalName], of het publiek, te beschermen.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Gebruik van Cookies&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;De [Portal:PortalName] website maakt gebruik van "cookies" om je online
+        ervaring te personaliseren. Een cookie is een tekstbestand dat op je harde schijf wordt geplaatst door een webpagina
+        server. Cookies kunnen niet worden gebruikt om programma's uit te voeren of virussen naar je computer te verzenden.
+        Cookies zijn uniek aan jou toegewezen en kunnen alleen worden gelezen door een webserver in het domein dat de cookie aan jou heeft uitgegeven.&lt;/p&gt;
+        &lt;p&gt;Een van de belangrijkste doeleinden van cookies is om een gebruiksgemak functie te bieden om
+        je tijd te besparen. Het doel van een cookie is om de webserver te vertellen dat je bent teruggekeerd
+        naar een specifieke pagina. Bijvoorbeeld, als je [Portal:PortalName] pagina's personaliseert, of
+        je registreert bij [Portal:PortalName] site of diensten, helpt een cookie [Portal:PortalName]
+        om je specifieke informatie bij volgende bezoeken te onthouden. Dit vereenvoudigt het proces
+        van het vastleggen van je persoonlijke informatie, zoals factuuradressen, verzendadressen,
+        enzovoort. Wanneer je terugkeert naar dezelfde [Portal:PortalName] website, kan de informatie
+        die je eerder hebt opgegeven, worden opgehaald, zodat je eenvoudig de [Portal:PortalName]
+        functies kunt gebruiken die je hebt aangepast.&lt;/p&gt;
+        &lt;p&gt;Je hebt de mogelijkheid om cookies te accepteren of te weigeren. De meeste webbrowsers
+        accepteren automatisch cookies, maar je kunt meestal je browserinstellingen wijzigen om cookies
+        te weigeren als je dat wilt. Als je ervoor kiest om cookies te weigeren, kun je mogelijk niet
+        volledig profiteren van de interactieve functies van de [Portal:PortalName] services of
+        websites die je bezoekt.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Beveiliging van je Persoonlijke Informatie&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] beveiligt je persoonlijke informatie tegen ongeautoriseerde toegang,
+        gebruik of openbaarmaking. [Portal:PortalName] beveiligt de persoonlijk identificeerbare informatie
+        die je op computerservers verstrekt in een gecontroleerde, veilige omgeving, beschermd tegen
+        ongeautoriseerde toegang, gebruik of openbaarmaking. Wanneer persoonlijke informatie (zoals een credit
+        cardnummer) naar andere websites wordt verzonden, wordt deze beschermd door middel van
+        encryptie, zoals het Secure Socket Layer (SSL) protocol.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Wijzigingen in deze Verklaring&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] zal af en toe deze Privacyverklaring bijwerken om
+        feedback van klanten en bedrijven weer te geven. [Portal:PortalName] moedigt je aan om
+        deze Verklaring periodiek te bekijken om op de hoogte te blijven van hoe [Portal:PortalName] je
+        informatie beschermt.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;Contactinformatie&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] verwelkomt je opmerkingen over deze Privacyverklaring.
+        Als je gelooft dat [Portal:PortalName] zich niet aan deze Verklaring heeft gehouden, neem dan
+        contact op met [Portal:PortalName] via &lt;a href="mailto:[Portal:Email]"&gt;[Portal:Email]&lt;/a&gt;.
+        We zullen commercieel redelijke inspanningen leveren om het probleem snel te identificeren en op te lossen.&lt;/p&gt;
+    &lt;/div&gt;</value>
+  </data>
+  <data name="MESSAGE_PORTAL_TERMS.Text" xml:space="preserve">
+    <value>&lt;div align="left"&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;OVEREENKOMST TUSSEN GEBRUIKER EN [Portal:PortalName]&lt;/span&gt;&lt;p&gt;
+        &lt;p&gt;De [Portal:PortalName] website bestaat uit verschillende webpagina's die worden beheerd door [Portal:PortalName].&lt;/p&gt;
+        &lt;p&gt;De [Portal:PortalName] website wordt aan jou aangeboden op voorwaarde dat je de voorwaarden, bepalingen en kennisgevingen die hierin zijn opgenomen, zonder wijziging accepteert. 
+        Jouw gebruik van de [Portal:PortalName] website vormt jouw akkoord met al deze voorwaarden, bepalingen en kennisgevingen.&lt;p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;WIJZIGING VAN DEZE GEBRUIKSVOORWAARDEN&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] behoudt zich het recht voor om de voorwaarden, bepalingen en kennisgevingen
+        waaronder de [Portal:PortalName] website wordt aangeboden, te wijzigen, inclusief maar niet beperkt
+        tot de kosten die verbonden zijn aan het gebruik van de [Portal:PortalName] website.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;LINKS NAAR SITES VAN DERDE PARTIJEN&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;De [Portal:PortalName] website kan links bevatten naar andere websites ("gelinkte sites").
+        De gelinkte sites vallen niet onder de controle van [Portal:PortalName] en [Portal:PortalName]
+        is niet verantwoordelijk voor de inhoud van enige gelinkte site, inclusief maar niet beperkt tot
+        enige link die in een gelinkte site is opgenomen, of enige wijzigingen of updates van een gelinkte site.
+        [Portal:PortalName] is niet verantwoordelijk voor webcasting of enige andere vorm van transmissie
+        ontvangen van een gelinkte site. [Portal:PortalName] biedt deze links alleen aan als een
+        gemak, en de opname van een link impliceert geen goedkeuring door [Portal:PortalName] van de site
+        of enige associatie met de exploitanten ervan.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;GEEN ONWETTELIJK OF VERBODEN GEBRUIK&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;Als voorwaarde voor jouw gebruik van de [Portal:PortalName] website, waarborg je aan [Portal:PortalName]
+        dat je de [Portal:PortalName] website niet zult gebruiken voor enig doel dat onwettig
+        of verboden is door deze voorwaarden, bepalingen en kennisgevingen. Je mag de [Portal:PortalName]
+        website niet gebruiken op een manier die de [Portal:PortalName]
+        website zou kunnen beschadigen, uitschakelen, overbelasten of verstoren, of de gebruik en het genot van de [Portal:PortalName]
+        website door een andere partij zou kunnen verstoren. Je mag geen materialen of informatie verkrijgen of proberen te verkrijgen via
+        een wijze die niet bewust beschikbaar is gesteld of voorzien via de [Portal:PortalName]
+        websites.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;GEBRUIK VAN COMMUNICATIEDIENSTEN&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;De [Portal:PortalName] website kan bulletin board services, chatgebieden,
+        nieuwsgroepen, forums, gemeenschappen, persoonlijke webpagina's, agenda's en/of andere berichten
+        of communicatiefaciliteiten bevatten die zijn ontworpen om je in staat te stellen te communiceren met het publiek
+        in het algemeen of met een groep (gezamenlijk, "Communicatiediensten"). Je stemt ermee in
+        de Communicatiediensten alleen te gebruiken om berichten en materialen te plaatsen, verzenden en ontvangen
+        die gepast zijn en verband houden met de specifieke Communicatiedienst. Bij wijze van voorbeeld,
+        en niet als beperking, stem je ermee in dat wanneer je een Communicatiedienst gebruikt, je
+        niet zult:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Belasteren, misbruiken, lastigvallen, stalken, bedreigen of anderszins de wettelijke rechten (zoals privacy- en publiciteitsrechten) van anderen schenden.&lt;/li&gt;
+  &lt;li&gt;Ongepaste, grove, lasterlijke, inbreukmakende, obscene, onfatsoenlijke of onwettige onderwerpen, namen, materialen of informatie publiceren, plaatsen, uploaden, verspreiden of distribueren.&lt;/li&gt;
+  &lt;li&gt;Bestanden uploaden die software of ander materiaal bevatten dat beschermd is door intellectuele eigendomsrechten (of door privacy- of publiciteitsrechten), tenzij je de rechten bezit of beheert of alle benodigde toestemmingen hebt verkregen.&lt;/li&gt;
+  &lt;li&gt;Bestanden uploaden die virussen, beschadigde bestanden of andere soortgelijke software of programma's bevatten die schade kunnen toebrengen aan de werking van de computer van een ander.&lt;/li&gt;
+  &lt;li&gt;Adverteren of aanbieden om goederen of diensten te verkopen of kopen voor zakelijke doeleinden, tenzij dergelijke berichten specifiek zijn toegestaan door de betreffende Communicatiedienst.&lt;/li&gt;
+  &lt;li&gt;Enquêtes, wedstrijden, piramidespelen of kettingbrieven uitvoeren of doorsturen.&lt;/li&gt;
+  &lt;li&gt;Bestanden downloaden die door een andere gebruiker van een Communicatiedienst zijn geplaatst waarvan je weet, of redelijkerwijs zou moeten weten, dat ze niet legaal op die manier mogen worden verspreid.&lt;/li&gt;
+  &lt;li&gt;Auteursvermeldingen, wettelijke of andere juiste kennisgevingen of eigendomslabels of aanduidingen van de oorsprong of bron van software of ander materiaal in een geüpload bestand vervalsen of verwijderen.&lt;/li&gt;
+  &lt;li&gt;Andere gebruikers beperken of hinderen in het gebruik en genot van de Communicatiediensten.&lt;/li&gt;
+  &lt;li&gt;Enige gedragscode of andere richtlijnen overtreden die van toepassing kunnen zijn op een bepaalde Communicatiedienst.&lt;/li&gt;
+  &lt;li&gt;Gegevens verzamelen of anderszins informatie over anderen, waaronder e-mailadressen, verzamelen zonder hun toestemming.&lt;/li&gt;
+  &lt;li&gt;Enige toepasselijke wet- of regelgeving overtreden.&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;[Portal:PortalName] is niet verplicht om de Communicatiediensten te monitoren. Echter,
+        [Portal:PortalName] behoudt zich het recht voor om geplaatste materialen in een Communicatiedienst
+        te beoordelen en naar eigen inzicht te verwijderen. [Portal:PortalName]
+        behoudt zich het recht voor om je toegang tot één of alle Communicatiediensten
+        op elk moment zonder kennisgeving en om welke reden dan ook te beëindigen.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] behoudt zich te allen tijde het recht voor om informatie openbaar te maken
+        indien dit nodig is om te voldoen aan toepasselijke wet- of regelgeving, juridische procedures of overheidsverzoeken,
+        of om informatie of materialen geheel of gedeeltelijk te bewerken, te weigeren te plaatsen of te verwijderen,
+        naar eigen inzicht van [Portal:PortalName].&lt;/p&gt;
+        &lt;p&gt;Wees altijd voorzichtig met het verstrekken van persoonlijk identificeerbare informatie over
+        jezelf of je kinderen in een Communicatiedienst. [Portal:PortalName] heeft geen controle over en onderschrijft
+        de inhoud, berichten of informatie die in een Communicatiedienst wordt gevonden niet, en daarom wijst
+        [Portal:PortalName] uitdrukkelijk elke aansprakelijkheid af met betrekking tot de Communicatiediensten en
+        alle acties die voortvloeien uit je deelname aan een Communicatiedienst. Managers en hosts zijn geen
+        geautoriseerde woordvoerders van [Portal:PortalName], en hun standpunten weerspiegelen niet noodzakelijkerwijs
+        die van [Portal:PortalName].&lt;/p&gt;
+        &lt;p&gt;Materialen die worden geüpload naar een Communicatiedienst kunnen onderhevig zijn aan gepubliceerde beperkingen
+        op gebruik, reproductie en/of verspreiding. Je bent verantwoordelijk voor het naleven van
+        dergelijke beperkingen als je de materialen downloadt.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;MATERIALEN AANGELEVERD AAN [Portal:PortalName] OF GEPLAATST OP ENIGE [Portal:PortalName]
+            WEBSITE&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] claimt geen eigendom van de materialen die je aanlevert aan [Portal:PortalName]
+        (inclusief feedback en suggesties) of plaatst, uploadt, invoert of indient op enige [Portal:PortalName]
+        website of bijbehorende diensten (gezamenlijk "Inzendingen"). Door het plaatsen,
+        uploaden, invoeren, aanleveren of indienen van je Inzending geef je [Portal:PortalName],
+        haar gelieerde bedrijven en noodzakelijke sublicentiehouders toestemming om je Inzending te gebruiken
+        in verband met de exploitatie van hun internetactiviteiten, inclusief maar niet beperkt tot
+        de rechten om: je Inzending te kopiëren, distribueren, verzenden, openbaar weer te geven, openbaar
+        uit te voeren, te reproduceren, te bewerken, te vertalen en te herformatteren; en om je naam te publiceren
+        in verband met je Inzending.&lt;/p&gt;
+        &lt;p&gt;Er wordt geen vergoeding betaald met betrekking tot het gebruik van je Inzending, zoals hierin
+        bepaald. [Portal:PortalName] is niet verplicht om enige Inzending te plaatsen of te gebruiken
+        die je aanlevert en kan elke Inzending op elk moment naar eigen inzicht van [Portal:PortalName]
+        verwijderen.&lt;/p&gt;
+        &lt;p&gt;Door het plaatsen, uploaden, invoeren, aanleveren of indienen van je Inzending verklaar
+        en garandeer je dat je alle rechten op je Inzending bezit of anderszins beheert zoals beschreven in deze sectie,
+        inclusief maar niet beperkt tot alle rechten die nodig zijn om de Inzendingen aan te leveren, te plaatsen,
+        te uploaden, in te voeren of in te dienen.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;DISCLAIMER AANSPRAKELIJKHEID&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;DE INFORMATIE, SOFTWARE, PRODUCTEN EN DIENSTEN DIE IN OF VIA DE [Portal:PortalName] WEBSITE
+        BESCHIKBAAR ZIJN, KUNNEN ONNAUWKEURIGHEDEN OF TYPOGRAFISCHE FOUTEN BEVATTEN.
+        ER WORDEN PERIODIEK WIJZIGINGEN AANGEBRACHT IN DE INFORMATIE HIERIN. [Portal:PortalName] EN/OF
+        HAAR LEVERANCIERS KUNNEN VERBETERINGEN EN/OF WIJZIGINGEN AANBRENGEN IN DE [Portal:PortalName] WEBSITE
+        OP ELK MOMENT. ADVIES ONTVANGEN VIA DE [Portal:PortalName] WEBSITE MOET NIET WORDEN VERTROUWD VOOR
+        PERSOONLIJKE, MEDISCHE, JURIDISCHE OF FINANCIËLE BESLISSINGEN EN JE DIENT EEN GESCHIKTE
+        PROFESSIONAL TE RAADPLEGEN VOOR SPECIFIEK ADVIES OP MAAT VOOR JOUW SITUATIE.&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] EN/OF HAAR LEVERANCIERS DOEN GEEN UITSPRAKEN OVER DE GESCHIKTHEID,
+        BETROUWBAARHEID, BESCHIKBAARHEID, TIJDIGHEID EN NAUWKEURIGHEID VAN DE INFORMATIE, SOFTWARE,
+        PRODUCTEN, DIENSTEN EN GERELATEERDE GRAFISCHE ELEMENTEN OP DE [Portal:PortalName] WEBSITE VOOR
+        ENIG DOEL. VOOR ZOVER TOEGESTAAN DOOR TOEPASSELIJK RECHT WORDEN AL DEZE INFORMATIE, SOFTWARE,
+        PRODUCTEN, DIENSTEN EN GERELATEERDE GRAFISCHE ELEMENTEN GELEVERD "AS IS" ZONDER ENIGE GARANTIE
+        OF VOORWAARDE VAN WELKE AARD DAN OOK. [Portal:PortalName] EN/OF HAAR LEVERANCIERS WIJZEN HIERBIJ
+        ALLE GARANTIES EN VOORWAARDEN AF MET BETREKKING TOT DEZE INFORMATIE, SOFTWARE, PRODUCTEN,
+        DIENSTEN EN GERELATEERDE GRAFISCHE ELEMENTEN, INCLUSIEF ALLE IMPLICIETE GARANTIES OF VOORWAARDEN
+        VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL, EIGENDOM EN NIET-INBREUK.&lt;/p&gt;
+        &lt;p&gt;VOOR ZOVER TOEGESTAAN DOOR TOEPASSELIJK RECHT, ZAL [Portal:PortalName] EN/OF HAAR LEVERANCIERS
+        IN GEEN GEVAL AANSPRAKELIJK ZIJN VOOR ENIGE DIRECTE, INDIRECTE, PUNITIEVE, INCIDENTELE, SPECIALE,
+        GEVOLGSCHADE OF ENIGE SCHADE WAT DAN OOK, INCLUSIEF MAAR NIET BEPERKT TOT SCHADE VOOR VERLIES VAN
+        GEBRUIK, GEGEVENS OF WINST, VOORTKOMEND UIT OF OP ENIGE WIJZE VERBONDEN MET HET GEBRUIK OF DE
+        PRESTATIES VAN DE [Portal:PortalName] WEBSITE, MET DE VERTRAGING OF ONMOGELIJKHEID OM DE
+        [Portal:PortalName] WEBSITE OF GERELATEERDE DIENSTEN TE GEBRUIKEN, HET VERLENEN OF HET NIET VERLENEN
+        VAN DIENSTEN, OF VOOR ENIGE INFORMATIE, SOFTWARE, PRODUCTEN, DIENSTEN EN GERELATEERDE GRAFISCHE
+        ELEMENTEN VERKREGEN VIA DE [Portal:PortalName] WEBSITE, OF ANDERSZINS VOORTKOMEND UIT HET GEBRUIK
+        VAN DE [Portal:PortalName] WEBSITE, ONGEACHT OF DIT IS GEBASEERD OP CONTRACT, ONRECHTMATIGE DAAD,
+        NALATIGHEID, STRIKTE AANSPRAKELIJKHEID OF ANDERSZINS, ZELFS ALS [Portal:PortalName] OF EEN VAN HAAR
+        LEVERANCIERS OP DE HOOGTE IS GESTELD VAN DE MOGELIJKHEID VAN SCHADE. OMDAT SOMMIGE STATEN/JURISDICTIES
+        DE UITSLUITING OF BEPERKING VAN AANSPRAKELIJKHEID VOOR GEVOLGSCHADE OF INCIDENTELE SCHADE NIET TOESTAAN,
+        KAN DE BOVENSTAANDE BEPERKING NIET OP JOU VAN TOEPASSING ZIJN. ALS JE NIET TEVREDEN BENT MET ENIG
+        DEEL VAN DE [Portal:PortalName] WEBSITE, OF MET ENIGE VAN DEZE GEBRUIKSVOORWAARDEN, IS JE ENIGE EN
+        UITSLUITENDE RECHTSMIDDEL HET STOPPEN VAN HET GEBRUIK VAN DE [Portal:PortalName] WEBSITE.&lt;/p&gt;
+        &lt;p&gt;SERVICE CONTACT : [Portal:Email]&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;BEËINDIGING/TOEGANGSBEPERKING&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;[Portal:PortalName] behoudt zich het recht voor, naar eigen goeddunken, om je toegang tot de [Portal:PortalName] website en de gerelateerde diensten of enig deel daarvan op elk moment zonder kennisgeving te beëindigen. ALGEMEEN Voor zover maximaal toegestaan door de wet, wordt deze overeenkomst beheerst door de wetten van de staat Washington, VS, en stem je ermee in dat de exclusieve jurisdictie en locatie van rechtbanken in San Mateo County, Californië, VS, van toepassing zijn op alle geschillen die voortvloeien uit of verband houden met het gebruik van de [Portal:PortalName] website. Gebruik van de [Portal:PortalName] website is niet toegestaan in enig rechtsgebied dat geen uitvoering geeft aan alle bepalingen van deze voorwaarden, inclusief maar niet beperkt tot deze paragraaf. Je stemt ermee in dat er geen joint venture, partnerschap, dienstverband of agentuurrelatie bestaat tussen jou en [Portal:PortalName] als gevolg van deze overeenkomst of het gebruik van de [Portal:PortalName] website. De uitvoering van deze overeenkomst door [Portal:PortalName] is onderworpen aan bestaande wetten en juridische procedures, en niets in deze overeenkomst doet afbreuk aan het recht van [Portal:PortalName] om te voldoen aan overheids-, gerechtelijke en wetshandhavingsverzoeken of vereisten met betrekking tot jouw gebruik van de [Portal:PortalName] website of informatie die aan [Portal:PortalName] is verstrekt of verzameld met betrekking tot dergelijk gebruik. Indien enig deel van deze overeenkomst ongeldig of onafdwingbaar wordt verklaard volgens toepasselijk recht, inclusief maar niet beperkt tot de hierboven uiteengezette garantie-uitsluitingen en aansprakelijkheidsbeperkingen, zal de ongeldige of onafdwingbare bepaling worden vervangen door een geldige, afdwingbare bepaling die het meest overeenkomt met de bedoeling van de oorspronkelijke bepaling en blijft de rest van de overeenkomst van kracht. Tenzij anders vermeld hierin, vormt deze overeenkomst de volledige overeenkomst tussen de gebruiker en [Portal:PortalName] met betrekking tot de [Portal:PortalName] website en vervangt deze alle eerdere of gelijktijdige communicatie en voorstellen, elektronisch, mondeling of schriftelijk, tussen de gebruiker en [Portal:PortalName] met betrekking tot de [Portal:PortalName] website. Een gedrukte versie van deze overeenkomst en van elke kennisgeving die in elektronische vorm is gegeven, is toelaatbaar in gerechtelijke of administratieve procedures die gebaseerd zijn op of verband houden met deze overeenkomst, in dezelfde mate en onder dezelfde voorwaarden als andere zakelijke documenten en dossiers die oorspronkelijk in gedrukte vorm zijn gegenereerd en bewaard. Het is de uitdrukkelijke wens van de partijen dat deze overeenkomst en alle gerelateerde documenten in het Engels worden opgesteld.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;AUTEURSRECHT EN HANDELSMERKEN:&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;Alle inhoud van de [Portal:PortalName] website is: [Portal:FooterText] en/of haar leveranciers. Alle rechten voorbehouden.&lt;/p&gt;
+        &lt;p&gt;&lt;span class="SubHead"&gt;HANDELSMERKEN&lt;/span&gt;&lt;/p&gt;
+        &lt;p&gt;De namen van feitelijke bedrijven en producten die hierin worden genoemd, kunnen handelsmerken zijn van hun respectievelijke eigenaren.&lt;/p&gt;
+        &lt;p&gt;De voorbeeldbedrijven, organisaties, producten, personen en gebeurtenissen die hierin worden afgebeeld, zijn fictief. Geen enkele associatie met een echt bedrijf, organisatie, product, persoon of gebeurtenis is bedoeld of mag worden afgeleid.&lt;/p&gt;
+        &lt;p&gt;Alle rechten die hierin niet uitdrukkelijk zijn verleend, zijn voorbehouden.&lt;/p&gt;
+    &lt;/div&gt;</value>
+  </data>
+  <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text" xml:space="preserve">
+    <value>Om je wachtwoord op te kunnen vragen moet je jouw gebruikersnaam opgeven en een antwoord op de wachtwoord vraag.</value>
+  </data>
+  <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text" xml:space="preserve">
+    <value>Verifieer je e-mailadreswijziging door je wachtwoord opnieuw in te voeren.</value>
+  </data>
+  <data name="ModuleGenericActions.Action" xml:space="preserve">
+    <value>Beheer</value>
+  </data>
+  <data name="ModuleHelp.Action" xml:space="preserve">
+    <value>Help</value>
+  </data>
+  <data name="ModulePermissions.Action" xml:space="preserve">
+    <value>Machtigingen</value>
+  </data>
+  <data name="ModuleSettings.Action" xml:space="preserve">
+    <value>Instellingen</value>
+  </data>
+  <data name="ModuleSpecificActions.Action" xml:space="preserve">
+    <value>Wijzigen</value>
+  </data>
+  <data name="MoveBottom.Action" xml:space="preserve">
+    <value>Onderste</value>
+  </data>
+  <data name="MoveDown.Action" xml:space="preserve">
+    <value>Omlaag</value>
+  </data>
+  <data name="MovePane.Action" xml:space="preserve">
+    <value>Naar</value>
+  </data>
+  <data name="MoveRoot.Action" xml:space="preserve">
+    <value>Verplaats</value>
+  </data>
+  <data name="MoveTop.Action" xml:space="preserve">
+    <value>Bovenste</value>
+  </data>
+  <data name="MoveToPane.Action" xml:space="preserve">
+    <value>Naar {0}</value>
+  </data>
+  <data name="MoveUp.Action" xml:space="preserve">
+    <value>Omhoog</value>
+  </data>
+  <data name="NativeName.Text" xml:space="preserve">
+    <value>Oorspronkelijke naam</value>
+  </data>
+  <data name="NeutralCulture.Text" xml:space="preserve">
+    <value>Neutrale taal</value>
+  </data>
+  <data name="NoErrorsSending.Text" xml:space="preserve">
+    <value>Geen fouten opgetreden tijdens versturen</value>
+  </data>
+  <data name="NoLoginControl.Text" xml:space="preserve">
+    <value>Je bent naar deze standaard inlogpagina omgeleid omdat deze website geen geldige Login Module bevat, of omdat de machtigingen onjuist zijn ingesteld.</value>
+  </data>
+  <data name="NoSitesForThisInstallation.Error" xml:space="preserve">
+    <value>Er bestaan op dit moment geen sites voor deze installatie.</value>
+  </data>
+  <data name="OnlineHelp.Action" xml:space="preserve">
+    <value>Online hulp</value>
+  </data>
+  <data name="PortalLinks.Text" xml:space="preserve">
+    <value>Portaal koppelingen</value>
+  </data>
+  <data name="PrintModule.Action" xml:space="preserve">
+    <value>Afdrukken</value>
+  </data>
+  <data name="PurgeCacheUnsupported.Text" xml:space="preserve">
+    <value>Deze caching provider gebruikt the PurgeCache functionaliteit niet.</value>
+  </data>
+  <data name="ReflectionPermission.Text" xml:space="preserve">
+    <value>Deze bestandsextensie vereist reflectie rechten.</value>
+  </data>
+  <data name="Relationship_Added.Text" xml:space="preserve">
+    <value>Heeft relatie toegevoegd {0}</value>
+  </data>
+  <data name="Relationship_Deleted.Text" xml:space="preserve">
+    <value>Heeft relatie verwijderd {0} : ID {1}</value>
+  </data>
+  <data name="Relationship_Updated.Text" xml:space="preserve">
+    <value>Bijgewerkte relatie: {0}</value>
+  </data>
+  <data name="RelationshipType_Added.Text" xml:space="preserve">
+    <value>Relatietype toegevoegd: {0}</value>
+  </data>
+  <data name="RelationshipType_Deleted.Text" xml:space="preserve">
+    <value>Relatietype verwijderd {0} : ID {1}</value>
+  </data>
+  <data name="RelationshipType_Updated.Text" xml:space="preserve">
+    <value>Bijgewerkte relatietype: {0}</value>
+  </data>
+  <data name="Return.Text" xml:space="preserve">
+    <value>Terug naar website</value>
+  </data>
+  <data name="SearchCrawler Admin.String" xml:space="preserve">
+    <value>Zoekmachine beheren</value>
+  </data>
+  <data name="SiteAccessedWhileInstallationWasInProgress.Error" xml:space="preserve">
+    <value>Deze site is bezocht terwijl er een installatie of upgrade werd uitgevoerd.</value>
+  </data>
+  <data name="SkinLoadError.Text" xml:space="preserve">
+    <value>Thema {0}, kan niet worden geladen. Fout: {1}&lt;br/&gt;</value>
+  </data>
+  <data name="SyndicateModule.Action" xml:space="preserve">
+    <value>Syndicatie</value>
+  </data>
+  <data name="ThereIsAInstallationCurrentlyInProgress.Error" xml:space="preserve">
+    <value>Op dit moment wordt er een installatie uitgevoerd. Probeer het op een later moment nogmaals.</value>
+  </data>
+  <data name="TokenReplaceRestrictedProperty.Text" xml:space="preserve">
+    <value>Fout bij toegang tot [{0}:{1}]: De toegang tot {1} is afgeschermd voor databron {0}.</value>
+  </data>
+  <data name="TokenReplaceUnknownObject.Text" xml:space="preserve">
+    <value>Fout bij toegang tot [{0}:{1}]: {0} is een onbekend object token.</value>
+  </data>
+  <data name="TokenReplaceUnknownProperty.Text" xml:space="preserve">
+    <value>Fout bij toegang tot [{0}:{1}]: {1} is onbekend voor databron {0}.</value>
+  </data>
+  <data name="TrackClicks.Text" xml:space="preserve">
+    <value>Het aantal keer dat de link is aangeklikt bijhouden.</value>
+  </data>
+  <data name="Translate.Action" xml:space="preserve">
+    <value>Markeer als vertaald</value>
+  </data>
+  <data name="UnhandledError.Text" xml:space="preserve">
+    <value>Er is een niet afgehandelde fout opgetreden.</value>
+  </data>
+  <data name="UnTranslate.Action" xml:space="preserve">
+    <value>Markeer als niet vertaald</value>
+  </data>
+  <data name="UrlPathNotUnique.Error" xml:space="preserve">
+    <value>De toegevoegde URL is niet beschikbaar. Als je het voorgestelde alternatief wilt accepteren, klik dan op opslaan.</value>
+  </data>
+  <data name="UserRelationship_Added.Text" xml:space="preserve">
+    <value>Toegevoegde UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
+  </data>
+  <data name="UserRelationship_Deleted.Text" xml:space="preserve">
+    <value>Verwijderde UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
+  </data>
+  <data name="UserRelationship_Updated.Text" xml:space="preserve">
+    <value>Bijgewerkte UserRelationship ID {0} voor UserID {1}, RelatedUserID {2}</value>
+  </data>
+  <data name="UserRelationshipPreference_Added.Text" xml:space="preserve">
+    <value>Toegevoegde UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
+  </data>
+  <data name="UserRelationshipPreference_Deleted.Text" xml:space="preserve">
+    <value>Verwijderde UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
+  </data>
+  <data name="UserRelationshipPreference_Updated.Text" xml:space="preserve">
+    <value>Bijgewerkte UserRelationshipPreference ID {0} voor User ID {1} en relatie ID {2}</value>
+  </data>
+  <data name="View Folder.Permission" xml:space="preserve">
+    <value>Open bestanden in map</value>
+  </data>
+  <data name="View Tab.Permission" xml:space="preserve">
+    <value>Paginaweergave</value>
+  </data>
+  <data name="View.Permission" xml:space="preserve">
+    <value>Module bekijken</value>
+  </data>
+  <data name="ViewSource.Action" xml:space="preserve">
+    <value>Broncode bekijken</value>
+  </data>
+  <data name="WebPermission.Text" xml:space="preserve">
+    <value>Deze uitbreiding vereist webrechten.</value>
+  </data>
+  <data name="Write to Folder.Permission" xml:space="preserve">
+    <value>Schrijf bestanden in map</value>
   </data>
   <data name="MESSAGE_LOGIN_INSTRUCTIONS.Text">
     <value>
@@ -1274,12 +1274,12 @@ SOFTWARE.&lt;/p&gt;</value>
     </value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_BODY.Text">
-    <value>
-De volgende gebruiker heeft een Wachtwoord Reset Token opgevraagd van [Portal:PortalName], maar de gebruiker wacht nog op goedkeuring.
-Gebruikersnaam: [User:UserName]
-Weergavenaam: [User:DisplayName]
-
-Beoordeel deze gebruiker. Wanneer je de gebruiker goedkeurt moet je een (nieuwe) wachtwoord reset e-mail sturen.
+    <value>
+De volgende gebruiker heeft een Wachtwoord Reset Token opgevraagd van [Portal:PortalName], maar de gebruiker wacht nog op goedkeuring.
+Gebruikersnaam: [User:UserName]
+Weergavenaam: [User:DisplayName]
+
+Beoordeel deze gebruiker. Wanneer je de gebruiker goedkeurt moet je een (nieuwe) wachtwoord reset e-mail sturen.
     </value>
   </data>
   <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_SUBJECT.Text">
